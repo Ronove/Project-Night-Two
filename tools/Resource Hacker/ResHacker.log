@@ -1,0 +1,6 @@
+[03 Jun 2012, 00:37:30]
+"tools\Resource Hacker\ResHacker.exe"  -modify onscripter-en/onscripter-en.exe, build/Higanbana2English/onscripter-en.exe, icon\icon.ico, icon, 101,
+Warning: Icon images cannot be manipulated directly, assumes IconGroup.
+  Modified: ICONGROUP,101,1033
+
+Commands completed

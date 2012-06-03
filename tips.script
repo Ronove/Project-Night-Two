@@ -1,0 +1,297 @@
+;Tips
+*tips
+   E_A                                 ;現在演奏中の曲をストッ プする
+   setwindow 31,16,22,16,22,22,0,2,20,1,1,#ffffff,0,0,639,479
+   textclear
+   rmode 0                              ;右クリックメニューの無効化
+   erasetextwindow 0                    
+   csp -1                               ;スプライト画像の、メモリからの消去
+   btndef ""                            ;ボタン画像の、メモリからの消去
+
+   ;新規告知フラグを切る
+   if %END_TIPS_FLG < 2 : mov %END_TIPS_FLG,2
+
+   ;画面の入り方演出＋SE
+   seplay 9,82
+   seplay 10,82
+   bg black,4
+
+   ;データセット
+   mov %tips_cha_change,0
+   mov %tips_cha_max,15 ;TIPSのキャラ数
+   mov %tips_cha_view,1 ;最初に表示するキャラ番号（キャラ番号はこのテキストにある*tips_cha_modeのサブルーチン参照）
+
+	;ランダムでBGMを再生
+	rnd2 %ran,1,2
+	if %ran = 1 mov $BGM_Play,"bgm0\d_7.ogg": mov %Set_vol,85 : gosub *BGM_Play_Mord
+	if %ran = 2 mov $BGM_Play,"bgm0\d_10.ogg": mov %Set_vol,75  : gosub *BGM_Play_Mord
+;	if %ran = 3 mov $BGM_Play,"bgm0\d_25.ogg" : mov %Set_vol,75 : gosub *BGM_Play_Mord
+~
+
+*tips_loop_1
+  ;基本ボタン画像の表示
+  mov %Free4,410
+  lsp 890,":c;bmp\r_click\r_back.bmp",-0,100,40 ;バックの画像
+  lsp 850,":c;bmp\r_click\text\txt_def.bmp",315,29 ;テキストバックの画像
+  lsp 101,":a/2,0,3;bmp\r_click\btn\Left.BMP",330,%Free4 -10 ;前の画像へ101
+  lsp 102,":a/2,0,3;bmp\r_click\btn\Right.BMP",400,%Free4 -10 ;次の画像へ102
+;  lsp 853,":c/2,0,3;bmp\r_click\btn\tips.BMP",460,%Free4 ;用語説明？853
+  lsp rmenu_btn_Exit,":a/2,0,3;bmp\r_click\btn\exit.BMP",480,%Free4 + 20,230 ;Exit
+  gosub *tips_cha_mode ;表示画像などの読み込み
+
+	;ボタン初期化？
+	btndef ""
+	;スプライトをボタンにする
+	spbtn 101,1 ;back
+	spbtn 102,2 ;next
+;	spbtn 853,3 ;用語解説へ
+	spbtn rmenu_btn_Exit,4 ;exit
+	spbtn rmenu_back + 2,5 ;チェンジボタン
+;	  lsp rmenu_back+2,":a/2,0,3;bmp\r_click\btn\change.BMP",480,400,230 ;Exit
+
+	btnwait2 %BtnRes 
+		if %BtnRes = -1 : goto *tips_mode_end ;右クリック
+		if %BtnRes = 0 : goto *tips_loop_1 ;左クリック？
+		if %BtnRes = 1 se1v 1010,40 : gosub *tips_back : gosub *tips_cha_mode ;バック
+		if %BtnRes = 2 se1v 1010,40 : gosub *tips_next : gosub *tips_cha_mode ;ネクスト
+		if %BtnRes = 4  goto *tips_mode_end ;exit
+		if %BtnRes = 5  gosub *change_tips : gosub *tips_cha_mode ;exit
+
+  goto *tips_loop_1 ;ループポイントへ戻る
+
+reset
+
+
+;チェンジ処理
+*change_tips
+	inc %tips_cha_change
+	if %tips_cha_change = 2 : mov %tips_cha_change,0
+return
+
+;*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+;バックが押された時の処理（サブルーチン
+;*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+*tips_back
+	  dec %tips_cha_view ;表示キャラ番号をー１
+
+	 ;もし表示キャラが０になったら（最初に表示されるキャラでバックが押されたら）
+	 ;最後に表示するキャラの番号（%tips_cha_max）を入れる
+	  if %tips_cha_view = 0 : mov %tips_cha_view,%tips_cha_max
+return
+
+;*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+;ネクストが押された時の処理（サブルーチン
+;*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+*tips_next
+	  inc %tips_cha_view ;表示キャラ番号を+１
+
+	 ;もし表示キャラが最大（%tips_cha_max＋１）になったら
+	 ;最初に表示するキャラの番号（１）を入れる
+	  if %tips_cha_view = %tips_cha_max + 1 : mov %tips_cha_view,1
+return
+
+
+
+
+
+;*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+*tips_cha_mode ;キャラ切り替えルーチン
+;*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+  ;tips_cha_viewの順にキャラが切り変わっていきます。
+  ;新キャラを登録するときは、下のスクリプトにキャラとキャラテキストを足していって下さい。
+  ;（あと、上の方のキャラマックスを増やしておいてください。
+
+;座標設定
+  mov %Free1,0 ;キャラのY座標（共通。Xはデータによってまちまちなため、数値は直接入力）
+  mov %Free2,345 ;テキスト表示のX座標
+  mov %Free3,50 ;テキスト表示のY座標
+
+;２夜
+;**********************************************************************************
+;マリエ夜
+  notif %tips_cha_view = 1 jumpf
+
+	  lsp rmenu_back+1,":a;bmp\r_click\cha_tati\mar_2_face.bmp",-135,-70,70	
+
+	  lsp rmenu_btn1,":a;bmp\r_click\cha_tati\mar_2.bmp",110,%Free1 + 3
+	  lsp rmenu_back,":a;bmp\r_click\text\cha\mar_2.bmp",%Free2,%Free3 
+	  ;（rmenu_btn1はキャラを右クリックでキャラする共通スプライト番号です）
+  ~
+;教頭
+  notif %tips_cha_view = 2 jumpf
+
+	  lsp rmenu_back+1,":a;bmp\r_click\cha_tati\si2_1_face.bmp",-100,-40,70	
+
+	  lsp rmenu_btn1,":a;bmp\r_click\cha_tati\si2_1.bmp",105,%Free1 
+	  lsp rmenu_back,":a;bmp\r_click\text\cha\si2_1.bmp",%Free2,%Free3 
+	  ;（rmenu_btn1はキャラを右クリックでキャラする共通スプライト番号です）
+  ~
+;イザナミ
+  notif %tips_cha_view = 3 jumpf
+
+	  lsp rmenu_back+1,":a;bmp\r_click\cha_tati\iza_1_face.bmp",-140,-50,70	
+
+	  lsp rmenu_btn1,":a;bmp\r_click\cha_tati\iza_1.bmp",100,%Free1 
+	  lsp rmenu_back,":a;bmp\r_click\text\cha\iza_1.bmp",%Free2,%Free3 
+	  ;（rmenu_btn1はキャラを右クリックでキャラする共通スプライト番号です）
+  ~
+;イザナミ2
+  notif %tips_cha_view = 4 jumpf
+
+	  lsp rmenu_back+1,":a;bmp\r_click\cha_tati\iza_2_face.bmp",-140,-50,70	
+
+	  lsp rmenu_btn1,":a;bmp\r_click\cha_tati\iza_2.bmp",100,%Free1 
+	  lsp rmenu_back,":a;bmp\r_click\text\cha\iza_2.bmp",%Free2,%Free3 
+	  ;（rmenu_btn1はキャラを右クリックでキャラする共通スプライト番号です）
+  ~
+
+;アザミ
+  notif %tips_cha_view = 5 jumpf
+
+	  lsp rmenu_back+1,":a;bmp\r_click\cha_tati\aza_1_face.bmp",-210,0,70	
+
+	  lsp rmenu_btn1,":a;bmp\r_click\cha_tati\aza_1.bmp",65,%Free1 +20
+	  lsp rmenu_back,":a;bmp\r_click\text\cha\aza_1.bmp",%Free2,%Free3 
+	  ;（rmenu_btn1はキャラを右クリックでキャラする共通スプライト番号です）
+  ~
+
+;キョウ
+  notif %tips_cha_view = 6 jumpf
+
+	  lsp rmenu_back+1,":a;bmp\r_click\cha_tati\kyo_1_face.bmp",-270,-70,70	
+
+	  lsp rmenu_btn1,":a;bmp\r_click\cha_tati\kyo_1.bmp",50,%Free1
+	  lsp rmenu_back,":a;bmp\r_click\text\cha\kyo_1.bmp",%Free2,%Free3 
+	  ;（rmenu_btn1はキャラを右クリックでキャラする共通スプライト番号です）
+  ~
+;ルノワール
+  notif %tips_cha_view = 7 jumpf
+	  csp rmenu_back+2
+	  lsp rmenu_back+1,":a;bmp\r_click\cha_tati\run_1_face.bmp",-160,-100,70	
+
+	  lsp rmenu_btn1,":a;bmp\r_click\cha_tati\run_1.bmp",100,%Free1 +3
+	  lsp rmenu_back,":a;bmp\r_click\text\cha\run_1.bmp",%Free2,%Free3 
+	  ;（rmenu_btn1はキャラを右クリックでキャラする共通スプライト番号です）
+  ~
+;あや
+  notif %tips_cha_view = 8 jumpf
+	;通常あや
+	  lsp rmenu_back+2,":a/2,0,3;bmp\r_click\btn\change.BMP",480,400,230 ;Exit
+
+	  lsp rmenu_back+1,":a;bmp\r_click\cha_tati\aya_1_face.bmp",-145,-100,70	
+
+	  lsp rmenu_btn1,":a;bmp\r_click\cha_tati\aya_1.bmp",95,%Free1+1
+	  lsp rmenu_back,":a;bmp\r_click\text\cha\aya_1.bmp",%Free2,%Free3 
+
+	if %tips_cha_change = 0 : jumpf
+	  ;（rmenu_btn1はキャラを右クリックでキャラする共通スプライト番号です）
+
+	  lsp rmenu_back+1,":a;bmp\r_click\cha_tati\ay2_1_face.bmp",-145,-100,70	
+
+	  lsp rmenu_btn1,":a;bmp\r_click\cha_tati\ay2_1.bmp",95,%Free1+1
+	  lsp rmenu_back,":a;bmp\r_click\text\cha\aya_1.bmp",%Free2,%Free3 
+	  ;（rmenu_btn1はキャラを右クリックでキャラする共通スプライト番号です）
+
+  ~
+;のだ
+  notif %tips_cha_view = 9 jumpf
+	  csp rmenu_back+2
+
+	  lsp rmenu_back+1,":a;bmp\r_click\cha_tati\nod_1_face.bmp",-75,-100,70	
+
+	  lsp rmenu_btn1,":a;bmp\r_click\cha_tati\nod_1.bmp",120,%Free1 +4
+	  lsp rmenu_back,":a;bmp\r_click\text\cha\nod_1.bmp",%Free2,%Free3 
+	  ;（rmenu_btn1はキャラを右クリックでキャラする共通スプライト番号です）
+  ~
+;ナフミ
+  notif %tips_cha_view = 10 jumpf
+
+	  lsp rmenu_back+1,":a;bmp\r_click\cha_tati\nah_1_face.bmp",-180,-50,70	
+
+	  lsp rmenu_btn1,":a;bmp\r_click\cha_tati\nah_1.bmp",90,%Free1 + 5
+	  lsp rmenu_back,":a;bmp\r_click\text\cha\nah_1.bmp",%Free2,%Free3 
+	  ;（rmenu_btn1はキャラを右クリックでキャラする共通スプライト番号です）
+  ~
+;岡田
+  notif %tips_cha_view = 11 jumpf
+
+	  lsp rmenu_back+1,":a;bmp\r_click\cha_tati\oka_1_face.bmp",-60,-100,70	
+
+	  lsp rmenu_btn1,":a;bmp\r_click\cha_tati\oka_1.bmp",143,%Free1 
+	  lsp rmenu_back,":a;bmp\r_click\text\cha\oka_1.bmp",%Free2,%Free3 
+	  ;（rmenu_btn1はキャラを右クリックでキャラする共通スプライト番号です）
+  ~
+;吉川
+  notif %tips_cha_view = 12 jumpf
+
+	  lsp rmenu_back+1,":a;bmp\r_click\cha_tati\yos_1_face.bmp",-65,-100,70	
+
+	  lsp rmenu_btn1,":a;bmp\r_click\cha_tati\yos_1.bmp",125,%Free1 
+	  lsp rmenu_back,":a;bmp\r_click\text\cha\yos_1.bmp",%Free2,%Free3 
+	  ;（rmenu_btn1はキャラを右クリックでキャラする共通スプライト番号です）
+  ~
+;有森１
+  notif %tips_cha_view = 13 jumpf
+
+	  lsp rmenu_back+1,":a;bmp\r_click\cha_tati\ari_1_face.bmp",-60,-100,70	
+
+	  lsp rmenu_btn1,":a;bmp\r_click\cha_tati\ari_1.bmp",145,%Free1
+	  lsp rmenu_back,":a;bmp\r_click\text\cha\ari_1.bmp",%Free2,%Free3 
+	  ;（rmenu_btn1はキャラを右クリックでキャラする共通スプライト番号です）
+  ~
+;有森２
+  notif %tips_cha_view = 14 jumpf
+
+	  lsp rmenu_back+1,":a;bmp\r_click\cha_tati\ari_2_face.bmp",-190,-32,70	
+
+	  lsp rmenu_btn1,":a;bmp\r_click\cha_tati\ari_2.bmp",90,%Free1
+	  lsp rmenu_back,":a;bmp\r_click\text\cha\ari_2.bmp",%Free2,%Free3
+	  ;（rmenu_btn1はキャラを右クリックでキャラする共通スプライト番号です）
+  ~
+;彼岸花夜
+  notif %tips_cha_view = 15 jumpf
+
+	  lsp rmenu_back+1,":a;bmp\r_click\cha_tati\hig_2_face.bmp",-270,-70,70	
+
+	  lsp rmenu_btn1,":a;bmp\r_click\cha_tati\hig_2.bmp",50,%Free1 
+	  lsp rmenu_back,":a;bmp\r_click\text\cha\hig_2.bmp",%Free2,%Free3 
+	  ;（rmenu_btn1はキャラを右クリックでキャラする共通スプライト番号です）
+  ~
+
+return
+
+;*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+*tips_mode_end ;エンド処理
+;*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+   ;各設定の初期化
+   csp -1                               ;スプライト画像の、メモリからの消去
+   btndef ""                            ;ボタン画像の、メモリからの消去
+
+   setwindow 31,16,22,16,26,26,0,2,20,1,1,#999999,0,0,639,479
+   erasetextwindow 1
+   rmode 1
+   mono 0
+                                    ;右クリックメニューの有効化
+	E_A
+	seplay 9,82
+	print 1
+   	cl a,1
+	texton
+	if %monoflg = 1 mono 1
+	if %monoflg = 2 mono 2
+	wait 1000
+   mov %title_skip,1
+reset
+;*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+
+
+
+
+
+
+
+
+
