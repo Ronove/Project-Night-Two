@@ -1,23 +1,31 @@
 ;Chapter 1
-　月の美しい夜だった。@
+;　月の美しい夜だった。@
+`　'It was a beautiful moon that night.'`@
 br
-　夜の校舎も大きな満月に彩られると、不気味さの中にも風情が感じられるものだ。\
+;　夜の校舎も大きな満月に彩られると、不気味さの中にも風情が感じられるものだ。\
+`　Even the school building at night was colored by the full moon, and its ominous presence could be felt in the air.`\
 
-　満月には不思議な力があり、妖怪たちをも活発にさせる。@
-　だから満月の夜の学校妖怪たちは上機嫌。@
+;　満月には不思議な力があり、妖怪たちをも活発にさせる。@
+`　The full moon has mysterious powers, and it even invigorates youkai.`@
+;　だから満月の夜の学校妖怪たちは上機嫌。@
+`　And so the school youkai are soothed when the full moon is out.`@
 br
-　時に、殺伐とした魂のやり取りを休み、お月見会などという、風流な催しを開いてみたりもする……。\
+;　時に、殺伐とした魂のやり取りを休み、お月見会などという、風流な催しを開いてみたりもする……。\
+`　Sometimes they even take a break from stealing brutally murdered souls and hold an elegent event known as the Lunar Festival...`\
 
 bg black,22
 bg gakkou_07y,22
 
-「えっと、えっとえっと……！@　もう一度、精神を集中して……。@……うーん………。@……えいッ。@/
+;「えっと、えっとえっと……！@　もう一度、精神を集中して……。@……うーん………。@……えいッ。@/
+`"Ummm, umumum...! `@`One more time, focus your mind... `@`...Mmmhmm... `@`..There~`@/
 
 quakey 1,100
 
-きゃーーーッ、また裸ぁーーーッ！！」@
+;きゃーーーッ、また裸ぁーーーッ！！」@
+`Kyaaaaa, I'm naked agaaaaain!!"`@
 br
-　毬枝の賑やかな叫びが旧校舎に木霊する。\
+;　毬枝の賑やかな叫びが旧校舎に木霊する。\
+`　Marie's lively scream echoes through the old school building.`\
 
 ;bg black,22
 ;bg toire_01,22
@@ -25,66 +33,85 @@ br
 bg black,22
 bg toire_02,22
 
-　めそめそさんのトイレでは、毬枝が余所行きの格好の“着替え”に挑戦していた。\
+;　めそめそさんのトイレでは、毬枝が余所行きの格好の“着替え”に挑戦していた。\
+`　In Mesomeso-san's bathroom, Marie was challenging herself to 'change' into her best outfit.`\
 
 
 
-　妖怪たちの着替えには、ちょっとしたコツがいる。@
-　何しろ妖怪たちは霊的な存在。@本来、その姿は不可視で、肉体は存在さえしないのだ。@
+;　妖怪たちの着替えには、ちょっとしたコツがいる。@
+`　The way youkai change clothes takes a bit of getting used to.`@
+;　何しろ妖怪たちは霊的な存在。@本来、その姿は不可視で、肉体は存在さえしないのだ。@
+`　After all, youkai are incorporeal beings. `@`Their forms are invisible, and their bodies no longer exist.`@
 br
-　だから、服を買ってきて、それを着れば着替え完了とはならない。\
+;　だから、服を買ってきて、それを着れば着替え完了とはならない。\
+`　So they can't go out, buy clothes, and simply change into them.`\
 
 bg black,22
 bg toire_03,22
 ld c,MAR_D2a,22
 ;ld c,MAR_D3a,80
 
-「この服に戻るのは簡単なんだけどなぁ……。@……うーん、よく精神を集中して、もう一度……。」\
+;「この服に戻るのは簡単なんだけどなぁ……。@……うーん、よく精神を集中して、もう一度……。」\
+`"Getting back into this outfit should be easy but... `@`...Okay, concentrate, one more time..."`\ 
 
-　妖怪の服装は、大抵の場合、依り代に大きく依存する。@
+;　妖怪の服装は、大抵の場合、依り代に大きく依存する。@
+`　Usually, youkai outfits depend largely on spirit anchors.`@
 br
-　彼岸花の場合は、依り代となっている西洋人形の服装が基本となる。@
-　そして、死者出身である毬枝の場合、最期の時に着ていた服装が基本だ。\
+;　彼岸花の場合は、依り代となっている西洋人形の服装が基本となる。@
+`　In Higanbana's case, her Western doll is her anchor and the basis for her attire.`@
+;　そして、死者出身である毬枝の場合、最期の時に着ていた服装が基本だ。\
+`　And so for the deceased Marie, her attire is based on the clothes she wore in her final moments.`\
 
 ld c,MAR_i4,80
 
-　それと異なる服装に外見を変えるには、妖力を用いて、自らの外見を装飾しなくてはならない。@
+;　それと異なる服装に外見を変えるには、妖力を用いて、自らの外見を装飾しなくてはならない。@
+`　That means she has to use spiritual energy to change her outer appearance into a different outfit than the one she died in.`@
 br
-　変えたい外見をよくイメージして、精神を集中。@……そして、気合一発！@　えいっ。\
+;　変えたい外見をよくイメージして、精神を集中。@……そして、気合一発！@　えいっ。\
+`　She has to imagine what she wants to look like and gather her spirit. `@`...Then, in a burst of energy! `@`There~!.`\
 
 se1 48
 bg white,1
 ;bg black,22
 bg toire_04,22
 
-　ドロンと煙が出るが、またしても裸に。\
+;　ドロンと煙が出るが、またしても裸に。\
+`　A puff of smoke appears, and she's nude once again.`\
 
 quake 3,300
 
-　別に誰かに見られているわけでもないのだが、@毬枝はきゃーきゃー騒いで、元の服に戻り、そして精神を統一して……、を何度も繰り返している。@
+;　別に誰かに見られているわけでもないのだが、@毬枝はきゃーきゃー騒いで、元の服に戻り、そして精神を統一して……、を何度も繰り返している。@
+`　It's not as though anyone was watching her, `@`but Marie made a racket with her `Kyaaa kyaaa`s. `@`She went back to her old form and focused her spirit... repeating this over and over.`@
 br
-　そこまで難しいことではないはずなのだが、@毬枝は元々、妖力が小さいし、その上、コツも掴んでいないので、なかなか思い通りに出来ないのだ。\
+;　そこまで難しいことではないはずなのだが、@毬枝は元々、妖力が小さいし、その上、コツも掴んでいないので、なかなか思い通りに出来ないのだ。\
+`　It wasn't something that was that hard, `@`but Marie's powers weren't much to begin with. `@`On top of that, since she still hasn't gotten the hang of it, she can't really change when she wants to change.`\
 
 bg black,22
 bg toire_03,0
 ld c,MAR_D2a,22
 ;ld c,MAR_D1,80
 
-「うーん……。@そもそも私、素敵なお洋服って、全然想像できない……。@うーん……。」@
+;「うーん……。@そもそも私、素敵なお洋服って、全然想像できない……。@うーん……。」@
+`"Hmmm... `@`Then again, I can't really imagine myself in a beautiful dress... `@`*Sigh*..."`@
 br
-　あまりファッションに関心のなかった毬枝にとって、余所行きの服装を想像するのは、かなり難しいことなのだ。\
+;　あまりファッションに関心のなかった毬枝にとって、余所行きの服装を想像するのは、かなり難しいことなのだ。\
+`　Since Marie didn't really have an interest in fashion, imagining the best Western clothes is pretty difficult for her.`\
 
 bg black,22
 
-　今夜は、学校妖怪たちのお月見会。@
+;　今夜は、学校妖怪たちのお月見会。@
+`　Tonight is the Lunar Festival for the school youkai.`@
 br
-　普段、ギスギスすることが多い学校妖怪たちも、今夜ばかりは休戦。@仲良くお酒を酌み交わすという、和やかな行事なのだ。\
+;　普段、ギスギスすることが多い学校妖怪たちも、今夜ばかりは休戦。@仲良くお酒を酌み交わすという、和やかな行事なのだ。\
+`　Only for tonigh, even the school youkai that often have conflicts with each other hold truces. `@`It's a harmoneous event where they mingle and drink together.`\
 
 bg toire_06,22
 
-　何だかんだ言って、毬枝は未だに、学校妖怪の全員とは会っていない。@
+;　何だかんだ言って、毬枝は未だに、学校妖怪の全員とは会っていない。@
+`　For whatever reason, Marie still hasn't met all of the school youkai.`@
 br
-　だから、彼らが一堂に会する今日を、とても楽しみにしていた。\
+;　だから、彼らが一堂に会する今日を、とても楽しみにしていた。\
+`　So she was really looking forward to meeting them today when they are all under the same roof.`\
 
 bg black,22
 mono 1
@@ -93,23 +120,29 @@ ld l,MAR_w2,0
 ld r,HIG_D5,22
 
 
-　さぁ、行こう！@　となったら、唐突に彼岸花に言われたのだ。@
+;　さぁ、行こう！@　となったら、唐突に彼岸花に言われたのだ。@
+`　Okay, let's go! `@`Higanbana said suddenly.`@
 br
 ld r,HIG_w4,80
 
-　ねぇ、毬枝。@あなた、そんなやぼったい格好で出掛けるのかしら？って。\
+;　ねぇ、毬枝。@あなた、そんなやぼったい格好で出掛けるのかしら？って。\
+`　She said, Heey Marie. `@`Are you really gonna go out with a shabby outfit like that, I wonder?`\
 
 ld l,MAR_d4a,80
 
-　彼岸花やスミレなどは、結構、立派な格好しているから良いのだが、……言われてみれば、毬枝はただの私服だ。@
+;　彼岸花やスミレなどは、結構、立派な格好しているから良いのだが、……言われてみれば、毬枝はただの私服だ。@
+`　Youkai like Higanbana and Sumire had rather splendid outfits and look fine, ...but to put it bluntly, Marie's clothes are plain.`@
 br
-　無理もない。@その姿で彼女は死に、妖怪になったのだから。\
+;　無理もない。@その姿で彼女は死に、妖怪になったのだから。\
+`　It's understandable. `@`She died and became a youkai in that state after all.`\
 
 ;ld r,HIG_D1,80
 
-　待っててあげるから、少しはマシな格好に着替えてらっしゃい。@要領は今、教えてあげた通り。@大丈夫、慣れれば自由自在よ。@
+;　待っててあげるから、少しはマシな格好に着替えてらっしゃい。@要領は今、教えてあげた通り。@大丈夫、慣れれば自由自在よ。@
+`　We'll wait for you, so go ahead and change into some better clothes. `@`Just do as I taught you. `@`You'll be fine, when you get used to it you can do it whenever!`@
 br
-　………最初の内は彼岸花も廊下で待っててくれたのだが。@あまりに毬枝の要領が悪いので、とうとう愛想を尽かし、先に行ってるわと行ってしまったのだ。\
+;　………最初の内は彼岸花も廊下で待っててくれたのだが。@あまりに毬枝の要領が悪いので、とうとう愛想を尽かし、先に行ってるわと行ってしまったのだ。\
+`　...At first Higanbana waited on her in the hall, `@`but Marie wasn't very good at the basics, so eventually she got impatient and said, "Kay, I'm going on ahead~."`\
 
 bg black,22
 mono 0
@@ -117,31 +150,38 @@ bg toire_03,0
 ld c,MAR_D3,22
 ld c,MAR_D2a,80
 
-「素敵なお洋服とか、全然思いつかない……。@……もうこの際、何でもいいから、とにかく早く着替えないと……。@………とにかく何でもいいから、……いいから……。」\
+;「素敵なお洋服とか、全然思いつかない……。@……もうこの際、何でもいいから、とにかく早く着替えないと……。@………とにかく何でもいいから、……いいから……。」\
+`"I can't think of any pretty dresses... `@`At this point anything would be fine, so I have to hurry up and change or... `@`Anyway, anything is good... anything..."`\
 
 bg black,22
 ld r,HIG_d5,22
 ;ld r,HIG_D1,80
 
-　素敵なドレスとか憧れるけれど、どうせ自分には似合わないに決まってる。@
+;　素敵なドレスとか憧れるけれど、どうせ自分には似合わないに決まってる。@
+`　I might want a pretty dress, but it's obvious it doesn't suit me.`@
 br
-　何を着れば似合うかな、何を着れば似合うかな……。@思い付かない。\
+;　何を着れば似合うかな、何を着れば似合うかな……。@思い付かない。\
+`　What should I change into, what should I change into... `@`I have no idea.`\
 
 mov %SMI_Isyou,2
 cl r,0
 ld l,SMI_w1,22
 ;ld l,SMI_D1,80
 
-　……素敵なお洋服とは言わないまでも。@……今日のお月見会に相応しい格好って何だろう。@
+;　……素敵なお洋服とは言わないまでも。@……今日のお月見会に相応しい格好って何だろう。@
+`　...Even if it's not a pretty dress, `@`I wonder what would be best to wear today on the Lunar Festival.`@
 br
-　和服なんて着たことないから、イメージできないし……。\
+;　和服なんて着たことないから、イメージできないし……。\
+`　I haven't worn a kimono before, so I can't imagine myself in one...`\
 
 bg black,22
 bg toire_04,22
 
-　……そっか。@考えてみたら、学校妖怪のビリっけつに加えてもらって、全員の前で挨拶するのは、これが初めてなんだ。@
+;　……そっか。@考えてみたら、学校妖怪のビリっけつに加えてもらって、全員の前で挨拶するのは、これが初めてなんだ。@
+`　...Oh yeah. `@`Now that I think of it, since they let me become the last school youkai, this is the first time I'll be greeting them face to face.`@
 br
-　てっきり、お月様を見ながらお団子でも食べられるなんて思っていたけれど、とんでもない。@私は学校妖怪の新人で後輩。@粗相がないように気を付けなくちゃ…！\
+;　てっきり、お月様を見ながらお団子でも食べられるなんて思っていたけれど、とんでもない。@私は学校妖怪の新人で後輩。@粗相がないように気を付けなくちゃ…！\
+`　Even though I had been thinking of eating sweet dumplings while gazing at the lovely moon, that's not what really matters! `@`I'm the new school youkai and they are my seniors. `@`I've gotta be careful not to make any mistakes!...`\
 
 bg black,22
 bg toire_03,0
@@ -149,11 +189,14 @@ ld c,MAR_i4a,22
 ;ld c,MAR_D1,80
 
 
-　浮かれた服はダメ、ぴしっとしたのじゃないとダメ……。@
+;　浮かれた服はダメ、ぴしっとしたのじゃないとダメ……。@
+`　I can't wear festive clothes, I can't wear clothes that aren't neat...`@
 br
-　ぴしっとしたの、しっかりしたの、真面目なの、……。@
+;　ぴしっとしたの、しっかりしたの、真面目なの、……。@
+`　I need something neat, appropriate, serious...`@
 br
-　うーんうーんうーん………。\
+;　うーんうーんうーん………。\
+`　Hmmm Hmmm Hmmm...`\
 
 se1 22
 
@@ -161,9 +204,11 @@ bg white,1
 ;bg black,22
 bg toire_07,22
 
-　ドロン。@
+;　ドロン。@
+`　Poof.`@
 br
-　ようやく毬枝が着替えに成功した時には、もう、お月見会の始まりから１時間以上も経っていた。\
+;　ようやく毬枝が着替えに成功した時には、もう、お月見会の始まりから１時間以上も経っていた。\
+`　When Marie finally succeeded in changing clothes, the Lunar Festival had already been going on for more than an hour.`\
 
 bg black,22
 fede 0,1000
@@ -174,9 +219,11 @@ bg toire_01,24
 bg black,24
 bg k_kaidan_01,24
 
-　毬枝はそのままトイレを飛び出し、階段を駆け上がる。@
+;　毬枝はそのままトイレを飛び出し、階段を駆け上がる。@
+`　Marie rushes out of the bathroom, and runs up the stairs.`@
 br
-　会場は屋上。@満月がもっとも映える、旧校舎屋上だ。\
+;　会場は屋上。@満月がもっとも映える、旧校舎屋上だ。\
+`　The meeting place is the roof. `@`The old school building's roof is where the full moon shines the brightest.`\
 
 se1 16
 
@@ -185,9 +232,11 @@ bg black,24
 
 me1v 5,50
 
-「お、遅くなってすみませんでしたっ！！」@
+;「お、遅くなってすみませんでしたっ！！」@
+`"I- I'm sorry for being laaaate!!"`@
 br
-　屋上へ躍り出ると。@そこには不思議な光景が広がっていた……。\
+;　屋上へ躍り出ると。@そこには不思議な光景が広がっていた……。\
+`　She springs out onto the roof. `@`There, a strange scene was unfolding...`\
 
 fede 0,1000
 E_A
@@ -196,20 +245,28 @@ bg okujou_04,22
 
 bgm1 31
 
-　普段なら、何もない、ひび割れたコンクリートの無機質な屋上が広がっているだけなのに。@
+;　普段なら、何もない、ひび割れたコンクリートの無機質な屋上が広がっているだけなのに。@
+`　Even though normally a roof empty of anything but cracked concrete and inorganic matter should have spread before her...`@
 br
-　儚くも美しい、黄泉の桜が、その大樹を茂らせ、満開の花を開いている。\
+;　儚くも美しい、黄泉の桜が、その大樹を茂らせ、満開の花を開いている。\
+`　Vividly beautiful sakura from the underworld were in full bloom and covering a huge tree.`\
 
-　その白く、ほんのりと淡い光を放つ花びらの絨毯は、あまりに幻想的で美しい……。@
+;　その白く、ほんのりと淡い光を放つ花びらの絨毯は、あまりに幻想的で美しい……。@
+`　That sea of white flower petals gave off a faint glow, and they were magically beautiful...`@
 br
-　その、幻想のような、満開の桜の下で、妖怪たちが大きな車座となって、杯を傾けている。\
+;　その、幻想のような、満開の桜の下で、妖怪たちが大きな車座となって、杯を傾けている。\
+`　Beneath those illusionary fully-bloom sakura, the youkai were sitting in a circle and indulging themselves with glasses of sake.`\ 
 
-　幻想的ではあっても、決して厳か過ぎず。@
-　宴席ではあっても、決して騒ぎ過ぎず。@
+;　幻想的ではあっても、決して厳か過ぎず。@
+`　It has its majesty, but it's not too extravagent.`@
+;　宴席ではあっても、決して騒ぎ過ぎず。@
+`　They were having a banquet, but they're not too noisy.`@
 br
-　人の命を奪うことも厭わない妖怪たちが、今夜だけはそれを忘れる、@ささやかな一時が、そこにはあった……。\
+;　人の命を奪うことも厭わない妖怪たちが、今夜だけはそれを忘れる、@ささやかな一時が、そこにはあった……。\
+`　Those youkai who had no quams about stealing people's lives away, leave that behind just for tonight. `@`This was a time for modesty...`\
 
-　みんな、ほろ酔い気分らしく、それぞれのお喋りに夢中で、毬枝の登場に気付いていないようだった。\
+;　みんな、ほろ酔い気分らしく、それぞれのお喋りに夢中で、毬枝の登場に気付いていないようだった。\
+`　It seemed everyone was slightly intoxicated and engrossed in each other's conversations, so they hadn't noticed Marie's entrance.`\
 
 bg black,22
 
@@ -220,15 +277,18 @@ bg okujou_01y,22
 ld l,HIG_D2,22
 ld l,HIG_d4,80
 
-「遅いわよ、毬枝。@って、………なぁに、その格好？」\
+;「遅いわよ、毬枝。@って、………なぁに、その格好？」\
+`"You're late Marie. `@`And ...what's with the geddup?"`\
 ;cl c,0
 ;ld l,HIG_D2,0
 ld r,ma2_n1,24
 ;ld r,ma2_D1,80
 
-「ご、ごめんなさい…！！@　何度、挑戦しても、全然ダメだったんですー！@　これでもう許して下さいぃぃ！」@
+;「ご、ごめんなさい…！！@　何度、挑戦しても、全然ダメだったんですー！@　これでもう許して下さいぃぃ！」@
+`"I- I'm sorry!! `@`No matter how much I tried, nothing worked! `@`Please just let me go like thiiiiis!"`@
 br
-　１時間以上も挑戦して、毬枝がようやく成功したその服装は、…………中学か高校の制服っぽく見えた。\
+;　１時間以上も挑戦して、毬枝がようやく成功したその服装は、…………中学か高校の制服っぽく見えた。\
+`　The outfit that Marie had finally succeeded after trying for more than an hour... looked just like a middle school or high school uniform.`\
 
 bg black,24
 bg okujou_02,24
@@ -237,24 +297,28 @@ ld c,SAK_D2,80
 se1 47
 quakey 1,100
 
-「うりゅー！@　素敵だよ、毬枝っ。@まるで高校生みたいだよ！」@
+;「うりゅー！@　素敵だよ、毬枝っ。@まるで高校生みたいだよ！」@
+`"Uryu-! `@`Wonderful, Marie. `@`You almost look like you're in high school!"`@
 ;＜さくのしん
 
 ld r,HOK_D3,24
 ld r,HOK_D2,80
 
-「その服、……県立高の制服にそっくりだわ。」@
+;「その服、……県立高の制服にそっくりだわ。」@
+`"That outfit... it looks just like a uniform from an expensive private school."`@
 ;＜保健
 
 mld l,ma2_D4a,23
 ;mld l,ma2_i1a,80
 
-「え？！@　ほ、保健室の先生ですよね？！@　どうしてここに？！」\
+;「え？！@　ほ、保健室の先生ですよね？！@　どうしてここに？！」\
+`"Wha?! `@`Y- You're the school nurse right?! `@`Why are you here?!"`\
 ;＜毬枝
 
 ld r,HOK_D4,80
 
-「まーまー、硬いこと言わないのー。@いーじゃない、私が混じっても。@お酒もお月見も大好きなんだからー！」\
+;「まーまー、硬いこと言わないのー。@いーじゃない、私が混じっても。@お酒もお月見も大好きなんだからー！」\
+`"Hey hey, don't say such rash things. `@`Isn't it alright if I mingle a bit? `@`I love sake and gazing at the moon after all!-"`\
 ;＜保健
 
 mcl l,0
@@ -263,11 +327,14 @@ bg okujou_01y,0
 ld r,HIG_D5,23
 ld r,HIG_w3,80
 
-「ふぅん。@……なるほど。@あなたのお姉さんが通っていた高校の制服、なのね。」@
+;「ふぅん。@……なるほど。@あなたのお姉さんが通っていた高校の制服、なのね。」@
+`"Oooh. `@`...I get it. `@`That's the uniform your sister went to school with, am I right?"`@
 ;＜彼岸花
 br
-　彼岸花が毬枝の心を読み、口にする。@
-　それを聞き、ようやく毬枝は、どうしてこの服になったのかを理解した。\
+;　彼岸花が毬枝の心を読み、口にする。@
+`　Higanbana says as she reads Marie's mind.`@
+;　それを聞き、ようやく毬枝は、どうしてこの服になったのかを理解した。\
+`　Hearing that, Marie at last realized why she ended up in those clothes.`\
 
 bg black,22
 mld c,ma2_D4a,22
