@@ -339,9 +339,11 @@ br
 bg black,22
 mld c,ma2_D4a,22
 
-　毬枝のその服は、地元の県立高校の制服をイメージしたものだ。@
+;　毬枝のその服は、地元の県立高校の制服をイメージしたものだ。@
+`　Her clothes were based on the local prefectoral high school's uniforms.`@
 br
-　本物とは少し細部が違うかもしれないが、@……姉が着ていて、自分もいつか着たいと憧れ、夢見ていた服装そのものなのだ。\
+;　本物とは少し細部が違うかもしれないが、@……姉が着ていて、自分もいつか着たいと憧れ、夢見ていた服装そのものなのだ。\
+`　Although it might have some minor differences, `@`...that outfit was something her sister had worn, and at some point Marie wanted it and dreamed of wearing it.`\
 
 ;bg black,22
 bg okujou_01y,0
@@ -349,38 +351,46 @@ ld r,HIG_D1,22
 
 mld c,ma2_D3a,80
 
-「素敵なドレスなんて思い付かないし……。@なら、少し真面目な服にならないかなと思ったらこんな服に……。」\
+;「素敵なドレスなんて思い付かないし……。@なら、少し真面目な服にならないかなと思ったらこんな服に……。」\
+`"I couldn't really think of a pretty dress... `@`And after thinking I had to wear something more cordial, it turned out like this..."`\ 
 ;＜毬枝
 
 ld r,HIG_D3,80
 
-「違うわね。@毬枝がその服を選んだのは、憧れていたからよ。」@
+;「違うわね。@毬枝がその服を選んだのは、憧れていたからよ。」@
+`"You're wrong. `@`You picked out those clothes because you wanted to wear them!"`@
 ;＜彼岸花
 
 ld l,SAK_k2,22
 ;ld c,SAK_D1,80
 
-「………そうみたいだね。@……毬枝はよっぽど、その服を着たかったんだろうねぇ。」@
+;「………そうみたいだね。@……毬枝はよっぽど、その服を着たかったんだろうねぇ。」@
+`"...Looks like it. `@`...Marie must have really wanted to wear that outfit."`@
 ;＜さくのしん
 
 mld c,ma2_D4a,80
 
-「この服を、………私が……。」\
+;「この服を、………私が……。」\
+`"These clothes... I...."`\
 
 ld r,HIG_D2,80
 
-「死んでしまった今となっては。@高校生になるなんて、叶わぬ夢だもんねぇ。@くすくすくす。@………良かったじゃない。@憧れの制服を着ることが出来て。@くすくすくすくすくす……。」@
+;「死んでしまった今となっては。@高校生になるなんて、叶わぬ夢だもんねぇ。@くすくすくす。@………良かったじゃない。@憧れの制服を着ることが出来て。@くすくすくすくすくす……。」@
+`"Well since you're dead now, `@`you can't really have your dream of being a high schooler granted, can you? `@`*giggle*giggle* `@`...But isn't it nice? `@`Being able to wear that oufit you've dreamed of, that is. `@`Teeheeheeheehee..."`@
 
 mld c,ma2_D3a,80
 
-「や、やっぱり、おかしいでしょうか……。」\
+;「や、やっぱり、おかしいでしょうか……。」\
+`"Y- You think it's strange... don't you?"`\
 
 ld r,HIG_w3,80
 
-「おかしいわけないでしょ。@月を愛でる素敵な夜に、自分が着たかった一番の服を着て参加する。@……素敵じゃない。」@
+;「おかしいわけないでしょ。@月を愛でる素敵な夜に、自分が着たかった一番の服を着て参加する。@……素敵じゃない。」@
+`"It's not strange. `@`Being able to wear the clothes you've always wanted on this night when we can admire the moon. `@`...It's lovely, isn't it?"`@
 ;＜彼岸花
 br
-　そう言って、彼岸花はくるりと回ってみせる。\
+;　そう言って、彼岸花はくるりと回ってみせる。\
+`　Saying that, Higanbana quickly turned to show Marie.`\
 
 ;se1 1
 mcl c,0
@@ -390,19 +400,23 @@ ld c,HIG_w3,23
 wait 500
 ld c,HIG_D4,22
 
-　彼女も、普段とは違う、よりドレスっぽい服を着ている。@
+;　彼女も、普段とは違う、よりドレスっぽい服を着ている。@
+`　She's not her usual self, and she's wearing a more elegent dress.`@
 br
-　そんな特別な格好が、今夜という夜が特別なものであることを教えてくれるのだ。\
+;　そんな特別な格好が、今夜という夜が特別なものであることを教えてくれるのだ。\
+`　That special outfit showed that tonight was a special occasion.`\
 
 ld l,SAK_D4,23
 ;ld l,SAK_D4,80
 
-「素敵だよ、彼岸花も毬枝も！@　本当に素敵なカッコだよ！@　うりゅー！！」@
+;「素敵だよ、彼岸花も毬枝も！@　本当に素敵なカッコだよ！@　うりゅー！！」@
+`"Higanbana, Marie, you're so pretty! `@`Your clothes look so lovely! `@`Uryu~!!"`@
 
 ld r,ma2_w1,24
 ;ld r,ma2_D1,80
 
-「あ、ありがとうございます……。」\
+;「あ、ありがとうございます……。」\
+`"T-Thank you..."`\
 
 ld c,HIG_w2,80
 
