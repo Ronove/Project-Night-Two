@@ -420,103 +420,131 @@ ld r,ma2_w1,24
 
 ld c,HIG_w2,80
 
-「さぁ、おいでなさい、毬枝。@末席の分際で大遅刻なんだから。@駆け付け三杯が嫌なら、みんなにお酌して回りなさい？@　私も一緒に回ってあげるから。@……あんた、初めて挨拶する連中も多いでしょうから。」\
+;「さぁ、おいでなさい、毬枝。@末席の分際で大遅刻なんだから。@駆け付け三杯が嫌なら、みんなにお酌して回りなさい？@　私も一緒に回ってあげるから。@……あんた、初めて挨拶する連中も多いでしょうから。」\
+`Well, come on Marie. `@`After all, you're at the bottom of the social ladder and you're super late. `@`If you don't wanna take three shots as punishment, then how about you pour everyone a round? `@`I'll help you. `@`...After all, there's a lot of folks here who you've never met before."`\
 
 bg black,22
 bg k_kyou_03,22
 
-　妖怪たちのクラス、１３組で、一応、自己紹介はした。@
-　しかし、空っぽの教室で自己紹介をしただけだ。\
+;　妖怪たちのクラス、１３組で、一応、自己紹介はした。@
+`　She had introduced herself once in the youkai classroom, Classroom 13.`@
+;　しかし、空っぽの教室で自己紹介をしただけだ。\
+`　However, she had merely introduced herself in an empty classroom.`\
 
-　妖怪たちも、簡単に気を許したりしない。@よって、その姿を安易に現したりはしないのだ。@
-　だから、学校妖怪八席全員に直接会えるのは、これが初めての機会なのだ。\
+;　妖怪たちも、簡単に気を許したりしない。@よって、その姿を安易に現したりはしないのだ。@
+`　The youkai weren't about to let their guard down. `@`So they didn't reveal themselves so carelessly.`@
+;　だから、学校妖怪八席全員に直接会えるのは、これが初めての機会なのだ。\
+`　So this was her first opportunity to meet all of the Eight Seats of the School Youkai.`\
 
 bg black,22
 
-　ちょっとドキドキもするけれど、……仮にも自分も学校妖怪の一員、しっかりご挨拶しなきゃ。@
-　宴席のルールに疎い毬枝でも、こういうものは上席者からご挨拶すべきと想像は出来る。@
+;　ちょっとドキドキもするけれど、……仮にも自分も学校妖怪の一員、しっかりご挨拶しなきゃ。@
+`　Her heart was beating somewhat quickly, ...even though she might only be a temporary member among them, she felt she had to make a good impression.`@
+;　宴席のルールに疎い毬枝でも、こういうものは上席者からご挨拶すべきと想像は出来る。@
+`　Even though Marie was estranged with the ettiquette of the banquet, could imagine that they would introduce themselves as well.`@
 br
-　毬枝は彼岸花に連れられ、まずは学校妖怪序列第１位、校長先生のところへ。\
+;　毬枝は彼岸花に連れられ、まずは学校妖怪序列第１位、校長先生のところへ。\
+`　Higanbana led Marie to where the First Rank of the School Youkai, the Headmaster, sat.`\
 
 bg okujou_01y,22
 
-　校長先生は学校妖怪たちの長。@
-　“存在”どころか、“存在したことさえ”全て消し去ってしまう力を持つ、最大最強の大妖怪なのだ。@
+;　校長先生は学校妖怪たちの長。@
+`　The Headmaster is the leader of the school youkai.`@
+;　“存在”どころか、“存在したことさえ”全て消し去ってしまう力を持つ、最大最強の大妖怪なのだ。@
+`　He has the power to not only erase someone's life, but he even has the power to erase the fact that you have ever lived in the first place. `@`He is the greatest and most powerful youkai.`@
 br
-　そして、その校長先生と一緒に上機嫌に杯を傾けあっているのは、何と保健の先生だ。\
+;　そして、その校長先生と一緒に上機嫌に杯を傾けあっているのは、何と保健の先生だ。\
+`　And merrily enjoying cups of sake with that Headmaster was none other than the school nurse.`\
 
 ld l,HOK_D3,22
 ;ld l,HOK_D1,80
 
-「あーらー、いらっしゃ～い。@それにしても、素敵なお月様の晩よねぇ？@　うぃ～、ひっく♪」@
+;「あーらー、いらっしゃ～い。@それにしても、素敵なお月様の晩よねぇ？@　うぃ～、ひっく♪」@
+`"Ohhh my, welcoooome~. `@`It's quite a lovely moon this evening, no? `@`Weee, *hic*♪"`@
 ;＜保健
 
 ;ld r,KOU_D1,22
 ld r,KOU_D3,22
 
-「やれやれ……。@少し飲み過ぎだね。@お酒は飲むもの、君が飲まれてはあべこべでないかね？」\
+;「やれやれ……。@少し飲み過ぎだね。@お酒は飲むもの、君が飲まれてはあべこべでないかね？」\
+`"Dear oh dear... `@`Seems you've had a bit too much. `@`Take the sake, but don't be overtaken by it, hm?"`\
 ;＜校長
 
 bg black,22
 bg Air_03,22
 
-「いいのよ、いっそ、飲んでちょうだいよー！@　ったく。@あんた、学校妖怪の長でしょ？@　リーダーでしょー？！@　私に少しは素敵な男を紹介しなさいよー！@　うぃー！@　舐めんな※※～！！@　何が夢を諦めきれねぇだー！@　いい歳こいて、女を振る口実に夢とか語ってんじゃねー！！@　がおおおーー！！！@/
+;「いいのよ、いっそ、飲んでちょうだいよー！@　ったく。@あんた、学校妖怪の長でしょ？@　リーダーでしょー？！@　私に少しは素敵な男を紹介しなさいよー！@　うぃー！@　舐めんな※※～！！@　何が夢を諦めきれねぇだー！@　いい歳こいて、女を振る口実に夢とか語ってんじゃねー！！@　がおおおーー！！！@/
+`"It's fiiine, just let me drink~! `@`Tch. `@`Aren't you the head of the school youkai? `@`You're the head honcho right?! `@`Then introduce me to a wonderful man~! `@`Weee~! `@`Don't mess with me *******~!! `@`I ain't givin up mah dreams~!! `@`I'm young, and don't go tellin a girl to give up her dreams~!! `@`RAAWWWR~!!!`@/
 
 se1 47
 quakex 1,100
 
-　ねぇほら！@　紹介しなさいよ、いい男！@　この際、人間でなくてもいいからー！！@　行き遅れとか嫌ぁああぁあッ、うわぁああぁあああん！！」\
+;　ねぇほら！@　紹介しなさいよ、いい男！@　この際、人間でなくてもいいからー！！@　行き遅れとか嫌ぁああぁあッ、うわぁああぁあああん！！」\
+`　Seeee! `@`Introduce me to a nice guy! `@`It's fine if they're not human~!! `@`I don't wanna get too old to get marrieeeeeed~ uWaAAAaaaAAAAA!!"`\
 
 bg black,22
 bg okujou_01y,22
 
-　笑ったり、吠えたり泣いたり、実に賑やかだ。@
-　あぐらをかいて座る校長先生の、恰幅の良いお腹に顔をうずめ、おーいおいおいと泣いている。@
-　……こんな酔っ払いの相手は、なるほど、校長先生にしか務まるまい。@
+;　笑ったり、吠えたり泣いたり、実に賑やかだ。@
+`　Laughing, roaring, and crying, she was really lively.`@
+;　あぐらをかいて座る校長先生の、恰幅の良いお腹に顔をうずめ、おーいおいおいと泣いている。@
+`　She buried her face in The Headmaster's large belly and was crying with a 'waah waaah'.`@
+;　……こんな酔っ払いの相手は、なるほど、校長先生にしか務まるまい。@
+`　...Perhaps the only suitable person to contain this drunkard is The Headmaster.`@
 br
-　それにしても……、何で人間のはずの先生が、妖怪たちの宴席に？\
+;　それにしても……、何で人間のはずの先生が、妖怪たちの宴席に？\
+`　Nevertheless the question remains... why is this human nurse at the youkai banquet?`\ 
 
 
 ld c,HIG_w3,22
 ld c,HIG_D3,80
 
-「人は泥酔すると、波長が人ならざる世に近付くのよ。@……まぁ、見ての通りのザマだし。@明日の朝には何の記憶も残ってないでしょうから、気にしなくていいんじゃない？@　さっきまで、延々と失恋話を語ってくれて、みんな大盛り上がりだったんだから。@くすくす。」\
+;「人は泥酔すると、波長が人ならざる世に近付くのよ。@……まぁ、見ての通りのザマだし。@明日の朝には何の記憶も残ってないでしょうから、気にしなくていいんじゃない？@　さっきまで、延々と失恋話を語ってくれて、みんな大盛り上がりだったんだから。@くすくす。」\
+`"When humans become intoxicated, their wavelength blurs closer to our world. `@`...Just like the sorry mess you see now. `@` She probably won't remember anything in the morning, so don't worry about it, yeah? `@`Everybody has been getting a kick out of her broken hearted tales, after all. `@`Teehee."`\
 
-　……まぁ、よくわからないけれど、楽しくやっているようだし、そっとしておくことにしよう。\
+;　……まぁ、よくわからないけれど、楽しくやっているようだし、そっとしておくことにしよう。\
+`　...Well, I don't really understand, but they seem to be enjoying themselves, so I won't make a fuss about it.`\
 
 cl c,0
 ld r,HIG_D1,23
 
 
-「それより、毬枝。@校長先生にご挨拶して。@……こんな老いぼれでも、一応、私たちの長なんだから。」@
+;「それより、毬枝。@校長先生にご挨拶して。@……こんな老いぼれでも、一応、私たちの長なんだから。」@
+`"By the way, Marie. `@`Introduce yourself to the Headmaster. `@`...After all, this fuddy-duddy is to be our supposed leader."`@
 
 mld l,KOU_D3,22
 mld l,KOU_D1,80
 
-「ほっほっほ。@一応はそういうことになるがね。」\
+;「ほっほっほ。@一応はそういうことになるがね。」\
+`"Ho ho ho. `@`Now I'm the 'supposed' leader, hm?"`\
 
 mcl l,0
 ld l,KOU_D1,0
 mld c,ma2_D2a,22
 mld c,ma2_D4a,80
 
-「きょ、今日は遅刻してすみません。@いつもお世話になっております、めそめその毬枝です。」\
+;「きょ、今日は遅刻してすみません。@いつもお世話になっております、めそめその毬枝です。」\
+`"S-Sorry for being late today. `@`I'm Mesomeso Marie, thank you for letting me become one of you."`\
 
 ld l,KOU_D4,80
 
-「どうだね。@妖怪の暮らしは。@面白いかね？」@
+;「どうだね。@妖怪の暮らしは。@面白いかね？」@
+`"How is it? `@`Being a youkai that is. `@`Fun, hm?"`@
 
 mld c,ma2_w2,80
 
-「お、面白いかどうかはわかりませんが、……色々、興味深いです。」\
+;「お、面白いかどうかはわかりませんが、……色々、興味深いです。」\
+`"I-I don't know if you could call it fun, ...but it's pretty interesting."`\
 
 ld r,HIG_D4,80
 
-「くすくすくすくす。@毬枝ったら、自分の狩りはろくろくしないくせに、@最近は人の狩りの邪魔ばかりしているのよ？」\
+;「くすくすくすくす。@毬枝ったら、自分の狩りはろくろくしないくせに、@最近は人の狩りの邪魔ばかりしているのよ？」\
+`"Teeheeheehee. `@`Oh Marie, even though you've hardly done any hunting at all, `@`lately all you've been doing is interfering in the hunts of others, you know?"`\
 
 ld l,KOU_D1,80
 
-「ほっほっほっほ。@狩りをするも自由、しないも自由。@誰かの邪魔をするのもまた自由。@如何なる者にも縛られぬことのみが、我ら学校妖怪の不文律。@……妖怪など、なろうと思ってもなかなかなれぬもの。@こうして学校妖怪に名を連ねることが出来たのも、何かの運命だ。@その運命、とことんまで翻弄されてみるも一興というもの。」\
+;「ほっほっほっほ。@狩りをするも自由、しないも自由。@誰かの邪魔をするのもまた自由。@如何なる者にも縛られぬことのみが、我ら学校妖怪の不文律。@……妖怪など、なろうと思ってもなかなかなれぬもの。@こうして学校妖怪に名を連ねることが出来たのも、何かの運命だ。@その運命、とことんまで翻弄されてみるも一興というもの。」\
+`"Ho ho ho ho. `@`You are free to hunt or not to hunt. `@`You are even free to interfere with the hunts of others. `@`These are our unwritten rules as youkai. `@`...Becoming something like a youkai is a rather unobtainable dream. `@`Even more so than being able to become one of us, the school youkai ― that's quite a destiny. `@`Trying to enjoy that destiny until the end is part of the fun, hm?"`\
 
 mcl c,0
 cl l,0
@@ -524,42 +552,52 @@ bg black,22
 bg Air_03,22
 
 
-　妖怪になってみてわかったが、……妖怪なんて、おいそれとなれるものじゃない。@
+;　妖怪になってみてわかったが、……妖怪なんて、おいそれとなれるものじゃない。@
+`　I understood from trying to become a youkai, ...that becoming a youkai isn't easy.`@
 br
-　自分が妖怪になれたのも、たまたまの偶然みたいなもの。\
+;　自分が妖怪になれたのも、たまたまの偶然みたいなもの。\
+`　The fact that I was able to become a youkai, seems almost like a lucky coincidence.`\
 
-　これは、とてもとても幸運な、……死後のもう一つの新しい人生なんだ。@
+;　これは、とてもとても幸運な、……死後のもう一つの新しい人生なんだ。@
+`　This is an extremely fortune fate. `@`...I have the chance to live a new life after death.`@
 br
-　でも、死後は死後。@私はすでに死んでしまっていて、全ては取り返しが付かない。\
+;　でも、死後は死後。@私はすでに死んでしまっていて、全ては取り返しが付かない。\
+`　But dead means dead. `@`Since I've already died, I can't take it all back.`\
 
 bg black,22
 bg okujou_01y,22
 ;mld c,ma2_w2,22
 mld c,ma2_w1,22
 
-「だからこそ。@………せめて、妖怪の身になった今は。@……本当になりたかった自分に、なってみたいんです。」@
+;「だからこそ。@………せめて、妖怪の身になった今は。@……本当になりたかった自分に、なってみたいんです。」@
+`"Of course. `@`...And now that I've become one of the youkai. `@`...I'd like to become what I've always wanted to be."`@
 
 ld l,HIG_D5,22
 ;ld l,HIG_D5,80
 
-「なぁんて、凛々しいことをたまに言い出すわけだわ。@今度、私の狩りの邪魔をしたら、容赦なく八つ裂きなんだからね？」\
+;「なぁんて、凛々しいことをたまに言い出すわけだわ。@今度、私の狩りの邪魔をしたら、容赦なく八つ裂きなんだからね？」\
+`"Pffft, that just means you're going to spout some lines of bravery now and then. `@`If you get in the way of my hunt this time, I'm gonna dice you up into eight pieces, got it?"`\
 
 mld c,ma2_i3a,80
 
-「彼岸花さんが、気の毒な人ばかりを獲物にしようとするからですっ。」\
+;「彼岸花さんが、気の毒な人ばかりを獲物にしようとするからですっ。」\
+`"That's just because you keep picking on only weak and pitiful people, Higanbana-san!"`\
 
 ;ld r,KOU_D3,24
 ld r,KOU_D1,22
 
-「ほっほっほっほ。@目を離していると、何を始めるかわからん彼岸花くんには、毬枝くんはちょうどいい鈴代わりだね。@……毬枝くん。@彼岸花くんをよろしく頼むよ。@……人形は人形。@一緒に遊んでくれる人がいて初めて、人形たりえるのだから。」\
+;「ほっほっほっほ。@目を離していると、何を始めるかわからん彼岸花くんには、毬枝くんはちょうどいい鈴代わりだね。@……毬枝くん。@彼岸花くんをよろしく頼むよ。@……人形は人形。@一緒に遊んでくれる人がいて初めて、人形たりえるのだから。」\
+`"Ho ho ho ho. `@`If I take my eyes off of you two, Marie-kun, you ring like a bell on the sly Higanbana. `@`...Marie-kun. `@`I'm leaving Higanbana-kun in your care. `@`...A doll is a doll. `@`And this is the first time she's had a person to play with her."`\
 
 ld l,HIG_w3,80
 
-「失礼しちゃうわ。@毬枝で遊んでいるのは私だというのに。」@
+;「失礼しちゃうわ。@毬枝で遊んでいるのは私だというのに。」@
+`"How rude. `@`Even though I'm the one playing with Marie."`@
 
 mld c,ma2_w2,80
 
-「くすくす。@……はいっ、校長先生。」\
+;「くすくす。@……はいっ、校長先生。」\
+`"Heehee. `@`...Okaay, Headmaster."`\
 
 mcl c,0
 bg black,22
@@ -567,16 +605,19 @@ bg okujou_02,22
 ld r,Hok_D4,24
 ld r,Hok_D1,80
 
-「……そうそう。@めそめそさんって、旧校舎の女子トイレの怪談だったわよねぇ？」@
+;「……そうそう。@めそめそさんって、旧校舎の女子トイレの怪談だったわよねぇ？」@
+`"...Oh right. `@`Mesomeso-san? Isn't that the ghost story from the old school building's girl's bathroooom?"`@
 ;＜保健
 
 ld l,ma2_D4,23
 ;ld l,ma2_D1,80
 
-「え？@　はい、そうですけれど……。」\
+;「え？@　はい、そうですけれど……。」\
+`"Wha? `@`Yes, that's true but..."`\
 
 
-　酔っ払って潰れていたと思った保健の先生が、ふいに月を見上げながら呟く。\
+;　酔っ払って潰れていたと思った保健の先生が、ふいに月を見上げながら呟く。\
+`　The nurse she had thought to be knocked out drunk suddenly mutters that while looking up at the moon.`\
 
 bg black,26
 
@@ -584,31 +625,36 @@ me1v 5,50
 
 bg Air_03,22
 
-「大昔。@新校舎なんかなかった頃。@ここは旧校舎じゃなく、立派な校舎だったわけ。@……生徒も大勢いた。@……当然、学校の七不思議も存在したわ。」\
+;「大昔。@新校舎なんかなかった頃。@ここは旧校舎じゃなく、立派な校舎だったわけ。@……生徒も大勢いた。@……当然、学校の七不思議も存在したわ。」\
+`"Long long ago. `@`Before the new school building was built. `@`This wasn't the former school building, but rather, it was a splendid school. `@`...It had a lot of students too. `@`...And it also had seven mysteries too."`\
 
 bg black,22
 bg okujou_01y,0
 ld r,KOU_D1,22
 ld r,KOU_D2,80
 
-「………そうだね。@懐かしいよ。」@
+;「………そうだね。@懐かしいよ。」@
+`"...Indeed. `@`Quite nostalgic."`@
 ;＜校長
 
 ld l,HIG_w1,23
 ;ld l,HIG_D1,80
 
-「でも、全て消えたわ。@人がいるところに怪談が生まれる。@……人が散れば、怪談も消える。」\
+;「でも、全て消えたわ。@人がいるところに怪談が生まれる。@……人が散れば、怪談も消える。」\
+`"But it all disappeared. `@`Mysteries are born where people are. `@`...When people leave, those mysteries also disappear."`\
 ;＜彼岸花
 
 mld c,HOK_D1,22
 mld c,HOK_D3,80
 
-「かつてはこの旧校舎にも、立派な七不思議が存在して、そのそれぞれを司る妖怪たちが君臨していたはず。@………しかし今は、誰も残っていない。」@
+;「かつてはこの旧校舎にも、立派な七不思議が存在して、そのそれぞれを司る妖怪たちが君臨していたはず。@………しかし今は、誰も残っていない。」@
+`"And once there must have been a splendid seven mysteries here, and each of them must have reigned in control of this old school building `@`...But now none of them remain."`@
 ;＜保健
 
 ld l,HIG_D5,80
 
-「今の生徒たちは、……旧校舎の七不思議なんて、誰も知らないでしょう。」\
+;「今の生徒たちは、……旧校舎の七不思議なんて、誰も知らないでしょう。」\
+`"None of the students here now probably know anything about the seven mysteries of the old school."`\
 ;＜彼岸花
 
 mcl c,0
@@ -618,19 +664,26 @@ bg gakkou_07y,22
 ;bg black,22
 ;bg k_rouka_03,22
 
-　かつて、新校舎などなかった大昔。@
-　学校はこの旧校舎だけだった。@
-　だからこの旧校舎には大勢の生徒が溢れ、……その生徒たちの中で、自然に七不思議が生まれたはずなのだ。@
+;　かつて、新校舎などなかった大昔。@
+`　It was long long ago when the new school building hadn't been built yet.`@
+;　学校はこの旧校舎だけだった。@
+`　The school was this old building.`@
+;　だからこの旧校舎には大勢の生徒が溢れ、……その生徒たちの中で、自然に七不思議が生まれたはずなのだ。@
+`　So this old building was overflowing with students, ...and seven mysteries must have been created among them.`@
 br
-　………しかし。@今の新校舎に通う生徒たちは、誰もそれを知らない。\
+;　………しかし。@今の新校舎に通う生徒たちは、誰もそれを知らない。\
+`　...However. `@`The students commuting to the new building knew none of them.`\
 
 bg black,22
 bg gakkou_01y,22
 
-　めそめそさんという例外を除けば、全ての怪談は皆、新校舎かその周辺を指すものだ。@
-　旧校舎は、不気味な場所として恐れられてはいるけれど。@
+;　めそめそさんという例外を除けば、全ての怪談は皆、新校舎かその周辺を指すものだ。@
+`　With the exception of Mesomeso-san, all of the ghost stories came from the new building.`@
+;　旧校舎は、不気味な場所として恐れられてはいるけれど。@
+`　Even though the old school building is feared as an ominous place.`@
 br
-　かつて、そこにも学校という社会があり、その中にも七不思議があったことを知る生徒など、@………埃の積もった卒業アルバムに記された、大昔の卒業生たちしか知るまい。\
+;　かつて、そこにも学校という社会があり、その中にも七不思議があったことを知る生徒など、@………埃の積もった卒業アルバムに記された、大昔の卒業生たちしか知るまい。\
+`　The only ones who once knew about the seven mysteries when the place was bustling with its scholastic society, `@`...were students who had long since graduated, now only to be remembered in yearbooks covered in dust.`\
 
 bg black,22
 
@@ -641,12 +694,14 @@ bg okujou_01y,22
 ld l,ma2_d4,23
 ;ld l,ma2_D1,80
 
-「……忘れられた怪談の妖怪って、………どうなるんでしょう。」@
+;「……忘れられた怪談の妖怪って、………どうなるんでしょう。」@
+`"...What happens... to the youkai that are... forgotten, I wonder?"`@
 
 ld r,HIG_w3,24
 ld r,HIG_D3,80
 
-「死ぬのよ。@いえ、消えるというべきね。」\
+;「死ぬのよ。@いえ、消えるというべきね。」\
+`"They die! `@`Well, they disapppear I should say."`\
 ;＜彼岸花
 
 
@@ -655,7 +710,8 @@ cl l,22
 ld l,KOU_D2,23
 ld l,KOU_D4,80
 
-「忘れられることが、我々、学校妖怪の寿命とも呼べるかもしれんね。@死を超越した我らとて、そのような形での寿命からは逃れられぬとは面白いものよの。@ほっほっほ……。」\
+;「忘れられることが、我々、学校妖怪の寿命とも呼べるかもしれんね。@死を超越した我らとて、そのような形での寿命からは逃れられぬとは面白いものよの。@ほっほっほ……。」\
+`"You could say that being forgotten corresponds to our lifespan as school youkai. `@`How intersting that we, who have surpassed even death, can't escape that form of a life span. `@`Ho ho ho..."`\
 ;＜校長
 
 cl r,22
@@ -663,21 +719,25 @@ ld r,HOK_D4,22
 ld r,HOK_D2,80
 
 
-「……そんな、妖怪たちの死に絶えた旧校舎に。@あなたは久々に住み付いた妖怪なのよ。@だから。@誰もいなくなって寂しかった旧校舎は、きっと、久し振りの客人であるあなたを歓迎していると思うわ。」@
+;「……そんな、妖怪たちの死に絶えた旧校舎に。@あなたは久々に住み付いた妖怪なのよ。@だから。@誰もいなくなって寂しかった旧校舎は、きっと、久し振りの客人であるあなたを歓迎していると思うわ。」@
+`"...Those youkai met their end here. `@`It's been a long time since this old building has had a new resident. `@`Soo. `@`I would think this lonely old school building would surely welcome having a new guest such as yourself."`@
 ;＜保健
 
 mld c,ma2_D4a,22
 
-「……………………………。」\
+;「……………………………。」\
+`"............"`\
 ;＜毬枝
 
 mcl c,0
 bg black,22
 bg k_rouka_02,22
 
-　旧校舎には、今はもう、誰もいない。@
+;　旧校舎には、今はもう、誰もいない。@
+`　No one was in the old school building anymore.`@
 br
-　時折、先生が訪れ、倉庫代わりに使っている教室に出入りしたり。@……あるいは、度胸試しや探検に忍び込んでくる生徒がいたり。\
+;　時折、先生が訪れ、倉庫代わりに使っている教室に出入りしたり。@……あるいは、度胸試しや探検に忍び込んでくる生徒がいたり。\
+`　On occasion, a teacher might come and use one of the classrooms for storage. `@`...Or sometimes a student might sneak in either to test their bravery or to go exploring.`\
 
 　でも、それだけ。@……学校の喧騒を忘れて久しい、寂しい場所だ。@
 br
