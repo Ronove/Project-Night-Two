@@ -889,13 +889,14 @@ ld l,ma2_D4a,23
 ld r,SIN_D3,80
 
 ;「人は生きるために、時には夢を見ることも大切とは思いませんか？@　……夢さえ見なくなったら、人に生きる意味などあるのですか？」@
-`"In order to live, don't you think it is important to dream occasionally?`@` ...Do 
+`"In order to live, don't you think it is important to dream occasionally?`@` ...If a person could not even dream, is there any reason to their life?"`@`
 ;＜紅茶
 
 ;ld c,HIG_D5,23
 ld c,HIG_w4,22
 
-「……という甘言で、獲物たちをどれだけしゃぶり尽くしてきたやら。@くすくすくす。」\
+;「……という甘言で、獲物たちをどれだけしゃぶり尽くしてきたやら。@くすくすくす。」\
+`"...
 ;＜彼岸花
 
 ld l,ma2_D3a,80
