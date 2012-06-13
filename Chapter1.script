@@ -645,12 +645,13 @@ mld c,HOK_D1,22
 mld c,HOK_D3,80
 
 ;「かつてはこの旧校舎にも、立派な七不思議が存在して、そのそれぞれを司る妖怪たちが君臨していたはず。@………しかし今は、誰も残っていない。」@
-
+`"Once, even in this old school building, there were those seven splendid School Mysteries, and the Youkai that governed them.`@` ...But now, nobody is left."`@`
 ;＜保健
 
 ld l,HIG_D5,80
 
-「今の生徒たちは、……旧校舎の七不思議なんて、誰も知らないでしょう。」\
+;「今の生徒たちは、……旧校舎の七不思議なんて、誰も知らないでしょう。」\
+`"Out of the current student body, ...I doubt there's anyone who knows about the former school's seven mysteries."`\
 ;＜彼岸花
 
 mcl c,0
@@ -660,19 +661,26 @@ bg gakkou_07y,22
 ;bg black,22
 ;bg k_rouka_03,22
 
-　かつて、新校舎などなかった大昔。@
-　学校はこの旧校舎だけだった。@
-　だからこの旧校舎には大勢の生徒が溢れ、……その生徒たちの中で、自然に七不思議が生まれたはずなのだ。@
+;　かつて、新校舎などなかった大昔。@
+`　Once, long before there was anything like the new school building.`@`
+;　学校はこの旧校舎だけだった。@
+`　School was only in this building.`@`
+;　だからこの旧校舎には大勢の生徒が溢れ、……その生徒たちの中で、自然に七不思議が生まれたはずなのだ。@
+`　That was why this old building was overflowing with students, ...and amongst those students, naturally, those Seven School Mysteries should have come about.`@`
 br
-　………しかし。@今の新校舎に通う生徒たちは、誰もそれを知らない。\
+;　………しかし。@今の新校舎に通う生徒たちは、誰もそれを知らない。\
+`　...However.`@` Out of the current students attending the new school, not a single student knew of them.`\
 
 bg black,22
 bg gakkou_01y,22
 
-　めそめそさんという例外を除けば、全ての怪談は皆、新校舎かその周辺を指すものだ。@
-　旧校舎は、不気味な場所として恐れられてはいるけれど。@
+;　めそめそさんという例外を除けば、全ての怪談は皆、新校舎かその周辺を指すものだ。@
+`　With the exception of MesoMeso-san, all of these ghost stories take place within either the new school building or the area around it.`@`
+;　旧校舎は、不気味な場所として恐れられてはいるけれど。@
+`　Even though the former school building is feared as some ghastly place.`@`
 br
-　かつて、そこにも学校という社会があり、その中にも七不思議があったことを知る生徒など、@………埃の積もった卒業アルバムに記された、大昔の卒業生たちしか知るまい。\
+;　かつて、そこにも学校という社会があり、その中にも七不思議があったことを知る生徒など、@………埃の積もった卒業アルバムに記された、大昔の卒業生たちしか知るまい。\
+`　At one point, there was a school community, and within it, students who knew of the Seven Mysteries,`@` ...But now they are only remembered in the graduation albums coated in dusts and the graduates of long ago.`\
 
 bg black,22
 
@@ -683,12 +691,14 @@ bg okujou_01y,22
 ld l,ma2_d4,23
 ;ld l,ma2_D1,80
 
-「……忘れられた怪談の妖怪って、………どうなるんでしょう。」@
+;「……忘れられた怪談の妖怪って、………どうなるんでしょう。」@
+`"...I wonder what happens, ...to the Youkai of those forgotten ghost stories."`@`
 
 ld r,HIG_w3,24
 ld r,HIG_D3,80
 
-「死ぬのよ。@いえ、消えるというべきね。」\
+;「死ぬのよ。@いえ、消えるというべきね。」\
+`"They die.`@` No, I should say they disappear."`\
 ;＜彼岸花
 
 
@@ -697,7 +707,8 @@ cl l,22
 ld l,KOU_D2,23
 ld l,KOU_D4,80
 
-「忘れられることが、我々、学校妖怪の寿命とも呼べるかもしれんね。@死を超越した我らとて、そのような形での寿命からは逃れられぬとは面白いものよの。@ほっほっほ……。」\
+;「忘れられることが、我々、学校妖怪の寿命とも呼べるかもしれんね。@死を超越した我らとて、そのような形での寿命からは逃れられぬとは面白いものよの。@ほっほっほ……。」\
+`"You might say that being forgotten can be called the same as a lifespan for us School Youkai.`@` That we who have transcended death cannot escape a form such as that is quite interesting.`@` Hohoho..."`\
 ;＜校長
 
 cl r,22
@@ -705,25 +716,32 @@ ld r,HOK_D4,22
 ld r,HOK_D2,80
 
 
-「……そんな、妖怪たちの死に絶えた旧校舎に。@あなたは久々に住み付いた妖怪なのよ。@だから。@誰もいなくなって寂しかった旧校舎は、きっと、久し振りの客人であるあなたを歓迎していると思うわ。」@
+;「……そんな、妖怪たちの死に絶えた旧校舎に。@あなたは久々に住み付いた妖怪なのよ。@だから。@誰もいなくなって寂しかった旧校舎は、きっと、久し振りの客人であるあなたを歓迎していると思うわ。」@
+`"...You are the first Youkai in so long.`@` To settle in that old school building, where all those Youkai died out.`@` That's why,`@`  I think that lonely old school building with noone around must surely be welcoming the company of a guest after so long."`@`
 ;＜保健
 
 mld c,ma2_D4a,22
 
-「……………………………。」\
+;「……………………………。」\
+`"......"`\
 ;＜毬枝
 
 mcl c,0
 bg black,22
 bg k_rouka_02,22
 
-　旧校舎には、今はもう、誰もいない。@
+;　旧校舎には、今はもう、誰もいない。@
+`　There is nobody in the abandoned school building anymore.`@`
 br
-　時折、先生が訪れ、倉庫代わりに使っている教室に出入りしたり。@……あるいは、度胸試しや探検に忍び込んでくる生徒がいたり。\
+;　時折、先生が訪れ、倉庫代わりに使っている教室に出入りしたり。@……あるいは、度胸試しや探検に忍び込んでくる生徒がいたり。\
+`　Occasionally, a teacher may come by to take something from storage to bring to their classroom and such.`@` ...Other times, students sneak in to test their courage by exploring it.`\
 
-　でも、それだけ。@……学校の喧騒を忘れて久しい、寂しい場所だ。@
+;　でも、それだけ。@……学校の喧騒を忘れて久しい、寂しい場所だ。@
+`　But that's all.`@` ...Long gone is the hustle and bustle of school in this lonely place.`@`
+
 br
-　そこに、めそめそさんという新しい妖怪が住み付いたことを、……旧校舎は歓迎してくれるだろうか。\
+;　そこに、めそめそさんという新しい妖怪が住み付いたことを、……旧校舎は歓迎してくれるだろうか。\
+`　I wonder...if the old school building would welcome the new Youkai, MesoMeso-san, who settled within it.
 
 
 bg black,22
@@ -731,49 +749,59 @@ bg okujou_01y,0
 ld l,HIG_w3,22
 ld l,HIG_D1,80
 
-「ま。@……せいぜい忘れ去られない、恐ろしい怪談になることね。」@
+;「ま。@……せいぜい忘れ去られない、恐ろしい怪談になることね。」@
+`"Well.`@` ...At best, it is a terrifying ghost tale none shall forget."`@`
 ;＜彼岸花
 
 ;ld r,KOU_D2,22
 ld r,KOU_D1,22
 
-「恐れられてこそ怪談。@夜をさらに深い闇に染めてこそ、昼が明るく輝くのだからのぅ。@ほっほっほ……。」\
+;「恐れられてこそ怪談。@夜をさらに深い闇に染めてこそ、昼が明るく輝くのだからのぅ。@ほっほっほ……。」\
+`"It's because it is terrifying that it is called a ghost story.`@` It is because the night is dyed thick with darkness that the day may sparkle with light.`@` Hohoho...."`\
 ;＜校長
 
 
-　妖怪や怪談が、どんなに恐れられていても。@
-　訪れる者が絶えて、誰も語り継がなくなったら、消え去ってしまう。@
-　だからこそ彼らは生きるために、……人間たちに忘れられたくないと願うのだ。\
-
-　それを思った時、……妖怪も人間と同じで、@……本質的には寂しがり屋なのかもしれないと、毬枝は思った。\
+;　妖怪や怪談が、どんなに恐れられていても。@
+`　No matter how feared Youkai or ghost stories are.`@`
+;　訪れる者が絶えて、誰も語り継がなくなったら、消え去ってしまう。@
+`　If those who call on them die down, and nobody passes them down, they will vanish.`@`
+;　だからこそ彼らは生きるために、……人間たちに忘れられたくないと願うのだ。\
+`　That is precisely why they wish that humans do not forget about them...so they can live on.`\
+;　それを思った時、……妖怪も人間と同じで、@……本質的には寂しがり屋なのかもしれないと、毬枝は思った。\
+`　When thinking that...humans and Youkai are alike,`@` ...Marie thought that maybe they all were essentially just lonely.`\
 
 bg black,22
 
-　校長先生にご挨拶を終え、次に向かう。@
+;　校長先生にご挨拶を終え、次に向かう。@
+`　She finished greeting the headmaster and went moved to the next one.`@`
 br
-　序列第１位の次は、序列第２位。\
-
+;　序列第１位の次は、序列第２位。\
+`　The next rank from the first was the second ranked.`\
 bg okujou_02,0
 ld l,SIN_D1,22
 ld r,ma2_D4a,22
 
-「えっと、紅茶紳士さん、でしたっけ？」@
+;「えっと、紅茶紳士さん、でしたっけ？」@
+`"Er, the Black Tea Gentleman, right?"`@`
 br
 
 E_A
 se1 12
 quakey 1,100
 
-　その時、ドンッと一升瓶が床を叩く音がする。@
+;　その時、ドンッと一升瓶が床を叩く音がする。@
+`　Suddenly, with a huge clatter, a bottle struck the floor.`@`
 
 bgm1 1003
 
-　見ると、……黒いマントを羽織り、あぐらをかいて座る大柄の男が毬枝を睨んでいた。\
+;　見ると、……黒いマントを羽織り、あぐらをかいて座る大柄の男が毬枝を睨んでいた。\
+`　When she looked, ...Marie saw a huge man wearing a black mantle sitting cross-legged and scowling at her.`\
 
 ;mov %IZA_isyou,2
 ld l,SIN_D4,80
 
-「くっくっく。@気にしないことですよ、イザナミさん。」\
+;「くっくっく。@気にしないことですよ、イザナミさん。」\
+`"Kukuku.`@` It's nothing to worry so much about, Izanami-san."`\
 ;＜紅茶
 
 ld r,IZA_D7,26
@@ -781,24 +809,28 @@ ld r,IZA_D7,26
 
 quakey 2,200
 
-「おいッ、めそめその毬枝ッ！！@　テメェ、ちょっとこっち来い！！」\
+;「おいッ、めそめその毬枝ッ！！@　テメェ、ちょっとこっち来い！！」\
+`"Hey, MesoMeso Marie!!`@` Get your ass over here!!"`\
 
-　大柄の男は非常に不機嫌そうだ。@毬枝はすぐに失言を直感する。@
+;　大柄の男は非常に不機嫌そうだ。@毬枝はすぐに失言を直感する。@
+`　The huge man seemed excessively displeased.`@` Marie instantly realized her slip-up.`@`
 br
-　そう、紅茶紳士は、影の序列第２位だ。@なら、本来の第２位が存在するはず。\
-
+;　そう、紅茶紳士は、影の序列第２位だ。@なら、本来の第２位が存在するはず。\
+`　That's right, the Black Tea Gentleman was only the shadow of the Second Ranked.`@` Which meant that the real Second Ranked should exist too.`\
 
 
 ;ld c,HIG_w3,22
 ld c,HIG_w4,22
 
-「くすくすくす。@でもイザナミ、あんたが悪いのよ。」\
+;「くすくすくす。@でもイザナミ、あんたが悪いのよ。」\
+`"Teeheehee.`@` But Izanami, it's your fault, you know."`\
 ;＜彼岸花
 
 ;cl c,22
 ld l,SIN_D3,80
 
-「同感ですねぇ。@間違えられたくなければ、さっさと毬枝さんの前に姿を現せば良かったのですから。@くっくっく。」\
+;「同感ですねぇ。@間違えられたくなければ、さっさと毬枝さんの前に姿を現せば良かったのですから。@くっくっく。」\
+`"I must agree.`@` If you did not want for her to be mistaken, you simply should have shown yourself to her before.`@` Kukuku."`\
 ;＜紅茶紳士
 
 cl r,0
@@ -806,49 +838,58 @@ ld c,IZA_D7,24
 se1v 12,30
 quakex 2,200
 
-「うるせぇッ！@　俺ァ、狩りで忙しいんだよッ。@どこぞの糸目野郎が、すぐに人の獲物を横取りしちまうからなぁ？」@
+;「うるせぇッ！@　俺ァ、狩りで忙しいんだよッ。@どこぞの糸目野郎が、すぐに人の獲物を横取りしちまうからなぁ？」@
+`"Shut your trap!`@` I've been busy huntin' and all.`@` I got that squinty-eyed son of a bitch stealing people's prey, you know?"`@` 
 ;＜イザナミ
 
 ld l,SIN_D1,80
 
-「横取りとは心外です。@私は、辛い現実に打ちのめされた少年少女たちに、ただ夢を見せてあげているだけだというのに。」\
+;「横取りとは心外です。@私は、辛い現実に打ちのめされた少年少女たちに、ただ夢を見せてあげているだけだというのに。」\
+`"Stealing is such an upsetting way to put it.`@` All that I do is simply show the boys and girls who have been battered and beaten down by their harsh realities a lovely dream."`\
 
 ld c,IZA_D6,80
 
-「バーロー！！@　何が夢だッ。@夢ってのァな！@/
+;「バーロー！！@　何が夢だッ。@夢ってのァな！@/
+`"You dumbass!!`@` The hell're you talkin' about, dreams n' all.`@` Dreams!`@`/
 quakex 2,200
-　自分の手でッ、こうガシッと、掴むもんなんだよ！」@
-
+;　自分の手でッ、こうガシッと、掴むもんなんだよ！」@
+`　They're the kinda shit you grab onto with your own damn hands, just like this!"`@`
 ld l,SIN_D2,80
 
-「それが出来るほどたくましい子なら良いですが。@それが出来ぬ、か弱き子たちにも救いが必要なのではありませんか？」\
+;「それが出来るほどたくましい子なら良いですが。@それが出来ぬ、か弱き子たちにも救いが必要なのではありませんか？」\
+`"That is well and good for those strong-willed and resolute children.`@` But don't you think those frail children who cannot require salvation as well?"`\
 
 ld c,IZA_D5,80
 
-「ケッ。@なァに甘っちょろいこと言ってやがんだか。@学校はな！@　荒野なんだよ、ジャングルなんだよッ。@ひとりで歩くことも出来ねぇ、貧弱なクソガキがのうのうと生き残れるところじゃねぇんだ！@　俺ァ、それを教えてやってるだけよ。@テメェなんざ、反吐が出る。@/
+;「ケッ。@なァに甘っちょろいこと言ってやがんだか。@学校はな！@　荒野なんだよ、ジャングルなんだよッ。@ひとりで歩くことも出来ねぇ、貧弱なクソガキがのうのうと生き残れるところじゃねぇんだ！@　俺ァ、それを教えてやってるだけよ。@テメェなんざ、反吐が出る。@/
+`"Tch.`@` The hell're talkin' all high 'n mighty for.`@` School!`@` It's a wasteland, a goddamn JUNGLE.`@` It ain't no place where any sad, sorry, piece of shit who can't even walk on their own can just wander on through!`@` What I'm doin' is teaching the little bastards.`@` You're just spewing horseshit.`@`/
 
 se1v 12,30
 quakey 2,200
 
-ガキの分際で夢だァ？@　百年早ぇってんだッ。」\
-
+;ガキの分際で夢だァ？@　百年早ぇってんだッ。」\
+`You think those little punks have a place in dreams?`@` They've got a long-ass way to go."`\
 bg black,24
 bg okujou_01y,24
 ld r,SIN_D1,22
 ld r,SIN_D2,80
 
-「くっくっくっく！@　相変わらずな人です。@……ご無沙汰していますね、毬枝さん。」@
+;「くっくっくっく！@　相変わらずな人です。@……ご無沙汰していますね、毬枝さん。」@
+`"Kukuku!`@` You're the same as always.`@` ...It has been a while, Marie-san."`@`
 ;＜紅茶
 
 ld l,ma2_D4a,23
 ;ld l,ma2_D1,80
 
-「ど、どうもご無沙汰しております、紅茶紳士さん。」\
+;「ど、どうもご無沙汰しております、紅茶紳士さん。」\
+`"Y-yes, it certainly has, Black Tea Gentleman."`\
 ;＜毬枝
+
 
 ld r,SIN_D3,80
 
-「人は生きるために、時には夢を見ることも大切とは思いませんか？@　……夢さえ見なくなったら、人に生きる意味などあるのですか？」@
+;「人は生きるために、時には夢を見ることも大切とは思いませんか？@　……夢さえ見なくなったら、人に生きる意味などあるのですか？」@
+`"In order to live, don't you think it is important to dream occasionally?`@` ...Do 
 ;＜紅茶
 
 ;ld c,HIG_D5,23
