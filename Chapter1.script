@@ -1373,27 +1373,30 @@ bg okujou_01y,24
 ld r,KYO_D6a,22
 ;ld r,KYO_D1,80
 
-「おいおい、大丈夫かよこいつ。@……完全にぶっ潰れてるぞ。」@
+;「おいおい、大丈夫かよこいつ。@……完全にぶっ潰れてるぞ。」@
+`"Hey, hey, are you okay?`@`...she's completely collapsed."`@`
 ;＜キョウ
 
 ld l,HIG_d5,22
 ;ld l,HIG_w1,80
 
-「でも美味しかったでしょ？」\
+;「でも美味しかったでしょ？」\
+`"But it was delicious, don't you suppose?"`\
 ;＜彼岸花
 
 ld c,ma2_D2a,6
 ;ld c,ma2_D1,80
 
-「ぇぇ、はぃ～……。@目が回るけれど～……、おいひぃれすぅぅ～……。」@
+;「ぇぇ、はぃ～……。@目が回るけれど～……、おいひぃれすぅぅ～……。」@
+`"Y-yeah~...`@`My eyes are spinning but....It'sh delicious~..."`@
 br
 
 cl c,5
 se1v 13,50
 quakey 2,200
 
-　世界がぐるぐる回って、だけれども、とてもとても不思議な、幸せな気分でいっぱいになる。\
-
+;　世界がぐるぐる回って、だけれども、とてもとても不思議な、幸せな気分でいっぱいになる。\
+` The world spinning in circles, however, becomes filled with a very very strange, happy feeling.`\
 bg black,22
 
 fede 0,1000
@@ -1408,27 +1411,30 @@ bgm1v 1003,0
 fedexx 70,0,0,0,0,0,3000
 wait 1000
 
-　世界が桜色に染まり、屋上に茂る黄泉桜がますますに花を開き、@花びらの嵐で祝福してくれるかのように感じられた。\
+;　世界が桜色に染まり、屋上に茂る黄泉桜がますますに花を開き、@花びらの嵐で祝福してくれるかのように感じられた。\
+` The world was dyed in the color of cherry blossoms, and the blessing given in the storm of petals of the flowers of the cherry blossom trees growing in the roof of the underworld as they opened increasingly was felt.`\  
 
-
-　毬枝が口にしたものは、人間たちの飲む酒とは異なる。@
+;　毬枝が口にしたものは、人間たちの飲む酒とは異なる。@
+` That which Marie had put in her mouth was different from the rice wine drunk by human beings.`@
 br
-　しかし、妖力の足りない毬枝が口にすると、人間が酒に酔っ払うのとよく似た症状を引き起こす。\
-
+;　しかし、妖力の足りない毬枝が口にすると、人間が酒に酔っ払うのとよく似た症状を引き起こす。\
+` However, when that was put in the mouth of Marie, who lacked sufficient magical power, she showed symptoms similar to those of drunk human beings.`\
 「ここは、旧校舎でもっとも妖力の高い場所。@……その妖力は古く、長く寝かされ、新校舎のそれとは比べ物にならないくらいに深い。@……それを養分に茂る黄泉桜から作られるその雫は、まさに絶品。@この世ならぬ味わい。@……もし、毬枝がそれをとても美味しく感じてくれたなら。@……それはこの旧校舎が、あなたを歓迎しているということなのよ。」\
 ;＜彼岸花
 
 ;bg black,22
 
-　……さっき保健の先生に聞いた気がする。@
+;　……さっき保健の先生に聞いた気がする。@
+` ...I feel like I heard that earlier from the Health Teacher.`@
 br
-　忘れ去られた旧校舎には、今は誰も住まわない。@……そんな旧校舎に私が住み着いて、きっと旧校舎も喜んでいるだろう、って話……。\
-
+;　忘れ去られた旧校舎には、今は誰も住まわない。@……そんな旧校舎に私が住み着いて、きっと旧校舎も喜んでいるだろう、って話……。\
+` 'The old school bulding is now forgotten.`@`...If I settled in that old school building, surely they'd be happy' she said...`\
 bg okujou_04,0
 ld c,HIG_w2,22
 ld c,HIG_w1,80
 
-「……だから、旧校舎はあなたを招いたのよ。@………そして、最高の黄泉桜の花で作った雫を、あなたに振舞いたかったに違いない。」\
+;「……だから、旧校舎はあなたを招いたのよ。@………そして、最高の黄泉桜の花で作った雫を、あなたに振舞いたかったに違いない。」\
+`"That's why the old school bulding invited you.`@`...And the droplets of the greates cherry blossom surely wanted to bloom inside of you."`\
 ;＜彼岸花
 
 　確かに、………それはこの世ならぬ、絶品の味。@
