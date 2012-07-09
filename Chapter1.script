@@ -1327,7 +1327,8 @@ ld l,KYO_D2,23
 ld r,HIG_d3,24
 ;ld r,HIG_d3,80
 
-「あのね。@これは、黄泉桜の花びらを砂糖漬けにしたものを、桜のうろに入れ、@まー、色々としたのから搾り出した、言わばジュースというわけ。」\
+;「あのね。@これは、黄泉桜の花びらを砂糖漬けにしたものを、桜のうろに入れ、@まー、色々としたのから搾り出した、言わばジュースというわけ。」\
+`"Y;know,`@`This is made by squeezing candied cherry blossoms of the underworld into the hollow of a cherry blossom tree.`@`We squeeze it out, so that's why we call it juice."`\
 ;＜彼岸花
 
 ld c,ma2_w2,22
@@ -1415,7 +1416,7 @@ wait 1000
 ` The world was dyed in the color of cherry blossoms, and the blessing given in the storm of petals of the flowers of the cherry blossom trees growing in the roof of the underworld as they opened increasingly was felt.`\  
 
 ;　毬枝が口にしたものは、人間たちの飲む酒とは異なる。@
-` That which Marie had put in her mouth was different from the rice wine drunk by human beings.`@
+` That which Marie had put in her mouth was different from the rice wine drunk by human beings.`@`
 br
 ;　しかし、妖力の足りない毬枝が口にすると、人間が酒に酔っ払うのとよく似た症状を引き起こす。\
 ` However, when that was put in the mouth of Marie, who lacked sufficient magical power, she showed symptoms similar to those of drunk human beings.`\
@@ -1425,7 +1426,7 @@ br
 ;bg black,22
 
 ;　……さっき保健の先生に聞いた気がする。@
-` ...I feel like I heard that earlier from the Health Teacher.`@
+` ...I feel like I heard that earlier from the Health Teacher.`@`
 br
 ;　忘れ去られた旧校舎には、今は誰も住まわない。@……そんな旧校舎に私が住み着いて、きっと旧校舎も喜んでいるだろう、って話……。\
 ` 'The old school bulding is now forgotten.`@`...If I settled in that old school building, surely they'd be happy' she said...`\
@@ -1439,15 +1440,17 @@ ld c,HIG_w1,80
 
 　確かに、………それはこの世ならぬ、絶品の味。@
 br
-　毬枝の全身を、温かな、じんわりとする心地良さが、やさしくやさしく染み渡るのだ。\
-
-　降り積もる桜の花びらに、柔らかく埋もれ、……羽根布団の中で眠りに落ちていくかのような心地よさ……。@
+;　毬枝の全身を、温かな、じんわりとする心地良さが、やさしくやさしく染み渡るのだ。\
+` A warm comfort gradually, gently spread through the whole of Marie's body.`\
+;　降り積もる桜の花びらに、柔らかく埋もれ、……羽根布団の中で眠りに落ちていくかのような心地よさ……。@
+` A compfort as if to make her gently fell into sleep among the fallen cherry blossom petals...`@`
 br
 　それは、生まれて初めて、そしてもちろん、死んで初めて味わう、極上の悦楽だった……。\
 
 bg black,22
 
-　……もう、彼岸花の声も聞こえない。@
+;　……もう、彼岸花の声も聞こえない。@
+` ....I can't hear Higanbana's voice anymore.`@`
 br
 　全てがやさしくやさしく降り積もって、……柔らかく包み込んでいく。\
 
