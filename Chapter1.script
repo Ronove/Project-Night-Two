@@ -1452,19 +1452,25 @@ bg black,22
 ;　……もう、彼岸花の声も聞こえない。@
 ` ....I can't hear Higanbana's voice anymore.`@`
 br
-　全てがやさしくやさしく降り積もって、……柔らかく包み込んでいく。\
+;　全てがやさしくやさしく降り積もって、……柔らかく包み込んでいく。\
+` She was all wrapped up, gently, gently.`\
 
-　………そっか。@旧校舎はずっと、寂しかったんだ。@
-　それで、私という妖怪が久し振りに住み着いて、……嬉しかったんだ。@
+;　………そっか。@旧校舎はずっと、寂しかったんだ。@
+` ....That's right.`@`The old school building was always lonely.`@`
+;　それで、私という妖怪が久し振りに住み着いて、……嬉しかったんだ。@
+` What's more, the monster called "Me" had long since settled down, I was happy.`@`
 br
-　……なら。@私は学校妖怪のみんなだけじゃなく、……旧校舎さんにも、挨拶をしなきゃ。\
-
-　………こんにちは、旧校舎さん。@
-　めそめその毬枝と申します。@
+;　……なら。@私は学校妖怪のみんなだけじゃなく、……旧校舎さんにも、挨拶をしなきゃ。\
+` So being the case`@`I not only have to greet all the monsters here but also the school building itself.`\
+;　………こんにちは、旧校舎さん。@
+` Good day, Mr. School Building.`@
+;　めそめその毬枝と申します。@
+` I'm Meso-meso Marie.`@`
 br
-　どうかこれからも、よろしくお願いしますね………。@
-　…………………………………。\
-
+;　どうかこれからも、よろしくお願いしますね………。@
+` Whatever happens in the future, I'm pleased to meet you...`@`
+;　…………………………………。\
+` ..............`\
 ;print 0
 bg white,2
 dllefe_off
@@ -1479,11 +1485,14 @@ wait 1000
 mov %HIG_Isyou,1
 ;bg white,2
 
-　………まるで、日曜日の朝の布団の中のような気持ちよさ。@
-　いつまでもこうして、……眠っていたい………。@
-　……あぁ、でも彼岸花さんがずっと呼んでる……。@
-　返事してあげないと拗ねちゃう……。@……むにゃむにゃ……。\
-
+;　………まるで、日曜日の朝の布団の中のような気持ちよさ。@
+`......A comfort just like that of lying in bed on Sunday morning.`@`
+;　いつまでもこうして、……眠っていたい………。@
+` I want to....sleep like this....forever.....`@`
+;　……あぁ、でも彼岸花さんがずっと呼んでる……。@
+` Ah, but Higanbana-san is always calling me...`@`
+;　返事してあげないと拗ねちゃう……。@……むにゃむにゃ……。\
+` When I don't answer, she pouts...`@`...*mumble mumble*...`\
 bg black,2
 
 me1v 16,50
@@ -1497,8 +1506,8 @@ ld r,HIG_D5,22
 ld l,MAR_D2a,6
 ld l,MAR_D4a,80
 
-「……ふぁ……、彼岸花さん…………。@……あれ？@　…………………。」\
-
+;「……ふぁ……、彼岸花さん…………。@……あれ？@　…………………。」\
+`"...Ah... Higanbana-san.....`@`...what?`@`......."`\
 　いつの間にか、夜が明け始めている。@
 　黄泉の桜もなくなり、宴席は影も形もなくなっている。@
 br
