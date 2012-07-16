@@ -1508,22 +1508,25 @@ ld l,MAR_D4a,80
 
 ;「……ふぁ……、彼岸花さん…………。@……あれ？@　…………………。」\
 `"...Ah... Higanbana-san.....`@`...what?`@`......."`\
-　いつの間にか、夜が明け始めている。@
-　黄泉の桜もなくなり、宴席は影も形もなくなっている。@
+;　いつの間にか、夜が明け始めている。@
+` Without realising it, the night was changing to dawn.`@`
+;　黄泉の桜もなくなり、宴席は影も形もなくなっている。@
+` The flowers of the underworld disappeared, as did the shadows and form of the banquet.`@`
 br
-　ちょっとみんなに挨拶しただけだったのに、@……私が眠っちゃったんで、そのままお開きになってしまったんだ……。\
-
+;　ちょっとみんなに挨拶しただけだったのに、@……私が眠っちゃったんで、そのままお開きになってしまったんだ……。\
+` Although I had only just greeted everyone,`@`...I fell asleep, and the party ended...`\
 ld r,HIG_d10,80
 
-「それよりあんた。@何でこんなところで寝ているわけ？」@
-
+;「それよりあんた。@何でこんなところで寝ているわけ？」@
+`"What's more,`@`Why are you sleeping in a place like this?"`@`
 ld l,MAR_D3a,80
 
-「何でって。@……彼岸花さんたちに飲まされて……、それで気持ちよくなって………。」\
-
+;「何でって。@……彼岸花さんたちに飲まされて……、それで気持ちよくなって………。」\
+`"Why?`@`...Higanbana, you and the others made me drink....so I felt sick...."`\
 ld r,HIG_D9a,80
 
-「何の話？」@
+;「何の話？」@
+`"What are you talking about?"`@`
 br
 
 cl r,0
@@ -1534,8 +1537,8 @@ E_A
 se1 48
 quakey 1,100
 
-　彼岸花は、あんたまだ寝惚けてんの？　と言って、@毬枝の頭を、調子の悪いラジオのように叩く。\
-
+;　彼岸花は、あんたまだ寝惚けてんの？　と言って、@毬枝の頭を、調子の悪いラジオのように叩く。\
+`Higanbana aksed "Are you still half-asleep?" and hit Marie's head like one would a malfunctioning radio.`\
 ld c,HIG_D10,80
 
 bgm1 8
@@ -1544,50 +1547,54 @@ bgm1 8
 
 ld l,MAR_D2a,80
 
-「あ、はい……。@それでだいぶ遅刻しましたけど、参加して……。」\
-
+;「あ、はい……。@それでだいぶ遅刻しましたけど、参加して……。」\
+`"Ah, yes...`@`And because of that, I was really late to join in..."`\
 cl c,0
 ld r,HIG_D9,23
 
-「何を言ってるの？@　あんた、結局、来なかったじゃない。」@
-
+;「何を言ってるの？@　あんた、結局、来なかったじゃない。」@
+`"What are you saying?`@`You, after all, didn't come did you?"`@`
 me1v 16,50
 
 br
-　彼岸花と話が噛み合わない。\
-
+;　彼岸花と話が噛み合わない。\
+`It didn't fit with Higanbana's story.`\
 ld l,MAR_D3a,80
 
-「……彼岸花さんこそ、何を言ってるんですか？@　私、こうして、ここに来て、一緒に皆さんとご挨拶をしたじゃないですか。」\
-
+;「……彼岸花さんこそ、何を言ってるんですか？@　私、こうして、ここに来て、一緒に皆さんとご挨拶をしたじゃないですか。」\
+`"Likewise, Higanbana, what are you talking about?`@`Didn't I come here and greet everyone?"`\
 bg black,22
 bg gakkou_07y,22
 
-「ここに来てって。@……ここ、旧校舎の屋上よ？」@
-「えぇ、はい。@旧校舎の屋上ですよ？」\
-
+;「ここに来てって。@……ここ、旧校舎の屋上よ？」@
+`"By coming here`@`you mean the roof of this old school building?"`@`
+;「えぇ、はい。@旧校舎の屋上ですよ？」\
+`"Yeah. It was the roof of the old school building, wasn't it?"`\
 bg black,22
 bg okujou_01u,22
 ld l,HIG_d10,22
 ;ld l,HIG_D1,80
 
-「何を言ってんの。@新校舎の屋上に決まってるでしょう？@　あんたまさか、ここだと勘違いして、ずっとひとりでここで待ってたわけ？！」@
-
+;「何を言ってんの。@新校舎の屋上に決まってるでしょう？@　あんたまさか、ここだと勘違いして、ずっとひとりでここで待ってたわけ？！」@
+`"What are you talking about?`@`We decided upon the roof of the new school bulding.`@` Wait, it couldn't be...you confused the locations and waited here all by yourself?!"`@`
 ld r,MAR_D4a,24
 ;ld r,MAR_D1,80
 
-「え、……で、でも…………。」\
-
+;「え、……で、でも…………。」\
+`"Wha--? B--but....."`\
 ld l,HIG_D5,80
 
-「あのねぇ。@あれだけ遅刻して到着して。@誰もいなかったら、場所を間違えたって普通は思わない？@　それで待ちくたびれて、寝ちゃってたってわけ？@　あぁ、毬枝……。@あんたって、そこまで愚かだったのね……。」@
+;「あのねぇ。@あれだけ遅刻して到着して。@誰もいなかったら、場所を間違えたって普通は思わない？@　それで待ちくたびれて、寝ちゃってたってわけ？@　あぁ、毬枝……。@あんたって、そこまで愚かだったのね……。」@
+`"Y'know.`@`To that extent, even with a late arrival,`@`if there's nobody there, I don't think mistaking a place can be normal, right?`@` And you just waited there...?`@`Man, Marie, that was stupid of you..."`@`
 br
-　彼岸花は、さんざん毬枝を馬鹿にすると、肩を竦めながら嘆く。\
-
+;　彼岸花は、さんざん毬枝を馬鹿にすると、肩を竦めながら嘆く。\
+`Higanbana, while chastising Marie, just shrugged her shoulders.`\
 ld r,MAR_D2a,80
 
-　でも、毬枝もわけがわからなくなってしまうのだ。@
-　そんなはずはない。@確かにここで、みんなは宴席をしていたじゃないか……。@
+;　でも、毬枝もわけがわからなくなってしまうのだ。@
+` But Marie still didn't understand.`@`
+;　そんなはずはない。@確かにここで、みんなは宴席をしていたじゃないか……。@
+` Surely that shouldn't be.`@`Surely she had taken part in a banquet with all the others here...`@`
 br
 　わけがわからず、ひょっとしてまだおかしな酔いが続いているのかと、毬枝は自分の頬を抓るしかない。\
 
@@ -1597,12 +1604,12 @@ ld l,HIG_w4,80
 
 ld r,MAR_D4a,80
 
-「はい。@……それはいただきました。@すごく美味しかったです。」@
-
+;「はい。@……それはいただきました。@すごく美味しかったです。」@
+`"Yes.`@`...I ate.`@`It was really delicious."`@`
 ld l,HIG_D10,80
 
-「飲めるわけないでしょ？@　あんた、来なかったんだから。」\
-
+;「飲めるわけないでしょ？@　あんた、来なかったんだから。」\
+`"Couldn't you drink?`@`Because you didn't come."`\
 ld r,MAR_D2a,80
 
 「……わ、私が寝惚けていたのかもしれないですけど。@……確かに昨夜、ここにも黄泉の桜が茂っていたんです。@そして私はその桜のお酒を……。」@
