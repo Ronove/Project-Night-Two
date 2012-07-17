@@ -1612,12 +1612,12 @@ ld l,HIG_D10,80
 `"Couldn't you drink?`@`Because you didn't come."`\
 ld r,MAR_D2a,80
 
-「……わ、私が寝惚けていたのかもしれないですけど。@……確かに昨夜、ここにも黄泉の桜が茂っていたんです。@そして私はその桜のお酒を……。」@
-
+;「……わ、私が寝惚けていたのかもしれないですけど。@……確かに昨夜、ここにも黄泉の桜が茂っていたんです。@そして私はその桜のお酒を……。」@
+`"....I-I guess I might have been half-asleep.`@`...Surely, last night I was here amongst the lush dark cheery blossoms.`@`So, the cherry blossoms, I might have...in the rice wine.."`@`
 ld l,HIG_d9,80
 
-「黄泉桜が、旧校舎の屋上に……？」\
-
+;「黄泉桜が、旧校舎の屋上に……？」\
+`"Underworld cherry blossoms? On the roof of the old school building?"`\
 
 mbg black,22
 
@@ -1626,11 +1626,13 @@ mbg black,22
 ;dllefe 6,3
 ;print 22
 
-「は、……はい。@……すごい幻想的な、美しい光景でしたよね……。」@
+;「は、……はい。@……すごい幻想的な、美しい光景でしたよね……。」@
+`"Y-Yes...`@`It was a fantastic, almost illusory sight, wasn't it...?"`@`
 br
-　仮に、昨夜の宴席が丸ごと幻だったとしても。@
-　あの屋上に咲き茂る黄泉桜の美しさは、断じて幻だったとは思えない。\
-
+;　仮に、昨夜の宴席が丸ごと幻だったとしても。@
+` Even if last night's banquet was an illusion,`@`
+;　あの屋上に咲き茂る黄泉桜の美しさは、断じて幻だったとは思えない。\
+` The beauty of the fervently blooming cherry blossoms on that roof, surely couldn't be one.`\
 ;dllefe_off
 ;print 0
 ;bg black,22
@@ -1649,16 +1651,16 @@ ld r,HIG_d8,22
 ld l,MAR_i4a,23
 ;ld l,MAR_D1,80
 
-「で、でも、咲いてたんですよ？！@　すごく美しくて不思議な光景で……。」\
-
+;「で、でも、咲いてたんですよ？！@　すごく美しくて不思議な光景で……。」\
+`"B-But they blossomed right?!`@`They were a really beautiful and mysterious sight..."`\
 ld r,HIG_D5,80
 
-「………………………………。@……それは本当に？@　だとしたら、とても珍しい、奇跡に違いないわ。@……そしてあなたは、その黄泉桜のうろのお酒を、飲んだわけ？」@
-
+;「………………………………。@……それは本当に？@　だとしたら、とても珍しい、奇跡に違いないわ。@……そしてあなたは、その黄泉桜のうろのお酒を、飲んだわけ？」@
+`".............`@`....Is that really the case?`@`If you say so, considering how rare a case that'd be, it's undoubtedly a miracle.`@`....and as for that rice wine of the cherry blossoms of the underworld, did you drink it?"`@`
 ld l,MAR_D4a,80
 
-「はい……。@とても甘い香りと味で、……とても美味しかったです……。」\
-
+;「はい……。@とても甘い香りと味で、……とても美味しかったです……。」\
+`"Yes....`@`It was very sweet in scent and taste....very delicious...."`\
 textoff
 
 fede 0,1000
@@ -1666,56 +1668,62 @@ E_A
 
 ld r,HIG_D3,80
 
-「…………………。@……何てことかしら、毬枝。@……あなたはひょっとしたら、すごく強運なのかもしれないわね。」@
-
+;「…………………。@……何てことかしら、毬枝。@……あなたはひょっとしたら、すごく強運なのかもしれないわね。」@
+`".........`@`....What on earth, Marie.`@`...Perhaps you're just very lucky, hm?"`@`
 ld l,MAR_D3a,80
 
 bgm1 1003
 
-「どういう意味ですか……？」\
-
+;「どういう意味ですか……？」\
+`"What do you mean?"`\
 ld r,HIG_D2,80
 
-「妖力もお酒に似てて、古く長く寝かせたものは、より強い力を宿すの。@……だから、もしもこの旧校舎に奇跡的に黄泉桜が生えて、そこから作られた桜酒だったなら。@……恐らくそれは、この世のものとは思えぬほどに、美味なものだったはず。」\
-
+;「妖力もお酒に似てて、古く長く寝かせたものは、より強い力を宿すの。@……だから、もしもこの旧校舎に奇跡的に黄泉桜が生えて、そこから作られた桜酒だったなら。@……恐らくそれは、この世のものとは思えぬほどに、美味なものだったはず。」\
+"That rice wine is like magic power in the sense that it was laid to rest long ago in favor of conceiving a greater power.`@`...That's why, if 
 ;ld l,MAR_D1,80
 
-　……そうだ。@毬枝は昨夜、確かにそんなことを言われた。\
-
+;　……そうだ。@毬枝は昨夜、確かにそんなことを言われた。\
+` ....Yes.`@`Last night, Marie was told such a thing indeed.`\
 ld r,HIG_w2,80
 
 「だとしたら、羨ましいわ。@……新校舎の黄泉桜は、まだまだ若い。@美味しいには美味しいけれど、あんたが味わったそれには、足元にも及ばないはず。@……存在しないはずの旧校舎の黄泉桜に、最高のお月見日和の満月の晩に出会えて、@最高の桜酒を味わえたなんて。@毬枝は本当に幸運だわ。」\
 
 ld l,MAR_D4a,80
 
-　……毬枝は、何が何だか、まるでわからない。@
-　でも、昨夜のお月見会が、夢か幻ではないことは確かなのだ。@
-　彼女の襟元に付いた、黄泉桜の花びらが、それを静かに物語っていた。@
+;　……毬枝は、何が何だか、まるでわからない。@
+` ...Marie had not the slightest idea of what was happening.`@`
+;　でも、昨夜のお月見会が、夢か幻ではないことは確かなのだ。@
+` But that last night's moon-viewing party was a dream or illusion was certainly not so.`@`
+;　彼女の襟元に付いた、黄泉桜の花びらが、それを静かに物語っていた。@
+` The cherry blossom petals stuck to her neck quietly said as much.`@`
 br
-　毬枝は改めて、昨夜のことを話す……。\
-
+;　毬枝は改めて、昨夜のことを話す……。\
+` Marie again spoke of last night....`\
 bg black,22
 bg okujou_03u,22
 
 ;ld r,HIG_D1,80
 
-「……ふぅん。@不思議なこともあるものね。」@
-
+;「……ふぅん。@不思議なこともあるものね。」@
+`"Hmmmmmm.`@`It's a really mysterious thing isn't it?"`@`
 ;ld l,MAR_D2a,80
 
-「私だって妖怪のはずなのに。@……昨夜、何があったのか、さっぱりです……。」\
-
+;「私だって妖怪のはずなのに。@……昨夜、何があったのか、さっぱりです……。」\
+`"Even for me, a monster`@`...last night was refreshing..."`\
 ;bg black,22
 ;bg Air_03,22
 
-「あまりに素敵なお月見の晩だったし。@……あんた、人が良さそうだからね。@……旧校舎の主に、呼ばれちゃったんじゃないかしら。」@
-「……………………。@……そうですね。@………そうかもしれませんね。」\
-
-　ありがとう、旧校舎さん。@
+;「あまりに素敵なお月見の晩だったし。@……あんた、人が良さそうだからね。@……旧校舎の主に、呼ばれちゃったんじゃないかしら。」@
+`"It wasn't a particularly great moon-viewing.`@`...You, you seem like a good person.`@`...I wonder if you weren't in fact called by the old school building."`@`
+;「……………………。@……そうですね。@………そうかもしれませんね。」\
+`".........`@`....is that so.`@`...I guess that might be that case"`\
+;　ありがとう、旧校舎さん。@
+`"Thank you, Old School Building-san."`@`
 br
-　また、月の綺麗な夜には、ご一緒しましょうね。@
-　どうか、今後ともよろしくお願いします。\
-
+;　また、月の綺麗な夜には、ご一緒しましょうね。@
+` Again, in the beautiful night of the moon, let's do it together.`@`
+;　どうか、今後ともよろしくお願いします。\
+` Whatever happens, thank you in advance.`\
 
 ;＜おしまい＞
 
