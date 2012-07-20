@@ -1,31 +1,31 @@
 ;;Chapter 1
-;ã€€æœˆã®ç¾ã—ã„å¤œã ã£ãŸã€‚@
-`ã€€'It was a beautiful moon that night.'`@
+;@Œ‚Ì”ü‚µ‚¢–é‚¾‚Á‚½B@
+`@'It was a beautiful moon that night.'`@
 br
-;ã€€å¤œã®æ ¡èˆã‚‚å¤§ããªæº€æœˆã«å½©ã‚‰ã‚Œã‚‹ã¨ã€ä¸æ°—å‘³ã•ã®ä¸­ã«ã‚‚é¢¨æƒ…ãŒæ„Ÿã˜ã‚‰ã‚Œã‚‹ã‚‚ã®ã ã€‚\
-`ã€€Even the school building at night was colored by the full moon, and its ominous presence could be felt in the air.`\
+;@–é‚ÌZÉ‚à‘å‚«‚È–Œ‚ÉÊ‚ç‚ê‚é‚ÆA•s‹C–¡‚³‚Ì’†‚É‚à•—î‚ªŠ´‚¶‚ç‚ê‚é‚à‚Ì‚¾B\
+`@Even the school building at night was colored by the full moon, and its ominous presence could be felt in the air.`\
 
-;ã€€æº€æœˆã«ã¯ä¸æ€è­°ãªåŠ›ãŒã‚ã‚Šã€å¦–æ€ªãŸã¡ã‚’ã‚‚æ´»ç™ºã«ã•ã›ã‚‹ã€‚@
-`ã€€The full moon has mysterious powers, and it even invigorates youkai.`@
-;ã€€ã ã‹ã‚‰æº€æœˆã®å¤œã®å­¦æ ¡å¦–æ€ªãŸã¡ã¯ä¸Šæ©Ÿå«Œã€‚@
-`ã€€And so the school youkai are soothed when the full moon is out.`@
+;@–Œ‚É‚Í•sv‹c‚È—Í‚ª‚ ‚èA—d‰ö‚½‚¿‚ğ‚àŠˆ”­‚É‚³‚¹‚éB@
+`@The full moon has mysterious powers, and it even invigorates youkai.`@
+;@‚¾‚©‚ç–Œ‚Ì–é‚ÌŠwZ—d‰ö‚½‚¿‚Íã‹@Œ™B@
+`@And so the school youkai are soothed when the full moon is out.`@
 br
-;ã€€æ™‚ã«ã€æ®ºä¼ã¨ã—ãŸé­‚ã®ã‚„ã‚Šå–ã‚Šã‚’ä¼‘ã¿ã€ãŠæœˆè¦‹ä¼šãªã©ã¨ã„ã†ã€é¢¨æµãªå‚¬ã—ã‚’é–‹ã„ã¦ã¿ãŸã‚Šã‚‚ã™ã‚‹â€¦â€¦ã€‚\
-`ã€€Sometimes they even take a break from stealing brutally murdered souls and hold an elegent event known as the Lunar Festival...`\
+;@‚ÉAE”°‚Æ‚µ‚½°‚Ì‚â‚èæ‚è‚ğ‹x‚İA‚¨ŒŒ©‰ï‚È‚Ç‚Æ‚¢‚¤A•——¬‚ÈÃ‚µ‚ğŠJ‚¢‚Ä‚İ‚½‚è‚à‚·‚éccB\
+`@Sometimes they even take a break from stealing brutally murdered souls and hold an elegent event known as the Lunar Festival...`\
 
 bg black,22
 bg gakkou_07y,22
 
-;ã€Œãˆã£ã¨ã€ãˆã£ã¨ãˆã£ã¨â€¦â€¦ï¼@ã€€ã‚‚ã†ä¸€åº¦ã€ç²¾ç¥ã‚’é›†ä¸­ã—ã¦â€¦â€¦ã€‚@â€¦â€¦ã†ãƒ¼ã‚“â€¦â€¦â€¦ã€‚@â€¦â€¦ãˆã„ãƒƒã€‚@/
+;u‚¦‚Á‚ÆA‚¦‚Á‚Æ‚¦‚Á‚ÆccI@@‚à‚¤ˆê“xA¸_‚ğW’†‚µ‚ÄccB@cc‚¤[‚ñcccB@cc‚¦‚¢ƒbB@/
 `"Ummm, umumum...! `@`One more time, focus your mind... `@`...Mmmhmm... `@`..There~`@/
 
 quakey 1,100
 
-;ãã‚ƒãƒ¼ãƒ¼ãƒ¼ãƒƒã€ã¾ãŸè£¸ããƒ¼ãƒ¼ãƒ¼ãƒƒï¼ï¼ã€@
+;‚«‚á[[[ƒbA‚Ü‚½—‡‚Ÿ[[[ƒbIIv@
 `Kyaaaaa, I'm naked agaaaaain!!"`@
 br
-;ã€€æ¯¬æã®è³‘ã‚„ã‹ãªå«ã³ãŒæ—§æ ¡èˆã«æœ¨éœŠã™ã‚‹ã€‚\
-`ã€€Marie's lively scream echoes through the old school building.`\
+;@Ÿ{}‚Ì“ö‚â‚©‚È‹©‚Ñ‚ª‹ŒZÉ‚É–Ø—ì‚·‚éB\
+`@Marie's lively scream echoes through the old school building.`\
 
 ;bg black,22
 ;bg toire_01,22
@@ -33,85 +33,85 @@ br
 bg black,22
 bg toire_02,22
 
-;ã€€ã‚ãã‚ãã•ã‚“ã®ãƒˆã‚¤ãƒ¬ã§ã¯ã€æ¯¬æãŒä½™æ‰€è¡Œãã®æ ¼å¥½ã®â€œç€æ›¿ãˆâ€ã«æŒ‘æˆ¦ã—ã¦ã„ãŸã€‚\
-`ã€€In Mesomeso-san's bathroom, Marie was challenging herself to 'change' into her best outfit.`\
+;@‚ß‚»‚ß‚»‚³‚ñ‚ÌƒgƒCƒŒ‚Å‚ÍAŸ{}‚ª—]Šs‚«‚ÌŠiD‚Ìg’…‘Ö‚¦h‚É’§í‚µ‚Ä‚¢‚½B\
+`@In Mesomeso-san's bathroom, Marie was challenging herself to 'change' into her best outfit.`\
 
 
 
-;ã€€å¦–æ€ªãŸã¡ã®ç€æ›¿ãˆã«ã¯ã€ã¡ã‚‡ã£ã¨ã—ãŸã‚³ãƒ„ãŒã„ã‚‹ã€‚@
-`ã€€The way youkai change clothes takes a bit of getting used to.`@
-;ã€€ä½•ã—ã‚å¦–æ€ªãŸã¡ã¯éœŠçš„ãªå­˜åœ¨ã€‚@æœ¬æ¥ã€ãã®å§¿ã¯ä¸å¯è¦–ã§ã€è‚‰ä½“ã¯å­˜åœ¨ã•ãˆã—ãªã„ã®ã ã€‚@
-`ã€€After all, youkai are incorporeal beings. `@`Their forms are invisible, and their bodies no longer exist.`@
+;@—d‰ö‚½‚¿‚Ì’…‘Ö‚¦‚É‚ÍA‚¿‚å‚Á‚Æ‚µ‚½ƒRƒc‚ª‚¢‚éB@
+`@The way youkai change clothes takes a bit of getting used to.`@
+;@‰½‚µ‚ë—d‰ö‚½‚¿‚Í—ì“I‚È‘¶İB@–{—ˆA‚»‚Ìp‚Í•s‰Â‹‚ÅA“÷‘Ì‚Í‘¶İ‚³‚¦‚µ‚È‚¢‚Ì‚¾B@
+`@After all, youkai are incorporeal beings. `@`Their forms are invisible, and their bodies no longer exist.`@
 br
-;ã€€ã ã‹ã‚‰ã€æœã‚’è²·ã£ã¦ãã¦ã€ãã‚Œã‚’ç€ã‚Œã°ç€æ›¿ãˆå®Œäº†ã¨ã¯ãªã‚‰ãªã„ã€‚\
-`ã€€So they can't go out, buy clothes, and simply change into them.`\
+;@‚¾‚©‚çA•‚ğ”ƒ‚Á‚Ä‚«‚ÄA‚»‚ê‚ğ’…‚ê‚Î’…‘Ö‚¦Š®—¹‚Æ‚Í‚È‚ç‚È‚¢B\
+`@So they can't go out, buy clothes, and simply change into them.`\
 
 bg black,22
 bg toire_03,22
 ld c,MAR_D2a,22
 ;ld c,MAR_D3a,80
 
-;ã€Œã“ã®æœã«æˆ»ã‚‹ã®ã¯ç°¡å˜ãªã‚“ã ã‘ã©ãªãâ€¦â€¦ã€‚@â€¦â€¦ã†ãƒ¼ã‚“ã€ã‚ˆãç²¾ç¥ã‚’é›†ä¸­ã—ã¦ã€ã‚‚ã†ä¸€åº¦â€¦â€¦ã€‚ã€\
+;u‚±‚Ì•‚É–ß‚é‚Ì‚ÍŠÈ’P‚È‚ñ‚¾‚¯‚Ç‚È‚ŸccB@cc‚¤[‚ñA‚æ‚­¸_‚ğW’†‚µ‚ÄA‚à‚¤ˆê“xccBv\
 `"Getting back into this outfit should be easy but... `@`...Okay, concentrate, one more time..."`\ 
 
-;ã€€å¦–æ€ªã®æœè£…ã¯ã€å¤§æŠµã®å ´åˆã€ä¾ã‚Šä»£ã«å¤§ããä¾å­˜ã™ã‚‹ã€‚@
-`ã€€Usually, youkai outfits depend largely on spirit anchors.`@
+;@—d‰ö‚Ì•‘•‚ÍA‘å’ï‚Ìê‡AˆË‚è‘ã‚É‘å‚«‚­ˆË‘¶‚·‚éB@
+`@Usually, youkai outfits depend largely on spirit anchors.`@
 br
-;ã€€å½¼å²¸èŠ±ã®å ´åˆã¯ã€ä¾ã‚Šä»£ã¨ãªã£ã¦ã„ã‚‹è¥¿æ´‹äººå½¢ã®æœè£…ãŒåŸºæœ¬ã¨ãªã‚‹ã€‚@
-`ã€€In Higanbana's case, her Western doll is her anchor and the basis for her attire.`@
-;ã€€ãã—ã¦ã€æ­»è€…å‡ºèº«ã§ã‚ã‚‹æ¯¬æã®å ´åˆã€æœ€æœŸã®æ™‚ã«ç€ã¦ã„ãŸæœè£…ãŒåŸºæœ¬ã ã€‚\
-`ã€€And so for the deceased Marie, her attire is based on the clothes she wore in her final moments.`\
+;@”ŞŠİ‰Ô‚Ìê‡‚ÍAˆË‚è‘ã‚Æ‚È‚Á‚Ä‚¢‚é¼—mlŒ`‚Ì•‘•‚ªŠî–{‚Æ‚È‚éB@
+`@In Higanbana's case, her Western doll is her anchor and the basis for her attire.`@
+;@‚»‚µ‚ÄA€Òog‚Å‚ ‚éŸ{}‚Ìê‡AÅŠú‚Ì‚É’…‚Ä‚¢‚½•‘•‚ªŠî–{‚¾B\
+`@And so for the deceased Marie, her attire is based on the clothes she wore in her final moments.`\
 
 ld c,MAR_i4,80
 
-;ã€€ãã‚Œã¨ç•°ãªã‚‹æœè£…ã«å¤–è¦‹ã‚’å¤‰ãˆã‚‹ã«ã¯ã€å¦–åŠ›ã‚’ç”¨ã„ã¦ã€è‡ªã‚‰ã®å¤–è¦‹ã‚’è£…é£¾ã—ãªãã¦ã¯ãªã‚‰ãªã„ã€‚@
-`ã€€That means she has to use spiritual energy to change her outer appearance into a different outfit than the one she died in.`@
+;@‚»‚ê‚ÆˆÙ‚È‚é•‘•‚ÉŠOŒ©‚ğ•Ï‚¦‚é‚É‚ÍA—d—Í‚ğ—p‚¢‚ÄA©‚ç‚ÌŠOŒ©‚ğ‘•ü‚µ‚È‚­‚Ä‚Í‚È‚ç‚È‚¢B@
+`@That means she has to use spiritual energy to change her outer appearance into a different outfit than the one she died in.`@
 br
-;ã€€å¤‰ãˆãŸã„å¤–è¦‹ã‚’ã‚ˆãã‚¤ãƒ¡ãƒ¼ã‚¸ã—ã¦ã€ç²¾ç¥ã‚’é›†ä¸­ã€‚@â€¦â€¦ãã—ã¦ã€æ°—åˆä¸€ç™ºï¼@ã€€ãˆã„ã£ã€‚\
-`ã€€She has to imagine what she wants to look like and gather her spirit. `@`...Then, in a burst of energy! `@`There~!.`\
+;@•Ï‚¦‚½‚¢ŠOŒ©‚ğ‚æ‚­ƒCƒ[ƒW‚µ‚ÄA¸_‚ğW’†B@cc‚»‚µ‚ÄA‹C‡ˆê”­I@@‚¦‚¢‚ÁB\
+`@She has to imagine what she wants to look like and gather her spirit. `@`...Then, in a burst of energy! `@`There~!.`\
 
 se1 48
 bg white,1
 ;bg black,22
 bg toire_04,22
 
-;ã€€ãƒ‰ãƒ­ãƒ³ã¨ç…™ãŒå‡ºã‚‹ãŒã€ã¾ãŸã—ã¦ã‚‚è£¸ã«ã€‚\
-`ã€€A puff of smoke appears, and she's nude once again.`\
+;@ƒhƒƒ“‚Æ‰Œ‚ªo‚é‚ªA‚Ü‚½‚µ‚Ä‚à—‡‚ÉB\
+`@A puff of smoke appears, and she's nude once again.`\
 
 quake 3,300
 
-;ã€€åˆ¥ã«èª°ã‹ã«è¦‹ã‚‰ã‚Œã¦ã„ã‚‹ã‚ã‘ã§ã‚‚ãªã„ã®ã ãŒã€@æ¯¬æã¯ãã‚ƒãƒ¼ãã‚ƒãƒ¼é¨’ã„ã§ã€å…ƒã®æœã«æˆ»ã‚Šã€ãã—ã¦ç²¾ç¥ã‚’çµ±ä¸€ã—ã¦â€¦â€¦ã€ã‚’ä½•åº¦ã‚‚ç¹°ã‚Šè¿”ã—ã¦ã„ã‚‹ã€‚@
-`ã€€It's not as though anyone was watching her, `@`but Marie made a racket with her `Kyaaa kyaaa`s. `@`She went back to her old form and focused her spirit... repeating this over and over.`@
+;@•Ê‚É’N‚©‚ÉŒ©‚ç‚ê‚Ä‚¢‚é‚í‚¯‚Å‚à‚È‚¢‚Ì‚¾‚ªA@Ÿ{}‚Í‚«‚á[‚«‚á[‘›‚¢‚ÅAŒ³‚Ì•‚É–ß‚èA‚»‚µ‚Ä¸_‚ğ“ˆê‚µ‚ÄccA‚ğ‰½“x‚àŒJ‚è•Ô‚µ‚Ä‚¢‚éB@
+`@It's not as though anyone was watching her, `@`but Marie made a racket with her `Kyaaa kyaaa`s. `@`She went back to her old form and focused her spirit... repeating this over and over.`@
 br
-;ã€€ãã“ã¾ã§é›£ã—ã„ã“ã¨ã§ã¯ãªã„ã¯ãšãªã®ã ãŒã€@æ¯¬æã¯å…ƒã€…ã€å¦–åŠ›ãŒå°ã•ã„ã—ã€ãã®ä¸Šã€ã‚³ãƒ„ã‚‚æ´ã‚“ã§ã„ãªã„ã®ã§ã€ãªã‹ãªã‹æ€ã„é€šã‚Šã«å‡ºæ¥ãªã„ã®ã ã€‚\
-`ã€€It wasn't something that was that hard, `@`but Marie's powers weren't much to begin with. `@`On top of that, since she still hasn't gotten the hang of it, she can't really change when she wants to change.`\
+;@‚»‚±‚Ü‚Å“ï‚µ‚¢‚±‚Æ‚Å‚Í‚È‚¢‚Í‚¸‚È‚Ì‚¾‚ªA@Ÿ{}‚ÍŒ³XA—d—Í‚ª¬‚³‚¢‚µA‚»‚ÌãAƒRƒc‚à’Í‚ñ‚Å‚¢‚È‚¢‚Ì‚ÅA‚È‚©‚È‚©v‚¢’Ê‚è‚Éo—ˆ‚È‚¢‚Ì‚¾B\
+`@It wasn't something that was that hard, `@`but Marie's powers weren't much to begin with. `@`On top of that, since she still hasn't gotten the hang of it, she can't really change when she wants to change.`\
 
 bg black,22
 bg toire_03,0
 ld c,MAR_D2a,22
 ;ld c,MAR_D1,80
 
-;ã€Œã†ãƒ¼ã‚“â€¦â€¦ã€‚@ãã‚‚ãã‚‚ç§ã€ç´ æ•µãªãŠæ´‹æœã£ã¦ã€å…¨ç„¶æƒ³åƒã§ããªã„â€¦â€¦ã€‚@ã†ãƒ¼ã‚“â€¦â€¦ã€‚ã€@
+;u‚¤[‚ñccB@‚»‚à‚»‚à„A‘f“G‚È‚¨—m•‚Á‚ÄA‘S‘R‘z‘œ‚Å‚«‚È‚¢ccB@‚¤[‚ñccBv@
 `"Hmmm... `@`Then again, I can't really imagine myself in a beautiful dress... `@`*Sigh*..."`@
 br
-;ã€€ã‚ã¾ã‚Šãƒ•ã‚¡ãƒƒã‚·ãƒ§ãƒ³ã«é–¢å¿ƒã®ãªã‹ã£ãŸæ¯¬æã«ã¨ã£ã¦ã€ä½™æ‰€è¡Œãã®æœè£…ã‚’æƒ³åƒã™ã‚‹ã®ã¯ã€ã‹ãªã‚Šé›£ã—ã„ã“ã¨ãªã®ã ã€‚\
-`ã€€Since Marie didn't really have an interest in fashion, imagining the best Western clothes is pretty difficult for her.`\
+;@‚ ‚Ü‚èƒtƒ@ƒbƒVƒ‡ƒ“‚ÉŠÖS‚Ì‚È‚©‚Á‚½Ÿ{}‚É‚Æ‚Á‚ÄA—]Šs‚«‚Ì•‘•‚ğ‘z‘œ‚·‚é‚Ì‚ÍA‚©‚È‚è“ï‚µ‚¢‚±‚Æ‚È‚Ì‚¾B\
+`@Since Marie didn't really have an interest in fashion, imagining the best Western clothes is pretty difficult for her.`\
 
 bg black,22
 
-;ã€€ä»Šå¤œã¯ã€å­¦æ ¡å¦–æ€ªãŸã¡ã®ãŠæœˆè¦‹ä¼šã€‚@
-`ã€€Tonight is the Lunar Festival for the school youkai.`@
+;@¡–é‚ÍAŠwZ—d‰ö‚½‚¿‚Ì‚¨ŒŒ©‰ïB@
+`@Tonight is the Lunar Festival for the school youkai.`@
 br
-;ã€€æ™®æ®µã€ã‚®ã‚¹ã‚®ã‚¹ã™ã‚‹ã“ã¨ãŒå¤šã„å­¦æ ¡å¦–æ€ªãŸã¡ã‚‚ã€ä»Šå¤œã°ã‹ã‚Šã¯ä¼‘æˆ¦ã€‚@ä»²è‰¯ããŠé…’ã‚’é…Œã¿äº¤ã‚ã™ã¨ã„ã†ã€å’Œã‚„ã‹ãªè¡Œäº‹ãªã®ã ã€‚\
-`ã€€Only for tonigh, even the school youkai that often have conflicts with each other hold truces. `@`It's a harmoneous event where they mingle and drink together.`\
+;@•’iAƒMƒXƒMƒX‚·‚é‚±‚Æ‚ª‘½‚¢ŠwZ—d‰ö‚½‚¿‚àA¡–é‚Î‚©‚è‚Í‹xíB@’‡—Ç‚­‚¨ğ‚ğŞ‚İŒğ‚í‚·‚Æ‚¢‚¤A˜a‚â‚©‚Ès–‚È‚Ì‚¾B\
+`@Only for tonigh, even the school youkai that often have conflicts with each other hold truces. `@`It's a harmoneous event where they mingle and drink together.`\
 
 bg toire_06,22
 
-;ã€€ä½•ã ã‹ã‚“ã è¨€ã£ã¦ã€æ¯¬æã¯æœªã ã«ã€å­¦æ ¡å¦–æ€ªã®å…¨å“¡ã¨ã¯ä¼šã£ã¦ã„ãªã„ã€‚@
-`ã€€For whatever reason, Marie still hasn't met all of the school youkai.`@
+;@‰½‚¾‚©‚ñ‚¾Œ¾‚Á‚ÄAŸ{}‚Í–¢‚¾‚ÉAŠwZ—d‰ö‚Ì‘Sˆõ‚Æ‚Í‰ï‚Á‚Ä‚¢‚È‚¢B@
+`@For whatever reason, Marie still hasn't met all of the school youkai.`@
 br
-;ã€€ã ã‹ã‚‰ã€å½¼ã‚‰ãŒä¸€å ‚ã«ä¼šã™ã‚‹ä»Šæ—¥ã‚’ã€ã¨ã¦ã‚‚æ¥½ã—ã¿ã«ã—ã¦ã„ãŸã€‚\
-`ã€€So she was really looking forward to meeting them today when they are all under the same roof.`\
+;@‚¾‚©‚çA”Ş‚ç‚ªˆê“°‚É‰ï‚·‚é¡“ú‚ğA‚Æ‚Ä‚àŠy‚µ‚İ‚É‚µ‚Ä‚¢‚½B\
+`@So she was really looking forward to meeting them today when they are all under the same roof.`\
 
 bg black,22
 mono 1
@@ -120,29 +120,29 @@ ld l,MAR_w2,0
 ld r,HIG_D5,22
 
 
-;ã€€ã•ãã€è¡Œã“ã†ï¼@ã€€ã¨ãªã£ãŸã‚‰ã€å”çªã«å½¼å²¸èŠ±ã«è¨€ã‚ã‚ŒãŸã®ã ã€‚@
-`ã€€Okay, let's go! `@`Higanbana said suddenly.`@
+;@‚³‚ŸAs‚±‚¤I@@‚Æ‚È‚Á‚½‚çA“‚“Ë‚É”ŞŠİ‰Ô‚ÉŒ¾‚í‚ê‚½‚Ì‚¾B@
+`@Okay, let's go! `@`Higanbana said suddenly.`@
 br
 ld r,HIG_w4,80
 
-;ã€€ã­ã‡ã€æ¯¬æã€‚@ã‚ãªãŸã€ãã‚“ãªã‚„ã¼ã£ãŸã„æ ¼å¥½ã§å‡ºæ›ã‘ã‚‹ã®ã‹ã—ã‚‰ï¼Ÿã£ã¦ã€‚\
-`ã€€She said, Heey Marie. `@`Are you really gonna go out with a shabby outfit like that, I wonder?`\
+;@‚Ë‚¥AŸ{}B@‚ ‚È‚½A‚»‚ñ‚È‚â‚Ú‚Á‚½‚¢ŠiD‚ÅoŠ|‚¯‚é‚Ì‚©‚µ‚çH‚Á‚ÄB\
+`@She said, Heey Marie. `@`Are you really gonna go out with a shabby outfit like that, I wonder?`\
 
 ld l,MAR_d4a,80
 
-;ã€€å½¼å²¸èŠ±ã‚„ã‚¹ãƒŸãƒ¬ãªã©ã¯ã€çµæ§‹ã€ç«‹æ´¾ãªæ ¼å¥½ã—ã¦ã„ã‚‹ã‹ã‚‰è‰¯ã„ã®ã ãŒã€â€¦â€¦è¨€ã‚ã‚Œã¦ã¿ã‚Œã°ã€æ¯¬æã¯ãŸã ã®ç§æœã ã€‚@
-`ã€€Youkai like Higanbana and Sumire had rather splendid outfits and look fine, ...but to put it bluntly, Marie's clothes are plain.`@
+;@”ŞŠİ‰Ô‚âƒXƒ~ƒŒ‚È‚Ç‚ÍAŒ‹\A—§”h‚ÈŠiD‚µ‚Ä‚¢‚é‚©‚ç—Ç‚¢‚Ì‚¾‚ªAccŒ¾‚í‚ê‚Ä‚İ‚ê‚ÎAŸ{}‚Í‚½‚¾‚Ì„•‚¾B@
+`@Youkai like Higanbana and Sumire had rather splendid outfits and look fine, ...but to put it bluntly, Marie's clothes are plain.`@
 br
-;ã€€ç„¡ç†ã‚‚ãªã„ã€‚@ãã®å§¿ã§å½¼å¥³ã¯æ­»ã«ã€å¦–æ€ªã«ãªã£ãŸã®ã ã‹ã‚‰ã€‚\
-`ã€€It's understandable. `@`She died and became a youkai in that state after all.`\
+;@–³—‚à‚È‚¢B@‚»‚Ìp‚Å”Ş—‚Í€‚ÉA—d‰ö‚É‚È‚Á‚½‚Ì‚¾‚©‚çB\
+`@It's understandable. `@`She died and became a youkai in that state after all.`\
 
 ;ld r,HIG_D1,80
 
-;ã€€å¾…ã£ã¦ã¦ã‚ã’ã‚‹ã‹ã‚‰ã€å°‘ã—ã¯ãƒã‚·ãªæ ¼å¥½ã«ç€æ›¿ãˆã¦ã‚‰ã£ã—ã‚ƒã„ã€‚@è¦é ˜ã¯ä»Šã€æ•™ãˆã¦ã‚ã’ãŸé€šã‚Šã€‚@å¤§ä¸ˆå¤«ã€æ…£ã‚Œã‚Œã°è‡ªç”±è‡ªåœ¨ã‚ˆã€‚@
-`ã€€We'll wait for you, so go ahead and change into some better clothes. `@`Just do as I taught you. `@`You'll be fine, when you get used to it you can do it whenever!`@
+;@‘Ò‚Á‚Ä‚Ä‚ ‚°‚é‚©‚çA­‚µ‚Íƒ}ƒV‚ÈŠiD‚É’…‘Ö‚¦‚Ä‚ç‚Á‚µ‚á‚¢B@—v—Ì‚Í¡A‹³‚¦‚Ä‚ ‚°‚½’Ê‚èB@‘åä•vAŠµ‚ê‚ê‚Î©—R©İ‚æB@
+`@We'll wait for you, so go ahead and change into some better clothes. `@`Just do as I taught you. `@`You'll be fine, when you get used to it you can do it whenever!`@
 br
-;ã€€â€¦â€¦â€¦æœ€åˆã®å†…ã¯å½¼å²¸èŠ±ã‚‚å»Šä¸‹ã§å¾…ã£ã¦ã¦ãã‚ŒãŸã®ã ãŒã€‚@ã‚ã¾ã‚Šã«æ¯¬æã®è¦é ˜ãŒæ‚ªã„ã®ã§ã€ã¨ã†ã¨ã†æ„›æƒ³ã‚’å°½ã‹ã—ã€å…ˆã«è¡Œã£ã¦ã‚‹ã‚ã¨è¡Œã£ã¦ã—ã¾ã£ãŸã®ã ã€‚\
-`ã€€...At first Higanbana waited on her in the hall, `@`but Marie wasn't very good at the basics, so eventually she got impatient and said, "Kay, I'm going on ahead~."`\
+;@cccÅ‰‚Ì“à‚Í”ŞŠİ‰Ô‚à˜L‰º‚Å‘Ò‚Á‚Ä‚Ä‚­‚ê‚½‚Ì‚¾‚ªB@‚ ‚Ü‚è‚ÉŸ{}‚Ì—v—Ì‚ªˆ«‚¢‚Ì‚ÅA‚Æ‚¤‚Æ‚¤ˆ¤‘z‚ğs‚©‚µAæ‚És‚Á‚Ä‚é‚í‚Æs‚Á‚Ä‚µ‚Ü‚Á‚½‚Ì‚¾B\
+`@...At first Higanbana waited on her in the hall, `@`but Marie wasn't very good at the basics, so eventually she got impatient and said, "Kay, I'm going on ahead~."`\
 
 bg black,22
 mono 0
@@ -150,38 +150,38 @@ bg toire_03,0
 ld c,MAR_D3,22
 ld c,MAR_D2a,80
 
-;ã€Œç´ æ•µãªãŠæ´‹æœã¨ã‹ã€å…¨ç„¶æ€ã„ã¤ã‹ãªã„â€¦â€¦ã€‚@â€¦â€¦ã‚‚ã†ã“ã®éš›ã€ä½•ã§ã‚‚ã„ã„ã‹ã‚‰ã€ã¨ã«ã‹ãæ—©ãç€æ›¿ãˆãªã„ã¨â€¦â€¦ã€‚@â€¦â€¦â€¦ã¨ã«ã‹ãä½•ã§ã‚‚ã„ã„ã‹ã‚‰ã€â€¦â€¦ã„ã„ã‹ã‚‰â€¦â€¦ã€‚ã€\
+;u‘f“G‚È‚¨—m•‚Æ‚©A‘S‘Rv‚¢‚Â‚©‚È‚¢ccB@cc‚à‚¤‚±‚ÌÛA‰½‚Å‚à‚¢‚¢‚©‚çA‚Æ‚É‚©‚­‘‚­’…‘Ö‚¦‚È‚¢‚ÆccB@ccc‚Æ‚É‚©‚­‰½‚Å‚à‚¢‚¢‚©‚çAcc‚¢‚¢‚©‚çccBv\
 `"I can't think of any pretty dresses... `@`At this point anything would be fine, so I have to hurry up and change or... `@`Anyway, anything is good... anything..."`\
 
 bg black,22
 ld r,HIG_d5,22
 ;ld r,HIG_D1,80
 
-;ã€€ç´ æ•µãªãƒ‰ãƒ¬ã‚¹ã¨ã‹æ†§ã‚Œã‚‹ã‘ã‚Œã©ã€ã©ã†ã›è‡ªåˆ†ã«ã¯ä¼¼åˆã‚ãªã„ã«æ±ºã¾ã£ã¦ã‚‹ã€‚@
-`ã€€I might want a pretty dress, but it's obvious it doesn't suit me.`@
+;@‘f“G‚ÈƒhƒŒƒX‚Æ‚©“²‚ê‚é‚¯‚ê‚ÇA‚Ç‚¤‚¹©•ª‚É‚Í—‡‚í‚È‚¢‚ÉŒˆ‚Ü‚Á‚Ä‚éB@
+`@I might want a pretty dress, but it's obvious it doesn't suit me.`@
 br
-;ã€€ä½•ã‚’ç€ã‚Œã°ä¼¼åˆã†ã‹ãªã€ä½•ã‚’ç€ã‚Œã°ä¼¼åˆã†ã‹ãªâ€¦â€¦ã€‚@æ€ã„ä»˜ã‹ãªã„ã€‚\
-`ã€€What should I change into, what should I change into... `@`I have no idea.`\
+;@‰½‚ğ’…‚ê‚Î—‡‚¤‚©‚ÈA‰½‚ğ’…‚ê‚Î—‡‚¤‚©‚ÈccB@v‚¢•t‚©‚È‚¢B\
+`@What should I change into, what should I change into... `@`I have no idea.`\
 
 mov %SMI_Isyou,2
 cl r,0
 ld l,SMI_w1,22
 ;ld l,SMI_D1,80
 
-;ã€€â€¦â€¦ç´ æ•µãªãŠæ´‹æœã¨ã¯è¨€ã‚ãªã„ã¾ã§ã‚‚ã€‚@â€¦â€¦ä»Šæ—¥ã®ãŠæœˆè¦‹ä¼šã«ç›¸å¿œã—ã„æ ¼å¥½ã£ã¦ä½•ã ã‚ã†ã€‚@
-`ã€€...Even if it's not a pretty dress, `@`I wonder what would be best to wear today on the Lunar Festival.`@
+;@cc‘f“G‚È‚¨—m•‚Æ‚ÍŒ¾‚í‚È‚¢‚Ü‚Å‚àB@cc¡“ú‚Ì‚¨ŒŒ©‰ï‚É‘Š‰‚µ‚¢ŠiD‚Á‚Ä‰½‚¾‚ë‚¤B@
+`@...Even if it's not a pretty dress, `@`I wonder what would be best to wear today on the Lunar Festival.`@
 br
-;ã€€å’Œæœãªã‚“ã¦ç€ãŸã“ã¨ãªã„ã‹ã‚‰ã€ã‚¤ãƒ¡ãƒ¼ã‚¸ã§ããªã„ã—â€¦â€¦ã€‚\
-`ã€€I haven't worn a kimono before, so I can't imagine myself in one...`\
+;@˜a•‚È‚ñ‚Ä’…‚½‚±‚Æ‚È‚¢‚©‚çAƒCƒ[ƒW‚Å‚«‚È‚¢‚µccB\
+`@I haven't worn a kimono before, so I can't imagine myself in one...`\
 
 bg black,22
 bg toire_04,22
 
-;ã€€â€¦â€¦ãã£ã‹ã€‚@è€ƒãˆã¦ã¿ãŸã‚‰ã€å­¦æ ¡å¦–æ€ªã®ãƒ“ãƒªã£ã‘ã¤ã«åŠ ãˆã¦ã‚‚ã‚‰ã£ã¦ã€å…¨å“¡ã®å‰ã§æŒ¨æ‹¶ã™ã‚‹ã®ã¯ã€ã“ã‚ŒãŒåˆã‚ã¦ãªã‚“ã ã€‚@
-`ã€€...Oh yeah. `@`Now that I think of it, since they let me become the last school youkai, this is the first time I'll be greeting them face to face.`@
+;@cc‚»‚Á‚©B@l‚¦‚Ä‚İ‚½‚çAŠwZ—d‰ö‚ÌƒrƒŠ‚Á‚¯‚Â‚É‰Á‚¦‚Ä‚à‚ç‚Á‚ÄA‘Sˆõ‚Ì‘O‚Åˆ¥A‚·‚é‚Ì‚ÍA‚±‚ê‚ª‰‚ß‚Ä‚È‚ñ‚¾B@
+`@...Oh yeah. `@`Now that I think of it, since they let me become the last school youkai, this is the first time I'll be greeting them face to face.`@
 br
-;ã€€ã¦ã£ãã‚Šã€ãŠæœˆæ§˜ã‚’è¦‹ãªãŒã‚‰ãŠå›£å­ã§ã‚‚é£Ÿã¹ã‚‰ã‚Œã‚‹ãªã‚“ã¦æ€ã£ã¦ã„ãŸã‘ã‚Œã©ã€ã¨ã‚“ã§ã‚‚ãªã„ã€‚@ç§ã¯å­¦æ ¡å¦–æ€ªã®æ–°äººã§å¾Œè¼©ã€‚@ç²—ç›¸ãŒãªã„ã‚ˆã†ã«æ°—ã‚’ä»˜ã‘ãªãã¡ã‚ƒâ€¦ï¼\
-`ã€€Even though I had been thinking of eating sweet dumplings while gazing at the lovely moon, that's not what really matters! `@`I'm the new school youkai and they are my seniors. `@`I've gotta be careful not to make any mistakes!...`\
+;@‚Ä‚Á‚«‚èA‚¨Œ—l‚ğŒ©‚È‚ª‚ç‚¨’cq‚Å‚àH‚×‚ç‚ê‚é‚È‚ñ‚Äv‚Á‚Ä‚¢‚½‚¯‚ê‚ÇA‚Æ‚ñ‚Å‚à‚È‚¢B@„‚ÍŠwZ—d‰ö‚ÌVl‚ÅŒã”yB@‘e‘Š‚ª‚È‚¢‚æ‚¤‚É‹C‚ğ•t‚¯‚È‚­‚¿‚ácI\
+`@Even though I had been thinking of eating sweet dumplings while gazing at the lovely moon, that's not what really matters! `@`I'm the new school youkai and they are my seniors. `@`I've gotta be careful not to make any mistakes!...`\
 
 bg black,22
 bg toire_03,0
@@ -189,14 +189,14 @@ ld c,MAR_i4a,22
 ;ld c,MAR_D1,80
 
 
-;ã€€æµ®ã‹ã‚ŒãŸæœã¯ãƒ€ãƒ¡ã€ã´ã—ã£ã¨ã—ãŸã®ã˜ã‚ƒãªã„ã¨ãƒ€ãƒ¡â€¦â€¦ã€‚@
-`ã€€I can't wear festive clothes, I can't wear clothes that aren't neat...`@
+;@•‚‚©‚ê‚½•‚Íƒ_ƒA‚Ò‚µ‚Á‚Æ‚µ‚½‚Ì‚¶‚á‚È‚¢‚Æƒ_ƒccB@
+`@I can't wear festive clothes, I can't wear clothes that aren't neat...`@
 br
-;ã€€ã´ã—ã£ã¨ã—ãŸã®ã€ã—ã£ã‹ã‚Šã—ãŸã®ã€çœŸé¢ç›®ãªã®ã€â€¦â€¦ã€‚@
-`ã€€I need something neat, appropriate, serious...`@
+;@‚Ò‚µ‚Á‚Æ‚µ‚½‚ÌA‚µ‚Á‚©‚è‚µ‚½‚ÌA^–Ê–Ú‚È‚ÌAccB@
+`@I need something neat, appropriate, serious...`@
 br
-;ã€€ã†ãƒ¼ã‚“ã†ãƒ¼ã‚“ã†ãƒ¼ã‚“â€¦â€¦â€¦ã€‚\
-`ã€€Hmmm Hmmm Hmmm...`\
+;@‚¤[‚ñ‚¤[‚ñ‚¤[‚ñcccB\
+`@Hmmm Hmmm Hmmm...`\
 
 se1 22
 
@@ -204,11 +204,11 @@ bg white,1
 ;bg black,22
 bg toire_07,22
 
-;ã€€ãƒ‰ãƒ­ãƒ³ã€‚@
-`ã€€Poof.`@
+;@ƒhƒƒ“B@
+`@Poof.`@
 br
-;ã€€ã‚ˆã†ã‚„ãæ¯¬æãŒç€æ›¿ãˆã«æˆåŠŸã—ãŸæ™‚ã«ã¯ã€ã‚‚ã†ã€ãŠæœˆè¦‹ä¼šã®å§‹ã¾ã‚Šã‹ã‚‰ï¼‘æ™‚é–“ä»¥ä¸Šã‚‚çµŒã£ã¦ã„ãŸã€‚\
-`ã€€When Marie finally succeeded in changing clothes, the Lunar Festival had already been going on for more than an hour.`\
+;@‚æ‚¤‚â‚­Ÿ{}‚ª’…‘Ö‚¦‚É¬Œ÷‚µ‚½‚É‚ÍA‚à‚¤A‚¨ŒŒ©‰ï‚Ìn‚Ü‚è‚©‚ç‚PŠÔˆÈã‚àŒo‚Á‚Ä‚¢‚½B\
+`@When Marie finally succeeded in changing clothes, the Lunar Festival had already been going on for more than an hour.`\
 
 bg black,22
 fede 0,1000
@@ -219,11 +219,11 @@ bg toire_01,24
 bg black,24
 bg k_kaidan_01,24
 
-;ã€€æ¯¬æã¯ãã®ã¾ã¾ãƒˆã‚¤ãƒ¬ã‚’é£›ã³å‡ºã—ã€éšæ®µã‚’é§†ã‘ä¸ŠãŒã‚‹ã€‚@
-`ã€€Marie rushes out of the bathroom, and runs up the stairs.`@
+;@Ÿ{}‚Í‚»‚Ì‚Ü‚ÜƒgƒCƒŒ‚ğ”ò‚Ño‚µAŠK’i‚ğ‹ì‚¯ã‚ª‚éB@
+`@Marie rushes out of the bathroom, and runs up the stairs.`@
 br
-;ã€€ä¼šå ´ã¯å±‹ä¸Šã€‚@æº€æœˆãŒã‚‚ã£ã¨ã‚‚æ˜ ãˆã‚‹ã€æ—§æ ¡èˆå±‹ä¸Šã ã€‚\
-`ã€€The meeting place is the roof. `@`The old school building's roof is where the full moon shines the brightest.`\
+;@‰ïê‚Í‰®ãB@–Œ‚ª‚à‚Á‚Æ‚à‰f‚¦‚éA‹ŒZÉ‰®ã‚¾B\
+`@The meeting place is the roof. `@`The old school building's roof is where the full moon shines the brightest.`\
 
 se1 16
 
@@ -232,11 +232,11 @@ bg black,24
 
 me1v 5,50
 
-;ã€ŒãŠã€é…ããªã£ã¦ã™ã¿ã¾ã›ã‚“ã§ã—ãŸã£ï¼ï¼ã€@
+;u‚¨A’x‚­‚È‚Á‚Ä‚·‚İ‚Ü‚¹‚ñ‚Å‚µ‚½‚ÁIIv@
 `"I- I'm sorry for being laaaate!!"`@
 br
-;ã€€å±‹ä¸Šã¸èºã‚Šå‡ºã‚‹ã¨ã€‚@ãã“ã«ã¯ä¸æ€è­°ãªå…‰æ™¯ãŒåºƒãŒã£ã¦ã„ãŸâ€¦â€¦ã€‚\
-`ã€€She springs out onto the roof. `@`There, a strange scene was unfolding...`\
+;@‰®ã‚Ö–ô‚èo‚é‚ÆB@‚»‚±‚É‚Í•sv‹c‚ÈŒõŒi‚ªL‚ª‚Á‚Ä‚¢‚½ccB\
+`@She springs out onto the roof. `@`There, a strange scene was unfolding...`\
 
 fede 0,1000
 E_A
@@ -245,28 +245,28 @@ bg okujou_04,22
 
 bgm1 31
 
-;ã€€æ™®æ®µãªã‚‰ã€ä½•ã‚‚ãªã„ã€ã²ã³å‰²ã‚ŒãŸã‚³ãƒ³ã‚¯ãƒªãƒ¼ãƒˆã®ç„¡æ©Ÿè³ªãªå±‹ä¸ŠãŒåºƒãŒã£ã¦ã„ã‚‹ã ã‘ãªã®ã«ã€‚@
-`ã€€Even though normally a roof empty of anything but cracked concrete and inorganic matter should have spread before her...`@
+;@•’i‚È‚çA‰½‚à‚È‚¢A‚Ğ‚ÑŠ„‚ê‚½ƒRƒ“ƒNƒŠ[ƒg‚Ì–³‹@¿‚È‰®ã‚ªL‚ª‚Á‚Ä‚¢‚é‚¾‚¯‚È‚Ì‚ÉB@
+`@Even though normally a roof empty of anything but cracked concrete and inorganic matter should have spread before her...`@
 br
-;ã€€å„šãã‚‚ç¾ã—ã„ã€é»„æ³‰ã®æ¡œãŒã€ãã®å¤§æ¨¹ã‚’èŒ‚ã‚‰ã›ã€æº€é–‹ã®èŠ±ã‚’é–‹ã„ã¦ã„ã‚‹ã€‚\
-`ã€€Vividly beautiful sakura from the underworld were in full bloom and covering a huge tree.`\
+;@™R‚­‚à”ü‚µ‚¢A‰©ò‚Ì÷‚ªA‚»‚Ì‘å÷‚ğ–Î‚ç‚¹A–ŠJ‚Ì‰Ô‚ğŠJ‚¢‚Ä‚¢‚éB\
+`@Vividly beautiful sakura from the underworld were in full bloom and covering a huge tree.`\
 
-;ã€€ãã®ç™½ãã€ã»ã‚“ã®ã‚Šã¨æ·¡ã„å…‰ã‚’æ”¾ã¤èŠ±ã³ã‚‰ã®çµ¨æ¯¯ã¯ã€ã‚ã¾ã‚Šã«å¹»æƒ³çš„ã§ç¾ã—ã„â€¦â€¦ã€‚@
-`ã€€That sea of white flower petals gave off a faint glow, and they were magically beautiful...`@
+;@‚»‚Ì”’‚­A‚Ù‚ñ‚Ì‚è‚Æ’W‚¢Œõ‚ğ•ú‚Â‰Ô‚Ñ‚ç‚ÌãOŸ~‚ÍA‚ ‚Ü‚è‚ÉŒ¶‘z“I‚Å”ü‚µ‚¢ccB@
+`@That sea of white flower petals gave off a faint glow, and they were magically beautiful...`@
 br
-;ã€€ãã®ã€å¹»æƒ³ã®ã‚ˆã†ãªã€æº€é–‹ã®æ¡œã®ä¸‹ã§ã€å¦–æ€ªãŸã¡ãŒå¤§ããªè»Šåº§ã¨ãªã£ã¦ã€æ¯ã‚’å‚¾ã‘ã¦ã„ã‚‹ã€‚\
-`ã€€Beneath those illusionary fully-bloom sakura, the youkai were sitting in a circle and indulging themselves with glasses of sake.`\ 
+;@‚»‚ÌAŒ¶‘z‚Ì‚æ‚¤‚ÈA–ŠJ‚Ì÷‚Ì‰º‚ÅA—d‰ö‚½‚¿‚ª‘å‚«‚ÈÔÀ‚Æ‚È‚Á‚ÄA”t‚ğŒX‚¯‚Ä‚¢‚éB\
+`@Beneath those illusionary fully-bloom sakura, the youkai were sitting in a circle and indulging themselves with glasses of sake.`\ 
 
-;ã€€å¹»æƒ³çš„ã§ã¯ã‚ã£ã¦ã‚‚ã€æ±ºã—ã¦å³ã‹éããšã€‚@
-`ã€€It has its majesty, but it's not too extravagent.`@
-;ã€€å®´å¸­ã§ã¯ã‚ã£ã¦ã‚‚ã€æ±ºã—ã¦é¨’ãéããšã€‚@
-`ã€€They were having a banquet, but they're not too noisy.`@
+;@Œ¶‘z“I‚Å‚Í‚ ‚Á‚Ä‚àAŒˆ‚µ‚ÄŒµ‚©‰ß‚¬‚¸B@
+`@It has its majesty, but it's not too extravagent.`@
+;@‰ƒÈ‚Å‚Í‚ ‚Á‚Ä‚àAŒˆ‚µ‚Ä‘›‚¬‰ß‚¬‚¸B@
+`@They were having a banquet, but they're not too noisy.`@
 br
-;ã€€äººã®å‘½ã‚’å¥ªã†ã“ã¨ã‚‚å­ã‚ãªã„å¦–æ€ªãŸã¡ãŒã€ä»Šå¤œã ã‘ã¯ãã‚Œã‚’å¿˜ã‚Œã‚‹ã€@ã•ã•ã‚„ã‹ãªä¸€æ™‚ãŒã€ãã“ã«ã¯ã‚ã£ãŸâ€¦â€¦ã€‚\
-`ã€€Those youkai who had no quams about stealing people's lives away, leave that behind just for tonight. `@`This was a time for modesty...`\
+;@l‚Ì–½‚ğ’D‚¤‚±‚Æ‚à‰}‚í‚È‚¢—d‰ö‚½‚¿‚ªA¡–é‚¾‚¯‚Í‚»‚ê‚ğ–Y‚ê‚éA@‚³‚³‚â‚©‚Èˆê‚ªA‚»‚±‚É‚Í‚ ‚Á‚½ccB\
+`@Those youkai who had no quams about stealing people's lives away, leave that behind just for tonight. `@`This was a time for modesty...`\
 
-;ã€€ã¿ã‚“ãªã€ã»ã‚é…”ã„æ°—åˆ†ã‚‰ã—ãã€ãã‚Œãã‚Œã®ãŠå–‹ã‚Šã«å¤¢ä¸­ã§ã€æ¯¬æã®ç™»å ´ã«æ°—ä»˜ã„ã¦ã„ãªã„ã‚ˆã†ã ã£ãŸã€‚\
-`ã€€It seemed everyone was slightly intoxicated and engrossed in each other's conversations, so they hadn't noticed Marie's entrance.`\
+;@‚İ‚ñ‚ÈA‚Ù‚ëŒ‚¢‹C•ª‚ç‚µ‚­A‚»‚ê‚¼‚ê‚Ì‚¨’‚è‚É–²’†‚ÅAŸ{}‚Ì“oê‚É‹C•t‚¢‚Ä‚¢‚È‚¢‚æ‚¤‚¾‚Á‚½B\
+`@It seemed everyone was slightly intoxicated and engrossed in each other's conversations, so they hadn't noticed Marie's entrance.`\
 
 bg black,22
 
@@ -277,18 +277,18 @@ bg okujou_01y,22
 ld l,HIG_D2,22
 ld l,HIG_d4,80
 
-;ã€Œé…ã„ã‚ã‚ˆã€æ¯¬æã€‚@ã£ã¦ã€â€¦â€¦â€¦ãªãã«ã€ãã®æ ¼å¥½ï¼Ÿã€\
+;u’x‚¢‚í‚æAŸ{}B@‚Á‚ÄAccc‚È‚Ÿ‚ÉA‚»‚ÌŠiDHv\
 `"You're late Marie. `@`And ...what's with the geddup?"`\
 ;cl c,0
 ;ld l,HIG_D2,0
 ld r,ma2_n1,24
 ;ld r,ma2_D1,80
 
-;ã€Œã”ã€ã”ã‚ã‚“ãªã•ã„â€¦ï¼ï¼@ã€€ä½•åº¦ã€æŒ‘æˆ¦ã—ã¦ã‚‚ã€å…¨ç„¶ãƒ€ãƒ¡ã ã£ãŸã‚“ã§ã™ãƒ¼ï¼@ã€€ã“ã‚Œã§ã‚‚ã†è¨±ã—ã¦ä¸‹ã•ã„ãƒãƒï¼ã€@
+;u‚²A‚²‚ß‚ñ‚È‚³‚¢cII@@‰½“xA’§í‚µ‚Ä‚àA‘S‘Rƒ_ƒ‚¾‚Á‚½‚ñ‚Å‚·[I@@‚±‚ê‚Å‚à‚¤‹–‚µ‚Ä‰º‚³‚¢‚¡‚¡Iv@
 `"I- I'm sorry!! `@`No matter how much I tried, nothing worked! `@`Please just let me go like thiiiiis!"`@
 br
-;ã€€ï¼‘æ™‚é–“ä»¥ä¸Šã‚‚æŒ‘æˆ¦ã—ã¦ã€æ¯¬æãŒã‚ˆã†ã‚„ãæˆåŠŸã—ãŸãã®æœè£…ã¯ã€â€¦â€¦â€¦â€¦ä¸­å­¦ã‹é«˜æ ¡ã®åˆ¶æœã£ã½ãè¦‹ãˆãŸã€‚\
-`ã€€The outfit that Marie had finally succeeded after trying for more than an hour... looked just like a middle school or high school uniform.`\
+;@‚PŠÔˆÈã‚à’§í‚µ‚ÄAŸ{}‚ª‚æ‚¤‚â‚­¬Œ÷‚µ‚½‚»‚Ì•‘•‚ÍAcccc’†Šw‚©‚Z‚Ì§•‚Á‚Û‚­Œ©‚¦‚½B\
+`@The outfit that Marie had finally succeeded after trying for more than an hour... looked just like a middle school or high school uniform.`\
 
 bg black,24
 bg okujou_02,24
@@ -297,29 +297,29 @@ ld c,SAK_D2,80
 se1 47
 quakey 1,100
 
-;ã€Œã†ã‚Šã‚…ãƒ¼ï¼@ã€€ç´ æ•µã ã‚ˆã€æ¯¬æã£ã€‚@ã¾ã‚‹ã§é«˜æ ¡ç”Ÿã¿ãŸã„ã ã‚ˆï¼ã€@
+;u‚¤‚è‚ã[I@@‘f“G‚¾‚æAŸ{}‚ÁB@‚Ü‚é‚Å‚Z¶‚İ‚½‚¢‚¾‚æIv@
 `"Uryu-! `@`Wonderful, Marie. `@`You almost look like you're in high school!"`@
-;ï¼œã•ãã®ã—ã‚“
+;ƒ‚³‚­‚Ì‚µ‚ñ
 
 ld r,HOK_D3,24
 ld r,HOK_D2,80
 
-;ã€Œãã®æœã€â€¦â€¦çœŒç«‹é«˜ã®åˆ¶æœã«ãã£ãã‚Šã ã‚ã€‚ã€@
+;u‚»‚Ì•AccŒ§—§‚‚Ì§•‚É‚»‚Á‚­‚è‚¾‚íBv@
 `"That outfit... it looks just like a uniform from an expensive private school."`@
-;ï¼œä¿å¥
+;ƒ•ÛŒ’
 
 mld l,ma2_D4a,23
 ;mld l,ma2_i1a,80
 
-;ã€Œãˆï¼Ÿï¼@ã€€ã»ã€ä¿å¥å®¤ã®å…ˆç”Ÿã§ã™ã‚ˆã­ï¼Ÿï¼@ã€€ã©ã†ã—ã¦ã“ã“ã«ï¼Ÿï¼ã€\
+;u‚¦HI@@‚ÙA•ÛŒ’º‚Ìæ¶‚Å‚·‚æ‚ËHI@@‚Ç‚¤‚µ‚Ä‚±‚±‚ÉHIv\
 `"Wha?! `@`Y- You're the school nurse right?! `@`Why are you here?!"`\
-;ï¼œæ¯¬æ
+;ƒŸ{}
 
 ld r,HOK_D4,80
 
-;ã€Œã¾ãƒ¼ã¾ãƒ¼ã€ç¡¬ã„ã“ã¨è¨€ã‚ãªã„ã®ãƒ¼ã€‚@ã„ãƒ¼ã˜ã‚ƒãªã„ã€ç§ãŒæ··ã˜ã£ã¦ã‚‚ã€‚@ãŠé…’ã‚‚ãŠæœˆè¦‹ã‚‚å¤§å¥½ããªã‚“ã ã‹ã‚‰ãƒ¼ï¼ã€\
+;u‚Ü[‚Ü[Ad‚¢‚±‚ÆŒ¾‚í‚È‚¢‚Ì[B@‚¢[‚¶‚á‚È‚¢A„‚ª¬‚¶‚Á‚Ä‚àB@‚¨ğ‚à‚¨ŒŒ©‚à‘åD‚«‚È‚ñ‚¾‚©‚ç[Iv\
 `"Hey hey, don't say such rash things. `@`Isn't it alright if I mingle a bit? `@`I love sake and gazing at the moon after all!-"`\
-;ï¼œä¿å¥
+;ƒ•ÛŒ’
 
 mcl l,0
 bg black,23
@@ -327,23 +327,23 @@ bg okujou_01y,0
 ld r,HIG_D5,23
 ld r,HIG_w3,80
 
-;ã€Œãµã…ã‚“ã€‚@â€¦â€¦ãªã‚‹ã»ã©ã€‚@ã‚ãªãŸã®ãŠå§‰ã•ã‚“ãŒé€šã£ã¦ã„ãŸé«˜æ ¡ã®åˆ¶æœã€ãªã®ã­ã€‚ã€@
+;u‚Ó‚£‚ñB@cc‚È‚é‚Ù‚ÇB@‚ ‚È‚½‚Ì‚¨o‚³‚ñ‚ª’Ê‚Á‚Ä‚¢‚½‚Z‚Ì§•A‚È‚Ì‚ËBv@
 `"Oooh. `@`...I get it. `@`That's the uniform your sister went to school with, am I right?"`@
-;ï¼œå½¼å²¸èŠ±
+;ƒ”ŞŠİ‰Ô
 br
-;ã€€å½¼å²¸èŠ±ãŒæ¯¬æã®å¿ƒã‚’èª­ã¿ã€å£ã«ã™ã‚‹ã€‚@
-`ã€€Higanbana says as she reads Marie's mind.`@
-;ã€€ãã‚Œã‚’èãã€ã‚ˆã†ã‚„ãæ¯¬æã¯ã€ã©ã†ã—ã¦ã“ã®æœã«ãªã£ãŸã®ã‹ã‚’ç†è§£ã—ãŸã€‚\
-`ã€€Hearing that, Marie at last realized why she ended up in those clothes.`\
+;@”ŞŠİ‰Ô‚ªŸ{}‚ÌS‚ğ“Ç‚İAŒû‚É‚·‚éB@
+`@Higanbana says as she reads Marie's mind.`@
+;@‚»‚ê‚ğ•·‚«A‚æ‚¤‚â‚­Ÿ{}‚ÍA‚Ç‚¤‚µ‚Ä‚±‚Ì•‚É‚È‚Á‚½‚Ì‚©‚ğ—‰ğ‚µ‚½B\
+`@Hearing that, Marie at last realized why she ended up in those clothes.`\
 
 bg black,22
 mld c,ma2_D4a,22
 
-;ã€€æ¯¬æã®ãã®æœã¯ã€åœ°å…ƒã®çœŒç«‹é«˜æ ¡ã®åˆ¶æœã‚’ã‚¤ãƒ¡ãƒ¼ã‚¸ã—ãŸã‚‚ã®ã ã€‚@
-`ã€€Her clothes were based on the local prefectoral high school's uniforms.`@
+;@Ÿ{}‚Ì‚»‚Ì•‚ÍA’nŒ³‚ÌŒ§—§‚Z‚Ì§•‚ğƒCƒ[ƒW‚µ‚½‚à‚Ì‚¾B@
+`@Her clothes were based on the local prefectoral high school's uniforms.`@
 br
-;ã€€æœ¬ç‰©ã¨ã¯å°‘ã—ç´°éƒ¨ãŒé•ã†ã‹ã‚‚ã—ã‚Œãªã„ãŒã€@â€¦â€¦å§‰ãŒç€ã¦ã„ã¦ã€è‡ªåˆ†ã‚‚ã„ã¤ã‹ç€ãŸã„ã¨æ†§ã‚Œã€å¤¢è¦‹ã¦ã„ãŸæœè£…ãã®ã‚‚ã®ãªã®ã ã€‚\
-`ã€€Although it might have some minor differences, `@`...that outfit was something her sister had worn, and at some point Marie wanted it and dreamed of wearing it.`\
+;@–{•¨‚Æ‚Í­‚µ×•”‚ªˆá‚¤‚©‚à‚µ‚ê‚È‚¢‚ªA@cco‚ª’…‚Ä‚¢‚ÄA©•ª‚à‚¢‚Â‚©’…‚½‚¢‚Æ“²‚êA–²Œ©‚Ä‚¢‚½•‘•‚»‚Ì‚à‚Ì‚È‚Ì‚¾B\
+`@Although it might have some minor differences, `@`...that outfit was something her sister had worn, and at some point Marie wanted it and dreamed of wearing it.`\
 
 ;bg black,22
 bg okujou_01y,0
@@ -351,46 +351,46 @@ ld r,HIG_D1,22
 
 mld c,ma2_D3a,80
 
-;ã€Œç´ æ•µãªãƒ‰ãƒ¬ã‚¹ãªã‚“ã¦æ€ã„ä»˜ã‹ãªã„ã—â€¦â€¦ã€‚@ãªã‚‰ã€å°‘ã—çœŸé¢ç›®ãªæœã«ãªã‚‰ãªã„ã‹ãªã¨æ€ã£ãŸã‚‰ã“ã‚“ãªæœã«â€¦â€¦ã€‚ã€\
+;u‘f“G‚ÈƒhƒŒƒX‚È‚ñ‚Äv‚¢•t‚©‚È‚¢‚µccB@‚È‚çA­‚µ^–Ê–Ú‚È•‚É‚È‚ç‚È‚¢‚©‚È‚Æv‚Á‚½‚ç‚±‚ñ‚È•‚ÉccBv\
 `"I couldn't really think of a pretty dress... `@`And after thinking I had to wear something more cordial, it turned out like this..."`\ 
-;ï¼œæ¯¬æ
+;ƒŸ{}
 
 ld r,HIG_D3,80
 
-;ã€Œé•ã†ã‚ã­ã€‚@æ¯¬æãŒãã®æœã‚’é¸ã‚“ã ã®ã¯ã€æ†§ã‚Œã¦ã„ãŸã‹ã‚‰ã‚ˆã€‚ã€@
+;uˆá‚¤‚í‚ËB@Ÿ{}‚ª‚»‚Ì•‚ğ‘I‚ñ‚¾‚Ì‚ÍA“²‚ê‚Ä‚¢‚½‚©‚ç‚æBv@
 `"You're wrong. `@`You picked out those clothes because you wanted to wear them!"`@
-;ï¼œå½¼å²¸èŠ±
+;ƒ”ŞŠİ‰Ô
 
 ld l,SAK_k2,22
 ;ld c,SAK_D1,80
 
-;ã€Œâ€¦â€¦â€¦ãã†ã¿ãŸã„ã ã­ã€‚@â€¦â€¦æ¯¬æã¯ã‚ˆã£ã½ã©ã€ãã®æœã‚’ç€ãŸã‹ã£ãŸã‚“ã ã‚ã†ã­ã‡ã€‚ã€@
+;uccc‚»‚¤‚İ‚½‚¢‚¾‚ËB@ccŸ{}‚Í‚æ‚Á‚Û‚ÇA‚»‚Ì•‚ğ’…‚½‚©‚Á‚½‚ñ‚¾‚ë‚¤‚Ë‚¥Bv@
 `"...Looks like it. `@`...Marie must have really wanted to wear that outfit."`@
-;ï¼œã•ãã®ã—ã‚“
+;ƒ‚³‚­‚Ì‚µ‚ñ
 
 mld c,ma2_D4a,80
 
-;ã€Œã“ã®æœã‚’ã€â€¦â€¦â€¦ç§ãŒâ€¦â€¦ã€‚ã€\
+;u‚±‚Ì•‚ğAccc„‚ªccBv\
 `"These clothes... I...."`\
 
 ld r,HIG_D2,80
 
-;ã€Œæ­»ã‚“ã§ã—ã¾ã£ãŸä»Šã¨ãªã£ã¦ã¯ã€‚@é«˜æ ¡ç”Ÿã«ãªã‚‹ãªã‚“ã¦ã€å¶ã‚ã¬å¤¢ã ã‚‚ã‚“ã­ã‡ã€‚@ãã™ãã™ãã™ã€‚@â€¦â€¦â€¦è‰¯ã‹ã£ãŸã˜ã‚ƒãªã„ã€‚@æ†§ã‚Œã®åˆ¶æœã‚’ç€ã‚‹ã“ã¨ãŒå‡ºæ¥ã¦ã€‚@ãã™ãã™ãã™ãã™ãã™â€¦â€¦ã€‚ã€@
+;u€‚ñ‚Å‚µ‚Ü‚Á‚½¡‚Æ‚È‚Á‚Ä‚ÍB@‚Z¶‚É‚È‚é‚È‚ñ‚ÄAŠ‚í‚Ê–²‚¾‚à‚ñ‚Ë‚¥B@‚­‚·‚­‚·‚­‚·B@ccc—Ç‚©‚Á‚½‚¶‚á‚È‚¢B@“²‚ê‚Ì§•‚ğ’…‚é‚±‚Æ‚ªo—ˆ‚ÄB@‚­‚·‚­‚·‚­‚·‚­‚·‚­‚·ccBv@
 `"Well since you're dead now, `@`you can't really have your dream of being a high schooler granted, can you? `@`*giggle*giggle* `@`...But isn't it nice? `@`Being able to wear that oufit you've dreamed of, that is. `@`Teeheeheeheehee..."`@
 
 mld c,ma2_D3a,80
 
-;ã€Œã‚„ã€ã‚„ã£ã±ã‚Šã€ãŠã‹ã—ã„ã§ã—ã‚‡ã†ã‹â€¦â€¦ã€‚ã€\
+;u‚âA‚â‚Á‚Ï‚èA‚¨‚©‚µ‚¢‚Å‚µ‚å‚¤‚©ccBv\
 `"Y- You think it's strange... don't you?"`\
 
 ld r,HIG_w3,80
 
-;ã€ŒãŠã‹ã—ã„ã‚ã‘ãªã„ã§ã—ã‚‡ã€‚@æœˆã‚’æ„›ã§ã‚‹ç´ æ•µãªå¤œã«ã€è‡ªåˆ†ãŒç€ãŸã‹ã£ãŸä¸€ç•ªã®æœã‚’ç€ã¦å‚åŠ ã™ã‚‹ã€‚@â€¦â€¦ç´ æ•µã˜ã‚ƒãªã„ã€‚ã€@
+;u‚¨‚©‚µ‚¢‚í‚¯‚È‚¢‚Å‚µ‚åB@Œ‚ğˆ¤‚Å‚é‘f“G‚È–é‚ÉA©•ª‚ª’…‚½‚©‚Á‚½ˆê”Ô‚Ì•‚ğ’…‚ÄQ‰Á‚·‚éB@cc‘f“G‚¶‚á‚È‚¢Bv@
 `"It's not strange. `@`Being able to wear the clothes you've always wanted on this night when we can admire the moon. `@`...It's lovely, isn't it?"`@
-;ï¼œå½¼å²¸èŠ±
+;ƒ”ŞŠİ‰Ô
 br
-;ã€€ãã†è¨€ã£ã¦ã€å½¼å²¸èŠ±ã¯ãã‚‹ã‚Šã¨å›ã£ã¦ã¿ã›ã‚‹ã€‚\
-`ã€€Saying that, Higanbana quickly turned to show Marie.`\
+;@‚»‚¤Œ¾‚Á‚ÄA”ŞŠİ‰Ô‚Í‚­‚é‚è‚Æ‰ñ‚Á‚Ä‚İ‚¹‚éB\
+`@Saying that, Higanbana quickly turned to show Marie.`\
 
 ;se1 1
 mcl c,0
@@ -400,121 +400,121 @@ ld c,HIG_w3,23
 wait 500
 ld c,HIG_D4,22
 
-;ã€€å½¼å¥³ã‚‚ã€æ™®æ®µã¨ã¯é•ã†ã€ã‚ˆã‚Šãƒ‰ãƒ¬ã‚¹ã£ã½ã„æœã‚’ç€ã¦ã„ã‚‹ã€‚@
-`ã€€She's not her usual self, and she's wearing a more elegant dress.`@
+;@”Ş—‚àA•’i‚Æ‚Íˆá‚¤A‚æ‚èƒhƒŒƒX‚Á‚Û‚¢•‚ğ’…‚Ä‚¢‚éB@
+`@She's not her usual self, and she's wearing a more elegant dress.`@
 br
-;ã€€ãã‚“ãªç‰¹åˆ¥ãªæ ¼å¥½ãŒã€ä»Šå¤œã¨ã„ã†å¤œãŒç‰¹åˆ¥ãªã‚‚ã®ã§ã‚ã‚‹ã“ã¨ã‚’æ•™ãˆã¦ãã‚Œã‚‹ã®ã ã€‚\
-`ã€€That special outfit showed that tonight was a special occasion.`\
+;@‚»‚ñ‚È“Á•Ê‚ÈŠiD‚ªA¡–é‚Æ‚¢‚¤–é‚ª“Á•Ê‚È‚à‚Ì‚Å‚ ‚é‚±‚Æ‚ğ‹³‚¦‚Ä‚­‚ê‚é‚Ì‚¾B\
+`@That special outfit showed that tonight was a special occasion.`\
 
 ld l,SAK_D4,23
 ;ld l,SAK_D4,80
 
-;ã€Œç´ æ•µã ã‚ˆã€å½¼å²¸èŠ±ã‚‚æ¯¬æã‚‚ï¼@ã€€æœ¬å½“ã«ç´ æ•µãªã‚«ãƒƒã‚³ã ã‚ˆï¼@ã€€ã†ã‚Šã‚…ãƒ¼ï¼ï¼ã€@
+;u‘f“G‚¾‚æA”ŞŠİ‰Ô‚àŸ{}‚àI@@–{“–‚É‘f“G‚ÈƒJƒbƒR‚¾‚æI@@‚¤‚è‚ã[IIv@
 `"Higanbana, Marie, you're so pretty! `@`Your clothes look so lovely! `@`Uryu~!!"`@
 
 ld r,ma2_w1,24
 ;ld r,ma2_D1,80
 
-;ã€Œã‚ã€ã‚ã‚ŠãŒã¨ã†ã”ã–ã„ã¾ã™â€¦â€¦ã€‚ã€\
+;u‚ A‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·ccBv\
 `"T-Thank you..."`\
 
 ld c,HIG_w2,80
 
-;ã€Œã•ãã€ãŠã„ã§ãªã•ã„ã€æ¯¬æã€‚@æœ«å¸­ã®åˆ†éš›ã§å¤§é…åˆ»ãªã‚“ã ã‹ã‚‰ã€‚@é§†ã‘ä»˜ã‘ä¸‰æ¯ãŒå«Œãªã‚‰ã€ã¿ã‚“ãªã«ãŠé…Œã—ã¦å›ã‚Šãªã•ã„ï¼Ÿ@ã€€ç§ã‚‚ä¸€ç·’ã«å›ã£ã¦ã‚ã’ã‚‹ã‹ã‚‰ã€‚@â€¦â€¦ã‚ã‚“ãŸã€åˆã‚ã¦æŒ¨æ‹¶ã™ã‚‹é€£ä¸­ã‚‚å¤šã„ã§ã—ã‚‡ã†ã‹ã‚‰ã€‚ã€\
+;u‚³‚ŸA‚¨‚¢‚Å‚È‚³‚¢AŸ{}B@––È‚Ì•ªÛ‚Å‘å’x‚È‚ñ‚¾‚©‚çB@‹ì‚¯•t‚¯O”t‚ªŒ™‚È‚çA‚İ‚ñ‚È‚É‚¨Ş‚µ‚Ä‰ñ‚è‚È‚³‚¢H@@„‚àˆê‚É‰ñ‚Á‚Ä‚ ‚°‚é‚©‚çB@cc‚ ‚ñ‚½A‰‚ß‚Äˆ¥A‚·‚é˜A’†‚à‘½‚¢‚Å‚µ‚å‚¤‚©‚çBv\
 `"Come along now, Marie.`@` After all, you're the lowest seat and already so late.`@` If they object to you rushing in three times, why don't you pour everyone their drinks?`@` I'll do it with you.`@` ...It's your first time greeting all these numerous colleagues."`\
 
 bg black,22
 bg k_kyou_03,22
 
-;ã€€å¦–æ€ªãŸã¡ã®ã‚¯ãƒ©ã‚¹ã€ï¼‘ï¼“çµ„ã§ã€ä¸€å¿œã€è‡ªå·±ç´¹ä»‹ã¯ã—ãŸã€‚@
-`ã€€She had already introduced herself once to the Youkai class, class 13.`@`
-;ã€€ã—ã‹ã—ã€ç©ºã£ã½ã®æ•™å®¤ã§è‡ªå·±ç´¹ä»‹ã‚’ã—ãŸã ã‘ã ã€‚\
-`ã€€But all she really did was introduce herself to an empty classroom.`\
+;@—d‰ö‚½‚¿‚ÌƒNƒ‰ƒXA‚P‚R‘g‚ÅAˆê‰A©ŒÈĞ‰î‚Í‚µ‚½B@
+`@She had already introduced herself once to the Youkai class, class 13.`@`
+;@‚µ‚©‚µA‹ó‚Á‚Û‚Ì‹³º‚Å©ŒÈĞ‰î‚ğ‚µ‚½‚¾‚¯‚¾B\
+`@But all she really did was introduce herself to an empty classroom.`\
 
-;ã€€å¦–æ€ªãŸã¡ã‚‚ã€ç°¡å˜ã«æ°—ã‚’è¨±ã—ãŸã‚Šã—ãªã„ã€‚@ã‚ˆã£ã¦ã€ãã®å§¿ã‚’å®‰æ˜“ã«ç¾ã—ãŸã‚Šã¯ã—ãªã„ã®ã ã€‚@
-`ã€€Youkai won't let their guard down so simply.`@` As a result, they do not show themselves easily.`@`
-;ã€€ã ã‹ã‚‰ã€å­¦æ ¡å¦–æ€ªå…«å¸­å…¨å“¡ã«ç›´æ¥ä¼šãˆã‚‹ã®ã¯ã€ã“ã‚ŒãŒåˆã‚ã¦ã®æ©Ÿä¼šãªã®ã ã€‚\
-`ã€€That's why this would be her first chance to directly meet all eight members of the school Youkai.`\
+;@—d‰ö‚½‚¿‚àAŠÈ’P‚É‹C‚ğ‹–‚µ‚½‚è‚µ‚È‚¢B@‚æ‚Á‚ÄA‚»‚Ìp‚ğˆÀˆÕ‚ÉŒ»‚µ‚½‚è‚Í‚µ‚È‚¢‚Ì‚¾B@
+`@Youkai won't let their guard down so simply.`@` As a result, they do not show themselves easily.`@`
+;@‚¾‚©‚çAŠwZ—d‰ö”ªÈ‘Sˆõ‚É’¼Ú‰ï‚¦‚é‚Ì‚ÍA‚±‚ê‚ª‰‚ß‚Ä‚Ì‹@‰ï‚È‚Ì‚¾B\
+`@That's why this would be her first chance to directly meet all eight members of the school Youkai.`\
 
 bg black,22
 
-;ã€€ã¡ã‚‡ã£ã¨ãƒ‰ã‚­ãƒ‰ã‚­ã‚‚ã™ã‚‹ã‘ã‚Œã©ã€â€¦â€¦ä»®ã«ã‚‚è‡ªåˆ†ã‚‚å­¦æ ¡å¦–æ€ªã®ä¸€å“¡ã€ã—ã£ã‹ã‚Šã”æŒ¨æ‹¶ã—ãªãã‚ƒã€‚@
-`ã€€It made her a bit nervous, but ...for that moment, as she too was a member of the School Youkai, she had to toughen up and greet them.`@`
-;ã€€å®´å¸­ã®ãƒ«ãƒ¼ãƒ«ã«ç–ã„æ¯¬æã§ã‚‚ã€ã“ã†ã„ã†ã‚‚ã®ã¯ä¸Šå¸­è€…ã‹ã‚‰ã”æŒ¨æ‹¶ã™ã¹ãã¨æƒ³åƒã¯å‡ºæ¥ã‚‹ã€‚@
-`ã€€Even Marie, who was unfamiliar with the rules of the banquet, could guess that at a thing like this she would need to address the senior members.`@`
+;@‚¿‚å‚Á‚ÆƒhƒLƒhƒL‚à‚·‚é‚¯‚ê‚ÇAcc‰¼‚É‚à©•ª‚àŠwZ—d‰ö‚ÌˆêˆõA‚µ‚Á‚©‚è‚²ˆ¥A‚µ‚È‚«‚áB@
+`@It made her a bit nervous, but ...for that moment, as she too was a member of the School Youkai, she had to toughen up and greet them.`@`
+;@‰ƒÈ‚Ìƒ‹[ƒ‹‚É‘a‚¢Ÿ{}‚Å‚àA‚±‚¤‚¢‚¤‚à‚Ì‚ÍãÈÒ‚©‚ç‚²ˆ¥A‚·‚×‚«‚Æ‘z‘œ‚Ío—ˆ‚éB@
+`@Even Marie, who was unfamiliar with the rules of the banquet, could guess that at a thing like this she would need to address the senior members.`@`
 br
-;ã€€æ¯¬æã¯å½¼å²¸èŠ±ã«é€£ã‚Œã‚‰ã‚Œã€ã¾ãšã¯å­¦æ ¡å¦–æ€ªåºåˆ—ç¬¬ï¼‘ä½ã€æ ¡é•·å…ˆç”Ÿã®ã¨ã“ã‚ã¸ã€‚\
-`ã€€Marie let Higanbana lead her to the first seat of the School Youkai, the school's headmaster.`\
+;@Ÿ{}‚Í”ŞŠİ‰Ô‚É˜A‚ê‚ç‚êA‚Ü‚¸‚ÍŠwZ—d‰ö˜—ñ‘æ‚PˆÊAZ’·æ¶‚Ì‚Æ‚±‚ë‚ÖB\
+`@Marie let Higanbana lead her to the first seat of the School Youkai, the school's headmaster.`\
 
 bg okujou_01y,22
 
-;ã€€æ ¡é•·å…ˆç”Ÿã¯å­¦æ ¡å¦–æ€ªãŸã¡ã®é•·ã€‚@
-`ã€€The headmaster was the head of all the School Youkai.`@`
-;ã€€â€œå­˜åœ¨â€ã©ã“ã‚ã‹ã€â€œå­˜åœ¨ã—ãŸã“ã¨ã•ãˆâ€å…¨ã¦æ¶ˆã—å»ã£ã¦ã—ã¾ã†åŠ›ã‚’æŒã¤ã€æœ€å¤§æœ€å¼·ã®å¤§å¦–æ€ªãªã®ã ã€‚@
-`ã€€He had the power to completely erase that one "exists," or even "had ever existed." He was the greatest, strongest, and most important Youkai around.`@`
+;@Z’·æ¶‚ÍŠwZ—d‰ö‚½‚¿‚Ì’·B@
+`@The headmaster was the head of all the School Youkai.`@`
+;@g‘¶İh‚Ç‚±‚ë‚©Ag‘¶İ‚µ‚½‚±‚Æ‚³‚¦h‘S‚ÄÁ‚µ‹‚Á‚Ä‚µ‚Ü‚¤—Í‚ğ‚ÂAÅ‘åÅ‹­‚Ì‘å—d‰ö‚È‚Ì‚¾B@
+`@He had the power to completely erase that one "exists," or even "had ever existed." He was the greatest, strongest, and most important Youkai around.`@`
 br
-;ã€€ãã—ã¦ã€ãã®æ ¡é•·å…ˆç”Ÿã¨ä¸€ç·’ã«ä¸Šæ©Ÿå«Œã«æ¯ã‚’å‚¾ã‘ã‚ã£ã¦ã„ã‚‹ã®ã¯ã€ä½•ã¨ä¿å¥ã®å…ˆç”Ÿã ã€‚\
-`ã€€And along with the headmaster, tipping back cups of wine, was that School Nurse.`\
+;@‚»‚µ‚ÄA‚»‚ÌZ’·æ¶‚Æˆê‚Éã‹@Œ™‚É”t‚ğŒX‚¯‚ ‚Á‚Ä‚¢‚é‚Ì‚ÍA‰½‚Æ•ÛŒ’‚Ìæ¶‚¾B\
+`@And along with the headmaster, tipping back cups of wine, was that School Nurse.`\
 
 ld l,HOK_D3,22
 ;ld l,HOK_D1,80
 
-;ã€Œã‚ãƒ¼ã‚‰ãƒ¼ã€ã„ã‚‰ã£ã—ã‚ƒï½ã„ã€‚@ãã‚Œã«ã—ã¦ã‚‚ã€ç´ æ•µãªãŠæœˆæ§˜ã®æ™©ã‚ˆã­ã‡ï¼Ÿ@ã€€ã†ãƒï½ã€ã²ã£ãâ™ªã€@
-`"Oh my~, wel~come.`@` Anyway, isn't the moon lovely toniiight?`@` Wee~, hiccâ™ª"`@`
-;ï¼œä¿å¥
+;u‚ [‚ç[A‚¢‚ç‚Á‚µ‚á`‚¢B@‚»‚ê‚É‚µ‚Ä‚àA‘f“G‚È‚¨Œ—l‚Ì”Ó‚æ‚Ë‚¥H@@‚¤‚¡`A‚Ğ‚Á‚­ôv@
+`"Oh my~, wel~come.`@` Anyway, isn't the moon lovely toniiight?`@` Wee~, hiccô"`@`
+;ƒ•ÛŒ’
 
 ;ld r,KOU_D1,22
 ld r,KOU_D3,22
 
-;ã€Œã‚„ã‚Œã‚„ã‚Œâ€¦â€¦ã€‚@å°‘ã—é£²ã¿éãã ã­ã€‚@ãŠé…’ã¯é£²ã‚€ã‚‚ã®ã€å›ãŒé£²ã¾ã‚Œã¦ã¯ã‚ã¹ã“ã¹ã§ãªã„ã‹ã­ï¼Ÿã€\
+;u‚â‚ê‚â‚êccB@­‚µˆù‚İ‰ß‚¬‚¾‚ËB@‚¨ğ‚Íˆù‚Ş‚à‚ÌAŒN‚ªˆù‚Ü‚ê‚Ä‚Í‚ ‚×‚±‚×‚Å‚È‚¢‚©‚ËHv\
 `"Really now...`@` You've had a bit too much to drink.`@` Are you sure you're the one drinking, or is your alcohol drinking you?"`\
-;ï¼œæ ¡é•·
+;ƒZ’·
 
 bg black,22
 bg Air_03,22
 
-;ã€Œã„ã„ã®ã‚ˆã€ã„ã£ãã€é£²ã‚“ã§ã¡ã‚‡ã†ã ã„ã‚ˆãƒ¼ï¼@ã€€ã£ãŸãã€‚@ã‚ã‚“ãŸã€å­¦æ ¡å¦–æ€ªã®é•·ã§ã—ã‚‡ï¼Ÿ@ã€€ãƒªãƒ¼ãƒ€ãƒ¼ã§ã—ã‚‡ãƒ¼ï¼Ÿï¼@ã€€ç§ã«å°‘ã—ã¯ç´ æ•µãªç”·ã‚’ç´¹ä»‹ã—ãªã•ã„ã‚ˆãƒ¼ï¼@ã€€ã†ãƒãƒ¼ï¼@ã€€èˆã‚ã‚“ãªâ€»â€»ï½ï¼ï¼@ã€€ä½•ãŒå¤¢ã‚’è«¦ã‚ãã‚Œã­ã‡ã ãƒ¼ï¼@ã€€ã„ã„æ­³ã“ã„ã¦ã€å¥³ã‚’æŒ¯ã‚‹å£å®Ÿã«å¤¢ã¨ã‹èªã£ã¦ã‚“ã˜ã‚ƒã­ãƒ¼ï¼ï¼@ã€€ãŒãŠãŠãŠãƒ¼ãƒ¼ï¼ï¼ï¼@/
+;u‚¢‚¢‚Ì‚æA‚¢‚Á‚»Aˆù‚ñ‚Å‚¿‚å‚¤‚¾‚¢‚æ[I@@‚Á‚½‚­B@‚ ‚ñ‚½AŠwZ—d‰ö‚Ì’·‚Å‚µ‚åH@@ƒŠ[ƒ_[‚Å‚µ‚å[HI@@„‚É­‚µ‚Í‘f“G‚È’j‚ğĞ‰î‚µ‚È‚³‚¢‚æ[I@@‚¤‚¡[I@@är‚ß‚ñ‚È¦¦`II@@‰½‚ª–²‚ğ’ú‚ß‚«‚ê‚Ë‚¥‚¾[I@@‚¢‚¢Î‚±‚¢‚ÄA—‚ğU‚éŒûÀ‚É–²‚Æ‚©Œê‚Á‚Ä‚ñ‚¶‚á‚Ë[II@@‚ª‚¨‚¨‚¨[[III@/
 `"It's fine, now hurry up and drink~!`@` Ugh.`@` You're the head of the School Youkai, aren't you?`@` You're the leader, right~?!`@` Introduce me to a nice guy or something~!`@` Hey~!`@` Don't take me lightly,  ***~!!`@` The hell do you mean, 'give up on that dream~!'`@` Don't gimme those excuses about how after a certain age you can jilt a girl~!!`@` Gaaoooooo~~!!!`@`/
 
 se1 47
 quakex 1,100
 
-;ã€€ã­ã‡ã»ã‚‰ï¼@ã€€ç´¹ä»‹ã—ãªã•ã„ã‚ˆã€ã„ã„ç”·ï¼@ã€€ã“ã®éš›ã€äººé–“ã§ãªãã¦ã‚‚ã„ã„ã‹ã‚‰ãƒ¼ï¼ï¼@ã€€è¡Œãé…ã‚Œã¨ã‹å«Œãã‚ã‚ãã‚ãƒƒã€ã†ã‚ãã‚ã‚ãã‚ã‚ã‚ã‚“ï¼ï¼ã€\
-`ã€€Hey, you!`@` Get me a good man!`@` I don't even care if he's a human or not anymore~!!`@` I don't want it to be too late for me to marryyyyYyYyYYYyy, UwaaAAaAAA!!"`\
+;@‚Ë‚¥‚Ù‚çI@@Ğ‰î‚µ‚È‚³‚¢‚æA‚¢‚¢’jI@@‚±‚ÌÛAlŠÔ‚Å‚È‚­‚Ä‚à‚¢‚¢‚©‚ç[II@@s‚«’x‚ê‚Æ‚©Œ™‚Ÿ‚ ‚ ‚Ÿ‚ ƒbA‚¤‚í‚Ÿ‚ ‚ ‚Ÿ‚ ‚ ‚ ‚ñIIv\
+`@Hey, you!`@` Get me a good man!`@` I don't even care if he's a human or not anymore~!!`@` I don't want it to be too late for me to marryyyyYyYyYYYyy, UwaaAAaAAA!!"`\
 
 bg black,22
 bg okujou_01y,22
 
-;ã€€ç¬‘ã£ãŸã‚Šã€å ãˆãŸã‚Šæ³£ã„ãŸã‚Šã€å®Ÿã«è³‘ã‚„ã‹ã ã€‚@
-`ã€€Laughing, bellowing, and crying. It was awfully rambunctious.`@`
-;ã€€ã‚ãã‚‰ã‚’ã‹ã„ã¦åº§ã‚‹æ ¡é•·å…ˆç”Ÿã®ã€æ°å¹…ã®è‰¯ã„ãŠè…¹ã«é¡”ã‚’ã†ãšã‚ã€ãŠãƒ¼ã„ãŠã„ãŠã„ã¨æ³£ã„ã¦ã„ã‚‹ã€‚@
-`ã€€She wept openly, burying her face into the cross-legged headmaster's grand belly.`@`
-;ã€€â€¦â€¦ã“ã‚“ãªé…”ã£æ‰•ã„ã®ç›¸æ‰‹ã¯ã€ãªã‚‹ã»ã©ã€æ ¡é•·å…ˆç”Ÿã«ã—ã‹å‹™ã¾ã‚‹ã¾ã„ã€‚@
-`ã€€Indeed, there was no better drinking partner than the headmaster for a drunkard like her.`@`
+;@Î‚Á‚½‚èA–i‚¦‚½‚è‹ƒ‚¢‚½‚èAÀ‚É“ö‚â‚©‚¾B@
+`@Laughing, bellowing, and crying. It was awfully rambunctious.`@`
+;@‚ ‚®‚ç‚ğ‚©‚¢‚ÄÀ‚éZ’·æ¶‚ÌAŠ†•‚Ì—Ç‚¢‚¨• ‚ÉŠç‚ğ‚¤‚¸‚ßA‚¨[‚¢‚¨‚¢‚¨‚¢‚Æ‹ƒ‚¢‚Ä‚¢‚éB@
+`@She wept openly, burying her face into the cross-legged headmaster's grand belly.`@`
+;@cc‚±‚ñ‚ÈŒ‚Á•¥‚¢‚Ì‘Šè‚ÍA‚È‚é‚Ù‚ÇAZ’·æ¶‚É‚µ‚©–±‚Ü‚é‚Ü‚¢B@
+`@Indeed, there was no better drinking partner than the headmaster for a drunkard like her.`@`
 br
-;ã€€ãã‚Œã«ã—ã¦ã‚‚â€¦â€¦ã€ä½•ã§äººé–“ã®ã¯ãšã®å…ˆç”ŸãŒã€å¦–æ€ªãŸã¡ã®å®´å¸­ã«ï¼Ÿ\
-`ã€€Nevertherless...why was a teacher who was supposedly human here at the Youkai's banquet?`\
+;@‚»‚ê‚É‚µ‚Ä‚àccA‰½‚ÅlŠÔ‚Ì‚Í‚¸‚Ìæ¶‚ªA—d‰ö‚½‚¿‚Ì‰ƒÈ‚ÉH\
+`@Nevertherless...why was a teacher who was supposedly human here at the Youkai's banquet?`\
 
 ld c,HIG_w3,22
 ld c,HIG_D3,80
 
-;ã€Œäººã¯æ³¥é…”ã™ã‚‹ã¨ã€æ³¢é•·ãŒäººãªã‚‰ã–ã‚‹ä¸–ã«è¿‘ä»˜ãã®ã‚ˆã€‚@â€¦â€¦ã¾ãã€è¦‹ã¦ã®é€šã‚Šã®ã‚¶ãƒã ã—ã€‚@æ˜æ—¥ã®æœã«ã¯ä½•ã®è¨˜æ†¶ã‚‚æ®‹ã£ã¦ãªã„ã§ã—ã‚‡ã†ã‹ã‚‰ã€æ°—ã«ã—ãªãã¦ã„ã„ã‚“ã˜ã‚ƒãªã„ï¼Ÿ@ã€€ã•ã£ãã¾ã§ã€å»¶ã€…ã¨å¤±æ‹è©±ã‚’èªã£ã¦ãã‚Œã¦ã€ã¿ã‚“ãªå¤§ç››ã‚Šä¸ŠãŒã‚Šã ã£ãŸã‚“ã ã‹ã‚‰ã€‚@ãã™ãã™ã€‚ã€\
+;ul‚Í“DŒ‚·‚é‚ÆA”g’·‚ªl‚È‚ç‚´‚é¢‚É‹ß•t‚­‚Ì‚æB@cc‚Ü‚ŸAŒ©‚Ä‚Ì’Ê‚è‚ÌƒUƒ}‚¾‚µB@–¾“ú‚Ì’©‚É‚Í‰½‚Ì‹L‰¯‚àc‚Á‚Ä‚È‚¢‚Å‚µ‚å‚¤‚©‚çA‹C‚É‚µ‚È‚­‚Ä‚¢‚¢‚ñ‚¶‚á‚È‚¢H@@‚³‚Á‚«‚Ü‚ÅA‰„X‚Æ¸—ö˜b‚ğŒê‚Á‚Ä‚­‚ê‚ÄA‚İ‚ñ‚È‘å·‚èã‚ª‚è‚¾‚Á‚½‚ñ‚¾‚©‚çB@‚­‚·‚­‚·Bv\
 `"When humans are dead drunk, their wavelengths draw close to the non-human world.`@` ...Well, you can see for yourself what happens.`@` She probably won't remember anything come tomorrow morning, so we don't need to worry.`@` She's been rambling on and on about her broken heart until just a bit ago, so everyone else has had a big helping too.`@` Teehee."`\
 
-;ã€€â€¦â€¦ã¾ãã€ã‚ˆãã‚ã‹ã‚‰ãªã„ã‘ã‚Œã©ã€æ¥½ã—ãã‚„ã£ã¦ã„ã‚‹ã‚ˆã†ã ã—ã€ãã£ã¨ã—ã¦ãŠãã“ã¨ã«ã—ã‚ˆã†ã€‚\
-`ã€€...Well, I don't quite understand, but it looks like they're having fun, so I decided to let them be.`\
+;@cc‚Ü‚ŸA‚æ‚­‚í‚©‚ç‚È‚¢‚¯‚ê‚ÇAŠy‚µ‚­‚â‚Á‚Ä‚¢‚é‚æ‚¤‚¾‚µA‚»‚Á‚Æ‚µ‚Ä‚¨‚­‚±‚Æ‚É‚µ‚æ‚¤B\
+`@...Well, I don't quite understand, but it looks like they're having fun, so I decided to let them be.`\
 
 cl c,0
 ld r,HIG_D1,23
 
 
-;ã€Œãã‚Œã‚ˆã‚Šã€æ¯¬æã€‚@æ ¡é•·å…ˆç”Ÿã«ã”æŒ¨æ‹¶ã—ã¦ã€‚@â€¦â€¦ã“ã‚“ãªè€ã„ã¼ã‚Œã§ã‚‚ã€ä¸€å¿œã€ç§ãŸã¡ã®é•·ãªã‚“ã ã‹ã‚‰ã€‚ã€@
+;u‚»‚ê‚æ‚èAŸ{}B@Z’·æ¶‚É‚²ˆ¥A‚µ‚ÄB@cc‚±‚ñ‚È˜V‚¢‚Ú‚ê‚Å‚àAˆê‰A„‚½‚¿‚Ì’·‚È‚ñ‚¾‚©‚çBv@
 `"Anyway, Marie.`@` Go greet the headmaster.`@` ...Even though he's a decrepit old fool, at one time he was our leader."`@`
 
 mld l,KOU_D3,22
 mld l,KOU_D1,80
 
-;ã€Œã»ã£ã»ã£ã»ã€‚@ä¸€å¿œã¯ãã†ã„ã†ã“ã¨ã«ãªã‚‹ãŒã­ã€‚ã€\
+;u‚Ù‚Á‚Ù‚Á‚ÙB@ˆê‰‚Í‚»‚¤‚¢‚¤‚±‚Æ‚É‚È‚é‚ª‚ËBv\
 `"Hohoho.`@` So now we say I was only the leader 'at one time.'"`\
 
 mcl l,0
@@ -522,26 +522,26 @@ ld l,KOU_D1,0
 mld c,ma2_D2a,22
 mld c,ma2_D4a,80
 
-;ã€Œãã‚‡ã€ä»Šæ—¥ã¯é…åˆ»ã—ã¦ã™ã¿ã¾ã›ã‚“ã€‚@ã„ã¤ã‚‚ãŠä¸–è©±ã«ãªã£ã¦ãŠã‚Šã¾ã™ã€ã‚ãã‚ãã®æ¯¬æã§ã™ã€‚ã€\
+;u‚«‚åA¡“ú‚Í’x‚µ‚Ä‚·‚İ‚Ü‚¹‚ñB@‚¢‚Â‚à‚¨¢˜b‚É‚È‚Á‚Ä‚¨‚è‚Ü‚·A‚ß‚»‚ß‚»‚ÌŸ{}‚Å‚·Bv\
 `"I, I'm sorry I was late today.`@` I'm always in your debt. I am Weeping Marie."`\
 
 ld l,KOU_D4,80
 
-;ã€Œã©ã†ã ã­ã€‚@å¦–æ€ªã®æš®ã‚‰ã—ã¯ã€‚@é¢ç™½ã„ã‹ã­ï¼Ÿã€@
+;u‚Ç‚¤‚¾‚ËB@—d‰ö‚Ì•é‚ç‚µ‚ÍB@–Ê”’‚¢‚©‚ËHv@
 `"I wonder.`@` How do you find living with Youkai?`@` Is it fun?"`@`
 mld c,ma2_w2,80
 
-;ã€ŒãŠã€é¢ç™½ã„ã‹ã©ã†ã‹ã¯ã‚ã‹ã‚Šã¾ã›ã‚“ãŒã€â€¦â€¦è‰²ã€…ã€èˆˆå‘³æ·±ã„ã§ã™ã€‚ã€\
+;u‚¨A–Ê”’‚¢‚©‚Ç‚¤‚©‚Í‚í‚©‚è‚Ü‚¹‚ñ‚ªAccFXA‹»–¡[‚¢‚Å‚·Bv\
 `"W, well I'm not sure if it's fun or not yet, ...but it seems very interesting."`\
 
 ld r,HIG_D4,80
 
-;ã€Œãã™ãã™ãã™ãã™ã€‚@æ¯¬æã£ãŸã‚‰ã€è‡ªåˆ†ã®ç‹©ã‚Šã¯ã‚ãã‚ãã—ãªã„ãã›ã«ã€@æœ€è¿‘ã¯äººã®ç‹©ã‚Šã®é‚ªé­”ã°ã‹ã‚Šã—ã¦ã„ã‚‹ã®ã‚ˆï¼Ÿã€\
+;u‚­‚·‚­‚·‚­‚·‚­‚·B@Ÿ{}‚Á‚½‚çA©•ª‚Ìë‚è‚Í‚ë‚­‚ë‚­‚µ‚È‚¢‚­‚¹‚ÉA@Å‹ß‚Íl‚Ìë‚è‚Ì×–‚‚Î‚©‚è‚µ‚Ä‚¢‚é‚Ì‚æHv\
 `"Teeheeheehee.`@` Silly Marie. You know that even though she hasn't been hunting at all lately, `@` she's been doing nothing but get in the way of other people's hunts?"`\
 
 ld l,KOU_D1,80
 
-;ã€Œã»ã£ã»ã£ã»ã£ã»ã€‚@ç‹©ã‚Šã‚’ã™ã‚‹ã‚‚è‡ªç”±ã€ã—ãªã„ã‚‚è‡ªç”±ã€‚@èª°ã‹ã®é‚ªé­”ã‚’ã™ã‚‹ã®ã‚‚ã¾ãŸè‡ªç”±ã€‚@å¦‚ä½•ãªã‚‹è€…ã«ã‚‚ç¸›ã‚‰ã‚Œã¬ã“ã¨ã®ã¿ãŒã€æˆ‘ã‚‰å­¦æ ¡å¦–æ€ªã®ä¸æ–‡å¾‹ã€‚@â€¦â€¦å¦–æ€ªãªã©ã€ãªã‚ã†ã¨æ€ã£ã¦ã‚‚ãªã‹ãªã‹ãªã‚Œã¬ã‚‚ã®ã€‚@ã“ã†ã—ã¦å­¦æ ¡å¦–æ€ªã«åã‚’é€£ã­ã‚‹ã“ã¨ãŒå‡ºæ¥ãŸã®ã‚‚ã€ä½•ã‹ã®é‹å‘½ã ã€‚@ãã®é‹å‘½ã€ã¨ã“ã¨ã‚“ã¾ã§ç¿»å¼„ã•ã‚Œã¦ã¿ã‚‹ã‚‚ä¸€èˆˆã¨ã„ã†ã‚‚ã®ã€‚ã€\
+;u‚Ù‚Á‚Ù‚Á‚Ù‚Á‚ÙB@ë‚è‚ğ‚·‚é‚à©—RA‚µ‚È‚¢‚à©—RB@’N‚©‚Ì×–‚‚ğ‚·‚é‚Ì‚à‚Ü‚½©—RB@”@‰½‚È‚éÒ‚É‚à”›‚ç‚ê‚Ê‚±‚Æ‚Ì‚İ‚ªA‰ä‚çŠwZ—d‰ö‚Ì•s•¶—¥B@cc—d‰ö‚È‚ÇA‚È‚ë‚¤‚Æv‚Á‚Ä‚à‚È‚©‚È‚©‚È‚ê‚Ê‚à‚ÌB@‚±‚¤‚µ‚ÄŠwZ—d‰ö‚É–¼‚ğ˜A‚Ë‚é‚±‚Æ‚ªo—ˆ‚½‚Ì‚àA‰½‚©‚Ì‰^–½‚¾B@‚»‚Ì‰^–½A‚Æ‚±‚Æ‚ñ‚Ü‚Å–|˜M‚³‚ê‚Ä‚İ‚é‚àˆê‹»‚Æ‚¢‚¤‚à‚ÌBv\
 `"Hohohoho.`@` You're free to hunt or not to hunt.`@` You're also free to get in the way of others' hunting.`@` It is an unwritten law of the School Youkai that we shall be bound by nothing.`@` ...Even if think about becoming a Youkai, it's not easy to do so.`@` The fact that you were able to make a name for yourself in the School Youkai must be some form of destiny.`@` It must have been amusing to trifle with fate so thoroughly."`\
 
 mcl c,0
@@ -550,51 +550,51 @@ bg black,22
 bg Air_03,22
 
 
-;ã€€å¦–æ€ªã«ãªã£ã¦ã¿ã¦ã‚ã‹ã£ãŸãŒã€â€¦â€¦å¦–æ€ªãªã‚“ã¦ã€ãŠã„ãã‚Œã¨ãªã‚Œã‚‹ã‚‚ã®ã˜ã‚ƒãªã„ã€‚@
-`ã€€I knew I would try to become a Youkai, ...but becoming one isn't something that can happen at a moment's notice.`@`
+;@—d‰ö‚É‚È‚Á‚Ä‚İ‚Ä‚í‚©‚Á‚½‚ªAcc—d‰ö‚È‚ñ‚ÄA‚¨‚¢‚»‚ê‚Æ‚È‚ê‚é‚à‚Ì‚¶‚á‚È‚¢B@
+`@I knew I would try to become a Youkai, ...but becoming one isn't something that can happen at a moment's notice.`@`
 
 br
-;ã€€è‡ªåˆ†ãŒå¦–æ€ªã«ãªã‚ŒãŸã®ã‚‚ã€ãŸã¾ãŸã¾ã®å¶ç„¶ã¿ãŸã„ãªã‚‚ã®ã€‚\
-`ã€€The fact that I was able to become one was sort of an unexpected accident.`\
-;ã€€ã“ã‚Œã¯ã€ã¨ã¦ã‚‚ã¨ã¦ã‚‚å¹¸é‹ãªã€â€¦â€¦æ­»å¾Œã®ã‚‚ã†ä¸€ã¤ã®æ–°ã—ã„äººç”Ÿãªã‚“ã ã€‚@
-`ã€€This is an extremely fortunate...brand new life after death.`@`
+;@©•ª‚ª—d‰ö‚É‚È‚ê‚½‚Ì‚àA‚½‚Ü‚½‚Ü‚Ì‹ô‘R‚İ‚½‚¢‚È‚à‚ÌB\
+`@The fact that I was able to become one was sort of an unexpected accident.`\
+;@‚±‚ê‚ÍA‚Æ‚Ä‚à‚Æ‚Ä‚àK‰^‚ÈAcc€Œã‚Ì‚à‚¤ˆê‚Â‚ÌV‚µ‚¢l¶‚È‚ñ‚¾B@
+`@This is an extremely fortunate...brand new life after death.`@`
 br
-;ã€€ã§ã‚‚ã€æ­»å¾Œã¯æ­»å¾Œã€‚@ç§ã¯ã™ã§ã«æ­»ã‚“ã§ã—ã¾ã£ã¦ã„ã¦ã€å…¨ã¦ã¯å–ã‚Šè¿”ã—ãŒä»˜ã‹ãªã„ã€‚\
-`ã€€But after death means 'after death.'`@` I had already died, and now cannot take anything back.`\
+;@‚Å‚àA€Œã‚Í€ŒãB@„‚Í‚·‚Å‚É€‚ñ‚Å‚µ‚Ü‚Á‚Ä‚¢‚ÄA‘S‚Ä‚Íæ‚è•Ô‚µ‚ª•t‚©‚È‚¢B\
+`@But after death means 'after death.'`@` I had already died, and now cannot take anything back.`\
 
 bg black,22
 bg okujou_01y,22
 ;mld c,ma2_w2,22
 mld c,ma2_w1,22
 
-;ã€Œã ã‹ã‚‰ã“ãã€‚@â€¦â€¦â€¦ã›ã‚ã¦ã€å¦–æ€ªã®èº«ã«ãªã£ãŸä»Šã¯ã€‚@â€¦â€¦æœ¬å½“ã«ãªã‚ŠãŸã‹ã£ãŸè‡ªåˆ†ã«ã€ãªã£ã¦ã¿ãŸã„ã‚“ã§ã™ã€‚ã€@
+;u‚¾‚©‚ç‚±‚»B@ccc‚¹‚ß‚ÄA—d‰ö‚Ìg‚É‚È‚Á‚½¡‚ÍB@cc–{“–‚É‚È‚è‚½‚©‚Á‚½©•ª‚ÉA‚È‚Á‚Ä‚İ‚½‚¢‚ñ‚Å‚·Bv@
 `"That's my reason.`@` ...At the very least, in this Youkai body I now possess,`@` ...I want to try to become the person I always wanted to be."`@`
 
 ld l,HIG_D5,22
 ;ld l,HIG_D5,80
 
-;ã€Œãªãã‚“ã¦ã€å‡›ã€…ã—ã„ã“ã¨ã‚’ãŸã¾ã«è¨€ã„å‡ºã™ã‚ã‘ã ã‚ã€‚@ä»Šåº¦ã€ç§ã®ç‹©ã‚Šã®é‚ªé­”ã‚’ã—ãŸã‚‰ã€å®¹èµ¦ãªãå…«ã¤è£‚ããªã‚“ã ã‹ã‚‰ã­ï¼Ÿã€\
+;u‚È‚Ÿ‚ñ‚ÄA™zX‚µ‚¢‚±‚Æ‚ğ‚½‚Ü‚ÉŒ¾‚¢o‚·‚í‚¯‚¾‚íB@¡“xA„‚Ìë‚è‚Ì×–‚‚ğ‚µ‚½‚çA—eÍ‚È‚­”ª‚Â—ô‚«‚È‚ñ‚¾‚©‚ç‚ËHv\
 `"Ohh, now you're starting to say such dignified things.`@` Next time you get in the way of my hunt, I'll tear you relentlessly apart, limb from limb, okay?"`\
 
 mld c,ma2_i3a,80
 
-;ã€Œå½¼å²¸èŠ±ã•ã‚“ãŒã€æ°—ã®æ¯’ãªäººã°ã‹ã‚Šã‚’ç²ç‰©ã«ã—ã‚ˆã†ã¨ã™ã‚‹ã‹ã‚‰ã§ã™ã£ã€‚ã€\
+;u”ŞŠİ‰Ô‚³‚ñ‚ªA‹C‚Ì“Å‚Èl‚Î‚©‚è‚ğŠl•¨‚É‚µ‚æ‚¤‚Æ‚·‚é‚©‚ç‚Å‚·‚ÁBv\
 `"I only do it because you only try to make prey of such unfortunate people."`\
 
 ;ld r,KOU_D3,24
 ld r,KOU_D1,22
 
-;ã€Œã»ã£ã»ã£ã»ã£ã»ã€‚@ç›®ã‚’é›¢ã—ã¦ã„ã‚‹ã¨ã€ä½•ã‚’å§‹ã‚ã‚‹ã‹ã‚ã‹ã‚‰ã‚“å½¼å²¸èŠ±ãã‚“ã«ã¯ã€æ¯¬æãã‚“ã¯ã¡ã‚‡ã†ã©ã„ã„éˆ´ä»£ã‚ã‚Šã ã­ã€‚@â€¦â€¦æ¯¬æãã‚“ã€‚@å½¼å²¸èŠ±ãã‚“ã‚’ã‚ˆã‚ã—ãé ¼ã‚€ã‚ˆã€‚@â€¦â€¦äººå½¢ã¯äººå½¢ã€‚@ä¸€ç·’ã«éŠã‚“ã§ãã‚Œã‚‹äººãŒã„ã¦åˆã‚ã¦ã€äººå½¢ãŸã‚Šãˆã‚‹ã®ã ã‹ã‚‰ã€‚ã€\
+;u‚Ù‚Á‚Ù‚Á‚Ù‚Á‚ÙB@–Ú‚ğ—£‚µ‚Ä‚¢‚é‚ÆA‰½‚ğn‚ß‚é‚©‚í‚©‚ç‚ñ”ŞŠİ‰Ô‚­‚ñ‚É‚ÍAŸ{}‚­‚ñ‚Í‚¿‚å‚¤‚Ç‚¢‚¢—é‘ã‚í‚è‚¾‚ËB@ccŸ{}‚­‚ñB@”ŞŠİ‰Ô‚­‚ñ‚ğ‚æ‚ë‚µ‚­—Š‚Ş‚æB@cclŒ`‚ÍlŒ`B@ˆê‚É—V‚ñ‚Å‚­‚ê‚él‚ª‚¢‚Ä‰‚ß‚ÄAlŒ`‚½‚è‚¦‚é‚Ì‚¾‚©‚çBv\
 `"Hohohoho.`@` For someone like Higanbana-kun, who starts something new the second you take your eyes off of her, Marie-kun seems like a great replacement.`@` ...Marie-kun.`@` Take care of Higanbana-kun.`@` ...Dolls are dolls after all.`@` Their greatest pleasure is for someone to play with them."`\
 
 ld l,HIG_w3,80
 
-;ã€Œå¤±ç¤¼ã—ã¡ã‚ƒã†ã‚ã€‚@æ¯¬æã§éŠã‚“ã§ã„ã‚‹ã®ã¯ç§ã ã¨ã„ã†ã®ã«ã€‚ã€@
+;u¸—ç‚µ‚¿‚á‚¤‚íB@Ÿ{}‚Å—V‚ñ‚Å‚¢‚é‚Ì‚Í„‚¾‚Æ‚¢‚¤‚Ì‚ÉBv@
 `"How rude.`@` Even though I'M the one playing with MARIE."`@`
 
 mld c,ma2_w2,80
 
-;ã€Œãã™ãã™ã€‚@â€¦â€¦ã¯ã„ã£ã€æ ¡é•·å…ˆç”Ÿã€‚ã€\
+;u‚­‚·‚­‚·B@cc‚Í‚¢‚ÁAZ’·æ¶Bv\
 `"Teehee.`@` ...Yes, headmaster."`\
 
 mcl c,0
@@ -603,18 +603,18 @@ bg okujou_02,22
 ld r,Hok_D4,24
 ld r,Hok_D1,80
 
-;ã€Œâ€¦â€¦ãã†ãã†ã€‚@ã‚ãã‚ãã•ã‚“ã£ã¦ã€æ—§æ ¡èˆã®å¥³å­ãƒˆã‚¤ãƒ¬ã®æ€ªè«‡ã ã£ãŸã‚ã‚ˆã­ã‡ï¼Ÿã€@
+;ucc‚»‚¤‚»‚¤B@‚ß‚»‚ß‚»‚³‚ñ‚Á‚ÄA‹ŒZÉ‚Ì—qƒgƒCƒŒ‚Ì‰ö’k‚¾‚Á‚½‚í‚æ‚Ë‚¥Hv@
 `"...Yeah, yeah.`@` MesoMeso-san's that ghost story about the girl's bathroom in the old school building, right?"`@`
-;ï¼œä¿å¥
+;ƒ•ÛŒ’
 
 ld l,ma2_D4,23
 ;ld l,ma2_D1,80
 
-;ã€Œãˆï¼Ÿ@ã€€ã¯ã„ã€ãã†ã§ã™ã‘ã‚Œã©â€¦â€¦ã€‚ã€\
+;u‚¦H@@‚Í‚¢A‚»‚¤‚Å‚·‚¯‚ê‚ÇccBv\
 `"Huh?`@` Yes, that's right, but..."`\
 
-;ã€€é…”ã£æ‰•ã£ã¦æ½°ã‚Œã¦ã„ãŸã¨æ€ã£ãŸä¿å¥ã®å…ˆç”ŸãŒã€ãµã„ã«æœˆã‚’è¦‹ä¸Šã’ãªãŒã‚‰å‘Ÿãã€‚\
-`ã€€The school nurse, who I had thought was completely drunk and useless, was now looking up at the moon and murmuring.`\
+;@Œ‚Á•¥‚Á‚Ä’×‚ê‚Ä‚¢‚½‚Æv‚Á‚½•ÛŒ’‚Ìæ¶‚ªA‚Ó‚¢‚ÉŒ‚ğŒ©ã‚°‚È‚ª‚ç™ê‚­B\
+`@The school nurse, who I had thought was completely drunk and useless, was now looking up at the moon and murmuring.`\
 
 bg black,26
 
@@ -622,7 +622,7 @@ me1v 5,50
 
 bg Air_03,22
 
-;ã€Œå¤§æ˜”ã€‚@æ–°æ ¡èˆãªã‚“ã‹ãªã‹ã£ãŸé ƒã€‚@ã“ã“ã¯æ—§æ ¡èˆã˜ã‚ƒãªãã€ç«‹æ´¾ãªæ ¡èˆã ã£ãŸã‚ã‘ã€‚@â€¦â€¦ç”Ÿå¾’ã‚‚å¤§å‹¢ã„ãŸã€‚@â€¦â€¦å½“ç„¶ã€å­¦æ ¡ã®ä¸ƒä¸æ€è­°ã‚‚å­˜åœ¨ã—ãŸã‚ã€‚ã€\
+;u‘åÌB@VZÉ‚È‚ñ‚©‚È‚©‚Á‚½ B@‚±‚±‚Í‹ŒZÉ‚¶‚á‚È‚­A—§”h‚ÈZÉ‚¾‚Á‚½‚í‚¯B@cc¶“k‚à‘å¨‚¢‚½B@cc“–‘RAŠwZ‚Ìµ•sv‹c‚à‘¶İ‚µ‚½‚íBv\
 `"A long time ago.`@` Back when there was no new school building or anything.`@` This wasn't the former school building, but an elegant institution.`@` ...There were so many students.`@` ...And of course, there were the Seven School Mysteries."`\
 
 bg black,22
@@ -630,29 +630,29 @@ bg okujou_01y,0
 ld r,KOU_D1,22
 ld r,KOU_D2,80
 
-;ã€Œâ€¦â€¦â€¦ãã†ã ã­ã€‚@æ‡ã‹ã—ã„ã‚ˆã€‚ã€@
+;uccc‚»‚¤‚¾‚ËB@‰ù‚©‚µ‚¢‚æBv@
 `"...You're right.`@` How nostalgic."`@`
-;ï¼œæ ¡é•·
+;ƒZ’·
 
 ld l,HIG_w1,23
 ;ld l,HIG_D1,80
 
-;ã€Œã§ã‚‚ã€å…¨ã¦æ¶ˆãˆãŸã‚ã€‚@äººãŒã„ã‚‹ã¨ã“ã‚ã«æ€ªè«‡ãŒç”Ÿã¾ã‚Œã‚‹ã€‚@â€¦â€¦äººãŒæ•£ã‚Œã°ã€æ€ªè«‡ã‚‚æ¶ˆãˆã‚‹ã€‚ã€\
+;u‚Å‚àA‘S‚ÄÁ‚¦‚½‚íB@l‚ª‚¢‚é‚Æ‚±‚ë‚É‰ö’k‚ª¶‚Ü‚ê‚éB@ccl‚ªU‚ê‚ÎA‰ö’k‚àÁ‚¦‚éBv\
 `"But everything disappeared.`@` Ghost stories are born from places where people are.`@` ...If the people go away, then the ghost stories vanish too."`\
-;ï¼œå½¼å²¸èŠ±
+;ƒ”ŞŠİ‰Ô
 
 mld c,HOK_D1,22
 mld c,HOK_D3,80
 
-;ã€Œã‹ã¤ã¦ã¯ã“ã®æ—§æ ¡èˆã«ã‚‚ã€ç«‹æ´¾ãªä¸ƒä¸æ€è­°ãŒå­˜åœ¨ã—ã¦ã€ãã®ãã‚Œãã‚Œã‚’å¸ã‚‹å¦–æ€ªãŸã¡ãŒå›è‡¨ã—ã¦ã„ãŸã¯ãšã€‚@â€¦â€¦â€¦ã—ã‹ã—ä»Šã¯ã€èª°ã‚‚æ®‹ã£ã¦ã„ãªã„ã€‚ã€@
+;u‚©‚Â‚Ä‚Í‚±‚Ì‹ŒZÉ‚É‚àA—§”h‚Èµ•sv‹c‚ª‘¶İ‚µ‚ÄA‚»‚Ì‚»‚ê‚¼‚ê‚ği‚é—d‰ö‚½‚¿‚ªŒN—Õ‚µ‚Ä‚¢‚½‚Í‚¸B@ccc‚µ‚©‚µ¡‚ÍA’N‚àc‚Á‚Ä‚¢‚È‚¢Bv@
 `"Once, even in this old school building, there were those seven splendid School Mysteries, and the Youkai that governed them.`@` ...But now, nobody is left."`@`
-;ï¼œä¿å¥
+;ƒ•ÛŒ’
 
 ld l,HIG_D5,80
 
-;ã€Œä»Šã®ç”Ÿå¾’ãŸã¡ã¯ã€â€¦â€¦æ—§æ ¡èˆã®ä¸ƒä¸æ€è­°ãªã‚“ã¦ã€èª°ã‚‚çŸ¥ã‚‰ãªã„ã§ã—ã‚‡ã†ã€‚ã€\
+;u¡‚Ì¶“k‚½‚¿‚ÍAcc‹ŒZÉ‚Ìµ•sv‹c‚È‚ñ‚ÄA’N‚à’m‚ç‚È‚¢‚Å‚µ‚å‚¤Bv\
 `"Out of the current student body, ...I doubt there's anyone who knows about the former school's seven mysteries."`\
-;ï¼œå½¼å²¸èŠ±
+;ƒ”ŞŠİ‰Ô
 
 mcl c,0
 bg black,22
@@ -661,26 +661,26 @@ bg gakkou_07y,22
 ;bg black,22
 ;bg k_rouka_03,22
 
-;ã€€ã‹ã¤ã¦ã€æ–°æ ¡èˆãªã©ãªã‹ã£ãŸå¤§æ˜”ã€‚@
-`ã€€Once, long before there was anything like the new school building.`@`
-;ã€€å­¦æ ¡ã¯ã“ã®æ—§æ ¡èˆã ã‘ã ã£ãŸã€‚@
-`ã€€School was only in this building.`@`
-;ã€€ã ã‹ã‚‰ã“ã®æ—§æ ¡èˆã«ã¯å¤§å‹¢ã®ç”Ÿå¾’ãŒæº¢ã‚Œã€â€¦â€¦ãã®ç”Ÿå¾’ãŸã¡ã®ä¸­ã§ã€è‡ªç„¶ã«ä¸ƒä¸æ€è­°ãŒç”Ÿã¾ã‚ŒãŸã¯ãšãªã®ã ã€‚@
-`ã€€That was why this old building was overflowing with students, ...and amongst those students, naturally, those Seven School Mysteries should have come about.`@`
+;@‚©‚Â‚ÄAVZÉ‚È‚Ç‚È‚©‚Á‚½‘åÌB@
+`@Once, long before there was anything like the new school building.`@`
+;@ŠwZ‚Í‚±‚Ì‹ŒZÉ‚¾‚¯‚¾‚Á‚½B@
+`@School was only in this building.`@`
+;@‚¾‚©‚ç‚±‚Ì‹ŒZÉ‚É‚Í‘å¨‚Ì¶“k‚ªˆì‚êAcc‚»‚Ì¶“k‚½‚¿‚Ì’†‚ÅA©‘R‚Éµ•sv‹c‚ª¶‚Ü‚ê‚½‚Í‚¸‚È‚Ì‚¾B@
+`@That was why this old building was overflowing with students, ...and amongst those students, naturally, those Seven School Mysteries should have come about.`@`
 br
-;ã€€â€¦â€¦â€¦ã—ã‹ã—ã€‚@ä»Šã®æ–°æ ¡èˆã«é€šã†ç”Ÿå¾’ãŸã¡ã¯ã€èª°ã‚‚ãã‚Œã‚’çŸ¥ã‚‰ãªã„ã€‚\
-`ã€€...However.`@` Out of the current students attending the new school, not a single student knew of them.`\
+;@ccc‚µ‚©‚µB@¡‚ÌVZÉ‚É’Ê‚¤¶“k‚½‚¿‚ÍA’N‚à‚»‚ê‚ğ’m‚ç‚È‚¢B\
+`@...However.`@` Out of the current students attending the new school, not a single student knew of them.`\
 
 bg black,22
 bg gakkou_01y,22
 
-;ã€€ã‚ãã‚ãã•ã‚“ã¨ã„ã†ä¾‹å¤–ã‚’é™¤ã‘ã°ã€å…¨ã¦ã®æ€ªè«‡ã¯çš†ã€æ–°æ ¡èˆã‹ãã®å‘¨è¾ºã‚’æŒ‡ã™ã‚‚ã®ã ã€‚@
-`ã€€With the exception of MesoMeso-san, all of these ghost stories take place within either the new school building or the area around it.`@`
-;ã€€æ—§æ ¡èˆã¯ã€ä¸æ°—å‘³ãªå ´æ‰€ã¨ã—ã¦æã‚Œã‚‰ã‚Œã¦ã¯ã„ã‚‹ã‘ã‚Œã©ã€‚@
-`ã€€Even though the former school building is feared as some ghastly place.`@`
+;@‚ß‚»‚ß‚»‚³‚ñ‚Æ‚¢‚¤—áŠO‚ğœ‚¯‚ÎA‘S‚Ä‚Ì‰ö’k‚ÍŠFAVZÉ‚©‚»‚Ìü•Ó‚ğw‚·‚à‚Ì‚¾B@
+`@With the exception of MesoMeso-san, all of these ghost stories take place within either the new school building or the area around it.`@`
+;@‹ŒZÉ‚ÍA•s‹C–¡‚ÈêŠ‚Æ‚µ‚Ä‹°‚ê‚ç‚ê‚Ä‚Í‚¢‚é‚¯‚ê‚ÇB@
+`@Even though the former school building is feared as some ghastly place.`@`
 br
-;ã€€ã‹ã¤ã¦ã€ãã“ã«ã‚‚å­¦æ ¡ã¨ã„ã†ç¤¾ä¼šãŒã‚ã‚Šã€ãã®ä¸­ã«ã‚‚ä¸ƒä¸æ€è­°ãŒã‚ã£ãŸã“ã¨ã‚’çŸ¥ã‚‹ç”Ÿå¾’ãªã©ã€@â€¦â€¦â€¦åŸƒã®ç©ã‚‚ã£ãŸå’æ¥­ã‚¢ãƒ«ãƒãƒ ã«è¨˜ã•ã‚ŒãŸã€å¤§æ˜”ã®å’æ¥­ç”ŸãŸã¡ã—ã‹çŸ¥ã‚‹ã¾ã„ã€‚\
-`ã€€At one point, there was a school community, and within it, students who knew of the Seven Mysteries,`@` ...But now they are only remembered in the graduation albums coated in dusts and the graduates of long ago.`\
+;@‚©‚Â‚ÄA‚»‚±‚É‚àŠwZ‚Æ‚¢‚¤Ğ‰ï‚ª‚ ‚èA‚»‚Ì’†‚É‚àµ•sv‹c‚ª‚ ‚Á‚½‚±‚Æ‚ğ’m‚é¶“k‚È‚ÇA@cccšº‚ÌÏ‚à‚Á‚½‘²‹ÆƒAƒ‹ƒoƒ€‚É‹L‚³‚ê‚½A‘åÌ‚Ì‘²‹Æ¶‚½‚¿‚µ‚©’m‚é‚Ü‚¢B\
+`@At one point, there was a school community, and within it, students who knew of the Seven Mysteries,`@` ...But now they are only remembered in the graduation albums coated in dusts and the graduates of long ago.`\
 
 bg black,22
 
@@ -691,15 +691,15 @@ bg okujou_01y,22
 ld l,ma2_d4,23
 ;ld l,ma2_D1,80
 
-;ã€Œâ€¦â€¦å¿˜ã‚Œã‚‰ã‚ŒãŸæ€ªè«‡ã®å¦–æ€ªã£ã¦ã€â€¦â€¦â€¦ã©ã†ãªã‚‹ã‚“ã§ã—ã‚‡ã†ã€‚ã€@
+;ucc–Y‚ê‚ç‚ê‚½‰ö’k‚Ì—d‰ö‚Á‚ÄAccc‚Ç‚¤‚È‚é‚ñ‚Å‚µ‚å‚¤Bv@
 `"...I wonder what happens, ...to the Youkai of those forgotten ghost stories."`@`
 
 ld r,HIG_w3,24
 ld r,HIG_D3,80
 
-;ã€Œæ­»ã¬ã®ã‚ˆã€‚@ã„ãˆã€æ¶ˆãˆã‚‹ã¨ã„ã†ã¹ãã­ã€‚ã€\
+;u€‚Ê‚Ì‚æB@‚¢‚¦AÁ‚¦‚é‚Æ‚¢‚¤‚×‚«‚ËBv\
 `"They die.`@` No, I should say they disappear."`\
-;ï¼œå½¼å²¸èŠ±
+;ƒ”ŞŠİ‰Ô
 
 
 cl l,22
@@ -707,41 +707,41 @@ cl l,22
 ld l,KOU_D2,23
 ld l,KOU_D4,80
 
-;ã€Œå¿˜ã‚Œã‚‰ã‚Œã‚‹ã“ã¨ãŒã€æˆ‘ã€…ã€å­¦æ ¡å¦–æ€ªã®å¯¿å‘½ã¨ã‚‚å‘¼ã¹ã‚‹ã‹ã‚‚ã—ã‚Œã‚“ã­ã€‚@æ­»ã‚’è¶…è¶Šã—ãŸæˆ‘ã‚‰ã¨ã¦ã€ãã®ã‚ˆã†ãªå½¢ã§ã®å¯¿å‘½ã‹ã‚‰ã¯é€ƒã‚Œã‚‰ã‚Œã¬ã¨ã¯é¢ç™½ã„ã‚‚ã®ã‚ˆã®ã€‚@ã»ã£ã»ã£ã»â€¦â€¦ã€‚ã€\
+;u–Y‚ê‚ç‚ê‚é‚±‚Æ‚ªA‰äXAŠwZ—d‰ö‚Ìõ–½‚Æ‚àŒÄ‚×‚é‚©‚à‚µ‚ê‚ñ‚ËB@€‚ğ’´‰z‚µ‚½‰ä‚ç‚Æ‚ÄA‚»‚Ì‚æ‚¤‚ÈŒ`‚Å‚Ìõ–½‚©‚ç‚Í“¦‚ê‚ç‚ê‚Ê‚Æ‚Í–Ê”’‚¢‚à‚Ì‚æ‚ÌB@‚Ù‚Á‚Ù‚Á‚ÙccBv\
 `"You might say that being forgotten can be called the same as a lifespan for us School Youkai.`@` That we who have transcended death cannot escape a form such as that is quite interesting.`@` Hohoho..."`\
-;ï¼œæ ¡é•·
+;ƒZ’·
 
 cl r,22
 ld r,HOK_D4,22
 ld r,HOK_D2,80
 
 
-;ã€Œâ€¦â€¦ãã‚“ãªã€å¦–æ€ªãŸã¡ã®æ­»ã«çµ¶ãˆãŸæ—§æ ¡èˆã«ã€‚@ã‚ãªãŸã¯ä¹…ã€…ã«ä½ã¿ä»˜ã„ãŸå¦–æ€ªãªã®ã‚ˆã€‚@ã ã‹ã‚‰ã€‚@èª°ã‚‚ã„ãªããªã£ã¦å¯‚ã—ã‹ã£ãŸæ—§æ ¡èˆã¯ã€ãã£ã¨ã€ä¹…ã—æŒ¯ã‚Šã®å®¢äººã§ã‚ã‚‹ã‚ãªãŸã‚’æ­“è¿ã—ã¦ã„ã‚‹ã¨æ€ã†ã‚ã€‚ã€@
+;ucc‚»‚ñ‚ÈA—d‰ö‚½‚¿‚Ì€‚Éâ‚¦‚½‹ŒZÉ‚ÉB@‚ ‚È‚½‚Í‹vX‚ÉZ‚İ•t‚¢‚½—d‰ö‚È‚Ì‚æB@‚¾‚©‚çB@’N‚à‚¢‚È‚­‚È‚Á‚Äâ‚µ‚©‚Á‚½‹ŒZÉ‚ÍA‚«‚Á‚ÆA‹v‚µU‚è‚Ì‹ql‚Å‚ ‚é‚ ‚È‚½‚ğŠ½Œ}‚µ‚Ä‚¢‚é‚Æv‚¤‚íBv@
 `"...You are the first Youkai in so long.`@` To settle in that old school building, where all those Youkai died out.`@` That's why,`@`  I think that lonely old school building with noone around must surely be welcoming the company of a guest after so long."`@`
-;ï¼œä¿å¥
+;ƒ•ÛŒ’
 
 mld c,ma2_D4a,22
 
-;ã€Œâ€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦ã€‚ã€\
+;ucccccccccccBv\
 `"......"`\
-;ï¼œæ¯¬æ
+;ƒŸ{}
 
 mcl c,0
 bg black,22
 bg k_rouka_02,22
 
-;ã€€æ—§æ ¡èˆã«ã¯ã€ä»Šã¯ã‚‚ã†ã€èª°ã‚‚ã„ãªã„ã€‚@
-`ã€€There is nobody in the abandoned school building anymore.`@`
+;@‹ŒZÉ‚É‚ÍA¡‚Í‚à‚¤A’N‚à‚¢‚È‚¢B@
+`@There is nobody in the abandoned school building anymore.`@`
 br
-;ã€€æ™‚æŠ˜ã€å…ˆç”ŸãŒè¨ªã‚Œã€å€‰åº«ä»£ã‚ã‚Šã«ä½¿ã£ã¦ã„ã‚‹æ•™å®¤ã«å‡ºå…¥ã‚Šã—ãŸã‚Šã€‚@â€¦â€¦ã‚ã‚‹ã„ã¯ã€åº¦èƒ¸è©¦ã—ã‚„æ¢æ¤œã«å¿ã³è¾¼ã‚“ã§ãã‚‹ç”Ÿå¾’ãŒã„ãŸã‚Šã€‚\
-`ã€€Occasionally, a teacher may come by to take something from storage to bring to their classroom and such.`@` ...Other times, students sneak in to test their courage by exploring it.`\
+;@ÜAæ¶‚ª–K‚êA‘qŒÉ‘ã‚í‚è‚Ég‚Á‚Ä‚¢‚é‹³º‚Éo“ü‚è‚µ‚½‚èB@cc‚ ‚é‚¢‚ÍA“x‹¹‚µ‚â’TŒŸ‚É”E‚Ñ‚ñ‚Å‚­‚é¶“k‚ª‚¢‚½‚èB\
+`@Occasionally, a teacher may come by to take something from storage to bring to their classroom and such.`@` ...Other times, students sneak in to test their courage by exploring it.`\
 
-;ã€€ã§ã‚‚ã€ãã‚Œã ã‘ã€‚@â€¦â€¦å­¦æ ¡ã®å–§é¨’ã‚’å¿˜ã‚Œã¦ä¹…ã—ã„ã€å¯‚ã—ã„å ´æ‰€ã ã€‚@
-`ã€€But that's all.`@` ...Long gone is the hustle and bustle of school in this lonely place.`@`
+;@‚Å‚àA‚»‚ê‚¾‚¯B@ccŠwZ‚ÌŒ–‘›‚ğ–Y‚ê‚Ä‹v‚µ‚¢Aâ‚µ‚¢êŠ‚¾B@
+`@But that's all.`@` ...Long gone is the hustle and bustle of school in this lonely place.`@`
 
 br
-;ã€€ãã“ã«ã€ã‚ãã‚ãã•ã‚“ã¨ã„ã†æ–°ã—ã„å¦–æ€ªãŒä½ã¿ä»˜ã„ãŸã“ã¨ã‚’ã€â€¦â€¦æ—§æ ¡èˆã¯æ­“è¿ã—ã¦ãã‚Œã‚‹ã ã‚ã†ã‹ã€‚\
-`ã€€I wonder...if the old school building would welcome the new Youkai, MesoMeso-san, who settled within it.
+;@‚»‚±‚ÉA‚ß‚»‚ß‚»‚³‚ñ‚Æ‚¢‚¤V‚µ‚¢—d‰ö‚ªZ‚İ•t‚¢‚½‚±‚Æ‚ğAcc‹ŒZÉ‚ÍŠ½Œ}‚µ‚Ä‚­‚ê‚é‚¾‚ë‚¤‚©B\
+`@I wonder...if the old school building would welcome the new Youkai, MesoMeso-san, who settled within it.
 
 
 bg black,22
@@ -749,39 +749,39 @@ bg okujou_01y,0
 ld l,HIG_w3,22
 ld l,HIG_D1,80
 
-;ã€Œã¾ã€‚@â€¦â€¦ã›ã„ãœã„å¿˜ã‚Œå»ã‚‰ã‚Œãªã„ã€æã‚ã—ã„æ€ªè«‡ã«ãªã‚‹ã“ã¨ã­ã€‚ã€@
+;u‚ÜB@cc‚¹‚¢‚º‚¢–Y‚ê‹‚ç‚ê‚È‚¢A‹°‚ë‚µ‚¢‰ö’k‚É‚È‚é‚±‚Æ‚ËBv@
 `"Well.`@` ...At best, it is a terrifying ghost tale none shall forget."`@`
-;ï¼œå½¼å²¸èŠ±
+;ƒ”ŞŠİ‰Ô
 
 ;ld r,KOU_D2,22
 ld r,KOU_D1,22
 
-;ã€Œæã‚Œã‚‰ã‚Œã¦ã“ãæ€ªè«‡ã€‚@å¤œã‚’ã•ã‚‰ã«æ·±ã„é—‡ã«æŸ“ã‚ã¦ã“ãã€æ˜¼ãŒæ˜ã‚‹ãè¼ãã®ã ã‹ã‚‰ã®ã…ã€‚@ã»ã£ã»ã£ã»â€¦â€¦ã€‚ã€\
+;u‹°‚ê‚ç‚ê‚Ä‚±‚»‰ö’kB@–é‚ğ‚³‚ç‚É[‚¢ˆÅ‚Éõ‚ß‚Ä‚±‚»A’‹‚ª–¾‚é‚­‹P‚­‚Ì‚¾‚©‚ç‚Ì‚£B@‚Ù‚Á‚Ù‚Á‚ÙccBv\
 `"It's because it is terrifying that it is called a ghost story.`@` It is because the night is dyed thick with darkness that the day may sparkle with light.`@` Hohoho...."`\
-;ï¼œæ ¡é•·
+;ƒZ’·
 
 
-;ã€€å¦–æ€ªã‚„æ€ªè«‡ãŒã€ã©ã‚“ãªã«æã‚Œã‚‰ã‚Œã¦ã„ã¦ã‚‚ã€‚@
-`ã€€No matter how feared Youkai or ghost stories are.`@`
-;ã€€è¨ªã‚Œã‚‹è€…ãŒçµ¶ãˆã¦ã€èª°ã‚‚èªã‚Šç¶™ãŒãªããªã£ãŸã‚‰ã€æ¶ˆãˆå»ã£ã¦ã—ã¾ã†ã€‚@
-`ã€€If those who call on them die down, and nobody passes them down, they will vanish.`@`
-;ã€€ã ã‹ã‚‰ã“ãå½¼ã‚‰ã¯ç”Ÿãã‚‹ãŸã‚ã«ã€â€¦â€¦äººé–“ãŸã¡ã«å¿˜ã‚Œã‚‰ã‚ŒãŸããªã„ã¨é¡˜ã†ã®ã ã€‚\
-`ã€€That is precisely why they wish that humans do not forget about them...so they can live on.`\
-;ã€€ãã‚Œã‚’æ€ã£ãŸæ™‚ã€â€¦â€¦å¦–æ€ªã‚‚äººé–“ã¨åŒã˜ã§ã€@â€¦â€¦æœ¬è³ªçš„ã«ã¯å¯‚ã—ãŒã‚Šå±‹ãªã®ã‹ã‚‚ã—ã‚Œãªã„ã¨ã€æ¯¬æã¯æ€ã£ãŸã€‚\
-`ã€€When thinking that...humans and Youkai are alike,`@` ...Marie thought that maybe they all were essentially just lonely.`\
+;@—d‰ö‚â‰ö’k‚ªA‚Ç‚ñ‚È‚É‹°‚ê‚ç‚ê‚Ä‚¢‚Ä‚àB@
+`@No matter how feared Youkai or ghost stories are.`@`
+;@–K‚ê‚éÒ‚ªâ‚¦‚ÄA’N‚àŒê‚èŒp‚ª‚È‚­‚È‚Á‚½‚çAÁ‚¦‹‚Á‚Ä‚µ‚Ü‚¤B@
+`@If those who call on them die down, and nobody passes them down, they will vanish.`@`
+;@‚¾‚©‚ç‚±‚»”Ş‚ç‚Í¶‚«‚é‚½‚ß‚ÉAcclŠÔ‚½‚¿‚É–Y‚ê‚ç‚ê‚½‚­‚È‚¢‚ÆŠè‚¤‚Ì‚¾B\
+`@That is precisely why they wish that humans do not forget about them...so they can live on.`\
+;@‚»‚ê‚ğv‚Á‚½Acc—d‰ö‚àlŠÔ‚Æ“¯‚¶‚ÅA@cc–{¿“I‚É‚Íâ‚µ‚ª‚è‰®‚È‚Ì‚©‚à‚µ‚ê‚È‚¢‚ÆAŸ{}‚Ív‚Á‚½B\
+`@When thinking that...humans and Youkai are alike,`@` ...Marie thought that maybe they all were essentially just lonely.`\
 
 bg black,22
 
-;ã€€æ ¡é•·å…ˆç”Ÿã«ã”æŒ¨æ‹¶ã‚’çµ‚ãˆã€æ¬¡ã«å‘ã‹ã†ã€‚@
-`ã€€She finished greeting the headmaster and went moved to the next one.`@`
+;@Z’·æ¶‚É‚²ˆ¥A‚ğI‚¦AŸ‚ÉŒü‚©‚¤B@
+`@She finished greeting the headmaster and went moved to the next one.`@`
 br
-;ã€€åºåˆ—ç¬¬ï¼‘ä½ã®æ¬¡ã¯ã€åºåˆ—ç¬¬ï¼’ä½ã€‚\
-`ã€€The next rank from the first was the second ranked.`\
+;@˜—ñ‘æ‚PˆÊ‚ÌŸ‚ÍA˜—ñ‘æ‚QˆÊB\
+`@The next rank from the first was the second ranked.`\
 bg okujou_02,0
 ld l,SIN_D1,22
 ld r,ma2_D4a,22
 
-;ã€Œãˆã£ã¨ã€ç´…èŒ¶ç´³å£«ã•ã‚“ã€ã§ã—ãŸã£ã‘ï¼Ÿã€@
+;u‚¦‚Á‚ÆAg’ƒam‚³‚ñA‚Å‚µ‚½‚Á‚¯Hv@
 `"Er, the Black Tea Gentleman, right?"`@`
 br
 
@@ -789,121 +789,121 @@ E_A
 se1 12
 quakey 1,100
 
-;ã€€ãã®æ™‚ã€ãƒ‰ãƒ³ãƒƒã¨ä¸€å‡ç“¶ãŒåºŠã‚’å©ãéŸ³ãŒã™ã‚‹ã€‚@
-`ã€€Suddenly, with a huge clatter, a bottle struck the floor.`@`
+;@‚»‚ÌAƒhƒ“ƒb‚Æˆê¡•r‚ª°‚ğ’@‚­‰¹‚ª‚·‚éB@
+`@Suddenly, with a huge clatter, a bottle struck the floor.`@`
 
 bgm1 1003
 
-;ã€€è¦‹ã‚‹ã¨ã€â€¦â€¦é»’ã„ãƒãƒ³ãƒˆã‚’ç¾½ç¹”ã‚Šã€ã‚ãã‚‰ã‚’ã‹ã„ã¦åº§ã‚‹å¤§æŸ„ã®ç”·ãŒæ¯¬æã‚’ç¨ã‚“ã§ã„ãŸã€‚\
-`ã€€When she looked, ...Marie saw a huge man wearing a black mantle sitting cross-legged and scowling at her.`\
+;@Œ©‚é‚ÆAcc•‚¢ƒ}ƒ“ƒg‚ğ‰HD‚èA‚ ‚®‚ç‚ğ‚©‚¢‚ÄÀ‚é‘å•¿‚Ì’j‚ªŸ{}‚ğáÉ‚ñ‚Å‚¢‚½B\
+`@When she looked, ...Marie saw a huge man wearing a black mantle sitting cross-legged and scowling at her.`\
 
 ;mov %IZA_isyou,2
 ld l,SIN_D4,80
 
-;ã€Œãã£ãã£ãã€‚@æ°—ã«ã—ãªã„ã“ã¨ã§ã™ã‚ˆã€ã‚¤ã‚¶ãƒŠãƒŸã•ã‚“ã€‚ã€\
+;u‚­‚Á‚­‚Á‚­B@‹C‚É‚µ‚È‚¢‚±‚Æ‚Å‚·‚æAƒCƒUƒiƒ~‚³‚ñBv\
 `"Kukuku.`@` It's nothing to worry so much about, Izanami-san."`\
-;ï¼œç´…èŒ¶
+;ƒg’ƒ
 
 ld r,IZA_D7,26
 ;ld r,IZA_D1,80
 
 quakey 2,200
 
-;ã€ŒãŠã„ãƒƒã€ã‚ãã‚ãã®æ¯¬æãƒƒï¼ï¼@ã€€ãƒ†ãƒ¡ã‚§ã€ã¡ã‚‡ã£ã¨ã“ã£ã¡æ¥ã„ï¼ï¼ã€\
+;u‚¨‚¢ƒbA‚ß‚»‚ß‚»‚ÌŸ{}ƒbII@@ƒeƒƒFA‚¿‚å‚Á‚Æ‚±‚Á‚¿—ˆ‚¢IIv\
 `"Hey, MesoMeso Marie!!`@` Get your ass over here!!"`\
 
-;ã€€å¤§æŸ„ã®ç”·ã¯éå¸¸ã«ä¸æ©Ÿå«Œãã†ã ã€‚@æ¯¬æã¯ã™ãã«å¤±è¨€ã‚’ç›´æ„Ÿã™ã‚‹ã€‚@
-`ã€€The huge man seemed excessively displeased.`@` Marie instantly realized her slip-up.`@`
+;@‘å•¿‚Ì’j‚Í”ñí‚É•s‹@Œ™‚»‚¤‚¾B@Ÿ{}‚Í‚·‚®‚É¸Œ¾‚ğ’¼Š´‚·‚éB@
+`@The huge man seemed excessively displeased.`@` Marie instantly realized her slip-up.`@`
 br
-;ã€€ãã†ã€ç´…èŒ¶ç´³å£«ã¯ã€å½±ã®åºåˆ—ç¬¬ï¼’ä½ã ã€‚@ãªã‚‰ã€æœ¬æ¥ã®ç¬¬ï¼’ä½ãŒå­˜åœ¨ã™ã‚‹ã¯ãšã€‚\
-`ã€€That's right, the Black Tea Gentleman was only the shadow of the Second Ranked.`@` Which meant that the real Second Ranked should exist too.`\
+;@‚»‚¤Ag’ƒam‚ÍA‰e‚Ì˜—ñ‘æ‚QˆÊ‚¾B@‚È‚çA–{—ˆ‚Ì‘æ‚QˆÊ‚ª‘¶İ‚·‚é‚Í‚¸B\
+`@That's right, the Black Tea Gentleman was only the shadow of the Second Ranked.`@` Which meant that the real Second Ranked should exist too.`\
 
 
 ;ld c,HIG_w3,22
 ld c,HIG_w4,22
 
-;ã€Œãã™ãã™ãã™ã€‚@ã§ã‚‚ã‚¤ã‚¶ãƒŠãƒŸã€ã‚ã‚“ãŸãŒæ‚ªã„ã®ã‚ˆã€‚ã€\
+;u‚­‚·‚­‚·‚­‚·B@‚Å‚àƒCƒUƒiƒ~A‚ ‚ñ‚½‚ªˆ«‚¢‚Ì‚æBv\
 `"Teeheehee.`@` But Izanami, it's your fault, you know."`\
-;ï¼œå½¼å²¸èŠ±
+;ƒ”ŞŠİ‰Ô
 
 ;cl c,22
 ld l,SIN_D3,80
 
-;ã€ŒåŒæ„Ÿã§ã™ã­ã‡ã€‚@é–“é•ãˆã‚‰ã‚ŒãŸããªã‘ã‚Œã°ã€ã•ã£ã•ã¨æ¯¬æã•ã‚“ã®å‰ã«å§¿ã‚’ç¾ã›ã°è‰¯ã‹ã£ãŸã®ã§ã™ã‹ã‚‰ã€‚@ãã£ãã£ãã€‚ã€\
+;u“¯Š´‚Å‚·‚Ë‚¥B@ŠÔˆá‚¦‚ç‚ê‚½‚­‚È‚¯‚ê‚ÎA‚³‚Á‚³‚ÆŸ{}‚³‚ñ‚Ì‘O‚Ép‚ğŒ»‚¹‚Î—Ç‚©‚Á‚½‚Ì‚Å‚·‚©‚çB@‚­‚Á‚­‚Á‚­Bv\
 `"I must agree.`@` If you did not want for her to be mistaken, you simply should have shown yourself to her before.`@` Kukuku."`\
-;ï¼œç´…èŒ¶ç´³å£«
+;ƒg’ƒam
 
 cl r,0
 ld c,IZA_D7,24
 se1v 12,30
 quakex 2,200
 
-;ã€Œã†ã‚‹ã›ã‡ãƒƒï¼@ã€€ä¿ºã‚¡ã€ç‹©ã‚Šã§å¿™ã—ã„ã‚“ã ã‚ˆãƒƒã€‚@ã©ã“ãã®ç³¸ç›®é‡éƒãŒã€ã™ãã«äººã®ç²ç‰©ã‚’æ¨ªå–ã‚Šã—ã¡ã¾ã†ã‹ã‚‰ãªãï¼Ÿã€@
+;u‚¤‚é‚¹‚¥ƒbI@@‰´ƒ@Aë‚è‚Å–Z‚µ‚¢‚ñ‚¾‚æƒbB@‚Ç‚±‚¼‚Ì…–Ú–ì˜Y‚ªA‚·‚®‚Él‚ÌŠl•¨‚ğ‰¡æ‚è‚µ‚¿‚Ü‚¤‚©‚ç‚È‚ŸHv@
 `"Shut your trap!`@` I've been busy huntin' and all.`@` I got that squinty-eyed son of a bitch stealing people's prey, you know?"`@` 
-;ï¼œã‚¤ã‚¶ãƒŠãƒŸ
+;ƒƒCƒUƒiƒ~
 
 ld l,SIN_D1,80
 
-;ã€Œæ¨ªå–ã‚Šã¨ã¯å¿ƒå¤–ã§ã™ã€‚@ç§ã¯ã€è¾›ã„ç¾å®Ÿã«æ‰“ã¡ã®ã‚ã•ã‚ŒãŸå°‘å¹´å°‘å¥³ãŸã¡ã«ã€ãŸã å¤¢ã‚’è¦‹ã›ã¦ã‚ã’ã¦ã„ã‚‹ã ã‘ã ã¨ã„ã†ã®ã«ã€‚ã€\
+;u‰¡æ‚è‚Æ‚ÍSŠO‚Å‚·B@„‚ÍAh‚¢Œ»À‚É‘Å‚¿‚Ì‚ß‚³‚ê‚½­”N­—‚½‚¿‚ÉA‚½‚¾–²‚ğŒ©‚¹‚Ä‚ ‚°‚Ä‚¢‚é‚¾‚¯‚¾‚Æ‚¢‚¤‚Ì‚ÉBv\
 `"Stealing is such an upsetting way to put it.`@` All that I do is simply show the boys and girls who have been battered and beaten down by their harsh realities a lovely dream."`\
 
 ld c,IZA_D6,80
 
-;ã€Œãƒãƒ¼ãƒ­ãƒ¼ï¼ï¼@ã€€ä½•ãŒå¤¢ã ãƒƒã€‚@å¤¢ã£ã¦ã®ã‚¡ãªï¼@/
+;uƒo[ƒ[II@@‰½‚ª–²‚¾ƒbB@–²‚Á‚Ä‚Ìƒ@‚ÈI@/
 `"You dumbass!!`@` The hell're you talkin' about, dreams n' all.`@` Dreams!`@`/
 quakex 2,200
-;ã€€è‡ªåˆ†ã®æ‰‹ã§ãƒƒã€ã“ã†ã‚¬ã‚·ãƒƒã¨ã€æ´ã‚€ã‚‚ã‚“ãªã‚“ã ã‚ˆï¼ã€@
-`ã€€They're the kinda shit you grab onto with your own damn hands, just like this!"`@`
+;@©•ª‚Ìè‚ÅƒbA‚±‚¤ƒKƒVƒb‚ÆA’Í‚Ş‚à‚ñ‚È‚ñ‚¾‚æIv@
+`@They're the kinda shit you grab onto with your own damn hands, just like this!"`@`
 ld l,SIN_D2,80
 
-;ã€Œãã‚ŒãŒå‡ºæ¥ã‚‹ã»ã©ãŸãã¾ã—ã„å­ãªã‚‰è‰¯ã„ã§ã™ãŒã€‚@ãã‚ŒãŒå‡ºæ¥ã¬ã€ã‹å¼±ãå­ãŸã¡ã«ã‚‚æ•‘ã„ãŒå¿…è¦ãªã®ã§ã¯ã‚ã‚Šã¾ã›ã‚“ã‹ï¼Ÿã€\
+;u‚»‚ê‚ªo—ˆ‚é‚Ù‚Ç‚½‚­‚Ü‚µ‚¢q‚È‚ç—Ç‚¢‚Å‚·‚ªB@‚»‚ê‚ªo—ˆ‚ÊA‚©ã‚«q‚½‚¿‚É‚à‹~‚¢‚ª•K—v‚È‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚©Hv\
 `"That is well and good for those strong-willed and resolute children.`@` But don't you think those frail children who cannot require salvation as well?"`\
 
 ld c,IZA_D5,80
 
-;ã€Œã‚±ãƒƒã€‚@ãªã‚¡ã«ç”˜ã£ã¡ã‚‡ã‚ã„ã“ã¨è¨€ã£ã¦ã‚„ãŒã‚“ã ã‹ã€‚@å­¦æ ¡ã¯ãªï¼@ã€€è’é‡ãªã‚“ã ã‚ˆã€ã‚¸ãƒ£ãƒ³ã‚°ãƒ«ãªã‚“ã ã‚ˆãƒƒã€‚@ã²ã¨ã‚Šã§æ­©ãã“ã¨ã‚‚å‡ºæ¥ã­ã‡ã€è²§å¼±ãªã‚¯ã‚½ã‚¬ã‚­ãŒã®ã†ã®ã†ã¨ç”Ÿãæ®‹ã‚Œã‚‹ã¨ã“ã‚ã˜ã‚ƒã­ã‡ã‚“ã ï¼@ã€€ä¿ºã‚¡ã€ãã‚Œã‚’æ•™ãˆã¦ã‚„ã£ã¦ã‚‹ã ã‘ã‚ˆã€‚@ãƒ†ãƒ¡ã‚§ãªã‚“ã–ã€ååãŒå‡ºã‚‹ã€‚@/
+;uƒPƒbB@‚Èƒ@‚ÉŠÃ‚Á‚¿‚å‚ë‚¢‚±‚ÆŒ¾‚Á‚Ä‚â‚ª‚ñ‚¾‚©B@ŠwZ‚Í‚ÈI@@r–ì‚È‚ñ‚¾‚æAƒWƒƒƒ“ƒOƒ‹‚È‚ñ‚¾‚æƒbB@‚Ğ‚Æ‚è‚Å•à‚­‚±‚Æ‚ào—ˆ‚Ë‚¥A•nã‚ÈƒNƒ\ƒKƒL‚ª‚Ì‚¤‚Ì‚¤‚Æ¶‚«c‚ê‚é‚Æ‚±‚ë‚¶‚á‚Ë‚¥‚ñ‚¾I@@‰´ƒ@A‚»‚ê‚ğ‹³‚¦‚Ä‚â‚Á‚Ä‚é‚¾‚¯‚æB@ƒeƒƒF‚È‚ñ‚´A”½“f‚ªo‚éB@/
 `"Tch.`@` The hell're talkin' all high 'n mighty for.`@` School!`@` It's a wasteland, a goddamn JUNGLE.`@` It ain't no place where any sad, sorry, piece of shit who can't even walk on their own can just wander on through!`@` What I'm doin' is teaching the little bastards.`@` You're just spewing horseshit.`@`/
 
 se1v 12,30
 quakey 2,200
 
-;ã‚¬ã‚­ã®åˆ†éš›ã§å¤¢ã ã‚¡ï¼Ÿ@ã€€ç™¾å¹´æ—©ã‡ã£ã¦ã‚“ã ãƒƒã€‚ã€\
+;ƒKƒL‚Ì•ªÛ‚Å–²‚¾ƒ@H@@•S”N‘‚¥‚Á‚Ä‚ñ‚¾ƒbBv\
 `You think those little punks have a place in dreams?`@` They've got a long-ass way to go."`\
 bg black,24
 bg okujou_01y,24
 ld r,SIN_D1,22
 ld r,SIN_D2,80
 
-;ã€Œãã£ãã£ãã£ãï¼@ã€€ç›¸å¤‰ã‚ã‚‰ãšãªäººã§ã™ã€‚@â€¦â€¦ã”ç„¡æ²™æ±°ã—ã¦ã„ã¾ã™ã­ã€æ¯¬æã•ã‚“ã€‚ã€@
+;u‚­‚Á‚­‚Á‚­‚Á‚­I@@‘Š•Ï‚í‚ç‚¸‚Èl‚Å‚·B@cc‚²–³¹‘¿‚µ‚Ä‚¢‚Ü‚·‚ËAŸ{}‚³‚ñBv@
 `"Kukuku!`@` You're the same as always.`@` ...It has been a while, Marie-san."`@`
-;ï¼œç´…èŒ¶
+;ƒg’ƒ
 
 ld l,ma2_D4a,23
 ;ld l,ma2_D1,80
 
-;ã€Œã©ã€ã©ã†ã‚‚ã”ç„¡æ²™æ±°ã—ã¦ãŠã‚Šã¾ã™ã€ç´…èŒ¶ç´³å£«ã•ã‚“ã€‚ã€\
+;u‚ÇA‚Ç‚¤‚à‚²–³¹‘¿‚µ‚Ä‚¨‚è‚Ü‚·Ag’ƒam‚³‚ñBv\
 `"Y-yes, it certainly has, Black Tea Gentleman."`\
-;ï¼œæ¯¬æ
+;ƒŸ{}
 
 
 ld r,SIN_D3,80
 
-;ã€Œäººã¯ç”Ÿãã‚‹ãŸã‚ã«ã€æ™‚ã«ã¯å¤¢ã‚’è¦‹ã‚‹ã“ã¨ã‚‚å¤§åˆ‡ã¨ã¯æ€ã„ã¾ã›ã‚“ã‹ï¼Ÿ@ã€€â€¦â€¦å¤¢ã•ãˆè¦‹ãªããªã£ãŸã‚‰ã€äººã«ç”Ÿãã‚‹æ„å‘³ãªã©ã‚ã‚‹ã®ã§ã™ã‹ï¼Ÿã€@
+;ul‚Í¶‚«‚é‚½‚ß‚ÉA‚É‚Í–²‚ğŒ©‚é‚±‚Æ‚à‘åØ‚Æ‚Ív‚¢‚Ü‚¹‚ñ‚©H@@cc–²‚³‚¦Œ©‚È‚­‚È‚Á‚½‚çAl‚É¶‚«‚éˆÓ–¡‚È‚Ç‚ ‚é‚Ì‚Å‚·‚©Hv@
 `"In order to live, don't you think it is important to dream occasionally?`@` ...If a person could not even dream, is there any reason to their life?"`@`
-;ï¼œç´…èŒ¶
+;ƒg’ƒ
 
 ;ld c,HIG_D5,23
 ld c,HIG_w4,22
 
-;ã€Œâ€¦â€¦ã¨ã„ã†ç”˜è¨€ã§ã€ç²ç‰©ãŸã¡ã‚’ã©ã‚Œã ã‘ã—ã‚ƒã¶ã‚Šå°½ãã—ã¦ããŸã‚„ã‚‰ã€‚@ãã™ãã™ãã™ã€‚ã€\
+;ucc‚Æ‚¢‚¤ŠÃŒ¾‚ÅAŠl•¨‚½‚¿‚ğ‚Ç‚ê‚¾‚¯‚µ‚á‚Ô‚ès‚­‚µ‚Ä‚«‚½‚â‚çB@‚­‚·‚­‚·‚­‚·Bv\
 `"...
-;ï¼œå½¼å²¸èŠ±
+;ƒ”ŞŠİ‰Ô
 
 ld l,ma2_D3a,80
 
-;ã€Œå¤¢ã‚‚å¤§äº‹ã§ã™ãŒã€‚@â€¦â€¦ã§ã‚‚ã€å¤¢ã¯å¤¢ã®ä¸­ã§è¦‹ã‚‹ã¹ãã§ã€â€¦â€¦å¤¢ã®ä¸­ã«ç”Ÿãã‚‹ã¹ãã§ã¯ãªã„ã¨æ€ã„ã¾ã™ã€‚ã€\
+;u–²‚à‘å–‚Å‚·‚ªB@cc‚Å‚àA–²‚Í–²‚Ì’†‚ÅŒ©‚é‚×‚«‚ÅAcc–²‚Ì’†‚É¶‚«‚é‚×‚«‚Å‚Í‚È‚¢‚Æv‚¢‚Ü‚·Bv\
 `"Dreams are important too `@`...but I think that dreams should only be seen as dreams, ...one shouldn't live in their dreams."`\
-;ï¼œæ¯¬æ
+;ƒŸ{}
 
 ;bg white,25
 ;se1 12
@@ -921,7 +921,7 @@ quakex 2,200
 
 ld r,IZA_D6,80
 
-ã€Œã‚ˆãè¨€ã£ãŸãƒƒã€‚@ãŠã„ã€ç´…èŒ¶é‡éƒãƒƒã€æ¯¬æã®è¨€ã†ã“ã¨ã€ã‚ˆã‚©ãè€³ã‚’ã‹ã£ã½ã˜ã£ã¦èã„ã¨ã‘ã‚ˆï¼@ã€€â€¦â€¦æ¯¬æã€â€¦â€¦ãŠå‰ã‚§ã€æ­»ã‚“ã§ã‹ã‚‰ã ã„ã¶å¤‰ã‚ã£ãŸãªã‚¡ï¼Ÿ@ã€€æ ¹æ€§å‡ºã¦ããŸãã€æ°—ã«å…¥ã£ãŸã€‚@â€¦â€¦ä¿ºã‚¡ã€ã‚¤ã‚¶ãƒŠãƒŸã€‚@å­¦æ ¡å¦–æ€ªåºåˆ—ç¬¬ï¼’ä½ã€ï¼‘ï¼“éšæ®µã®æ­»ç¥ãŸã‚¡ã€ä¿ºã®ã“ã¨ã‚ˆã€‚ã€\
+u‚æ‚­Œ¾‚Á‚½ƒbB@‚¨‚¢Ag’ƒ–ì˜YƒbAŸ{}‚ÌŒ¾‚¤‚±‚ÆA‚æƒH‚­¨‚ğ‚©‚Á‚Û‚¶‚Á‚Ä•·‚¢‚Æ‚¯‚æI@@ccŸ{}Acc‚¨‘OƒFA€‚ñ‚Å‚©‚ç‚¾‚¢‚Ô•Ï‚í‚Á‚½‚Èƒ@H@@ª«o‚Ä‚«‚½‚¼A‹C‚É“ü‚Á‚½B@cc‰´ƒ@AƒCƒUƒiƒ~B@ŠwZ—d‰ö˜—ñ‘æ‚QˆÊA‚P‚RŠK’i‚Ì€_‚½ƒ@A‰´‚Ì‚±‚Æ‚æBv\
 
 bg black,22
 
@@ -929,7 +929,7 @@ me1v 16,50
 
 bg kaidan_01,22
 
-ã€€ï¼‘ï¼“éšæ®µã®æ€ªè«‡ã¯ã€ã©ã“ã®å­¦æ ¡ã§ã‚‚å®šç•ªä¸­ã®å®šç•ªã ã€‚@ã‚¤ã‚¶ãƒŠãƒŸã¯ãã‚Œã‚’å¸ã‚‹ã€‚\
+@‚P‚RŠK’i‚Ì‰ö’k‚ÍA‚Ç‚±‚ÌŠwZ‚Å‚à’è”Ô’†‚Ì’è”Ô‚¾B@ƒCƒUƒiƒ~‚Í‚»‚ê‚ği‚éB\
 
 bg black,22
 
@@ -940,40 +940,40 @@ bg okujou_01y,22
 ld r,HIG_D3,22
 ;ld r,HIG_D1,80
 
-ã€Œã‚¤ã‚¶ãƒŠãƒŸã¯æã‚ã—ã„å¦–æ€ªã‚ˆï¼Ÿ@ã€€ï¼‘ï¼“éšæ®µã‚’è¸ã¾ã›ãŸå“€ã‚Œãªç²ç‰©ã‚’ã€ã©ã“ã¾ã§ã‚‚è¿½ã„è©°ã‚ã¦ã€æã‚ã—ã„åœ°ç„ã¸çªãè½ã¨ã™ã®ã€‚ã€@
-;ï¼œå½¼å²¸èŠ±
+uƒCƒUƒiƒ~‚Í‹°‚ë‚µ‚¢—d‰ö‚æH@@‚P‚RŠK’i‚ğ“¥‚Ü‚¹‚½ˆ£‚ê‚ÈŠl•¨‚ğA‚Ç‚±‚Ü‚Å‚à’Ç‚¢‹l‚ß‚ÄA‹°‚ë‚µ‚¢’n–‚Ö“Ë‚«—‚Æ‚·‚ÌBv@
+;ƒ”ŞŠİ‰Ô
 
 ld l,IZA_D4,22
 ld l,IZA_D5,80
 
-;ã€Œã¯ãƒƒã€ãŠå‰ã‚§ã®ç‹©ã‚Šã‚‚å¤§æ¦‚ã ã‚ãƒ¼ãŒï¼ã€\
+;u‚ÍƒbA‚¨‘OƒF‚Ìë‚è‚à‘åŠT‚¾‚ë[‚ªIv\
 `"Ah, it's probably becuase of your hunting!"`\
 cl r,0
 cl l,0
 ld c,IZA_D1,23
 
-;ã€€æ¡æ‰‹ã‚’æ±‚ã‚ã‚‰ã‚Œã€æ‰‹ã‚’å·®ã—å‡ºã™ã¨ã€@â€¦â€¦åˆ†åšã„ã€ãŒã£ã—ã‚Šã—ãŸæ‰‹ã«ã€ç—›ã„ãã‚‰ã„åŠ›å¼·ãæ¡ã‚‰ã‚ŒãŸã€‚\
+;@ˆ¬è‚ğ‹‚ß‚ç‚êAè‚ğ·‚µo‚·‚ÆA@cc•ªŒú‚¢A‚ª‚Á‚µ‚è‚µ‚½è‚ÉA’É‚¢‚­‚ç‚¢—Í‹­‚­ˆ¬‚ç‚ê‚½B\
 ` She was prompted to shake hands, and on holding hers out, `@`was grasped by a beefy hand with such force it was painful.`\
 ld r,ma2_D3a,24
 ld r,ma2_D4a,80
 
-;ã€Œã©ã€ã©ã†ã‚‚â€¦â€¦ã€‚@ã‚ãã‚ãã®æ¯¬æã§ã™ã€‚@ã‚ˆã‚ã—ããŠé¡˜ã„ã—ã¾ã™ã€‚ã€@
+;u‚ÇA‚Ç‚¤‚àccB@‚ß‚»‚ß‚»‚ÌŸ{}‚Å‚·B@‚æ‚ë‚µ‚­‚¨Šè‚¢‚µ‚Ü‚·Bv@
 `"H-Hi...`@`I'm MesoMeso Marie.`@`Pleased to meet you."`@`
 ld c,IZA_D2,80
 
-;ã€ŒãŠã†ã€‚@ãŠäº’ã„ã€ãƒã‚±ãƒ¢ãƒ³ã ã€‚@ã›ã„ãœã„ã‚¯ã‚½ã‚¬ã‚­ã©ã‚‚ã‚’ã€ã‚¬ãƒ³ã‚¬ãƒ³åœ°ç„ã«çªãè½ã¨ã—ã¦ã‚„ã‚ã†ãœãƒƒã€‚ã€\
+;u‚¨‚¤B@‚¨Œİ‚¢AƒoƒPƒ‚ƒ“‚¾B@‚¹‚¢‚º‚¢ƒNƒ\ƒKƒL‚Ç‚à‚ğAƒKƒ“ƒKƒ“’n–‚É“Ë‚«—‚Æ‚µ‚Ä‚â‚ë‚¤‚ºƒbBv\
 `"Oh.`@`Like the rest, I'm a monster.`@`I guess I can push you down to the depths of hell, you little brat."`\
 
 ld r,ma2_d2a,80
 
-;ã€€ã¾ããã®ã€ãŒã‚“ã°ã‚Šã¾ã™â€¦â€¦ã¨æ›–æ˜§ã«ç¬‘ã†æ¯¬æã§ã‚ã£ãŸã€‚\
+;@‚Ü‚Ÿ‚»‚ÌA‚ª‚ñ‚Î‚è‚Ü‚·cc‚ÆB–†‚ÉÎ‚¤Ÿ{}‚Å‚ ‚Á‚½B\
 `Marie laughed vaguely as if to say "I'll do my best".`\
 bg black,2
 wait 1000
 
 bg okujou_02,22
 
-;ã€€åºåˆ—ç¬¬ï¼’ä½ã®æ¬¡ã¯ç¬¬ï¼“ä½ã€‚@ãã‚Œã¯å½¼å²¸èŠ±ã®ã“ã¨ã ã€‚@
+;@˜—ñ‘æ‚QˆÊ‚ÌŸ‚Í‘æ‚RˆÊB@‚»‚ê‚Í”ŞŠİ‰Ô‚Ì‚±‚Æ‚¾B@
 ` Next to the second-ranked was the third-ranked.`@`That was Higanbana.`@`
 br
 
@@ -983,51 +983,51 @@ wait 300
 ld l,HIG_D1,22
 ld l,HIG_w3,80
 
-;ã€€ã‚ˆã‚ã—ããŠé¡˜ã„ã—ã¾ã™ã€ã“ã¡ã‚‰ã“ãã€ã¨ç™½ã€…ã—ãäºŒäººã§æŒ¨æ‹¶ã™ã‚‹ã€‚\
+;@‚æ‚ë‚µ‚­‚¨Šè‚¢‚µ‚Ü‚·A‚±‚¿‚ç‚±‚»A‚Æ”’X‚µ‚­“ñl‚Åˆ¥A‚·‚éB\
 ` "Pleased to meet you!" "Likewise, pleased to meet you too". The two greeted one another with feigned ignoracne.`\
 bg black,2
 bg okujou_01y,22
 
-;ã€€æ¬¡ã¯ã€åºåˆ—ç¬¬ï¼”ä½ã€‚@â€¦â€¦ã“ã‚Œã‚‚ä¼šã£ãŸã“ã¨ã¯ãªã„ã€‚@åˆå¯¾é¢ã ã€‚@
+;@Ÿ‚ÍA˜—ñ‘æ‚SˆÊB@cc‚±‚ê‚à‰ï‚Á‚½‚±‚Æ‚Í‚È‚¢B@‰‘Î–Ê‚¾B@
 `Next was the fourth in rank.`@`...This one she hadn't met before.`@`It was her first time meeting this one.`@`
 br
-;ã€€æ¡ˆå†…ã•ã‚Œã‚‹å…ˆã«ã¯ã€ç€ç‰©å§¿ã®ã‚¹ãƒŸãƒ¬ã¨ä¸¦ã‚“ã§é…’ã‚’é…Œã¿äº¤ã‚ã™ã€åŒã˜ãç€ç‰©å§¿ã®å¥³æ€§ã®å§¿ãŒã‚ã£ãŸã€‚\
+;@ˆÄ“à‚³‚ê‚éæ‚É‚ÍA’…•¨p‚ÌƒXƒ~ƒŒ‚Æ•À‚ñ‚Åğ‚ğŞ‚İŒğ‚í‚·A“¯‚¶‚­’…•¨p‚Ì—«‚Ìp‚ª‚ ‚Á‚½B\
 ` The guide from earlier, Violet was standing, drinking rice wine with the others in the same, kimono-clad appearance.`\
 ld l,SMI_w1,23
 ld l,SMI_w3,80
 se1 47
 quakey 1,100
 
-;ã€ŒãŠã‰ã€æ¯¬æãªã®ã˜ã‚ƒï¼@ã€€çå¦™ãªæœã‚’ç€ã¦ãŠã‚‹ã‚ï¼@ã€€ã¾ã‚‹ã£ãã‚Šä¼¼åˆã‚ãªã„ã®ã˜ã‚ƒï¼ã€@
+;u‚¨‚§AŸ{}‚È‚Ì‚¶‚áI@@’¿–­‚È•‚ğ’…‚Ä‚¨‚é‚íI@@‚Ü‚é‚Á‚«‚è—‡‚í‚È‚¢‚Ì‚¶‚áIv@
 `"Ah, if it isn't Marie!`@`Oh, you're still wearing those queer clothes!`@`They really don't suit you at all!"`@`
-;ï¼œã‚¹ãƒŸãƒ¬
+;ƒƒXƒ~ƒŒ
 
 ld c,AZA_D4,22
 ld c,AZA_D2,80
 
-;ã€Œãã‚“ãªã“ã¨ã¯ã‚ã‚Šã¾ã›ã‚“ã‚ˆã€‚@ã¨ã¦ã‚‚è‰¯ãä¼¼åˆã£ã¦ã„ã¾ã™â€¦â€¦ã€‚@ã©ã†ãã€ã“ã¡ã‚‰ã¸ã€‚@æ¯¬æã•ã‚“ã€‚ã€\
+;u‚»‚ñ‚È‚±‚Æ‚Í‚ ‚è‚Ü‚¹‚ñ‚æB@‚Æ‚Ä‚à—Ç‚­—‡‚Á‚Ä‚¢‚Ü‚·ccB@‚Ç‚¤‚¼A‚±‚¿‚ç‚ÖB@Ÿ{}‚³‚ñBv\
 `"No, that's not the case at all.`@`They suit you really well...`@`Please, this way,`@`Marie-san."`\
-;ï¼œã‚¢ã‚¶ãƒŸ
+;ƒƒAƒUƒ~
 
 ld r,HIG_D4,24
 ;ld r,HIG_D1,80
 
-;ã€Œç´¹ä»‹ã™ã‚‹ã‚ã€‚@å­¦æ ¡å¦–æ€ªåºåˆ—ç¬¬ï¼”ä½ã®ã‚¢ã‚¶ãƒŸã‚ˆã€‚ã€\
+;uĞ‰î‚·‚é‚íB@ŠwZ—d‰ö˜—ñ‘æ‚SˆÊ‚ÌƒAƒUƒ~‚æBv\
 `"I'll do the introductions.`@`This is Azami, Fourth-ranked in the School Monster Society."`\
-;ï¼œå½¼å²¸èŠ±
+;ƒ”ŞŠİ‰Ô
 
 cl c,0
 mld c,AZA_D1,80
 
-;ã€Œã‚¢ã‚¶ãƒŸã¨ç”³ã—ã¾ã™ã€‚@ã©ã†ããŠè¦‹çŸ¥ã‚ŠãŠãã‚’â€¦â€¦ã€‚ã€@
+;uƒAƒUƒ~‚Æ\‚µ‚Ü‚·B@‚Ç‚¤‚¼‚¨Œ©’m‚è‚¨‚«‚ğccBv@
 `"I'm Azami.`@` Pleased to make your accquaintance..."`@`
-;ï¼œã‚¢ã‚¶ãƒŸ
+;ƒƒAƒUƒ~
 
 ld l,SMI_w4,80
 
-;ã€Œç§ã®å§‰è€…ãªã®ã˜ã‚ƒï¼ï¼@ã€€å§‰è€…ã¯å¼·ãã¦è³¢ãã¦ã€éº—ã—ãã¦ã¨ã¦ã‚‚æ®‹å¿ãªå¤§å¦–æ€ªãªã®ã˜ã‚ƒï¼ã€\
+;u„‚ÌoÒ‚È‚Ì‚¶‚áII@@oÒ‚Í‹­‚­‚ÄŒ«‚­‚ÄA—í‚µ‚­‚Ä‚Æ‚Ä‚àc”E‚È‘å—d‰ö‚È‚Ì‚¶‚áIv\
 `"That's like my sister!`@` Like my strong, smart and heartwarmingly brutal monster of a sister!"`\
-;ï¼œã‚¹ãƒŸãƒ¬
+;ƒƒXƒ~ƒŒ
 
 mcl c,0
 cl a,0
@@ -1037,39 +1037,39 @@ mcbg 22
 ld r,ma2_D4a,22
 ;ld r,ma2_D1,80
 
-;ã€Œå¦–æ€ªã«ã‚‚ã€å§‰å¦¹ãŒã„ã‚‹ã‚“ã§ã™ã­ã€‚ã€@
+;u—d‰ö‚É‚àAo–…‚ª‚¢‚é‚ñ‚Å‚·‚ËBv@
 `"Even monsters have sisters don't they?"`@`
-;ï¼œæ¯¬æ
+;ƒŸ{}
 br
-;ã€€åºåˆ—ç¬¬ï¼”ä½ã®ã‚¢ã‚¶ãƒŸã¨ã€åºåˆ—ç¬¬ï¼—ä½ã®ã‚¹ãƒŸãƒ¬ã®å§‰å¦¹ã€‚@
+;@˜—ñ‘æ‚SˆÊ‚ÌƒAƒUƒ~‚ÆA˜—ñ‘æ‚VˆÊ‚ÌƒXƒ~ƒŒ‚Ìo–…B@
 ` Azami, the fourth-ranked had Violet, the seventh-ranked as a sister.`@`
-;ã€€å­¦æ ¡å¦–æ€ªã®ä¸­ã§ã€å”¯ä¸€ã®å§‰å¦¹ã ã£ãŸã€‚\
+;@ŠwZ—d‰ö‚Ì’†‚ÅA—Bˆê‚Ìo–…‚¾‚Á‚½B\
 ` In all the School Monsters, she was the only sister.`\
 ld l,HIG_w3,23
 ;ld l,HIG_D3,80
 
-ã€ŒãŸã¾ã«ã­ã€‚@â€¦â€¦ã¾ãã€å…ƒã€…ç§ãŸã¡ã¯ã€èª°ã‹ã‚’è¦ªã«ç”Ÿã‚“ã§ã‚‚ã‚‰ã£ãŸå­˜åœ¨ã§ã¯ãªã„ã€‚@å®¶æ—é–¢ä¿‚ãªã©ã€ã‚ã£ã¦ã‚‚ãªãã¦ã‚‚åŒã˜ã‚ˆã†ãªã‚‚ã®ã ã‘ã‚Œã©ã€‚ã€\
-;ï¼œå½¼å²¸èŠ±
+u‚½‚Ü‚É‚ËB@cc‚Ü‚ŸAŒ³X„‚½‚¿‚ÍA’N‚©‚ğe‚É¶‚ñ‚Å‚à‚ç‚Á‚½‘¶İ‚Å‚Í‚È‚¢B@‰Æ‘°ŠÖŒW‚È‚ÇA‚ ‚Á‚Ä‚à‚È‚­‚Ä‚à“¯‚¶‚æ‚¤‚È‚à‚Ì‚¾‚¯‚ê‚ÇBv\
+;ƒ”ŞŠİ‰Ô
 bg black,24
 bg okujou_02,0
 ld r,SMI_w4,24
 ld r,SMI_w3,80
 
-;ã€ŒãŠå‰ã®ã‚ˆã†ãªã€å«Œã‚ã‚Œè€…ã®ã²ã¨ã‚Šã¼ã£ã¡ã¨ã¯é•ã†ã®ã˜ã‚ƒï¼@ã€€ç§ã¨å§‰è€…ã¯å¤§ã®ä»²è‰¯ã—ãªã®ã˜ã‚ƒãƒ¼ï¼ã€@
+;u‚¨‘O‚Ì‚æ‚¤‚ÈAŒ™‚í‚êÒ‚Ì‚Ğ‚Æ‚è‚Ú‚Á‚¿‚Æ‚Íˆá‚¤‚Ì‚¶‚áI@@„‚ÆoÒ‚Í‘å‚Ì’‡—Ç‚µ‚È‚Ì‚¶‚á[Iv@
 `"I'm different from you who loathes from loneliness!`@` I'm great friends with my sister!"`@`
-;ï¼œã‚¹ãƒŸãƒ¬
+;ƒƒXƒ~ƒŒ
 
 ld l,AZA_D4,23
 ld l,AZA_D3,80
 
-;ã€Œã†ãµãµãµãµã€‚@ã“ã®å­ã£ãŸã‚‰ã€ã™ã£ã‹ã‚Šé…”ã„ãŒå›ã£ã¦ã—ã¾ã£ãŸã‚ˆã†ã§â€¦â€¦ã€‚ã€\
+;u‚¤‚Ó‚Ó‚Ó‚ÓB@‚±‚Ìq‚Á‚½‚çA‚·‚Á‚©‚èŒ‚¢‚ª‰ñ‚Á‚Ä‚µ‚Ü‚Á‚½‚æ‚¤‚ÅccBv\
 `"Ahahaha.`@`This child seems to have turned completely drunk..."`\
-;ï¼œã‚¢ã‚¶ãƒŸ
+;ƒƒAƒUƒ~
 
-;ã€€å¦–æ€ªã®ä¸–ç•Œã«ã€ä»®ã«å®¶æ—é–¢ä¿‚ãŒã‚ã‚ã†ã¨ãªã‹ã‚ã†ã¨ã€‚@äºŒäººã®é–¢ä¿‚ã¯ã¡ã‚‡ã£ã¨å¾®ç¬‘ã¾ã—ã„ã‚‚ã®ã«æ€ãˆãŸã€‚@
+;@—d‰ö‚Ì¢ŠE‚ÉA‰¼‚É‰Æ‘°ŠÖŒW‚ª‚ ‚ë‚¤‚Æ‚È‚©‚ë‚¤‚ÆB@“ñl‚ÌŠÖŒW‚Í‚¿‚å‚Á‚Æ”÷Î‚Ü‚µ‚¢‚à‚Ì‚Év‚¦‚½B@
 ` In the world of monsters, family relationships probabably don't exist temporarily.`@`The relationship between these two was quite heartwarming.`@`
 br
-;ã€€ãã®æ§˜å­ã‚’è¦‹ã¦ã„ã‚‹å½¼å²¸èŠ±ãŒã€ã‚ãšã‹ã«å¯‚ã—ãã†ã«å£ã‚’å°–ã‚‰ã›ã¦ã„ã‚‹ã®ã‚’ã€æ¯¬æã¯è¦‹é€ƒã•ãªã„ã€‚\
+;@‚»‚Ì—lq‚ğŒ©‚Ä‚¢‚é”ŞŠİ‰Ô‚ªA‚í‚¸‚©‚Éâ‚µ‚»‚¤‚ÉŒû‚ğë‚ç‚¹‚Ä‚¢‚é‚Ì‚ğAŸ{}‚ÍŒ©“¦‚³‚È‚¢B\
 ` Marie didn't see Higanbana, who was watching at the situation looked displeased with a sad-looking mouth.`\
 bg black,22
 bg okujou_01y,0
@@ -1079,60 +1079,60 @@ mld c,HIG_D8,22
 ld r,ma2_w1,22
 ld r,ma2_w2,80
 
-;ã€Œâ€¦â€¦å¦–æ€ªã¯ã€ã²ã¨ã‚Šã¼ã£ã¡ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“ã€‚ã€@
+;ucc—d‰ö‚ÍA‚Ğ‚Æ‚è‚Ú‚Á‚¿‚©‚à‚µ‚ê‚Ü‚¹‚ñBv@
 `"...The monsters, they might be lonely."`@`
 mld c,HIG_w3,80
 
-;ã€Œä½•ã‚ˆã€‚ã€@
+;u‰½‚æBv@
 `"So what?"`@`
 ld r,ma2_w1,80
 
-;ã€Œã ã‹ã‚‰å®¶æ—ã¯ã„ãªã„ã‘ã‚Œã©ã€‚@â€¦â€¦ã§ã‚‚ã€å‹é”ã¯ä½œã‚Œã‚‹ã¨æ€ã„ã¾ã™ã€‚ã€\
+;u‚¾‚©‚ç‰Æ‘°‚Í‚¢‚È‚¢‚¯‚ê‚ÇB@cc‚Å‚àA—F’B‚Íì‚ê‚é‚Æv‚¢‚Ü‚·Bv\
 `"Therefore, even though I might not have family`@`...I still think I can make friends."`\
 mld c,HIG_d2,80
 
-;ã€Œã‚ãã€ãã†ã ã£ãŸã‚ã­ã€‚@ã‚ã‚“ãŸã¯ã€ç§ã®ãŠå‹é”ã ã£ãŸã‚ã­ã€‚ã€@
+;u‚ ‚ŸA‚»‚¤‚¾‚Á‚½‚í‚ËB@‚ ‚ñ‚½‚ÍA„‚Ì‚¨—F’B‚¾‚Á‚½‚í‚ËBv@
 `"Oh, is that so?`@`Well, you're my friend aren't you?"`@`
 ld r,ma2_w2,80
 
-;ã€Œã ã‹ã‚‰ã€å½¼å²¸èŠ±ã•ã‚“ãŒã€ã²ã¨ã‚Šã¼ã£ã¡ã ãªã‚“ã¦æ€ã†å¿…è¦ã¯ã€ã¾ã£ãŸããªã„ã¨æ€ã„ã¾ã™ã€‚ã€\
+;u‚¾‚©‚çA”ŞŠİ‰Ô‚³‚ñ‚ªA‚Ğ‚Æ‚è‚Ú‚Á‚¿‚¾‚È‚ñ‚Äv‚¤•K—v‚ÍA‚Ü‚Á‚½‚­‚È‚¢‚Æv‚¢‚Ü‚·Bv\
 `"That's why I really don't think that Higanbana has to be alone."`\
 mcl c,0
 ld l,HIG_d5,24
 
-;ã€Œã‚„ã‚ã¦ã‚ˆã€ç§ã®å¿ƒã‚’èª­ã¾ãªã„ã§ã€‚ã€@
+;u‚â‚ß‚Ä‚æA„‚ÌS‚ğ“Ç‚Ü‚È‚¢‚ÅBv@
 `"Stop, please, just stop reading my mind."`@`
 br
-;ã€€å¦–åŠ›ã‚’è“„ãˆãŸå¦–æ€ªãŸã¡ã¯ã€ç›¸æ‰‹ã®å¿ƒã‚’èª­ã¿å–ã‚‹åŠ›ã‚’æŒã¤ã€‚@ã—ã‹ã—ã€æ¯¬æã«ã¯ãã®åŠ›ã¯ãªã„ã€‚\
+;@—d—Í‚ğ’~‚¦‚½—d‰ö‚½‚¿‚ÍA‘Šè‚ÌS‚ğ“Ç‚İæ‚é—Í‚ğ‚ÂB@‚µ‚©‚µAŸ{}‚É‚Í‚»‚Ì—Í‚Í‚È‚¢B\
 ` The monsters, rich in magic power had the ability to read others' minds.`@`However, that power didn't exist with regard to Marie.`\
 ld r,ma2_w1,80
 wait 500
 ld l,HIG_w1,80
 cl l,22
 
-;ã€€ã§ã‚‚ã€ã‚ã‹ã‚‹ã®ã ã€‚@å‹äººã ã‹ã‚‰ã“ãã€‚@
+;@‚Å‚àA‚í‚©‚é‚Ì‚¾B@—Fl‚¾‚©‚ç‚±‚»B@
 ` But she understood`@`only because she was a friend.`@`
 br
-;ã€€å½¼å²¸èŠ±ã¯ã€ã·ã„ã£ã¨ãã£ã½ã‚’å‘ã„ã¦ã‚€ãã‚ŒãŸãµã‚Šã‚’ã™ã‚‹ã€‚\
+;@”ŞŠİ‰Ô‚ÍA‚Õ‚¢‚Á‚Æ‚»‚Á‚Û‚ğŒü‚¢‚Ä‚Ş‚­‚ê‚½‚Ó‚è‚ğ‚·‚éB\
 ` Higanbana pretends to look the other way.`\
 bg black,24
 bg okujou_02,24
 ld r,AZA_D4,22
 ;ld r,AZA_D1,80
 
-;ã€Œã†ãµãµãµãµãµãµã€‚@ã‚ã®å½¼å²¸èŠ±ã«å‹é”ãŒå‡ºæ¥ã‚‹ãªã‚“ã¦ã€‚@ã¤ãã¥ãã€ä¸–ã®ä¸­ã¯ã‚ã‹ã‚‰ãªã„ã‚‚ã®ã§ã™ã€‚@ã©ã†ã‹ã€ã“ã‚Œã‹ã‚‰ã‚‚ä»²è‰¯ãã—ã¦ã‚ã’ã¦ä¸‹ã•ã„ã­ã€‚ã€\
+;u‚¤‚Ó‚Ó‚Ó‚Ó‚Ó‚ÓB@‚ ‚Ì”ŞŠİ‰Ô‚É—F’B‚ªo—ˆ‚é‚È‚ñ‚ÄB@‚Â‚­‚Ã‚­A¢‚Ì’†‚Í‚í‚©‚ç‚È‚¢‚à‚Ì‚Å‚·B@‚Ç‚¤‚©A‚±‚ê‚©‚ç‚à’‡—Ç‚­‚µ‚Ä‚ ‚°‚Ä‰º‚³‚¢‚ËBv\
 `"Ufufufufufufu.`@`Becoming friends with Higanbana?`@`There are some things in the world I don't understand.`@`Somehow or the other, please try and be a close friend of hers in the future."`\
-;ï¼œã‚¢ã‚¶ãƒŸ
+;ƒƒAƒUƒ~
 
-;ã€€ã“ã®ã‚¢ã‚¶ãƒŸã¨ã„ã†äººã¯ã€ä½•ã ã‹ã„ã„äººã®ã‚ˆã†ãªæ°—ãŒã™ã‚‹ã€‚@
+;@‚±‚ÌƒAƒUƒ~‚Æ‚¢‚¤l‚ÍA‰½‚¾‚©‚¢‚¢l‚Ì‚æ‚¤‚È‹C‚ª‚·‚éB@
 ` This Azami, somehow he felt like a good person.`@`
 br
-;ã€€é­‚ã‚’ç³§ã¨ã™ã‚‹å¦–æ€ªã®ã²ã¨ã‚Šãªã®ã ã‹ã‚‰ã€ç´ ç›´ãªæ„å‘³ã§ã„ã„äººã®ã‚ã‘ã‚‚ãªã„ã®ã ãŒã€@å°‘ãªãã¨ã‚‚ã€ç†ä¸å°½ãªæ€§æ ¼ã§ã¯ãªã•ãã†ã ã€‚\
+;@°‚ğ—Æ‚Æ‚·‚é—d‰ö‚Ì‚Ğ‚Æ‚è‚È‚Ì‚¾‚©‚çA‘f’¼‚ÈˆÓ–¡‚Å‚¢‚¢l‚Ì‚í‚¯‚à‚È‚¢‚Ì‚¾‚ªA@­‚È‚­‚Æ‚àA—•ss‚È«Ši‚Å‚Í‚È‚³‚»‚¤‚¾B\
 ` He was a monster that feasted on souls, so he wasn't gentle person.`@`However, he didn't seem that unreasonable in character.`\
 mld l,SMI_w3,23
 mld l,SMI_w5,80
 
-ã€Œãã†ã ã‚ã†ãã†ã ã‚ã†ã€ã„ã„äººã«è¦‹ãˆã‚‹ã§ã‚ã‚ã†ï¼@ã€€ã—ã‹ã—ã€ã“ã®ã„ã„äººã£ã·ã‚Šã“ãå§‰è€…ã®æœ€å¤§ã®æ­¦å™¨ãªã®ã˜ã‚ƒï¼@ã€€ä½•ã—ã‚å§‰è€…ã®å½å–„è€…ã£ã·ã‚Šã¨è¨€ã£ãŸã‚‰ã€@/
+u‚»‚¤‚¾‚ë‚¤‚»‚¤‚¾‚ë‚¤A‚¢‚¢l‚ÉŒ©‚¦‚é‚Å‚ ‚ë‚¤I@@‚µ‚©‚µA‚±‚Ì‚¢‚¢l‚Á‚Õ‚è‚±‚»oÒ‚ÌÅ‘å‚Ì•Ší‚È‚Ì‚¶‚áI@@‰½‚µ‚ëoÒ‚Ì‹U‘PÒ‚Á‚Õ‚è‚ÆŒ¾‚Á‚½‚çA@/
 
 cl r,0
 ld c,AZA_D1,24
@@ -1140,11 +1140,11 @@ se1 48
 mld l,SMI_i1,1
 quakex 2,200
 
-;ã‚ã„ã ã ã ã ã ã ã ã ã ãƒƒï¼ï¼ï¼ã€\
+;‚ ‚¢‚¾‚¾‚¾‚¾‚¾‚¾‚¾‚¾‚¾ƒbIIIv\
 ` Ah, ow ow ow ow ow ow!!!"`\
 ld c,AZA_D5,80
 
-;ã€Œã†ã£ãµãµãµãµãµãµãµãµãµãƒ¼â€¦ï¼ï¼ï¼@ã€€ã‚¹ãƒŸãƒ¬ã¯ãŸã¾ã«ãŠã‹ã—ãªã“ã¨ã‚’è¨€ã„å‡ºã™ã‚‚ã®ã§ã€ã†ã£ãµãµãµãµãµãµâ€¦ï¼ã€@
+;u‚¤‚Á‚Ó‚Ó‚Ó‚Ó‚Ó‚Ó‚Ó‚Ó‚Ó[cIII@@ƒXƒ~ƒŒ‚Í‚½‚Ü‚É‚¨‚©‚µ‚È‚±‚Æ‚ğŒ¾‚¢o‚·‚à‚Ì‚ÅA‚¤‚Á‚Ó‚Ó‚Ó‚Ó‚Ó‚ÓcIv@
 `"Ahahahahahaha!!!`@` Sumire says strange things every once in a while, so...Ahahahahahah...!"`@`
 br
 
@@ -1155,7 +1155,7 @@ se1 48
 mld l,SMI_i1,1
 quakex 2,300
 
-;ã€€ã©ã“ã‚’ã©ã†æŠ“ã£ã¦ã„ã‚‹ã‚„ã‚‰ã€‚@ã‚¹ãƒŸãƒ¬ã¯æ¶™ç›®ã§ç—›ã„ç—›ã„ã¨é£›ã³è·³ã­ã¦ã„ã‚‹ã€‚\
+;@‚Ç‚±‚ğ‚Ç‚¤S‚Á‚Ä‚¢‚é‚â‚çB@ƒXƒ~ƒŒ‚Í—Ü–Ú‚Å’É‚¢’É‚¢‚Æ”ò‚Ñ’µ‚Ë‚Ä‚¢‚éB\
 ` While being pinched everywhere,`@`Sumire was jumping up and down with tears in her eyes.`\
 cl c,0
 mcl l,0
@@ -1165,9 +1165,9 @@ mcbg 0
 ld c,HIG_w3,22
 ld c,HIG_d3,80
 
-;ã€Œãã†ãã†ã€ã‚¢ã‚¶ãƒŸã¨ã‚¹ãƒŸãƒ¬ã®å§‰å¦¹ã‚‰ã—ã„ã¨ã“ã‚ãŒã‚ã‚‹ã¨ã—ãŸã‚‰ã€‚@äºŒäººã¨ã‚‚ã€ã„ã˜ã‚ã«çµ¡ã‚“ã ç‹©ã‚Šã‚’ã™ã‚‹ã¨ã„ã†ç‚¹ã‹ã—ã‚‰ã€‚@â€¦â€¦å­¦æ ¡ã¯ã„ã˜ã‚ã§ã„ã£ã±ã„ã ã‚‚ã®ã€‚@é£Ÿã„ã£ã±ãã‚Œãªã„ã‚ã€‚ã€\
+;u‚»‚¤‚»‚¤AƒAƒUƒ~‚ÆƒXƒ~ƒŒ‚Ìo–…‚ç‚µ‚¢‚Æ‚±‚ë‚ª‚ ‚é‚Æ‚µ‚½‚çB@“ñl‚Æ‚àA‚¢‚¶‚ß‚É—‚ñ‚¾ë‚è‚ğ‚·‚é‚Æ‚¢‚¤“_‚©‚µ‚çB@ccŠwZ‚Í‚¢‚¶‚ß‚Å‚¢‚Á‚Ï‚¢‚¾‚à‚ÌB@H‚¢‚Á‚Ï‚®‚ê‚È‚¢‚íBv\
 `"Yes, yes, with Azami and Sumire as siblings, I wonder if the two of you together could entangle and hunt bullies.`@`....the school is full of bullies,`@`so you wouldn't miss any meals."`\
-;ï¼œå½¼å²¸èŠ±
+;ƒ”ŞŠİ‰Ô
 
 bg black,22
 
@@ -1178,47 +1178,47 @@ bg okujou_01y,22
 
 bgm1 31
 
-;ã€€æ®‹ã‚‹ã¯ã€åºåˆ—ç¬¬ï¼•ä½ã¨ç¬¬ï¼–ä½ã€‚@
+;@c‚é‚ÍA˜—ñ‘æ‚TˆÊ‚Æ‘æ‚UˆÊB@
 ` The fifth and sixth-ranked still remained.`@`
 br
-;ã€€ãã‚Œã«ã•ãã®ã—ã‚“ãŒåŠ ã‚ã‚Šã€ï¼“äººã§ãŠé…’ã‚’é£²ã‚“ã§ã„ã‚‹ã‚ˆã†ã ã£ãŸã€‚\
+;@‚»‚ê‚É‚³‚­‚Ì‚µ‚ñ‚ª‰Á‚í‚èA‚Rl‚Å‚¨ğ‚ğˆù‚ñ‚Å‚¢‚é‚æ‚¤‚¾‚Á‚½B\
 ` Along with Sakunoshin, the three of them seemed to be drinking rice wine.`\
 ld c,SAK_D4,22
 ld c,SAK_D2,80
 se1 47
 quakey 1,200
 
-;ã€Œã†ã‚Šã‚…ãƒ¼ï¼@ã€€æ¯¬æãƒ¼ï¼@ã€€ã¿ã‚“ãªã«ã”æŒ¨æ‹¶ã¯æ¸ˆã‚“ã ãƒ¼ï¼Ÿã€@
+;u‚¤‚è‚ã[I@@Ÿ{}[I@@‚İ‚ñ‚È‚É‚²ˆ¥A‚ÍÏ‚ñ‚¾[Hv@
 `"Uryuu~!`@`Marie~!`@` Have you greeted everyone?"`@`
 ld l,ma2_w2,23
 ;ld l,ma2_D1,80
 
 
-;ã€Œã¯ã„ã€‚@ã“ã¡ã‚‰ã®çš†ã•ã‚“ã«ã‚‚ã”æŒ¨æ‹¶ã—ãŸã„ã¨æ€ã„ã¾ã—ã¦ã€‚ã€\
+;u‚Í‚¢B@‚±‚¿‚ç‚ÌŠF‚³‚ñ‚É‚à‚²ˆ¥A‚µ‚½‚¢‚Æv‚¢‚Ü‚µ‚ÄBv\
 `"Yes.`@`I think I want to greet everyone here also."`\
 ld r,HIG_D2,24
 ;ld r,HIG_D1,80
 
-;ã€Œã•ãã®ã—ã‚“ã¯å­¦æ ¡å¦–æ€ªå…«å¸­ã§ã¯ãªã„ã‘ã‚Œã©ã€‚@å‹•ç‰©éœŠã®é•·ã‚’å‹™ã‚ã‚‹å¤§å¦–æ€ªã€‚ã€\
+;u‚³‚­‚Ì‚µ‚ñ‚ÍŠwZ—d‰ö”ªÈ‚Å‚Í‚È‚¢‚¯‚ê‚ÇB@“®•¨—ì‚Ì’·‚ğ–±‚ß‚é‘å—d‰öBv\
 `"Sakunoshin isn't one of the eight seated school monsters,`@`but he's an great animal spirit working as a big monster."`\
-;ï¼œå½¼å²¸èŠ±
+;ƒ”ŞŠİ‰Ô
 
 ld c,SAK_D4,80
 
-;ã€Œã†ã‚Šã‚…ãƒ¼ï¼@ã€€ã ã‹ã‚‰åƒ•ã‚‚ã“ã†ã—ã¦ãŠå‘¼ã°ã‚Œã—ã¦ã‚‹ã®ãƒ¼ï¼@ã€€ãã†ã ã€æ¯¬æã€‚@ç´¹ä»‹ã™ã‚‹ã­ï¼@ã€€ã“ã®å­ã¯ã€åºåˆ—ç¬¬ï¼–ä½ã®â€¦â€¦ã€@/
+;u‚¤‚è‚ã[I@@‚¾‚©‚ç–l‚à‚±‚¤‚µ‚Ä‚¨ŒÄ‚Î‚ê‚µ‚Ä‚é‚Ì[I@@‚»‚¤‚¾AŸ{}B@Ğ‰î‚·‚é‚ËI@@‚±‚Ìq‚ÍA˜—ñ‘æ‚UˆÊ‚ÌccA@/
 `"Uryuu~!`@` That's why I'm still called as such!.`@` Yes, Marie.`@`I'll do the introductions, shall I?`@` This child is the sixth-ranked...`@`
 ld c,SAK_k3,80
 
-;â€¦â€¦ã‚ã‚Œã‚Œã€å¯ã¡ã‚ƒã£ãŸï¼Ÿ@ã€€ã†ã‚Šã‚…ãƒ¼ã€‚ã€@
+;cc‚ ‚ê‚êAQ‚¿‚á‚Á‚½H@@‚¤‚è‚ã[Bv@
 `Oh, they fell asleep?`@`Uryuu."`@`
 br
-;ã€€æ¯¬æã‚ˆã‚Šå¹´ä¸‹ã«è¦‹ãˆã‚‹å°ã•ãªå­ãŒã€çŒ«ã®ã‚ˆã†ã«ä¸¸ã¾ã£ã¦ã€ã™ã‚„ã™ã‚„ã¨çœ ã£ã¦ã—ã¾ã£ã¦ã„ã‚‹ã€‚\
+;@Ÿ{}‚æ‚è”N‰º‚ÉŒ©‚¦‚é¬‚³‚Èq‚ªA”L‚Ì‚æ‚¤‚ÉŠÛ‚Ü‚Á‚ÄA‚·‚â‚·‚â‚Æ–°‚Á‚Ä‚µ‚Ü‚Á‚Ä‚¢‚éB\
 ` A child who looked younger than Marie was curled up like a cat sleeping peacefully.`\
 ld r,HIG_D3,80
 
-;ã€Œãã®å­ã¯ã€åºåˆ—ç¬¬ï¼–ä½ã€ç¾è¡“å®¤ã®ãƒ«ãƒãƒ¯ãƒ¼ãƒ«ã€‚@â€¦â€¦å¤§äººã—ã„å­ã‚ˆã€‚@ã‚ã¾ã‚Šç†±å¿ƒã«ç‹©ã‚Šã‚’ã™ã‚‹å­ã§ã‚‚ãªã„ã—ã€‚ã€\
+;u‚»‚Ìq‚ÍA˜—ñ‘æ‚UˆÊA”üpº‚Ìƒ‹ƒmƒ[ƒ‹B@cc‘ål‚µ‚¢q‚æB@‚ ‚Ü‚è”MS‚Éë‚è‚ğ‚·‚éq‚Å‚à‚È‚¢‚µBv\
 ` "That child is the sixth-ranked, Renoir of the art room.`@`She's a quiet child.`@`She doesn't hunt very much."`\
-;ï¼œå½¼å²¸èŠ±
+;ƒ”ŞŠİ‰Ô
 
 cl a,0
 mbg black,22
@@ -1228,29 +1228,29 @@ ld c,KYO_D2,22
 ld c,KYO_D5,80
 
 
-;ã€Œâ€¦â€¦ãƒ«ãƒã¯ç‹©ã‚Šã‚’ã—ãªã•éãã¦ã€å¦–åŠ›ãŒã»ã¨ã‚“ã©æ¯ã‚Œã¡ã¾ã£ãŸãƒ¤ãƒ„ã ã‘ã©ãªã€‚ã€\
+;uccƒ‹ƒm‚Íë‚è‚ğ‚µ‚È‚³‰ß‚¬‚ÄA—d—Í‚ª‚Ù‚Æ‚ñ‚ÇŒÍ‚ê‚¿‚Ü‚Á‚½ƒ„ƒc‚¾‚¯‚Ç‚ÈBv\
 `"Because she hardly hunts at all, her magical power has withered almost entirely."`\
-;ï¼œã‚­ãƒ§ã‚¦
+;ƒƒLƒ‡ƒE
 
 ld r,HIG_w3,22
 
-ã€Œå…ƒã€…ã€ä¹åä¹ç¥ã ã‹ã‚‰ã­ã€‚@ãŸã çœ ã£ã¦ã„ã‚‹ã ã‘ã§ã‚‚ã€æœ¬æ¥ã®å¦–åŠ›ã¯ä¾®ã‚Œãªã„ã‚ã€‚ã€\
-;ï¼œå½¼å²¸èŠ±
+uŒ³XA‹ã\‹ã_‚¾‚©‚ç‚ËB@‚½‚¾–°‚Á‚Ä‚¢‚é‚¾‚¯‚Å‚àA–{—ˆ‚Ì—d—Í‚Í•‚ê‚È‚¢‚íBv\
+;ƒ”ŞŠİ‰Ô
 
-ã€€ç¬¬ï¼—ä½ã®ã‚¹ãƒŸãƒ¬ã¯ã€ã„ã˜ã‚ã‚’æ’’ãæ•£ã‚‰ã—ã€ç©æ¥µçš„ãªç‹©ã‚Šã‚’ã—ã¦ã„ãŸã€‚@
-ã€€ã«ã‚‚ã‹ã‹ã‚ã‚‰ãšã€ã“ã®ãƒ«ãƒãƒ¯ãƒ¼ãƒ«ã¨ã„ã†å¦–æ€ªã¯ã€ã»ã¨ã‚“ã©ç‹©ã‚Šã‚’ã—ãªã„ã®ã«ã€åºåˆ—ã¯ãã‚Œã‚ˆã‚Šé«˜ã„ã€‚@
-ã€€ã ã¨ã™ã‚‹ãªã‚‰ã€å…ƒã€…ã€ç›¸å½“ã®å¤§ããªåŠ›ã‚’æŒã¤å¦–æ€ªã«é•ã„ã‚ã‚‹ã¾ã„ã€‚\
+@‘æ‚VˆÊ‚ÌƒXƒ~ƒŒ‚ÍA‚¢‚¶‚ß‚ğT‚«U‚ç‚µAÏ‹É“I‚Èë‚è‚ğ‚µ‚Ä‚¢‚½B@
+@‚É‚à‚©‚©‚í‚ç‚¸A‚±‚Ìƒ‹ƒmƒ[ƒ‹‚Æ‚¢‚¤—d‰ö‚ÍA‚Ù‚Æ‚ñ‚Çë‚è‚ğ‚µ‚È‚¢‚Ì‚ÉA˜—ñ‚Í‚»‚ê‚æ‚è‚‚¢B@
+@‚¾‚Æ‚·‚é‚È‚çAŒ³XA‘Š“–‚Ì‘å‚«‚È—Í‚ğ‚Â—d‰ö‚Éˆá‚¢‚ ‚é‚Ü‚¢B\
 
 ld l,ma2_w1,22
 
-;ã€Œã§ã¯ã€ã‚ãªãŸãŒç¬¬ï¼•ä½ã®â€¦â€¦ï¼Ÿã€@
+;u‚Å‚ÍA‚ ‚È‚½‚ª‘æ‚TˆÊ‚ÌccHv@
 `"Well then, you're the fifth-ranked?"`@`
 cl c,0
 mld c,KYO_D1,80
 
-;ã€Œä¿ºæ§˜ã¯åºåˆ—ç¬¬ï¼•ä½ã®ã€é¡ã®ã‚­ãƒ§ã‚¦ã€‚@â€¦â€¦é¡ã®ä¸–ç•Œã®å¢ƒã‚’å¸ã‚‹ç•ªäººã‚ˆã€‚ã€\
+;u‰´—l‚Í˜—ñ‘æ‚TˆÊ‚ÌA‹¾‚ÌƒLƒ‡ƒEB@cc‹¾‚Ì¢ŠE‚Ì‹«‚ği‚é”Ôl‚æBv\
 `"I'm the fifth-ranked, Kyou of mirrors.`@`....I'm the keeper of the boudaries of the world of mirrors."`\
-;ï¼œã‚­ãƒ§ã‚¦
+;ƒƒLƒ‡ƒE
 
 mcl c,0
 bg black,23
@@ -1260,93 +1260,93 @@ ld r,SAK_D2,23
 se1 47
 quakey 1,200
 
-;ã€Œã‚­ãƒ§ã‚¦ãã‚“ã¯åƒ•ã¨åŒã˜ã€å‹•ç‰©éœŠãªã‚“ã ã‚ˆã£ã€‚@ã ã‹ã‚‰ä»²é–“ãªã‚“ã ã‚ˆã€ã†ã‚Šã‚…ãƒ¼ï¼ã€\
+;uƒLƒ‡ƒE‚­‚ñ‚Í–l‚Æ“¯‚¶A“®•¨—ì‚È‚ñ‚¾‚æ‚ÁB@‚¾‚©‚ç’‡ŠÔ‚È‚ñ‚¾‚æA‚¤‚è‚ã[Iv\
 `"Kyou-kun is the same as me; an animal spirit.`@`So we're the best of friends, uryuu~!"`\
 ld c,KYO_D2,23
 ld c,KYO_D4,80
 
-ã€Œä¿ºæ§˜ã¯ãŠå‰ã¿ãŸã„ãªè‰é£Ÿãƒ©ã‚¤ã‚ªãƒ³ã®ä»²é–“ã˜ã‚ƒã­ã‡ã£ã€‚@ä¿ºæ§˜ã¯ç‹¼ã ã€ã‚¦ãƒ«ãƒ•ã ã€ãƒã‚¤ã‚¨ãƒŠã ã€‚@æ„šã‹ãªäººé–“ã©ã‚‚ã®ã€é¡ã«æ˜ ã‚‹é‚ªæ‚ªãªé¢ã‚’å¼•ãæ‘ºã‚Šå‡ºã—ã€ç‹©ã‚Šæ®ºã™ã€‚@ã‚¯ãƒ¼ãƒ«ãªã‚¯ãƒ¼ãƒ«ãªãƒãƒ³ã‚¿ãƒ¼ãªã®ã•â€¦â€¦ã€‚ã€\
+u‰´—l‚Í‚¨‘O‚İ‚½‚¢‚È‘Hƒ‰ƒCƒIƒ“‚Ì’‡ŠÔ‚¶‚á‚Ë‚¥‚ÁB@‰´—l‚Í˜T‚¾AƒEƒ‹ƒt‚¾AƒnƒCƒGƒi‚¾B@‹ğ‚©‚ÈlŠÔ‚Ç‚à‚ÌA‹¾‚É‰f‚é×ˆ«‚È–Ê‚ğˆø‚« ‚èo‚µAë‚èE‚·B@ƒN[ƒ‹‚ÈƒN[ƒ‹‚Èƒnƒ“ƒ^[‚È‚Ì‚³ccBv\
 
-ã€€çœ¼å…‰é‹­ããã†è¨€ã„ã€ãã³ã‚Šã¨æ¯ã‚’å‚¾ã‘ã‚‹ã€‚@
+@ŠáŒõ‰s‚­‚»‚¤Œ¾‚¢A‚®‚Ñ‚è‚Æ”t‚ğŒX‚¯‚éB@
 br
-;ã€€â€¦â€¦ä½•ã¨è¨€ã†ã‹ã€â€¦â€¦ç‹¬ç‰¹ã®é›°å›²æ°—ã‚’æŒã¤äººã®ã‚ˆã†ã ã€‚\
+;@cc‰½‚ÆŒ¾‚¤‚©Acc“Æ“Á‚Ì•µˆÍ‹C‚ğ‚Âl‚Ì‚æ‚¤‚¾B\
 `....meaning, he was a person who seemed to have a unique atmosphere.`\
 ld r,SAK_D4,80
 
-;ã€Œã“ã‚Œã§æŒ¨æ‹¶å›ã‚Šã¯çµ‚ã‚ã£ãŸã§ã—ã‚‡ï¼Ÿï¼@ã€€æ¯¬æã‚‚é£²ã‚‚ãƒ¼é£²ã‚‚ãƒ¼ï¼ï¼ã€\
+;u‚±‚ê‚Åˆ¥A‰ñ‚è‚ÍI‚í‚Á‚½‚Å‚µ‚åHI@@Ÿ{}‚àˆù‚à[ˆù‚à[IIv\
 `"Is this the end of all the introductions?!`@`Marie, let's drink! Let's drink!"`\
-;ï¼œã•ãã®ã—ã‚“
+;ƒ‚³‚­‚Ì‚µ‚ñ
 
 bg black,23
 bg okujou_01y,23
 ld l,HIG_D5,22
 ld l,HIG_D4,80
 
-;ã€Œãã†ã‚ˆã€‚@ãŠæœˆè¦‹ä¼šãªã®ã«ã€ãŠé…’ã®ä¸€æ¯ã‚‚é£²ã¾ãªã„ã§ãŠã—ã¾ã„ãªã‚“ã¦ã€ã‚ã‚“ã¾ã‚Šã ã‚ã€‚ã€@
+;u‚»‚¤‚æB@‚¨ŒŒ©‰ï‚È‚Ì‚ÉA‚¨ğ‚Ìˆê”t‚àˆù‚Ü‚È‚¢‚Å‚¨‚µ‚Ü‚¢‚È‚ñ‚ÄA‚ ‚ñ‚Ü‚è‚¾‚íBv@
 `"Yes.`@`It's a moon-viewing party so if you don't drink a lot by the end, it's not too much."`@`
-;ï¼œå½¼å²¸èŠ±
+;ƒ”ŞŠİ‰Ô
 
 ld c,ma2_D4a,24
 ;ld c,ma2_D1,80
 
-;ã€Œã§ã€ã§ã‚‚ã€ç§ã€å¤§äººã˜ã‚ƒãªã„ã§ã™ã—â€¦ï¼@ã€€ãŠé…’ãªã‚“ã¦é£²ã‚“ã ã“ã¨ã‚ã‚Šã¾ã›ã‚“ã—ã£ã€‚ã€\
+;u‚ÅA‚Å‚àA„A‘ål‚¶‚á‚È‚¢‚Å‚·‚µcI@@‚¨ğ‚È‚ñ‚Äˆù‚ñ‚¾‚±‚Æ‚ ‚è‚Ü‚¹‚ñ‚µ‚ÁBv\
 `"B-but I'm not an adult..!`@` I've never drunk sake before."`\
 ;ld r,KYO_D3,24
 ld r,KYO_D5,24
 
-;ã€Œãã‚Œä»¥å‰ã«ã€äººé–“ã§ã‚‚ãªã„ã ã‚ã†ãŒã€‚@ãã‚Œã«ã“ã‚Œã¯äººé–“ã®ä¸–ç•Œã®é…’ã¨ã¯é•ã†ã€‚ã€@
+;u‚»‚êˆÈ‘O‚ÉAlŠÔ‚Å‚à‚È‚¢‚¾‚ë‚¤‚ªB@‚»‚ê‚É‚±‚ê‚ÍlŠÔ‚Ì¢ŠE‚Ìğ‚Æ‚Íˆá‚¤Bv@
 `"In the past, this wasn't for humans.`@`That sake is not that of the human world."`@`
-;ï¼œã‚­ãƒ§ã‚¦
+;ƒƒLƒ‡ƒE
 
 ld c,ma2_D4,80
-;ã€Œãˆï¼Ÿ@ã€€ã“ã‚Œã€ãŠé…’ã˜ã‚ƒãªã„ã‚“ã§ã™ã‹ï¼Ÿã€\
+;u‚¦H@@‚±‚êA‚¨ğ‚¶‚á‚È‚¢‚ñ‚Å‚·‚©Hv\
 `"Huh?`@`This isn't sake?"`\
 bg black,22
 bg Air_03,22
 
-;ã€€èµ¤ã„æ¯ã«ã€ãªã¿ãªã¿ã¨æ³¨ãŒã‚ŒãŸé€ãé€šã‚‹æ¶²ä½“ã¯ã€ã±ã£ã¨è¦‹ã«ã¯ãŠé…’ã«è¦‹ãˆã‚‹â€¦â€¦ã€‚@
+;@Ô‚¢”t‚ÉA‚È‚İ‚È‚İ‚Æ’‚ª‚ê‚½“§‚«’Ê‚é‰t‘Ì‚ÍA‚Ï‚Á‚ÆŒ©‚É‚Í‚¨ğ‚ÉŒ©‚¦‚éccB@
 ` The red fluid filled the glass to the brim and at first inspection appeared to be sake...`@`
 br
-;ã€€ã—ã‹ã—ã€ãã‚Œã«ã€ã¯ã‚‰ã‚Šã¨æ¡œã®èŠ±ã³ã‚‰ãŒæµ®ã‹ã³ã€æœˆãŒæµ®ã‹ã¶ã¨ã€ã¨ã¦ã‚‚é¢¨æµãªã‚‚ã®ã«è¦‹ãˆã‚‹ã®ã ã€‚\
+;@‚µ‚©‚µA‚»‚ê‚ÉA‚Í‚ç‚è‚Æ÷‚Ì‰Ô‚Ñ‚ç‚ª•‚‚©‚ÑAŒ‚ª•‚‚©‚Ô‚ÆA‚Æ‚Ä‚à•——¬‚È‚à‚Ì‚ÉŒ©‚¦‚é‚Ì‚¾B\
 ` But when the flower petals fell gently and the moon rose to the surface, it looked like a very artistic thing.`\
-;ã€€é¡”ã‚’è¿‘ä»˜ã‘ã‚‹ã¨ã€ãµã‚ã‚Šã¨ç”˜ã„ã€æœç‰©ã‚’æ€ã‚ã›ã‚‹é¦™ã‚ŠãŒé¼»ã‚’é€šã‚ŠæŠœã‘ã‚‹ã€‚@
+;@Šç‚ğ‹ß•t‚¯‚é‚ÆA‚Ó‚í‚è‚ÆŠÃ‚¢A‰Ê•¨‚ğv‚í‚¹‚é‚è‚ª•@‚ğ’Ê‚è”²‚¯‚éB@
 ` And on bringing her face closer, the airy, sweet fragrances of fruit passed into her nose.`@`
 
 br
-ã€€ã¨ã¯ã„ãˆã€ãƒ€ãƒ¡ãƒ€ãƒ¡ãƒƒã€ãŠé…’ã¯å¤§äººã«ãªã£ã¦ã‹ã‚‰ã£ã€‚\
+@‚Æ‚Í‚¢‚¦Aƒ_ƒƒ_ƒƒbA‚¨ğ‚Í‘ål‚É‚È‚Á‚Ä‚©‚ç‚ÁB\
 
 bg white,23
 bg okujou_02,0
 ld l,KYO_D2,23
 ;ld l,KYO_D1,80
 
-;ã€Œã ã‹ã‚‰ã€é…’ã˜ã‚ƒãªã„ã£ã¦è¨€ã£ã¦ã‚‹ã ã‚ã€‚ã€@
+;u‚¾‚©‚çAğ‚¶‚á‚È‚¢‚Á‚ÄŒ¾‚Á‚Ä‚é‚¾‚ëBv@
 `"That's why I said it wasn't sake."`@`
-;ï¼œã‚­ãƒ§ã‚¦
+;ƒƒLƒ‡ƒE
 
 ld r,HIG_d3,24
 ;ld r,HIG_d3,80
 
-;ã€Œã‚ã®ã­ã€‚@ã“ã‚Œã¯ã€é»„æ³‰æ¡œã®èŠ±ã³ã‚‰ã‚’ç ‚ç³–æ¼¬ã‘ã«ã—ãŸã‚‚ã®ã‚’ã€æ¡œã®ã†ã‚ã«å…¥ã‚Œã€@ã¾ãƒ¼ã€è‰²ã€…ã¨ã—ãŸã®ã‹ã‚‰æ¾ã‚Šå‡ºã—ãŸã€è¨€ã‚ã°ã‚¸ãƒ¥ãƒ¼ã‚¹ã¨ã„ã†ã‚ã‘ã€‚ã€\
+;u‚ ‚Ì‚ËB@‚±‚ê‚ÍA‰©ò÷‚Ì‰Ô‚Ñ‚ç‚ğ»“œ’Ğ‚¯‚É‚µ‚½‚à‚Ì‚ğA÷‚Ì‚¤‚ë‚É“ü‚êA@‚Ü[AFX‚Æ‚µ‚½‚Ì‚©‚çï‚èo‚µ‚½AŒ¾‚í‚ÎƒWƒ…[ƒX‚Æ‚¢‚¤‚í‚¯Bv\
 `"Y;know,`@`This is made by squeezing candied cherry blossoms of the underworld into the hollow of a cherry blossom tree.`@`We squeeze it out, so that's why we call it juice."`\
-;ï¼œå½¼å²¸èŠ±
+;ƒ”ŞŠİ‰Ô
 
 ld c,ma2_w2,22
 ;ld c,ma2_D1,80
 
-;ã€Œâ€¦â€¦ã‚ã€ãªã‚“ã ã€‚@ã‚¸ãƒ¥ãƒ¼ã‚¹ãªã‚“ã§ã™ã‹ã€‚@ãªã‚‰é£²ã‚ã¾ã™ã€‚ã€@
+;ucc‚ A‚È‚ñ‚¾B@ƒWƒ…[ƒX‚È‚ñ‚Å‚·‚©B@‚È‚çˆù‚ß‚Ü‚·Bv@
 `"Ah, what? `@`It's juice? In that case I can drink it."`@`
 ld l,KYO_D1,80
 
-;ã€Œãã‚‰ã€‚@ãã³ã‚Šã¨è¡Œã£ã¦ã€ãƒ•ãƒ«ãƒ ãƒ¼ãƒ³ã”ã¨é£²ã¿å¹²ã›ã€‚ã€\
+;u‚»‚çB@‚®‚Ñ‚è‚Æs‚Á‚ÄAƒtƒ‹ƒ€[ƒ“‚²‚Æˆù‚İŠ±‚¹Bv\
 `"Hey.`@`Drink daily for each each full moon."`\
-;ï¼œã‚­ãƒ§ã‚¦
+;ƒƒLƒ‡ƒE
 
 bg black,22
 
 ;ld c,ma2_i4a,80
 
-;ã€Œã§ã€ã§ã¯å¤±ç¤¼ã—ã¦â€¦â€¦ã€‚@â€¦â€¦ã”ãã‚Šã”ãã‚Šã€‚ã€@
+;u‚ÅA‚Å‚Í¸—ç‚µ‚ÄccB@cc‚²‚­‚è‚²‚­‚èBv@
 `"Well, excuse me....`@`....*gulp* *gulp*"`@`
 
 ;cl l,22
@@ -1354,19 +1354,19 @@ bg black,22
 ;ld l,SAK_D4,80
 
 
-;ã€Œã†ã‚Šã‚…ãƒ¼ï¼@ã€€ã™ã”ã„ãƒ¼ï¼@ã€€æ¯¬æã€è±ªå¿«ãªé£²ã¿ã£ã·ã‚Šãƒ¼ï¼ï¼ã€\
+;u‚¤‚è‚ã[I@@‚·‚²‚¢[I@@Ÿ{}A‹‰õ‚Èˆù‚İ‚Á‚Õ‚è[IIv\
 `"Uryuu~!`@`That's great!`@`Marie, you're drinking so heartily!!"`\
 
 ;ld c,ma2_w2,80
 
 bg Air_03,22
 
-;ã€Œã·ã£ã¯ãƒ¼ï¼ï¼@ã€€ã£ã¦ã“ã‚Œãƒƒï¼Ÿï¼@ã€€ã»ã€æœ¬å½“ã«ã‚¸ãƒ¥ãƒ¼ã‚¹ãªã‚“ã§ã™ã‹ãï¼Ÿï¼@ã€€ã‚ã€ç›®ãŒå›ã£ã¦â€¦â€¦ã€ã‚ãã‚ããï½â€¦â€¦ã€‚ã€\
+;u‚Õ‚Á‚Í[II@@‚Á‚Ä‚±‚êƒbHI@@‚ÙA–{“–‚ÉƒWƒ…[ƒX‚È‚ñ‚Å‚·‚©‚ŸHI@@‚ßA–Ú‚ª‰ñ‚Á‚ÄccA‚ ‚Ÿ‚ ‚Ÿ‚Ÿ`ccBv\
 `"Gah!`@` wait, this?!`@`Is this really juice?!`@`My eyes are spinning...aahahaha..."`\
 ;cl c,5
 ;ld r,HIG_w4,80
 
-;ã€Œãˆã‡ã€ãã†ã‚ˆã€ã‚¸ãƒ¥ãƒ¼ã‚¹ã‚ˆã€ã‚¸ãƒ¥ãƒ¼ã‚¹ã€‚@å¦–æ€ªã®ã‚¸ãƒ¥ãƒ¼ã‚¹ã ã‘ã‚Œã©ã­ã€‚@ãã™ãã™ãã™ãã™ãã™ãã™ã€‚ã€\
+;u‚¦‚¥A‚»‚¤‚æAƒWƒ…[ƒX‚æAƒWƒ…[ƒXB@—d‰ö‚ÌƒWƒ…[ƒX‚¾‚¯‚ê‚Ç‚ËB@‚­‚·‚­‚·‚­‚·‚­‚·‚­‚·‚­‚·Bv\
 `"Yes. Indeed, it's really juice.`@`But it's monsters' juice though.`@`Kusukusukusukusukusukusu."`\
 
 bg black,24
@@ -1374,21 +1374,21 @@ bg okujou_01y,24
 ld r,KYO_D6a,22
 ;ld r,KYO_D1,80
 
-;ã€ŒãŠã„ãŠã„ã€å¤§ä¸ˆå¤«ã‹ã‚ˆã“ã„ã¤ã€‚@â€¦â€¦å®Œå…¨ã«ã¶ã£æ½°ã‚Œã¦ã‚‹ãã€‚ã€@
+;u‚¨‚¢‚¨‚¢A‘åä•v‚©‚æ‚±‚¢‚ÂB@ccŠ®‘S‚É‚Ô‚Á’×‚ê‚Ä‚é‚¼Bv@
 `"Hey, hey, are you okay?`@`...she's completely collapsed."`@`
-;ï¼œã‚­ãƒ§ã‚¦
+;ƒƒLƒ‡ƒE
 
 ld l,HIG_d5,22
 ;ld l,HIG_w1,80
 
-;ã€Œã§ã‚‚ç¾å‘³ã—ã‹ã£ãŸã§ã—ã‚‡ï¼Ÿã€\
+;u‚Å‚à”ü–¡‚µ‚©‚Á‚½‚Å‚µ‚åHv\
 `"But it was delicious, don't you suppose?"`\
-;ï¼œå½¼å²¸èŠ±
+;ƒ”ŞŠİ‰Ô
 
 ld c,ma2_D2a,6
 ;ld c,ma2_D1,80
 
-;ã€Œã‡ã‡ã€ã¯ãƒï½â€¦â€¦ã€‚@ç›®ãŒå›ã‚‹ã‘ã‚Œã©ï½â€¦â€¦ã€ãŠã„ã²ãƒã‚Œã™ã…ã…ï½â€¦â€¦ã€‚ã€@
+;u‚¥‚¥A‚Í‚¡`ccB@–Ú‚ª‰ñ‚é‚¯‚ê‚Ç`ccA‚¨‚¢‚Ğ‚¡‚ê‚·‚£‚£`ccBv@
 `"Y-yeah~...`@`My eyes are spinning but....It'sh delicious~..."`@
 br
 
@@ -1396,7 +1396,7 @@ cl c,5
 se1v 13,50
 quakey 2,200
 
-;ã€€ä¸–ç•ŒãŒãã‚‹ãã‚‹å›ã£ã¦ã€ã ã‘ã‚Œã©ã‚‚ã€ã¨ã¦ã‚‚ã¨ã¦ã‚‚ä¸æ€è­°ãªã€å¹¸ã›ãªæ°—åˆ†ã§ã„ã£ã±ã„ã«ãªã‚‹ã€‚\
+;@¢ŠE‚ª‚®‚é‚®‚é‰ñ‚Á‚ÄA‚¾‚¯‚ê‚Ç‚àA‚Æ‚Ä‚à‚Æ‚Ä‚à•sv‹c‚ÈAK‚¹‚È‹C•ª‚Å‚¢‚Á‚Ï‚¢‚É‚È‚éB\
 ` The world spinning in circles, however, becomes filled with a very very strange, happy feeling.`\
 bg black,22
 
@@ -1412,64 +1412,64 @@ bgm1v 1003,0
 fedexx 70,0,0,0,0,0,3000
 wait 1000
 
-;ã€€ä¸–ç•ŒãŒæ¡œè‰²ã«æŸ“ã¾ã‚Šã€å±‹ä¸Šã«èŒ‚ã‚‹é»„æ³‰æ¡œãŒã¾ã™ã¾ã™ã«èŠ±ã‚’é–‹ãã€@èŠ±ã³ã‚‰ã®åµã§ç¥ç¦ã—ã¦ãã‚Œã‚‹ã‹ã®ã‚ˆã†ã«æ„Ÿã˜ã‚‰ã‚ŒãŸã€‚\
+;@¢ŠE‚ª÷F‚Éõ‚Ü‚èA‰®ã‚É–Î‚é‰©ò÷‚ª‚Ü‚·‚Ü‚·‚É‰Ô‚ğŠJ‚«A@‰Ô‚Ñ‚ç‚Ì—’‚Åj•Ÿ‚µ‚Ä‚­‚ê‚é‚©‚Ì‚æ‚¤‚ÉŠ´‚¶‚ç‚ê‚½B\
 ` The world was dyed in the color of cherry blossoms, and the blessing given in the storm of petals of the flowers of the cherry blossom trees growing in the roof of the underworld as they opened increasingly was felt.`\  
 
-;ã€€æ¯¬æãŒå£ã«ã—ãŸã‚‚ã®ã¯ã€äººé–“ãŸã¡ã®é£²ã‚€é…’ã¨ã¯ç•°ãªã‚‹ã€‚@
+;@Ÿ{}‚ªŒû‚É‚µ‚½‚à‚Ì‚ÍAlŠÔ‚½‚¿‚Ìˆù‚Şğ‚Æ‚ÍˆÙ‚È‚éB@
 ` That which Marie had put in her mouth was different from the rice wine drunk by human beings.`@`
 br
-;ã€€ã—ã‹ã—ã€å¦–åŠ›ã®è¶³ã‚Šãªã„æ¯¬æãŒå£ã«ã™ã‚‹ã¨ã€äººé–“ãŒé…’ã«é…”ã£æ‰•ã†ã®ã¨ã‚ˆãä¼¼ãŸç—‡çŠ¶ã‚’å¼•ãèµ·ã“ã™ã€‚\
+;@‚µ‚©‚µA—d—Í‚Ì‘«‚è‚È‚¢Ÿ{}‚ªŒû‚É‚·‚é‚ÆAlŠÔ‚ªğ‚ÉŒ‚Á•¥‚¤‚Ì‚Æ‚æ‚­—‚½Çó‚ğˆø‚«‹N‚±‚·B\
 ` However, when that was put in the mouth of Marie, who lacked sufficient magical power, she showed symptoms similar to those of drunk human beings.`\
-ã€Œã“ã“ã¯ã€æ—§æ ¡èˆã§ã‚‚ã£ã¨ã‚‚å¦–åŠ›ã®é«˜ã„å ´æ‰€ã€‚@â€¦â€¦ãã®å¦–åŠ›ã¯å¤ãã€é•·ãå¯ã‹ã•ã‚Œã€æ–°æ ¡èˆã®ãã‚Œã¨ã¯æ¯”ã¹ç‰©ã«ãªã‚‰ãªã„ãã‚‰ã„ã«æ·±ã„ã€‚@â€¦â€¦ãã‚Œã‚’é¤Šåˆ†ã«èŒ‚ã‚‹é»„æ³‰æ¡œã‹ã‚‰ä½œã‚‰ã‚Œã‚‹ãã®é›«ã¯ã€ã¾ã•ã«çµ¶å“ã€‚@ã“ã®ä¸–ãªã‚‰ã¬å‘³ã‚ã„ã€‚@â€¦â€¦ã‚‚ã—ã€æ¯¬æãŒãã‚Œã‚’ã¨ã¦ã‚‚ç¾å‘³ã—ãæ„Ÿã˜ã¦ãã‚ŒãŸãªã‚‰ã€‚@â€¦â€¦ãã‚Œã¯ã“ã®æ—§æ ¡èˆãŒã€ã‚ãªãŸã‚’æ­“è¿ã—ã¦ã„ã‚‹ã¨ã„ã†ã“ã¨ãªã®ã‚ˆã€‚ã€\
-;ï¼œå½¼å²¸èŠ±
+u‚±‚±‚ÍA‹ŒZÉ‚Å‚à‚Á‚Æ‚à—d—Í‚Ì‚‚¢êŠB@cc‚»‚Ì—d—Í‚ÍŒÃ‚­A’·‚­Q‚©‚³‚êAVZÉ‚Ì‚»‚ê‚Æ‚Í”ä‚×•¨‚É‚È‚ç‚È‚¢‚­‚ç‚¢‚É[‚¢B@cc‚»‚ê‚ğ—{•ª‚É–Î‚é‰©ò÷‚©‚çì‚ç‚ê‚é‚»‚Ì´‚ÍA‚Ü‚³‚Éâ•iB@‚±‚Ì¢‚È‚ç‚Ê–¡‚í‚¢B@cc‚à‚µAŸ{}‚ª‚»‚ê‚ğ‚Æ‚Ä‚à”ü–¡‚µ‚­Š´‚¶‚Ä‚­‚ê‚½‚È‚çB@cc‚»‚ê‚Í‚±‚Ì‹ŒZÉ‚ªA‚ ‚È‚½‚ğŠ½Œ}‚µ‚Ä‚¢‚é‚Æ‚¢‚¤‚±‚Æ‚È‚Ì‚æBv\
+;ƒ”ŞŠİ‰Ô
 
 ;bg black,22
 
-;ã€€â€¦â€¦ã•ã£ãä¿å¥ã®å…ˆç”Ÿã«èã„ãŸæ°—ãŒã™ã‚‹ã€‚@
+;@cc‚³‚Á‚«•ÛŒ’‚Ìæ¶‚É•·‚¢‚½‹C‚ª‚·‚éB@
 ` ...I feel like I heard that earlier from the Health Teacher.`@`
 br
-;ã€€å¿˜ã‚Œå»ã‚‰ã‚ŒãŸæ—§æ ¡èˆã«ã¯ã€ä»Šã¯èª°ã‚‚ä½ã¾ã‚ãªã„ã€‚@â€¦â€¦ãã‚“ãªæ—§æ ¡èˆã«ç§ãŒä½ã¿ç€ã„ã¦ã€ãã£ã¨æ—§æ ¡èˆã‚‚å–œã‚“ã§ã„ã‚‹ã ã‚ã†ã€ã£ã¦è©±â€¦â€¦ã€‚\
+;@–Y‚ê‹‚ç‚ê‚½‹ŒZÉ‚É‚ÍA¡‚Í’N‚àZ‚Ü‚í‚È‚¢B@cc‚»‚ñ‚È‹ŒZÉ‚É„‚ªZ‚İ’…‚¢‚ÄA‚«‚Á‚Æ‹ŒZÉ‚àŠì‚ñ‚Å‚¢‚é‚¾‚ë‚¤A‚Á‚Ä˜bccB\
 ` 'The old school bulding is now forgotten.`@`...If I settled in that old school building, surely they'd be happy' she said...`\
 bg okujou_04,0
 ld c,HIG_w2,22
 ld c,HIG_w1,80
 
-;ã€Œâ€¦â€¦ã ã‹ã‚‰ã€æ—§æ ¡èˆã¯ã‚ãªãŸã‚’æ‹›ã„ãŸã®ã‚ˆã€‚@â€¦â€¦â€¦ãã—ã¦ã€æœ€é«˜ã®é»„æ³‰æ¡œã®èŠ±ã§ä½œã£ãŸé›«ã‚’ã€ã‚ãªãŸã«æŒ¯èˆã„ãŸã‹ã£ãŸã«é•ã„ãªã„ã€‚ã€\
+;ucc‚¾‚©‚çA‹ŒZÉ‚Í‚ ‚È‚½‚ğµ‚¢‚½‚Ì‚æB@ccc‚»‚µ‚ÄAÅ‚‚Ì‰©ò÷‚Ì‰Ô‚Åì‚Á‚½´‚ğA‚ ‚È‚½‚ÉU•‘‚¢‚½‚©‚Á‚½‚Éˆá‚¢‚È‚¢Bv\
 `"That's why the old school bulding invited you.`@`...And the droplets of the greates cherry blossom surely wanted to bloom inside of you."`\
-;ï¼œå½¼å²¸èŠ±
+;ƒ”ŞŠİ‰Ô
 
-ã€€ç¢ºã‹ã«ã€â€¦â€¦â€¦ãã‚Œã¯ã“ã®ä¸–ãªã‚‰ã¬ã€çµ¶å“ã®å‘³ã€‚@
+@Šm‚©‚ÉAccc‚»‚ê‚Í‚±‚Ì¢‚È‚ç‚ÊAâ•i‚Ì–¡B@
 br
-;ã€€æ¯¬æã®å…¨èº«ã‚’ã€æ¸©ã‹ãªã€ã˜ã‚“ã‚ã‚Šã¨ã™ã‚‹å¿ƒåœ°è‰¯ã•ãŒã€ã‚„ã•ã—ãã‚„ã•ã—ãæŸ“ã¿æ¸¡ã‚‹ã®ã ã€‚\
+;@Ÿ{}‚Ì‘Sg‚ğA‰·‚©‚ÈA‚¶‚ñ‚í‚è‚Æ‚·‚éS’n—Ç‚³‚ªA‚â‚³‚µ‚­‚â‚³‚µ‚­õ‚İ“n‚é‚Ì‚¾B\
 ` A warm comfort gradually, gently spread through the whole of Marie's body.`\
-;ã€€é™ã‚Šç©ã‚‚ã‚‹æ¡œã®èŠ±ã³ã‚‰ã«ã€æŸ”ã‚‰ã‹ãåŸ‹ã‚‚ã‚Œã€â€¦â€¦ç¾½æ ¹å¸ƒå›£ã®ä¸­ã§çœ ã‚Šã«è½ã¡ã¦ã„ãã‹ã®ã‚ˆã†ãªå¿ƒåœ°ã‚ˆã•â€¦â€¦ã€‚@
+;@~‚èÏ‚à‚é÷‚Ì‰Ô‚Ñ‚ç‚ÉA_‚ç‚©‚­–„‚à‚êAcc‰Hª•z’c‚Ì’†‚Å–°‚è‚É—‚¿‚Ä‚¢‚­‚©‚Ì‚æ‚¤‚ÈS’n‚æ‚³ccB@
 ` A compfort as if to make her gently fell into sleep among the fallen cherry blossom petals...`@`
 br
-ã€€ãã‚Œã¯ã€ç”Ÿã¾ã‚Œã¦åˆã‚ã¦ã€ãã—ã¦ã‚‚ã¡ã‚ã‚“ã€æ­»ã‚“ã§åˆã‚ã¦å‘³ã‚ã†ã€æ¥µä¸Šã®æ‚¦æ¥½ã ã£ãŸâ€¦â€¦ã€‚\
+@‚»‚ê‚ÍA¶‚Ü‚ê‚Ä‰‚ß‚ÄA‚»‚µ‚Ä‚à‚¿‚ë‚ñA€‚ñ‚Å‰‚ß‚Ä–¡‚í‚¤A‹Éã‚Ì‰xŠy‚¾‚Á‚½ccB\
 
 bg black,22
 
-;ã€€â€¦â€¦ã‚‚ã†ã€å½¼å²¸èŠ±ã®å£°ã‚‚èã“ãˆãªã„ã€‚@
+;@cc‚à‚¤A”ŞŠİ‰Ô‚Ìº‚à•·‚±‚¦‚È‚¢B@
 ` ....I can't hear Higanbana's voice anymore.`@`
 br
-;ã€€å…¨ã¦ãŒã‚„ã•ã—ãã‚„ã•ã—ãé™ã‚Šç©ã‚‚ã£ã¦ã€â€¦â€¦æŸ”ã‚‰ã‹ãåŒ…ã¿è¾¼ã‚“ã§ã„ãã€‚\
+;@‘S‚Ä‚ª‚â‚³‚µ‚­‚â‚³‚µ‚­~‚èÏ‚à‚Á‚ÄAcc_‚ç‚©‚­•ï‚İ‚ñ‚Å‚¢‚­B\
 ` She was all wrapped up, gently, gently.`\
 
-;ã€€â€¦â€¦â€¦ãã£ã‹ã€‚@æ—§æ ¡èˆã¯ãšã£ã¨ã€å¯‚ã—ã‹ã£ãŸã‚“ã ã€‚@
+;@ccc‚»‚Á‚©B@‹ŒZÉ‚Í‚¸‚Á‚ÆAâ‚µ‚©‚Á‚½‚ñ‚¾B@
 ` ....That's right.`@`The old school building was always lonely.`@`
-;ã€€ãã‚Œã§ã€ç§ã¨ã„ã†å¦–æ€ªãŒä¹…ã—æŒ¯ã‚Šã«ä½ã¿ç€ã„ã¦ã€â€¦â€¦å¬‰ã—ã‹ã£ãŸã‚“ã ã€‚@
+;@‚»‚ê‚ÅA„‚Æ‚¢‚¤—d‰ö‚ª‹v‚µU‚è‚ÉZ‚İ’…‚¢‚ÄAccŠğ‚µ‚©‚Á‚½‚ñ‚¾B@
 ` What's more, the monster called "Me" had long since settled down, I was happy.`@`
 br
-;ã€€â€¦â€¦ãªã‚‰ã€‚@ç§ã¯å­¦æ ¡å¦–æ€ªã®ã¿ã‚“ãªã ã‘ã˜ã‚ƒãªãã€â€¦â€¦æ—§æ ¡èˆã•ã‚“ã«ã‚‚ã€æŒ¨æ‹¶ã‚’ã—ãªãã‚ƒã€‚\
+;@cc‚È‚çB@„‚ÍŠwZ—d‰ö‚Ì‚İ‚ñ‚È‚¾‚¯‚¶‚á‚È‚­Acc‹ŒZÉ‚³‚ñ‚É‚àAˆ¥A‚ğ‚µ‚È‚«‚áB\
 ` So being the case`@`I not only have to greet all the monsters here but also the school building itself.`\
-;ã€€â€¦â€¦â€¦ã“ã‚“ã«ã¡ã¯ã€æ—§æ ¡èˆã•ã‚“ã€‚@
+;@ccc‚±‚ñ‚É‚¿‚ÍA‹ŒZÉ‚³‚ñB@
 ` Good day, Mr. School Building.`@
-;ã€€ã‚ãã‚ãã®æ¯¬æã¨ç”³ã—ã¾ã™ã€‚@
+;@‚ß‚»‚ß‚»‚ÌŸ{}‚Æ\‚µ‚Ü‚·B@
 ` I'm Meso-meso Marie.`@`
 br
-;ã€€ã©ã†ã‹ã“ã‚Œã‹ã‚‰ã‚‚ã€ã‚ˆã‚ã—ããŠé¡˜ã„ã—ã¾ã™ã­â€¦â€¦â€¦ã€‚@
+;@‚Ç‚¤‚©‚±‚ê‚©‚ç‚àA‚æ‚ë‚µ‚­‚¨Šè‚¢‚µ‚Ü‚·‚ËcccB@
 ` Whatever happens in the future, I'm pleased to meet you...`@`
-;ã€€â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦ã€‚\
+;@cccccccccccccB\
 ` ..............`\
 ;print 0
 bg white,2
@@ -1481,17 +1481,17 @@ E_A
 wait 1000
 
 
-;â€»ã“ã“ã‹ã‚‰ã¯ã‚‚ã†ã€æ¯¬æã®ç«‹ã¡çµµã¯ã„ã¤ã‚‚é€šã‚Šã«
+;¦‚±‚±‚©‚ç‚Í‚à‚¤AŸ{}‚Ì—§‚¿ŠG‚Í‚¢‚Â‚à’Ê‚è‚É
 mov %HIG_Isyou,1
 ;bg white,2
 
-;ã€€â€¦â€¦â€¦ã¾ã‚‹ã§ã€æ—¥æ›œæ—¥ã®æœã®å¸ƒå›£ã®ä¸­ã®ã‚ˆã†ãªæ°—æŒã¡ã‚ˆã•ã€‚@
+;@ccc‚Ü‚é‚ÅA“ú—j“ú‚Ì’©‚Ì•z’c‚Ì’†‚Ì‚æ‚¤‚È‹C‚¿‚æ‚³B@
 `......A comfort just like that of lying in bed on Sunday morning.`@`
-;ã€€ã„ã¤ã¾ã§ã‚‚ã“ã†ã—ã¦ã€â€¦â€¦çœ ã£ã¦ã„ãŸã„â€¦â€¦â€¦ã€‚@
+;@‚¢‚Â‚Ü‚Å‚à‚±‚¤‚µ‚ÄAcc–°‚Á‚Ä‚¢‚½‚¢cccB@
 ` I want to....sleep like this....forever.....`@`
-;ã€€â€¦â€¦ã‚ãã€ã§ã‚‚å½¼å²¸èŠ±ã•ã‚“ãŒãšã£ã¨å‘¼ã‚“ã§ã‚‹â€¦â€¦ã€‚@
+;@cc‚ ‚ŸA‚Å‚à”ŞŠİ‰Ô‚³‚ñ‚ª‚¸‚Á‚ÆŒÄ‚ñ‚Å‚éccB@
 ` Ah, but Higanbana-san is always calling me...`@`
-;ã€€è¿”äº‹ã—ã¦ã‚ã’ãªã„ã¨æ‹—ã­ã¡ã‚ƒã†â€¦â€¦ã€‚@â€¦â€¦ã‚€ã«ã‚ƒã‚€ã«ã‚ƒâ€¦â€¦ã€‚\
+;@•Ô–‚µ‚Ä‚ ‚°‚È‚¢‚ÆX‚Ë‚¿‚á‚¤ccB@cc‚Ş‚É‚á‚Ş‚É‚áccB\
 ` When I don't answer, she pouts...`@`...*mumble mumble*...`\
 bg black,2
 
@@ -1501,31 +1501,31 @@ bg okujou_01u,2
 ld r,HIG_D5,22
 ;ld r,HIG_D2,80
 
-ã€Œæ¯¬æï¼Ÿ@ã€€ã„ã„åŠ æ¸›ã«èµ·ããŸã‚‰ï¼Ÿ@ã€€å¦–æ€ªã ã£ã¦é¢¨é‚ªã‚’å¼•ãã®ã‚ˆï¼Ÿã€@
+uŸ{}H@@‚¢‚¢‰ÁŒ¸‚É‹N‚«‚½‚çH@@—d‰ö‚¾‚Á‚Ä•—×‚ğˆø‚­‚Ì‚æHv@
 
 ld l,MAR_D2a,6
 ld l,MAR_D4a,80
 
-;ã€Œâ€¦â€¦ãµãâ€¦â€¦ã€å½¼å²¸èŠ±ã•ã‚“â€¦â€¦â€¦â€¦ã€‚@â€¦â€¦ã‚ã‚Œï¼Ÿ@ã€€â€¦â€¦â€¦â€¦â€¦â€¦â€¦ã€‚ã€\
+;ucc‚Ó‚ŸccA”ŞŠİ‰Ô‚³‚ñccccB@cc‚ ‚êH@@cccccccBv\
 `"...Ah... Higanbana-san.....`@`...what?`@`......."`\
-;ã€€ã„ã¤ã®é–“ã«ã‹ã€å¤œãŒæ˜ã‘å§‹ã‚ã¦ã„ã‚‹ã€‚@
+;@‚¢‚Â‚ÌŠÔ‚É‚©A–é‚ª–¾‚¯n‚ß‚Ä‚¢‚éB@
 ` Without realising it, the night was changing to dawn.`@`
-;ã€€é»„æ³‰ã®æ¡œã‚‚ãªããªã‚Šã€å®´å¸­ã¯å½±ã‚‚å½¢ã‚‚ãªããªã£ã¦ã„ã‚‹ã€‚@
+;@‰©ò‚Ì÷‚à‚È‚­‚È‚èA‰ƒÈ‚Í‰e‚àŒ`‚à‚È‚­‚È‚Á‚Ä‚¢‚éB@
 ` The flowers of the underworld disappeared, as did the shadows and form of the banquet.`@`
 br
-;ã€€ã¡ã‚‡ã£ã¨ã¿ã‚“ãªã«æŒ¨æ‹¶ã—ãŸã ã‘ã ã£ãŸã®ã«ã€@â€¦â€¦ç§ãŒçœ ã£ã¡ã‚ƒã£ãŸã‚“ã§ã€ãã®ã¾ã¾ãŠé–‹ãã«ãªã£ã¦ã—ã¾ã£ãŸã‚“ã â€¦â€¦ã€‚\
+;@‚¿‚å‚Á‚Æ‚İ‚ñ‚È‚Éˆ¥A‚µ‚½‚¾‚¯‚¾‚Á‚½‚Ì‚ÉA@cc„‚ª–°‚Á‚¿‚á‚Á‚½‚ñ‚ÅA‚»‚Ì‚Ü‚Ü‚¨ŠJ‚«‚É‚È‚Á‚Ä‚µ‚Ü‚Á‚½‚ñ‚¾ccB\
 ` Although I had only just greeted everyone,`@`...I fell asleep, and the party ended...`\
 ld r,HIG_d10,80
 
-;ã€Œãã‚Œã‚ˆã‚Šã‚ã‚“ãŸã€‚@ä½•ã§ã“ã‚“ãªã¨ã“ã‚ã§å¯ã¦ã„ã‚‹ã‚ã‘ï¼Ÿã€@
+;u‚»‚ê‚æ‚è‚ ‚ñ‚½B@‰½‚Å‚±‚ñ‚È‚Æ‚±‚ë‚ÅQ‚Ä‚¢‚é‚í‚¯Hv@
 `"What's more,`@`Why are you sleeping in a place like this?"`@`
 ld l,MAR_D3a,80
 
-;ã€Œä½•ã§ã£ã¦ã€‚@â€¦â€¦å½¼å²¸èŠ±ã•ã‚“ãŸã¡ã«é£²ã¾ã•ã‚Œã¦â€¦â€¦ã€ãã‚Œã§æ°—æŒã¡ã‚ˆããªã£ã¦â€¦â€¦â€¦ã€‚ã€\
+;u‰½‚Å‚Á‚ÄB@cc”ŞŠİ‰Ô‚³‚ñ‚½‚¿‚Éˆù‚Ü‚³‚ê‚ÄccA‚»‚ê‚Å‹C‚¿‚æ‚­‚È‚Á‚ÄcccBv\
 `"Why?`@`...Higanbana, you and the others made me drink....so I felt sick...."`\
 ld r,HIG_D9a,80
 
-;ã€Œä½•ã®è©±ï¼Ÿã€@
+;u‰½‚Ì˜bHv@
 `"What are you talking about?"`@`
 br
 
@@ -1537,86 +1537,86 @@ E_A
 se1 48
 quakey 1,100
 
-;ã€€å½¼å²¸èŠ±ã¯ã€ã‚ã‚“ãŸã¾ã å¯æƒšã‘ã¦ã‚“ã®ï¼Ÿã€€ã¨è¨€ã£ã¦ã€@æ¯¬æã®é ­ã‚’ã€èª¿å­ã®æ‚ªã„ãƒ©ã‚¸ã‚ªã®ã‚ˆã†ã«å©ãã€‚\
+;@”ŞŠİ‰Ô‚ÍA‚ ‚ñ‚½‚Ü‚¾Q›‚¯‚Ä‚ñ‚ÌH@‚ÆŒ¾‚Á‚ÄA@Ÿ{}‚Ì“ª‚ğA’²q‚Ìˆ«‚¢ƒ‰ƒWƒI‚Ì‚æ‚¤‚É’@‚­B\
 `Higanbana aksed "Are you still half-asleep?" and hit Marie's head like one would a malfunctioning radio.`\
 ld c,HIG_D10,80
 
 bgm1 8
 
-ã€Œæ¯¬æãŒã€ã©ã†ã—ã¦ã‚‚ç´ æ•µãªæœã§å‚åŠ ã—ãŸã„ã‹ã‚‰ã£ã¦è¨€ã£ã¦ã€‚@ç§ã€ã ã„ã¶å¾…ã£ãŸã®ã‚ˆï¼Ÿã€@
+uŸ{}‚ªA‚Ç‚¤‚µ‚Ä‚à‘f“G‚È•‚ÅQ‰Á‚µ‚½‚¢‚©‚ç‚Á‚ÄŒ¾‚Á‚ÄB@„A‚¾‚¢‚Ô‘Ò‚Á‚½‚Ì‚æHv@
 
 ld l,MAR_D2a,80
 
-;ã€Œã‚ã€ã¯ã„â€¦â€¦ã€‚@ãã‚Œã§ã ã„ã¶é…åˆ»ã—ã¾ã—ãŸã‘ã©ã€å‚åŠ ã—ã¦â€¦â€¦ã€‚ã€\
+;u‚ A‚Í‚¢ccB@‚»‚ê‚Å‚¾‚¢‚Ô’x‚µ‚Ü‚µ‚½‚¯‚ÇAQ‰Á‚µ‚ÄccBv\
 `"Ah, yes...`@`And because of that, I was really late to join in..."`\
 cl c,0
 ld r,HIG_D9,23
 
-;ã€Œä½•ã‚’è¨€ã£ã¦ã‚‹ã®ï¼Ÿ@ã€€ã‚ã‚“ãŸã€çµå±€ã€æ¥ãªã‹ã£ãŸã˜ã‚ƒãªã„ã€‚ã€@
+;u‰½‚ğŒ¾‚Á‚Ä‚é‚ÌH@@‚ ‚ñ‚½AŒ‹‹ÇA—ˆ‚È‚©‚Á‚½‚¶‚á‚È‚¢Bv@
 `"What are you saying?`@`You, after all, didn't come did you?"`@`
 me1v 16,50
 
 br
-;ã€€å½¼å²¸èŠ±ã¨è©±ãŒå™›ã¿åˆã‚ãªã„ã€‚\
+;@”ŞŠİ‰Ô‚Æ˜b‚ªŠš‚İ‡‚í‚È‚¢B\
 `It didn't fit with Higanbana's story.`\
 ld l,MAR_D3a,80
 
-;ã€Œâ€¦â€¦å½¼å²¸èŠ±ã•ã‚“ã“ãã€ä½•ã‚’è¨€ã£ã¦ã‚‹ã‚“ã§ã™ã‹ï¼Ÿ@ã€€ç§ã€ã“ã†ã—ã¦ã€ã“ã“ã«æ¥ã¦ã€ä¸€ç·’ã«çš†ã•ã‚“ã¨ã”æŒ¨æ‹¶ã‚’ã—ãŸã˜ã‚ƒãªã„ã§ã™ã‹ã€‚ã€\
+;ucc”ŞŠİ‰Ô‚³‚ñ‚±‚»A‰½‚ğŒ¾‚Á‚Ä‚é‚ñ‚Å‚·‚©H@@„A‚±‚¤‚µ‚ÄA‚±‚±‚É—ˆ‚ÄAˆê‚ÉŠF‚³‚ñ‚Æ‚²ˆ¥A‚ğ‚µ‚½‚¶‚á‚È‚¢‚Å‚·‚©Bv\
 `"Likewise, Higanbana, what are you talking about?`@`Didn't I come here and greet everyone?"`\
 bg black,22
 bg gakkou_07y,22
 
-;ã€Œã“ã“ã«æ¥ã¦ã£ã¦ã€‚@â€¦â€¦ã“ã“ã€æ—§æ ¡èˆã®å±‹ä¸Šã‚ˆï¼Ÿã€@
+;u‚±‚±‚É—ˆ‚Ä‚Á‚ÄB@cc‚±‚±A‹ŒZÉ‚Ì‰®ã‚æHv@
 `"By coming here`@`you mean the roof of this old school building?"`@`
-;ã€Œãˆã‡ã€ã¯ã„ã€‚@æ—§æ ¡èˆã®å±‹ä¸Šã§ã™ã‚ˆï¼Ÿã€\
+;u‚¦‚¥A‚Í‚¢B@‹ŒZÉ‚Ì‰®ã‚Å‚·‚æHv\
 `"Yeah. It was the roof of the old school building, wasn't it?"`\
 bg black,22
 bg okujou_01u,22
 ld l,HIG_d10,22
 ;ld l,HIG_D1,80
 
-;ã€Œä½•ã‚’è¨€ã£ã¦ã‚“ã®ã€‚@æ–°æ ¡èˆã®å±‹ä¸Šã«æ±ºã¾ã£ã¦ã‚‹ã§ã—ã‚‡ã†ï¼Ÿ@ã€€ã‚ã‚“ãŸã¾ã•ã‹ã€ã“ã“ã ã¨å‹˜é•ã„ã—ã¦ã€ãšã£ã¨ã²ã¨ã‚Šã§ã“ã“ã§å¾…ã£ã¦ãŸã‚ã‘ï¼Ÿï¼ã€@
+;u‰½‚ğŒ¾‚Á‚Ä‚ñ‚ÌB@VZÉ‚Ì‰®ã‚ÉŒˆ‚Ü‚Á‚Ä‚é‚Å‚µ‚å‚¤H@@‚ ‚ñ‚½‚Ü‚³‚©A‚±‚±‚¾‚ÆŠ¨ˆá‚¢‚µ‚ÄA‚¸‚Á‚Æ‚Ğ‚Æ‚è‚Å‚±‚±‚Å‘Ò‚Á‚Ä‚½‚í‚¯HIv@
 `"What are you talking about?`@`We decided upon the roof of the new school bulding.`@` Wait, it couldn't be...you confused the locations and waited here all by yourself?!"`@`
 ld r,MAR_D4a,24
 ;ld r,MAR_D1,80
 
-;ã€Œãˆã€â€¦â€¦ã§ã€ã§ã‚‚â€¦â€¦â€¦â€¦ã€‚ã€\
+;u‚¦Acc‚ÅA‚Å‚àccccBv\
 `"Wha--? B--but....."`\
 ld l,HIG_D5,80
 
-;ã€Œã‚ã®ã­ã‡ã€‚@ã‚ã‚Œã ã‘é…åˆ»ã—ã¦åˆ°ç€ã—ã¦ã€‚@èª°ã‚‚ã„ãªã‹ã£ãŸã‚‰ã€å ´æ‰€ã‚’é–“é•ãˆãŸã£ã¦æ™®é€šã¯æ€ã‚ãªã„ï¼Ÿ@ã€€ãã‚Œã§å¾…ã¡ããŸã³ã‚Œã¦ã€å¯ã¡ã‚ƒã£ã¦ãŸã£ã¦ã‚ã‘ï¼Ÿ@ã€€ã‚ãã€æ¯¬æâ€¦â€¦ã€‚@ã‚ã‚“ãŸã£ã¦ã€ãã“ã¾ã§æ„šã‹ã ã£ãŸã®ã­â€¦â€¦ã€‚ã€@
+;u‚ ‚Ì‚Ë‚¥B@‚ ‚ê‚¾‚¯’x‚µ‚Ä“’…‚µ‚ÄB@’N‚à‚¢‚È‚©‚Á‚½‚çAêŠ‚ğŠÔˆá‚¦‚½‚Á‚Ä•’Ê‚Ív‚í‚È‚¢H@@‚»‚ê‚Å‘Ò‚¿‚­‚½‚Ñ‚ê‚ÄAQ‚¿‚á‚Á‚Ä‚½‚Á‚Ä‚í‚¯H@@‚ ‚ŸAŸ{}ccB@‚ ‚ñ‚½‚Á‚ÄA‚»‚±‚Ü‚Å‹ğ‚©‚¾‚Á‚½‚Ì‚ËccBv@
 `"Y'know.`@`To that extent, even with a late arrival,`@`if there's nobody there, I don't think mistaking a place can be normal, right?`@` And you just waited there...?`@`Man, Marie, that was stupid of you..."`@`
 br
-;ã€€å½¼å²¸èŠ±ã¯ã€ã•ã‚“ã–ã‚“æ¯¬æã‚’é¦¬é¹¿ã«ã™ã‚‹ã¨ã€è‚©ã‚’ç«¦ã‚ãªãŒã‚‰å˜†ãã€‚\
+;@”ŞŠİ‰Ô‚ÍA‚³‚ñ‚´‚ñŸ{}‚ğ”n­‚É‚·‚é‚ÆAŒ¨‚ğâ‚ß‚È‚ª‚ç’Q‚­B\
 `Higanbana, while chastising Marie, just shrugged her shoulders.`\
 ld r,MAR_D2a,80
 
-;ã€€ã§ã‚‚ã€æ¯¬æã‚‚ã‚ã‘ãŒã‚ã‹ã‚‰ãªããªã£ã¦ã—ã¾ã†ã®ã ã€‚@
+;@‚Å‚àAŸ{}‚à‚í‚¯‚ª‚í‚©‚ç‚È‚­‚È‚Á‚Ä‚µ‚Ü‚¤‚Ì‚¾B@
 ` But Marie still didn't understand.`@`
-;ã€€ãã‚“ãªã¯ãšã¯ãªã„ã€‚@ç¢ºã‹ã«ã“ã“ã§ã€ã¿ã‚“ãªã¯å®´å¸­ã‚’ã—ã¦ã„ãŸã˜ã‚ƒãªã„ã‹â€¦â€¦ã€‚@
+;@‚»‚ñ‚È‚Í‚¸‚Í‚È‚¢B@Šm‚©‚É‚±‚±‚ÅA‚İ‚ñ‚È‚Í‰ƒÈ‚ğ‚µ‚Ä‚¢‚½‚¶‚á‚È‚¢‚©ccB@
 ` Surely that shouldn't be.`@`Surely she had taken part in a banquet with all the others here...`@`
 br
-ã€€ã‚ã‘ãŒã‚ã‹ã‚‰ãšã€ã²ã‚‡ã£ã¨ã—ã¦ã¾ã ãŠã‹ã—ãªé…”ã„ãŒç¶šã„ã¦ã„ã‚‹ã®ã‹ã¨ã€æ¯¬æã¯è‡ªåˆ†ã®é ¬ã‚’æŠ“ã‚‹ã—ã‹ãªã„ã€‚\
+@‚í‚¯‚ª‚í‚©‚ç‚¸A‚Ğ‚å‚Á‚Æ‚µ‚Ä‚Ü‚¾‚¨‚©‚µ‚ÈŒ‚¢‚ª‘±‚¢‚Ä‚¢‚é‚Ì‚©‚ÆAŸ{}‚Í©•ª‚Ì–j‚ğS‚é‚µ‚©‚È‚¢B\
 
 ld l,HIG_w4,80
 
-ã€Œã›ã£ã‹ãã€ç´ æ•µãªé»„æ³‰æ¡œãŒèŒ‚ã£ã¦ã€ç¾å‘³ã—ã„æ¡œé…’ãŒå‡ºæ¥ãŸã®ã«â€¦â€¦ã€‚@äººé–“ã«ã¯å‘³ã‚ã†ã“ã¨ã®å‡ºæ¥ãªã„æ¥µä¸Šã®å‘³ã‚’ã€ã‚ã‚“ãŸã«æ•™ãˆã¦ã‚ã’ã‚ˆã†ã¨æ€ã£ãŸã®ã«ã€‚@ã¯ãƒ¼ã£ã€‚ã€\
+u‚¹‚Á‚©‚­A‘f“G‚È‰©ò÷‚ª–Î‚Á‚ÄA”ü–¡‚µ‚¢÷ğ‚ªo—ˆ‚½‚Ì‚ÉccB@lŠÔ‚É‚Í–¡‚í‚¤‚±‚Æ‚Ìo—ˆ‚È‚¢‹Éã‚Ì–¡‚ğA‚ ‚ñ‚½‚É‹³‚¦‚Ä‚ ‚°‚æ‚¤‚Æv‚Á‚½‚Ì‚ÉB@‚Í[‚ÁBv\
 
 ld r,MAR_D4a,80
 
-;ã€Œã¯ã„ã€‚@â€¦â€¦ãã‚Œã¯ã„ãŸã ãã¾ã—ãŸã€‚@ã™ã”ãç¾å‘³ã—ã‹ã£ãŸã§ã™ã€‚ã€@
+;u‚Í‚¢B@cc‚»‚ê‚Í‚¢‚½‚¾‚«‚Ü‚µ‚½B@‚·‚²‚­”ü–¡‚µ‚©‚Á‚½‚Å‚·Bv@
 `"Yes.`@`...I ate.`@`It was really delicious."`@`
 ld l,HIG_D10,80
 
-;ã€Œé£²ã‚ã‚‹ã‚ã‘ãªã„ã§ã—ã‚‡ï¼Ÿ@ã€€ã‚ã‚“ãŸã€æ¥ãªã‹ã£ãŸã‚“ã ã‹ã‚‰ã€‚ã€\
+;uˆù‚ß‚é‚í‚¯‚È‚¢‚Å‚µ‚åH@@‚ ‚ñ‚½A—ˆ‚È‚©‚Á‚½‚ñ‚¾‚©‚çBv\
 `"Couldn't you drink?`@`Because you didn't come."`\
 ld r,MAR_D2a,80
 
-;ã€Œâ€¦â€¦ã‚ã€ç§ãŒå¯æƒšã‘ã¦ã„ãŸã®ã‹ã‚‚ã—ã‚Œãªã„ã§ã™ã‘ã©ã€‚@â€¦â€¦ç¢ºã‹ã«æ˜¨å¤œã€ã“ã“ã«ã‚‚é»„æ³‰ã®æ¡œãŒèŒ‚ã£ã¦ã„ãŸã‚“ã§ã™ã€‚@ãã—ã¦ç§ã¯ãã®æ¡œã®ãŠé…’ã‚’â€¦â€¦ã€‚ã€@
+;ucc‚íA„‚ªQ›‚¯‚Ä‚¢‚½‚Ì‚©‚à‚µ‚ê‚È‚¢‚Å‚·‚¯‚ÇB@ccŠm‚©‚Éğ–éA‚±‚±‚É‚à‰©ò‚Ì÷‚ª–Î‚Á‚Ä‚¢‚½‚ñ‚Å‚·B@‚»‚µ‚Ä„‚Í‚»‚Ì÷‚Ì‚¨ğ‚ğccBv@
 `"....I-I guess I might have been half-asleep.`@`...Surely, last night I was here amongst the lush dark cheery blossoms.`@`So, the cherry blossoms, I might have...in the rice wine.."`@`
 ld l,HIG_d9,80
 
-;ã€Œé»„æ³‰æ¡œãŒã€æ—§æ ¡èˆã®å±‹ä¸Šã«â€¦â€¦ï¼Ÿã€\
+;u‰©ò÷‚ªA‹ŒZÉ‚Ì‰®ã‚ÉccHv\
 `"Underworld cherry blossoms? On the roof of the old school building?"`\
 
 mbg black,22
@@ -1626,12 +1626,12 @@ mbg black,22
 ;dllefe 6,3
 ;print 22
 
-;ã€Œã¯ã€â€¦â€¦ã¯ã„ã€‚@â€¦â€¦ã™ã”ã„å¹»æƒ³çš„ãªã€ç¾ã—ã„å…‰æ™¯ã§ã—ãŸã‚ˆã­â€¦â€¦ã€‚ã€@
+;u‚ÍAcc‚Í‚¢B@cc‚·‚²‚¢Œ¶‘z“I‚ÈA”ü‚µ‚¢ŒõŒi‚Å‚µ‚½‚æ‚ËccBv@
 `"Y-Yes...`@`It was a fantastic, almost illusory sight, wasn't it...?"`@`
 br
-;ã€€ä»®ã«ã€æ˜¨å¤œã®å®´å¸­ãŒä¸¸ã”ã¨å¹»ã ã£ãŸã¨ã—ã¦ã‚‚ã€‚@
+;@‰¼‚ÉAğ–é‚Ì‰ƒÈ‚ªŠÛ‚²‚ÆŒ¶‚¾‚Á‚½‚Æ‚µ‚Ä‚àB@
 ` Even if last night's banquet was an illusion,`@`
-;ã€€ã‚ã®å±‹ä¸Šã«å’²ãèŒ‚ã‚‹é»„æ³‰æ¡œã®ç¾ã—ã•ã¯ã€æ–­ã˜ã¦å¹»ã ã£ãŸã¨ã¯æ€ãˆãªã„ã€‚\
+;@‚ ‚Ì‰®ã‚Éç‚«–Î‚é‰©ò÷‚Ì”ü‚µ‚³‚ÍA’f‚¶‚ÄŒ¶‚¾‚Á‚½‚Æ‚Ív‚¦‚È‚¢B\
 ` The beauty of the fervently blooming cherry blossoms on that roof, surely couldn't be one.`\
 ;dllefe_off
 ;print 0
@@ -1646,20 +1646,20 @@ cl a,0
 ld r,HIG_d8,22
 ;ld r,HIG_d4,80
 
-ã€Œâ€¦â€¦æ¯¬æã€‚@ç¢ºã‹ã«ãã®æ˜”ã€‚@ã“ã“ã«ã‚‚é»„æ³‰æ¡œã¯å’²ã„ãŸãã†ã‚ˆã€‚@ã§ã‚‚ãã‚Œã¯ã€ã“ã“ã«å­ä¾›ãŸã¡ãŒé€šã£ã¦ã„ãŸå¤§æ˜”ã®è©±ã ã‚ã€‚@ä»Šã‚„å¯‚ã‚Œã€æ—§æ ¡èˆã«ã¯é»„æ³‰æ¡œãŒèŠ±ã‚’å’²ã‹ã›ã‚‹é¤Šåˆ†ã‚‚ãªã„ã¯ãšã€‚ã€\
+uccŸ{}B@Šm‚©‚É‚»‚ÌÌB@‚±‚±‚É‚à‰©ò÷‚Íç‚¢‚½‚»‚¤‚æB@‚Å‚à‚»‚ê‚ÍA‚±‚±‚Éq‹Ÿ‚½‚¿‚ª’Ê‚Á‚Ä‚¢‚½‘åÌ‚Ì˜b‚¾‚íB@¡‚ââ‚êA‹ŒZÉ‚É‚Í‰©ò÷‚ª‰Ô‚ğç‚©‚¹‚é—{•ª‚à‚È‚¢‚Í‚¸Bv\
 
 ld l,MAR_i4a,23
 ;ld l,MAR_D1,80
 
-;ã€Œã§ã€ã§ã‚‚ã€å’²ã„ã¦ãŸã‚“ã§ã™ã‚ˆï¼Ÿï¼@ã€€ã™ã”ãç¾ã—ãã¦ä¸æ€è­°ãªå…‰æ™¯ã§â€¦â€¦ã€‚ã€\
+;u‚ÅA‚Å‚àAç‚¢‚Ä‚½‚ñ‚Å‚·‚æHI@@‚·‚²‚­”ü‚µ‚­‚Ä•sv‹c‚ÈŒõŒi‚ÅccBv\
 `"B-But they blossomed right?!`@`They were a really beautiful and mysterious sight..."`\
 ld r,HIG_D5,80
 
-;ã€Œâ€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦ã€‚@â€¦â€¦ãã‚Œã¯æœ¬å½“ã«ï¼Ÿ@ã€€ã ã¨ã—ãŸã‚‰ã€ã¨ã¦ã‚‚çã—ã„ã€å¥‡è·¡ã«é•ã„ãªã„ã‚ã€‚@â€¦â€¦ãã—ã¦ã‚ãªãŸã¯ã€ãã®é»„æ³‰æ¡œã®ã†ã‚ã®ãŠé…’ã‚’ã€é£²ã‚“ã ã‚ã‘ï¼Ÿã€@
+;uccccccccccccB@cc‚»‚ê‚Í–{“–‚ÉH@@‚¾‚Æ‚µ‚½‚çA‚Æ‚Ä‚à’¿‚µ‚¢AŠïÕ‚Éˆá‚¢‚È‚¢‚íB@cc‚»‚µ‚Ä‚ ‚È‚½‚ÍA‚»‚Ì‰©ò÷‚Ì‚¤‚ë‚Ì‚¨ğ‚ğAˆù‚ñ‚¾‚í‚¯Hv@
 `".............`@`....Is that really the case?`@`If you say so, considering how rare a case that'd be, it's undoubtedly a miracle.`@`....and as for that rice wine of the cherry blossoms of the underworld, did you drink it?"`@`
 ld l,MAR_D4a,80
 
-;ã€Œã¯ã„â€¦â€¦ã€‚@ã¨ã¦ã‚‚ç”˜ã„é¦™ã‚Šã¨å‘³ã§ã€â€¦â€¦ã¨ã¦ã‚‚ç¾å‘³ã—ã‹ã£ãŸã§ã™â€¦â€¦ã€‚ã€\
+;u‚Í‚¢ccB@‚Æ‚Ä‚àŠÃ‚¢‚è‚Æ–¡‚ÅAcc‚Æ‚Ä‚à”ü–¡‚µ‚©‚Á‚½‚Å‚·ccBv\
 `"Yes....`@`It was very sweet in scent and taste....very delicious...."`\
 textoff
 
@@ -1668,66 +1668,66 @@ E_A
 
 ld r,HIG_D3,80
 
-;ã€Œâ€¦â€¦â€¦â€¦â€¦â€¦â€¦ã€‚@â€¦â€¦ä½•ã¦ã“ã¨ã‹ã—ã‚‰ã€æ¯¬æã€‚@â€¦â€¦ã‚ãªãŸã¯ã²ã‚‡ã£ã¨ã—ãŸã‚‰ã€ã™ã”ãå¼·é‹ãªã®ã‹ã‚‚ã—ã‚Œãªã„ã‚ã­ã€‚ã€@
+;ucccccccB@cc‰½‚Ä‚±‚Æ‚©‚µ‚çAŸ{}B@cc‚ ‚È‚½‚Í‚Ğ‚å‚Á‚Æ‚µ‚½‚çA‚·‚²‚­‹­‰^‚È‚Ì‚©‚à‚µ‚ê‚È‚¢‚í‚ËBv@
 `".........`@`....What on earth, Marie.`@`...Perhaps you're just very lucky, hm?"`@`
 ld l,MAR_D3a,80
 
 bgm1 1003
 
-;ã€Œã©ã†ã„ã†æ„å‘³ã§ã™ã‹â€¦â€¦ï¼Ÿã€\
+;u‚Ç‚¤‚¢‚¤ˆÓ–¡‚Å‚·‚©ccHv\
 `"What do you mean?"`\
 ld r,HIG_D2,80
 
-;ã€Œå¦–åŠ›ã‚‚ãŠé…’ã«ä¼¼ã¦ã¦ã€å¤ãé•·ãå¯ã‹ã›ãŸã‚‚ã®ã¯ã€ã‚ˆã‚Šå¼·ã„åŠ›ã‚’å®¿ã™ã®ã€‚@â€¦â€¦ã ã‹ã‚‰ã€ã‚‚ã—ã‚‚ã“ã®æ—§æ ¡èˆã«å¥‡è·¡çš„ã«é»„æ³‰æ¡œãŒç”Ÿãˆã¦ã€ãã“ã‹ã‚‰ä½œã‚‰ã‚ŒãŸæ¡œé…’ã ã£ãŸãªã‚‰ã€‚@â€¦â€¦æã‚‰ããã‚Œã¯ã€ã“ã®ä¸–ã®ã‚‚ã®ã¨ã¯æ€ãˆã¬ã»ã©ã«ã€ç¾å‘³ãªã‚‚ã®ã ã£ãŸã¯ãšã€‚ã€\
+;u—d—Í‚à‚¨ğ‚É—‚Ä‚ÄAŒÃ‚­’·‚­Q‚©‚¹‚½‚à‚Ì‚ÍA‚æ‚è‹­‚¢—Í‚ğh‚·‚ÌB@cc‚¾‚©‚çA‚à‚µ‚à‚±‚Ì‹ŒZÉ‚ÉŠïÕ“I‚É‰©ò÷‚ª¶‚¦‚ÄA‚»‚±‚©‚çì‚ç‚ê‚½÷ğ‚¾‚Á‚½‚È‚çB@cc‹°‚ç‚­‚»‚ê‚ÍA‚±‚Ì¢‚Ì‚à‚Ì‚Æ‚Ív‚¦‚Ê‚Ù‚Ç‚ÉA”ü–¡‚È‚à‚Ì‚¾‚Á‚½‚Í‚¸Bv\
 "That rice wine is like magic power in the sense that it was laid to rest long ago in favor of conceiving a greater power.`@`...That's why, if 
 ;ld l,MAR_D1,80
 
-;ã€€â€¦â€¦ãã†ã ã€‚@æ¯¬æã¯æ˜¨å¤œã€ç¢ºã‹ã«ãã‚“ãªã“ã¨ã‚’è¨€ã‚ã‚ŒãŸã€‚\
+;@cc‚»‚¤‚¾B@Ÿ{}‚Íğ–éAŠm‚©‚É‚»‚ñ‚È‚±‚Æ‚ğŒ¾‚í‚ê‚½B\
 ` ....Yes.`@`Last night, Marie was told such a thing indeed.`\
 ld r,HIG_w2,80
 
-ã€Œã ã¨ã—ãŸã‚‰ã€ç¾¨ã¾ã—ã„ã‚ã€‚@â€¦â€¦æ–°æ ¡èˆã®é»„æ³‰æ¡œã¯ã€ã¾ã ã¾ã è‹¥ã„ã€‚@ç¾å‘³ã—ã„ã«ã¯ç¾å‘³ã—ã„ã‘ã‚Œã©ã€ã‚ã‚“ãŸãŒå‘³ã‚ã£ãŸãã‚Œã«ã¯ã€è¶³å…ƒã«ã‚‚åŠã°ãªã„ã¯ãšã€‚@â€¦â€¦å­˜åœ¨ã—ãªã„ã¯ãšã®æ—§æ ¡èˆã®é»„æ³‰æ¡œã«ã€æœ€é«˜ã®ãŠæœˆè¦‹æ—¥å’Œã®æº€æœˆã®æ™©ã«å‡ºä¼šãˆã¦ã€@æœ€é«˜ã®æ¡œé…’ã‚’å‘³ã‚ãˆãŸãªã‚“ã¦ã€‚@æ¯¬æã¯æœ¬å½“ã«å¹¸é‹ã ã‚ã€‚ã€\
+u‚¾‚Æ‚µ‚½‚çA‘A‚Ü‚µ‚¢‚íB@ccVZÉ‚Ì‰©ò÷‚ÍA‚Ü‚¾‚Ü‚¾á‚¢B@”ü–¡‚µ‚¢‚É‚Í”ü–¡‚µ‚¢‚¯‚ê‚ÇA‚ ‚ñ‚½‚ª–¡‚í‚Á‚½‚»‚ê‚É‚ÍA‘«Œ³‚É‚à‹y‚Î‚È‚¢‚Í‚¸B@cc‘¶İ‚µ‚È‚¢‚Í‚¸‚Ì‹ŒZÉ‚Ì‰©ò÷‚ÉAÅ‚‚Ì‚¨ŒŒ©“ú˜a‚Ì–Œ‚Ì”Ó‚Éo‰ï‚¦‚ÄA@Å‚‚Ì÷ğ‚ğ–¡‚í‚¦‚½‚È‚ñ‚ÄB@Ÿ{}‚Í–{“–‚ÉK‰^‚¾‚íBv\
 
 ld l,MAR_D4a,80
 
-;ã€€â€¦â€¦æ¯¬æã¯ã€ä½•ãŒä½•ã ã‹ã€ã¾ã‚‹ã§ã‚ã‹ã‚‰ãªã„ã€‚@
+;@ccŸ{}‚ÍA‰½‚ª‰½‚¾‚©A‚Ü‚é‚Å‚í‚©‚ç‚È‚¢B@
 ` ...Marie had not the slightest idea of what was happening.`@`
-;ã€€ã§ã‚‚ã€æ˜¨å¤œã®ãŠæœˆè¦‹ä¼šãŒã€å¤¢ã‹å¹»ã§ã¯ãªã„ã“ã¨ã¯ç¢ºã‹ãªã®ã ã€‚@
+;@‚Å‚àAğ–é‚Ì‚¨ŒŒ©‰ï‚ªA–²‚©Œ¶‚Å‚Í‚È‚¢‚±‚Æ‚ÍŠm‚©‚È‚Ì‚¾B@
 ` But that last night's moon-viewing party was a dream or illusion was certainly not so.`@`
-;ã€€å½¼å¥³ã®è¥Ÿå…ƒã«ä»˜ã„ãŸã€é»„æ³‰æ¡œã®èŠ±ã³ã‚‰ãŒã€ãã‚Œã‚’é™ã‹ã«ç‰©èªã£ã¦ã„ãŸã€‚@
+;@”Ş—‚Ì‹İŒ³‚É•t‚¢‚½A‰©ò÷‚Ì‰Ô‚Ñ‚ç‚ªA‚»‚ê‚ğÃ‚©‚É•¨Œê‚Á‚Ä‚¢‚½B@
 ` The cherry blossom petals stuck to her neck quietly said as much.`@`
 br
-;ã€€æ¯¬æã¯æ”¹ã‚ã¦ã€æ˜¨å¤œã®ã“ã¨ã‚’è©±ã™â€¦â€¦ã€‚\
+;@Ÿ{}‚Í‰ü‚ß‚ÄAğ–é‚Ì‚±‚Æ‚ğ˜b‚·ccB\
 ` Marie again spoke of last night....`\
 bg black,22
 bg okujou_03u,22
 
 ;ld r,HIG_D1,80
 
-;ã€Œâ€¦â€¦ãµã…ã‚“ã€‚@ä¸æ€è­°ãªã“ã¨ã‚‚ã‚ã‚‹ã‚‚ã®ã­ã€‚ã€@
+;ucc‚Ó‚£‚ñB@•sv‹c‚È‚±‚Æ‚à‚ ‚é‚à‚Ì‚ËBv@
 `"Hmmmmmm.`@`It's a really mysterious thing isn't it?"`@`
 ;ld l,MAR_D2a,80
 
-;ã€Œç§ã ã£ã¦å¦–æ€ªã®ã¯ãšãªã®ã«ã€‚@â€¦â€¦æ˜¨å¤œã€ä½•ãŒã‚ã£ãŸã®ã‹ã€ã•ã£ã±ã‚Šã§ã™â€¦â€¦ã€‚ã€\
+;u„‚¾‚Á‚Ä—d‰ö‚Ì‚Í‚¸‚È‚Ì‚ÉB@ccğ–éA‰½‚ª‚ ‚Á‚½‚Ì‚©A‚³‚Á‚Ï‚è‚Å‚·ccBv\
 `"Even for me, a monster`@`...last night was refreshing..."`\
 ;bg black,22
 ;bg Air_03,22
 
-;ã€Œã‚ã¾ã‚Šã«ç´ æ•µãªãŠæœˆè¦‹ã®æ™©ã ã£ãŸã—ã€‚@â€¦â€¦ã‚ã‚“ãŸã€äººãŒè‰¯ã•ãã†ã ã‹ã‚‰ã­ã€‚@â€¦â€¦æ—§æ ¡èˆã®ä¸»ã«ã€å‘¼ã°ã‚Œã¡ã‚ƒã£ãŸã‚“ã˜ã‚ƒãªã„ã‹ã—ã‚‰ã€‚ã€@
+;u‚ ‚Ü‚è‚É‘f“G‚È‚¨ŒŒ©‚Ì”Ó‚¾‚Á‚½‚µB@cc‚ ‚ñ‚½Al‚ª—Ç‚³‚»‚¤‚¾‚©‚ç‚ËB@cc‹ŒZÉ‚Ìå‚ÉAŒÄ‚Î‚ê‚¿‚á‚Á‚½‚ñ‚¶‚á‚È‚¢‚©‚µ‚çBv@
 `"It wasn't a particularly great moon-viewing.`@`...You, you seem like a good person.`@`...I wonder if you weren't in fact called by the old school building."`@`
-;ã€Œâ€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦ã€‚@â€¦â€¦ãã†ã§ã™ã­ã€‚@â€¦â€¦â€¦ãã†ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“ã­ã€‚ã€\
+;uccccccccB@cc‚»‚¤‚Å‚·‚ËB@ccc‚»‚¤‚©‚à‚µ‚ê‚Ü‚¹‚ñ‚ËBv\
 `".........`@`....is that so.`@`...I guess that might be that case"`\
-;ã€€ã‚ã‚ŠãŒã¨ã†ã€æ—§æ ¡èˆã•ã‚“ã€‚@
+;@‚ ‚è‚ª‚Æ‚¤A‹ŒZÉ‚³‚ñB@
 `"Thank you, Old School Building-san."`@`
 br
-;ã€€ã¾ãŸã€æœˆã®ç¶ºéº—ãªå¤œã«ã¯ã€ã”ä¸€ç·’ã—ã¾ã—ã‚‡ã†ã­ã€‚@
+;@‚Ü‚½AŒ‚ÌãY—í‚È–é‚É‚ÍA‚²ˆê‚µ‚Ü‚µ‚å‚¤‚ËB@
 ` Again, in the beautiful night of the moon, let's do it together.`@`
-;ã€€ã©ã†ã‹ã€ä»Šå¾Œã¨ã‚‚ã‚ˆã‚ã—ããŠé¡˜ã„ã—ã¾ã™ã€‚\
+;@‚Ç‚¤‚©A¡Œã‚Æ‚à‚æ‚ë‚µ‚­‚¨Šè‚¢‚µ‚Ü‚·B\
 ` Whatever happens, thank you in advance.`\
 
-;ï¼œãŠã—ã¾ã„ï¼
+;ƒ‚¨‚µ‚Ü‚¢„
 
-;â€»ã“ã“ã§OPãƒ ãƒ¼ãƒ“ãƒ¼
+;¦‚±‚±‚ÅOPƒ€[ƒr[
 
 bg black,2
 
@@ -1740,17 +1740,17 @@ movie "movie\higan_op1.mpg",click
 ;bg e022,42
 wait 1000
 bg black,42
-bgcopy ;èƒŒæ™¯ã‚’ãƒªã‚»ãƒƒãƒˆ
+bgcopy ;”wŒi‚ğƒŠƒZƒbƒg
 
 fede 0,2000
 E_A
 wait 2000
 
-if %UMINEKOEND < 1 mov %UMINEKOEND,1 : mov %END_FLG,1 ;ã‚¯ãƒªã‚¢ãƒ•ãƒ©ã‚°ã®å¤‰æ›´
+if %UMINEKOEND < 1 mov %UMINEKOEND,1 : mov %END_FLG,1 ;ƒNƒŠƒAƒtƒ‰ƒO‚Ì•ÏX
 
-	saveoff            ;ã‚»ãƒ¼ãƒ–ã‚ªãƒ•ã§ã€å‡¦ç†ã‚’é«˜é€ŸåŒ–ã™ã‚‹ã€‚
-	erasetextwindow 0  ;ãƒ†ã‚­ã‚¹ãƒˆã‚¨ãƒ•ã‚§ã‚¯ãƒˆã‚’åˆ‡ã‚‹äº‹ã§å‡¦ç†ã‚’é«˜é€ŸåŒ–
-	rmode 0            ;å³ã‚¯ãƒªãƒƒã‚¯ã®ãƒ¡ãƒ‹ãƒ¥ãƒ¼è¡¨ç¤ºã®ç„¡åŠ¹åŒ–
+	saveoff            ;ƒZ[ƒuƒIƒt‚ÅAˆ—‚ğ‚‘¬‰»‚·‚éB
+	erasetextwindow 0  ;ƒeƒLƒXƒgƒGƒtƒFƒNƒg‚ğØ‚é–‚Åˆ—‚ğ‚‘¬‰»
+	rmode 0            ;‰EƒNƒŠƒbƒN‚Ìƒƒjƒ…[•\¦‚Ì–³Œø‰»
 	textoff
 
 goto *b_title
@@ -1762,7 +1762,7 @@ texton
 csp -1
 
 bg black,2
-bgcopy ;èƒŒæ™¯ã‚’ãƒªã‚»ãƒƒãƒˆ
+bgcopy ;”wŒi‚ğƒŠƒZƒbƒg
 
 setwindow 31,16,22,16,26,26,0,2,20,1,1,#999999,0,0,639,479
 
@@ -1771,7 +1771,7 @@ setwindow 31,16,22,16,26,26,0,2,20,1,1,#999999,0,0,639,479
 mono 0
 E_A
 
-;â– å½¼å²¸èŠ±ã®å’²ãå‰ã«
+;¡”ŞŠİ‰Ô‚Ìç‚­‘O‚É
 
 bg gakkou_01,2
 bgm1 5
