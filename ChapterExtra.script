@@ -65,18 +65,18 @@ bg shokuin_02,0
 ld r,NAF_D2,22
 ld r,NAF_D5,80
 
-「第一、金森センセ。@あなた、自分の教え子に何をしたか、お忘れなの？@　猿みたいにブッコキ過ぎて、玉袋同様、頭の中まで空っぽになっちゃったのかしらぁ？」\
-
+;「第一、金森センセ。@あなた、自分の教え子に何をしたか、お忘れなの？@　猿みたいにブッコキ過ぎて、玉袋同様、頭の中まで空っぽになっちゃったのかしらぁ？」\
+` "First of all, Kanamori-sensei.`@`Did you forget what you did to your own student?`@`Like a monkey you beat his head and testicles. Did you lose your mind and your head become empty?"`\
 ld l,KAN_d3,23
 ld l,KAN_w1,80
 
-「ほぉう。@美少年ばかり何人も狙って！@　無垢な肉体を剥き剥きして、おにんにんばかり写生していた美術教師が言うじゃないかね。」\
-
+;「ほぉう。@美少年ばかり何人も狙って！@　無垢な肉体を剥き剥きして、おにんにんばかり写生していた美術教師が言うじゃないかね。」\
+`"Hou?`@`She's just a teenager that targets anyone.`@`I peeled into her pure flesh and painted a picture from real life as an artist."`\
 ld r,NAF_D7a,80
 quakex 1,100
 
 ;「芸術行為と言ってちょうだい、変態教師！@　ならあんたがしてたことは何なのよぅ？」\
-`"'Artful acts', you say, you perverted teacher!`@`If that's the case, what did you know?"`\
+`"Artful acts?, you perverted teacher!`@`If that's the case, what did you know?"`\
 ld l,KAN_I1,80
 quakex 1,100
 
@@ -95,29 +95,30 @@ mld c,KAN_K2,23
 se1v 8,50
 quakex 2,200
 
-「被害者の数が僕はひとり！@　君はたくさん！@　僕は愛ゆえに！@　君は欲望ゆえに！！」\
-
+;「被害者の数が僕はひとり！@　君はたくさん！@　僕は愛ゆえに！@　君は欲望ゆえに！！」\
+`"My number of victims has been limited to one!`@`Yours is numerous!`@`Mine are due to love!`@`Yours are out of desire!"`\
 cl a,0
 mcl c,0
 ld c,KAN_K2,0
 mld r,NAF_D9a,80
 
-「ぐぬぬぬぬぬぬぬ…！！@　いいわッ、どっちが変態教師かッ、勝負をつけようじゃない！」\
-
+;「ぐぬぬぬぬぬぬぬ…！！@　いいわッ、どっちが変態教師かッ、勝負をつけようじゃない！」\
+`"Hahahahahahahahaha!!`@` All right. Which of us is really the pervert teacher? Won't we have a contest?"`\
 
 cl c,0
 ld l,KAN_W2,24
 ;ld r,NAF_D6a,23
 
-「望むところだとも、新谷先生！@　さて、何で勝負するかな？！@　この金森義仁ッ、こう見えても、文武両道、武芸百般！@　愛あるが故にッ、負けを知らぬ男よ！」\
-
+;「望むところだとも、新谷先生！@　さて、何で勝負するかな？！@　この金森義仁ッ、こう見えても、文武両道、武芸百般！@　愛あるが故にッ、負けを知らぬ男よ！」\
+`"I couldn't ask for anything more!`@`Well, how shall we compete?`@`Kanamori Yoshihito, depsite apperances, knows all kinds of martial arts!`@`I'm a man who knows not the meaning of 'defeat'!"`\
 mld r,NAF_D8a,80
 
-「うっふふふふふふふ！！@　変態教師ならば一度は聞いたことがあるはずッ。@/
+;「うっふふふふふふふ！！@　変態教師ならば一度は聞いたことがあるはずッ。@/
+`"Ufufufufufufu!!`@`If it's pervert teachers we're talking about, I should have heard"`@/`
 se1v 2,100
 quakey 5,800
-変態凶死腐刑惨姦で勝負よッ！！」\
-
+;変態凶死腐刑惨姦で勝負よッ！！」\
+`'evil pervert miserable death sentence challenge!!'"`\
 ;cl c,0
 ld l,KAN_K5,24
 se1v 27,50
