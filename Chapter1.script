@@ -11,7 +11,7 @@ br
 `　And so the school youkai are soothed when the full moon is out.`@
 br
 ;　時に、殺伐とした魂のやり取りを休み、お月見会などという、風流な催しを開いてみたりもする……。\
-`　Sometimes they even take a break from stealing brutally murdered souls and hold an elegent event known as the Lunar Festival...`\
+`　Sometimes they even take a break from stealing brutally-murdered souls and hold an elegant event known as the Lunar Festival...`\
 
 bg black,22
 bg gakkou_07y,22
@@ -22,7 +22,7 @@ bg gakkou_07y,22
 quakey 1,100
 
 ;きゃーーーッ、また裸ぁーーーッ！！」@
-`Kyaaaaa, I'm naked agaaaaain!!"`@
+` Kyaaaaa, I'm naked agaaaaain!!"`@
 br
 ;　毬枝の賑やかな叫びが旧校舎に木霊する。\
 `　Marie's lively scream echoes through the old school building.`\
@@ -68,7 +68,7 @@ ld c,MAR_i4,80
 `　That means she has to use spiritual energy to change her outer appearance into a different outfit than the one she died in.`@
 br
 ;　変えたい外見をよくイメージして、精神を集中。@……そして、気合一発！@　えいっ。\
-`　She has to imagine what she wants to look like and gather her spirit. `@`...Then, in a burst of energy! `@`There~!.`\
+`　She has to imagine what she wants to look like and gather her spirit.`@` Then, in a burst of energy...`@` There~!`\
 
 se1 48
 bg white,1
@@ -81,7 +81,7 @@ bg toire_04,22
 quake 3,300
 
 ;　別に誰かに見られているわけでもないのだが、@毬枝はきゃーきゃー騒いで、元の服に戻り、そして精神を統一して……、を何度も繰り返している。@
-`　It's not as though anyone was watching her, `@`but Marie made a racket with her `Kyaaa kyaaa`s. `@`She went back to her old form and focused her spirit... repeating this over and over.`@
+`　It's not as though anyone was watching her, `@`but Marie made a racket with her 'Kyaaa kyaaa's. `@`She went back to her old form and focused her spirit... repeating this over and over.`@
 br
 ;　そこまで難しいことではないはずなのだが、@毬枝は元々、妖力が小さいし、その上、コツも掴んでいないので、なかなか思い通りに出来ないのだ。\
 `　It wasn't something that was that hard, `@`but Marie's powers weren't much to begin with. `@`On top of that, since she still hasn't gotten the hang of it, she can't really change when she wants to change.`\
@@ -103,7 +103,7 @@ bg black,22
 `　Tonight is the Lunar Festival for the school youkai.`@
 br
 ;　普段、ギスギスすることが多い学校妖怪たちも、今夜ばかりは休戦。@仲良くお酒を酌み交わすという、和やかな行事なのだ。\
-`　Only for tonigh, even the school youkai that often have conflicts with each other hold truces. `@`It's a harmoneous event where they mingle and drink together.`\
+`　Only for tonight, even the school youkai that often have conflicts with each other hold truces. `@`It's a harmoneous event where they mingle and drink together.`\
 
 bg toire_06,22
 
