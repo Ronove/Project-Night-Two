@@ -132,11 +132,12 @@ bg black,23
 bg shokuin_01,0
 ld r,KYO_D2,23
 
-　……何だこりゃ。@
+;　……何だこりゃ。@
+` ...what the hell.`@`
 　クレイジー教師たちの下らねぇ罵り合いは、放っておくことにしよう。@
 br
-　さて、あっちは何だ？\
-
+;　さて、あっちは何だ？\
+` Well, what's that over there?`\
 ld r,KYO_D5,80
 
 se1 56
@@ -157,51 +158,55 @@ bgm1 31
 
 ld l,SHU_D1,23
 
-「絵はね、感情を描くものなんだよ。@それがなかったら、絵なんて写真の代用品でしかないからね。」@
+;「絵はね、感情を描くものなんだよ。@それがなかったら、絵なんて写真の代用品でしかないからね。」@
+`"It's a drawing, done from emotion.`@`When it's not that, drawings just aren't a substitute for photos."`@`
 ;＜子供秋一
 
 ld r,NOD_D2,24
 
-「なるほどね……。@絵ってのは奥深いんだね……。」\
+;「なるほどね……。@絵ってのは奥深いんだね……。」\
+`"I see....`@`drawings are deeper, aren't they...?"`\
 ;＜野田
 
-　あいつ、今度は秋一のモデルになってるのか。@
+;　あいつ、今度は秋一のモデルになってるのか。@
+` This time, he was becoming a model for Akiichi.`@`
 br
-　良かったな、今回は服を脱がずにモデルをさせてもらえてるようだぜ。\
-
+;　良かったな、今回は服を脱がずにモデルをさせてもらえてるようだぜ。\
+` Luckily, this time it seems he wasn't going to be made a model without taking off his clothes.`\
 ld l,SHU_D4,80
 
-「君の姿を、見たままに描いたら写真でしかない。@だから僕は、君の姿を通して、感情を描くんだよ。」@
-
+;「君の姿を、見たままに描いたら写真でしかない。@だから僕は、君の姿を通して、感情を描くんだよ。」@
+`"Because I saw your shape just the way it is, if draw, I have to choice but to photograph you.`@` That's why I, through your figure, can draw my feelings."`@`
 ld r,NOD_D1,80
 
-「そう言えば、新谷先生もそんなことを言っていたなぁ……。」\
-
+;「そう言えば、新谷先生もそんなことを言っていたなぁ……。」\
+`"Now you mention it, Shintani-sensei was saying something similar..."`\
 bg black,22
 bg kaiga_02,22
 
-「新谷先生の絵って、見たことないね。@どんな絵だったの？」@
-「……えっと……。@……ちょっと……、恥ずかしい感じかな………。」\
-
+;「新谷先生の絵って、見たことないね。@どんな絵だったの？」@
+`"I never saw Shintani-sensei's picture.`@`What sort was it?"`@`
+;「……えっと……。@……ちょっと……、恥ずかしい感じかな………。」\
+`"Uh.....`@`...I...I wonder if it might be a bit embarrasing."`\
 bg black,22
 bg bijutu_02,0
 ld r,SHU_D1,22
 ld r,SHU_D4,80
 
-「ふぅん。@それは面白い感想だね。@少なくとも、それを口にすることに躊躇する程度の感情を君に与えてるわけだ。@芸術作品としては、興味深いね。」@
-
+;「ふぅん。@それは面白い感想だね。@少なくとも、それを口にすることに躊躇する程度の感情を君に与えてるわけだ。@芸術作品としては、興味深いね。」@
+`"Hmmm.`@`That's an interesting comment.`@`At least, it seems like as you were about to say something a feeling of hesitation hit you.`@`As a work of art, it's of great interest."`@`
 ld l,NOD_D5a,23
 
-「……げ、芸術って、難しいんだね……。@秋一くんが僕を描いてるそれも、芸術作品なの……？」\
-
+;「……げ、芸術って、難しいんだね……。@秋一くんが僕を描いてるそれも、芸術作品なの……？」\
+`"...A-art is difficult though, right?`@`Is Akiichi-kun drawing me really a work of art...?"`\
 ld r,SHU_D3,80
 
-「もちろんさ。@僕は人に感情を感じてもらうために、いつだって絵を描いているんだ。@今回はそれを絵じゃなくて、漫画で描いてるんだけれどね。」\
-
+;「もちろんさ。@僕は人に感情を感じてもらうために、いつだって絵を描いているんだ。@今回はそれを絵じゃなくて、漫画で描いてるんだけれどね。」\
+`"Of course.`@`To make poeple feel emotion, I'm always drawing.`@`This time however, it's not a sketch but a comic style."`\
 ld l,NOD_D3,80
 
-「へー……、漫画ってすごいね。@ジャＭプとかに投稿するの？」@
-
+;「へー……、漫画ってすごいね。@ジャＭプとかに投稿するの？」@
+`"Waaah! Manga is great isn't it.`@`Is it something like what SHONEN JAMP would publish?"`@`
 ld r,SHU_D2,80
 
 「どっちかというと、次のオンリーかなぁ。@君みたいな受専も手堅い需要があるしねー。@評判が良かったら加筆して夏コミで再販かなぁ。」\
