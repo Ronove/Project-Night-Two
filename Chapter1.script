@@ -1,4 +1,4 @@
-;;Chapter 1
+;Chapter 1
 ;　月の美しい夜だった。@
 `　'It was a beautiful moon that night.'`@
 br
@@ -896,7 +896,7 @@ ld r,SIN_D3,80
 ld c,HIG_w4,22
 
 ;「……という甘言で、獲物たちをどれだけしゃぶり尽くしてきたやら。@くすくすくす。」\
-`"...
+`"...I wonder just how many prey you've gobbled up with sweet talk like that. `@`Teeheehee."`\
 ;＜彼岸花
 
 ld l,ma2_D3a,80
@@ -921,7 +921,8 @@ quakex 2,200
 
 ld r,IZA_D6,80
 
-「よく言ったッ。@おい、紅茶野郎ッ、毬枝の言うこと、よォく耳をかっぽじって聞いとけよ！@　……毬枝、……お前ェ、死んでからだいぶ変わったなァ？@　根性出てきたぞ、気に入った。@……俺ァ、イザナミ。@学校妖怪序列第２位、１３階段の死神たァ、俺のことよ。」\
+;「よく言ったッ。@おい、紅茶野郎ッ、毬枝の言うこと、よォく耳をかっぽじって聞いとけよ！@　……毬枝、……お前ェ、死んでからだいぶ変わったなァ？@　根性出てきたぞ、気に入った。@……俺ァ、イザナミ。@学校妖怪序列第２位、１３階段の死神たァ、俺のことよ。」\
+`"Well said. `@`Hey, tea bastaard, maybe you should clean out your ears and listen to Marie! `@`...Marie... Youu've changed a lot since you've died, haven't you? `@`You've got some balls -- I like you. `@`...I'm Izanami. `@`I'm the Second Rank of the School Youkai. `@`The Reaper of the 13th Floor? That's me."`\
 
 bg black,22
 
@@ -929,7 +930,8 @@ me1v 16,50
 
 bg kaidan_01,22
 
-　１３階段の怪談は、どこの学校でも定番中の定番だ。@イザナミはそれを司る。\
+;　１３階段の怪談は、どこの学校でも定番中の定番だ。@イザナミはそれを司る。\
+`　Every school has their own ghost stories about the thirteenth floor. `@`That was Izanami's realm."`\
 
 bg black,22
 
@@ -1775,3 +1777,4 @@ E_A
 
 bg gakkou_01,2
 bgm1 5
+
