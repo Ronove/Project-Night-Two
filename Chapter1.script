@@ -942,7 +942,8 @@ bg okujou_01y,22
 ld r,HIG_D3,22
 ;ld r,HIG_D1,80
 
-「イザナミは恐ろしい妖怪よ？@　１３階段を踏ませた哀れな獲物を、どこまでも追い詰めて、恐ろしい地獄へ突き落とすの。」@
+;「イザナミは恐ろしい妖怪よ？@　１３階段を踏ませた哀れな獲物を、どこまでも追い詰めて、恐ろしい地獄へ突き落とすの。」@
+`"Izanami is a terrifying youkai, you know? `@`He chases down pitiful prey that step on the 13th floor wherever they go and then he drops them into a terrifying hell."`@
 ;＜彼岸花
 
 ld l,IZA_D4,22
@@ -1015,7 +1016,7 @@ ld r,HIG_D4,24
 ;ld r,HIG_D1,80
 
 ;「紹介するわ。@学校妖怪序列第４位のアザミよ。」\
-`"I'll do the introductions.`@`This is Azami, Fourth-ranked in the School Monster Society."`\
+`"I'll do the introductions.`@`This is Azami, Fourth-ranked in the School Youkai Society."`\
 ;＜彼岸花
 
 cl c,0
@@ -1028,7 +1029,7 @@ mld c,AZA_D1,80
 ld l,SMI_w4,80
 
 ;「私の姉者なのじゃ！！@　姉者は強くて賢くて、麗しくてとても残忍な大妖怪なのじゃ！」\
-`"That's like my sister!`@` Like my strong, smart and heartwarmingly brutal monster of a sister!"`\
+`"That's like my sister!`@` Like my strong, smart and heartwarmingly brutal youkai of a sister!"`\
 ;＜スミレ
 
 mcl c,0
@@ -1040,17 +1041,18 @@ ld r,ma2_D4a,22
 ;ld r,ma2_D1,80
 
 ;「妖怪にも、姉妹がいるんですね。」@
-`"Even monsters have sisters don't they?"`@`
+`"Even youkai have sisters, then?"`@`
 ;＜毬枝
 br
 ;　序列第４位のアザミと、序列第７位のスミレの姉妹。@
-` Azami, the fourth-ranked had Violet, the seventh-ranked as a sister.`@`
+` Azami, the fourth-ranked had Sumire, the seventh-ranked, as a sister.`@`
 ;　学校妖怪の中で、唯一の姉妹だった。\
-` In all the School Monsters, she was the only sister.`\
+` In all the School Youkai, they were the only sisters.`\
 ld l,HIG_w3,23
 ;ld l,HIG_D3,80
 
-「たまにね。@……まぁ、元々私たちは、誰かを親に生んでもらった存在ではない。@家族関係など、あってもなくても同じようなものだけれど。」\
+;「たまにね。@……まぁ、元々私たちは、誰かを親に生んでもらった存在ではない。@家族関係など、あってもなくても同じようなものだけれど。」\
+`"Sometimes. `@`...Well, it's not as if we were ever someone's children from the start. `@`Family ties, having them and not having them, it's all equally meaningless."`\
 ;＜彼岸花
 bg black,24
 bg okujou_02,0
@@ -1069,7 +1071,7 @@ ld l,AZA_D3,80
 ;＜アザミ
 
 ;　妖怪の世界に、仮に家族関係があろうとなかろうと。@二人の関係はちょっと微笑ましいものに思えた。@
-` In the world of monsters, family relationships probabably don't exist temporarily.`@`The relationship between these two was quite heartwarming.`@`
+` In the world of youkai, family ties come and go.`@`The relationship between these two was quite heartwarming.`@`
 br
 ;　その様子を見ている彼岸花が、わずかに寂しそうに口を尖らせているのを、毬枝は見逃さない。\
 ` Marie didn't see Higanbana, who was watching at the situation looked displeased with a sad-looking mouth.`\
@@ -1082,7 +1084,7 @@ ld r,ma2_w1,22
 ld r,ma2_w2,80
 
 ;「……妖怪は、ひとりぼっちかもしれません。」@
-`"...The monsters, they might be lonely."`@`
+`"...It must get lonely being a youkai."`@`
 mld c,HIG_w3,80
 
 ;「何よ。」@
@@ -1106,14 +1108,14 @@ ld l,HIG_d5,24
 `"Stop, please, just stop reading my mind."`@`
 br
 ;　妖力を蓄えた妖怪たちは、相手の心を読み取る力を持つ。@しかし、毬枝にはその力はない。\
-` The monsters, rich in magic power had the ability to read others' minds.`@`However, that power didn't exist with regard to Marie.`\
+` The monsters, rich in magic power had the ability to read others' minds. `@`However, that power didn't exist with regard to Marie.`\
 ld r,ma2_w1,80
 wait 500
 ld l,HIG_w1,80
 cl l,22
 
 ;　でも、わかるのだ。@友人だからこそ。@
-` But she understood`@`only because she was a friend.`@`
+` But she understood `@`only because she was a friend.`@`
 br
 ;　彼岸花は、ぷいっとそっぽを向いてむくれたふりをする。\
 ` Higanbana pretends to look the other way.`\
@@ -1127,10 +1129,10 @@ ld r,AZA_D4,22
 ;＜アザミ
 
 ;　このアザミという人は、何だかいい人のような気がする。@
-` This Azami, somehow he felt like a good person.`@`
+` This Azami, somehow she seemed like a good person.`@`
 br
 ;　魂を糧とする妖怪のひとりなのだから、素直な意味でいい人のわけもないのだが、@少なくとも、理不尽な性格ではなさそうだ。\
-` He was a monster that feasted on souls, so he wasn't gentle person.`@`However, he didn't seem that unreasonable in character.`\
+` She was a monster that feasted on souls, so she wasn't gentle person. `@`However, she didn't seem that unreasonable in character.`\
 mld l,SMI_w3,23
 mld l,SMI_w5,80
 
