@@ -84,7 +84,7 @@ quake 3,300
 `　It's not as though anyone was watching her, `@`but Marie made a racket with her 'Kyaaa kyaaa's. `@`She went back to her old form and focused her spirit... repeating this over and over.`@
 br
 ;　そこまで難しいことではないはずなのだが、@毬枝は元々、妖力が小さいし、その上、コツも掴んでいないので、なかなか思い通りに出来ないのだ。\
-`　It wasn't something that was that hard, `@`but Marie's powers weren't much to begin with. `@`On top of that, since she still hasn't gotten the hang of it, she can't really change when she wants to change.`\
+`　It wasn't something especially difficult to do, `@`but Marie's powers weren't much to begin with. `@`On top of that, since she still hasn't gotten the hang of it, she can't really change when she wants to change.`\
 
 bg black,22
 bg toire_03,0
@@ -142,7 +142,7 @@ br
 `　We'll wait for you, so go ahead and change into some better clothes. `@`Just do as I taught you. `@`You'll be fine, when you get used to it you can do it whenever!`@
 br
 ;　………最初の内は彼岸花も廊下で待っててくれたのだが。@あまりに毬枝の要領が悪いので、とうとう愛想を尽かし、先に行ってるわと行ってしまったのだ。\
-`　...At first Higanbana waited on her in the hall, `@`but Marie wasn't very good at the basics, so eventually she got impatient and said, "Kay, I'm going on ahead~."`\
+`　...At first, Higanbana waited on her in the hall, `@`but Marie wasn't very good at the basics, so eventually she got impatient and said, "Kay, I'm going on ahead~."`\
 
 bg black,22
 mono 0
@@ -158,7 +158,7 @@ ld r,HIG_d5,22
 ;ld r,HIG_D1,80
 
 ;　素敵なドレスとか憧れるけれど、どうせ自分には似合わないに決まってる。@
-`　I might want a pretty dress, but it's obvious it doesn't suit me.`@
+`　I might want a pretty dress, but it's obvious that it wouldn't suit me.`@
 br
 ;　何を着れば似合うかな、何を着れば似合うかな……。@思い付かない。\
 `　What should I change into, what should I change into... `@`I have no idea.`\
@@ -169,7 +169,7 @@ ld l,SMI_w1,22
 ;ld l,SMI_D1,80
 
 ;　……素敵なお洋服とは言わないまでも。@……今日のお月見会に相応しい格好って何だろう。@
-`　...Even if it's not a pretty dress, `@`I wonder what would be best to wear today on the Lunar Festival.`@
+`　...Even if it's not a pretty dress, `@`I wonder what would be best to wear today at the Lunar Festival.`@
 br
 ;　和服なんて着たことないから、イメージできないし……。\
 `　I haven't worn a kimono before, so I can't imagine myself in one...`\
@@ -181,7 +181,7 @@ bg toire_04,22
 `　...Oh yeah. `@`Now that I think of it, since they let me become the last school youkai, this is the first time I'll be greeting them face to face.`@
 br
 ;　てっきり、お月様を見ながらお団子でも食べられるなんて思っていたけれど、とんでもない。@私は学校妖怪の新人で後輩。@粗相がないように気を付けなくちゃ…！\
-`　Even though I had been thinking of eating sweet dumplings while gazing at the lovely moon, that's not what really matters! `@`I'm the new school youkai and they are my seniors. `@`I've gotta be careful not to make any mistakes!...`\
+`　Even though I had been thinking of eating sweet dumplings while gazing at the lovely moon, that's not what really matters! `@`I'm the new school youkai and they are my seniors. `@`I've gotta be careful not to make any mistakes...!`\
 
 bg black,22
 bg toire_03,0
@@ -255,7 +255,7 @@ br
 `　That sea of white flower petals gave off a faint glow, and they were magically beautiful...`@
 br
 ;　その、幻想のような、満開の桜の下で、妖怪たちが大きな車座となって、杯を傾けている。\
-`　Beneath those illusionary fully-bloom sakura, the youkai were sitting in a circle and indulging themselves with glasses of sake.`\ 
+`　Beneath the illusionary fully-bloomed sakura, the youkai were sitting in a circle and indulging themselves with glasses of sake.`\ 
 
 ;　幻想的ではあっても、決して厳か過ぎず。@
 `　It has its majesty, but it's not too extravagant.`@
@@ -263,7 +263,7 @@ br
 `　They were having a banquet, but they're not too noisy.`@
 br
 ;　人の命を奪うことも厭わない妖怪たちが、今夜だけはそれを忘れる、@ささやかな一時が、そこにはあった……。\
-`　Those youkai who had no qualms about stealing people's lives away, leave that behind just for tonight. `@`This was a time for modesty...`\
+`　Those youkai who had no qualms about stealing people's lives away, left that behind just for tonight. `@`This was a time for modesty...`\
 
 ;　みんな、ほろ酔い気分らしく、それぞれのお喋りに夢中で、毬枝の登場に気付いていないようだった。\
 `　It seemed everyone was slightly intoxicated and engrossed in each other's conversations, so they hadn't noticed Marie's entrance.`\
@@ -278,7 +278,7 @@ ld l,HIG_D2,22
 ld l,HIG_d4,80
 
 ;「遅いわよ、毬枝。@って、………なぁに、その格好？」\
-`"You're late Marie. `@`And ...what's with the geddup?"`\
+`"You're late, Marie. `@`And ...what's with the geddup?"`\
 ;cl c,0
 ;ld l,HIG_D2,0
 ld r,ma2_n1,24
@@ -288,7 +288,7 @@ ld r,ma2_n1,24
 `"I- I'm sorry!! `@`No matter how much I tried, nothing worked! `@`Please just let me go like thiiiiis!"`@
 br
 ;　１時間以上も挑戦して、毬枝がようやく成功したその服装は、…………中学か高校の制服っぽく見えた。\
-`　The outfit that Marie had finally succeeded after trying for more than an hour... looked just like a middle school or high school uniform.`\
+`　The outfit that Marie had finally succeeded in conjuring up after trying for over an hour... looked just like a middle school or high school uniform.`\
 
 bg black,24
 bg okujou_02,24
@@ -312,13 +312,13 @@ mld l,ma2_D4a,23
 ;mld l,ma2_i1a,80
 
 ;「え？！@　ほ、保健室の先生ですよね？！@　どうしてここに？！」\
-`"Wha?! `@`Y- You're the school nurse right?! `@`Why are you here?!"`\
+`"Wha?! `@`Y- You're the school nurse, right?! `@`Why are you here?!"`\
 ;＜毬枝
 
 ld r,HOK_D4,80
 
 ;「まーまー、硬いこと言わないのー。@いーじゃない、私が混じっても。@お酒もお月見も大好きなんだからー！」\
-`"Hey hey, don't say such rash things. `@`Isn't it alright if I mingle a bit? `@`I love sake and gazing at the moon after all!-"`\
+`"Hey hey, don't say such rash things. `@`Isn't it alright if I mingle a bit? `@`I love sake and gazing at the moon, after all!-"`\
 ;＜保健
 
 mcl l,0
@@ -328,7 +328,7 @@ ld r,HIG_D5,23
 ld r,HIG_w3,80
 
 ;「ふぅん。@……なるほど。@あなたのお姉さんが通っていた高校の制服、なのね。」@
-`"Oooh. `@`...I get it. `@`That's the uniform your sister went to school with, am I right?"`@
+`"Oooh. `@`...I get it. `@`That's the uniform your sister went to school in, am I right?"`@
 ;＜彼岸花
 br
 ;　彼岸花が毬枝の心を読み、口にする。@
@@ -340,10 +340,10 @@ bg black,22
 mld c,ma2_D4a,22
 
 ;　毬枝のその服は、地元の県立高校の制服をイメージしたものだ。@
-`　Her clothes were based on the local prefectoral high school's uniforms.`@
+`　Her clothes were based on the local prefectoral high school's uniform.`@
 br
 ;　本物とは少し細部が違うかもしれないが、@……姉が着ていて、自分もいつか着たいと憧れ、夢見ていた服装そのものなのだ。\
-`　Although it might have some minor differences, `@`...that outfit was something her sister had worn, and at some point Marie wanted it and dreamed of wearing it.`\
+`　Although it might have some minor differences, `@`...that outfit was something her sister had worn, and at some point Marie had wanted it and dreamed of wearing it.`\
 
 ;bg black,22
 bg okujou_01y,0
@@ -376,7 +376,7 @@ mld c,ma2_D4a,80
 ld r,HIG_D2,80
 
 ;「死んでしまった今となっては。@高校生になるなんて、叶わぬ夢だもんねぇ。@くすくすくす。@………良かったじゃない。@憧れの制服を着ることが出来て。@くすくすくすくすくす……。」@
-`"Well since you're dead now, `@`you can't really have your dream of being a high schooler granted, can you? `@`*giggle*giggle* `@`...But isn't it nice? `@`Being able to wear that outfit you've dreamed of, that is. `@`Teeheeheeheehee..."`@
+`"Well since you're dead now, `@`you can't really have your dream of being a high schooler granted, can you? `@`*giggle giggle* `@`...But isn't it nice? `@`Being able to wear that outfit you've dreamed of, that is. `@`Teeheeheeheehee..."`@
 
 mld c,ma2_D3a,80
 
@@ -386,7 +386,7 @@ mld c,ma2_D3a,80
 ld r,HIG_w3,80
 
 ;「おかしいわけないでしょ。@月を愛でる素敵な夜に、自分が着たかった一番の服を着て参加する。@……素敵じゃない。」@
-`"It's not strange. `@`Being able to wear the clothes you've always wanted on this night when we can admire the moon. `@`...It's lovely, isn't it?"`@
+`"It's not strange. `@`Being able to wear the clothes you've always wanted on this night when we can admire the moon...`@` It's lovely, isn't it?"`@
 ;＜彼岸花
 br
 ;　そう言って、彼岸花はくるりと回ってみせる。\
@@ -441,7 +441,7 @@ bg black,22
 ;　ちょっとドキドキもするけれど、……仮にも自分も学校妖怪の一員、しっかりご挨拶しなきゃ。@
 `　It made her a bit nervous, but ...for that moment, as she too was a member of the School Youkai, she had to toughen up and greet them.`@`
 ;　宴席のルールに疎い毬枝でも、こういうものは上席者からご挨拶すべきと想像は出来る。@
-`　Even Marie, who was unfamiliar with the rules of the banquet, could guess that at a thing like this she would need to address the senior members.`@`
+`　Even Marie, who was unfamiliar with the rules of the banquet, could guess that at an event like this, she would need to address the senior members.`@`
 br
 ;　毬枝は彼岸花に連れられ、まずは学校妖怪序列第１位、校長先生のところへ。\
 `　Marie let Higanbana lead her to the first seat of the School Youkai, the school's headmaster.`\
@@ -451,10 +451,10 @@ bg okujou_01y,22
 ;　校長先生は学校妖怪たちの長。@
 `　The headmaster was the head of all the School Youkai.`@`
 ;　“存在”どころか、“存在したことさえ”全て消し去ってしまう力を持つ、最大最強の大妖怪なのだ。@
-`　He had the power to completely erase that one "exists," or even "had ever existed." He was the greatest, strongest, and most important Youkai around.`@`
+`　He had the power to completely erase the fact that one "exists," or even "had ever existed." He was the greatest, strongest, and most important Youkai around.`@`
 br
 ;　そして、その校長先生と一緒に上機嫌に杯を傾けあっているのは、何と保健の先生だ。\
-`　And along with the headmaster, tipping back cups of wine, was that School Nurse.`\
+`　And along with the headmaster, tipping back cups of wine, was the School Nurse.`\
 
 ld l,HOK_D3,22
 ;ld l,HOK_D1,80
@@ -474,13 +474,13 @@ bg black,22
 bg Air_03,22
 
 ;「いいのよ、いっそ、飲んでちょうだいよー！@　ったく。@あんた、学校妖怪の長でしょ？@　リーダーでしょー？！@　私に少しは素敵な男を紹介しなさいよー！@　うぃー！@　舐めんな※※～！！@　何が夢を諦めきれねぇだー！@　いい歳こいて、女を振る口実に夢とか語ってんじゃねー！！@　がおおおーー！！！@/
-`"It's fine, now hurry up and drink~!`@` Ugh.`@` You're the head of the School Youkai, aren't you?`@` You're the leader, right~?!`@` Introduce me to a nice guy or something~!`@` Hey~!`@` Don't take me lightly,  ***~!!`@` The hell do you mean, 'give up on that dream~!'`@` Don't gimme those excuses about how after a certain age you can jilt a girl~!!`@` Gaaoooooo~~!!!`@`/
+`"It's fine, now hurry up and drink~!`@` Ugh.`@` You're the head of the School Youkai, aren't you?`@` You're the leader, right~?!`@` Introduce me to a nice guy or something~!`@` Hey~!`@` Don't take me lightly, ****~!!`@` The hell do you mean, 'give up on that dream~!'`@` Don't gimme those excuses about how after a certain age you can jilt a girl~!!`@` Gaaoooooo~~!!!`@`/
 
 se1 47
 quakex 1,100
 
 ;　ねぇほら！@　紹介しなさいよ、いい男！@　この際、人間でなくてもいいからー！！@　行き遅れとか嫌ぁああぁあッ、うわぁああぁあああん！！」\
-`　Hey, you!`@` Get me a good man!`@` I don't even care if he's a human or not anymore~!!`@` I don't want it to be too late for me to marryyyyYyYyYYYyy, UwaaAAaAAA!!"`\
+` Hey, you!`@` Get me a good man!`@` I don't even care if he's a human or not anymore~!!`@` I don't want it to be too late for me to marryyyyYyYyYYYyy, UwaaAAaAAA!!"`\
 
 bg black,22
 bg okujou_01y,22
@@ -499,7 +499,7 @@ ld c,HIG_w3,22
 ld c,HIG_D3,80
 
 ;「人は泥酔すると、波長が人ならざる世に近付くのよ。@……まぁ、見ての通りのザマだし。@明日の朝には何の記憶も残ってないでしょうから、気にしなくていいんじゃない？@　さっきまで、延々と失恋話を語ってくれて、みんな大盛り上がりだったんだから。@くすくす。」\
-`"When humans are dead drunk, their wavelengths draw close to the non-human world.`@` ...Well, you can see for yourself what happens.`@` She probably won't remember anything come tomorrow morning, so we don't need to worry.`@` She's been rambling on and on about her broken heart until just a bit ago, so everyone else has had a big helping too.`@` Teehee."`\
+`"When humans are dead drunk, their wavelengths draw close to the non-human world.`@` ...Well, you can see for yourself what happens.`@` She probably won't remember anything come tomorrow morning, so we don't need to worry.`@` She's been rambling on and on about her broken heart until just a little while ago, so everyone else has had a big helping too.`@` Teehee."`\
 
 ;　……まぁ、よくわからないけれど、楽しくやっているようだし、そっとしておくことにしよう。\
 `　...Well, I don't quite understand, but it looks like they're having fun, so I decided to let them be.`\
@@ -523,7 +523,7 @@ mld c,ma2_D2a,22
 mld c,ma2_D4a,80
 
 ;「きょ、今日は遅刻してすみません。@いつもお世話になっております、めそめその毬枝です。」\
-`"I, I'm sorry I was late today.`@` I'm always in your debt. I am Weeping Marie."`\
+`"I, I'm sorry I was late today.`@` I'm always in your debt. I am Mesomeso Marie."`\
 
 ld l,KOU_D4,80
 
@@ -537,12 +537,12 @@ mld c,ma2_w2,80
 ld r,HIG_D4,80
 
 ;「くすくすくすくす。@毬枝ったら、自分の狩りはろくろくしないくせに、@最近は人の狩りの邪魔ばかりしているのよ？」\
-`"Teeheeheehee.`@` Silly Marie. You know that even though she hasn't been hunting at all lately, `@` she's been doing nothing but get in the way of other people's hunts?"`\
+`"Teeheeheehee.`@` Silly Marie. You know that even though she hasn't been hunting at all lately, `@` she's been doing nothing but getting in the way of other people's hunts?"`\
 
 ld l,KOU_D1,80
 
 ;「ほっほっほっほ。@狩りをするも自由、しないも自由。@誰かの邪魔をするのもまた自由。@如何なる者にも縛られぬことのみが、我ら学校妖怪の不文律。@……妖怪など、なろうと思ってもなかなかなれぬもの。@こうして学校妖怪に名を連ねることが出来たのも、何かの運命だ。@その運命、とことんまで翻弄されてみるも一興というもの。」\
-`"Hohohoho.`@` You're free to hunt or not to hunt.`@` You're also free to get in the way of others' hunting.`@` It is an unwritten law of the School Youkai that we shall be bound by nothing.`@` ...Even if think about becoming a Youkai, it's not easy to do so.`@` The fact that you were able to make a name for yourself in the School Youkai must be some form of destiny.`@` It must have been amusing to trifle with fate so thoroughly."`\
+`"Hohohoho.`@` You're free to hunt or not to hunt.`@` You're also free to get in the way of others' hunting.`@` It is an unwritten law of the School Youkai that we shall be bound by nothing.`@` ...Even if you think about becoming a Youkai, it's not easy to do so.`@` The fact that you were able to make a name for yourself in the School Youkai must be some form of destiny.`@` It must have been amusing to trifle with fate so thoroughly."`\
 
 mcl c,0
 cl l,0
@@ -574,7 +574,7 @@ ld l,HIG_D5,22
 ;ld l,HIG_D5,80
 
 ;「なぁんて、凛々しいことをたまに言い出すわけだわ。@今度、私の狩りの邪魔をしたら、容赦なく八つ裂きなんだからね？」\
-`"Ohh, now you're starting to say such dignified things.`@` Next time you get in the way of my hunt, I'll tear you relentlessly apart, limb from limb, okay?"`\
+`"Ohh, now you're starting to say such dignified things.`@` Next time you get in the way of my hunt, I'll tear you apart relentlessly, limb from limb, okay?"`\
 
 mld c,ma2_i3a,80
 
@@ -664,7 +664,7 @@ bg gakkou_07y,22
 ;　かつて、新校舎などなかった大昔。@
 `　Once, long before there was anything like the new school building.`@`
 ;　学校はこの旧校舎だけだった。@
-`　School was only in this building.`@`
+`　School only took place in this building.`@`
 ;　だからこの旧校舎には大勢の生徒が溢れ、……その生徒たちの中で、自然に七不思議が生まれたはずなのだ。@
 `　That was why this old building was overflowing with students, ...and amongst those students, naturally, those Seven School Mysteries should have come about.`@`
 br
@@ -680,7 +680,7 @@ bg gakkou_01y,22
 `　Even though the former school building is feared as some ghastly place.`@`
 br
 ;　かつて、そこにも学校という社会があり、その中にも七不思議があったことを知る生徒など、@………埃の積もった卒業アルバムに記された、大昔の卒業生たちしか知るまい。\
-`　At one point, there was a school community, and within it, students who knew of the Seven Mysteries,`@` ...But now they are only remembered in the graduation albums coated in dusts and the graduates of long ago.`\
+`　At one point, there was a school community, and within it were students who knew of the Seven Mysteries,`@` ...But now they are only remembered in the graduation albums coated in dust and the graduates of long ago.`\
 
 bg black,22
 
@@ -708,7 +708,7 @@ ld l,KOU_D2,23
 ld l,KOU_D4,80
 
 ;「忘れられることが、我々、学校妖怪の寿命とも呼べるかもしれんね。@死を超越した我らとて、そのような形での寿命からは逃れられぬとは面白いものよの。@ほっほっほ……。」\
-`"You might say that being forgotten can be called the same as a lifespan for us School Youkai.`@` That we who have transcended death cannot escape a form such as that is quite interesting.`@` Hohoho..."`\
+`"You might say that the time we're remembered for, is the same as a lifespan for us School Youkai.`@` That we who have transcended death cannot escape a form such as that is quite interesting.`@` Hohoho..."`\
 ;＜校長
 
 cl r,22
@@ -717,7 +717,7 @@ ld r,HOK_D2,80
 
 
 ;「……そんな、妖怪たちの死に絶えた旧校舎に。@あなたは久々に住み付いた妖怪なのよ。@だから。@誰もいなくなって寂しかった旧校舎は、きっと、久し振りの客人であるあなたを歓迎していると思うわ。」@
-`"...You are the first Youkai in so long.`@` To settle in that old school building, where all those Youkai died out.`@` That's why,`@`  I think that lonely old school building with no one around must surely be welcoming the company of a guest after so long."`@`
+`"...You are the first Youkai in so long to settle into that old school building where all those Youkai died out.`@` That's why I think that the lonely and abandoned old school building must surely be welcoming the company of a guest after so long."`@
 ;＜保健
 
 mld c,ma2_D4a,22
@@ -741,7 +741,7 @@ br
 
 br
 ;　そこに、めそめそさんという新しい妖怪が住み付いたことを、……旧校舎は歓迎してくれるだろうか。\
-`　I wonder...if the old school building would welcome the new Youkai, Mesomeso-san, who settled within it.
+`　I wonder...if the old school building would welcome the new Youkai, Mesomeso-san, who settled within it.`\
 
 
 bg black,22
@@ -773,7 +773,7 @@ ld r,KOU_D1,22
 bg black,22
 
 ;　校長先生にご挨拶を終え、次に向かう。@
-`　She finished greeting the headmaster and went moved to the next one.`@`
+`　She finished greeting the headmaster and went over to the next youkai.`@`
 br
 ;　序列第１位の次は、序列第２位。\
 `　The next rank from the first was the second ranked.`\
