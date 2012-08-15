@@ -103,7 +103,7 @@ bg black,22
 `　Tonight is the Lunar Festival for the school youkai.`@
 br
 ;　普段、ギスギスすることが多い学校妖怪たちも、今夜ばかりは休戦。@仲良くお酒を酌み交わすという、和やかな行事なのだ。\
-`　Only for tonight, even the school youkai that often have conflicts with each other hold truces. `@`It's a harmoneous event where they mingle and drink together.`\
+`　Only for tonight, even the school youkai that often have conflicts with each other hold truces. `@`It's a harmonious event where they mingle and drink together.`\
 
 bg toire_06,22
 
@@ -258,12 +258,12 @@ br
 `　Beneath those illusionary fully-bloom sakura, the youkai were sitting in a circle and indulging themselves with glasses of sake.`\ 
 
 ;　幻想的ではあっても、決して厳か過ぎず。@
-`　It has its majesty, but it's not too extravagent.`@
+`　It has its majesty, but it's not too extravagant.`@
 ;　宴席ではあっても、決して騒ぎ過ぎず。@
 `　They were having a banquet, but they're not too noisy.`@
 br
 ;　人の命を奪うことも厭わない妖怪たちが、今夜だけはそれを忘れる、@ささやかな一時が、そこにはあった……。\
-`　Those youkai who had no quams about stealing people's lives away, leave that behind just for tonight. `@`This was a time for modesty...`\
+`　Those youkai who had no qualms about stealing people's lives away, leave that behind just for tonight. `@`This was a time for modesty...`\
 
 ;　みんな、ほろ酔い気分らしく、それぞれのお喋りに夢中で、毬枝の登場に気付いていないようだった。\
 `　It seemed everyone was slightly intoxicated and engrossed in each other's conversations, so they hadn't noticed Marie's entrance.`\
@@ -376,7 +376,7 @@ mld c,ma2_D4a,80
 ld r,HIG_D2,80
 
 ;「死んでしまった今となっては。@高校生になるなんて、叶わぬ夢だもんねぇ。@くすくすくす。@………良かったじゃない。@憧れの制服を着ることが出来て。@くすくすくすくすくす……。」@
-`"Well since you're dead now, `@`you can't really have your dream of being a high schooler granted, can you? `@`*giggle*giggle* `@`...But isn't it nice? `@`Being able to wear that oufit you've dreamed of, that is. `@`Teeheeheeheehee..."`@
+`"Well since you're dead now, `@`you can't really have your dream of being a high schooler granted, can you? `@`*giggle*giggle* `@`...But isn't it nice? `@`Being able to wear that outfit you've dreamed of, that is. `@`Teeheeheeheehee..."`@
 
 mld c,ma2_D3a,80
 
@@ -493,7 +493,7 @@ bg okujou_01y,22
 `　Indeed, there was no better drinking partner than the headmaster for a drunkard like her.`@`
 br
 ;　それにしても……、何で人間のはずの先生が、妖怪たちの宴席に？\
-`　Nevertherless...why was a teacher who was supposedly human here at the Youkai's banquet?`\
+`　Nevertheless...why was a teacher who was supposedly human here at the Youkai's banquet?`\
 
 ld c,HIG_w3,22
 ld c,HIG_D3,80
@@ -604,7 +604,7 @@ ld r,Hok_D4,24
 ld r,Hok_D1,80
 
 ;「……そうそう。@めそめそさんって、旧校舎の女子トイレの怪談だったわよねぇ？」@
-`"...Yeah, yeah.`@` MesoMeso-san's that ghost story about the girl's bathroom in the old school building, right?"`@`
+`"...Yeah, yeah.`@` Mesomeso-san's that ghost story about the girl's bathroom in the old school building, right?"`@`
 ;＜保健
 
 ld l,ma2_D4,23
@@ -675,7 +675,7 @@ bg black,22
 bg gakkou_01y,22
 
 ;　めそめそさんという例外を除けば、全ての怪談は皆、新校舎かその周辺を指すものだ。@
-`　With the exception of MesoMeso-san, all of these ghost stories take place within either the new school building or the area around it.`@`
+`　With the exception of Mesomeso-san, all of these ghost stories take place within either the new school building or the area around it.`@`
 ;　旧校舎は、不気味な場所として恐れられてはいるけれど。@
 `　Even though the former school building is feared as some ghastly place.`@`
 br
@@ -717,7 +717,7 @@ ld r,HOK_D2,80
 
 
 ;「……そんな、妖怪たちの死に絶えた旧校舎に。@あなたは久々に住み付いた妖怪なのよ。@だから。@誰もいなくなって寂しかった旧校舎は、きっと、久し振りの客人であるあなたを歓迎していると思うわ。」@
-`"...You are the first Youkai in so long.`@` To settle in that old school building, where all those Youkai died out.`@` That's why,`@`  I think that lonely old school building with noone around must surely be welcoming the company of a guest after so long."`@`
+`"...You are the first Youkai in so long.`@` To settle in that old school building, where all those Youkai died out.`@` That's why,`@`  I think that lonely old school building with no one around must surely be welcoming the company of a guest after so long."`@`
 ;＜保健
 
 mld c,ma2_D4a,22
@@ -741,7 +741,7 @@ br
 
 br
 ;　そこに、めそめそさんという新しい妖怪が住み付いたことを、……旧校舎は歓迎してくれるだろうか。\
-`　I wonder...if the old school building would welcome the new Youkai, MesoMeso-san, who settled within it.
+`　I wonder...if the old school building would welcome the new Youkai, Mesomeso-san, who settled within it.
 
 
 bg black,22
@@ -810,7 +810,7 @@ ld r,IZA_D7,26
 quakey 2,200
 
 ;「おいッ、めそめその毬枝ッ！！@　テメェ、ちょっとこっち来い！！」\
-`"Hey, MesoMeso Marie!!`@` Get your ass over here!!"`\
+`"Hey, Mesomeso Marie!!`@` Get your ass over here!!"`\
 
 ;　大柄の男は非常に不機嫌そうだ。@毬枝はすぐに失言を直感する。@
 `　The huge man seemed excessively displeased.`@` Marie instantly realized her slip-up.`@`
@@ -950,7 +950,7 @@ ld l,IZA_D4,22
 ld l,IZA_D5,80
 
 ;「はッ、お前ェの狩りも大概だろーが！」\
-`"Ah, it's probably becuase of your hunting!"`\
+`"Ah, it's probably because of your hunting!"`\
 cl r,0
 cl l,0
 ld c,IZA_D1,23
@@ -961,7 +961,7 @@ ld r,ma2_D3a,24
 ld r,ma2_D4a,80
 
 ;「ど、どうも……。@めそめその毬枝です。@よろしくお願いします。」@
-`"H-Hi...`@`I'm MesoMeso Marie.`@`Pleased to meet you."`@`
+`"H-Hi...`@`I'm Mesomeso Marie.`@`Pleased to meet you."`@`
 ld c,IZA_D2,80
 
 ;「おう。@お互い、バケモンだ。@せいぜいクソガキどもを、ガンガン地獄に突き落としてやろうぜッ。」\
@@ -987,7 +987,7 @@ ld l,HIG_D1,22
 ld l,HIG_w3,80
 
 ;　よろしくお願いします、こちらこそ、と白々しく二人で挨拶する。\
-` "Pleased to meet you!" "Likewise, pleased to meet you too". The two greeted one another with feigned ignoracne.`\
+` "Pleased to meet you!" "Likewise, pleased to meet you too". The two greeted one another with feigned ignorance.`\
 bg black,2
 bg okujou_01y,22
 
@@ -1023,7 +1023,7 @@ cl c,0
 mld c,AZA_D1,80
 
 ;「アザミと申します。@どうぞお見知りおきを……。」@
-`"I'm Azami.`@` Pleased to make your accquaintance..."`@`
+`"I'm Azami.`@` Pleased to make your acquaintance..."`@`
 ;＜アザミ
 
 ld l,SMI_w4,80
@@ -1253,7 +1253,7 @@ cl c,0
 mld c,KYO_D1,80
 
 ;「俺様は序列第５位の、鏡のキョウ。@……鏡の世界の境を司る番人よ。」\
-`"I'm the fifth-ranked, Kyou of mirrors.`@`....I'm the keeper of the boudaries of the world of mirrors."`\
+`"I'm the fifth-ranked, Kyou of mirrors.`@`....I'm the keeper of the boundaries of the world of mirrors."`\
 ;＜キョウ
 
 mcl c,0
@@ -1433,13 +1433,13 @@ br
 ` ...I feel like I heard that earlier from the Health Teacher.`@`
 br
 ;　忘れ去られた旧校舎には、今は誰も住まわない。@……そんな旧校舎に私が住み着いて、きっと旧校舎も喜んでいるだろう、って話……。\
-` 'The old school bulding is now forgotten.`@`...If I settled in that old school building, surely they'd be happy' she said...`\
+` 'The old school building is now forgotten.`@`...If I settled in that old school building, surely they'd be happy' she said...`\
 bg okujou_04,0
 ld c,HIG_w2,22
 ld c,HIG_w1,80
 
 ;「……だから、旧校舎はあなたを招いたのよ。@………そして、最高の黄泉桜の花で作った雫を、あなたに振舞いたかったに違いない。」\
-`"That's why the old school bulding invited you.`@`...And the droplets of the greates cherry blossom surely wanted to bloom inside of you."`\
+`"That's why the old school building invited you.`@`...And the droplets of the greatest cherry blossom surely wanted to bloom inside of you."`\
 ;＜彼岸花
 
 　確かに、………それはこの世ならぬ、絶品の味。@
@@ -1447,7 +1447,7 @@ br
 ;　毬枝の全身を、温かな、じんわりとする心地良さが、やさしくやさしく染み渡るのだ。\
 ` A warm comfort gradually, gently spread through the whole of Marie's body.`\
 ;　降り積もる桜の花びらに、柔らかく埋もれ、……羽根布団の中で眠りに落ちていくかのような心地よさ……。@
-` A compfort as if to make her gently fell into sleep among the fallen cherry blossom petals...`@`
+` A comfort as if to make her gently fell into sleep among the fallen cherry blossom petals...`@`
 br
 　それは、生まれて初めて、そしてもちろん、死んで初めて味わう、極上の悦楽だった……。\
 
@@ -1513,7 +1513,7 @@ ld l,MAR_D4a,80
 ;「……ふぁ……、彼岸花さん…………。@……あれ？@　…………………。」\
 `"...Ah... Higanbana-san.....`@`...what?`@`......."`\
 ;　いつの間にか、夜が明け始めている。@
-` Without realising it, the night was changing to dawn.`@`
+` Without realizing it, the night was changing to dawn.`@`
 ;　黄泉の桜もなくなり、宴席は影も形もなくなっている。@
 ` The flowers of the underworld disappeared, as did the shadows and form of the banquet.`@`
 br
@@ -1542,7 +1542,7 @@ se1 48
 quakey 1,100
 
 ;　彼岸花は、あんたまだ寝惚けてんの？　と言って、@毬枝の頭を、調子の悪いラジオのように叩く。\
-`Higanbana aksed "Are you still half-asleep?" and hit Marie's head like one would a malfunctioning radio.`\
+`Higanbana asked "Are you still half-asleep?" and hit Marie's head like one would a malfunctioning radio.`\
 ld c,HIG_D10,80
 
 bgm1 8
@@ -1580,7 +1580,7 @@ ld l,HIG_d10,22
 ;ld l,HIG_D1,80
 
 ;「何を言ってんの。@新校舎の屋上に決まってるでしょう？@　あんたまさか、ここだと勘違いして、ずっとひとりでここで待ってたわけ？！」@
-`"What are you talking about?`@`We decided upon the roof of the new school bulding.`@` Wait, it couldn't be...you confused the locations and waited here all by yourself?!"`@`
+`"What are you talking about?`@`We decided upon the roof of the new school building.`@` Wait, it couldn't be...you confused the locations and waited here all by yourself?!"`@`
 ld r,MAR_D4a,24
 ;ld r,MAR_D1,80
 
