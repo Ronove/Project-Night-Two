@@ -857,7 +857,7 @@ quakex 2,200
 ld l,SIN_D2,80
 
 ;「それが出来るほどたくましい子なら良いですが。@それが出来ぬ、か弱き子たちにも救いが必要なのではありませんか？」\
-`"That is well and good for those strong-willed and resolute children.`@` But don't you think those frail children who cannot require salvation as well?"`\
+`"That is all well and good for strong-willed and resolute children.`@` But don't you think frail children require salvation as well?"`\
 
 ld c,IZA_D5,80
 
@@ -868,7 +868,7 @@ se1v 12,30
 quakey 2,200
 
 ;ガキの分際で夢だァ？@　百年早ぇってんだッ。」\
-`You think those little punks have a place in dreams?`@` They've got a long-ass way to go."`\
+` You think those little punks have a place in dreams?`@` They've got a long-ass way to go."`\
 bg black,24
 bg okujou_01y,24
 ld r,SIN_D1,22
@@ -889,7 +889,7 @@ ld l,ma2_D4a,23
 ld r,SIN_D3,80
 
 ;「人は生きるために、時には夢を見ることも大切とは思いませんか？@　……夢さえ見なくなったら、人に生きる意味などあるのですか？」@
-`"In order to live, don't you think it is important to dream occasionally?`@` ...If a person could not even dream, is there any reason to their life?"`@`
+`"In order to live, don't you think it is important to dream occasionally?`@` ...If a person could not even dream, is there any reason for their life?"`@`
 ;＜紅茶
 
 ;ld c,HIG_D5,23
@@ -922,7 +922,7 @@ quakex 2,200
 ld r,IZA_D6,80
 
 ;「よく言ったッ。@おい、紅茶野郎ッ、毬枝の言うこと、よォく耳をかっぽじって聞いとけよ！@　……毬枝、……お前ェ、死んでからだいぶ変わったなァ？@　根性出てきたぞ、気に入った。@……俺ァ、イザナミ。@学校妖怪序列第２位、１３階段の死神たァ、俺のことよ。」\
-`"Well said. `@`Hey, tea bastaard, maybe you should clean out your ears and listen to Marie! `@`...Marie... Youu've changed a lot since you've died, haven't you? `@`You've got some balls -- I like you. `@`...I'm Izanami. `@`I'm the Second Rank of the School Youkai. `@`The Reaper of the 13th Floor? That's me."`\
+`"Well said. `@`Hey, tea bastaard, maybe you should clean out your ears and listen to Marie! `@`...Marie... Youu've changed a lot since you died, haven't you? `@`You've got some balls -- I like you. `@`...I'm Izanami. `@`I'm the Second Rank of the School Youkai. `@`The Reaper of the 13th Floor? That's me."`\
 
 bg black,22
 
@@ -931,7 +931,7 @@ me1v 16,50
 bg kaidan_01,22
 
 ;　１３階段の怪談は、どこの学校でも定番中の定番だ。@イザナミはそれを司る。\
-`　Every school has their own ghost stories about the thirteenth floor. `@`That was Izanami's realm."`\
+`　Every school has their own ghost stories about the 13th floor. `@`That was Izanami's realm."`\
 
 bg black,22
 
@@ -961,11 +961,11 @@ ld r,ma2_D3a,24
 ld r,ma2_D4a,80
 
 ;「ど、どうも……。@めそめその毬枝です。@よろしくお願いします。」@
-`"H-Hi...`@`I'm Mesomeso Marie.`@`Pleased to meet you."`@`
+`"H-Hi...`@`I'm Mesomeso Marie.`@` Pleased to meet you."`@`
 ld c,IZA_D2,80
 
 ;「おう。@お互い、バケモンだ。@せいぜいクソガキどもを、ガンガン地獄に突き落としてやろうぜッ。」\
-`"Oh.`@`Like the rest, I'm a monster.`@`I guess I can push you down to the depths of hell, you little brat."`\
+`"Oh.`@` Like the rest, I'm a monster.`@` I guess I can push you down to the depths of hell, you little brat."`\
 
 ld r,ma2_d2a,80
 
@@ -977,7 +977,7 @@ wait 1000
 bg okujou_02,22
 
 ;　序列第２位の次は第３位。@それは彼岸花のことだ。@
-` Next to the second-ranked was the third-ranked.`@`That was Higanbana.`@`
+` Next to the second-ranked was the third-ranked.`@` That was Higanbana.`@`
 br
 
 ld r,ma2_D1,24
@@ -992,31 +992,31 @@ bg black,2
 bg okujou_01y,22
 
 ;　次は、序列第４位。@……これも会ったことはない。@初対面だ。@
-`Next was the fourth in rank.`@`...This one she hadn't met before.`@`It was her first time meeting this one.`@`
+`Next was the fourth in rank.`@` ...This one she hadn't met before.`@` It was her first time meeting this one.`@`
 br
 ;　案内される先には、着物姿のスミレと並んで酒を酌み交わす、同じく着物姿の女性の姿があった。\
-` The guide from earlier, Violet was standing, drinking rice wine with the others in the same, kimono-clad appearance.`\
+` The guide from earlier, Sumire was standing, drinking rice wine with the others in the same, kimono-clad appearance.`\
 ld l,SMI_w1,23
 ld l,SMI_w3,80
 se1 47
 quakey 1,100
 
 ;「おぉ、毬枝なのじゃ！@　珍妙な服を着ておるわ！@　まるっきり似合わないのじゃ！」@
-`"Ah, if it isn't Marie!`@`Oh, you're still wearing those queer clothes!`@`They really don't suit you at all!"`@`
+`"Ah, if it isn't Marie!`@` Oh, you're still wearing those queer clothes!`@` They really don't suit you at all!"`@`
 ;＜スミレ
 
 ld c,AZA_D4,22
 ld c,AZA_D2,80
 
 ;「そんなことはありませんよ。@とても良く似合っています……。@どうぞ、こちらへ。@毬枝さん。」\
-`"No, that's not the case at all.`@`They suit you really well...`@`Please, this way,`@`Marie-san."`\
+`"No, that's not the case at all.`@` They suit you really well...`@` Please, this way,`@` Marie-san."`\
 ;＜アザミ
 
 ld r,HIG_D4,24
 ;ld r,HIG_D1,80
 
 ;「紹介するわ。@学校妖怪序列第４位のアザミよ。」\
-`"I'll do the introductions.`@`This is Azami, Fourth-ranked in the School Youkai Society."`\
+`"I'll do the introductions.`@` This is Azami, Fourth-ranked in the School Youkai Society."`\
 ;＜彼岸花
 
 cl c,0
@@ -1045,7 +1045,7 @@ ld r,ma2_D4a,22
 ;＜毬枝
 br
 ;　序列第４位のアザミと、序列第７位のスミレの姉妹。@
-` Azami, the fourth-ranked had Sumire, the seventh-ranked, as a sister.`@`
+` Azami, the fourth-ranked, had Sumire, the seventh-ranked, as a sister.`@`
 ;　学校妖怪の中で、唯一の姉妹だった。\
 ` In all the School Youkai, they were the only sisters.`\
 ld l,HIG_w3,23
