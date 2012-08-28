@@ -1,5 +1,6 @@
 ;Chapter 2
-「はあッ、はぁッ、はぁッ、はあッ！！」\
+;「はあッ、はぁッ、はぁッ、はあッ！！」\
+`"Haa, haa, haa, hAAA!!"`\
 
 bgm1 12
 
@@ -17,69 +18,95 @@ bg rouka_01,25
 se1v 13,50
 quakey 2,200
 
-　心臓を吐き出しそうなほどに、少女は呼吸を荒げている。@
-　そして、廊下の途中で床にへたり込んだ。\
+;　心臓を吐き出しそうなほどに、少女は呼吸を荒げている。@
+`　The girl was breathing so hard it seemed she was going to vomit her heart out her throat.`@
+;　そして、廊下の途中で床にへたり込んだ。\
+`　And then she sunk to the floor midway through the hall.`\
 
-　全身は汗でびっしょり。@足はこわばり、痙攣していた。@
+;　全身は汗でびっしょり。@足はこわばり、痙攣していた。@
+`　Her entire body was drenched in sweat. `@`Her legs stiffened, cramped.`@
 br
-　無理もない。@少女は校舎の中を、１時間も走り回っていたのだから。\
+;　無理もない。@少女は校舎の中を、１時間も走り回っていたのだから。\
+`　They hadn't been wasted. `@`After all, she had been running around the inside of the school for a full hour.`\
 
 bg black,23
 bg rouka_03,23
 
-　教室の時計はもうじき、０時を指そうとしている。@
-　しかし、窓の外は夕闇。@
+;　教室の時計はもうじき、０時を指そうとしている。@
+`　The classroom clock seemed about ready to strike twelve o'clock.`@
+;　しかし、窓の外は夕闇。@
+`　However, outside the window it was twilight.`@
 br
-　昼の０時のわけも、夜の０時のわけもない。\
+;　昼の０時のわけも、夜の０時のわけもない。\
+`　It wasn't twelve o'clock in the day, nor twelve o'clock at night.`\
 
 
-　そして不思議なことに、……学校の中には少女の他に、誰の気配も感じられなかった。@
+;　そして不思議なことに、……学校の中には少女の他に、誰の気配も感じられなかった。@
+`　And mysteriously... aside from the girl, no one else appears to be in this school.`@
 br
-　夕闇の、誰の人影もない校舎の中でずっと、……少女は１時間も走り回っていたのだ。\
+;　夕闇の、誰の人影もない校舎の中でずっと、……少女は１時間も走り回っていたのだ。\
+`　The girl had been running for more than an hour... in this twilight, without a soul to be seen on campus, for ages."`\
 
-　少女の心臓は今にも爆発しそう。@
-　もう、走るどころか、立ち上がる気力さえなかった。\
+;　少女の心臓は今にも爆発しそう。@
+`　Even now her heart was exploding.`@
+;　もう、走るどころか、立ち上がる気力さえなかった。\
+`　She no longer had a place to run to, nor the energy to stand.`\
 
 bg black,22
 
 me3v 17,70
 
-「はぁッ、はぁッ。@……もう、嫌……。@もう、……走れない………ッ。@はぁッ、はあッ！@　はぁッ、はあッ、はあッ！！！」@
+;「はぁッ、はぁッ。@……もう、嫌……。@もう、……走れない………ッ。@はぁッ、はあッ！@　はぁッ、はあッ、はあッ！！！」@
+`"Haaa, haaa. `@`...No, I can't... `@`I can't... run anymore...... `@`Haaa, haAA! `@`Haa, haaa, hAAA!!!"`@
 br
-　少女は怯えた表情で、床に這いつくばったまま、……ゆっくりと後ろに振り返る。\
+;　少女は怯えた表情で、床に這いつくばったまま、……ゆっくりと後ろに振り返る。\
+`　As the girl crawled on the floor with a frightened expression, ...she slowly looked behind her.`\
 
 ;bg black,23
 se1v 14,100
 se2v 14,100
 bg rouka_01,3
 
-　彼女の荒々しい息の他に、もう一つ、聞こえるものがあった。@
+;　彼女の荒々しい息の他に、もう一つ、聞こえるものがあった。@
+`　Something else could be heard aside from her harsh breathing.`@
 br
-　それは、足音。@
-　踵でごつごつと踏み鳴らす荒々しい足音が、足早に近付いてくるのだ。\
+;　それは、足音。@
+`　And that was footsteps.`@`
+;　踵でごつごつと踏み鳴らす荒々しい足音が、足早に近付いてくるのだ。\
+`　The sound of heels, rough footsteps, trodding across the floor, were closing fast.`\
 
-「……嫌……、嫌…………。」@
+;「……嫌……、嫌…………。」@
+`"...No... No......"`@
 br
-　少女は四つん這いになっても、尚もその足音から逃れようとする。@
-　しかしもう、両脚は痙攣してしまい、立ち上がることすら叶わない。\
+;　少女は四つん這いになっても、尚もその足音から逃れようとする。@
+`　Even though the girl had collapsed on all fours, she tried to get away from the sound of those footsteps.`@ 
+;　しかしもう、両脚は痙攣してしまい、立ち上がることすら叶わない。\
+`　But she had already lost both her legs to cramping, and she couldn't hope to even stand up.`\
 
-　足音は容赦なく近付いてくる。@無慈悲にずかずかと近付いてくる。\
+;　足音は容赦なく近付いてくる。@無慈悲にずかずかと近付いてくる。\
+`　Relentlessly, those footsteps drew closer. `@`Mercilessly, they drew closer.`\
 
 
-「何でよ……。@何で私を祟るのよ……。@……もうお願いよ…、私を……、放っておいてよぉおおおぉおお！！」\
+;「何でよ……。@何で私を祟るのよ……。@……もうお願いよ…、私を……、放っておいてよぉおおおぉおお！！」\
+`"Why... `@`Why curse me... `@`...Please... Please... LEAVE ME ALOOOooOOoOOONE!!"`\
 
 
-　ずかずか。@
-　ずかずかずかずか！！@
+;　ずかずか。@
+`　Step step.`@
+;　ずかずかずかずか！！@
+`　Step step step step!!`@
 br
-　その漆黒のマントの人影は、足早に近付き、……とうとう少女に追い付く。@
-　そしてマントを大きく広げ、……その影で少女を覆った。\
+;　その漆黒のマントの人影は、足早に近付き、……とうとう少女に追い付く。@
+`　That silhouette with a jet black cloak drew nearer at a fast pace... finally, he reaches her.`@  
+;　そしてマントを大きく広げ、……その影で少女を覆った。\
+`　And so he spreads his cloak wide... and covers the girl in that shadow.`\
 
 se1 20
 bg black,28
 
 
-「嫌……ッ。@……嫌ぁあああああぁああああぁああああッ！！！」\
+;「嫌……ッ。@……嫌ぁあああああぁああああぁああああッ！！！」\
+`"No...! `@`...NOOOOOooooOOOOOOOOOOOooOOOOO!!!"`\
 
 E_A
 
@@ -95,7 +122,8 @@ quakex 3,700
 
 
 
-　断末魔を叫ぶ少女の瞳には、……無慈悲な大鎌の冷酷な閃きが映っていた……。\
+;　断末魔を叫ぶ少女の瞳には、……無慈悲な大鎌の冷酷な閃きが映っていた……。\
+`　The horrific flash of a merciless scythe casts its reflection in the eyes of the girl... screaming in the throes of death...`\ 
 
 textoff
 nega off
