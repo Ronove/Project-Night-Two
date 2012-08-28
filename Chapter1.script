@@ -965,12 +965,12 @@ ld r,ma2_D4a,80
 ld c,IZA_D2,80
 
 ;「おう。@お互い、バケモンだ。@せいぜいクソガキどもを、ガンガン地獄に突き落としてやろうぜッ。」\
-`"Oh.`@` Like the rest, I'm a monster.`@` I guess I can push you down to the depths of hell, you little brat."`\
+`"Oh.`@` We're all monsters here.`@` Let's do our best to push those brats down to the depths of hell."`\
 
 ld r,ma2_d2a,80
 
 ;　まぁその、がんばります……と曖昧に笑う毬枝であった。\
-`Marie laughed vaguely as if to say "I'll do my best".`\
+`Marie laughed vaguely as if to say "Erm, I'll do my best, I guess."`\
 bg black,2
 wait 1000
 
@@ -1002,14 +1002,14 @@ se1 47
 quakey 1,100
 
 ;「おぉ、毬枝なのじゃ！@　珍妙な服を着ておるわ！@　まるっきり似合わないのじゃ！」@
-`"Ah, if it isn't Marie!`@` Oh, you're still wearing those queer clothes!`@` They really don't suit you at all!"`@`
+`"Oho, if it isn't Marie!`@` You're still wearing those queer clothes!`@` They don't suit you at all!"`@`
 ;＜スミレ
 
 ld c,AZA_D4,22
 ld c,AZA_D2,80
 
 ;「そんなことはありませんよ。@とても良く似合っています……。@どうぞ、こちらへ。@毬枝さん。」\
-`"No, that's not the case at all.`@` They suit you really well...`@` Please, this way,`@` Marie-san."`\
+`"No, that's not the case at all.`@` I think they suit her really well...`@` Please, this way,`@` Marie-san."`\
 ;＜アザミ
 
 ld r,HIG_D4,24
@@ -1029,7 +1029,7 @@ mld c,AZA_D1,80
 ld l,SMI_w4,80
 
 ;「私の姉者なのじゃ！！@　姉者は強くて賢くて、麗しくてとても残忍な大妖怪なのじゃ！」\
-`"That's like my sister!`@` Like my strong, smart and heartwarmingly brutal youkai of a sister!"`\
+`"That's my sister!`@` I love my strong, smart and heartwarmingly brutal youkai of a sister!"`\
 ;＜スミレ
 
 mcl c,0
@@ -1052,7 +1052,7 @@ ld l,HIG_w3,23
 ;ld l,HIG_D3,80
 
 ;「たまにね。@……まぁ、元々私たちは、誰かを親に生んでもらった存在ではない。@家族関係など、あってもなくても同じようなものだけれど。」\
-`"Sometimes. `@`...Well, it's not as if we were ever someone's children from the start. `@`Family ties, having them and not having them, it's all equally meaningless."`\
+`"Sometimes. `@`...Well, it's not as if we were ever someone's children. `@`Family ties, having them and not having them, it's all equally meaningless."`\
 ;＜彼岸花
 bg black,24
 bg okujou_02,0
@@ -1060,21 +1060,21 @@ ld r,SMI_w4,24
 ld r,SMI_w3,80
 
 ;「お前のような、嫌われ者のひとりぼっちとは違うのじゃ！@　私と姉者は大の仲良しなのじゃー！」@
-`"I'm different from you who loathes from loneliness!`@` I'm great friends with my sister!"`@`
+`"I'm different from you -- you loathesome and bitter creature!`@` My sister and I are very close, indeed!"`@`
 ;＜スミレ
 
 ld l,AZA_D4,23
 ld l,AZA_D3,80
 
 ;「うふふふふ。@この子ったら、すっかり酔いが回ってしまったようで……。」\
-`"Ahahaha.`@`This child seems to have turned completely drunk..."`\
+`"Uhuhuhuhu.`@`I think this child has had too much to drink..."`\
 ;＜アザミ
 
 ;　妖怪の世界に、仮に家族関係があろうとなかろうと。@二人の関係はちょっと微笑ましいものに思えた。@
-` In the world of youkai, family ties come and go.`@`The relationship between these two was quite heartwarming.`@`
+` In the world of youkai, family ties come and go. `@`So the relationship between these two seemed quite lovely.`@`
 br
 ;　その様子を見ている彼岸花が、わずかに寂しそうに口を尖らせているのを、毬枝は見逃さない。\
-` Marie didn't see Higanbana, who was watching at the situation looked displeased with a sad-looking mouth.`\
+` Marie didn't overlook Higanbana, who was watching the situation, displeased, with her mouth turned into a sad frown.`\
 bg black,22
 bg okujou_01y,0
 mld c,HIG_D8,22
@@ -1096,7 +1096,7 @@ ld r,ma2_w1,80
 mld c,HIG_d2,80
 
 ;「あぁ、そうだったわね。@あんたは、私のお友達だったわね。」@
-`"Oh, is that so?`@`Well, you're my friend aren't you?"`@`
+`"Oh, is that so?`@` Well, you're my friend aren't you?"`@`
 ld r,ma2_w2,80
 
 ;「だから、彼岸花さんが、ひとりぼっちだなんて思う必要は、まったくないと思います。」\
@@ -1108,35 +1108,36 @@ ld l,HIG_d5,24
 `"Stop, please, just stop reading my mind."`@`
 br
 ;　妖力を蓄えた妖怪たちは、相手の心を読み取る力を持つ。@しかし、毬枝にはその力はない。\
-` The monsters, rich in magic power had the ability to read others' minds. `@`However, that power didn't exist with regard to Marie.`\
+` The youkai, rich in magic power, had the ability to read others' minds. `@`However, Marie didn't have that power.`\
 ld r,ma2_w1,80
 wait 500
 ld l,HIG_w1,80
 cl l,22
 
 ;　でも、わかるのだ。@友人だからこそ。@
-` But she understood `@`only because she was a friend.`@`
+` But Marie understood `@`only because she was Higanbana's friend.`@`
 br
 ;　彼岸花は、ぷいっとそっぽを向いてむくれたふりをする。\
-` Higanbana pretends to look the other way.`\
+` Higanbana pretends to look somewhere else.`\
 bg black,24
 bg okujou_02,24
 ld r,AZA_D4,22
 ;ld r,AZA_D1,80
 
 ;「うふふふふふふ。@あの彼岸花に友達が出来るなんて。@つくづく、世の中はわからないものです。@どうか、これからも仲良くしてあげて下さいね。」\
-`"Ufufufufufufu.`@`Becoming friends with Higanbana?`@`There are some things in the world I don't understand.`@`Somehow or the other, please try and be a close friend of hers in the future."`\
+`"Uhuhuhuhuhu.`@`Becoming friends with Higanbana?`@`There are some things in the world I don't understand.`@`However you do it, please keep getting along with her."`\
 ;＜アザミ
 
 ;　このアザミという人は、何だかいい人のような気がする。@
 ` This Azami, somehow she seemed like a good person.`@`
 br
 ;　魂を糧とする妖怪のひとりなのだから、素直な意味でいい人のわけもないのだが、@少なくとも、理不尽な性格ではなさそうだ。\
-` She was a monster that feasted on souls, so she wasn't gentle person. `@`However, she didn't seem that unreasonable in character.`\
+` She was a monster that feasted on souls, so she wasn't a gentle person. `@`However, she didn't seem that unreasonable in character.`\
 mld l,SMI_w3,23
 mld l,SMI_w5,80
 
-「そうだろうそうだろう、いい人に見えるであろう！@　しかし、このいい人っぷりこそ姉者の最大の武器なのじゃ！@　何しろ姉者の偽善者っぷりと言ったら、@/
+;「そうだろうそうだろう、いい人に見えるであろう！@　しかし、このいい人っぷりこそ姉者の最大の武器なのじゃ！@　何しろ姉者の偽善者っぷりと言ったら、@/
+`"I see I see, so keep thinking of her as a good person! `@`However, this 'good person' play is also one of my sister's greatest weapons! `@`You could say she's like a wolf in sheep's clothing, `@/
 
 cl r,0
 ld c,AZA_D1,24
@@ -1145,11 +1146,11 @@ mld l,SMI_i1,1
 quakex 2,200
 
 ;あいだだだだだだだだだッ！！！」\
-` Ah, ow ow ow ow ow ow!!!"`\
+` Ow owowowowowow!!!"`\
 ld c,AZA_D5,80
 
 ;「うっふふふふふふふふふー…！！！@　スミレはたまにおかしなことを言い出すもので、うっふふふふふふ…！」@
-`"Ahahahahahaha!!!`@` Sumire says strange things every once in a while, so...Ahahahahahah...!"`@`
+`"Uuhuhuhuhuhuhuhuu!!!`@` Sumire says some strange things from time to time, ...Uhuhuhuhuhu...!"`@`
 br
 
 mld l,SMI_i3a,80
@@ -1160,7 +1161,7 @@ mld l,SMI_i1,1
 quakex 2,300
 
 ;　どこをどう抓っているやら。@スミレは涙目で痛い痛いと飛び跳ねている。\
-` While being pinched everywhere,`@`Sumire was jumping up and down with tears in her eyes.`\
+` While being pinched everywhere,`@` Sumire was jumping up and down with tears in her eyes.`\
 cl c,0
 mcl l,0
 mbg black,22
@@ -1170,7 +1171,7 @@ ld c,HIG_w3,22
 ld c,HIG_d3,80
 
 ;「そうそう、アザミとスミレの姉妹らしいところがあるとしたら。@二人とも、いじめに絡んだ狩りをするという点かしら。@……学校はいじめでいっぱいだもの。@食いっぱぐれないわ。」\
-`"Yes, yes, with Azami and Sumire as siblings, I wonder if the two of you together could entangle and hunt bullies.`@`....the school is full of bullies,`@`so you wouldn't miss any meals."`\
+`"Yes, yes, since Azami and Sumire as siblings, I wonder if the two of you together use bullying to hunt.`@` ....The school is full of bullying,`@` so you wouldn't miss any meals."`\
 ;＜彼岸花
 
 bg black,22
@@ -1186,7 +1187,7 @@ bgm1 31
 ` The fifth and sixth-ranked still remained.`@`
 br
 ;　それにさくのしんが加わり、３人でお酒を飲んでいるようだった。\
-` Along with Sakunoshin, the three of them seemed to be drinking rice wine.`\
+` The three of them seemed to be drinking rice wine along with Sakunoshin.`\
 ld c,SAK_D4,22
 ld c,SAK_D2,80
 se1 47
@@ -1199,12 +1200,12 @@ ld l,ma2_w2,23
 
 
 ;「はい。@こちらの皆さんにもご挨拶したいと思いまして。」\
-`"Yes.`@`I think I want to greet everyone here also."`\
+`"Yes.`@` I think I want to greet everyone here also."`\
 ld r,HIG_D2,24
 ;ld r,HIG_D1,80
 
 ;「さくのしんは学校妖怪八席ではないけれど。@動物霊の長を務める大妖怪。」\
-`"Sakunoshin isn't one of the eight seated school monsters,`@`but he's an great animal spirit working as a big monster."`\
+`"Sakunoshin isn't one of the eight seated school monsters,`@` but he's an great youkai that rules animal spirits."`\
 ;＜彼岸花
 
 ld c,SAK_D4,80
@@ -1221,7 +1222,7 @@ br
 ld r,HIG_D3,80
 
 ;「その子は、序列第６位、美術室のルノワール。@……大人しい子よ。@あまり熱心に狩りをする子でもないし。」\
-` "That child is the sixth-ranked, Renoir of the art room.`@`She's a quiet child.`@`She doesn't hunt very much."`\
+` "That child is the sixth-ranked, Renoir of the art room.`@` She's a quiet child.`@` She doesn't hunt very much."`\
 ;＜彼岸花
 
 cl a,0
@@ -1233,17 +1234,21 @@ ld c,KYO_D5,80
 
 
 ;「……ルノは狩りをしなさ過ぎて、妖力がほとんど枯れちまったヤツだけどな。」\
-`"Because she hardly hunts at all, her magical power has withered almost entirely."`\
+`"...Because Ren hardly hunts at all, her magical power has withered almost entirely."`\
 ;＜キョウ
 
 ld r,HIG_w3,22
 
-「元々、九十九神だからね。@ただ眠っているだけでも、本来の妖力は侮れないわ。」\
+;「元々、九十九神だからね。@ただ眠っているだけでも、本来の妖力は侮れないわ。」\
+`"She's a kami born after from one hundred years. `@`Even though she's just sleeping, her current powers are nothing to laugh at."`\
 ;＜彼岸花
 
-　第７位のスミレは、いじめを撒き散らし、積極的な狩りをしていた。@
-　にもかかわらず、このルノワールという妖怪は、ほとんど狩りをしないのに、序列はそれより高い。@
-　だとするなら、元々、相当の大きな力を持つ妖怪に違いあるまい。\
+;　第７位のスミレは、いじめを撒き散らし、積極的な狩りをしていた。@
+`　Sumire the Seventh Ranked spread bullying and performed extremely proactive hunting.`@
+;　にもかかわらず、このルノワールという妖怪は、ほとんど狩りをしないのに、序列はそれより高い。@
+`　Nevertheless, even though this youkai called Renoi barely hunted at all, her rank was higher.`@
+;　だとするなら、元々、相当の大きな力を持つ妖怪に違いあるまい。\
+`　Since that's the case, originally she must have been a youkai with a great amount of power befitting her rank.`\
 
 ld l,ma2_w1,22
 
@@ -1253,7 +1258,7 @@ cl c,0
 mld c,KYO_D1,80
 
 ;「俺様は序列第５位の、鏡のキョウ。@……鏡の世界の境を司る番人よ。」\
-`"I'm the fifth-ranked, Kyou of mirrors.`@`....I'm the keeper of the boundaries of the world of mirrors."`\
+`"I'm Kyou of the Mirror, the Fifth-Ranked.`@` ....I'm the keeper of the boundary to the mirror world."`\
 ;＜キョウ
 
 mcl c,0
@@ -1265,20 +1270,22 @@ se1 47
 quakey 1,200
 
 ;「キョウくんは僕と同じ、動物霊なんだよっ。@だから仲間なんだよ、うりゅー！」\
-`"Kyou-kun is the same as me; an animal spirit.`@`So we're the best of friends, uryuu~!"`\
+`"Kyou-kun is the same as me -- an animal spirit.`@` So we're friends, uryuu~!"`\
 ld c,KYO_D2,23
 ld c,KYO_D4,80
 
-「俺様はお前みたいな草食ライオンの仲間じゃねぇっ。@俺様は狼だ、ウルフだ、ハイエナだ。@愚かな人間どもの、鏡に映る邪悪な面を引き摺り出し、狩り殺す。@クールなクールなハンターなのさ……。」\
+;「俺様はお前みたいな草食ライオンの仲間じゃねぇっ。@俺様は狼だ、ウルフだ、ハイエナだ。@愚かな人間どもの、鏡に映る邪悪な面を引き摺り出し、狩り殺す。@クールなクールなハンターなのさ……。」\
+`"I am no friend of a herbivorous lion the likes of you. `@`I am an ookami, a wolf, a hyena. `@`I drag out the wicked faces of those foolish humans who reflect through the mirror, hunt, and kill them. `@`I am the coolest of cool hunters..."`\
 
-　眼光鋭くそう言い、ぐびりと杯を傾ける。@
+;　眼光鋭くそう言い、ぐびりと杯を傾ける。@
+`　His eyes glinting sharply as he spoke, and he gulped down his sake.`@
 br
 ;　……何と言うか、……独特の雰囲気を持つ人のようだ。\
-`....meaning, he was a person who seemed to have a unique atmosphere.`\
+`....That is to say... he seemed to hold a unique aura about him.`\
 ld r,SAK_D4,80
 
 ;「これで挨拶回りは終わったでしょ？！@　毬枝も飲もー飲もー！！」\
-`"Is this the end of all the introductions?!`@`Marie, let's drink! Let's drink!"`\
+`"I suppose this ends all the introductions?!`@` Marie, let's drink! Let's drink!"`\
 ;＜さくのしん
 
 bg black,23
@@ -1287,7 +1294,7 @@ ld l,HIG_D5,22
 ld l,HIG_D4,80
 
 ;「そうよ。@お月見会なのに、お酒の一杯も飲まないでおしまいなんて、あんまりだわ。」@
-`"Yes.`@`It's a moon-viewing party so if you don't drink a lot by the end, it's not too much."`@`
+`"Yes.`@` It's a moon-viewing party so if you don't drink a lot by the end, it's a waste."`@`
 ;＜彼岸花
 
 ld c,ma2_D4a,24
@@ -1299,7 +1306,7 @@ ld c,ma2_D4a,24
 ld r,KYO_D5,24
 
 ;「それ以前に、人間でもないだろうが。@それにこれは人間の世界の酒とは違う。」@
-`"In the past, this wasn't for humans.`@`That sake is not that of the human world."`@`
+`"Fool, you're not even human anymore.`@` Not only that, this isn't the sake from the human world."`@`
 ;＜キョウ
 
 ld c,ma2_D4,80
@@ -1312,12 +1319,13 @@ bg Air_03,22
 ` The red fluid filled the glass to the brim and at first inspection appeared to be sake...`@`
 br
 ;　しかし、それに、はらりと桜の花びらが浮かび、月が浮かぶと、とても風流なものに見えるのだ。\
-` But when the flower petals fell gently and the moon rose to the surface, it looked like a very artistic thing.`\
+` But when the flower petals fell gently and the moon rose to the surface, it looked to me like a very artistic thing.`\
 ;　顔を近付けると、ふわりと甘い、果物を思わせる香りが鼻を通り抜ける。@
-` And on bringing her face closer, the airy, sweet fragrances of fruit passed into her nose.`@`
+` And when I brought my face closer, the airy, sweet fragrances of fruit passed into my nose.`@`
 
 br
-　とはいえ、ダメダメッ、お酒は大人になってからっ。\
+;　とはいえ、ダメダメッ、お酒は大人になってからっ。\
+`　Nevermind that, I can't! I can't! Sake is for adults.`\
 
 bg white,23
 bg okujou_02,0
@@ -1325,25 +1333,25 @@ ld l,KYO_D2,23
 ;ld l,KYO_D1,80
 
 ;「だから、酒じゃないって言ってるだろ。」@
-`"That's why I said it wasn't sake."`@`
+`"Like I said, it's not sake."`@`
 ;＜キョウ
 
 ld r,HIG_d3,24
 ;ld r,HIG_d3,80
 
 ;「あのね。@これは、黄泉桜の花びらを砂糖漬けにしたものを、桜のうろに入れ、@まー、色々としたのから搾り出した、言わばジュースというわけ。」\
-`"Y;know,`@`This is made by squeezing candied cherry blossoms of the underworld into the hollow of a cherry blossom tree.`@`We squeeze it out, so that's why we call it juice."`\
+`"Y'know,`@` this is made by squeezing candied cherry blossoms of the underworld into the hollow of a cherry blossom tree.`@` We squeeze it out, so that's why we call it juice."`\
 ;＜彼岸花
 
 ld c,ma2_w2,22
 ;ld c,ma2_D1,80
 
 ;「……あ、なんだ。@ジュースなんですか。@なら飲めます。」@
-`"Ah, what? `@`It's juice? In that case I can drink it."`@`
+`"...Ah, what? `@`It's juice? In that case I can drink it."`@`
 ld l,KYO_D1,80
 
 ;「そら。@ぐびりと行って、フルムーンごと飲み干せ。」\
-`"Hey.`@`Drink daily for each each full moon."`\
+`"There you go. `@`Get drinking and drain a glass for each full moon."`\
 ;＜キョウ
 
 bg black,22
@@ -1366,12 +1374,12 @@ bg black,22
 bg Air_03,22
 
 ;「ぷっはー！！@　ってこれッ？！@　ほ、本当にジュースなんですかぁ？！@　め、目が回って……、あぁあぁぁ～……。」\
-`"Gah!`@` wait, this?!`@`Is this really juice?!`@`My eyes are spinning...aahahaha..."`\
+`"Gah!`@` wait, this?!`@` Is this really juice?!`@` My eyes are spinning...aahahaha..."`\
 ;cl c,5
 ;ld r,HIG_w4,80
 
 ;「えぇ、そうよ、ジュースよ、ジュース。@妖怪のジュースだけれどね。@くすくすくすくすくすくす。」\
-`"Yes. Indeed, it's really juice.`@`But it's monsters' juice though.`@`Kusukusukusukusukusukusu."`\
+`"Yes. Indeed, it's really juice.`@` But it's youkai juice though.`@` Teeheeheehee."`\
 
 bg black,24
 bg okujou_01y,24
@@ -1379,21 +1387,21 @@ ld r,KYO_D6a,22
 ;ld r,KYO_D1,80
 
 ;「おいおい、大丈夫かよこいつ。@……完全にぶっ潰れてるぞ。」@
-`"Hey, hey, are you okay?`@`...she's completely collapsed."`@`
+`"Hey, hey, are you okay?`@` ...she's completely collapsed."`@`
 ;＜キョウ
 
 ld l,HIG_d5,22
 ;ld l,HIG_w1,80
 
 ;「でも美味しかったでしょ？」\
-`"But it was delicious, don't you suppose?"`\
+`"But it was delicious, don't you agree?"`\
 ;＜彼岸花
 
 ld c,ma2_D2a,6
 ;ld c,ma2_D1,80
 
 ;「ぇぇ、はぃ～……。@目が回るけれど～……、おいひぃれすぅぅ～……。」@
-`"Y-yeah~...`@`My eyes are spinning but....It'sh delicious~..."`@
+`"Y-yeah~...`@` My eyes are spinning but....It'sh delishusss~..."`@
 br
 
 cl c,5
@@ -1401,7 +1409,7 @@ se1v 13,50
 quakey 2,200
 
 ;　世界がぐるぐる回って、だけれども、とてもとても不思議な、幸せな気分でいっぱいになる。\
-` The world spinning in circles, however, becomes filled with a very very strange, happy feeling.`\
+` Even though the world is spinning in circles, it fills with a very very strange, yet pleasant, feeling.`\
 bg black,22
 
 fede 0,1000
@@ -1417,20 +1425,21 @@ fedexx 70,0,0,0,0,0,3000
 wait 1000
 
 ;　世界が桜色に染まり、屋上に茂る黄泉桜がますますに花を開き、@花びらの嵐で祝福してくれるかのように感じられた。\
-` The world was dyed in the color of cherry blossoms, and the blessing given in the storm of petals of the flowers of the cherry blossom trees growing in the roof of the underworld as they opened increasingly was felt.`\  
+` The world was dyed in the color of cherry blossoms,`@` and I felt the blessing given in the storm of petals of the flowers of the cherry blossom tree growing on the roof as they opened one after another.`\  
 
 ;　毬枝が口にしたものは、人間たちの飲む酒とは異なる。@
 ` That which Marie had put in her mouth was different from the rice wine drunk by human beings.`@`
 br
 ;　しかし、妖力の足りない毬枝が口にすると、人間が酒に酔っ払うのとよく似た症状を引き起こす。\
-` However, when that was put in the mouth of Marie, who lacked sufficient magical power, she showed symptoms similar to those of drunk human beings.`\
-「ここは、旧校舎でもっとも妖力の高い場所。@……その妖力は古く、長く寝かされ、新校舎のそれとは比べ物にならないくらいに深い。@……それを養分に茂る黄泉桜から作られるその雫は、まさに絶品。@この世ならぬ味わい。@……もし、毬枝がそれをとても美味しく感じてくれたなら。@……それはこの旧校舎が、あなたを歓迎しているということなのよ。」\
+` However, when Marie, who lacked sufficient magical power, put that into her mouth, she showed symptoms similar to those of drunk human beings.`\
+;「ここは、旧校舎でもっとも妖力の高い場所。@……その妖力は古く、長く寝かされ、新校舎のそれとは比べ物にならないくらいに深い。@……それを養分に茂る黄泉桜から作られるその雫は、まさに絶品。@この世ならぬ味わい。@……もし、毬枝がそれをとても美味しく感じてくれたなら。@……それはこの旧校舎が、あなたを歓迎しているということなのよ。」\
+`"This old school building has a wealth of youkai energy in abundance. `@`...That energy is old, lays dormant, and the new school building can't compare to the depth of its power. `@`...And the drops produced from the underworld-born sakura that grow here are particularly sublime. `@`A taste that is out of this world. `@`...If you can taste its deliciousness... `@`then you could say that is the old school building's way of welcoming you.`"\
 ;＜彼岸花
 
 ;bg black,22
 
 ;　……さっき保健の先生に聞いた気がする。@
-` ...I feel like I heard that earlier from the Health Teacher.`@`
+` ...I feel like I heard that earlier from the school nurse.`@`
 br
 ;　忘れ去られた旧校舎には、今は誰も住まわない。@……そんな旧校舎に私が住み着いて、きっと旧校舎も喜んでいるだろう、って話……。\
 ` 'The old school building is now forgotten.`@`...If I settled in that old school building, surely they'd be happy' she said...`\
@@ -1442,14 +1451,16 @@ ld c,HIG_w1,80
 `"That's why the old school building invited you.`@`...And the droplets of the greatest cherry blossom surely wanted to bloom inside of you."`\
 ;＜彼岸花
 
-　確かに、………それはこの世ならぬ、絶品の味。@
+;　確かに、………それはこの世ならぬ、絶品の味。@
+`　And that taste was really sublime... truly... out of this world.`@
 br
 ;　毬枝の全身を、温かな、じんわりとする心地良さが、やさしくやさしく染み渡るのだ。\
 ` A warm comfort gradually, gently spread through the whole of Marie's body.`\
 ;　降り積もる桜の花びらに、柔らかく埋もれ、……羽根布団の中で眠りに落ちていくかのような心地よさ……。@
 ` A comfort as if to make her gently fell into sleep among the fallen cherry blossom petals...`@`
 br
-　それは、生まれて初めて、そしてもちろん、死んで初めて味わう、極上の悦楽だった……。\
+;　それは、生まれて初めて、そしてもちろん、死んで初めて味わう、極上の悦楽だった……。\
+`　That taste was, since she had been born, and of course, since she had died, the greatest pleasure...`\
 
 bg black,22
 
@@ -1457,22 +1468,22 @@ bg black,22
 ` ....I can't hear Higanbana's voice anymore.`@`
 br
 ;　全てがやさしくやさしく降り積もって、……柔らかく包み込んでいく。\
-` She was all wrapped up, gently, gently.`\
+` Everything was falling gently, gently, ...and then I was enveloped tenderly somehow.`\
 
 ;　………そっか。@旧校舎はずっと、寂しかったんだ。@
-` ....That's right.`@`The old school building was always lonely.`@`
+` ....That's right.`@` The old school building was always lonely.`@`
 ;　それで、私という妖怪が久し振りに住み着いて、……嬉しかったんだ。@
-` What's more, the monster called "Me" had long since settled down, I was happy.`@`
+` What's more, I was the first born here in ages... it was happy.`@`
 br
 ;　……なら。@私は学校妖怪のみんなだけじゃなく、……旧校舎さんにも、挨拶をしなきゃ。\
-` So being the case`@`I not only have to greet all the monsters here but also the school building itself.`\
+` ...So. `@`Not only do I have to greet all the youkai here... but also the school building itself.`\
 ;　………こんにちは、旧校舎さん。@
-` Good day, Mr. School Building.`@
+` ...Hello there, School Building-san.`@
 ;　めそめその毬枝と申します。@
-` I'm Meso-meso Marie.`@`
+` My name is Meso-meso Marie.`@`
 br
 ;　どうかこれからも、よろしくお願いしますね………。@
-` Whatever happens in the future, I'm pleased to meet you...`@`
+` Nice to meet you. `@`Whatever happens in the future, I look forward to it...`@`
 ;　…………………………………。\
 ` ..............`\
 ;print 0
@@ -1505,28 +1516,29 @@ bg okujou_01u,2
 ld r,HIG_D5,22
 ;ld r,HIG_D2,80
 
-「毬枝？@　いい加減に起きたら？@　妖怪だって風邪を引くのよ？」@
+;「毬枝？@　いい加減に起きたら？@　妖怪だって風邪を引くのよ？」@
+`"Marie? `@`How about you wake up like a good girl? `@`Even youkai can catch colds, you know?"`@
 
 ld l,MAR_D2a,6
 ld l,MAR_D4a,80
 
 ;「……ふぁ……、彼岸花さん…………。@……あれ？@　…………………。」\
-`"...Ah... Higanbana-san.....`@`...what?`@`......."`\
+`"...Ah... Higanbana-san.....`@`...Huh?`@`......."`\
 ;　いつの間にか、夜が明け始めている。@
-` Without realizing it, the night was changing to dawn.`@`
+` Before she knew it, dusk was turning to dawn.`@`
 ;　黄泉の桜もなくなり、宴席は影も形もなくなっている。@
 ` The flowers of the underworld disappeared, as did the shadows and form of the banquet.`@`
 br
 ;　ちょっとみんなに挨拶しただけだったのに、@……私が眠っちゃったんで、そのままお開きになってしまったんだ……。\
-` Although I had only just greeted everyone,`@`...I fell asleep, and the party ended...`\
+` Although I had only just met everyone,`@`...I fell asleep, and the party ended a while ago...`\
 ld r,HIG_d10,80
 
 ;「それよりあんた。@何でこんなところで寝ているわけ？」@
-`"What's more,`@`Why are you sleeping in a place like this?"`@`
+`"What's more, `@`why are you sleeping in a place like this?"`@`
 ld l,MAR_D3a,80
 
 ;「何でって。@……彼岸花さんたちに飲まされて……、それで気持ちよくなって………。」\
-`"Why?`@`...Higanbana, you and the others made me drink....so I felt sick...."`\
+`"Why?`@`...Higanbana, you and the others made me drink....and I felt really good...."`\
 ld r,HIG_D9a,80
 
 ;「何の話？」@
@@ -1547,7 +1559,8 @@ ld c,HIG_D10,80
 
 bgm1 8
 
-「毬枝が、どうしても素敵な服で参加したいからって言って。@私、だいぶ待ったのよ？」@
+;「毬枝が、どうしても素敵な服で参加したいからって言って。@私、だいぶ待ったのよ？」@
+`"Marie, you said you wanted to participate and wear an absolutely fabulous outfit. `@`I waited forever for you?"`@
 
 ld l,MAR_D2a,80
 
@@ -1557,30 +1570,30 @@ cl c,0
 ld r,HIG_D9,23
 
 ;「何を言ってるの？@　あんた、結局、来なかったじゃない。」@
-`"What are you saying?`@`You, after all, didn't come did you?"`@`
+`"What are you talking about?`@`In the end, you didn't come at all."`@`
 me1v 16,50
 
 br
 ;　彼岸花と話が噛み合わない。\
-`It didn't fit with Higanbana's story.`\
+`My story didn't match Higanbana's.`\
 ld l,MAR_D3a,80
 
 ;「……彼岸花さんこそ、何を言ってるんですか？@　私、こうして、ここに来て、一緒に皆さんとご挨拶をしたじゃないですか。」\
-`"Likewise, Higanbana, what are you talking about?`@`Didn't I come here and greet everyone?"`\
+`"Likewise, Higanbana, what are you talking about? `@`Didn't I come here and greet everyone?"`\
 bg black,22
 bg gakkou_07y,22
 
 ;「ここに来てって。@……ここ、旧校舎の屋上よ？」@
-`"By coming here`@`you mean the roof of this old school building?"`@`
+`"By coming 'here', `@`...Here?... You mean the roof of this old school building?"`@`
 ;「えぇ、はい。@旧校舎の屋上ですよ？」\
-`"Yeah. It was the roof of the old school building, wasn't it?"`\
+`"Yeah. `@`It was on the roof of the old school building, wasn't it?"`\
 bg black,22
 bg okujou_01u,22
 ld l,HIG_d10,22
 ;ld l,HIG_D1,80
 
 ;「何を言ってんの。@新校舎の屋上に決まってるでしょう？@　あんたまさか、ここだと勘違いして、ずっとひとりでここで待ってたわけ？！」@
-`"What are you talking about?`@`We decided upon the roof of the new school building.`@` Wait, it couldn't be...you confused the locations and waited here all by yourself?!"`@`
+`"What are you talking about? `@`We decided upon the roof of the new school building. `@` Wait, it couldn't be...you confused the locations and waited here all by yourself?!"`@`
 ld r,MAR_D4a,24
 ;ld r,MAR_D1,80
 
@@ -1589,7 +1602,7 @@ ld r,MAR_D4a,24
 ld l,HIG_D5,80
 
 ;「あのねぇ。@あれだけ遅刻して到着して。@誰もいなかったら、場所を間違えたって普通は思わない？@　それで待ちくたびれて、寝ちゃってたってわけ？@　あぁ、毬枝……。@あんたって、そこまで愚かだったのね……。」@
-`"Y'know.`@`To that extent, even with a late arrival,`@`if there's nobody there, I don't think mistaking a place can be normal, right?`@` And you just waited there...?`@`Man, Marie, that was stupid of you..."`@`
+`"Y'know. `@`Even with a late arrival, `@`I don't think mistaking a place is considered normal if you see that there's nobody there?`@` And you just waited here the whole time...?`@`Man, Marie, how stupid can you get..."`@`
 br
 ;　彼岸花は、さんざん毬枝を馬鹿にすると、肩を竦めながら嘆く。\
 `Higanbana, while chastising Marie, just shrugged her shoulders.`\
@@ -1598,30 +1611,32 @@ ld r,MAR_D2a,80
 ;　でも、毬枝もわけがわからなくなってしまうのだ。@
 ` But Marie still didn't understand.`@`
 ;　そんなはずはない。@確かにここで、みんなは宴席をしていたじゃないか……。@
-` Surely that shouldn't be.`@`Surely she had taken part in a banquet with all the others here...`@`
+` Surely that couldn't be. `@`Surely she had taken part in a banquet with all the others here...`@`
 br
-　わけがわからず、ひょっとしてまだおかしな酔いが続いているのかと、毬枝は自分の頬を抓るしかない。\
+;　わけがわからず、ひょっとしてまだおかしな酔いが続いているのかと、毬枝は自分の頬を抓るしかない。\
+`　Since it made no sense, Marie could only pinch her own cheeks hoping this was some after-effect from drinking too much.`\
 
 ld l,HIG_w4,80
 
-「せっかく、素敵な黄泉桜が茂って、美味しい桜酒が出来たのに……。@人間には味わうことの出来ない極上の味を、あんたに教えてあげようと思ったのに。@はーっ。」\
+;「せっかく、素敵な黄泉桜が茂って、美味しい桜酒が出来たのに……。@人間には味わうことの出来ない極上の味を、あんたに教えてあげようと思ったのに。@はーっ。」\
+`"And in the end, we even made some delicious sakura sake from the lovely underworld sakura that grew there... `@`I had so wanted to let you taste the flavor that no human could ever enjoy. `@`*Sigh*"`\
 
 ld r,MAR_D4a,80
 
 ;「はい。@……それはいただきました。@すごく美味しかったです。」@
-`"Yes.`@`...I ate.`@`It was really delicious."`@`
+`"Yes. `@`...I tasted it. `@`It was really delicious."`@`
 ld l,HIG_D10,80
 
 ;「飲めるわけないでしょ？@　あんた、来なかったんだから。」\
-`"Couldn't you drink?`@`Because you didn't come."`\
+`"There's no way you could have drunk it though?`@`After all, you didn't come."`\
 ld r,MAR_D2a,80
 
 ;「……わ、私が寝惚けていたのかもしれないですけど。@……確かに昨夜、ここにも黄泉の桜が茂っていたんです。@そして私はその桜のお酒を……。」@
-`"....I-I guess I might have been half-asleep.`@`...Surely, last night I was here amongst the lush dark cheery blossoms.`@`So, the cherry blossoms, I might have...in the rice wine.."`@`
+`"....I-I guess I might have been half-asleep. `@`...Surely, last night I was here amongst the lush cherry blossoms from the underworld. `@`And I had it...the sakura wine.."`@`
 ld l,HIG_d9,80
 
 ;「黄泉桜が、旧校舎の屋上に……？」\
-`"Underworld cherry blossoms? On the roof of the old school building?"`\
+`"Cherry trees from the underworld? On the roof of the old school building?"`\
 
 mbg black,22
 
@@ -1631,7 +1646,7 @@ mbg black,22
 ;print 22
 
 ;「は、……はい。@……すごい幻想的な、美しい光景でしたよね……。」@
-`"Y-Yes...`@`It was a fantastic, almost illusory sight, wasn't it...?"`@`
+`"Y-Yes...`@`It was a fantastic, beautiful sight, wasn't it...?"`@`
 br
 ;　仮に、昨夜の宴席が丸ごと幻だったとしても。@
 ` Even if last night's banquet was an illusion,`@`
@@ -1650,17 +1665,18 @@ cl a,0
 ld r,HIG_d8,22
 ;ld r,HIG_d4,80
 
-「……毬枝。@確かにその昔。@ここにも黄泉桜は咲いたそうよ。@でもそれは、ここに子供たちが通っていた大昔の話だわ。@今や寂れ、旧校舎には黄泉桜が花を咲かせる養分もないはず。」\
+;「……毬枝。@確かにその昔。@ここにも黄泉桜は咲いたそうよ。@でもそれは、ここに子供たちが通っていた大昔の話だわ。@今や寂れ、旧校舎には黄泉桜が花を咲かせる養分もないはず。」\
+`"...Marie. `@`Certainly, long ago. `@`I've heard the sakura of the underworld bloomed here as well. `@`But that was long ago back when children came here. `@`Now it has declined, and there are no nutrients for the sakura of the underworld to bloom with here."`\
 
 ld l,MAR_i4a,23
 ;ld l,MAR_D1,80
 
 ;「で、でも、咲いてたんですよ？！@　すごく美しくて不思議な光景で……。」\
-`"B-But they blossomed right?!`@`They were a really beautiful and mysterious sight..."`\
+`"B-But they blossomed here?! `@`They were a really beautiful and fantastic sight..."`\
 ld r,HIG_D5,80
 
 ;「………………………………。@……それは本当に？@　だとしたら、とても珍しい、奇跡に違いないわ。@……そしてあなたは、その黄泉桜のうろのお酒を、飲んだわけ？」@
-`".............`@`....Is that really the case?`@`If you say so, considering how rare a case that'd be, it's undoubtedly a miracle.`@`....and as for that rice wine of the cherry blossoms of the underworld, did you drink it?"`@`
+`".............`@`....Is that true?`@`If you say so, considering how rare that'd be, it's undoubtedly a miracle.`@`....And as for the sake from the sakura of the underworld, did you drink it?"`@`
 ld l,MAR_D4a,80
 
 ;「はい……。@とても甘い香りと味で、……とても美味しかったです……。」\
@@ -1683,51 +1699,52 @@ bgm1 1003
 ld r,HIG_D2,80
 
 ;「妖力もお酒に似てて、古く長く寝かせたものは、より強い力を宿すの。@……だから、もしもこの旧校舎に奇跡的に黄泉桜が生えて、そこから作られた桜酒だったなら。@……恐らくそれは、この世のものとは思えぬほどに、美味なものだったはず。」\
-"That rice wine is like magic power in the sense that it was laid to rest long ago in favor of conceiving a greater power.`@`...That's why, if 
+"That rice wine is like magic power in the sense that it was laid to rest long ago in favor of conceiving a greater power.`@`...That's why, if this old school building had miraculous produced the sakura of the underworld, if it had produced the sakura wine... `@`then it must have tasted like something unimaginable and uncomparable to anything in this world."`\
 ;ld l,MAR_D1,80
 
 ;　……そうだ。@毬枝は昨夜、確かにそんなことを言われた。\
-` ....Yes.`@`Last night, Marie was told such a thing indeed.`\
+` ....Yes. `@`Last night, Marie was told such a thing indeed.`\
 ld r,HIG_w2,80
 
-「だとしたら、羨ましいわ。@……新校舎の黄泉桜は、まだまだ若い。@美味しいには美味しいけれど、あんたが味わったそれには、足元にも及ばないはず。@……存在しないはずの旧校舎の黄泉桜に、最高のお月見日和の満月の晩に出会えて、@最高の桜酒を味わえたなんて。@毬枝は本当に幸運だわ。」\
+;「だとしたら、羨ましいわ。@……新校舎の黄泉桜は、まだまだ若い。@美味しいには美味しいけれど、あんたが味わったそれには、足元にも及ばないはず。@……存在しないはずの旧校舎の黄泉桜に、最高のお月見日和の満月の晩に出会えて、@最高の桜酒を味わえたなんて。@毬枝は本当に幸運だわ。」\
+`"If that's so, then I'm jealous. `@`...The underworld sakura of the new school building is still fairly young. `@`You could say it's tasty as tasty comes, but it's nothing compared to what you tasted. `@`...Meeting on the greatest night for viewing the full moon, `@`and tasting the finest sakura wine from the old scool building underworld sakura that shouldn't even exist.... `@`Marie, you are truly fortunate."`\
 
 ld l,MAR_D4a,80
 
 ;　……毬枝は、何が何だか、まるでわからない。@
 ` ...Marie had not the slightest idea of what was happening.`@`
 ;　でも、昨夜のお月見会が、夢か幻ではないことは確かなのだ。@
-` But that last night's moon-viewing party was a dream or illusion was certainly not so.`@`
+` But, she knew last night's moon-viewing party definitely wasn't a dream or an illusion.`@`
 ;　彼女の襟元に付いた、黄泉桜の花びらが、それを静かに物語っていた。@
-` The cherry blossom petals stuck to her neck quietly said as much.`@`
+` The cherry blossom petals stuck to her collar quietly said as much.`@`
 br
 ;　毬枝は改めて、昨夜のことを話す……。\
-` Marie again spoke of last night....`\
+` Marie again told Higanbana about last night....`\
 bg black,22
 bg okujou_03u,22
 
 ;ld r,HIG_D1,80
 
 ;「……ふぅん。@不思議なこともあるものね。」@
-`"Hmmmmmm.`@`It's a really mysterious thing isn't it?"`@`
+`"Hmmmmmm. `@`It's really quite mysterious, isn't it?"`@`
 ;ld l,MAR_D2a,80
 
 ;「私だって妖怪のはずなのに。@……昨夜、何があったのか、さっぱりです……。」\
-`"Even for me, a monster`@`...last night was refreshing..."`\
+`"Even for a youkai such as myself.`@`...I'm at a loss about what happened last night..."`\
 ;bg black,22
 ;bg Air_03,22
 
 ;「あまりに素敵なお月見の晩だったし。@……あんた、人が良さそうだからね。@……旧校舎の主に、呼ばれちゃったんじゃないかしら。」@
-`"It wasn't a particularly great moon-viewing.`@`...You, you seem like a good person.`@`...I wonder if you weren't in fact called by the old school building."`@`
+`"It wasn't a particularly great moon-viewing. `@`...You, you seem like a good person. `@`...I wonder if you weren't in fact called by the old school building."`@`
 ;「……………………。@……そうですね。@………そうかもしれませんね。」\
-`".........`@`....is that so.`@`...I guess that might be that case"`\
+`".........`@`....Maybe.`@`...I guess that might be that case"`\
 ;　ありがとう、旧校舎さん。@
 `"Thank you, Old School Building-san."`@`
 br
 ;　また、月の綺麗な夜には、ご一緒しましょうね。@
-` Again, in the beautiful night of the moon, let's do it together.`@`
+` In the beautiful night of the moon, let's come together again someday.`@`
 ;　どうか、今後ともよろしくお願いします。\
-` Whatever happens, thank you in advance.`\
+` Whatever happens, thank you, and treat me well.`\
 
 ;＜おしまい＞
 
