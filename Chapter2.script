@@ -332,35 +332,50 @@ me1v 24,50
 
 
 
-「１３階段なんて、本当にあるわけ？」@
-「うん。@学校八不思議の、すっごい有名なやつだよ。」\
+;「１３階段なんて、本当にあるわけ？」@
+`"13th floor you say? Is there really such a thing?"`@
+;「うん。@学校八不思議の、すっごい有名なやつだよ。」\
+`"Yeah. `@`It's one of the most famous of the Eight School Mysteries."`\
 
 ld r,AYA_D4,22
 
-　１３階段の怪談なら、私も聞いたことがある。@
+;　１３階段の怪談なら、私も聞いたことがある。@
+`　I've also heard the story of the 13th floor.`@
 br
-　ぴったり１３段の階段なんて学校には存在しないはずなのに。@唐突に階段が１３段になってしまうらしいという怪異。@
-　そして、それを踏んだ者には、恐ろしいことが起こるとか何とか……。\
+;　ぴったり１３段の階段なんて学校には存在しないはずなのに。@唐突に階段が１３段になってしまうらしいという怪異。@
+`　Even though the school shouldn't have a 13 steps on a flight of stairs. `@`There's now this strange phenomenom that has just developed about a 13th step.`@
+;　そして、それを踏んだ者には、恐ろしいことが起こるとか何とか……。\
+`　And they say that horrors await those who stumble upon it, or some such...`\
 
 
-「１３階段を踏んじゃったら、どうなんの？」@
-「死神が命、奪いに来るんだって。@どこまでもどこまでも追っ掛けて来るんだって。」@
-「えー、何それ、やだー、あははうふふっ。」\
+;「１３階段を踏んじゃったら、どうなんの？」@
+`"What happens when you step on the 13th step?"`@
+;「死神が命、奪いに来るんだって。@どこまでもどこまでも追っ掛けて来るんだって。」@
+`"They say the grim reaper comes to take your life. `@`I've heard it'll follow you wherever you go, no matter how far."`@
+;「えー、何それ、やだー、あははうふふっ。」\
+`"Huuuh? What is that? No way, ahaha,uhuhu."`\
 
 ld r,AYA_D3,80
 
-　１３階段を踏んだら、死神が命を奪ってくれる、か。@
+;　１３階段を踏んだら、死神が命を奪ってくれる、か。@
+`　If you step on the 13th floor, the grim reaper will come for your life, huh?`@
 br
-　………階段なら学校で毎日、上り下りをしてる。@
-　でも、そんなものが現れて、私の命を奪ってくれたことは一度もない。\
+;　………階段なら学校で毎日、上り下りをしてる。@
+`　...I go up and down stairs every day at school.`@
+;　でも、そんなものが現れて、私の命を奪ってくれたことは一度もない。\
+`　But I've never experienced such a thing, and my life has yet to be taken from me because of it.`\
 
 ld r,AYA_D2,80
 
-　…………………………。@
+;　…………………………。@
+`　.........`@
 br
-　死神、か……。@
-　人の命を刈り取る、無慈悲な存在。@
-　魂を奪い、黄泉へ連れ去ってくれるという、死への案内人。\
+;　死神、か……。@
+`　Grim reaper, huh...`@
+;　人の命を刈り取る、無慈悲な存在。@
+`　Harvesting the lives of mortals, a being without mercy.`@
+;　魂を奪い、黄泉へ連れ去ってくれるという、死への案内人。\
+`　Snatching souls and ferrying them down to the underworld, the guide to death.`\
 
 bg black,22
 
@@ -368,7 +383,8 @@ fede 0,1000
 E_A
 bgm1 5
 
-　………………………。@
+;　………………………。@
+`　.........`@
 br
 　不思議だ。@本来、不気味に感じるべき存在である死神に、……私は不思議な憧れを抱いていた。\
 
