@@ -135,132 +135,189 @@ bg kyou_01,22
 
 me1v 24,50
 
-「はいっ、じゃあ、ここまでー！@　日直、号令ー！」@
+;「はいっ、じゃあ、ここまでー！@　日直、号令ー！」@
+`"Okay, that's enough for today! `@`Time to go!"`@
 br
-　授業の終わりを告げるチャイムが鳴り響き、先生は時計を見上げる。@
-　日直が、きりーつ、と号令をかける。\
+;　授業の終わりを告げるチャイムが鳴り響き、先生は時計を見上げる。@
+`　The teacher looked up to the clock as the bell signifying the end of class rang.`@
+;　日直が、きりーつ、と号令をかける。\
+`　Leaving class required following a daily routine that started with standing at attention.`\
 
 ld c,AYA_D3,6
 
-　クラス全体が、がたがたと立ち上がる中、……私は少し遅れでのっそりと立ち上がる。@
+;　クラス全体が、がたがたと立ち上がる中、……私は少し遅れでのっそりと立ち上がる。@
+`　While everyone else in class clammored to stand up... I lagged behind and sluggishly rose from my seat.`@ 
 br
-　気付けば、黒板は文字でいっぱいだ。@
-　ノートに写してなんかいない。@私はずっと俯いて、うとうとしていたのだから。\
+;　気付けば、黒板は文字でいっぱいだ。@
+`　I noticed the chalk board was covered in writing.`@
+;　ノートに写してなんかいない。@私はずっと俯いて、うとうとしていたのだから。\
+`　My notes reflected none of it. `@`After all, I had spent the whole time dozing off with my head down.`\
 
-　そしてそれは、この教科だけに限らない。@
-　国語も算数も、理科も社会も、何もかも。@私のノートは真っ白だった。@
+;　そしてそれは、この教科だけに限らない。@
+`　And my drowsiness wasn't limited to just this subject.`@
+;　国語も算数も、理科も社会も、何もかも。@私のノートは真っ白だった。@
+`　Language, math, science, social studies, etc, etc. `@`My class notes were completely blank.`@
 br
-　当然だ。@私は学校でほとんどの時間を、寝て過ごすか、@ぼんやりしながら、人生についてを自問自答しているだけなのだから。\
+;　当然だ。@私は学校でほとんどの時間を、寝て過ごすか、@ぼんやりしながら、人生についてを自問自答しているだけなのだから。\
+`　It's not unusual. `@`I spend almost all my time at school sleeping through classes, `@`or I just daydream to myself pondering life's questions.`\
 
 ld c,AYA_D1,80
 
 bgm1 8
 
-　私の名は、相馬あや（そうま　あや）。@
+;　私の名は、相馬あや（そうま　あや）。@
+`　My name is Aya Souma.`@
 br
-　名前なんて、どうでもいい。@
-　死ねばただの骸。@そんなものに名前なんて意味がない。\
+;　名前なんて、どうでもいい。@
+`　Names and stuff don't really matter.`@
+;　死ねばただの骸。@そんなものに名前なんて意味がない。\
+`　After I'm dead, I'm just a corpse. `@`Ascribing names to such things is meaningless.`\
 
 ld c,AYA_D2,80
 
-　そもそも、生きてたって、名前になんか意味はない。@
+;　そもそも、生きてたって、名前になんか意味はない。@
+`　So, after we've lived our lives, names are somewhat meaningless in the first place.`@
 br
-　その証拠に。@私の名前が、あやだって、あやこだって、それは私に何の影響も与えない。\
+;　その証拠に。@私の名前が、あやだって、あやこだって、それは私に何の影響も与えない。\
+`　Evidence for such. `@`My name, whether Aya or Ayako, has no real influence on me.`\
 
 bg black,24
 bg kyou_02,24
 
-　クラスの反対側に座ってぼんやりしているあの男子。@私は名前さえ知らないけれど、私の人生に何の影響も問題もない。@
+;　クラスの反対側に座ってぼんやりしているあの男子。@私は名前さえ知らないけれど、私の人生に何の影響も問題もない。@
+`　That daydreaming boy sitting on the opposite side of the classroom. `@`Even though he doesn't even know my name, he has no particular influence over me and doesn't complicate my life.`@
 br
-　同じように。@私の名前だって存在だって、彼の人生には何の影響も与えないのだ。\
+;　同じように。@私の名前だって存在だって、彼の人生には何の影響も与えないのだ。\
+`　In the same way. `@`My name, my existence, doesn't have any particular influence on his life either.`\
 
 
-　それは突き詰めれば。@
-　このクラスの全員が、等しく誰の人生にも、何の影響も与えないのだ。@
+;　それは突き詰めれば。@
+`　If we follow this logic.`@
+;　このクラスの全員が、等しく誰の人生にも、何の影響も与えないのだ。@
+`　Everyone in this class, equally in whoever's lives, doesn't particularly influence anyone.`@
 br
-　誰が居ても居なくても。@どのような名前であろうともなかろうとも。@何の意味も為さない。\
+;　誰が居ても居なくても。@どのような名前であろうともなかろうとも。@何の意味も為さない。\
+`　Who lives or doesn't live. `@`Whatever name they have or don't have. `@`None of it has any real meaning.`\
 
 bg black,22
 
 fede 10,1000
 E_MA
 
-　人間は、誰も彼も、何の存在価値もないのだ。@
+;　人間は、誰も彼も、何の存在価値もないのだ。@
+`　Human beings, one and hall, have no real value in living.`@
 br
-　そして私たちは学校で、何の価値もないことを延々と教えられている。\
+;　そして私たちは学校で、何の価値もないことを延々と教えられている。\
+`　And so in school we're endlessly taught things of no real value either.`\
 
-　何を訴えたいのかわからない話の感想文を強要されたり。@
-　電卓が溢れたこの世界で、延々と計算問題を解かされたり。@
-　リトマス試験紙や石綿金網が、私たちの人生に何の影響を与えるのだろう？@
+;　何を訴えたいのかわからない話の感想文を強要されたり。@
+`　We're coerced into doing things like writing our thoughts on subjects we don't understand.`@
+;　電卓が溢れたこの世界で、延々と計算問題を解かされたり。@
+`　Or we're made to solve calculations in a world overflowing with calculators.`@
+;　リトマス試験紙や石綿金網が、私たちの人生に何の影響を与えるのだろう？@
+`　Just how do litmus tests and asbestos wire mesh influence our lives, I wonder?`@
 br
-　……何て皮肉で馬鹿馬鹿しい話だろう。\
+;　……何て皮肉で馬鹿馬鹿しい話だろう。\
+`　...What a cynical and foolish set of ideas, you must think.`\
 
 bg kyou_03,22
 
-　いや、むしろお似合いか。@
+;　いや、むしろお似合いか。@
+`　No, rather, isn't it suitable?`@
 br
-　何の意味も価値もない私たち。@何の意味も価値もないことを学ばされ、何の意味も価値もない人生を送ってる。\
+;　何の意味も価値もない私たち。@何の意味も価値もないことを学ばされ、何の意味も価値もない人生を送ってる。\
+`　For us, who have no real meaning or value. `@`Who are made to learn things of no real meaning or value, we're going through lives of no real meaning or value.`\
 
-　私にとって、世界も自分も全て無意味で無価値。@
+;　私にとって、世界も自分も全て無意味で無価値。@
+`　Everything, the world, myself, all of it was meaningless and worthless to me.`@
 br
-　だから。@
-　どうして自分が生きているのか。@生きていなくてはならないのかも、理由がわからなかった。\
+;　だから。@
+`　So.`@
+;　どうして自分が生きているのか。@生きていなくてはならないのかも、理由がわからなかった。\
+`　Why am I still alive? `@`I can't understand why I can't stop living either.`\
 
-　……どうして私は、この世に生まれてきたのだろう？@
-　先生も親も、人生には意味があって、生きていくことには明白な目標があるという。@
+;　……どうして私は、この世に生まれてきたのだろう？@
+`　...Why was I born into this world, I wonder?`@
+;　先生も親も、人生には意味があって、生きていくことには明白な目標があるという。@
+`　Teachers, parents, they say life has meaning, and that it becomes obvious what it is as you continue to live.`@
 br
-　でも、それは何かと訪ねると、@小難しいことをぐちぐちと口にして煙に巻き、はぐらかしてしまう。\
+;　でも、それは何かと訪ねると、@小難しいことをぐちぐちと口にして煙に巻き、はぐらかしてしまう。\
+`　But if I actually look into what they mean, `@`they'll mumble something ambiguous and give me the slip.`\
 
 bg black,22
 
-　……ないのだ。@生きていることに、意味なんて。@
-　なのに、生きている。@
-　ただ惰性で、何となく生きているのだ。@
+;　……ないのだ。@生きていることに、意味なんて。@
+`　...There just isn't one. `@`There just isn't a reason for living.`@
+;　なのに、生きている。@
+`　Nevertheless, I'm still alive.`@
+;　ただ惰性で、何となく生きているのだ。@
+`　Just out of habit I continue to live somehow.`@
 br
-　私には、それが堪えられなかった。\
+;　私には、それが堪えられなかった。\
+`　I just couldn't stand it anymore.`\
 
 ;bg Different_spiral_1a,22
 bg k_kyou_02,22
 
-　私がこの世に生を受けているなら、その意味を教えて欲しい。@
+;　私がこの世に生を受けているなら、その意味を教えて欲しい。@
+`　If I'm to continue living in this world, I want someone to tell me that reason.`@
 br
-　こう生きて、このように意味を為すという、価値ある人生を与えて欲しい。\
+;　こう生きて、このように意味を為すという、価値ある人生を与えて欲しい。\
+`　Living like this, trying to find a reason, I want to be given a life that has value.`\
 
-　しかし、そんなものは存在しない。@
+;　しかし、そんなものは存在しない。@
+`　But something like that doesn't exist.`@
 br
-　私はただ毎日、ぼんやりと学校に通うことを強要され、@学んでも学ばなくても、何の役にも立たない勉強を強いられている。@
-　そんな無意味な日々に、私はもうとっくに堪えかねている。\
+;　私はただ毎日、ぼんやりと学校に通うことを強要され、@学んでも学ばなくても、何の役にも立たない勉強を強いられている。@
+`　I'm just forced to sluggishly commute to school every day, `@`and whether I learn or not, I'm forced into study that has no real use.`@
+;　そんな無意味な日々に、私はもうとっくに堪えかねている。\
+`　I stopped being able to bear these aimless days long ago.`\
 
 bg black,22
 
-　……死にたいのか、と聞かれれば、イエスとは言わない。@
-　死ぬことに意味があるなら、私はすぐにだって死ぬだろう。@
+;　……死にたいのか、と聞かれれば、イエスとは言わない。@
+`　...Do you want to die? `@`If someone asked me that, I wouldn't answer yes.`@
+;　死ぬことに意味があるなら、私はすぐにだって死ぬだろう。@
+`　If there was a purpose in death, then of course I'd want to die as soon as possible.`@
 br
-　でも、飛び降りたって、首をくくったって、きっとそれはとても苦しいことだ。\
+;　でも、飛び降りたって、首をくくったって、きっとそれはとても苦しいことだ。\
+`　But jumping and falling or hanging by the neck, those would undoubtedly be really painful.`\
 
-　わざわざ自らの手で、苦しいことをしなくちゃならないなんて、それこそ意味がない。@
+;　わざわざ自らの手で、苦しいことをしなくちゃならないなんて、それこそ意味がない。@
+`　The idea of having to cause harm to oneself with one's own hands, that's also meaningless.`@
 br
-　……なら、ある日、突然、朝が来ないなんてことにならないだろうか。\
+;　……なら、ある日、突然、朝が来ないなんてことにならないだろうか。\
+`　...One day, all of a sudden, what if the morning didn't come?`\
 
 bg e002,22
 
-　朝にならないから、私は目覚めない。@
+;　朝にならないから、私は目覚めない。@
+`　If morning didn't come, I wouldn't wake up.`@
 br
-　ずっと寝たまま、永遠に。@
-　そしてそのまま、雪が解けて消えるように、@……まるで初めから存在しなかったかのように、消えてしまいたい。\
+;　ずっと寝たまま、永遠に。@
+`　I'd stay asleep, forever.`@
+;　そしてそのまま、雪が解けて消えるように、@……まるで初めから存在しなかったかのように、消えてしまいたい。\
+`　And like that, just as snow melts, `@`...just as I had never existed in the first place, I'd want to disappear entirely.`\
 
-　だからそれは、自殺願望とは異なる。@
-　無意味な自分に相応しい、自分という存在の無意味化。@
-　消滅願望とでも言えばいいのだろうか。@
+;　だからそれは、自殺願望とは異なる。@
+`　That's different than wanting to kill myself.`@
+;　無意味な自分に相応しい、自分という存在の無意味化。@
+`　I want to go to the meaningless void that so suits my meaningless self.`@
+;　消滅願望とでも言えばいいのだろうか。@
+`　One could say, perhaps, I want to erase myself.`@
 br
-　多分。@私が唯一、夢と呼べるものがあったなら、それだった。\
+;　多分。@私が唯一、夢と呼べるものがあったなら、それだった。\
+`　Maybe. `@`If I could say I had one dream, that was it.`\
 
 bg black,22
 
-　私、相馬あやは。@眠るように解けるように、……消えてしまいたかった。@
+;　私、相馬あやは。@眠るように解けるように、……消えてしまいたかった。@
+`　I, Aya Souma. `@`Wanted to disappear... as if asleep... like melting snow.`@
 br
-　しかしそんな、この世ならざる死に方など、あるわけもない。@
-　それを望むなら、……この世ならざる何かに頼る他なかった。\
+;　しかしそんな、この世ならざる死に方など、あるわけもない。@
+`　Unfortunately there wasn't any way to die in this world like that.`@
+;　それを望むなら、……この世ならざる何かに頼る他なかった。\
+`　If I wanted that, ...then the only thing I could do was rely on something not of this world.`\
 
 fede 0,1000
 E_A
@@ -270,39 +327,40 @@ bg kyou_01,22
 
 me1v 24,50
 
-　そんな時、クラスメートのおしゃべりが、偶然、私の耳に入る……。\
+;　そんな時、クラスメートのおしゃべりが、偶然、私の耳に入る……。\
+`　At that time, coincidentally, my classmates' chatter entered my ears...`\
 
 
 
-「割れ厨って何、本当にいるわけ？」@
-「うん。@２ちゃんねるの、すっごい有名なやつだよ。」\
+「１３階段なんて、本当にあるわけ？」@
+「うん。@学校八不思議の、すっごい有名なやつだよ。」\
 
 ld r,AYA_D4,22
 
-　割れ厨なら、私も聞いたことがある。@
+　１３階段の怪談なら、私も聞いたことがある。@
 br
-　彼岸花の本物なんて存在しないはずなのに。@唐突にそれっぽいのがP2Pに投下される怪異。@
+　ぴったり１３段の階段なんて学校には存在しないはずなのに。@唐突に階段が１３段になってしまうらしいという怪異。@
 　そして、それを踏んだ者には、恐ろしいことが起こるとか何とか……。\
 
 
-「踏んじゃったら、どうなんの？」@
-「警察が命、奪いに来るんだって。@どこまでもどこまでも追っ掛けて来るんだって。」@
+「１３階段を踏んじゃったら、どうなんの？」@
+「死神が命、奪いに来るんだって。@どこまでもどこまでも追っ掛けて来るんだって。」@
 「えー、何それ、やだー、あははうふふっ。」\
 
 ld r,AYA_D3,80
 
-　偽物を踏んだら、警察が命を奪ってくれる、か。@
+　１３階段を踏んだら、死神が命を奪ってくれる、か。@
 br
-　………違法ソフトならいつも、上り下りをしてる。@
+　………階段なら学校で毎日、上り下りをしてる。@
 　でも、そんなものが現れて、私の命を奪ってくれたことは一度もない。\
 
 ld r,AYA_D2,80
 
 　…………………………。@
 br
-　警察、か……。@
+　死神、か……。@
 　人の命を刈り取る、無慈悲な存在。@
-　職を奪い、無職へ連れてってくれるという、ニートへの案内人。\
+　魂を奪い、黄泉へ連れ去ってくれるという、死への案内人。\
 
 bg black,22
 
@@ -312,16 +370,16 @@ bgm1 5
 
 　………………………。@
 br
-　不思議だ。@本来、不気味に感じるべき存在である警察に、……私は不思議な憧れを抱いていた。\
+　不思議だ。@本来、不気味に感じるべき存在である死神に、……私は不思議な憧れを抱いていた。\
 
-　警察はどのように命を奪ってくれるのだろう。@
+　死神はどのように命を奪ってくれるのだろう。@
 br
-　ある日突然朝早くにやってきて手錠を架けるのだろうか。\
+　ぱちりと、まるで電気のスイッチでも消すように、命を奪ってくれるのだろうか。\
 
 bg kyou_03,0
 ld r,AYA_D2,22
 
-　そうだとしたら、……私にとって、警察の存在は、まさに慈悲だった。@
+　そうだとしたら、……私にとって、死神の存在は、まさに慈悲だった。@
 br
 　自分にも世界にも、そして繰り返される毎日にも、何の意味も価値も見出せない私にとって、@ここは居るだけで身を焼かれる乾き切った地獄も同然なのだ。\
 
@@ -329,19 +387,19 @@ cl r,22
 
 　……ならば私の生の意味は。@
 br
-　この世界から私を連れ去ってくれる、警察が訪れる日を、ただ待ち続けること。@この一点だけなのではないだろうか。\
+　この世界から私を連れ去ってくれる、死神が訪れる日を、ただ待ち続けること。@この一点だけなのではないだろうか。\
 
-　その日より、私、相馬あやは、@違法ダウソをする度に、その転送量を心の中で数えるようになった。\
+　その日より、私、相馬あやは、@学校で階段を上り下りする度に、その段数を心の中で数えるようになった。\
 
 bg black,22
 wait 1000
 bg kaidan_01,22
 
-　１TB。@２TB。@３TB……。\
+　１段。@２段。@３段……。\
 
-　私のHDDは３０テラにある。@だから、毎日必ず下り５TBはある。@
+　私の教室は２階にある。@だから、毎日必ず上り下りがある。@
 br
-　しかしその容量は、１２段で踊り場に達し、さらに１２段で２階に至る。\
+　しかしその階段は、１２段で踊り場に達し、さらに１２段で２階に至る。\
 
 　……当然のことながら、@何度上り下りを試しても、１２段で踊り場で、さらに１２段で２階だった。@
 br
@@ -955,7 +1013,7 @@ wait 1000
 
 ld c,IZA_D5,80
 
-「ロリっ娘だぜ……。@……俺の大好物の、小娘じゃねェか……。@くっくくくくくく……！！」\
+「大好物だぜ……。@……俺の大好物の、クソ落ち目な小娘じゃねェか……。@くっくくくくくく……！！」\
 
 cl c,2
 bg black,2
@@ -966,12 +1024,12 @@ wait 2000
 
 bg kyou_02,22
 
-　相馬あやの昨日という日は、当然に、いつもと何も代わり映えはしなかった。\
+　相馬あやの今日という日は、至極当然に、いつもと何も代わり映えはしなかった。\
 
-　人生のほとんど全てを、ぼんやりとまどろんで過ごし。@
-　お前らのように机に突っ伏して眠った。@
+　授業のほとんど全てを、ぼんやりとまどろんで過ごし。@
+　休み時間は机の上に突っ伏して眠った。@
 br
-　給食もいつものように残して、机の中に押し込んだ。\
+　給食も食欲はなく、いつものように残して、残飯を寸胴に戻した。\
 
 　それだけ。@……いつものようにぼんやりとした、単調で無意味な一日だった。@
 br
@@ -989,13 +1047,13 @@ me1v 24,70
 「ですから、家に帰ったら必ず、うがい、手洗いをするように。@いいですねー！」@
 「「「はーい！！」」」\
 
-「んじゃ兄貴、号令ー！」@
-「おす！@　れーい！！」@
+「では日直、号令ー！」@
+「きりーつ！@　れーい！！」@
 br
 　さようならの号令で、学校から解放される。@
 　……別に家に帰ってもすることなんてないけれど、多少の解放感はある。\
 
-「「「またねーん！！！」\
+「「「さよーならー！！！」\
 
 E_A
 se1v 2,50
@@ -1159,14 +1217,14 @@ wait 1000
 
 bgm1 23
 
-「黄金郷へようこそォ！！@　くっくくっくっく/
+「俺の学校へようこそォ！！@　くっくくっくっく/
 
 
 se1v 84,100
 
 ひゃっはっは！！」@
 br
-　開口一番に魔女が聞かせた笑い声は、……紛れもなく、あの悪夢の中で聞いたものだった。\
+　開口一番に死神が聞かせた笑い声は、……紛れもなく、あの悪夢の中で聞いたものだった。\
 
 ld l,AYA_D7a,23
 
@@ -1209,7 +1267,7 @@ ld c,IZA_D6,24
 
 me1v 17,70
 
-「フヒヒ、ゲームの始まりだ…！！@　どこまで逃げ延びられるかなァ…？！@　楽しませてくれェ！！」\
+「さァ、ゲームの始まりだぜェ…！！@　お前はどこまで逃げ延びられるかなァ…？！@　楽しませてくれェ！！」\
 
 bg black,23
 
@@ -1228,7 +1286,7 @@ wait 1000
 ld c,IZA_D3,22
 ld c,IZA_D5,80
 
-「はっはっはァ！！@　この世界には俺とお前以外には誰もいねェ！！@　早く捕まってエッチしようぜ！」@
+「はっはっはァ！！@　この世界には俺とお前以外には誰もいねェ！！@　そんな大声を出すだけ、体力の無駄だぜェ！」@
 br
 　死神が教室から出てくる。@早足ではあるが、駆けてはいない。@
 　子供の足でも、走れば逃げ切ることは難しくないはず。\
@@ -1252,11 +1310,11 @@ br
 ld r,AYA_D8a,24
 
 
-　昇降口にはホモが立っていた。@……こんなの門番してるとこなんて、見たことがない。@
+　昇降口にはガラス戸が閉まっていた。@……こんなものが閉まっているところなんて、見たことがない。@
 　開けようとするが、開かない。@鍵でも掛かってる？@
 　そうと思わしきものをがちゃがちゃといじるのだが、どうやっても開かない。@びくともしない…！\
 
-　そんなことをしている間に、ホモの足音が階段を降りてくるのが聞こえる。\
+　そんなことをしている間に、死神の足音が階段を降りてくるのが聞こえる。\
 
 bg black,23
 bg shoukou_02,23
@@ -1276,7 +1334,7 @@ ld l,AYA_D5a,23
 
 ld r,IZA_D6,80
 
-「俺かァ？@　いいぜェ。@お前とはどれほどの付き合いになるか知らねェが、一応、自己紹介をしてやらァ。@俺は学校妖怪序列第２位「１３階段のホモ」こと、イザナミさまよ！」\
+「俺かァ？@　いいぜェ。@お前とはどれほどの付き合いになるか知らねェが、一応、自己紹介をしてやらァ。@俺は学校妖怪序列第２位「１３階段の死神」こと、イザナミさまよ！」\
 
 bg black,23
 
@@ -1307,7 +1365,7 @@ bg shoukou_02,23
 ld l,IZA_D3,23
 ld l,IZA_D6,80
 
-「踏んだだろうがァ。@俺のおちんぽをよォ…！！@　お前はしっかりと数えて上ってたはずだぜ？@　忘れたとは言わさねェ！！@　１３階段は、言うなれば俺の釣り針よォ。@俺の大好物な、クソ落ち目のガキに踏ませて、俺の世界に引き摺り込むんだ…！！@　踏んじまったお前はもう俺の獲物よォ！@　泣いても喚いても、誰も助けちゃくれねェぜェ！！」\
+「踏んだだろうがァ。@俺の１３階段をよォ…！！@　お前はしっかりと数えて上ってたはずだぜ？@　忘れたとは言わさねェ！！@　１３階段は、言うなれば俺の釣り針よォ。@俺の大好物な、クソ落ち目のガキに踏ませて、俺の世界に引き摺り込むんだ…！！@　踏んじまったお前はもう俺の獲物よォ！@　泣いても喚いても、誰も助けちゃくれねェぜェ！！」\
 
 　やっぱり、１３階段の怪談は本当だったんだ。@
 　１３階段を踏んでしまったら、死神に獲物にされ、どこまでも追い掛けられるのだ。@
