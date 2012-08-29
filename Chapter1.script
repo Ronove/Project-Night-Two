@@ -922,7 +922,7 @@ quakex 2,200
 ld r,IZA_D6,80
 
 ;「よく言ったッ。@おい、紅茶野郎ッ、毬枝の言うこと、よォく耳をかっぽじって聞いとけよ！@　……毬枝、……お前ェ、死んでからだいぶ変わったなァ？@　根性出てきたぞ、気に入った。@……俺ァ、イザナミ。@学校妖怪序列第２位、１３階段の死神たァ、俺のことよ。」\
-`"Well said. `@`Hey, tea bastaard, maybe you should clean out your ears and listen to Marie! `@`...Marie... Youu've changed a lot since you died, haven't you? `@`You've got some balls -- I like you. `@`...I'm Izanami. `@`I'm the Second Rank of the School Youkai. `@`The Reaper of the 13th Floor? That's me."`\
+`"Well said. `@`Hey, tea bastaard, maybe you should clean out your ears and listen to Marie! `@`...Marie... Youu've changed a lot since you died, haven't you? `@`You've got some balls -- I like you. `@`...I'm Izanami. `@`I'm the Second Rank of the School Youkai. `@`The Reaper of the 13th Step? That's me."`\
 
 bg black,22
 
@@ -943,7 +943,7 @@ ld r,HIG_D3,22
 ;ld r,HIG_D1,80
 
 ;「イザナミは恐ろしい妖怪よ？@　１３階段を踏ませた哀れな獲物を、どこまでも追い詰めて、恐ろしい地獄へ突き落とすの。」@
-`"Izanami is a terrifying youkai, you know? `@`He chases down pitiful prey that step on the 13th floor wherever they go and then he drops them into a terrifying hell."`@
+`"Izanami is a terrifying youkai, you know? `@`He chases down pitiful prey that step on the 13th step of a flight of stairs wherever they go and then he drops them into a terrifying hell."`@
 ;＜彼岸花
 
 ld l,IZA_D4,22
