@@ -386,121 +386,164 @@ bgm1 5
 ;　………………………。@
 `　.........`@
 br
-　不思議だ。@本来、不気味に感じるべき存在である死神に、……私は不思議な憧れを抱いていた。\
+;　不思議だ。@本来、不気味に感じるべき存在である死神に、……私は不思議な憧れを抱いていた。\
+`　It's strange. `@`Even though I should find the thought of a reaper unpleasant... these days I've strangely embraced a longing for it.`\
 
-　死神はどのように命を奪ってくれるのだろう。@
+;　死神はどのように命を奪ってくれるのだろう。@
+`　I wonder how a reaper would kindly take my life away.`@
 br
-　ぱちりと、まるで電気のスイッチでも消すように、命を奪ってくれるのだろうか。\
+;　ぱちりと、まるで電気のスイッチでも消すように、命を奪ってくれるのだろうか。\
+`　I wonder if it would just take my life away like flipping off a light switch.`\
 
 bg kyou_03,0
 ld r,AYA_D2,22
 
-　そうだとしたら、……私にとって、死神の存在は、まさに慈悲だった。@
+;　そうだとしたら、……私にとって、死神の存在は、まさに慈悲だった。@
+`　If that were true, ...then the grim reaper was truly a being of mercy.`@
 br
-　自分にも世界にも、そして繰り返される毎日にも、何の意味も価値も見出せない私にとって、@ここは居るだけで身を焼かれる乾き切った地獄も同然なのだ。\
+;　自分にも世界にも、そして繰り返される毎日にも、何の意味も価値も見出せない私にとって、@ここは居るだけで身を焼かれる乾き切った地獄も同然なのだ。\
+`　My life, this world too, and all of these days I'm made to repeat endlessly, they're all meaningless to me. `@`Just 'being' is the same as being burned and flayed in hell to me.`\
 
 cl r,22
 
-　……ならば私の生の意味は。@
+;　……ならば私の生の意味は。@
+`　...Then my reason for living.`@
 br
-　この世界から私を連れ去ってくれる、死神が訪れる日を、ただ待ち続けること。@この一点だけなのではないだろうか。\
+;　この世界から私を連れ去ってくれる、死神が訪れる日を、ただ待ち続けること。@この一点だけなのではないだろうか。\
+`　Waiting for the day the grim reaper comes to take me away from this world. `@`Perhaps that is the only reason I have.`\
 
-　その日より、私、相馬あやは、@学校で階段を上り下りする度に、その段数を心の中で数えるようになった。\
+;　その日より、私、相馬あやは、@学校で階段を上り下りする度に、その段数を心の中で数えるようになった。\
+`　From that day forth, each time I, Aya Souma, went up and down the stairs at school, `@`I started counting the steps in my mind.`\
 
 bg black,22
 wait 1000
 bg kaidan_01,22
 
-　１段。@２段。@３段……。\
+;　１段。@２段。@３段……。\
+`　1. `@`2. `@`3 steps...`@\
 
-　私の教室は２階にある。@だから、毎日必ず上り下りがある。@
+;　私の教室は２階にある。@だから、毎日必ず上り下りがある。@
+`　My classroom is on the second floor. `@`So everyday I had to go up and down those stairs.`@
 br
-　しかしその階段は、１２段で踊り場に達し、さらに１２段で２階に至る。\
+;　しかしその階段は、１２段で踊り場に達し、さらに１２段で２階に至る。\
+`　However, the steps end at the 12th step, and beyond the 12th step I'd arrive on the second floor.`\
 
-　……当然のことながら、@何度上り下りを試しても、１２段で踊り場で、さらに１２段で２階だった。@
+;　……当然のことながら、@何度上り下りを試しても、１２段で踊り場で、さらに１２段で２階だった。@
+`　...Like the most natrual thing in the world, `@`no matter how many times I'd try going up and down the stairs, I'd get off at the 12th step and arrive on the second floor.`@
 br
-　その１２段が、……ある日、唐突に１３段になって、……死神が現れてくれないだろうか。\
+;　その１２段が、……ある日、唐突に１３段になって、……死神が現れてくれないだろうか。\
+`　I thought maybe that some day... suddenly a 13th step would appear... and a god of death would come for me.`\
 
-　６段。@７段。@８段……。\
+;　６段。@７段。@８段……。\
+`　6. `@`7. `@`8 steps...`\
 
-　そして私に安らかな、眠るような解けるような死を与えて欲しい……。@
+;　そして私に安らかな、眠るような解けるような死を与えて欲しい……。@
+`　I want to be given a peaceful death, like melting away in a dream...`@
 br
-　………さぁ、今日も数えてみよう。@
-　あるはずのない、１３段目を求めて。\
+;　………さぁ、今日も数えてみよう。@
+`　...So, let's see what happens today.`@
+;　あるはずのない、１３段目を求めて。\
+`　I sought after the impossible, a 13th step.`\
 
 bg black,22
 
-　１０段。@１１段。@１２段……。\
+;　１０段。@１１段。@１２段……。\
+`　10. `@`11. `@`12...`\
 
 bg kaidan_01,0
 ld c,AYA_D1,22
 
-「１３段。@/
+;「１３段。@/
+`"13 steps.`@/
 E_A
 ld c,AYA_D4,80
-……………………え。」@
+;……………………え。」@
+`.........Wha."`@
 
 me1v 16,50
 
 br
-　私の右足は、１３段目を踏みしめていた。\
+;　私の右足は、１３段目を踏みしめていた。\
+`　My right foot stood firmly on the 13th step.`\
 
 cl c,0
 ld r,AYA_D9,23
 
-　数え間違えた……？@
+;　数え間違えた……？@
+`　Did I miscount...?`@
 br
-　望んでいたはずの１３段目を踏めたのに、私は咄嗟に踏み間違いだと思ってしまう。@
-　当然だ。@だって、階段は１２段しかないはず。\
+;　望んでいたはずの１３段目を踏めたのに、私は咄嗟に踏み間違いだと思ってしまう。@
+`　Even though I'd arrived on the 13th step I was looking for, I immediately jumped to the conclusion I had miscounted.`@
+;　当然だ。@だって、階段は１２段しかないはず。\
+`　Of course. `@`I mean, there should only be 12 steps on the stairs.`\
 
 bg black,25
 bg kaidan_03,25
 
-　私は慌てて階段を駆け下り、踊り場に戻る。@
-　そして指で一段一段、声に出して数える。@
+;　私は慌てて階段を駆け下り、踊り場に戻る。@
+`　I hurriedly ran down the stairs to the floor below. `@`
+;　そして指で一段一段、声に出して数える。@
+`　Once again, I counted each step with my fingers out loud.`@
 br
-　……１０、１１、１２。@……１２段。\
+;　……１０、１１、１２。@……１２段。\
+`　...10, 11, 12. `@`...12`\
 
 fede 0,1000
 E_A
 
-　そうだ。@１２段だ。@/
+;　そうだ。@１２段だ。@/
+`　Right. `@`Twelve steps.`@/
 bgm1 14
-当然だ。@
-　もう一度上り直し、声に出しながら数える。\
+;当然だ。@
+`Obviously.`@
+;　もう一度上り直し、声に出しながら数える。\
+`　This time while climbing up once again, I counted the steps aloud.`\
 
 bg black,22
 bg kaidan_02,0
 ld c,AYA_D7a,22
 
-「……１１段。@……１２段。@…………１２段で、終わり。@…………………。」@
+;「……１１段。@……１２段。@…………１２段で、終わり。@…………………。」@
+`"...11. `@`...12. `@`.......At 12, it stops. `@`......"`@
 br
-　私の左足は、確かに１２段目を数え、２階へ至っていた。\
+;　私の左足は、確かに１２段目を数え、２階へ至っていた。\
+`　My left foot had certainly sounded on the 12th step, and I arrived on the 2nd floor.`\
 
-　…………………………。@
+;　…………………………。@
+`　.........`@
 br
-　私は階段を上る時、無意識だが常に右足から上るのだ。@
-　だから、偶数である１２段を上れば、それは左足で至ることになる。\
+;　私は階段を上る時、無意識だが常に右足から上るのだ。@
+`　When I went up the stairs, I unconciously always went up with the right foot.`@
+;　だから、偶数である１２段を上れば、それは左足で至ることになる。\
+`　And so, coincidentally my left foot would reach the 12th step.`\
 
 ld c,AYA_D4a,80
 
-　……でもさっき、１３段を数えた時は、私は右足で至った……。@
+;　……でもさっき、１３段を数えた時は、私は右足で至った……。@
+`　...But just now when I counted out the 13th step, I had reached it with my right foot...`@
 br
-　数え間違えただけでなく、……私は何かの気紛れから、左足で階段を上り始めたのだろうか。@
-　そんな気紛れが相まって、数え間違いをしてしまったに違いない………。\
+;　数え間違えただけでなく、……私は何かの気紛れから、左足で階段を上り始めたのだろうか。@
+`　It wasn't just a miscount... by chance maybe I had started climbing the stairs with my left foot.`@
+;　そんな気紛れが相まって、数え間違いをしてしまったに違いない………。\
+`　It must have just been a combination of chance and miscounting...`\
 
 ld c,AYA_D8a,80
 
-「……………でも、……そんなはずは………。」@
+;「……………でも、……そんなはずは………。」@
+`"...But... that's impossible..."`@
 br
-　自信はない。@
-　でも、今、数え直したらやはり１２段。@……それが、冷酷で淡白な、現実だ。\
+;　自信はない。@
+`　I'm not sure.`@
+;　でも、今、数え直したらやはり１２段。@……それが、冷酷で淡白な、現実だ。\
+`　But after I recounted just now, it was 12. `@`...That was the cold hard truth.`@
 
-　そして何よりも。@
-　本当に１３段を踏んだなら、……現れなくてはならないはずの死神が、その姿を現さない。@
+;　そして何よりも。@
+`　Yet more than anything.`@
+;　本当に１３段を踏んだなら、……現れなくてはならないはずの死神が、その姿を現さない。@
+`　If I really stood on the 13th step... the grim reaper, that had to show itself, didn't appear.`@
 br
-　……死神が現れない以上。@……私が１３段目を踏んだと思ったのは勘違いに違いないし。@……仮に本当に１３段目の怪異があったとしても、@……私を迎えに来てくれないのなら、何の意味もないのだ。\
-
+;　……死神が現れない以上。@……私が１３段目を踏んだと思ったのは勘違いに違いないし。@……仮に本当に１３段目の怪異があったとしても、@……私を迎えに来てくれないのなら、何の意味もないのだ。\
+`　...Since the grim reaper can't show itself. `@`...Then I must have simply mistook what I stood on to be the 13th step. `@`...And even if I had stood on a mysterious 13th step, `@`...it didn't mean anything because the reaper didn't come for me.`\
 
 bg black,22
 bg kaidan_01,22
@@ -509,27 +552,37 @@ bg kaidan_02,26
 ld r,AYA_D1,26
 ld r,AYA_D2,80
 
-「１、２、３…………。@………１１、１２。@……何度数えても、……１２段。」@
+;「１、２、３…………。@………１１、１２。@……何度数えても、……１２段。」@
+`"1, 2, 3... `@`...11, 12. `@`...No matter how many times I count it, I end up at 12."`@
 br
-　……そんなものだ。@
-　私は、安堵とも落胆ともつかない溜息を漏らし、@……もう二度と、階段を数えながら上り下りすることはないだろうと思うのだった。\
+;　……そんなものだ。@
+`　...That's how it is.`@
+;　私は、安堵とも落胆ともつかない溜息を漏らし、@……もう二度と、階段を数えながら上り下りすることはないだろうと思うのだった。\
+`　I let loose a sigh of releif and disappointment. `@`...I thought I didn't need to go up and down the stairs to count again.`\
 
 ld r,AYA_D3,80
 
-　馬鹿馬鹿しい…。@
-　やっぱり、１３階段なんて怪談、何の意味もない。@
+;　馬鹿馬鹿しい…。@
+`　How foolish...`@
+;　やっぱり、１３階段なんて怪談、何の意味もない。@
+`　As I thought, the tale of the 13th step has no real meaning.`@
 br
-　私の生きる意味に何の意味もないように、……やっぱり、何の意味もないのだ。@
-　私にも世界にも、何もかも、……意味も価値もない。\
+;　私の生きる意味に何の意味もないように、……やっぱり、何の意味もないのだ。@
+`　Just as it has no impact on my meaningless existence... it's meaningless.`@
+;　私にも世界にも、何もかも、……意味も価値もない。\
+`　Myself, the world, everything and anything, ...it's all useless, meaningless.`\
 
 ld r,AYA_D2,80
 
 me1v 16,50
 
-　消えたい。@
+;　消えたい。@
+`　I want to disappear.`@
 br
-　誰か私を消し去ってくれないだろうか。@
-　この無意味無価値な世界から、@生きる意味も価値もない私を、そっと、水面に解ける粉雪のように……。\
+;　誰か私を消し去ってくれないだろうか。@
+`　Won't someone help erase me?`@
+;　この無意味無価値な世界から、@生きる意味も価値もない私を、そっと、水面に解ける粉雪のように……。\
+`　I want to be erased from this meaningless valueless world. `@`I want my life without meaning to disappear, gently, like a snowflake on the water's surface...`\ 
 
 ;ld r,AYA_D3,80
 
