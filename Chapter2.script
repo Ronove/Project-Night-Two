@@ -667,24 +667,31 @@ bg ie_04,22
 br
 ;　眠るのは生きている人間のすることだ。@
 ` Sleep is for those who are alive.`@
-　死体は横になっているだけで、眠っているわけじゃない。\
-
-　……学校でも家でも居眠りばかりの彼女が、夜に快眠できるわけもない。@
+;　死体は横になっているだけで、眠っているわけじゃない。\
+` Corpses are just lying down, not sleeping.`\
+;　……学校でも家でも居眠りばかりの彼女が、夜に快眠できるわけもない。@
+` She's a girl who dozes at school and at home, so she can't sleep soundly at night.`@
 br
-　だから、眠れない。@
-　学校でも家でもそうであるように、@……まどろみと放心の入り混じった、どろどろの死体になって、@横になっているだけだった。\
+;　だから、眠れない。@
+` That's why she's sleepless.`@
+;　学校でも家でもそうであるように、@……まどろみと放心の入り混じった、どろどろの死体になって、@横になっているだけだった。\
+` Like school and home`@`she became a mushy corpse just lying down`@` mixed up in absent-mindedness and sleep.`\
 
-　それで、せめて無心だったなら、彼女もさぞや気楽だったろう。@
+;　それで、せめて無心だったなら、彼女もさぞや気楽だったろう。@
+` At the very least if she was innocent she would have surely been comfortable.`@
 br
-　しかし、彼女は生きている。@
-　だから、死体になりながらも延々と、@自分の意味や価値、生きることの意味や価値への自問自答を繰り返しているのだ。\
-
-　それに窒息し掛けながら、希薄な意識のまま、緩い頭痛に彼女はずっとずっと苛まれ続けている……。@
+;　しかし、彼女は生きている。@
+` However, the girl still lived.`@
+;　だから、死体になりながらも延々と、@自分の意味や価値、生きることの意味や価値への自問自答を繰り返しているのだ。\
+` So while endlessly becoming a corpse,`@`she had to ask repeatedly the meaning and value in herself and her life.`\
+;　それに窒息し掛けながら、希薄な意識のまま、緩い頭痛に彼女はずっとずっと苛まれ続けている……。@
+` And while choking herself, and losing consciousness, she continues to be tormented by a headache...`@
 br
-　だから、ふと意識が途切れて、わずかにでも眠り側に入った時だけが、@彼女の唯一の解放された時間だったに違いない………。@
+;　だから、ふと意識が途切れて、わずかにでも眠り側に入った時だけが、@彼女の唯一の解放された時間だったに違いない………。@
+` Thus, when her consiousness was suddenly interrupted and she enterend into the side of sleep,`@` it was surely the only time she was released...`@
 br
-　それが、相馬あやの、繰り返される死体のような日々だった……。\
-
+;　それが、相馬あやの、繰り返される死体のような日々だった……。\
+` That was a day for Souma Aya; like a day for a corpse repeated...`\
 bg black,2
 ;mono 0
 
@@ -707,24 +714,33 @@ mcbg 22
 
 wait 1000
 
-　………………………………。@
-　………ここ……は……？@
+;　………………………………。@
+` ............`@
+;　………ここ……は……？@
+` .....this is...?`@
 br
-　紫色と橙色が入り混じった、黄昏色に染まった、どこか。@
-　意識が戻ってくるにつれ、周りがはっきりと見えるようになってくる。\
+;　紫色と橙色が入り混じった、黄昏色に染まった、どこか。@
+` Somewhere where purple and orange mingled and dyed the colors of twilight.`@
+;　意識が戻ってくるにつれ、周りがはっきりと見えるようになってくる。\
+` As consciousness returned, the surroundings became visible.`\
 
-　そこは、………多分、学校の廊下だった。@
-　自分が普段、よく使う廊下ではないけれど。@
+;　そこは、………多分、学校の廊下だった。@
+` That's...probably one of the school hallways.`@
+;　自分が普段、よく使う廊下ではないけれど。@
+` It's not a hallway I often use though.`@
 br
-　多分、校内の、どこかの階の廊下だった。\
-
+;　多分、校内の、どこかの階の廊下だった。\
+` Perhaps it was a hallway somewhere on the ground floor of the school.`\
 bg black,23
 bg rouka_03,23
 
-　ぱたぱたと、誰かが走る音が近付いてくる。@
+;　ぱたぱたと、誰かが走る音が近付いてくる。@
+` The patter of footsteps of someone running was drawing near.`@
 br
-　それは、全身汗だくで呼吸を荒げた、一人の少女だった。@
-　顔つきから、多分、上級生だろうと思った。\
+;　それは、全身汗だくで呼吸を荒げた、一人の少女だった。@
+` It was a girl, sweating profusely and breathing heavily.`@
+;　顔つきから、多分、上級生だろうと思った。\
+` From a cursory glance, I thought it could be an upperclassman.`\
 
 　やがて、ふらりとよろめき、壁に寄りかかり、そのまま、ずり落ちるように座り込む。\
 
