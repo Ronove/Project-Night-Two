@@ -605,20 +605,20 @@ bg gakkou_01,2
 bgm1 22
 
 ;　あやの学校での一日は、ぼんやりしているか、まどろんでいるか。@……あるいは机に突っ伏して眠っているかだけだ。@
-` The first day at Aya's school, she was dozing blankly.`@`...or possibly she may have just been sleeping at her desk.`@
+` At Aya's school, she dozes blankly.`@`...or possibly she may just be sleeping at her desk.`@
 br
 ;　だから、彼女の一日は、常にぼうっとして霞んでいる。@
-` That's why her days have always been hazy and dreamy.`@
+` That's why her days are always  hazy and dreamy.`@
 ;　半分寝ているような、起きているような、……そんなまどろみの中で生きているのだ。\
-` Half asleep, but awake...she existed in that kind of slumber.`\
+` Half asleep, but awake...she exists in that kind of slumber.`\
 bg black,22
 bg gakkou_02,22
 
 ;　そんなだから、……食欲だって、あるわけもない。@
-` That's why even an appetite like that wasn't there.`@
+` That's why even an appetite like that isn't there.`@
 br
 ;　給食の時間も、ほとんど箸は進まず、いつも残していた。@
-` At school lunch time, the chopsticks were almost not used, and she was left behind. `@
+` At school lunch time, the chopsticks are almost not used, and she was left behind. `@
 br
 ;　そしてぼんやりと放課後を向かえ、ぼんやりと下校した。\
 ` So she blankly welcomed after school time, and blankly dismissed herself. `\
@@ -742,22 +742,25 @@ br
 ;　顔つきから、多分、上級生だろうと思った。\
 ` From a cursory glance, I thought it could be an upperclassman.`\
 
-　やがて、ふらりとよろめき、壁に寄りかかり、そのまま、ずり落ちるように座り込む。\
-
+;　やがて、ふらりとよろめき、壁に寄りかかり、そのまま、ずり落ちるように座り込む。\
+` At last, stumbling casually, she slipped and sat down.`\
 se1v 13,50
 quakey 2,200
 
-　彼女の爆発しそうな心臓と肺は、一度足を止めてしまったら、@もう二度と立ち上がる気力を与えてはくれないようだった。\
-
+;　彼女の爆発しそうな心臓と肺は、一度足を止めてしまったら、@もう二度と立ち上がる気力を与えてはくれないようだった。\
+` When her almost exploding heart and lungs stopper her,`@`it seemed she could not muster up the energy to stand again.`\
 E_A
 
-　ずかずか。@/
+;　ずかずか。@/
+` Stomp...Stomp.`@/
 bgm1 12
-……ずかずかずか。@
+;……ずかずかずか。@
+` Stomp...Stomp.`@
 br
-　そんな彼女に、無慈悲な足音が近付いてくる。@
-　足早で重いその足音は、明らかに彼女を目標としていた。\
-
+;　そんな彼女に、無慈悲な足音が近付いてくる。@
+` For the girl, ruthless footsteps approached.`@
+;　足早で重いその足音は、明らかに彼女を目標としていた。\
+` Considering the heavy brisk pace, it was apparent that they'd targeted her.`\
 se1 24
 
 bg black,0
@@ -768,38 +771,47 @@ ld c,IZA_D3,42
 
 ld c,IZA_D2,22
 
-　廊下の彼方にゆらりと、その足音の主の姿が浮かび上がる。@
+;　廊下の彼方にゆらりと、その足音の主の姿が浮かび上がる。@
+` Swaying in the corridor beyond, the figure of the lord of those footsteps appeared.`@
 br
-　それは黒いマントを羽織った男の姿。@
-　肩に担ぎ上げているのは、……大きな大きな、鎌だった。@
-　その姿を見て、死神を連想しない者はいないだろう。\
+;　それは黒いマントを羽織った男の姿。@
+` It was a man in a black coat.`@
+;　肩に担ぎ上げているのは、……大きな大きな、鎌だった。@
+` And on his shoulder he bore a big black scythe.`@
+;　その姿を見て、死神を連想しない者はいないだろう。\
+` Just on seeing such a figure, there was no way it couldn't be a shinigami.`\
 
 me1v 17,70
 
-　少女にも、その禍々しい姿が近付いてくるのが見えているはず。@
+;　少女にも、その禍々しい姿が近付いてくるのが見えているはず。@
+` The figure drawing near to the girl should be visible to her as well.`@
 br
-　しかし、もう立ち上がる気力はおろか、振り返る気力さえもないようだった。\
-
-　死神は、そんな彼女になおもずかずかと近付いてくる。@
+;　しかし、もう立ち上がる気力はおろか、振り返る気力さえもないようだった。\
+` She had not the energy to look over her shoulder, let alone stand up.`\
+;　死神は、そんな彼女になおもずかずかと近付いてくる。@
+` The reaper was still stomping towards her.`@
 br
-　すでに逃げる気力を失い、彼女が観念したことを認めると、にやりと笑った。\
-
+;　すでに逃げる気力を失い、彼女が観念したことを認めると、にやりと笑った。\
+` Having already lost the energy to flee, she allowed herself to resign, and grinned.`\
 ld c,IZA_D5,80
 
-「何、座ってんだァ？@　もう逃げねぇのかァ……？@　……殺されちまうぞォ、おらァ！！」@
-「………も、……もう、……無理です……。@……もう、走れません………。」@
+;「何、座ってんだァ？@　もう逃げねぇのかァ……？@　……殺されちまうぞォ、おらァ！！」@
+`"Huh? You're sitting down?`@`Run away already!`@`...You're gonna be killed!!"`@
+;「………も、……もう、……無理です……。@……もう、走れません………。」@
+`"....It's impossible.`@`...I can't run anymore...."`@
 br
-　少女は荒い息のまま、懇願するようにそう言う。\
-
+;　少女は荒い息のまま、懇願するようにそう言う。\
+`she said, with enough rough breath as if to beg.`\ 
 ld c,IZA_D6,80
 
-「早く立たねぇと、俺が追い付いちまうぞォ？！@　泣き言いってねぇで、さっさと立てや、おらァ！！」@
-「無理です、もう無理です……。@こんなの毎日、……もう嫌です……。@許して……、許して下さい……！」\
-
+;「早く立たねぇと、俺が追い付いちまうぞォ？！@　泣き言いってねぇで、さっさと立てや、おらァ！！」@
+`If you don't stand up I'm gonna catch up with you!`@`Stop crying and stand, now!!"`@
+;「無理です、もう無理です……。@こんなの毎日、……もう嫌です……。@許して……、許して下さい……！」\
+`"It's impossible. Impossible...`@`Every day is like this. It's detestable.`@`Forgive me...forgive me..!"`\
 ld c,IZA_D8,80
 
-「アホかてめェ。@俺ァ、死神だぞォ！！@　死神が獲物、許すわきゃねェだらァ！！」\
-
+;「アホかてめェ。@俺ァ、死神だぞォ！！@　死神が獲物、許すわきゃねェだらァ！！」\
+`"Stupid.`@`I'm a shinigami!!`@`Shinigami don't forgive their prey!!"`\
 bg black,23
 bg rouka_04,23
 
