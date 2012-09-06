@@ -903,38 +903,44 @@ me2v 28,100
 br
 ;　無我の境地などとんでもない。@
 ` Such ridiculous selflessness.`@
-　全身は焼ける痛みと凍える痛みではちきれそうで。@どこまでも無限に落下していく恐怖で心も破裂しそうだった。\
-
+;　全身は焼ける痛みと凍える痛みではちきれそうで。@どこまでも無限に落下していく恐怖で心も破裂しそうだった。\
+` Her whole body burst with the pain of burning and freezing.`@` Her heart was blown away by fear.`\ 
 se1 24
 se2v 66,100
 bg aka2,8
 
-　唐突に、漆黒の奈落の底が、姿を現す。@
-　それは見るもおぞましい、不気味な肉色の、ぶよぶよとした異界だった。@
+;　唐突に、漆黒の奈落の底が、姿を現す。@
+` Abruptly, something emerged out of the jet black abyss.`@
+;　それは見るもおぞましい、不気味な肉色の、ぶよぶよとした異界だった。@
+` It was hideous to even look at, an eerie, flesh-colored flabby alien.`@
 br
-　例えるなら、まるで胃袋の世界。@巨大なバケモノの胃袋の中そのものだった。\
-
+;　例えるなら、まるで胃袋の世界。@巨大なバケモノの胃袋の中そのものだった。\
+` For example, it was as if it came a world of stomachs.`@`In fact, it was inside the stomach of a giant monster.`\
 bg aka3,25
 se3v 38,100
 quakey 5,1000
 
-　そのおぞましく蠢く肉のひだの中に、少女は墜落する。@
+;　そのおぞましく蠢く肉のひだの中に、少女は墜落する。@
+` The girl crashed into the folds of that hideous, wriggling flesh.`@
 br
 se1 55
 
-　そこには、体を焼いて爛れさせる酸が一面から湧き出していた。@
-　そしてびっしりと剣山のように鋭い牙が一面に生えだしていた。\
-
+;　そこには、体を焼いて爛れさせる酸が一面から湧き出していた。@
+` There, the acid used to burn and inflame the her body gushed from the whole surface.`@
+;　そしてびっしりと剣山のように鋭い牙が一面に生えだしていた。\
+` And fangs packed like pins in a pinholder emerged.`\
 se2v 55,100
 quake 5,700
 
 me3v 3,85
 
-　少女は全身を焼かれ、刺され、転げ回りながら絶叫する。@
+;　少女は全身を焼かれ、刺され、転げ回りながら絶叫する。@
+` The whole of the girl was burnt and pierced while she screamed and writhed.`@
 br
-　皮膚がみるみる溶けて、肉色の人体標本のようになっていく……。@
-　肉の大地は絶え間なく蠢き、少女を酸の海や牙の剣山の上で、嬲るように転がし続けるのだ。\
-
+;　皮膚がみるみる溶けて、肉色の人体標本のようになっていく……。@
+` In a flash, her skin melted and became just like a flesh-colored human specimen...`@
+;　肉の大地は絶え間なく蠢き、少女を酸の海や牙の剣山の上で、嬲るように転がし続けるのだ。\
+` The flesh on the ground still twiched, and he turned the girl over, in the sea of acid and on top of the pin-like fangs, as if to tease her.`\
 　それは紛れもなく、巨大な悪魔の胃袋が、彼女を消化しようとする行為だった。@
 br
 　少女は苦痛に絶叫しながら、早く自分が事切れてくれることを願う。@
