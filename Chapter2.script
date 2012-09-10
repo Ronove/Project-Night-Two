@@ -943,9 +943,10 @@ br
 ` The flesh on the ground still twiched, and he turned the girl over, in the sea of acid and on top of the pin-like fangs, as if to tease her.`\
 　それは紛れもなく、巨大な悪魔の胃袋が、彼女を消化しようとする行為だった。@
 br
-　少女は苦痛に絶叫しながら、早く自分が事切れてくれることを願う。@
-　しかし、酸も牙も、全身の生皮を剥ぐかのように苛むのに、死には一向に至らせてくれない。\
-
+;　少女は苦痛に絶叫しながら、早く自分が事切れてくれることを願う。@
+` The girl, screaming in pain hoped she would depart soon.`@
+;　しかし、酸も牙も、全身の生皮を剥ぐかのように苛むのに、死には一向に至らせてくれない。\
+` However, even though the fangs and acid stipped the skin of the girl, death did not come to her.`\
 
 bg black,26
 ;bg k_rouka_03,0
@@ -955,10 +956,11 @@ bg black,0
 ld c,IZA_D2,22
 ld c,IZA_D6,80
 
-「死ねるわけねェだろ。@お前はもう、死んだんだぜ？@　だから二度は死なねェ。@二度と死ねねェ！！@　お前はそこで永遠に、俺の胃袋の中で嬲られて、俺に魂を啜り取られるんだよ！！」@
+;「死ねるわけねェだろ。@お前はもう、死んだんだぜ？@　だから二度は死なねェ。@二度と死ねねェ！！@　お前はそこで永遠に、俺の胃袋の中で嬲られて、俺に魂を啜り取られるんだよ！！」@
+` "You won't die.`@`Oh, you're already dead?`@`Well then, you'll die a second time.`@`A second death!!`@`For eternity you'll be teased in my stomach, and your soul will be given to me!!"`@
 br
-　死神の男は眼下を見下ろし、苦悶の絶叫を抑えられない彼女を嘲笑う。\
-
+;　死神の男は眼下を見下ろし、苦悶の絶叫を抑えられない彼女を嘲笑う。\
+` The shinigami looked on, ridiculing the girl who could not surpress her cries of anguish and suffering.`\
 
 　苦痛に喘ぐことしか出来ない少女にはわからないだろうが。@ここから見下ろせば、眼下には他にも何人もの哀れな犠牲者を見ることが出来る。\
 
@@ -973,7 +975,8 @@ br
 
 me4v 16,70
 
-　しかしそれでも、死ねない。@
+;　しかしそれでも、死ねない
+` But even then, she could not die
 br
 　もはや口さえなく、苦悶に呻き声を漏らすことさえ出来なくても。@
 　永遠に死ねず、永遠にこの悪魔の胃袋の中で弄ばれ続けるのだ……。\
