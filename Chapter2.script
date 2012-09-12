@@ -978,9 +978,10 @@ me4v 16,70
 ;　しかしそれでも、死ねない
 ` But even then, she could not die
 br
-　もはや口さえなく、苦悶に呻き声を漏らすことさえ出来なくても。@
-　永遠に死ねず、永遠にこの悪魔の胃袋の中で弄ばれ続けるのだ……。\
-
+;　もはや口さえなく、苦悶に呻き声を漏らすことさえ出来なくても。@
+` Without her mouth she could no longer scream in agony.`@
+;　永遠に死ねず、永遠にこの悪魔の胃袋の中で弄ばれ続けるのだ……。\
+` An eternity without dying--an eternity being teased in the stomach of this demon...`\
 
 bg black,22
 ;bg k_rouka_03,0
@@ -994,16 +995,19 @@ fedexx 85,100,100,100,100,0,2000
 ld c,IZA_D2,2
 ld c,IZA_D3,80
 
-　死神が、……そう言いながら、見る。@
+;　死神が、……そう言いながら、見る。@
+` While saying that, the shinigami looked.`@
 br
-　“私”を、見る。\
-
-　……ここって、……私の夢の中の世界じゃ、なかったっけ……？@
+;　“私”を、見る。\
+` He looked at "me".`\
+;　……ここって、……私の夢の中の世界じゃ、なかったっけ……？@
+` Isn't this...the world of my dreams...?`@
 br
 　テレビの向こうにいるはずの人物に、こちらを睨みつけられたかのような不気味さ。@
 　この不気味な何かは、どうせ私の夢で、@“私”には関係ないものと、心のどこかで決め付けていた。\
 
-　しかし、死神は“私”に向かって言っているのだ。@
+;　しかし、死神は“私”に向かって言っているのだ。@
+` But the shinigami was speaking to me.`@
 br
 　雪が解けるように眠るように死ぬことが願望である、“私”に言っているのだ。\
 
