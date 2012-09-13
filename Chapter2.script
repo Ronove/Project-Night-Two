@@ -1009,12 +1009,13 @@ br
 ;　しかし、死神は“私”に向かって言っているのだ。@
 ` But the shinigami was speaking to me.`@
 br
-　雪が解けるように眠るように死ぬことが願望である、“私”に言っているのだ。\
-
-　死神は、にやにやと笑いながらも、決して私をその眼力から逃がしてはくれない。@
+;　雪が解けるように眠るように死ぬことが願望である、“私”に言っているのだ。\
+` Speaking to me, my desire to die as if falling asleep, softly as snow melts.`\
+;　死神は、にやにやと笑いながらも、決して私をその眼力から逃がしてはくれない。@
+` The shinigami didn't let me escape from that insight.`@
 br
-　私は夢の中であるにもかかわらず、……全身が金縛りになるような恐怖を覚えるのだった……。\
-
+;　私は夢の中であるにもかかわらず、……全身が金縛りになるような恐怖を覚えるのだった……。\
+` Even though it was a dream, I remembered the fear as if I was being paralyzed by it...`\
 se3v 66,100
 
 bg white,48
@@ -1025,10 +1026,11 @@ bg ie_06,48
 fedexx 0,0,0,0,0,70,3000
 E_B
 
-　………さっきからずっと聞こえるそれが、目覚ましのアラームであると気付けた時。@私は心の底から安堵した。@
+;　………さっきからずっと聞こえるそれが、目覚ましのアラームであると気付けた時。@私は心の底から安堵した。@
+` When I noticed it, it had been ringing for a while--an alarm clock.`@`I was relieved from the bottom of my heart.`@
 br
-　目を覚ました時。@私の全身は汗でびっしょりだった。\
-
+;　目を覚ました時。@私の全身は汗でびっしょりだった。\
+` When I woke up`@`my body was drenched in sweat.`\
 fede 0,1000
 E_A
 
