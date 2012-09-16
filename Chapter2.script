@@ -1065,8 +1065,8 @@ bg black,22
 mono 0
 bg ie_06,22
 
-　私は、母の「とっとと起きてきなさい！」という声が聞こえてくるまで、@しばらくの間、放心することしか出来なかった……。\
-
+;　私は、母の「とっとと起きてきなさい！」という声が聞こえてくるまで、@しばらくの間、放心することしか出来なかった……。\
+` I could only absent myself for a while`@`until I could hear my mother's voice calling for me to wake up...`\
 bg black,2
 ;wait 2000
 
@@ -1090,52 +1090,61 @@ bg shoukou_01,22
 
 bgm1 6
 
-　……あの夢は、一体、何だったんだろう。@
+;　……あの夢は、一体、何だったんだろう。@
+` ...what on earth was that dream?`@
 br
-　あれが、ひょっとして、１３階段の呪いか何かだろうか。\
+;　あれが、ひょっとして、１３階段の呪いか何かだろうか。\
+` By any chance, was it the curse of the 13 staircase?`\
 
-
-　呪いなんて、……あるわけがない。@
+;　呪いなんて、……あるわけがない。@
+` No, surely not a curse...`@
 br
-　多分、私は１３階段を踏んだと思い込み、@……自分が思っている以上に、怯えてしまっていたのだろう。@そしてそれを、ああして夢に見てしまったに違いない。\
-
+;　多分、私は１３階段を踏んだと思い込み、@……自分が思っている以上に、怯えてしまっていたのだろう。@そしてそれを、ああして夢に見てしまったに違いない。\
+` I was under the impression that I'd probably stepped onto the 13th staircase.`@`It seemed I remembered more than I had thought.`@`I surely had that dream.`\
 bg black,22
 bg kaidan_01,22
 ld c,AYA_D4a,22
 
-　私は昇降口から、……いつもの階段の前にやって来る。@
+;　私は昇降口から、……いつもの階段の前にやって来る。@
+` I will always come from the hatch in front of the stairs.`@
 br
-　他の生徒たちが、何の関心もなく、当然のように踏み越えていくその階段を、@……もう一度、指で数える。\
-
+;　他の生徒たちが、何の関心もなく、当然のように踏み越えていくその階段を、@……もう一度、指で数える。\
+` Other students had no interest, and so unsurprisingly overlooked that staircase.`@`Once more, I'll count on my fingers.`\
 bg black,22
 bg kaidan_03,22
 ;ld c,AYA_D7a,22
 ;ld c,AYA_D3,80
 
-　……１２段。@
-　間違いなく、１２段だった。@
+;　……１２段。@
+` The 12th flight of steps.`@
+;　間違いなく、１２段だった。@
+` Without a doubt, it was the 12th staircase.`@
 br
-　そう。@やっぱりあれは、数え間違いだったんだ。@
-　なのに、本当に１３階段を踏んだと思いこんで怯えて、あんな夢まで見て。\
-
+;　そう。@やっぱりあれは、数え間違いだったんだ。@
+` Yes.`@`I'd made a mistake while counting.`@
+;　なのに、本当に１３階段を踏んだと思いこんで怯えて、あんな夢まで見て。\
+` Even so, I was scared, convinced that I had actually climbed that staircase and had a dream like that.`\
 bg black,22
 bg kaidan_01,0
 ld r,AYA_D2,22
 
-　………私ってば、馬鹿みたい。@
+;　………私ってば、馬鹿みたい。@
+` I'm such an idiot.`@
 br
-　そう心の中で呟きながらも、……私は多分、今も怯えていた。\
-
-　私にとって、死は安らかなる終着点。@そう信じてきた。@
+;　そう心の中で呟きながらも、……私は多分、今も怯えていた。\
+` Even while muttering this to myself...I was still scared.`\
+;　私にとって、死は安らかなる終着点。@そう信じてきた。@
+` For me, death would be a peaceful end.`@`I had believed that.`@
 br
-　それを見透かされ、死後の世界はそのような甘いものではないと突きつけられた、あの衝撃。\
-
+;　それを見透かされ、死後の世界はそのような甘いものではないと突きつけられた、あの衝撃。\
+` But I was shocked, having seen through that perception and been confronted with the fact that the afterlife was not such a sweet thing after all.`\
 ld r,AYA_D4a,80
 
-　………………あんなの、どうせただの夢。@気にしちゃ駄目だ。@馬鹿馬鹿しい……。@
+;　………………あんなの、どうせただの夢。@気にしちゃ駄目だ。@馬鹿馬鹿しい……。@
+` .......anyway. It was just a dream.`@`Useless to worry about it.`@`Idiot...`@
 br
-　そうは思いつつも。@……私はその階段を、心の中で数えながら上らずには、いられなかった……。\
-
+;　そうは思いつつも。@……私はその階段を、心の中で数えながら上らずには、いられなかった……。\
+` While thinking that`@`...I couldn't count any further while on those stairs...`\
 cl r,2
 
 ;■あやが階段を去り、しばらく階段のままwait。@その後、死神フェードイン。@
@@ -1155,8 +1164,8 @@ wait 1000
 
 ld c,IZA_D5,80
 
-「大好物だぜ……。@……俺の大好物の、クソ落ち目な小娘じゃねェか……。@くっくくくくくく……！！」\
-
+;「大好物だぜ……。@……俺の大好物の、クソ落ち目な小娘じゃねェか……。@くっくくくくくく……！！」\
+`"You're my favorite...`@`...my favorite girl aren't you...?`@`kukukukukukuku!!"`\
 cl c,2
 bg black,2
 
@@ -1166,8 +1175,8 @@ wait 2000
 
 bg kyou_02,22
 
-　相馬あやの今日という日は、至極当然に、いつもと何も代わり映えはしなかった。\
-
+;　相馬あやの今日という日は、至極当然に、いつもと何も代わり映えはしなかった。\
+` On this day, for Aya Souma, as usual, nothing changed for the better.`\
 　授業のほとんど全てを、ぼんやりとまどろんで過ごし。@
 　休み時間は机の上に突っ伏して眠った。@
 br
