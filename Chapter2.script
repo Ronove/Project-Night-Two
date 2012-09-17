@@ -1177,15 +1177,18 @@ bg kyou_02,22
 
 ;　相馬あやの今日という日は、至極当然に、いつもと何も代わり映えはしなかった。\
 ` On this day, for Aya Souma, as usual, nothing changed for the better.`\
-　授業のほとんど全てを、ぼんやりとまどろんで過ごし。@
-　休み時間は机の上に突っ伏して眠った。@
+;　授業のほとんど全てを、ぼんやりとまどろんで過ごし。@
+` She spent time dozing blankly for almost all of the lesson.`@
+;　休み時間は机の上に突っ伏して眠った。@
+` During recess she put her head down on the desk and slept.`@
 br
-　給食も食欲はなく、いつものように残して、残飯を寸胴に戻した。\
-
-　それだけ。@……いつものようにぼんやりとした、単調で無意味な一日だった。@
+;　給食も食欲はなく、いつものように残して、残飯を寸胴に戻した。\
+` As usual, she'd remain behind, and without lunch nor appetite, she'd feed on scraps of leftover food.`\
+;　それだけ。@……いつものようにぼんやりとした、単調で無意味な一日だった。@
+` It was just that.`@`...As usual, a boring and meaningless day.`@
 br
-　………少なくとも、学校を終えるまでは。\
-
+;　………少なくとも、学校を終えるまでは。\
+` At least...until she finished school.`\
 bg black,22
 
 E_A
@@ -1195,13 +1198,16 @@ bg kyou_01,22
 
 me1v 24,70
 
-「ですから、家に帰ったら必ず、うがい、手洗いをするように。@いいですねー！」@
-「「「はーい！！」」」\
+;「ですから、家に帰ったら必ず、うがい、手洗いをするように。@いいですねー！」@
+`"So, when you go home,`@`make sure to rinse your mouth and use the toilet!"`@
+;「「「はーい！！」」」\
+`"Yes!"`\
 
 「では日直、号令ー！」@
 「きりーつ！@　れーい！！」@
 br
-　さようならの号令で、学校から解放される。@
+;　さようならの号令で、学校から解放される。@
+` In that goodbye, she was free from school.`@
 　……別に家に帰ってもすることなんてないけれど、多少の解放感はある。\
 
 「「「さよーならー！！！」\
