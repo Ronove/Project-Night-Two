@@ -964,33 +964,38 @@ br
 ;　死神の男は眼下を見下ろし、苦悶の絶叫を抑えられない彼女を嘲笑う。\
 ` The shinigami looked on, ridiculing the girl who could not surpress her cries of anguish and suffering.`\
 
-　苦痛に喘ぐことしか出来ない少女にはわからないだろうが。@ここから見下ろせば、眼下には他にも何人もの哀れな犠牲者を見ることが出来る。\
+;　苦痛に喘ぐことしか出来ない少女にはわからないだろうが。@ここから見下ろせば、眼下には他にも何人もの哀れな犠牲者を見ることが出来る。\
+`　The girl probably couldn't understand as all she could feel was the grip of agonizing pain. `@`If she could look down at the scene from above, she would see the suffering of countless victims.`\
 
 bg black,26
 bg aka2,22
 se1 55
 
-　全身の皮をすっかり溶かされ、もはや男か女かもわからない姿になっても死ねず、@苦悶に転げまわる哀れな犠牲者たち。@
+;　全身の皮をすっかり溶かされ、もはや男か女かもわからない姿になっても死ねず、@苦悶に転げまわる哀れな犠牲者たち。@
+`　Their hides had clearly dissolved from their undying bodies that could no longer be distinguished as men or women. `@`Victims writhing in agony.`@
 br
-　より長くこの地獄にいる者は、もはや人間としての姿さえ失いかけている。@
-　腕が千切れ、頭が千切れ、@……最後には、元が人であったことさえわからなくなる、肉塊と成り果てるのだ。\
+;　より長くこの地獄にいる者は、もはや人間としての姿さえ失いかけている。@
+`　The ones that had spent too long in this hell didn't even appear human.`@
+;　腕が千切れ、頭が千切れ、@……最後には、元が人であったことさえわからなくなる、肉塊と成り果てるのだ。\
+`　Their arms and heads were split apart, `@`...and finally they'd reach a point where they'd become lumps of flesh that one would hardly have thought were once human beings in the first place.`\
 
 me4v 16,70
 
-;　しかしそれでも、死ねない
-` But even then, she could not die
+;　しかしそれでも、死ねない。@
+` But even then, they didn't die.`
 br
 ;　もはや口さえなく、苦悶に呻き声を漏らすことさえ出来なくても。@
-` Without her mouth she could no longer scream in agony.`@
+` Without mouths, they could no release their screams of agony.`@
 ;　永遠に死ねず、永遠にこの悪魔の胃袋の中で弄ばれ続けるのだ……。\
-` An eternity without dying--an eternity being teased in the stomach of this demon...`\
+` An eternity without dying--they'd continue eternally being tortured in the stomach of this demon...`\
 
 bg black,22
 ;bg k_rouka_03,0
 ;ld c,IZA_D4,22
 ;ld c,IZA_D3,80
 
-「これが俺の死後の世界だぜェ…？@　死は安らぎなんかじゃねェ。@永遠の苦痛の入口だ。@……こんな光景を見せられちまったら、@……二度と、雪が解けるように眠るように死にたいなんて、言えやしねェだろォ……？」\
+;「これが俺の死後の世界だぜェ…？@　死は安らぎなんかじゃねェ。@永遠の苦痛の入口だ。@……こんな光景を見せられちまったら、@……二度と、雪が解けるように眠るように死にたいなんて、言えやしねェだろォ……？」\
+`"This is my afterlife... `@`Death isn't paradise or anything of the sort. `@`It's the gateway to an eternity of pain. `@`...After letting me show you this, `@`...I bet you won't say anything about wanting to die in your sleep like melting snow, will ya...?"`\
 
 fedexx 85,100,100,100,100,0,2000
 
@@ -998,26 +1003,28 @@ ld c,IZA_D2,2
 ld c,IZA_D3,80
 
 ;　死神が、……そう言いながら、見る。@
-` While saying that, the shinigami looked.`@
+` While saying that, the shinigami looks.`@
 br
 ;　“私”を、見る。\
-` He looked at "me".`\
+` He looks at "me".`\
 ;　……ここって、……私の夢の中の世界じゃ、なかったっけ……？@
-` Isn't this...the world of my dreams...?`@
+` But this... isn't the world of my dreams at all...?`@
 br
-　テレビの向こうにいるはずの人物に、こちらを睨みつけられたかのような不気味さ。@
-　この不気味な何かは、どうせ私の夢で、@“私”には関係ないものと、心のどこかで決め付けていた。\
+;　テレビの向こうにいるはずの人物に、こちらを睨みつけられたかのような不気味さ。@
+`　It was an unease almost as if an actor that should have been inside a TV set started to glare in my direction.`@
+;　この不気味な何かは、どうせ私の夢で、@“私”には関係ないものと、心のどこかで決め付けていた。\
+`　This uneasiness, somehow within my own dream, `@`my mind was following someone who had nothing to do with "me".`\
 
 ;　しかし、死神は“私”に向かって言っているのだ。@
-` But the shinigami was speaking to me.`@
+` But the shinigami was speaking to "me".`@
 br
 ;　雪が解けるように眠るように死ぬことが願望である、“私”に言っているのだ。\
-` Speaking to me, my desire to die as if falling asleep, softly as snow melts.`\
+` Speaking to "me" and my desire to die as if falling asleep, softly as snow melts.`\
 ;　死神は、にやにやと笑いながらも、決して私をその眼力から逃がしてはくれない。@
-` The shinigami didn't let me escape from that insight.`@
+` The shinigami didn't let me escape from his grinning gaze.`@
 br
 ;　私は夢の中であるにもかかわらず、……全身が金縛りになるような恐怖を覚えるのだった……。\
-` Even though it was a dream, I remembered the fear as if I was being paralyzed by it...`\
+` Even though it was a dream, ...I felt a paralyzing fear all over my body...`\
 se3v 66,100
 
 bg white,48
@@ -1029,40 +1036,44 @@ fedexx 0,0,0,0,0,70,3000
 E_B
 
 ;　………さっきからずっと聞こえるそれが、目覚ましのアラームであると気付けた時。@私は心の底から安堵した。@
-` When I noticed it, it had been ringing for a while--an alarm clock.`@`I was relieved from the bottom of my heart.`@
+` When I realized my alarm clock had been ringing for quite some time, `@`I was relieved from the bottom of my heart.`@
 br
 ;　目を覚ました時。@私の全身は汗でびっしょりだった。\
-` When I woke up`@`my body was drenched in sweat.`\
+` When I woke up, `@`my body was drenched in sweat.`\
 fede 0,1000
 E_A
 
 bgm1 7
 
-　……恐ろしい夢に怯えて目を覚ました経験が、なかったわけじゃない。@
-　しかし、今までのそれとは一線を画す何かだった。@
+;　……恐ろしい夢に怯えて目を覚ました経験が、なかったわけじゃない。@
+`...I'd never had the experience of waking to a scary dream before.`@
+;　しかし、今までのそれとは一線を画す何かだった。@
+` But this was something that distinguished itself from past experiences.`@
 br
-　そう、“何か”。\
-
+;　そう、“何か”。\
+` Yes. "Something".`\
 bg black,22
 
-　あれは本当に夢だったのだろうか。@
+;　あれは本当に夢だったのだろうか。@
+` Was that really a dream?`@
 br
-　こうして、何事もなく布団の中で目を覚ませたことを、これほど嬉しく思ったことはない。\
-
+;　こうして、何事もなく布団の中で目を覚ませたことを、これほど嬉しく思ったことはない。\
+` Hadn't I been lying in bed like this, uneventfully thinking happily with my eyes open?`\
 mono 1
 bg k_rouka_03,0
 ld c,IZA_D5,22
 
-　……あの死神の男の眼光。@笑い声。@……あの胃袋のようなおぞましい世界で、@死ぬことも出来ず、哀れに蠢く犠牲者たちの苦悶の声。@
+;　……あの死神の男の眼光。@笑い声。@……あの胃袋のようなおぞましい世界で、@死ぬことも出来ず、哀れに蠢く犠牲者たちの苦悶の声。@
+` ...that shinigami.`@`His laughter.`@`...the voices of those pitiable, undying, writhing victims in that world not unike a hideous monster's stomach.`@
 br
-　全てがありありと思い出せる。\
-
+;　全てがありありと思い出せる。\
+` I could remember it all.`\
 bg black,22
 mono 0
 bg ie_06,22
 
-　私は、母の「とっとと起きてきなさい！」という声が聞こえてくるまで、@しばらくの間、放心することしか出来なかった……。\
-
+;　私は、母の「とっとと起きてきなさい！」という声が聞こえてくるまで、@しばらくの間、放心することしか出来なかった……。\
+` I could only absent myself for a while`@`until I could hear my mother's voice calling for me to wake up...`\
 bg black,2
 ;wait 2000
 
@@ -1086,52 +1097,61 @@ bg shoukou_01,22
 
 bgm1 6
 
-　……あの夢は、一体、何だったんだろう。@
+;　……あの夢は、一体、何だったんだろう。@
+` ...what on earth was that dream?`@
 br
-　あれが、ひょっとして、１３階段の呪いか何かだろうか。\
+;　あれが、ひょっとして、１３階段の呪いか何かだろうか。\
+` By any chance, was it the curse of the 13 staircase?`\
 
-
-　呪いなんて、……あるわけがない。@
+;　呪いなんて、……あるわけがない。@
+` No, surely not a curse...`@
 br
-　多分、私は１３階段を踏んだと思い込み、@……自分が思っている以上に、怯えてしまっていたのだろう。@そしてそれを、ああして夢に見てしまったに違いない。\
-
+;　多分、私は１３階段を踏んだと思い込み、@……自分が思っている以上に、怯えてしまっていたのだろう。@そしてそれを、ああして夢に見てしまったに違いない。\
+` I was under the impression that I'd probably stepped onto the 13th staircase.`@`It seemed I remembered more than I had thought.`@`I surely had that dream.`\
 bg black,22
 bg kaidan_01,22
 ld c,AYA_D4a,22
 
-　私は昇降口から、……いつもの階段の前にやって来る。@
+;　私は昇降口から、……いつもの階段の前にやって来る。@
+` I will always come from the hatch in front of the stairs.`@
 br
-　他の生徒たちが、何の関心もなく、当然のように踏み越えていくその階段を、@……もう一度、指で数える。\
-
+;　他の生徒たちが、何の関心もなく、当然のように踏み越えていくその階段を、@……もう一度、指で数える。\
+` Other students had no interest, and so unsurprisingly overlooked that staircase.`@`Once more, I'll count on my fingers.`\
 bg black,22
 bg kaidan_03,22
 ;ld c,AYA_D7a,22
 ;ld c,AYA_D3,80
 
-　……１２段。@
-　間違いなく、１２段だった。@
+;　……１２段。@
+` The 12th flight of steps.`@
+;　間違いなく、１２段だった。@
+` Without a doubt, it was the 12th staircase.`@
 br
-　そう。@やっぱりあれは、数え間違いだったんだ。@
-　なのに、本当に１３階段を踏んだと思いこんで怯えて、あんな夢まで見て。\
-
+;　そう。@やっぱりあれは、数え間違いだったんだ。@
+` Yes.`@`I'd made a mistake while counting.`@
+;　なのに、本当に１３階段を踏んだと思いこんで怯えて、あんな夢まで見て。\
+` Even so, I was scared, convinced that I had actually climbed that staircase and had a dream like that.`\
 bg black,22
 bg kaidan_01,0
 ld r,AYA_D2,22
 
-　………私ってば、馬鹿みたい。@
+;　………私ってば、馬鹿みたい。@
+` I'm such an idiot.`@
 br
-　そう心の中で呟きながらも、……私は多分、今も怯えていた。\
-
-　私にとって、死は安らかなる終着点。@そう信じてきた。@
+;　そう心の中で呟きながらも、……私は多分、今も怯えていた。\
+` Even while muttering this to myself...I was still scared.`\
+;　私にとって、死は安らかなる終着点。@そう信じてきた。@
+` For me, death would be a peaceful end.`@`I had believed that.`@
 br
-　それを見透かされ、死後の世界はそのような甘いものではないと突きつけられた、あの衝撃。\
-
+;　それを見透かされ、死後の世界はそのような甘いものではないと突きつけられた、あの衝撃。\
+` But I was shocked, having seen through that perception and been confronted with the fact that the afterlife was not such a sweet thing after all.`\
 ld r,AYA_D4a,80
 
-　………………あんなの、どうせただの夢。@気にしちゃ駄目だ。@馬鹿馬鹿しい……。@
+;　………………あんなの、どうせただの夢。@気にしちゃ駄目だ。@馬鹿馬鹿しい……。@
+` .......anyway. It was just a dream.`@`Useless to worry about it.`@`Idiot...`@
 br
-　そうは思いつつも。@……私はその階段を、心の中で数えながら上らずには、いられなかった……。\
-
+;　そうは思いつつも。@……私はその階段を、心の中で数えながら上らずには、いられなかった……。\
+` While thinking that`@`...I couldn't count any further while on those stairs...`\
 cl r,2
 
 ;■あやが階段を去り、しばらく階段のままwait。@その後、死神フェードイン。@
@@ -1151,8 +1171,8 @@ wait 1000
 
 ld c,IZA_D5,80
 
-「大好物だぜ……。@……俺の大好物の、クソ落ち目な小娘じゃねェか……。@くっくくくくくく……！！」\
-
+;「大好物だぜ……。@……俺の大好物の、クソ落ち目な小娘じゃねェか……。@くっくくくくくく……！！」\
+`"You're my favorite...`@`...my favorite girl aren't you...?`@`kukukukukukuku!!"`\
 cl c,2
 bg black,2
 
@@ -1162,17 +1182,20 @@ wait 2000
 
 bg kyou_02,22
 
-　相馬あやの今日という日は、至極当然に、いつもと何も代わり映えはしなかった。\
-
-　授業のほとんど全てを、ぼんやりとまどろんで過ごし。@
-　休み時間は机の上に突っ伏して眠った。@
+;　相馬あやの今日という日は、至極当然に、いつもと何も代わり映えはしなかった。\
+` On this day, for Aya Souma, as usual, nothing changed for the better.`\
+;　授業のほとんど全てを、ぼんやりとまどろんで過ごし。@
+` She spent time dozing blankly for almost all of the lesson.`@
+;　休み時間は机の上に突っ伏して眠った。@
+` During recess she put her head down on the desk and slept.`@
 br
-　給食も食欲はなく、いつものように残して、残飯を寸胴に戻した。\
-
-　それだけ。@……いつものようにぼんやりとした、単調で無意味な一日だった。@
+;　給食も食欲はなく、いつものように残して、残飯を寸胴に戻した。\
+` As usual, she'd remain behind, and without lunch nor appetite, she'd feed on scraps of leftover food.`\
+;　それだけ。@……いつものようにぼんやりとした、単調で無意味な一日だった。@
+` It was just that.`@`...As usual, a boring and meaningless day.`@
 br
-　………少なくとも、学校を終えるまでは。\
-
+;　………少なくとも、学校を終えるまでは。\
+` At least...until she finished school.`\
 bg black,22
 
 E_A
@@ -1182,8 +1205,10 @@ bg kyou_01,22
 
 me1v 24,70
 
-「ですから、家に帰ったら必ず、うがい、手洗いをするように。@いいですねー！」@
-「「「はーい！！」」」\
+;「ですから、家に帰ったら必ず、うがい、手洗いをするように。@いいですねー！」@
+`"So, when you go home,`@`make sure to rinse your mouth and use the toilet!"`@
+;「「「はーい！！」」」\
+`"Yes!"`\
 
 「では日直、号令ー！」@
 「きりーつ！@　れーい！！」@
