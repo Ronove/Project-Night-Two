@@ -1509,8 +1509,10 @@ bg rouka_04,23
 ;「だ、……誰かぁああぁあ！！@　誰か助けてぇええええぇぇぇ！！！」@
 `"S- ...Somebodyyyy!! `@`SOMEBODY HEEEEeeeEEEEELP!!!"`@
 br
-　防犯訓練の時に習った、助けを求める練習の通りに、私は廊下を駆けながら大声で叫ぶ。@
-　……しかし、その声は廊下をどこまでも残響するだけ。@誰も応えたりはしなかった。\
+;　防犯訓練の時に習った、助けを求める練習の通りに、私は廊下を駆けながら大声で叫ぶ。@
+`　Just as I had learned from a crime prevention lecture, I screamed for help as I ran down the hallway.`@
+;　……しかし、その声は廊下をどこまでも残響するだけ。@誰も応えたりはしなかった。\
+`　...But all my screams did was echo through the hallways. `@`No one gave a response.`\
 
 bg black,24
 bg kyou_04,24
@@ -1518,10 +1520,13 @@ wait 1000
 ld c,IZA_D3,22
 ld c,IZA_D5,80
 
-「はっはっはァ！！@　この世界には俺とお前以外には誰もいねェ！！@　そんな大声を出すだけ、体力の無駄だぜェ！」@
+;「はっはっはァ！！@　この世界には俺とお前以外には誰もいねェ！！@　そんな大声を出すだけ、体力の無駄だぜェ！」@
+`"Ha ha haa!! `@`You and I are alone in this world!! `@`Screaming like that is just a waste of stamina!"`@
 br
-　死神が教室から出てくる。@早足ではあるが、駆けてはいない。@
-　子供の足でも、走れば逃げ切ることは難しくないはず。\
+;　死神が教室から出てくる。@早足ではあるが、駆けてはいない。@
+`　The shinigami left the classroom. `@`He has a quick pace, but he doesn't run.`@
+;　子供の足でも、走れば逃げ切ることは難しくないはず。\
+`　Yet if a child tried to outrun him it would hardly be difficult for him to catch them.`\
 
 bg black,23
 bg rouka_01,23
@@ -1535,18 +1540,24 @@ wait 500
 bg black,24
 bg shoukou_01,24
 
-　私はばたばたと階段を駆け下り、昇降口へ躍り出る。@
+;　私はばたばたと階段を駆け下り、昇降口へ躍り出る。@
+`　I came barreling down the stairwell and ran to the entrance.`@
 br
-　とにかく、この学校から逃げ出そう。@そうすることで、死神の世界から逃げられるかもしれない。\
+;　とにかく、この学校から逃げ出そう。@そうすることで、死神の世界から逃げられるかもしれない。\
+`　At any rate, I have to get out of the school. `@`Once I do that, I might be able to escape the world of the shinigami.`\
 
 ld r,AYA_D8a,24
 
 
-　昇降口にはガラス戸が閉まっていた。@……こんなものが閉まっているところなんて、見たことがない。@
-　開けようとするが、開かない。@鍵でも掛かってる？@
-　そうと思わしきものをがちゃがちゃといじるのだが、どうやっても開かない。@びくともしない…！\
+;　昇降口にはガラス戸が閉まっていた。@……こんなものが閉まっているところなんて、見たことがない。@
+`　The entrance was shut with glass doors. `@`...I had never seen it closed with something like that before.`@
+;　開けようとするが、開かない。@鍵でも掛かってる？@
+`　It looks like it can be opened, but it won't let me out. `@`Does it need a key?`@
+;　そうと思わしきものをがちゃがちゃといじるのだが、どうやっても開かない。@びくともしない…！\
+`　I pondered this as I tried to force the door, but it won't open no matter what I try. `@`It won't budge...!"`\
 
-　そんなことをしている間に、死神の足音が階段を降りてくるのが聞こえる。\
+;　そんなことをしている間に、死神の足音が階段を降りてくるのが聞こえる。\
+`　While I was doing that, I could hear the shinigami's footsteps going down the stairwell.`\
 
 bg black,23
 bg shoukou_02,23
@@ -1554,77 +1565,102 @@ wait 500
 ld r,IZA_D3,22
 ld r,IZA_D5,80
 
-「無駄だぜェ。@俺の学校は、現世から切り離された異空間！@　扉も開かねェし、窓も開かねェ！　窓も割れねェ！！@　お前はこの校舎の中で、俺から走って逃げ回るしか生き残る方法はねェのさッ！！」\
+;「無駄だぜェ。@俺の学校は、現世から切り離された異空間！@　扉も開かねェし、窓も開かねェ！　窓も割れねェ！！@　お前はこの校舎の中で、俺から走って逃げ回るしか生き残る方法はねェのさッ！！」\
+`"It's pointless. `@`My school has its own space severed from the real world! `@`Doors won't open, windows won't open either! You can't even break them!! `@`The only way you can survive in this school now is by running away from meeee!!"`\
 
-　下駄箱の向こうに死神が姿を現す。@
+;　下駄箱の向こうに死神が姿を現す。@
+`　The shinigami reveals himself across the shoe racks.`@
 br
-　下駄箱一つを挟んで、ぐるぐると回って逃げながら、私は麻痺した頭の霞を懸命に払おうとしていた。\
+;　下駄箱一つを挟んで、ぐるぐると回って逃げながら、私は麻痺した頭の霞を懸命に払おうとしていた。\
+`　Running in circles in-between the shoe racks, I drove away the paralyzing haze that seized my mind.`\
 
 ld l,AYA_D5a,23
 
-「あ、……あんたは誰っ……。@……何で私をっ……。」@
+;「あ、……あんたは誰っ……。@……何で私をっ……。」@
+`"Wh- ...Who are youuu... `@`...Why, why me...?"`@
 
 ld r,IZA_D6,80
 
-「俺かァ？@　いいぜェ。@お前とはどれほどの付き合いになるか知らねェが、一応、自己紹介をしてやらァ。@俺は学校妖怪序列第２位「１３階段の死神」こと、イザナミさまよ！」\
+;「俺かァ？@　いいぜェ。@お前とはどれほどの付き合いになるか知らねェが、一応、自己紹介をしてやらァ。@俺は学校妖怪序列第２位「１３階段の死神」こと、イザナミさまよ！」\
+`"Who am I? `@`Alright. `@`I don't know how long we're going to be seeing each other, but I guess I'll introduce myself. `@`I am The Second Rank of the School Youkai, "Reaper of the 13th Step", Izanami-sama!"`\
 
 bg black,23
 
-　イザナミ。@それが死神の名のようだった。@
+;　イザナミ。@それが死神の名のようだった。@
+`　Izanami. `@`That was the name of the shinigami.`@
 br
-　……何だかまるで、日本神話の中の神様みたいな名前……。\
+;　……何だかまるで、日本神話の中の神様みたいな名前……。\
+`　...It was just like the name of the deity from Japanese mythology...`\
 
 bg shoukou_02,23
 ld c,IZA_D3,22
 ld c,IZA_D6,80
 
-「俺に本来、名前はねェ。@ただの１３階段の死神だった。@それを、どっかの誰かが、黄泉津大神のイザナミの名を与えてくれた、ってわけだ。@気に入ったから、それ以来、俺の名前にさせてもらってるがなァ。@……しかしよ、イザナミってのは本来、女の名前だぜ？@　何とも間抜けな話だぜェ、くっはっはっは…！！」\
+;「俺に本来、名前はねェ。@ただの１３階段の死神だった。@それを、どっかの誰かが、黄泉津大神のイザナミの名を与えてくれた、ってわけだ。@気に入ったから、それ以来、俺の名前にさせてもらってるがなァ。@……しかしよ、イザナミってのは本来、女の名前だぜ？@　何とも間抜けな話だぜェ、くっはっはっは…！！」\
+`"Until recently, I had no name. `@`I was just the Reaper of the 13th Step. `@`And then somebody somewhere told me the name of Izanami, Lord of the Underworld. `@`I liked it, so from that day forth I made that name mine. `@`...Although Izanami was apparantly originally a woman's name? `@`Can you believe it? Ku hah hah hah!!"`\
 
-　イザナミはそう話しながらも、決して、足を止めることはない。@
-　ずかずか、ずかずかと息も乱さずに足早で歩き続ける。@
+;　イザナミはそう話しながらも、決して、足を止めることはない。@
+`　Even while Izanami carried on this conversation, his legs didn't stop.`@
+;　ずかずか、ずかずかと息も乱さずに足早で歩き続ける。@
+`　Thump thump, thump thump -- he continued to walk at his quick pace without letting out a single breath.`@
 br
-　私は、まるで友達と鬼ごっこでもしているかのように、下駄箱の周りをぐるぐる回って逃げる。\
+;　私は、まるで友達と鬼ごっこでもしているかのように、下駄箱の周りをぐるぐる回って逃げる。\
+`　Almost like the games of demon tag I used to play with my friends, I was running in circles around the shoe racks.`\
 
 bg black,23
 bg shoukou_03,23
 ld r,AYA_D5a,23
 ld r,AYA_D6a,80
 
-「わ、……私、何か、あんたに狙われるようなことしたっ？！@　何で私がこんな目に……！」\
+;「わ、……私、何か、あんたに狙われるようなことしたっ？！@　何で私がこんな目に……！」\
+`"I... Did I do something to you to deserve this? `@`Why are you after me....!"`\
 
 bg black,23
 bg shoukou_02,23
 ld l,IZA_D3,23
 ld l,IZA_D6,80
 
-「踏んだだろうがァ。@俺の１３階段をよォ…！！@　お前はしっかりと数えて上ってたはずだぜ？@　忘れたとは言わさねェ！！@　１３階段は、言うなれば俺の釣り針よォ。@俺の大好物な、クソ落ち目のガキに踏ませて、俺の世界に引き摺り込むんだ…！！@　踏んじまったお前はもう俺の獲物よォ！@　泣いても喚いても、誰も助けちゃくれねェぜェ！！」\
+;「踏んだだろうがァ。@俺の１３階段をよォ…！！@　お前はしっかりと数えて上ってたはずだぜ？@　忘れたとは言わさねェ！！@　１３階段は、言うなれば俺の釣り針よォ。@俺の大好物な、クソ落ち目のガキに踏ませて、俺の世界に引き摺り込むんだ…！！@　踏んじまったお前はもう俺の獲物よォ！@　泣いても喚いても、誰も助けちゃくれねェぜェ！！」\
+`"You stepped on it, fool. `@`My 13th step!! `@`You counted it out clearly as you went up, didn't you? `@`I'm not gonna let you forget it!! `@`The 13th step is my fish hook, so to speak. `@`When my favorite prey, you wimpy punks, step on it, then you're whisked off to my world! `@`You stepped on it, so you're my prey nowww! `@`Cry and scream all your like, no one is gonna save youuu!!"`\
 
-　やっぱり、１３階段の怪談は本当だったんだ。@
-　１３階段を踏んでしまったら、死神に獲物にされ、どこまでも追い掛けられるのだ。@
+;　やっぱり、１３階段の怪談は本当だったんだ。@
+`　As I thought, the tale of the 13th step was real.`@
+;　１３階段を踏んでしまったら、死神に獲物にされ、どこまでも追い掛けられるのだ。@
+`　After stepping on the 13th step, you become prey of the shinigami, and he'll chase you no matter how far you run.`@
 br
-　誰も助けてくれない。@出来るのは走って逃げることだけ。@それも、学校の外へは逃げられない。@
-　捕まったら地獄行きの、死神との鬼ごっこなのだ。\
+;　誰も助けてくれない。@出来るのは走って逃げることだけ。@それも、学校の外へは逃げられない。@
+`　No one will save me. `@`All I can do is run. `@`Furthermore, I can't even run away from school.`@
+;　捕まったら地獄行きの、死神との鬼ごっこなのだ。\
+`　If he catches me, I'm bound for hell, like a game of demon tag.`\
 
 bg black,23
 
-　……死にたいと願ったことはある。@
+;　……死にたいと願ったことはある。@
+`　...I once prayed for death.`@
 br
-　イザナミに捕まれば、それを叶えてもらえる。\
+;　イザナミに捕まれば、それを叶えてもらえる。\
+`　If Izanami catches me, he can grant my wish.`\
 
-　しかし、私が望む死とは、安らかな眠りのことだ。@
-　あんなおぞましい世界で、肉の塊にされて、永遠に嬲られるような世界に落ちることじゃない。@
+;　しかし、私が望む死とは、安らかな眠りのことだ。@
+`　But the kind of death I want is in a peaceful sleep.`@
+;　あんなおぞましい世界で、肉の塊にされて、永遠に嬲られるような世界に落ちることじゃない。@
+`　I don't want to fall into that disgusting world and turn into a pile of flesh -- tormented eternally.`@
 br
-　私の求める死は、あんたが与えようとしてる死とは、まったく違うもの…！！\
+;　私の求める死は、あんたが与えようとしてる死とは、まったく違うもの…！！\
+`　The death I desire is completely different than the death you want to give me...!`\
 
 bg rouka_04,23
 
 fede 1,1000
 E_B
 
-　その時。@
+;　その時。@
+`　Suddenly.`@
 br
-　イザナミの肩越しに、時計が見えた。@
-　その長針と短針が頂点で重なり、０時を刻んだ。\
+;　イザナミの肩越しに、時計が見えた。@
+`　I saw the clock above Izanami's shoulders.`@
+;　その長針と短針が頂点で重なり、０時を刻んだ。\
+`　The long hand and short hand needles of the clock aligned, and the time was 12 o'clock.`\
 
 fede 0,1000
 E_A
@@ -1638,24 +1674,32 @@ se2v 69,85
 ;wait 200
 ;se3v 69,70
 
-　そして、チャイムが鳴り響いた。@
+;　そして、チャイムが鳴り響いた。@
+`　Then the bell sounded.`@
 br
-　いつも聞いているチャイムと同じ音だったけれど、@まるで学校中の壁の中から染み出しているかのような、そんな凄みのあるチャイムだった。\
+;　いつも聞いているチャイムと同じ音だったけれど、@まるで学校中の壁の中から染み出しているかのような、そんな凄みのあるチャイムだった。\
+`　It sounded just like the usual school bell, `@`but the bell called as if it were oozing from the middle of the school walls.`\
 
 se3 22
 bg white,48
 
-　その途端、世界が真っ白な光で溢れ出し、眩しくて目を開けていられなくなる。\
+;　その途端、世界が真っ白な光で溢れ出し、眩しくて目を開けていられなくなる。\
+`　In that moment, the world was enveloped in a white light, and in its radiance I couldn't open my eyes.`\
 
-　何？@　何事？！@
+;　何？@　何事？！@
+`　What? `@`What's happening?!`@
 br
-　目がぐるぐると回り、気持ち悪くなって、立っていられない。@
-　遊園地のメリーゴーランドやコーヒーカップで感じるような眩暈。\
+;　目がぐるぐると回り、気持ち悪くなって、立っていられない。@
+`　I felt dizzy, queezy, and I couldn't remain standing.`@
+;　遊園地のメリーゴーランドやコーヒーカップで感じるような眩暈。\
+`　It was vertigo like going on the merry-go-round or coffee cup rides at an amusement park.`\
 
 
-　……駄目……、意識が……、……………………。@
+;　……駄目……、意識が……、……………………。@
+`　...Oh no... I can't think straight... .........`@
 br
-　………………………。\
+;　………………………。\
+`　.........`\
 
 textoff
 bg black,2
@@ -1665,11 +1709,14 @@ me1v 5,50
 
 bg mansion_01,42
 
-　遠くから聞こえてくる風の音が、……町の喧騒であると気付くまでの間、@私はずっと頭を抱えてしゃがみ込んでいた。\
+;　遠くから聞こえてくる風の音が、……町の喧騒であると気付くまでの間、@私はずっと頭を抱えてしゃがみ込んでいた。\
+`　While I began to hear the sound of wind in the distance, ...seemingly amonst the clamor of the middle of town, `@`I had been crouched and holding my head for the longest time.`\
 
-　遠くで車の走る音。@どこかの家の換気扇の音。@自転車のベルの音や、走り回る子供の笑い声。@
+;　遠くで車の走る音。@どこかの家の換気扇の音。@自転車のベルの音や、走り回る子供の笑い声。@
+`　The sound of cars in the distance. `@`The hum of a ventalation fan from someone's house. `@`The sound of bicycle bells and the laughter of children playing.`@
 br
-　……恐る恐る目を開くと……。\
+;　……恐る恐る目を開くと……。\
+`　...Fearfully, carefully, I open my eyes and...`\
 
 ld c,AYA_D6a,2
 
@@ -1677,39 +1724,54 @@ wait 1000
 
 ld c,AYA_D9a,22
 
-「ここ…………、家…………………。」@
+;「ここ…………、家…………………。」@
+`"I'm... home........."`@
 br
-　私は、いつの間にか自分のマンションの玄関前にいて、しゃがみ込んでいたのだ。\
+;　私は、いつの間にか自分のマンションの玄関前にいて、しゃがみ込んでいたのだ。\
+`　Somehow I was crouching outside my family's apartment.`\
 
-　恐る恐る周りを見渡す。@
+;　恐る恐る周りを見渡す。@
+`　Fearfully, carefully, I look over my surroundings.`@
 br
-　……あの恐ろしい死神の姿はない。\
+;　……あの恐ろしい死神の姿はない。\
+`　...That terrifying shinigami isn't showing himself.`\
 
 ;ld c,AYA_D5a,80
 cl c,22
 
-　これは、一体……、どういうこと………？@
-　私はいつの間にかここにいて、しゃがみ込んでおかしな白昼夢を見ていたというのだろうか。@
+;　これは、一体……、どういうこと………？@
+`　Just... what does this mean...?`@
+;　私はいつの間にかここにいて、しゃがみ込んでおかしな白昼夢を見ていたというのだろうか。@
+`　Suddenly I'm here as if I had been daydreaming while squatting like that.`@
 br
-　……………………。@
-　……そんなはず、ない。\
+;　……………………。@
+`　.........`@
+;　……そんなはず、ない。\
+`　...That can't be.`\
 
-　なぜなら私は、……昇降口でずっとぐるぐる逃げ回っていたから、@……疲れて、未だに息が乱れている。@
+;　なぜなら私は、……昇降口でずっとぐるぐる逃げ回っていたから、@……疲れて、未だに息が乱れている。@
+`　Because I... I had been running around the school entrance for ages, `@`... I'm still tired, and my breathing is still erratic.`@ 
 br
-　体も汗でびっしょり。@足の関節も痛み、@ついさっきまで間違いなく自分が走り回っていたことを教えてくれた……。\
+;　体も汗でびっしょり。@足の関節も痛み、@ついさっきまで間違いなく自分が走り回っていたことを教えてくれた……。\
+`　My body is even drenched in sweat. `@`The joints in my legs ache, `@`so I was absolutely sure until moments ago I assured myself I had been running away just moments ago...`\
 
 
 bg black,22
 
-　何が何やらわからない。@
-　あれは夢だったのだろうか…？@
+;　何が何やらわからない。@
+`　I have no idea what's going on.`@
+;　あれは夢だったのだろうか…？@
+`　Could that have been a dream...?`@
 br
-　そんなわけはない。@でも、一つ確かなことがある。@
-　あの死神から、私は逃げ延びたということだ……。\
+;　そんなわけはない。@でも、一つ確かなことがある。@
+`　That's not possible. `@`Yet, I'm sure of one thing.`@
+;　あの死神から、私は逃げ延びたということだ……。\
+`　I had escaped from that shinigami...`\
 
 bg ie_04,2
 
-　その晩。@私はまた夢を見た。@
+;　その晩。@私はまた夢を見た。@
+`　That night. `@`I saw another dream.`@
 　今度は、これが夢の中であるということを、はっきりと自覚できた。@
 br
 　その夢の中で、……イザナミは再び、語り掛けてきた。@
