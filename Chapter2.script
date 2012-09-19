@@ -1772,10 +1772,13 @@ bg ie_04,2
 
 ;　その晩。@私はまた夢を見た。@
 `　That night. `@`I saw another dream.`@
-　今度は、これが夢の中であるということを、はっきりと自覚できた。@
+;　今度は、これが夢の中であるということを、はっきりと自覚できた。@
+`　This time I was clearly aware that I was inside a dream.`@
 br
-　その夢の中で、……イザナミは再び、語り掛けてきた。@
-　まるで讃えるように、両手を叩きながら。\
+;　その夢の中で、……イザナミは再び、語り掛けてきた。@
+`　In that dream, ...Izanami once again came to speak to me.`@
+;　まるで讃えるように、両手を叩きながら。\
+`　As if praising me, he clapped his hands together.`\
 
 bg black,22
 ;bg rouka_02,0
@@ -1787,17 +1790,22 @@ ld c,IZA_D6,80
 
 bgm1 23
 
-「今日は逃げ延びたな。@だが、まだまだお楽しみは終わらねェ。@明日もたっぷりと楽しませてもらうからなァ。@何しろ俺は、クソ落ち目なヤツが、@汗だくになって逃げ回るのを追い詰めるのが、何より楽しいんだからよォ！@　くっひっひっひ！！@　楽しいゲームの幕開けだァ…！！」\
+;「今日は逃げ延びたな。@だが、まだまだお楽しみは終わらねェ。@明日もたっぷりと楽しませてもらうからなァ。@何しろ俺は、クソ落ち目なヤツが、@汗だくになって逃げ回るのを追い詰めるのが、何より楽しいんだからよォ！@　くっひっひっひ！！@　楽しいゲームの幕開けだァ…！！」\
+`"You got away today. `@`But the fun ain't over yet! `@`Let's have lots of fun tomorrow. `@`After all, there's nothing I love more in this world than chasing and catching you hopeless punks dripping ins weat! `@`Ku hi hi hi hi!! `@`The curtains rise on our fun and games!!"`\
 
-「ゲーム……。@これはゲームだって言うの……。」\
+;「ゲーム……。@これはゲームだって言うの……。」\
+`"Games... `@`Are you calling these games...?"`\
 
 cl c,0
 ld r,IZA_D5,23
 
-「あぁ、そうだ。@これは命を賭けたゲームってわけだ！@　そしてゲームだから、ルールもある。」@
+;「あぁ、そうだ。@これは命を賭けたゲームってわけだ！@　そしてゲームだから、ルールもある。」@
+`"That's right. `@`In these games, your life is at stake! `@`Because these are games, there are also rules."`@
 br
-　ルールって？@
-　そう思った瞬間、@イザナミはにやりと笑い、口に出していないはずのその問いに答える。\
+;　ルールって？@
+`　Rules?`@`
+;　そう思った瞬間、@イザナミはにやりと笑い、口に出していないはずのその問いに答える。\
+`　The moment I thought of it, `@`Izanami grinned as if he heard my thoughts even though I said nothing at all.`\
 
 ld r,IZA_D3,80
 
