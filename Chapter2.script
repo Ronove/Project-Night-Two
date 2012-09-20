@@ -1915,64 +1915,75 @@ wait 500
 bg black,26
 bg kaidan_02,22
 
-　１階の廊下を走り抜け、２階へ上がり、呼吸を整える。@
-　イザナミが階段の下にやって来たのを見届けてから、２階の廊下を走り抜ける。\
-
+;　１階の廊下を走り抜け、２階へ上がり、呼吸を整える。@
+` I run through the corridor on the first floor, up to the second floor and take a breath.`@
+;　イザナミが階段の下にやって来たのを見届けてから、２階の廊下を走り抜ける。\
+` After reassuring myself that Izanami was at the bottom of the staircase, I ran through the second floor corridor.`\
 bg black,24
 bg rouka_03,24
 
-　そして、その先の階段を下りて、再び、イザナミが階段に辿り着くのを待ち、呼吸を整える。\
-
+;　そして、その先の階段を下りて、再び、イザナミが階段に辿り着くのを待ち、呼吸を整える。\
+` Then, at the stairs beyond that, I wait again for Izanami to arrive, and take a breath.`\
 bg black,23
 bg kaidan_02,23
 wait 500
 bg black,23
 bg rouka_02,23
 
-　そして再び１階の廊下を駆け抜け、階段を上り……、を延々とチャイムが鳴るまで続ければいいのだ。@
+;　そして再び１階の廊下を駆け抜け、階段を上り……、を延々とチャイムが鳴るまで続ければいいのだ。@
+` Then I go to the first floor corridor again, and climb the staircase...repeating endlessly until the chime rings.`@
 br
-　そんなシンプルな鬼ごっこであることを理解すると、さらに冷静さを取り戻すことが出来た。\
-
-　……確かに、捕まれば恐ろしい地獄が待っている。@
-　しかし、捕まらないようにすることは、決して難しいことじゃない。@
+;　そんなシンプルな鬼ごっこであることを理解すると、さらに冷静さを取り戻すことが出来た。\
+` Once I understood how simple a game of tag it was, I was able to pull myself together.`\
+;　……確かに、捕まれば恐ろしい地獄が待っている。@
+` Of course, hell was waiting if I got caught.`@
+;　しかし、捕まらないようにすることは、決して難しいことじゃない。@
+` But it was easy to not get caught.`@
 br
-　ただこうしてぐるぐると、同じ廊下をずっと走り続けていればいいだけだ。\
-
+;　ただこうしてぐるぐると、同じ廊下をずっと走り続けていればいいだけだ。\
+` So just going round and round these stairs was good enought.`@
 bg black,23
 bg rouka_03,23
 
-　それも、がむしゃらに全速力で走る必要はない。@
-　ジョギングのように軽く走って逃げては、近付いてくるまで休んで、それから走るの繰り返し。@
-　それを、じっと心を落ち着けて、ほんの１０分間、繰り返すだけ………。@
+;　それも、がむしゃらに全速力で走る必要はない。@
+` And I don't even need to run at full speed.`@
+;　ジョギングのように軽く走って逃げては、近付いてくるまで休んで、それから走るの繰り返し。@
+` I could jog lightly away, rest until he approached and then go back to running.`@
+;　それを、じっと心を落ち着けて、ほんの１０分間、繰り返すだけ………。@
+` To calm my mind I'd repeat this every ten minutes...`@
 br
-　そう、心の中で何度も呟き、これは難しいことではないんだと、自分に信じ込ませようとする。\
-
+;　そう、心の中で何度も呟き、これは難しいことではないんだと、自分に信じ込ませようとする。\
+` Yes, no matter how much I'd mutter that this wasn't difficult, I tried to convince myself.`\
 bg black,22
 
-　……信じ込ませようと？@
+;　……信じ込ませようと？@
+` ...Did I really believe it?`@
 br
-　ちょっと走っては休み。@ちょっと走っては休み。@……それだけの繰り返しじゃないか。@それの何が、難しいことなんだ…？\
-
+;　ちょっと走っては休み。@ちょっと走っては休み。@……それだけの繰り返しじゃないか。@それの何が、難しいことなんだ…？\
+` Run a little, rest a little.`@`Run a little, rest a little.`@`Wasn't that just repetition?`@`What was difficult about that...?`\
 　……………本当は、わかってる。@
+` ......I truly understood.`@
 br
-　小休止を挟めるとはいえ、……１０分間、走り続けるというのは、やはり疲れることなのだ。\
-
+;　小休止を挟めるとはいえ、……１０分間、走り続けるというのは、やはり疲れることなのだ。\
+` Speaking of resting...keeping running for ten minutes really was tiring.`\
 bg kaidan_01,22
 ld c,AYA_D7a,24
 ld c,AYA_D8a,80
 
-　……転ぶかもしれないし、万一、足を挫くようなことでもあれば、一巻の終わりだ。@
+;　……転ぶかもしれないし、万一、足を挫くようなことでもあれば、一巻の終わりだ。@
+` I might fall down, or sprain my foot, and in such a case, that'll be the end of the line for me.`@
 br
 　それを意識すればするほど、階段を駆け下りる時、@慎重に下りたい気持ちと、駆け下りたい気持ちがせめぎ合ってぎこちなくなるのを感じた。\
 
-　これは簡単なことなんだと信じ込もうとする心も、@１分１分経つ毎にメッキが剥げ、心が焦ってくる。\
-
+;　これは簡単なことなんだと信じ込もうとする心も、@１分１分経つ毎にメッキが剥げ、心が焦ってくる。\
+` No matter how much I reassure myself that this is easy,`@`with each passing minute my mind becomes impatient and rushed.`\
 ld c,AYA_D7a,80
 
-　もっともっと、遠くまで早く逃げた方がいいのではないか。@
+;　もっともっと、遠くまで早く逃げた方がいいのではないか。@
+` Moreso, wouldn't a way to run far away be good?`@
 br
-　いやいや、そんな焦って走って怪我でもしたらおしまいだ。@もっと冷静にゆっくりと走ればいいのではないか。\
-
+;　いやいや、そんな焦って走って怪我でもしたらおしまいだ。@もっと冷静にゆっくりと走ればいいのではないか。\
+` No, no. Surely I'd doom myself to injury with such a way.`@`Would running slowly and calmly be better?`\
 　それに加え、@どうしてこんな広大な学校の中で、自分だけが死神に狙われ、@こんな目に遭わなければならないのかという、@悔しさにも似た憤りも覚えた。\
 
 bg black,23
