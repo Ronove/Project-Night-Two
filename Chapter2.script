@@ -1,5 +1,5 @@
 ;Chapter 2
-;縲後�縺ゅャ縲√�縺√ャ縲√�縺√ャ縲√�縺ゅャ��ｼ√構
+;「はあッ、はぁッ、はぁッ、はあッ！！」\
 `"Haa, haa, haa, hAAA!!"`\
 
 bgm1 12
@@ -18,94 +18,94 @@ bg rouka_01,25
 se1v 13,50
 quakey 2,200
 
-;縲蠢�∮繧貞瑞縺榊�縺励◎縺�↑縺ｻ縺ｩ縺ｫ縲∝ｰ大･ｳ縺ｯ蜻ｼ蜷ｸ繧定穀縺偵※縺�ｋ縲�
-`縲The girl was breathing so hard it seemed she was going to vomit her heart out her throat.`@
-;縲縺昴＠縺ｦ縲∝ｻ贋ｸ九�騾比ｸｭ縺ｧ蠎翫↓縺ｸ縺溘ｊ霎ｼ繧薙□縲�
-`縲And then she sunk to the floor midway through the hall.`\
+;　心臓を吐き出しそうなほどに、少女は呼吸を荒げている。@
+`　The girl was breathing so hard it seemed she was going to vomit her heart out her throat.`@
+;　そして、廊下の途中で床にへたり込んだ。\
+`　And then she sunk to the floor midway through the hall.`\
 
-;縲蜈ｨ霄ｫ縺ｯ豎励〒縺ｳ縺｣縺励ｇ繧翫�雜ｳ縺ｯ縺薙ｏ縺ｰ繧翫∫吏謾｣縺励※縺�◆縲�
-`縲Her entire body was drenched in sweat. `@`Her legs stiffened, cramped.`@
+;　全身は汗でびっしょり。@足はこわばり、痙攣していた。@
+`　Her entire body was drenched in sweat. `@`Her legs stiffened, cramped.`@
 br
-;縲辟｡逅�ｂ縺ｪ縺��蟆大･ｳ縺ｯ譬｡闊弱�荳ｭ繧偵�ｼ第凾髢薙ｂ襍ｰ繧雁屓縺｣縺ｦ縺�◆縺ｮ縺縺九ｉ縲�
-`縲They hadn't been wasted. `@`After all, she had been running around the inside of the school for a full hour.`\
+;　無理もない。@少女は校舎の中を、１時間も走り回っていたのだから。\
+`　They hadn't been wasted. `@`After all, she had been running around the inside of the school for a full hour.`\
 
 bg black,23
 bg rouka_03,23
 
-;縲謨吝ｮ､縺ｮ譎りｨ医�繧ゅ≧縺倥″縲�ｼ先凾繧呈欠縺昴≧縺ｨ縺励※縺�ｋ縲�
-`縲The classroom clock seemed about ready to strike twelve o'clock.`@
-;縲縺励°縺励∫ｪ薙�螟悶�螟暮裸縲�
-`縲However, outside the window it was twilight.`@
+;　教室の時計はもうじき、０時を指そうとしている。@
+`　The classroom clock seemed about ready to strike twelve o'clock.`@
+;　しかし、窓の外は夕闇。@
+`　However, outside the window it was twilight.`@
 br
-;縲譏ｼ縺ｮ�先凾縺ｮ繧上￠繧ゅ∝､懊��先凾縺ｮ繧上￠繧ゅ↑縺��
-`縲It wasn't twelve o'clock in the day, nor twelve o'clock at night.`\
+;　昼の０時のわけも、夜の０時のわけもない。\
+`　It wasn't twelve o'clock in the day, nor twelve o'clock at night.`\
 
 
-;縲縺昴＠縺ｦ荳肴晁ｭｰ縺ｪ縺薙→縺ｫ縲≫ｦ窶ｦ蟄ｦ譬｡縺ｮ荳ｭ縺ｫ縺ｯ蟆大･ｳ縺ｮ莉悶↓縲∬ｪｰ縺ｮ豌鈴�繧よ─縺倥ｉ繧後↑縺九▲縺溘�
-`縲And mysteriously... aside from the girl, no one else appears to be in this school.`@
+;　そして不思議なことに、……学校の中には少女の他に、誰の気配も感じられなかった。@
+`　And mysteriously... aside from the girl, no one else appears to be in this school.`@
 br
-;縲螟暮裸縺ｮ縲∬ｪｰ縺ｮ莠ｺ蠖ｱ繧ゅ↑縺�｡闊弱�荳ｭ縺ｧ縺壹▲縺ｨ縲≫ｦ窶ｦ蟆大･ｳ縺ｯ�第凾髢薙ｂ襍ｰ繧雁屓縺｣縺ｦ縺�◆縺ｮ縺縲�
-`縲The girl had been running for more than an hour... in this twilight, without a soul to be seen on campus, for ages."`\
+;　夕闇の、誰の人影もない校舎の中でずっと、……少女は１時間も走り回っていたのだ。\
+`　The girl had been running for more than an hour... in this twilight, without a soul to be seen on campus, for ages."`\
 
-;縲蟆大･ｳ縺ｮ蠢�∮縺ｯ莉翫↓繧ら�逋ｺ縺励◎縺��
-`縲Even now her heart was exploding.`@
-;縲繧ゅ≧縲∬ｵｰ繧九←縺薙ｍ縺九∫ｫ九■荳翫′繧区ｰ怜鴨縺輔∴縺ｪ縺九▲縺溘�
-`縲She no longer had a place to run to, nor the energy to stand.`\
+;　少女の心臓は今にも爆発しそう。@
+`　Even now her heart was exploding.`@
+;　もう、走るどころか、立ち上がる気力さえなかった。\
+`　She no longer had a place to run to, nor the energy to stand.`\
 
 bg black,22
 
 me3v 17,70
 
-;縲後�縺√ャ縲√�縺√ャ縲�窶ｦ窶ｦ繧ゅ≧縲∝ｫ娯ｦ窶ｦ縲�繧ゅ≧縲≫ｦ窶ｦ襍ｰ繧後↑縺�ｦ窶ｦ窶ｦ繝��縺ｯ縺√ャ縲√�縺ゅャ�　縲縺ｯ縺√ャ縲√�縺ゅャ縲√�縺ゅャ��ｼ�ｼ√后
+;「はぁッ、はぁッ。@……もう、嫌……。@もう、……走れない………ッ。@はぁッ、はあッ！@　はぁッ、はあッ、はあッ！！！」@
 `"Haaa, haaa. `@`...No, I can't... `@`I can't... run anymore...... `@`Haaa, haAA! `@`Haa, haaa, hAAA!!!"`@
 br
-;縲蟆大･ｳ縺ｯ諤ｯ縺医◆陦ｨ諠�〒縲∝ｺ翫↓騾吶＞縺､縺上�縺｣縺溘∪縺ｾ縲≫ｦ窶ｦ繧�▲縺上ｊ縺ｨ蠕後ｍ縺ｫ謖ｯ繧願ｿ斐ｋ縲�
-`縲As the girl crawled on the floor with a frightened expression, ...she slowly looked behind her.`\
+;　少女は怯えた表情で、床に這いつくばったまま、……ゆっくりと後ろに振り返る。\
+`　As the girl crawled on the floor with a frightened expression, ...she slowly looked behind her.`\
 
 ;bg black,23
 se1v 14,100
 se2v 14,100
 bg rouka_01,3
 
-;縲蠖ｼ螂ｳ縺ｮ闕偵�＠縺��縺ｮ莉悶↓縲√ｂ縺�ｸ縺､縲∬◇縺薙∴繧九ｂ縺ｮ縺後≠縺｣縺溘�
-`縲Something else could be heard aside from her harsh breathing.`@
+;　彼女の荒々しい息の他に、もう一つ、聞こえるものがあった。@
+`　Something else could be heard aside from her harsh breathing.`@
 br
-;縲縺昴ｌ縺ｯ縲∬ｶｳ髻ｳ縲�
-`縲And that was footsteps.`@`
-;縲雕ｵ縺ｧ縺斐▽縺斐▽縺ｨ雕上∩魑ｴ繧峨☆闕偵�＠縺�ｶｳ髻ｳ縺後∬ｶｳ譌ｩ縺ｫ霑台ｻ倥＞縺ｦ縺上ｋ縺ｮ縺縲�
-`縲The sound of heels, rough footsteps, trodding across the floor, were closing fast.`\
+;　それは、足音。@
+`　And that was footsteps.`@`
+;　踵でごつごつと踏み鳴らす荒々しい足音が、足早に近付いてくるのだ。\
+`　The sound of heels, rough footsteps, trodding across the floor, were closing fast.`\
 
-;縲娯ｦ窶ｦ雖娯ｦ窶ｦ縲∝ｫ娯ｦ窶ｦ窶ｦ窶ｦ縲ゅ后
+;「……嫌……、嫌…………。」@
 `"...No... No......"`@
 br
-;縲蟆大･ｳ縺ｯ蝗帙▽繧馴吶＞縺ｫ縺ｪ縺｣縺ｦ繧ゅ∝ｰ壹ｂ縺昴�雜ｳ髻ｳ縺九ｉ騾�ｌ繧医≧縺ｨ縺吶ｋ縲�
-`縲Even though the girl had collapsed on all fours, she tried to get away from the sound of those footsteps.`@ 
-;縲縺励°縺励ｂ縺�∽ｸ｡閼壹�逞呎肇縺励※縺励∪縺�∫ｫ九■荳翫′繧九％縺ｨ縺吶ｉ蜿ｶ繧上↑縺��
-`縲But she had already lost both her legs to cramping, and she couldn't hope to even stand up.`\
+;　少女は四つん這いになっても、尚もその足音から逃れようとする。@
+`　Even though the girl had collapsed on all fours, she tried to get away from the sound of those footsteps.`@ 
+;　しかしもう、両脚は痙攣してしまい、立ち上がることすら叶わない。\
+`　But she had already lost both her legs to cramping, and she couldn't hope to even stand up.`\
 
-;縲雜ｳ髻ｳ縺ｯ螳ｹ襍ｦ縺ｪ縺剰ｿ台ｻ倥＞縺ｦ縺上ｋ縲�辟｡諷域ご縺ｫ縺壹°縺壹°縺ｨ霑台ｻ倥＞縺ｦ縺上ｋ縲�
-`縲Relentlessly, those footsteps drew closer. `@`Mercilessly, they drew closer.`\
+;　足音は容赦なく近付いてくる。@無慈悲にずかずかと近付いてくる。\
+`　Relentlessly, those footsteps drew closer. `@`Mercilessly, they drew closer.`\
 
 
-;縲御ｽ輔〒繧遺ｦ窶ｦ縲�菴輔〒遘√ｒ逾溘ｋ縺ｮ繧遺ｦ窶ｦ縲�窶ｦ窶ｦ繧ゅ≧縺企｡倥＞繧遺ｦ縲∫ｧ√ｒ窶ｦ窶ｦ縲∵叛縺｣縺ｦ縺翫＞縺ｦ繧医♂縺翫♀縺翫♂縺翫♀��ｼ√構
+;「何でよ……。@何で私を祟るのよ……。@……もうお願いよ…、私を……、放っておいてよぉおおおぉおお！！」\
 `"Why... `@`Why curse me... `@`...Please... Please... LEAVE ME ALOOOooOOoOOONE!!"`\
 
 
-;縲縺壹°縺壹°縲�
-`縲Thump thump.`@
-;縲縺壹°縺壹°縺壹°縺壹°��ｼ　
-`縲Thump thump thump thump!!`@
+;　ずかずか。@
+`　Thump thump.`@
+;　ずかずかずかずか！！@
+`　Thump thump thump thump!!`@
 br
-;縲縺昴�貍�ｻ偵�繝槭Φ繝医�莠ｺ蠖ｱ縺ｯ縲∬ｶｳ譌ｩ縺ｫ霑台ｻ倥″縲≫ｦ窶ｦ縺ｨ縺�→縺�ｰ大･ｳ縺ｫ霑ｽ縺�ｻ倥￥縲�
-`縲That silhouette with a jet black cloak drew nearer at a fast pace... finally, he reaches her.`@  
-;縲縺昴＠縺ｦ繝槭Φ繝医ｒ螟ｧ縺阪￥蠎�￡縲≫ｦ窶ｦ縺昴�蠖ｱ縺ｧ蟆大･ｳ繧定ｦ�▲縺溘�
-`縲And so he spreads his cloak wide... and covers the girl in that shadow.`\
+;　その漆黒のマントの人影は、足早に近付き、……とうとう少女に追い付く。@
+`　That silhouette with a jet black cloak drew nearer at a fast pace... finally, he reaches her.`@  
+;　そしてマントを大きく広げ、……その影で少女を覆った。\
+`　And so he spreads his cloak wide... and covers the girl in that shadow.`\
 
 se1 20
 bg black,28
 
 
-;縲悟ｫ娯ｦ窶ｦ繝��窶ｦ窶ｦ雖後＝縺ゅ≠縺ゅ≠縺ゅ＝縺ゅ≠縺ゅ≠縺√≠縺ゅ≠縺ゅャ��ｼ�ｼ√構
+;「嫌……ッ。@……嫌ぁあああああぁああああぁああああッ！！！」\
 `"No...! `@`...NOOOOOooooOOOOOOOOOOOooOOOOO!!!"`\
 
 E_A
@@ -122,8 +122,8 @@ quakex 3,700
 
 
 
-;縲譁ｭ譛ｫ鬲斐ｒ蜿ｫ縺ｶ蟆大･ｳ縺ｮ迸ｳ縺ｫ縺ｯ縲≫ｦ窶ｦ辟｡諷域ご縺ｪ螟ｧ骼後�蜀ｷ驟ｷ縺ｪ髢�″縺梧丐縺｣縺ｦ縺�◆窶ｦ窶ｦ縲�
-`縲The horrific flash of a merciless scythe casts its reflection in the eyes of the girl... screaming in the throes of death...`\ 
+;　断末魔を叫ぶ少女の瞳には、……無慈悲な大鎌の冷酷な閃きが映っていた……。\
+`　The horrific flash of a merciless scythe casts its reflection in the eyes of the girl... screaming in the throes of death...`\ 
 
 textoff
 nega off
@@ -135,189 +135,189 @@ bg kyou_01,22
 
 me1v 24,50
 
-;縲後�縺�▲縲√§繧�≠縲√％縺薙∪縺ｧ繝ｼ�　縲譌･逶ｴ縲∝捷莉､繝ｼ�√后
+;「はいっ、じゃあ、ここまでー！@　日直、号令ー！」@
 `"Okay, that's enough for today! `@`Time to go!"`@
 br
-;縲謗域･ｭ縺ｮ邨ゅｏ繧翫ｒ蜻翫￡繧九メ繝｣繧､繝縺碁ｳｴ繧企涸縺阪∝�逕溘�譎りｨ医ｒ隕倶ｸ翫￡繧九�
-`縲The teacher looked up to the clock as the bell signifying the end of class rang.`@
-;縲譌･逶ｴ縺後√″繧翫�縺､縲√→蜿ｷ莉､繧偵°縺代ｋ縲�
-`縲Leaving class required following a daily routine that started with standing at attention.`\
+;　授業の終わりを告げるチャイムが鳴り響き、先生は時計を見上げる。@
+`　The teacher looked up to the clock as the bell signifying the end of class rang.`@
+;　日直が、きりーつ、と号令をかける。\
+`　Leaving class required following a daily routine that started with standing at attention.`\
 
 ld c,AYA_D3,6
 
-;縲繧ｯ繝ｩ繧ｹ蜈ｨ菴薙′縲√′縺溘′縺溘→遶九■荳翫′繧倶ｸｭ縲≫ｦ窶ｦ遘√�蟆代＠驕�ｌ縺ｧ縺ｮ縺｣縺昴ｊ縺ｨ遶九■荳翫′繧九�
-`縲While everyone else in class clammored to stand up... I lagged behind and sluggishly rose from my seat.`@ 
+;　クラス全体が、がたがたと立ち上がる中、……私は少し遅れでのっそりと立ち上がる。@
+`　While everyone else in class clammored to stand up... I lagged behind and sluggishly rose from my seat.`@ 
 br
-;縲豌嶺ｻ倥￠縺ｰ縲�ｻ呈攸縺ｯ譁�ｭ励〒縺�▲縺ｱ縺�□縲�
-`縲I noticed the chalk board was covered in writing.`@
-;縲繝弱�繝医↓蜀吶＠縺ｦ縺ｪ繧薙°縺�↑縺��遘√�縺壹▲縺ｨ菫ｯ縺�※縲√≧縺ｨ縺�→縺励※縺�◆縺ｮ縺縺九ｉ縲�
-`縲My notes reflected none of it. `@`After all, I had spent the whole time dozing off with my head down.`\
+;　気付けば、黒板は文字でいっぱいだ。@
+`　I noticed the chalk board was covered in writing.`@
+;　ノートに写してなんかいない。@私はずっと俯いて、うとうとしていたのだから。\
+`　My notes reflected none of it. `@`After all, I had spent the whole time dozing off with my head down.`\
 
-;縲縺昴＠縺ｦ縺昴ｌ縺ｯ縲√％縺ｮ謨咏ｧ代□縺代↓髯舌ｉ縺ｪ縺��
-`縲And my drowsiness wasn't limited to just this subject.`@
-;縲蝗ｽ隱槭ｂ邂玲焚繧ゅ∫炊遘代ｂ遉ｾ莨壹ｂ縲∽ｽ輔ｂ縺九ｂ縲�遘√�繝弱�繝医�逵溘▲逋ｽ縺縺｣縺溘�
-`縲Language, math, science, social studies, etc, etc. `@`My class notes were completely blank.`@
+;　そしてそれは、この教科だけに限らない。@
+`　And my drowsiness wasn't limited to just this subject.`@
+;　国語も算数も、理科も社会も、何もかも。@私のノートは真っ白だった。@
+`　Language, math, science, social studies, etc, etc. `@`My class notes were completely blank.`@
 br
-;縲蠖鍋┯縺縲�遘√�蟄ｦ譬｡縺ｧ縺ｻ縺ｨ繧薙←縺ｮ譎る俣繧偵∝ｯ昴※驕弱＃縺吶°縲　縺ｼ繧薙ｄ繧翫＠縺ｪ縺後ｉ縲∽ｺｺ逕溘↓縺､縺�※繧定�蝠剰�遲斐＠縺ｦ縺�ｋ縺縺代↑縺ｮ縺縺九ｉ縲�
-`縲It's not unusual. `@`I spend almost all my time at school sleeping through classes, `@`or I just daydream to myself pondering life's questions.`\
+;　当然だ。@私は学校でほとんどの時間を、寝て過ごすか、@ぼんやりしながら、人生についてを自問自答しているだけなのだから。\
+`　It's not unusual. `@`I spend almost all my time at school sleeping through classes, `@`or I just daydream to myself pondering life's questions.`\
 
 ld c,AYA_D1,80
 
 bgm1 8
 
-;縲遘√�蜷阪�縲∫嶌鬥ｬ縺ゅｄ�医◎縺�∪縲縺ゅｄ�峨�
-`縲My name is Aya Souma.`@
+;　私の名は、相馬あや（そうま　あや）。@
+`　My name is Aya Souma.`@
 br
-;縲蜷榊燕縺ｪ繧薙※縲√←縺�〒繧ゅ＞縺��
-`縲Names and stuff don't really matter.`@
-;縲豁ｻ縺ｭ縺ｰ縺溘□縺ｮ鬪ｸ縲�縺昴ｓ縺ｪ繧ゅ�縺ｫ蜷榊燕縺ｪ繧薙※諢丞袖縺後↑縺��
-`縲After I'm dead, I'm just a corpse. `@`Ascribing names to such things is meaningless.`\
+;　名前なんて、どうでもいい。@
+`　Names and stuff don't really matter.`@
+;　死ねばただの骸。@そんなものに名前なんて意味がない。\
+`　After I'm dead, I'm just a corpse. `@`Ascribing names to such things is meaningless.`\
 
 ld c,AYA_D2,80
 
-;縲縺昴ｂ縺昴ｂ縲∫函縺阪※縺溘▲縺ｦ縲∝錐蜑阪↓縺ｪ繧薙°諢丞袖縺ｯ縺ｪ縺��
-`縲So, after we've lived our lives, names are somewhat meaningless in the first place.`@
+;　そもそも、生きてたって、名前になんか意味はない。@
+`　So, after we've lived our lives, names are somewhat meaningless in the first place.`@
 br
-;縲縺昴�險ｼ諡縺ｫ縲�遘√�蜷榊燕縺後√≠繧�□縺｣縺ｦ縲√≠繧�％縺縺｣縺ｦ縲√◎繧後�遘√↓菴輔�蠖ｱ髻ｿ繧ゆｸ弱∴縺ｪ縺��
-`縲Evidence for such. `@`My name, whether Aya or Ayako, has no real influence on me.`\
+;　その証拠に。@私の名前が、あやだって、あやこだって、それは私に何の影響も与えない。\
+`　Evidence for such. `@`My name, whether Aya or Ayako, has no real influence on me.`\
 
 bg black,24
 bg kyou_02,24
 
-;縲繧ｯ繝ｩ繧ｹ縺ｮ蜿榊ｯｾ蛛ｴ縺ｫ蠎ｧ縺｣縺ｦ縺ｼ繧薙ｄ繧翫＠縺ｦ縺�ｋ縺ゅ�逕ｷ蟄舌�遘√�蜷榊燕縺輔∴遏･繧峨↑縺�￠繧後←縲∫ｧ√�莠ｺ逕溘↓菴輔�蠖ｱ髻ｿ繧ょ撫鬘後ｂ縺ｪ縺��
-`縲That daydreaming boy sitting on the opposite side of the classroom. `@`Even though he doesn't even know my name, he has no particular influence over me and doesn't complicate my life.`@
+;　クラスの反対側に座ってぼんやりしているあの男子。@私は名前さえ知らないけれど、私の人生に何の影響も問題もない。@
+`　That daydreaming boy sitting on the opposite side of the classroom. `@`Even though he doesn't even know my name, he has no particular influence over me and doesn't complicate my life.`@
 br
-;縲蜷後§繧医≧縺ｫ縲�遘√�蜷榊燕縺縺｣縺ｦ蟄伜惠縺縺｣縺ｦ縲∝ｽｼ縺ｮ莠ｺ逕溘↓縺ｯ菴輔�蠖ｱ髻ｿ繧ゆｸ弱∴縺ｪ縺��縺縲�
-`縲In the same way. `@`My name, my existence, doesn't have any particular influence on his life either.`\
+;　同じように。@私の名前だって存在だって、彼の人生には何の影響も与えないのだ。\
+`　In the same way. `@`My name, my existence, doesn't have any particular influence on his life either.`\
 
 
-;縲縺昴ｌ縺ｯ遯√″隧ｰ繧√ｌ縺ｰ縲�
-`縲If we follow this logic.`@
-;縲縺薙�繧ｯ繝ｩ繧ｹ縺ｮ蜈ｨ蜩｡縺後∫ｭ峨＠縺剰ｪｰ縺ｮ莠ｺ逕溘↓繧ゅ∽ｽ輔�蠖ｱ髻ｿ繧ゆｸ弱∴縺ｪ縺��縺縲�
-`縲Everyone in this class, equally in whoever's lives, doesn't particularly influence anyone.`@
+;　それは突き詰めれば。@
+`　If we follow this logic.`@
+;　このクラスの全員が、等しく誰の人生にも、何の影響も与えないのだ。@
+`　Everyone in this class, equally in whoever's lives, doesn't particularly influence anyone.`@
 br
-;縲隱ｰ縺悟ｱ�※繧ょｱ�↑縺上※繧ゅ�縺ｩ縺ｮ繧医≧縺ｪ蜷榊燕縺ｧ縺ゅｍ縺�→繧ゅ↑縺九ｍ縺�→繧ゅ�菴輔�諢丞袖繧らぜ縺輔↑縺��
-`縲Who lives or doesn't live. `@`Whatever name they have or don't have. `@`None of it has any real meaning.`\
+;　誰が居ても居なくても。@どのような名前であろうともなかろうとも。@何の意味も為さない。\
+`　Who lives or doesn't live. `@`Whatever name they have or don't have. `@`None of it has any real meaning.`\
 
 bg black,22
 
 fede 10,1000
 E_MA
 
-;縲莠ｺ髢薙�縲∬ｪｰ繧ょｽｼ繧ゅ∽ｽ輔�蟄伜惠萓｡蛟､繧ゅ↑縺��縺縲�
-`縲Human beings, one and hall, have no real value in living.`@
+;　人間は、誰も彼も、何の存在価値もないのだ。@
+`　Human beings, one and hall, have no real value in living.`@
 br
-;縲縺昴＠縺ｦ遘√◆縺｡縺ｯ蟄ｦ譬｡縺ｧ縲∽ｽ輔�萓｡蛟､繧ゅ↑縺�％縺ｨ繧貞ｻｶ縲�→謨吶∴繧峨ｌ縺ｦ縺�ｋ縲�
-`縲And so in school we're endlessly taught things of no real value either.`\
+;　そして私たちは学校で、何の価値もないことを延々と教えられている。\
+`　And so in school we're endlessly taught things of no real value either.`\
 
-;縲菴輔ｒ險ｴ縺医◆縺��縺九ｏ縺九ｉ縺ｪ縺�ｩｱ縺ｮ諢滓Φ譁�ｒ蠑ｷ隕√＆繧後◆繧翫�
-`縲We're coerced into doing things like writing our thoughts on subjects we don't understand.`@
-;縲髮ｻ蜊薙′貅｢繧後◆縺薙�荳也阜縺ｧ縲∝ｻｶ縲�→險育ｮ怜撫鬘後ｒ隗｣縺九＆繧後◆繧翫�
-`縲Or we're made to solve calculations in a world overflowing with calculators.`@
-;縲繝ｪ繝医�繧ｹ隧ｦ鬨鍋ｴ吶ｄ遏ｳ邯ｿ驥醍ｶｲ縺後∫ｧ√◆縺｡縺ｮ莠ｺ逕溘↓菴輔�蠖ｱ髻ｿ繧剃ｸ弱∴繧九�縺繧阪≧�檗
-`縲Just how do litmus tests and asbestos wire mesh influence our lives, I wonder?`@
+;　何を訴えたいのかわからない話の感想文を強要されたり。@
+`　We're coerced into doing things like writing our thoughts on subjects we don't understand.`@
+;　電卓が溢れたこの世界で、延々と計算問題を解かされたり。@
+`　Or we're made to solve calculations in a world overflowing with calculators.`@
+;　リトマス試験紙や石綿金網が、私たちの人生に何の影響を与えるのだろう？@
+`　Just how do litmus tests and asbestos wire mesh influence our lives, I wonder?`@
 br
-;縲窶ｦ窶ｦ菴輔※逧ｮ閧峨〒鬥ｬ鮖ｿ鬥ｬ鮖ｿ縺励＞隧ｱ縺繧阪≧縲�
-`縲...What a cynical and foolish set of ideas, you must think.`\
+;　……何て皮肉で馬鹿馬鹿しい話だろう。\
+`　...What a cynical and foolish set of ideas, you must think.`\
 
 bg kyou_03,22
 
-;縲縺�ｄ縲√�縺励ｍ縺贋ｼｼ蜷医＞縺九�
-`縲No, rather, isn't it suitable?`@
+;　いや、むしろお似合いか。@
+`　No, rather, isn't it suitable?`@
 br
-;縲菴輔�諢丞袖繧ゆｾ｡蛟､繧ゅ↑縺�ｧ√◆縺｡縲�菴輔�諢丞袖繧ゆｾ｡蛟､繧ゅ↑縺�％縺ｨ繧貞ｭｦ縺ｰ縺輔ｌ縲∽ｽ輔�諢丞袖繧ゆｾ｡蛟､繧ゅ↑縺�ｺｺ逕溘ｒ騾√▲縺ｦ繧九�
-`縲For us, who have no real meaning or value. `@`Who are made to learn things of no real meaning or value, we're going through lives of no real meaning or value.`\
+;　何の意味も価値もない私たち。@何の意味も価値もないことを学ばされ、何の意味も価値もない人生を送ってる。\
+`　For us, who have no real meaning or value. `@`Who are made to learn things of no real meaning or value, we're going through lives of no real meaning or value.`\
 
-;縲遘√↓縺ｨ縺｣縺ｦ縲∽ｸ也阜繧り�蛻�ｂ蜈ｨ縺ｦ辟｡諢丞袖縺ｧ辟｡萓｡蛟､縲�
-`縲Everything, the world, myself, all of it was meaningless and worthless to me.`@
+;　私にとって、世界も自分も全て無意味で無価値。@
+`　Everything, the world, myself, all of it was meaningless and worthless to me.`@
 br
-;縲縺縺九ｉ縲�
-`縲So.`@
-;縲縺ｩ縺�＠縺ｦ閾ｪ蛻�′逕溘″縺ｦ縺�ｋ縺ｮ縺九�逕溘″縺ｦ縺�↑縺上※縺ｯ縺ｪ繧峨↑縺��縺九ｂ縲∫炊逕ｱ縺後ｏ縺九ｉ縺ｪ縺九▲縺溘�
-`縲Why am I still alive? `@`I can't understand why I can't stop living either.`\
+;　だから。@
+`　So.`@
+;　どうして自分が生きているのか。@生きていなくてはならないのかも、理由がわからなかった。\
+`　Why am I still alive? `@`I can't understand why I can't stop living either.`\
 
-;縲窶ｦ窶ｦ縺ｩ縺�＠縺ｦ遘√�縲√％縺ｮ荳悶↓逕溘∪繧後※縺阪◆縺ｮ縺繧阪≧�檗
-`縲...Why was I born into this world, I wonder?`@
-;縲蜈育函繧りｦｪ繧ゅ∽ｺｺ逕溘↓縺ｯ諢丞袖縺後≠縺｣縺ｦ縲∫函縺阪※縺�￥縺薙→縺ｫ縺ｯ譏守區縺ｪ逶ｮ讓吶′縺ゅｋ縺ｨ縺�≧縲�
-`縲Teachers, parents, they say life has meaning, and that it becomes obvious what it is as you continue to live.`@
+;　……どうして私は、この世に生まれてきたのだろう？@
+`　...Why was I born into this world, I wonder?`@
+;　先生も親も、人生には意味があって、生きていくことには明白な目標があるという。@
+`　Teachers, parents, they say life has meaning, and that it becomes obvious what it is as you continue to live.`@
 br
-;縲縺ｧ繧ゅ√◎繧後�菴輔°縺ｨ險ｪ縺ｭ繧九→縲　蟆城屮縺励＞縺薙→繧偵＄縺｡縺舌■縺ｨ蜿｣縺ｫ縺励※辣吶↓蟾ｻ縺阪√�縺舌ｉ縺九＠縺ｦ縺励∪縺��
-`縲But if I actually look into what they mean, `@`they'll mumble something ambiguous and give me the slip.`\
+;　でも、それは何かと訪ねると、@小難しいことをぐちぐちと口にして煙に巻き、はぐらかしてしまう。\
+`　But if I actually look into what they mean, `@`they'll mumble something ambiguous and give me the slip.`\
 
 bg black,22
 
-;縲窶ｦ窶ｦ縺ｪ縺��縺縲�逕溘″縺ｦ縺�ｋ縺薙→縺ｫ縲∵э蜻ｳ縺ｪ繧薙※縲�
-`縲...There just isn't one. `@`There just isn't a reason for living.`@
-;縲縺ｪ縺ｮ縺ｫ縲∫函縺阪※縺�ｋ縲�
-`縲Nevertheless, I'm still alive.`@
-;縲縺溘□諠ｰ諤ｧ縺ｧ縲∽ｽ輔→縺ｪ縺冗函縺阪※縺�ｋ縺ｮ縺縲�
-`縲Just out of habit I continue to live somehow.`@
+;　……ないのだ。@生きていることに、意味なんて。@
+`　...There just isn't one. `@`There just isn't a reason for living.`@
+;　なのに、生きている。@
+`　Nevertheless, I'm still alive.`@
+;　ただ惰性で、何となく生きているのだ。@
+`　Just out of habit I continue to live somehow.`@
 br
-;縲遘√↓縺ｯ縲√◎繧後′蝣ｪ縺医ｉ繧後↑縺九▲縺溘�
-`縲I just couldn't stand it anymore.`\
+;　私には、それが堪えられなかった。\
+`　I just couldn't stand it anymore.`\
 
 ;bg Different_spiral_1a,22
 bg k_kyou_02,22
 
-;縲遘√′縺薙�荳悶↓逕溘ｒ蜿励￠縺ｦ縺�ｋ縺ｪ繧峨√◎縺ｮ諢丞袖繧呈蕗縺医※谺ｲ縺励＞縲�
-`縲If I'm to continue living in this world, I want someone to tell me that reason.`@
+;　私がこの世に生を受けているなら、その意味を教えて欲しい。@
+`　If I'm to continue living in this world, I want someone to tell me that reason.`@
 br
-;縲縺薙≧逕溘″縺ｦ縲√％縺ｮ繧医≧縺ｫ諢丞袖繧堤ぜ縺吶→縺�≧縲∽ｾ｡蛟､縺ゅｋ莠ｺ逕溘ｒ荳弱∴縺ｦ谺ｲ縺励＞縲�
-`縲Living like this, trying to find a reason, I want to be given a life that has value.`\
+;　こう生きて、このように意味を為すという、価値ある人生を与えて欲しい。\
+`　Living like this, trying to find a reason, I want to be given a life that has value.`\
 
-;縲縺励°縺励√◎繧薙↑繧ゅ�縺ｯ蟄伜惠縺励↑縺��
-`縲But something like that doesn't exist.`@
+;　しかし、そんなものは存在しない。@
+`　But something like that doesn't exist.`@
 br
-;縲遘√�縺溘□豈取律縲√⊂繧薙ｄ繧翫→蟄ｦ譬｡縺ｫ騾壹≧縺薙→繧貞ｼｷ隕√＆繧後　蟄ｦ繧薙〒繧ょｭｦ縺ｰ縺ｪ縺上※繧ゅ∽ｽ輔�蠖ｹ縺ｫ繧らｫ九◆縺ｪ縺�級蠑ｷ繧貞ｼｷ縺�ｉ繧後※縺�ｋ縲�
-`縲I'm just forced to sluggishly commute to school every day, `@`and whether I learn or not, I'm forced into study that has no real use.`@
-;縲縺昴ｓ縺ｪ辟｡諢丞袖縺ｪ譌･縲�↓縲∫ｧ√�繧ゅ≧縺ｨ縺｣縺上↓蝣ｪ縺医°縺ｭ縺ｦ縺�ｋ縲�
-`縲I stopped being able to bear these aimless days long ago.`\
+;　私はただ毎日、ぼんやりと学校に通うことを強要され、@学んでも学ばなくても、何の役にも立たない勉強を強いられている。@
+`　I'm just forced to sluggishly commute to school every day, `@`and whether I learn or not, I'm forced into study that has no real use.`@
+;　そんな無意味な日々に、私はもうとっくに堪えかねている。\
+`　I stopped being able to bear these aimless days long ago.`\
 
 bg black,22
 
-;縲窶ｦ窶ｦ豁ｻ縺ｫ縺溘＞縺ｮ縺九√→閨槭°繧後ｌ縺ｰ縲√う繧ｨ繧ｹ縺ｨ縺ｯ險繧上↑縺��
-`縲...Do you want to die? `@`If someone asked me that, I wouldn't answer yes.`@
-;縲豁ｻ縺ｬ縺薙→縺ｫ諢丞袖縺後≠繧九↑繧峨∫ｧ√�縺吶＄縺ｫ縺縺｣縺ｦ豁ｻ縺ｬ縺繧阪≧縲�
-`縲If there was a purpose in death, then of course I'd want to die as soon as possible.`@
+;　……死にたいのか、と聞かれれば、イエスとは言わない。@
+`　...Do you want to die? `@`If someone asked me that, I wouldn't answer yes.`@
+;　死ぬことに意味があるなら、私はすぐにだって死ぬだろう。@
+`　If there was a purpose in death, then of course I'd want to die as soon as possible.`@
 br
-;縲縺ｧ繧ゅ�｣帙�髯阪ｊ縺溘▲縺ｦ縲�ｦ悶ｒ縺上￥縺｣縺溘▲縺ｦ縲√″縺｣縺ｨ縺昴ｌ縺ｯ縺ｨ縺ｦ繧り協縺励＞縺薙→縺縲�
-`縲But jumping and falling or hanging by the neck, those would undoubtedly be really painful.`\
+;　でも、飛び降りたって、首をくくったって、きっとそれはとても苦しいことだ。\
+`　But jumping and falling or hanging by the neck, those would undoubtedly be really painful.`\
 
-;縲繧上＊繧上＊閾ｪ繧峨�謇九〒縲∬協縺励＞縺薙→繧偵＠縺ｪ縺上■繧�↑繧峨↑縺�↑繧薙※縲√◎繧後％縺晄э蜻ｳ縺後↑縺��
-`縲The idea of having to cause harm to oneself with one's own hands, that's also meaningless.`@
+;　わざわざ自らの手で、苦しいことをしなくちゃならないなんて、それこそ意味がない。@
+`　The idea of having to cause harm to oneself with one's own hands, that's also meaningless.`@
 br
-;縲窶ｦ窶ｦ縺ｪ繧峨√≠繧区律縲∫ｪ∫┯縲∵悃縺梧擂縺ｪ縺�↑繧薙※縺薙→縺ｫ縺ｪ繧峨↑縺�□繧阪≧縺九�
-`縲...One day, all of a sudden, what if the morning didn't come?`\
+;　……なら、ある日、突然、朝が来ないなんてことにならないだろうか。\
+`　...One day, all of a sudden, what if the morning didn't come?`\
 
 bg e002,22
 
-;縲譛昴↓縺ｪ繧峨↑縺�°繧峨∫ｧ√�逶ｮ隕壹ａ縺ｪ縺��
-`縲If morning didn't come, I wouldn't wake up.`@
+;　朝にならないから、私は目覚めない。@
+`　If morning didn't come, I wouldn't wake up.`@
 br
-;縲縺壹▲縺ｨ蟇昴◆縺ｾ縺ｾ縲∵ｰｸ驕縺ｫ縲�
-`縲I'd stay asleep, forever.`@
-;縲縺昴＠縺ｦ縺昴�縺ｾ縺ｾ縲�妛縺瑚ｧ｣縺代※豸医∴繧九ｈ縺�↓縲　窶ｦ窶ｦ縺ｾ繧九〒蛻昴ａ縺九ｉ蟄伜惠縺励↑縺九▲縺溘°縺ｮ繧医≧縺ｫ縲∵ｶ医∴縺ｦ縺励∪縺�◆縺��
-`縲And like that, just as snow melts, `@`...just as I had never existed in the first place, I'd want to disappear entirely.`\
+;　ずっと寝たまま、永遠に。@
+`　I'd stay asleep, forever.`@
+;　そしてそのまま、雪が解けて消えるように、@……まるで初めから存在しなかったかのように、消えてしまいたい。\
+`　And like that, just as snow melts, `@`...just as I had never existed in the first place, I'd want to disappear entirely.`\
 
-;縲縺縺九ｉ縺昴ｌ縺ｯ縲∬�谿ｺ鬘俶悍縺ｨ縺ｯ逡ｰ縺ｪ繧九�
-`縲That's different than wanting to kill myself.`@
-;縲辟｡諢丞袖縺ｪ閾ｪ蛻�↓逶ｸ蠢懊＠縺�∬�蛻�→縺�≧蟄伜惠縺ｮ辟｡諢丞袖蛹悶�
-`縲I want to go to the meaningless void that so suits my meaningless self.`@
-;縲豸域ｻ�｡俶悍縺ｨ縺ｧ繧りｨ縺医�縺�＞縺ｮ縺繧阪≧縺九�
-`縲One could say, perhaps, I want to erase myself.`@
+;　だからそれは、自殺願望とは異なる。@
+`　That's different than wanting to kill myself.`@
+;　無意味な自分に相応しい、自分という存在の無意味化。@
+`　I want to go to the meaningless void that so suits my meaningless self.`@
+;　消滅願望とでも言えばいいのだろうか。@
+`　One could say, perhaps, I want to erase myself.`@
 br
-;縲螟壼�縲�遘√′蜚ｯ荳縲∝､｢縺ｨ蜻ｼ縺ｹ繧九ｂ縺ｮ縺後≠縺｣縺溘↑繧峨√◎繧後□縺｣縺溘�
-`縲Maybe. `@`If I could say I had one dream, that was it.`\
+;　多分。@私が唯一、夢と呼べるものがあったなら、それだった。\
+`　Maybe. `@`If I could say I had one dream, that was it.`\
 
 bg black,22
 
-;縲遘√∫嶌鬥ｬ縺ゅｄ縺ｯ縲�逵繧九ｈ縺�↓隗｣縺代ｋ繧医≧縺ｫ縲≫ｦ窶ｦ豸医∴縺ｦ縺励∪縺�◆縺九▲縺溘�
-`縲I, Aya Souma. `@`Wanted to disappear... as if asleep... like melting snow.`@
+;　私、相馬あやは。@眠るように解けるように、……消えてしまいたかった。@
+`　I, Aya Souma. `@`Wanted to disappear... as if asleep... like melting snow.`@
 br
-;縲縺励°縺励◎繧薙↑縲√％縺ｮ荳悶↑繧峨＊繧区ｭｻ縺ｫ譁ｹ縺ｪ縺ｩ縲√≠繧九ｏ縺代ｂ縺ｪ縺��
-`縲Unfortunately there wasn't any way to die in this world like that.`@
-;縲縺昴ｌ繧呈悍繧縺ｪ繧峨≫ｦ窶ｦ縺薙�荳悶↑繧峨＊繧倶ｽ輔°縺ｫ鬆ｼ繧倶ｻ悶↑縺九▲縺溘�
-`縲If I wanted that, ...then the only thing I could do was rely on something not of this world.`\
+;　しかしそんな、この世ならざる死に方など、あるわけもない。@
+`　Unfortunately there wasn't any way to die in this world like that.`@
+;　それを望むなら、……この世ならざる何かに頼る他なかった。\
+`　If I wanted that, ...then the only thing I could do was rely on something not of this world.`\
 
 fede 0,1000
 E_A
@@ -327,55 +327,55 @@ bg kyou_01,22
 
 me1v 24,50
 
-;縲縺昴ｓ縺ｪ譎ゅ√け繝ｩ繧ｹ繝｡繝ｼ繝医�縺翫＠繧�∋繧翫′縲∝�辟ｶ縲∫ｧ√�閠ｳ縺ｫ蜈･繧銀ｦ窶ｦ縲�
-`縲At that time, coincidentally, my classmates' chatter entered my ears...`\
+;　そんな時、クラスメートのおしゃべりが、偶然、私の耳に入る……。\
+`　At that time, coincidentally, my classmates' chatter entered my ears...`\
 
 
 
-;縲鯉ｼ托ｼ馴嚴谿ｵ縺ｪ繧薙※縲∵悽蠖薙↓縺ゅｋ繧上￠�溘后
+;「１３階段なんて、本当にあるわけ？」@
 `"13th floor you say? Is there really such a thing?"`@
-;縲後≧繧薙�蟄ｦ譬｡蜈ｫ荳肴晁ｭｰ縺ｮ縲√☆縺｣縺斐＞譛牙錐縺ｪ繧�▽縺繧医ゅ構
+;「うん。@学校八不思議の、すっごい有名なやつだよ。」\
 `"Yeah. `@`It's one of the most famous of the Eight School Mysteries."`\
 
 ld r,AYA_D4,22
 
-;縲�托ｼ馴嚴谿ｵ縺ｮ諤ｪ隲�↑繧峨∫ｧ√ｂ閨槭＞縺溘％縺ｨ縺後≠繧九�
-`縲I've also heard the story of the 13th floor.`@
+;　１３階段の怪談なら、私も聞いたことがある。@
+`　I've also heard the story of the 13th floor.`@
 br
-;縲縺ｴ縺｣縺溘ｊ�托ｼ捺ｮｵ縺ｮ髫取ｮｵ縺ｪ繧薙※蟄ｦ譬｡縺ｫ縺ｯ蟄伜惠縺励↑縺��縺壹↑縺ｮ縺ｫ縲�蜚千ｪ√↓髫取ｮｵ縺鯉ｼ托ｼ捺ｮｵ縺ｫ縺ｪ縺｣縺ｦ縺励∪縺�ｉ縺励＞縺ｨ縺�≧諤ｪ逡ｰ縲�
-`縲Even though the school shouldn't have a 13 steps on a flight of stairs. `@`There's now this strange phenomenom that has just developed about a 13th step.`@
-;縲縺昴＠縺ｦ縲√◎繧後ｒ雕上ｓ縺閠�↓縺ｯ縲∵＄繧阪＠縺�％縺ｨ縺瑚ｵｷ縺薙ｋ縺ｨ縺倶ｽ輔→縺銀ｦ窶ｦ縲�
-`縲And they say that horrors await those who stumble upon it, or some such...`\
+;　ぴったり１３段の階段なんて学校には存在しないはずなのに。@唐突に階段が１３段になってしまうらしいという怪異。@
+`　Even though the school shouldn't have a 13 steps on a flight of stairs. `@`There's now this strange phenomenom that has just developed about a 13th step.`@
+;　そして、それを踏んだ者には、恐ろしいことが起こるとか何とか……。\
+`　And they say that horrors await those who stumble upon it, or some such...`\
 
 
-;縲鯉ｼ托ｼ馴嚴谿ｵ繧定ｸ上ｓ縺倥ｃ縺｣縺溘ｉ縲√←縺�↑繧薙��溘后
+;「１３階段を踏んじゃったら、どうなんの？」@
 `"What happens when you step on the 13th step?"`@
-;縲梧ｭｻ逾槭′蜻ｽ縲∝･ｪ縺�↓譚･繧九ｓ縺縺｣縺ｦ縲�縺ｩ縺薙∪縺ｧ繧ゅ←縺薙∪縺ｧ繧りｿｽ縺｣謗帙￠縺ｦ譚･繧九ｓ縺縺｣縺ｦ縲ゅ后
+;「死神が命、奪いに来るんだって。@どこまでもどこまでも追っ掛けて来るんだって。」@
 `"They say the grim reaper comes to take your life. `@`I've heard it'll follow you wherever you go, no matter how far."`@
-;縲後∴繝ｼ縲∽ｽ輔◎繧後√ｄ縺繝ｼ縲√≠縺ｯ縺ｯ縺��縺ｵ縺｣縲ゅ構
+;「えー、何それ、やだー、あははうふふっ。」\
 `"Huuuh? What is that? No way, ahaha,uhuhu."`\
 
 ld r,AYA_D3,80
 
-;縲�托ｼ馴嚴谿ｵ繧定ｸ上ｓ縺繧峨∵ｭｻ逾槭′蜻ｽ繧貞･ｪ縺｣縺ｦ縺上ｌ繧九√°縲�
-`縲If you step on the 13th floor, the grim reaper will come for your life, huh?`@
+;　１３階段を踏んだら、死神が命を奪ってくれる、か。@
+`　If you step on the 13th floor, the grim reaper will come for your life, huh?`@
 br
-;縲窶ｦ窶ｦ窶ｦ髫取ｮｵ縺ｪ繧牙ｭｦ譬｡縺ｧ豈取律縲∽ｸ翫ｊ荳九ｊ繧偵＠縺ｦ繧九�
-`縲...I go up and down stairs every day at school.`@
-;縲縺ｧ繧ゅ√◎繧薙↑繧ゅ�縺檎樟繧後※縲∫ｧ√�蜻ｽ繧貞･ｪ縺｣縺ｦ縺上ｌ縺溘％縺ｨ縺ｯ荳蠎ｦ繧ゅ↑縺��
-`縲But I've never experienced such a thing, and my life has yet to be taken from me because of it.`\
+;　………階段なら学校で毎日、上り下りをしてる。@
+`　...I go up and down stairs every day at school.`@
+;　でも、そんなものが現れて、私の命を奪ってくれたことは一度もない。\
+`　But I've never experienced such a thing, and my life has yet to be taken from me because of it.`\
 
 ld r,AYA_D2,80
 
-;縲窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲�
-`縲.........`@
+;　…………………………。@
+`　.........`@
 br
-;縲豁ｻ逾槭√°窶ｦ窶ｦ縲�
-`縲Grim reaper, huh...`@
-;縲莠ｺ縺ｮ蜻ｽ繧貞�繧雁叙繧九∫┌諷域ご縺ｪ蟄伜惠縲�
-`縲Harvesting the lives of mortals, a being without mercy.`@
-;縲鬲ゅｒ螂ｪ縺��ｻ�ｳ峨∈騾｣繧悟悉縺｣縺ｦ縺上ｌ繧九→縺�≧縲∵ｭｻ縺ｸ縺ｮ譯亥�莠ｺ縲�
-`縲Snatching souls and ferrying them down to the underworld, the guide to death.`\
+;　死神、か……。@
+`　Grim reaper, huh...`@
+;　人の命を刈り取る、無慈悲な存在。@
+`　Harvesting the lives of mortals, a being without mercy.`@
+;　魂を奪い、黄泉へ連れ去ってくれるという、死への案内人。\
+`　Snatching souls and ferrying them down to the underworld, the guide to death.`\
 
 bg black,22
 
@@ -383,167 +383,167 @@ fede 0,1000
 E_A
 bgm1 5
 
-;縲窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲�
-`縲.........`@
+;　………………………。@
+`　.........`@
 br
-;縲荳肴晁ｭｰ縺縲�譛ｬ譚･縲∽ｸ肴ｰ怜袖縺ｫ諢溘§繧九∋縺榊ｭ伜惠縺ｧ縺ゅｋ豁ｻ逾槭↓縲≫ｦ窶ｦ遘√�荳肴晁ｭｰ縺ｪ諞ｧ繧後ｒ謚ｱ縺�※縺�◆縲�
-`縲It's strange. `@`Even though I should find the thought of a reaper unpleasant... these days I've strangely embraced a longing for it.`\
+;　不思議だ。@本来、不気味に感じるべき存在である死神に、……私は不思議な憧れを抱いていた。\
+`　It's strange. `@`Even though I should find the thought of a reaper unpleasant... these days I've strangely embraced a longing for it.`\
 
-;縲豁ｻ逾槭�縺ｩ縺ｮ繧医≧縺ｫ蜻ｽ繧貞･ｪ縺｣縺ｦ縺上ｌ繧九�縺繧阪≧縲�
-`縲I wonder how a reaper would kindly take my life away.`@
+;　死神はどのように命を奪ってくれるのだろう。@
+`　I wonder how a reaper would kindly take my life away.`@
 br
-;縲縺ｱ縺｡繧翫→縲√∪繧九〒髮ｻ豌励�繧ｹ繧､繝�メ縺ｧ繧よｶ医☆繧医≧縺ｫ縲∝多繧貞･ｪ縺｣縺ｦ縺上ｌ繧九�縺繧阪≧縺九�
-`縲I wonder if it would just take my life away like flipping off a light switch.`\
+;　ぱちりと、まるで電気のスイッチでも消すように、命を奪ってくれるのだろうか。\
+`　I wonder if it would just take my life away like flipping off a light switch.`\
 
 bg kyou_03,0
 ld r,AYA_D2,22
 
-;縲縺昴≧縺縺ｨ縺励◆繧峨≫ｦ窶ｦ遘√↓縺ｨ縺｣縺ｦ縲∵ｭｻ逾槭�蟄伜惠縺ｯ縲√∪縺輔↓諷域ご縺縺｣縺溘�
-`縲If that were true, ...then the grim reaper was truly a being of mercy.`@
+;　そうだとしたら、……私にとって、死神の存在は、まさに慈悲だった。@
+`　If that were true, ...then the grim reaper was truly a being of mercy.`@
 br
-;縲閾ｪ蛻�↓繧ゆｸ也阜縺ｫ繧ゅ√◎縺励※郢ｰ繧願ｿ斐＆繧後ｋ豈取律縺ｫ繧ゅ∽ｽ輔�諢丞袖繧ゆｾ｡蛟､繧りｦ句�縺帙↑縺�ｧ√↓縺ｨ縺｣縺ｦ縲　縺薙％縺ｯ螻�ｋ縺縺代〒霄ｫ繧堤┥縺九ｌ繧倶ｹｾ縺榊�縺｣縺溷慍迯�ｂ蜷檎┯縺ｪ縺ｮ縺縲�
-`縲My life, this world too, and all of these days I'm made to repeat endlessly, they're all meaningless to me. `@`Just 'being' is the same as being burned and flayed in hell to me.`\
+;　自分にも世界にも、そして繰り返される毎日にも、何の意味も価値も見出せない私にとって、@ここは居るだけで身を焼かれる乾き切った地獄も同然なのだ。\
+`　My life, this world too, and all of these days I'm made to repeat endlessly, they're all meaningless to me. `@`Just 'being' is the same as being burned and flayed in hell to me.`\
 
 cl r,22
 
-;縲窶ｦ窶ｦ縺ｪ繧峨�遘√�逕溘�諢丞袖縺ｯ縲�
-`縲...Then my reason for living.`@
+;　……ならば私の生の意味は。@
+`　...Then my reason for living.`@
 br
-;縲縺薙�荳也阜縺九ｉ遘√ｒ騾｣繧悟悉縺｣縺ｦ縺上ｌ繧九∵ｭｻ逾槭′險ｪ繧後ｋ譌･繧偵√◆縺蠕�■邯壹￠繧九％縺ｨ縲�縺薙�荳轤ｹ縺縺代↑縺ｮ縺ｧ縺ｯ縺ｪ縺�□繧阪≧縺九�
-`縲Waiting for the day the grim reaper comes to take me away from this world. `@`Perhaps that is the only reason I have.`\
+;　この世界から私を連れ去ってくれる、死神が訪れる日を、ただ待ち続けること。@この一点だけなのではないだろうか。\
+`　Waiting for the day the grim reaper comes to take me away from this world. `@`Perhaps that is the only reason I have.`\
 
-;縲縺昴�譌･繧医ｊ縲∫ｧ√∫嶌鬥ｬ縺ゅｄ縺ｯ縲　蟄ｦ譬｡縺ｧ髫取ｮｵ繧剃ｸ翫ｊ荳九ｊ縺吶ｋ蠎ｦ縺ｫ縲√◎縺ｮ谿ｵ謨ｰ繧貞ｿ��荳ｭ縺ｧ謨ｰ縺医ｋ繧医≧縺ｫ縺ｪ縺｣縺溘�
-`縲From that day forth, each time I, Aya Souma, went up and down the stairs at school, `@`I started counting the steps in my mind.`\
+;　その日より、私、相馬あやは、@学校で階段を上り下りする度に、その段数を心の中で数えるようになった。\
+`　From that day forth, each time I, Aya Souma, went up and down the stairs at school, `@`I started counting the steps in my mind.`\
 
 bg black,22
 wait 1000
 bg kaidan_01,22
 
-;縲�第ｮｵ縲��呈ｮｵ縲��捺ｮｵ窶ｦ窶ｦ縲�
-`縲1. `@`2. `@`3 steps...`@\
+;　１段。@２段。@３段……。\
+`　1. `@`2. `@`3 steps...`@\
 
-;縲遘√�謨吝ｮ､縺ｯ�帝嚴縺ｫ縺ゅｋ縲�縺縺九ｉ縲∵ｯ取律蠢�★荳翫ｊ荳九ｊ縺後≠繧九�
-`縲My classroom is on the second floor. `@`So everyday I had to go up and down those stairs.`@
+;　私の教室は２階にある。@だから、毎日必ず上り下りがある。@
+`　My classroom is on the second floor. `@`So everyday I had to go up and down those stairs.`@
 br
-;縲縺励°縺励◎縺ｮ髫取ｮｵ縺ｯ縲�ｼ托ｼ呈ｮｵ縺ｧ雕翫ｊ蝣ｴ縺ｫ驕斐＠縲√＆繧峨↓�托ｼ呈ｮｵ縺ｧ�帝嚴縺ｫ閾ｳ繧九�
-`縲However, the steps end at the 12th step, and beyond the 12th step I'd arrive on the second floor.`\
+;　しかしその階段は、１２段で踊り場に達し、さらに１２段で２階に至る。\
+`　However, the steps end at the 12th step, and beyond the 12th step I'd arrive on the second floor.`\
 
-;縲窶ｦ窶ｦ蠖鍋┯縺ｮ縺薙→縺ｪ縺後ｉ縲　菴募ｺｦ荳翫ｊ荳九ｊ繧定ｩｦ縺励※繧ゅ�ｼ托ｼ呈ｮｵ縺ｧ雕翫ｊ蝣ｴ縺ｧ縲√＆繧峨↓�托ｼ呈ｮｵ縺ｧ�帝嚴縺縺｣縺溘�
-`縲...Like the most natrual thing in the world, `@`no matter how many times I'd try going up and down the stairs, I'd get off at the 12th step and arrive on the second floor.`@
+;　……当然のことながら、@何度上り下りを試しても、１２段で踊り場で、さらに１２段で２階だった。@
+`　...Like the most natrual thing in the world, `@`no matter how many times I'd try going up and down the stairs, I'd get off at the 12th step and arrive on the second floor.`@
 br
-;縲縺昴��托ｼ呈ｮｵ縺後≫ｦ窶ｦ縺ゅｋ譌･縲∝柏遯√↓�托ｼ捺ｮｵ縺ｫ縺ｪ縺｣縺ｦ縲≫ｦ窶ｦ豁ｻ逾槭′迴ｾ繧後※縺上ｌ縺ｪ縺�□繧阪≧縺九�
-`縲I thought maybe that some day... suddenly a 13th step would appear... and a god of death would come for me.`\
+;　その１２段が、……ある日、唐突に１３段になって、……死神が現れてくれないだろうか。\
+`　I thought maybe that some day... suddenly a 13th step would appear... and a god of death would come for me.`\
 
-;縲�匁ｮｵ縲��玲ｮｵ縲��俶ｮｵ窶ｦ窶ｦ縲�
-`縲6. `@`7. `@`8 steps...`\
+;　６段。@７段。@８段……。\
+`　6. `@`7. `@`8 steps...`\
 
-;縲縺昴＠縺ｦ遘√↓螳峨ｉ縺九↑縲∫悛繧九ｈ縺�↑隗｣縺代ｋ繧医≧縺ｪ豁ｻ繧剃ｸ弱∴縺ｦ谺ｲ縺励＞窶ｦ窶ｦ縲�
-`縲I want to be given a peaceful death, like melting away in a dream...`@
+;　そして私に安らかな、眠るような解けるような死を与えて欲しい……。@
+`　I want to be given a peaceful death, like melting away in a dream...`@
 br
-;縲窶ｦ窶ｦ窶ｦ縺輔＝縲∽ｻ頑律繧よ焚縺医※縺ｿ繧医≧縲�
-`縲...So, let's see what happens today.`@
-;縲縺ゅｋ縺ｯ縺壹�縺ｪ縺��ｼ托ｼ捺ｮｵ逶ｮ繧呈ｱゅａ縺ｦ縲�
-`縲I sought after the impossible, a 13th step.`\
+;　………さぁ、今日も数えてみよう。@
+`　...So, let's see what happens today.`@
+;　あるはずのない、１３段目を求めて。\
+`　I sought after the impossible, a 13th step.`\
 
 bg black,22
 
-;縲�托ｼ先ｮｵ縲��托ｼ第ｮｵ縲��托ｼ呈ｮｵ窶ｦ窶ｦ縲�
-`縲10. `@`11. `@`12...`\
+;　１０段。@１１段。@１２段……。\
+`　10. `@`11. `@`12...`\
 
 bg kaidan_01,0
 ld c,AYA_D1,22
 
-;縲鯉ｼ托ｼ捺ｮｵ縲�/
+;「１３段。@/
 `"13 steps.`@/
 E_A
 ld c,AYA_D4,80
-;窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縺医ゅ后
+;……………………え。」@
 `.........Wha."`@
 
 me1v 16,50
 
 br
-;縲遘√�蜿ｳ雜ｳ縺ｯ縲�ｼ托ｼ捺ｮｵ逶ｮ繧定ｸ上∩縺励ａ縺ｦ縺�◆縲�
-`縲My right foot stood firmly on the 13th step.`\
+;　私の右足は、１３段目を踏みしめていた。\
+`　My right foot stood firmly on the 13th step.`\
 
 cl c,0
 ld r,AYA_D9,23
 
-;縲謨ｰ縺磯俣驕輔∴縺溪ｦ窶ｦ�檗
-`縲Did I miscount...?`@
+;　数え間違えた……？@
+`　Did I miscount...?`@
 br
-;縲譛帙ｓ縺ｧ縺�◆縺ｯ縺壹��托ｼ捺ｮｵ逶ｮ繧定ｸ上ａ縺溘�縺ｫ縲∫ｧ√�蜥�痢縺ｫ雕上∩髢馴＆縺�□縺ｨ諤昴▲縺ｦ縺励∪縺��
-`縲Even though I'd arrived on the 13th step I was looking for, I immediately jumped to the conclusion I had miscounted.`@
-;縲蠖鍋┯縺縲�縺縺｣縺ｦ縲�嚴谿ｵ縺ｯ�托ｼ呈ｮｵ縺励°縺ｪ縺��縺壹�
-`縲Of course. `@`I mean, there should only be 12 steps on the stairs.`\
+;　望んでいたはずの１３段目を踏めたのに、私は咄嗟に踏み間違いだと思ってしまう。@
+`　Even though I'd arrived on the 13th step I was looking for, I immediately jumped to the conclusion I had miscounted.`@
+;　当然だ。@だって、階段は１２段しかないはず。\
+`　Of course. `@`I mean, there should only be 12 steps on the stairs.`\
 
 bg black,25
 bg kaidan_03,25
 
-;縲遘√�諷後※縺ｦ髫取ｮｵ繧帝ｧ�￠荳九ｊ縲∬ｸ翫ｊ蝣ｴ縺ｫ謌ｻ繧九�
-`縲I hurriedly ran down the stairs to the floor below. `@`
-;縲縺昴＠縺ｦ謖�〒荳谿ｵ荳谿ｵ縲∝｣ｰ縺ｫ蜃ｺ縺励※謨ｰ縺医ｋ縲�
-`縲Once again, I counted each step with my fingers out loud.`@
+;　私は慌てて階段を駆け下り、踊り場に戻る。@
+`　I hurriedly ran down the stairs to the floor below. `@`
+;　そして指で一段一段、声に出して数える。@
+`　Once again, I counted each step with my fingers out loud.`@
 br
-;縲窶ｦ窶ｦ�托ｼ舌�ｼ托ｼ代�ｼ托ｼ偵�窶ｦ窶ｦ�托ｼ呈ｮｵ縲�
-`縲...10, 11, 12. `@`...12`\
+;　……１０、１１、１２。@……１２段。\
+`　...10, 11, 12. `@`...12`\
 
 fede 0,1000
 E_A
 
-;縲縺昴≧縺縲��托ｼ呈ｮｵ縺縲�/
-`縲Right. `@`Twelve steps.`@/
+;　そうだ。@１２段だ。@/
+`　Right. `@`Twelve steps.`@/
 bgm1 14
-;蠖鍋┯縺縲�
+;当然だ。@
 `Obviously.`@
-;縲繧ゅ≧荳蠎ｦ荳翫ｊ逶ｴ縺励∝｣ｰ縺ｫ蜃ｺ縺励↑縺後ｉ謨ｰ縺医ｋ縲�
-`縲This time while climbing up once again, I counted the steps aloud.`\
+;　もう一度上り直し、声に出しながら数える。\
+`　This time while climbing up once again, I counted the steps aloud.`\
 
 bg black,22
 bg kaidan_02,0
 ld c,AYA_D7a,22
 
-;縲娯ｦ窶ｦ�托ｼ第ｮｵ縲�窶ｦ窶ｦ�托ｼ呈ｮｵ縲�窶ｦ窶ｦ窶ｦ窶ｦ�托ｼ呈ｮｵ縺ｧ縲∫ｵゅｏ繧翫�窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲ゅ后
+;「……１１段。@……１２段。@…………１２段で、終わり。@…………………。」@
 `"...11. `@`...12. `@`.......At 12, it stops. `@`......"`@
 br
-;縲遘√�蟾ｦ雜ｳ縺ｯ縲∫｢ｺ縺九↓�托ｼ呈ｮｵ逶ｮ繧呈焚縺医�ｼ帝嚴縺ｸ閾ｳ縺｣縺ｦ縺�◆縲�
-`縲My left foot had certainly sounded on the 12th step, and I arrived on the 2nd floor.`\
+;　私の左足は、確かに１２段目を数え、２階へ至っていた。\
+`　My left foot had certainly sounded on the 12th step, and I arrived on the 2nd floor.`\
 
-;縲窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲�
-`縲.........`@
+;　…………………………。@
+`　.........`@
 br
-;縲遘√�髫取ｮｵ繧剃ｸ翫ｋ譎ゅ∫┌諢剰ｭ倥□縺悟ｸｸ縺ｫ蜿ｳ雜ｳ縺九ｉ荳翫ｋ縺ｮ縺縲�
-`縲When I went up the stairs, I unconciously always went up with the right foot.`@
-;縲縺縺九ｉ縲∝�謨ｰ縺ｧ縺ゅｋ�托ｼ呈ｮｵ繧剃ｸ翫ｌ縺ｰ縲√◎繧後�蟾ｦ雜ｳ縺ｧ閾ｳ繧九％縺ｨ縺ｫ縺ｪ繧九�
-`縲And so, coincidentally my left foot would reach the 12th step.`\
+;　私は階段を上る時、無意識だが常に右足から上るのだ。@
+`　When I went up the stairs, I unconciously always went up with the right foot.`@
+;　だから、偶数である１２段を上れば、それは左足で至ることになる。\
+`　And so, coincidentally my left foot would reach the 12th step.`\
 
 ld c,AYA_D4a,80
 
-;縲窶ｦ窶ｦ縺ｧ繧ゅ＆縺｣縺阪�ｼ托ｼ捺ｮｵ繧呈焚縺医◆譎ゅ�縲∫ｧ√�蜿ｳ雜ｳ縺ｧ閾ｳ縺｣縺溪ｦ窶ｦ縲�
-`縲...But just now when I counted out the 13th step, I had reached it with my right foot...`@
+;　……でもさっき、１３段を数えた時は、私は右足で至った……。@
+`　...But just now when I counted out the 13th step, I had reached it with my right foot...`@
 br
-;縲謨ｰ縺磯俣驕輔∴縺溘□縺代〒縺ｪ縺上≫ｦ窶ｦ遘√�菴輔°縺ｮ豌礼ｴ帙ｌ縺九ｉ縲∝ｷｦ雜ｳ縺ｧ髫取ｮｵ繧剃ｸ翫ｊ蟋九ａ縺溘�縺繧阪≧縺九�
-`縲It wasn't just a miscount... by chance maybe I had started climbing the stairs with my left foot.`@
-;縲縺昴ｓ縺ｪ豌礼ｴ帙ｌ縺檎嶌縺ｾ縺｣縺ｦ縲∵焚縺磯俣驕輔＞繧偵＠縺ｦ縺励∪縺｣縺溘↓驕輔＞縺ｪ縺�ｦ窶ｦ窶ｦ縲�
-`縲It must have just been a combination of chance and miscounting...`\
+;　数え間違えただけでなく、……私は何かの気紛れから、左足で階段を上り始めたのだろうか。@
+`　It wasn't just a miscount... by chance maybe I had started climbing the stairs with my left foot.`@
+;　そんな気紛れが相まって、数え間違いをしてしまったに違いない………。\
+`　It must have just been a combination of chance and miscounting...`\
 
 ld c,AYA_D8a,80
 
-;縲娯ｦ窶ｦ窶ｦ窶ｦ窶ｦ縺ｧ繧ゅ≫ｦ窶ｦ縺昴ｓ縺ｪ縺ｯ縺壹�窶ｦ窶ｦ窶ｦ縲ゅ后
+;「……………でも、……そんなはずは………。」@
 `"...But... that's impossible..."`@
 br
-;縲閾ｪ菫｡縺ｯ縺ｪ縺��
-`縲I'm not sure.`@
-;縲縺ｧ繧ゅ∽ｻ翫∵焚縺育峩縺励◆繧峨ｄ縺ｯ繧奇ｼ托ｼ呈ｮｵ縲�窶ｦ窶ｦ縺昴ｌ縺後∝�驟ｷ縺ｧ豺｡逋ｽ縺ｪ縲∫樟螳溘□縲�
-`縲But after I recounted just now, it was 12. `@`...That was the cold hard truth.`@
+;　自信はない。@
+`　I'm not sure.`@
+;　でも、今、数え直したらやはり１２段。@……それが、冷酷で淡白な、現実だ。\
+`　But after I recounted just now, it was 12. `@`...That was the cold hard truth.`@
 
-;縲縺昴＠縺ｦ菴輔ｈ繧翫ｂ縲�
-`縲Yet more than anything.`@
-;縲譛ｬ蠖薙↓�托ｼ捺ｮｵ繧定ｸ上ｓ縺縺ｪ繧峨≫ｦ窶ｦ迴ｾ繧後↑縺上※縺ｯ縺ｪ繧峨↑縺��縺壹�豁ｻ逾槭′縲√◎縺ｮ蟋ｿ繧堤樟縺輔↑縺��
-`縲If I really stood on the 13th step... the grim reaper, that had to show itself, didn't appear.`@
+;　そして何よりも。@
+`　Yet more than anything.`@
+;　本当に１３段を踏んだなら、……現れなくてはならないはずの死神が、その姿を現さない。@
+`　If I really stood on the 13th step... the grim reaper, that had to show itself, didn't appear.`@
 br
-;縲窶ｦ窶ｦ豁ｻ逾槭′迴ｾ繧後↑縺�ｻ･荳翫�窶ｦ窶ｦ遘√′�托ｼ捺ｮｵ逶ｮ繧定ｸ上ｓ縺縺ｨ諤昴▲縺溘�縺ｯ蜍倬＆縺�↓驕輔＞縺ｪ縺�＠縲�窶ｦ窶ｦ莉ｮ縺ｫ譛ｬ蠖薙↓�托ｼ捺ｮｵ逶ｮ縺ｮ諤ｪ逡ｰ縺後≠縺｣縺溘→縺励※繧ゅ　窶ｦ窶ｦ遘√ｒ霑弱∴縺ｫ譚･縺ｦ縺上ｌ縺ｪ縺��縺ｪ繧峨∽ｽ輔�諢丞袖繧ゅ↑縺��縺縲�
-`縲...Since the grim reaper can't show itself. `@`...Then I must have simply mistook what I stood on to be the 13th step. `@`...And even if I had stood on a mysterious 13th step, `@`...it didn't mean anything because the reaper didn't come for me.`\
+;　……死神が現れない以上。@……私が１３段目を踏んだと思ったのは勘違いに違いないし。@……仮に本当に１３段目の怪異があったとしても、@……私を迎えに来てくれないのなら、何の意味もないのだ。\
+`　...Since the grim reaper can't show itself. `@`...Then I must have simply mistook what I stood on to be the 13th step. `@`...And even if I had stood on a mysterious 13th step, `@`...it didn't mean anything because the reaper didn't come for me.`\
 
 bg black,22
 bg kaidan_01,22
@@ -552,37 +552,37 @@ bg kaidan_02,26
 ld r,AYA_D1,26
 ld r,AYA_D2,80
 
-;縲鯉ｼ代�ｼ偵�ｼ凪ｦ窶ｦ窶ｦ窶ｦ縲�窶ｦ窶ｦ窶ｦ�托ｼ代�ｼ托ｼ偵�窶ｦ窶ｦ菴募ｺｦ謨ｰ縺医※繧ゅ≫ｦ窶ｦ�托ｼ呈ｮｵ縲ゅ后
+;「１、２、３…………。@………１１、１２。@……何度数えても、……１２段。」@
 `"1, 2, 3... `@`...11, 12. `@`...No matter how many times I count it, I end up at 12."`@
 br
-;縲窶ｦ窶ｦ縺昴ｓ縺ｪ繧ゅ�縺縲�
-`縲...That's how it is.`@
-;縲遘√�縲∝ｮ牙ｵ縺ｨ繧り誠閭�→繧ゅ▽縺九↑縺�ｺ懈�繧呈ｼ上ｉ縺励　窶ｦ窶ｦ繧ゅ≧莠悟ｺｦ縺ｨ縲�嚴谿ｵ繧呈焚縺医↑縺後ｉ荳翫ｊ荳九ｊ縺吶ｋ縺薙→縺ｯ縺ｪ縺�□繧阪≧縺ｨ諤昴≧縺ｮ縺縺｣縺溘�
-`縲I let loose a sigh of releif and disappointment. `@`...I thought I didn't need to go up and down the stairs to count again.`\
+;　……そんなものだ。@
+`　...That's how it is.`@
+;　私は、安堵とも落胆ともつかない溜息を漏らし、@……もう二度と、階段を数えながら上り下りすることはないだろうと思うのだった。\
+`　I let loose a sigh of releif and disappointment. `@`...I thought I didn't need to go up and down the stairs to count again.`\
 
 ld r,AYA_D3,80
 
-;縲鬥ｬ鮖ｿ鬥ｬ鮖ｿ縺励＞窶ｦ縲�
-`縲How foolish...`@
-;縲繧�▲縺ｱ繧翫�ｼ托ｼ馴嚴谿ｵ縺ｪ繧薙※諤ｪ隲�∽ｽ輔�諢丞袖繧ゅ↑縺��
-`縲As I thought, the tale of the 13th step has no real meaning.`@
+;　馬鹿馬鹿しい…。@
+`　How foolish...`@
+;　やっぱり、１３階段なんて怪談、何の意味もない。@
+`　As I thought, the tale of the 13th step has no real meaning.`@
 br
-;縲遘√�逕溘″繧区э蜻ｳ縺ｫ菴輔�諢丞袖繧ゅ↑縺�ｈ縺�↓縲≫ｦ窶ｦ繧�▲縺ｱ繧翫∽ｽ輔�諢丞袖繧ゅ↑縺��縺縲�
-`縲Just as it has no impact on my meaningless existence... it's meaningless.`@
-;縲遘√↓繧ゆｸ也阜縺ｫ繧ゅ∽ｽ輔ｂ縺九ｂ縲≫ｦ窶ｦ諢丞袖繧ゆｾ｡蛟､繧ゅ↑縺��
-`縲Myself, the world, everything and anything, ...it's all useless, meaningless.`\
+;　私の生きる意味に何の意味もないように、……やっぱり、何の意味もないのだ。@
+`　Just as it has no impact on my meaningless existence... it's meaningless.`@
+;　私にも世界にも、何もかも、……意味も価値もない。\
+`　Myself, the world, everything and anything, ...it's all useless, meaningless.`\
 
 ld r,AYA_D2,80
 
 me1v 16,50
 
-;縲豸医∴縺溘＞縲�
-`縲I want to disappear.`@
+;　消えたい。@
+`　I want to disappear.`@
 br
-;縲隱ｰ縺狗ｧ√ｒ豸医＠蜴ｻ縺｣縺ｦ縺上ｌ縺ｪ縺�□繧阪≧縺九�
-`縲Won't someone help erase me?`@
-;縲縺薙�辟｡諢丞袖辟｡萓｡蛟､縺ｪ荳也阜縺九ｉ縲　逕溘″繧区э蜻ｳ繧ゆｾ｡蛟､繧ゅ↑縺�ｧ√ｒ縲√◎縺｣縺ｨ縲∵ｰｴ髱｢縺ｫ隗｣縺代ｋ邊蛾妛縺ｮ繧医≧縺ｫ窶ｦ窶ｦ縲�
-`縲I want to be erased from this meaningless valueless world. `@`I want my life without meaning to disappear, gently, like a snowflake on the water's surface...`\ 
+;　誰か私を消し去ってくれないだろうか。@
+`　Won't someone help erase me?`@
+;　この無意味無価値な世界から、@生きる意味も価値もない私を、そっと、水面に解ける粉雪のように……。\
+`　I want to be erased from this meaningless valueless world. `@`I want my life without meaning to disappear, gently, like a snowflake on the water's surface...`\ 
 
 ;ld r,AYA_D3,80
 
@@ -595,7 +595,7 @@ wait 2000
 
 bg black,42
 
-;笆縺ゅｄ縺檎ｫ九■蜴ｻ縺｣縺溷ｾ後�嚴谿ｵ縺ｫ蟆代＠菴咎渊繧呈ｮ九＠縺ｦ繝輔ぉ繝ｼ繝峨い繧ｦ繝医☆繧九�
+;■あやが立ち去った後、階段に少し余韻を残してフェードアウトする。@
 
 fede 0,1000
 E_A
@@ -604,94 +604,94 @@ bg gakkou_01,2
 
 bgm1 22
 
-;縲縺ゅｄ縺ｮ蟄ｦ譬｡縺ｧ縺ｮ荳譌･縺ｯ縲√⊂繧薙ｄ繧翫＠縺ｦ縺�ｋ縺九√∪縺ｩ繧阪ｓ縺ｧ縺�ｋ縺九�窶ｦ窶ｦ縺ゅｋ縺��譛ｺ縺ｫ遯√▲莨上＠縺ｦ逵縺｣縺ｦ縺�ｋ縺九□縺代□縲�
+;　あやの学校での一日は、ぼんやりしているか、まどろんでいるか。@……あるいは机に突っ伏して眠っているかだけだ。@
 ` At Aya's school, whether she's daydreaming or dozing off,`@`...she just spends her days with her eyes closed laying down on her desk.`@
 br
-;縲縺縺九ｉ縲∝ｽｼ螂ｳ縺ｮ荳譌･縺ｯ縲∝ｸｸ縺ｫ縺ｼ縺�▲縺ｨ縺励※髴槭ｓ縺ｧ縺�ｋ縲�
+;　だから、彼女の一日は、常にぼうっとして霞んでいる。@
 ` So her days are always spent in a dreamy blur.`@
-;縲蜊雁�蟇昴※縺�ｋ繧医≧縺ｪ縲∬ｵｷ縺阪※縺�ｋ繧医≧縺ｪ縲≫ｦ窶ｦ縺昴ｓ縺ｪ縺ｾ縺ｩ繧阪∩縺ｮ荳ｭ縺ｧ逕溘″縺ｦ縺�ｋ縺ｮ縺縲�
+;　半分寝ているような、起きているような、……そんなまどろみの中で生きているのだ。\
 ` Seemingly half asleep, but seemingly half awake... she exists within that kind of dream.`\
 bg black,22
 bg gakkou_02,22
 
-;縲縺昴ｓ縺ｪ縺縺九ｉ縲≫ｦ窶ｦ鬟滓ｬｲ縺縺｣縺ｦ縲√≠繧九ｏ縺代ｂ縺ｪ縺��
+;　そんなだから、……食欲だって、あるわけもない。@
 ` Because of that... there's no way she'd have anything like an appetite.`@
 br
-;縲邨ｦ鬟溘�譎る俣繧ゅ√⊇縺ｨ繧薙←邂ｸ縺ｯ騾ｲ縺ｾ縺壹√＞縺､繧よｮ九＠縺ｦ縺�◆縲�
+;　給食の時間も、ほとんど箸は進まず、いつも残していた。@
 ` At lunch time the chopsticks go almost unused, and she always had leftovers. `@
 br
-;縲縺昴＠縺ｦ縺ｼ繧薙ｄ繧翫→謾ｾ隱ｲ蠕後ｒ蜷代°縺医√⊂繧薙ｄ繧翫→荳区｡縺励◆縲�
+;　そしてぼんやりと放課後を向かえ、ぼんやりと下校した。\
 ` So she listlessly met with the end of the school day, and listlessly went home. `\
 bg black,22
 bg roji_03,22
 
-;縲荳｡隕ｪ縺ｯ蜈ｱ蜒阪″縺ｧ蟶ｰ繧翫�驕�＞縲�
+;　両親は共働きで帰りは遅い。@
 ` Her parents both worked so they'd come home late.`@
 br
-;縲縺九▽縺ｦ縺ｯ繝�Ξ繝薙ｂ隕九※縺�◆縺後√◎縺ｮ鬥ｬ鮖ｿ鬥ｬ鮖ｿ縺励＞蜀�ｮｹ縺ｫ菴輔�諢丞袖繧ゆｾ｡蛟､繧りｦ句�縺帙★縲�窶ｦ窶ｦ莉翫〒縺ｯ蠖ｼ螂ｳ縺ｯ縲∝ｮｶ縺ｧ繧ゅ◆縺縺ｼ繧薙ｄ繧翫→讓ｪ縺ｫ縺ｪ縺｣縺ｦ驕弱＃縺吶□縺代□縺｣縺溘�
+;　かつてはテレビも見ていたが、その馬鹿馬鹿しい内容に何の意味も価値も見出せず。@……今では彼女は、家でもただぼんやりと横になって過ごすだけだった。\
 ` She used to watch television, but found no meaning or value in the idiotic content of the programs... `@`Now she just passes the time laying around in the house.`\
 bg black,22
 bg ie_04,22
 
-;縲縺�▽繧ゅ�繧医≧縺ｫ縲√＄縺溘ｊ縺ｨ讓ｪ縺ｫ縺ｪ縺｣縺ｦ隕倶ｸ翫￡繧句､ｩ莠輔�
+;　いつものように、ぐたりと横になって見上げる天井。@
 ` As usual she lay still, gazing up at the ceiling.`@
 br
-;縲窶ｦ窶ｦ繧ゅ≧縲∵沒縺ｿ縺ｮ蠖｢縺輔∴隕壹∴縺ｦ縺励∪縺｣縺溘�
+;　……もう、染みの形さえ覚えてしまった。@
 ` ...She had already memorized the spots on the ceiling.`@
-;縲縺昴�譟薙∩縺ｮ蠖｢縺ｫ讒倥�↑遨ｺ諠ｳ縺ｮ迚ｩ隱槭ｒ諤昴＞豬ｮ縺九∋縺溘％縺ｨ繧ゅ≠縺｣縺溘′縲　縺吶〒縺ｫ縺昴�辟｡諢丞袖縺輔↓鬟ｽ縺肴棡縺ｦ縺ｦ縺�ｋ縲�
+;　その染みの形に様々な空想の物語を思い浮かべたこともあったが、@すでにその無意味さに飽き果てている。@
 ` Her wild imagination could conjure up a variety of stories about these spots, `@`but she was already exhausted and tired of the senselessness.`@
 br
-;縲縺縺九ｉ縺ｼ繧薙ｄ繧翫→縲√％縺�＠縺ｦ豁ｻ菴薙�繧医≧縺ｫ謾ｾ蠢�☆繧九�縺縲�
+;　だからぼんやりと、こうして死体のように放心するのだ。\
 ` That's why she listlessly emptied her mind like this as if she were a corpse.`\
-;縲諢剰ｭ倥′縺繧薙□繧楢埋繧後※縺上ｋ縲�
+;　意識がだんだん薄れてくる。@
 ` Her consciousness is starting to fade.`@
-;縲窶ｦ窶ｦ縺薙�縺ｾ縺ｾ豁ｻ縺ｭ縺ｪ縺�°縺ｪ縲�
+;　……このまま死ねないかな。@
 `...She wondered why she couldn't die like this.`@
 br
-;縲縺吶ｋ縺ｨ荳｡隕ｪ縺悟ｸｰ縺｣縺ｦ譚･縺ｦ縲�｣溷酷縺ｫ蜻ｼ縺ｳ縺､縺代ｉ繧後ｋ縺ｮ縺縲�
+;　すると両親が帰って来て、食卓に呼びつけられるのだ。@
 ` When her parents returned, she was called to the dinner table.`@
-;縲繧ゅ■繧阪ｓ縲�｣滓ｬｲ縺ｪ縺ｩ縺ゅｋ繧上￠繧ゅ↑縺��
+;　もちろん、食欲などあるわけもない。\
 ` Of course, she had no appetite.`\
 bg black,22
 
-;縲莨夊ｩｱ繧ゅ↑縺上∝ｰ代＠邂ｸ繧剃ｻ倥￠縺ｦ鬟溷酷繧堤ｫ九▽縲�
+;　会話もなく、少し箸を付けて食卓を立つ。@
 ` There was no conversation, and she just played with her chopsticks a little and then left the dinner table.`@
-;縲縺昴＠縺ｦ驛ｨ螻九↓謌ｻ繧翫√∪縺滓ｭｻ菴薙↓縺ｪ繧九�
+;　そして部屋に戻り、また死体になる。@
 ` Then she returned to her room, and became a corpse again.`@
-;縲隕ｪ縺ｫ鬚ｨ蜻ゅｒ蜻ｼ縺ｰ繧後ｋ縺ｾ縺ｧ縺昴ｌ繧堤ｶ壹￠縲≫ｦ窶ｦ蜈･豬ｴ繧呈ｸ医∪縺帙◆蠕後√∪縺滓ｭｻ菴薙↓縺ｪ繧九�
+;　親に風呂を呼ばれるまでそれを続け、……入浴を済ませた後、また死体になる。\
 ` And continued as such until her parents called her for her evening bath... after which she returned to being a corpse once again.`\
 mono 1
 bg ie_04,22
 
-;縲豸育�縺励※豺ｱ螟懊↓縺ｪ縺｣縺ｦ縲∝ｸ�屮縺ｫ蜈･縺｣縺ｦ繧よｭｻ菴薙�縺ｾ縺ｾ縲�
-`縲Turning out the lights, even after slipping into her futon late at night she would remain a corpse.`@
+;　消灯して深夜になって、布団に入っても死体のまま。@
+`　Turning out the lights, even after slipping into her futon late at night she would remain a corpse.`@
 br
-;縲逵繧九�縺ｯ逕溘″縺ｦ縺�ｋ莠ｺ髢薙�縺吶ｋ縺薙→縺縲�
+;　眠るのは生きている人間のすることだ。@
 ` Sleep is for those who are alive.`@
-;縲豁ｻ菴薙�讓ｪ縺ｫ縺ｪ縺｣縺ｦ縺�ｋ縺縺代〒縲∫悛縺｣縺ｦ縺�ｋ繧上￠縺倥ｃ縺ｪ縺��
+;　死体は横になっているだけで、眠っているわけじゃない。\
 ` Corpses simply lay still -- they do not sleep.`\
-;縲窶ｦ窶ｦ蟄ｦ譬｡縺ｧ繧ょｮｶ縺ｧ繧ょｱ�悛繧翫�縺九ｊ縺ｮ蠖ｼ螂ｳ縺後∝､懊↓蠢ｫ逵縺ｧ縺阪ｋ繧上￠繧ゅ↑縺��
+;　……学校でも家でも居眠りばかりの彼女が、夜に快眠できるわけもない。@
 ` There's no way a girl who dozes off at school and at home all the time can sleep soundly at night.`@
 br
-;縲縺縺九ｉ縲∫悛繧後↑縺��
+;　だから、眠れない。@
 ` That explains why she can't sleep.`@
-;縲蟄ｦ譬｡縺ｧ繧ょｮｶ縺ｧ繧ゅ◎縺�〒縺ゅｋ繧医≧縺ｫ縲　窶ｦ窶ｦ縺ｾ縺ｩ繧阪∩縺ｨ謾ｾ蠢��蜈･繧頑ｷｷ縺倥▲縺溘√←繧阪←繧阪�豁ｻ菴薙↓縺ｪ縺｣縺ｦ縲　讓ｪ縺ｫ縺ｪ縺｣縺ｦ縺�ｋ縺縺代□縺｣縺溘�
+;　学校でも家でもそうであるように、@……まどろみと放心の入り混じった、どろどろの死体になって、@横になっているだけだった。\
 ` At school and at home, `@`...mixed with her sloth and dozing, she'd lay still and become a rotting corpse.`\
 
-;縲縺昴ｌ縺ｧ縲√○繧√※辟｡蠢�□縺｣縺溘↑繧峨∝ｽｼ螂ｳ繧ゅ＆縺槭ｄ豌玲･ｽ縺縺｣縺溘ｍ縺��
+;　それで、せめて無心だったなら、彼女もさぞや気楽だったろう。@
 ` One would think because she was unconcious she would have been comfortable.`@
 br
-;縲縺励°縺励∝ｽｼ螂ｳ縺ｯ逕溘″縺ｦ縺�ｋ縲�
+;　しかし、彼女は生きている。@
 ` However, she is still living.`@
-;縲縺縺九ｉ縲∵ｭｻ菴薙↓縺ｪ繧翫↑縺後ｉ繧ょｻｶ縲�→縲　閾ｪ蛻��諢丞袖繧�ｾ｡蛟､縲∫函縺阪ｋ縺薙→縺ｮ諢丞袖繧�ｾ｡蛟､縺ｸ縺ｮ閾ｪ蝠剰�遲斐ｒ郢ｰ繧願ｿ斐＠縺ｦ縺�ｋ縺ｮ縺縲�
+;　だから、死体になりながらも延々と、@自分の意味や価値、生きることの意味や価値への自問自答を繰り返しているのだ。\
 ` So each time she would become a corpse,`@` she would repeatedly ask herself the meaning and value in her life.`\
-;縲縺昴ｌ縺ｫ遯呈�縺玲寺縺代↑縺後ｉ縲∝ｸ瑚埋縺ｪ諢剰ｭ倥�縺ｾ縺ｾ縲∫ｷｩ縺�ｭ逞帙↓蠖ｼ螂ｳ縺ｯ縺壹▲縺ｨ縺壹▲縺ｨ闍帙∪繧檎ｶ壹￠縺ｦ縺�ｋ窶ｦ窶ｦ縲�
+;　それに窒息し掛けながら、希薄な意識のまま、緩い頭痛に彼女はずっとずっと苛まれ続けている……。@
 ` As she suffocates in this manner, in her dull conciousness she continues to be endlessly tormented by a throbbing headache...`@
 br
-;縲縺縺九ｉ縲√�縺ｨ諢剰ｭ倥′騾泌�繧後※縲√ｏ縺壹°縺ｫ縺ｧ繧ら悛繧雁�縺ｫ蜈･縺｣縺滓凾縺縺代′縲　蠖ｼ螂ｳ縺ｮ蜚ｯ荳縺ｮ隗｣謾ｾ縺輔ｌ縺滓凾髢薙□縺｣縺溘↓驕輔＞縺ｪ縺�ｦ窶ｦ窶ｦ縲�
+;　だから、ふと意識が途切れて、わずかにでも眠り側に入った時だけが、@彼女の唯一の解放された時間だったに違いない………。@
 ` Thus, when her conciousness is suddenly cut and she can cross into sleep,`@` without a doubt that is her only release from the pain...`@
 br
-;縲縺昴ｌ縺後∫嶌鬥ｬ縺ゅｄ縺ｮ縲∫ｹｰ繧願ｿ斐＆繧後ｋ豁ｻ菴薙�繧医≧縺ｪ譌･縲�□縺｣縺溪ｦ窶ｦ縲�
+;　それが、相馬あやの、繰り返される死体のような日々だった……。\
 ` These were the repeating days of the corpse-like Aya Souma...`\
 bg black,2
 ;mono 0
@@ -700,7 +700,7 @@ fede 0,2000
 E_A
 wait 1000
 
-;笆縺薙％縺九ｉ縲∝､｢縺ｮ荳ｭ縺ｮ荳也阜縲��亥､｢縺縺ｨ繧上°繧九ｈ縺�↑繝輔ぅ繝ｫ繧ｿ繝ｼ蜃ｦ逅��縺�ｉ縺ｪ縺�〒縺呻ｼ
+;■ここから、夢の中の世界。@（夢だとわかるようなフィルター処理はいらないです）
 
 me1v 5,50
 
@@ -715,52 +715,52 @@ mcbg 22
 
 wait 1000
 
-;縲窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲�
+;　………………………………。@
 ` ............`@
-;縲窶ｦ窶ｦ窶ｦ縺薙％窶ｦ窶ｦ縺ｯ窶ｦ窶ｦ�檗
+;　………ここ……は……？@
 ` .....Where... am I...?`@
 br
-;縲邏ｫ濶ｲ縺ｨ讖呵牡縺悟�繧頑ｷｷ縺倥▲縺溘�ｻ��濶ｲ縺ｫ譟薙∪縺｣縺溘√←縺薙°縲�
+;　紫色と橙色が入り混じった、黄昏色に染まった、どこか。@
 ` Somewhere where purple and orange mingled -- dyed the colors of twilight.`@
-;縲諢剰ｭ倥′謌ｻ縺｣縺ｦ縺上ｋ縺ｫ縺､繧後∝捉繧翫′縺ｯ縺｣縺阪ｊ縺ｨ隕九∴繧九ｈ縺�↓縺ｪ縺｣縺ｦ縺上ｋ縲�
+;　意識が戻ってくるにつれ、周りがはっきりと見えるようになってくる。\
 ` As her consciousness returned, her surroundings became visible.`\
 
-;縲縺昴％縺ｯ縲≫ｦ窶ｦ窶ｦ螟壼�縲∝ｭｦ譬｡縺ｮ蟒贋ｸ九□縺｣縺溘�
+;　そこは、………多分、学校の廊下だった。@
 ` This place is... probably, one of the school hallways.`@
-;縲閾ｪ蛻�′譎ｮ谿ｵ縲√ｈ縺丈ｽｿ縺�ｻ贋ｸ九〒縺ｯ縺ｪ縺�￠繧後←縲�
+;　自分が普段、よく使う廊下ではないけれど。@
 ` It's not a hallway I often use though.`@
 br
-;縲螟壼�縲∵｡蜀��縲√←縺薙°縺ｮ髫弱�蟒贋ｸ九□縺｣縺溘�
+;　多分、校内の、どこかの階の廊下だった。\
 ` Perhaps it was a hallway somewhere on the ground floor of the school.`\
 bg black,23
 bg rouka_03,23
 
-;縲縺ｱ縺溘�縺溘→縲∬ｪｰ縺九′襍ｰ繧矩浹縺瑚ｿ台ｻ倥＞縺ｦ縺上ｋ縲�
+;　ぱたぱたと、誰かが走る音が近付いてくる。@
 ` The patter of footsteps of someone running is drawing near.`@
 br
-;縲縺昴ｌ縺ｯ縲∝�霄ｫ豎励□縺上〒蜻ｼ蜷ｸ繧定穀縺偵◆縲∽ｸ莠ｺ縺ｮ蟆大･ｳ縺縺｣縺溘�
+;　それは、全身汗だくで呼吸を荒げた、一人の少女だった。@
 ` It was a lone girl sweating profusely and breathing heavily.`@
-;縲鬘斐▽縺阪°繧峨∝､壼�縲∽ｸ顔ｴ夂函縺繧阪≧縺ｨ諤昴▲縺溘�
+;　顔つきから、多分、上級生だろうと思った。\
 ` From her looks I thought she could be an upperclassman.`\
 
-;縲繧�′縺ｦ縲√�繧峨ｊ縺ｨ繧医ｍ繧√″縲∝｣√↓蟇�ｊ縺九°繧翫√◎縺ｮ縺ｾ縺ｾ縲√★繧願誠縺｡繧九ｈ縺�↓蠎ｧ繧願ｾｼ繧縲�
+;　やがて、ふらりとよろめき、壁に寄りかかり、そのまま、ずり落ちるように座り込む。\
 ` At last, grinding to a halt, she leans against the wall and slides down to the floor.`\
 se1v 13,50
 quakey 2,200
 
-;縲蠖ｼ螂ｳ縺ｮ辷�匱縺励◎縺�↑蠢�∮縺ｨ閧ｺ縺ｯ縲∽ｸ蠎ｦ雜ｳ繧呈ｭ｢繧√※縺励∪縺｣縺溘ｉ縲　繧ゅ≧莠悟ｺｦ縺ｨ遶九■荳翫′繧区ｰ怜鴨繧剃ｸ弱∴縺ｦ縺ｯ縺上ｌ縺ｪ縺�ｈ縺�□縺｣縺溘�
+;　彼女の爆発しそうな心臓と肺は、一度足を止めてしまったら、@もう二度と立ち上がる気力を与えてはくれないようだった。\
 ` As if her heart and lungs were about to burst, her legs stopped at once. `@`It seemed she could not muster up the energy to stand again.`\
 E_A
 
-;縲縺壹°縺壹°縲�/
+;　ずかずか。@/
 ` Stomp...Stomp.`@/
 bgm1 12
-;窶ｦ窶ｦ縺壹°縺壹°縺壹°縲�
+;……ずかずかずか。@
 ` Stomp...Stomp.`@
 br
-;縲縺昴ｓ縺ｪ蠖ｼ螂ｳ縺ｫ縲∫┌諷域ご縺ｪ雜ｳ髻ｳ縺瑚ｿ台ｻ倥＞縺ｦ縺上ｋ縲�
+;　そんな彼女に、無慈悲な足音が近付いてくる。@
 ` With her like that, the sound of ruthless footsteps approached.`@
-;縲雜ｳ譌ｩ縺ｧ驥阪＞縺昴�雜ｳ髻ｳ縺ｯ縲∵�繧峨°縺ｫ蠖ｼ螂ｳ繧堤岼讓吶→縺励※縺�◆縲�
+;　足早で重いその足音は、明らかに彼女を目標としていた。\
 ` Considering the heavy brisk pace, they were obviously after her.`\
 se1 24
 
@@ -772,86 +772,86 @@ ld c,IZA_D3,42
 
 ld c,IZA_D2,22
 
-;縲蟒贋ｸ九�蠖ｼ譁ｹ縺ｫ繧�ｉ繧翫→縲√◎縺ｮ雜ｳ髻ｳ縺ｮ荳ｻ縺ｮ蟋ｿ縺梧ｵｮ縺九�荳翫′繧九�
+;　廊下の彼方にゆらりと、その足音の主の姿が浮かび上がる。@
 ` Swaying in the corridor beyond, the figure of the owner of those footsteps appeared.`@
 br
-;縲縺昴ｌ縺ｯ鮟偵＞繝槭Φ繝医ｒ鄒ｽ郢斐▲縺溽塙縺ｮ蟋ｿ縲�
+;　それは黒いマントを羽織った男の姿。@
 ` It was a man in a black coat.`@
-;縲閧ｩ縺ｫ諡�℃荳翫￡縺ｦ縺�ｋ縺ｮ縺ｯ縲≫ｦ窶ｦ螟ｧ縺阪↑螟ｧ縺阪↑縲�詞縺縺｣縺溘�
+;　肩に担ぎ上げているのは、……大きな大きな、鎌だった。@
 ` And on his shoulder he bore... a great, massive, scythe.`@
-;縲縺昴�蟋ｿ繧定ｦ九※縲∵ｭｻ逾槭ｒ騾｣諠ｳ縺励↑縺���縺�↑縺�□繧阪≧縲�
+;　その姿を見て、死神を連想しない者はいないだろう。\
 ` Anyone could clearly see that he was a grim reaper, a shinigami.`\
 
 me1v 17,70
 
-;縲蟆大･ｳ縺ｫ繧ゅ√◎縺ｮ遖阪�＠縺�ｧｿ縺瑚ｿ台ｻ倥＞縺ｦ縺上ｋ縺ｮ縺瑚ｦ九∴縺ｦ縺�ｋ縺ｯ縺壹�
+;　少女にも、その禍々しい姿が近付いてくるのが見えているはず。@
 ` That must be be aparent to the girl as well as his ominous shadow drew closer.`@
 br
-;縲縺励°縺励√ｂ縺�ｫ九■荳翫′繧区ｰ怜鴨縺ｯ縺翫ｍ縺九∵険繧願ｿ斐ｋ豌怜鴨縺輔∴繧ゅ↑縺�ｈ縺�□縺｣縺溘�
+;　しかし、もう立ち上がる気力はおろか、振り返る気力さえもないようだった。\
 ` However, she didn't have the energy to look over her shoulder or even stand.`\
-;縲豁ｻ逾槭�縲√◎繧薙↑蠖ｼ螂ｳ縺ｫ縺ｪ縺翫ｂ縺壹°縺壹°縺ｨ霑台ｻ倥＞縺ｦ縺上ｋ縲�
+;　死神は、そんな彼女になおもずかずかと近付いてくる。@
 ` The reaper was still stomping towards her.`@
 br
-;縲縺吶〒縺ｫ騾�￡繧区ｰ怜鴨繧貞､ｱ縺�∝ｽｼ螂ｳ縺瑚ｦｳ蠢ｵ縺励◆縺薙→繧定ｪ阪ａ繧九→縲√↓繧�ｊ縺ｨ隨代▲縺溘�
+;　すでに逃げる気力を失い、彼女が観念したことを認めると、にやりと笑った。\
 ` Having already lost the energy to flee, she accepted defeat, and grinned.`\
 ld c,IZA_D5,80
 
-;縲御ｽ輔∝ｺｧ縺｣縺ｦ繧薙□繧｡�檗縲繧ゅ≧騾�￡縺ｭ縺��縺九ぃ窶ｦ窶ｦ�檗縲窶ｦ窶ｦ谿ｺ縺輔ｌ縺｡縺ｾ縺�◇繧ｩ縲√♀繧峨ぃ��ｼ√后
+;「何、座ってんだァ？@　もう逃げねぇのかァ……？@　……殺されちまうぞォ、おらァ！！」@
 `"Huh? You're taking a break? `@`Aren't you going to ruun...? `@`...You'll be kiiiilled, SO GET UP!!"`@
-;縲娯ｦ窶ｦ窶ｦ繧ゅ≫ｦ窶ｦ繧ゅ≧縲≫ｦ窶ｦ辟｡逅�〒縺吮ｦ窶ｦ縲�窶ｦ窶ｦ繧ゅ≧縲∬ｵｰ繧後∪縺帙ｓ窶ｦ窶ｦ窶ｦ縲ゅ后
+;「………も、……もう、……無理です……。@……もう、走れません………。」@
 `"....It's impossible.`@`...I can't run anymore...."`@
 br
-;縲蟆大･ｳ縺ｯ闕偵＞諱ｯ縺ｮ縺ｾ縺ｾ縲∵㊦鬘倥☆繧九ｈ縺�↓縺昴≧險縺��
-`縲She said as if begging with her rough breathing.`\ 
+;　少女は荒い息のまま、懇願するようにそう言う。\
+`　She said as if begging with her rough breathing.`\ 
 ld c,IZA_D6,80
 
-;縲梧掠縺冗ｫ九◆縺ｭ縺�→縲∽ｿｺ縺瑚ｿｽ縺�ｻ倥＞縺｡縺ｾ縺�◇繧ｩ�滂ｼ　縲豕｣縺崎ｨ縺�▲縺ｦ縺ｭ縺�〒縲√＆縺｣縺輔→遶九※繧�√♀繧峨ぃ��ｼ√后
+;「早く立たねぇと、俺が追い付いちまうぞォ？！@　泣き言いってねぇで、さっさと立てや、おらァ！！」@
 `If you don't stand up I'm gonna catch up with you! `@`Stop crying and stand, GET UP!!"`@
-;縲檎┌逅�〒縺吶√ｂ縺�┌逅�〒縺吮ｦ窶ｦ縲�縺薙ｓ縺ｪ縺ｮ豈取律縲≫ｦ窶ｦ繧ゅ≧雖後〒縺吮ｦ窶ｦ縲�險ｱ縺励※窶ｦ窶ｦ縲∬ｨｱ縺励※荳九＆縺�ｦ窶ｦ�√構
+;「無理です、もう無理です……。@こんなの毎日、……もう嫌です……。@許して……、許して下さい……！」\
 `"I can't. I can't run anymore... `@`Every day is like this. I hate it. `@`Let me go...Please let me go..!"`\
 ld c,IZA_D8,80
 
-;縲後い繝帙°縺ｦ繧√ぉ縲�菫ｺ繧｡縲∵ｭｻ逾槭□縺槭か��ｼ　縲豁ｻ逾槭′迯ｲ迚ｩ縲∬ｨｱ縺吶ｏ縺阪ｃ縺ｭ繧ｧ縺繧峨ぃ��ｼ√構
+;「アホかてめェ。@俺ァ、死神だぞォ！！@　死神が獲物、許すわきゃねェだらァ！！」\
 `"You must be stupid or something. `@`I'm a shinigami!! `@`Shinigami don't let go of their prey!!"`\
 bg black,23
 bg rouka_04,23
 
-;縲瑚ｨｱ縺励※荳九＆縺�ｦ縲∬ｨｱ縺励※荳九＆縺�ｦ窶ｦ縲�遘√∽ｽ輔ｂ謔ｪ縺�％縺ｨ縺励※縺ｪ縺�ｓ縺ｧ縺吮ｦ窶ｦ縲�縺�▽繧ゅけ繝ｩ繧ｹ縺ｮ縺ｿ繧薙↑縺ｫ縺�§繧√ｉ繧後※縺ｦ窶ｦ窶ｦ縲　縺ｩ縺薙↓繧ょｱ�ｴ謇縺後↑縺�ｓ縺ｧ縺吮ｦ窶ｦ縲�縺ｪ縺ｮ縺ｫ縺昴�荳翫≫ｦ窶ｦ縺薙ｓ縺ｪ逶ｮ縺ｫ驕ｭ繧上＆繧後ｋ縺ｪ繧薙※窶ｦ窶ｦ縲�縺昴ｓ縺ｪ縺ｮ縺ゅｓ縺ｾ繧翫〒縺吮ｦ縲√≠繧薙∪繧翫〒縺吮ｦ窶ｦ縲�菴輔〒縲√％繧薙↑遘√′縺薙ｓ縺ｪ逶ｮ縺ｫ驕ｭ繧上＆繧後↑縺阪ｃ縺ｪ繧峨↑縺�ｓ縺ｧ縺吶°窶ｦ窶ｦ縲�窶ｦ窶ｦ豁ｻ逾槭↑繧峨　遘√ｒ縺�§繧√ｋ莠ｺ縺ｨ縺九√ｂ縺｣縺ｨ繧ゅ▲縺ｨ謔ｪ縺�ｺｺ縺ｮ鬲ゅｒ迯ｲ迚ｩ縺ｫ縺励※縺上ｌ繧後�縺�＞縺ｮ縺ｫ窶ｦ窶ｦ�√構
+;「許して下さい…、許して下さい……。@私、何も悪いことしてないんです……。@いつもクラスのみんなにいじめられてて……、@どこにも居場所がないんです……。@なのにその上、……こんな目に遭わされるなんて……。@そんなのあんまりです…、あんまりです……。@何で、こんな私がこんな目に遭わされなきゃならないんですか……。@……死神なら、@私をいじめる人とか、もっともっと悪い人の魂を獲物にしてくれればいいのに……！」\
 `"Let me live please...Let me live. `@`I won't do anything bad anymore... `@`I'm always bullied by everyone in class... `@`I don't have a place anywhere... `@`And to meet a fate lik this...`@`I don't deserve this... not like this... `@`Why do I have to suffer like this? `@`If you're a shinigami, hunt the souls of the worse people that bully me!"`\
 ld r,IZA_D6,6
 
-;縲御ｿｺ繧｡縺ｪ縲�縺雁燕縺ｿ縺溘＞縺ｪ縲�繧ｯ繧ｽ關ｽ縺｡逶ｮ縺ｪ繝､繝�′螟ｧ螂ｽ迚ｩ縺ｪ繧薙□繧医か窶ｦ��ｼ　縲縺�▲縺ｲ繧�▲縺ｲ繧�▲縺ｲ繧�▲縺ｲ繧�ｼ�ｼ√后
+;「俺ァな。@お前みたいな。@クソ落ち目なヤツが大好物なんだよォ…！！@　うっひゃっひゃっひゃっひゃ！！」@
 `"You know what. `@`I like you. `@`Society's leftovers are my favourite food!! `@`Uhya hya hya hya hya!!!"`@
-;縲碁�縺�〒縺咎�縺�〒縺吶√≠繧薙∪繧翫〒縺吶≠繧薙∪繧翫〒縺吮ｦ��ｼ　縲險ｱ縺励※險ｱ縺励※險ｱ縺励※險ｱ縺励※窶ｦ窶ｦ��ｼ√構
+;「酷いです酷いです、あんまりですあんまりです…！！@　許して許して許して許して……！！」\
 `"You're horrible! I don't deserve this, I don't...! `@`Please please please please let me go!"`\
-;縲縺ｨ縺�→縺�ｭｻ逾槭�縲∝ｰ大･ｳ縺ｮ繧ゅ→縺ｫ霎ｿ繧顔捩縺上�
+;　とうとう死神は、少女のもとに辿り着く。@
 ` At last the shinigami arrived at the girl's side.`@
 br
-;縲縺昴＠縺ｦ縲∵球縺惹ｸ翫￡縺ｦ縺�◆螟ｧ骼後ｒ縲√ｆ縺｣縺上ｊ縺ｨ蟆大･ｳ縺ｫ蜷代￠繧九�
+;　そして、担ぎ上げていた大鎌を、ゆっくりと少女に向ける。\
 ` and the scythe being held up was slowly pointed towards the girl.`\
 cl r,0
 ld c,IZA_D5,4
 
-;縲後◎繧薙□縺大幕繧後ｋ菴灘鴨縺後≠繧翫ｃ繧｡縲√∪縺騾�￡繧後ｋ縺繧阪か縺後�縺､縺ｾ繧薙�繝ｼ繧薙□繧医�菫ｺ縺ｯ縲∝ｿ�ｭｻ縺ｪ蠖｢逶ｸ縺ｧ騾�￡蝗槭ｋ迯ｲ迚ｩ繧定ｿｽ縺�寺縺代ｋ縺ｮ縺悟ｪ繧峨�繧ｧ繧薙□縺九ｉ繧医か�√后
+;「そんだけ喋れる体力がありゃァ、まだ逃げれるだろォが。@つまんねーんだよ。@俺は、必死な形相で逃げ回る獲物を追い掛けるのが堪らねェんだからよォ！」@
 `"If you still have the strength to speak, then you should still be able to run away. `@`I just CAN'T STAND IT when my prey isn't running desperately here and there!!"`@
 br
-;縲豁ｻ逾槭�逕ｷ縺ｮ陦ｨ諠�′驍ｪ謔ｪ縺ｪ隨代∩縺ｧ豁ｪ縺ｿ縲∫ｬ代＞螢ｰ繧定ｽ溘°縺帙ｋ縲�
+;　死神の男の表情が邪悪な笑みで歪み、笑い声を轟かせる。\
 ` The shinigami's face warped into a wicked smile as he roared with laughter.`\
-;縲縺励°縺励ｂ縺�∝ｰ大･ｳ縺ｯ隕壽ぁ繧呈ｱｺ繧√※縺�ｋ縲�
+;　しかしもう、少女は覚悟を決めている。@
 ` However the girl was already preparing to meet her end.`@
 br
-;縲繧ゅ≧騾�￡蝗槭ｋ縺薙→縺ｨ縲√◎縺ｮ諱先悶↓閠舌∴繧峨ｌ縺ｪ縺��縺縲�
+;　もう逃げ回ることと、その恐怖に耐えられないのだ。\
 ` She couldn't stand that terror of taking to fleeing again.`\
-;縲娯ｦ窶ｦ谿ｺ縺吶↑繧画ｮｺ縺励※荳九＆縺�ｦ窶ｦ縲�縺ｩ縺�○逕溘″縺ｦ縺溘▲縺ｦ縲√＞縺�％縺ｨ縺ｪ繧薙※縺ｪ縺�ｦ窶ｦ縲�窶ｦ窶ｦ逞帙＞縺ｮ縺ｯ荳迸ｬ縲∫李縺��縺ｯ荳迸ｬ窶ｦ窶ｦ縲ゅ后
+;「……殺すなら殺して下さい……。@どうせ生きてたって、いいことなんてない……。@……痛いのは一瞬、痛いのは一瞬……。」@
 `"...If you're going to kill me then please do it.` @`I mean, there's nothing good about being alive either... `@`The pain will just be for a moment, ...just for a moment."`@
 br
-;縲蟆大･ｳ縺ｯ蠢ｵ莉上〒繧ょ罰縺医ｋ縺九�繧医≧縺ｫ縲∫李縺��縺ｯ荳迸ｬ縺ｨ菴募ｺｦ繧ゆｽ募ｺｦ繧ょｰ丞｣ｰ縺ｧ郢ｰ繧願ｿ斐☆縲�
+;　少女は念仏でも唱えるかのように、痛いのは一瞬と何度も何度も小声で繰り返す。\
 `Like a prayer, the girl recited this over and over.`\
 ld c,IZA_D8,80
 
-;縲後￠縺｣縲�隕ｳ蠢ｵ豎ｺ繧√ｄ縺後▲縺溘°繧｡縲�窶ｦ窶ｦ鬥ｬ鮖ｿ縺ｪ繝､繝�□縺懊�豁ｻ縺悟ｿ�慍濶ｯ縺�Δ繝ｳ縺縺ｨ縲∵悽豌励〒諤昴▲縺ｦ繧�′繧薙�縺九ぃ�檗縲縺上￥縺上√￥縺｣縺ｲ縺｣縺ｲ縺ｲ縺ｲ縺ｲ繧�▲縺ｲ繧�▲縺ｲ繧�ｼ�ｼ　縲鬥ｬ繧｡鮖ｿ縺後ぃ��ｼ�ｼ√構
+;「けっ。@観念決めやがったかァ。@……馬鹿なヤツだぜ。@死が心地良いモンだと、本気で思ってやがんのかァ？@　くくく、くっひっひひひひゃっひゃっひゃ！！@　馬ァ鹿がァ！！！」\
 `"Tch. `@`You've already given uuup? `@`What a fool. `@`You really think death is a good thing? `@`Kukuku, kuhihhihihihi hya hya hya!! FOOL!!!!"`\
-;笆縺ｶ縺峨ｓ縲√★縺弱ｃ��ｼ　
+;■ぶぉん、ずぎゃ！！@
 
 se1v 20,100
 bg black,1
@@ -864,10 +864,10 @@ bg rouka_03,1
 quakey 7,1200
 
 
-;縲豁ｻ逾槭�骼後�辟｡諷域ご縺ｪ蛻�′縲√←縺｣縺九ｊ縺ｨ蟆大･ｳ縺ｮ閭御ｸｭ縺ｫ謇薙■霎ｼ縺ｾ繧後ｋ縲�
+;　死神の鎌の無慈悲な刃が、どっかりと少女の背中に打ち込まれる。@
 ` The ruthless blade of the scythe drives into the girl.`@
 br
-;縲鮓上ｒ邨槭ａ谿ｺ縺励◆縺九�繧医≧縺ｪ縲∫ｴｰ縺��縺伜�繧後ｋ繧医≧縺ｪ謔ｲ魑ｴ縺悟ｰ大･ｳ縺九ｉ貍上ｌ繧九�
+;　鶏を絞め殺したかのような、細いねじ切れるような悲鳴が少女から漏れる。\
 ` A sound like that of a strangled chicken, a shrill shriek escapes her and is suddenly silenced.`\
 se3v 66,100
 se1v 55,100
@@ -875,20 +875,20 @@ bg blue1,1
 bg rouka_03,0
 print 99,2000,"breakup.dll/llb"
 
-;縲縺昴�迸ｬ髢薙∝ｰ大･ｳ縺ｮ蜈ｨ霄ｫ縺檎悄縺｣髱偵↑轤弱ｒ蝎ｴ蜃ｺ縺励※辯�∴荳翫′縺｣縺溘�
+;　その瞬間、少女の全身が真っ青な炎を噴出して燃え上がった。@
 ` At that moment, her whole body burst into a deep blue flame.`@
 br
-;縲縺昴�髱偵＞讌ｭ轣ｫ縺ｯ縲∽ｺｺ縺ｮ荳悶�轤弱�縺ｩ繧後ｈ繧翫ｂ辭ｱ縺上√◎縺励※蜀ｷ縺溘°縺｣縺溘�
+;　その青い業火は、人の世の炎のどれよりも熱く、そして冷たかった。\
 ` That blue flame was hotter and colder than any flame of the human world.`\
-;縲蜈ｨ霄ｫ繧堤┥縺咲┬縺後＠縲∝㍾縺医＆縺帙∬魚縺ｿ闍帙∩縲∫ｴｰ閭槭�荳邊偵★縺､繧呈ｿ逞帙ｒ莨ｴ繧上○縺ｪ縺後ｉ辟ｼ縺榊ｰｽ縺上＠縺ｦ縺�￥縲�
+;　全身を焼き焦がし、凍えさせ、苛み苛み、細胞の一粒ずつを激痛を伴わせながら焼き尽くしていく。@
 ` Her whole body burned and froze in torment, while her cells were devoured one by one.`@
 br
-;縲蟆大･ｳ縺ｯ繧ゅ≧縲∬ｺｫ蜍輔″繧ゅ＠縺ｪ縺�′縲　閧我ｽ薙�蜈ｨ縺ｦ縺檎┥縺榊ｰｽ縺上＆繧後※豸医∴蜴ｻ繧九∪縺ｧ縲√◎縺ｮ諢剰ｭ倥�縺ｯ縺｣縺阪ｊ縺ｨ谿九▲縺ｦ縺翫ｊ縲　縺昴�豼逞帙°繧蛾�ｌ繧九％縺ｨ縺ｯ險ｱ縺輔ｌ縺ｪ縺九▲縺溘�
+;　少女はもう、身動きもしないが、@肉体の全てが焼き尽くされて消え去るまで、その意識ははっきりと残っており、@その激痛から逃れることは許されなかった。\
 ` The girl didn't stir anymore. `@`However, all of her flesh was cooked until it was erased, and her consciousness, which remained,`@`could not escape that terrible pain.`\ 
 ld c,IZA_D3,22
 ld c,IZA_D5,80
 
-;縲檎ｶｺ鮗励↓豁ｻ縺ｭ縺ｦ縲∝ｮ峨ｉ縺九↑逵繧翫↓縺､縺代ｋ縺ｨ縺ｧ繧よ昴▲縺溘°繧｡�檗縲驕輔ぉ縺ｪ縲�窶ｦ窶ｦ縺薙ｌ縺ｧ縺雁燕縺ｯ繧ゅ≧縲∵ｰｸ驕縺ｫ菫ｺ縺ｮ迯ｲ迚ｩ縺縺懊�菫ｺ縺ｮ蝨ｰ迯�〒縲∵ｰｸ驕縺ｫ菫ｺ縺ｮ縺溘ａ縺ｫ譁ｭ譛ｫ鬲斐ｒ閨槭°縺帙ｄ縺後ｌ繧｣縲�縺上▲縺上￥縺上￥縺上￥縲√�繧�▲縺ｯ縺｣縺ｯ縺｣縺ｯ縺｣縺ｯ縺｣縺ｯ��ｼ√構
+;「綺麗に死ねて、安らかな眠りにつけるとでも思ったかァ？@　違ェな。@……これでお前はもう、永遠に俺の獲物だぜ。@俺の地獄で、永遠に俺のために断末魔を聞かせやがれィ。@くっくくくくくく、ひゃっはっはっはっはっは！！」\
 `"So ya thought you'd end up sleeping peacefully and dying a clean death? `@`Wroong. `@`...It's too late, and now you're my prey for eternity. `@`Now let me hear your agony in my hell for my enjoyment for the rest of eternityyy. `@`Ku kukukukukuku, hya ha ha ha ha ha!!"`\
 
 bg black,0
@@ -900,54 +900,54 @@ bg black,5
 
 me2v 28,100
 
-;縲蜈ｨ霄ｫ繧堤┥縺榊ｰｽ縺上＆繧後※豁ｻ繧薙□蟆大･ｳ縺ｮ鬲ゅ�縲∝･郁誠縺ｮ蠎輔↓關ｽ荳九＠縺ｦ縺�◆縲�
+;　全身を焼き尽くされて死んだ少女の魂は、奈落の底に落下していた。@
 ` The soul of the completely burnt girl fell into the depths of abyss.`@
 br
-;縲辟｡謌代�蠅�慍縺ｪ縺ｩ縺ｨ繧薙〒繧ゅ↑縺��
+;　無我の境地などとんでもない。@
 ` There was no unconciousness or loss of self.`@
-;縲蜈ｨ霄ｫ縺ｯ辟ｼ縺代ｋ逞帙∩縺ｨ蜃阪∴繧狗李縺ｿ縺ｧ縺ｯ縺｡縺阪ｌ縺昴≧縺ｧ縲�縺ｩ縺薙∪縺ｧ繧ら┌髯舌↓關ｽ荳九＠縺ｦ縺�￥諱先悶〒蠢�ｂ遐ｴ陬ゅ＠縺昴≧縺縺｣縺溘�
+;　全身は焼ける痛みと凍える痛みではちきれそうで。@どこまでも無限に落下していく恐怖で心も破裂しそうだった。\
 ` Her whole body burst with the pain of burning and freezing.`@` Her heart was full to burst from the plumetting endless horror.`\ 
 se1 24
 se2v 66,100
 bg aka2,8
 
-;縲蜚千ｪ√↓縲∵ｼ�ｻ偵�螂郁誠縺ｮ蠎輔′縲∝ｧｿ繧堤樟縺吶�
+;　唐突に、漆黒の奈落の底が、姿を現す。@
 ` Abruptly, something emerged out of the jet black abyss.`@
-;縲縺昴ｌ縺ｯ隕九ｋ繧ゅ♀縺槭∪縺励＞縲∽ｸ肴ｰ怜袖縺ｪ閧芽牡縺ｮ縲√�繧医�繧医→縺励◆逡ｰ逡後□縺｣縺溘�
+;　それは見るもおぞましい、不気味な肉色の、ぶよぶよとした異界だった。@
 ` It was hideous to even look at, an eerie, flesh-colored organic alien world.`@
 br
-;縲萓九∴繧九↑繧峨√∪繧九〒閭�｢九�荳也阜縲�蟾ｨ螟ｧ縺ｪ繝舌こ繝｢繝弱�閭�｢九�荳ｭ縺昴�繧ゅ�縺縺｣縺溘�
+;　例えるなら、まるで胃袋の世界。@巨大なバケモノの胃袋の中そのものだった。\
 ` For example, it was as if it were a world of stomachs. `@`In fact, she was inside the stomach of a giant monster.`\
 bg aka3,25
 se3v 38,100
 quakey 5,1000
 
-;縲縺昴�縺翫◇縺ｾ縺励￥陟｢縺剰ｉ縺ｮ縺ｲ縺縺ｮ荳ｭ縺ｫ縲∝ｰ大･ｳ縺ｯ蠅懆誠縺吶ｋ縲�
+;　そのおぞましく蠢く肉のひだの中に、少女は墜落する。@
 ` The girl crashed into the folds of that hideous, wriggling flesh.`@
 br
 se1 55
 
-;縲縺昴％縺ｫ縺ｯ縲∽ｽ薙ｒ辟ｼ縺�※辷帙ｌ縺輔○繧矩�縺御ｸ髱｢縺九ｉ貉ｧ縺榊�縺励※縺�◆縲�
+;　そこには、体を焼いて爛れさせる酸が一面から湧き出していた。@
 ` There, the acid used to burn and inflame her body gushed from the whole surface.`@
-;縲縺昴＠縺ｦ縺ｳ縺｣縺励ｊ縺ｨ蜑｣螻ｱ縺ｮ繧医≧縺ｫ驪ｭ縺�甥縺御ｸ髱｢縺ｫ逕溘∴縺縺励※縺�◆縲�
+;　そしてびっしりと剣山のように鋭い牙が一面に生えだしていた。\
 ` And fangs packed like needles in a pincushion emerged.`\
 se2v 55,100
 quake 5,700
 
 me3v 3,85
 
-;縲蟆大･ｳ縺ｯ蜈ｨ霄ｫ繧堤┥縺九ｌ縲∝絢縺輔ｌ縲∬ｻ｢縺貞屓繧翫↑縺後ｉ邨ｶ蜿ｫ縺吶ｋ縲�
+;　少女は全身を焼かれ、刺され、転げ回りながら絶叫する。@
 ` The girl's whole body was burned and pierced while she screamed and writhed.`@
 br
-;縲逧ｮ閹壹′縺ｿ繧九∩繧区ｺｶ縺代※縲∬ｉ濶ｲ縺ｮ莠ｺ菴捺ｨ呎悽縺ｮ繧医≧縺ｫ縺ｪ縺｣縺ｦ縺�￥窶ｦ窶ｦ縲�
+;　皮膚がみるみる溶けて、肉色の人体標本のようになっていく……。@
 ` In a flash, her skin melted and became just like a bloody human anatomy dummy...`@
-;縲閧峨�螟ｧ蝨ｰ縺ｯ邨ｶ縺磯俣縺ｪ縺剰｢縺阪∝ｰ大･ｳ繧帝�縺ｮ豬ｷ繧�甥縺ｮ蜑｣螻ｱ縺ｮ荳翫〒縲∝ｬｲ繧九ｈ縺�↓霆｢縺後＠邯壹￠繧九�縺縲�
+;　肉の大地は絶え間なく蠢き、少女を酸の海や牙の剣山の上で、嬲るように転がし続けるのだ。\
 ` The fleshy ground continued as if torturing her by rolled the girl over and over in a sea of acid and needles.`\
-縲縺昴ｌ縺ｯ邏帙ｌ繧ゅ↑縺上∝ｷｨ螟ｧ縺ｪ謔ｪ鬲斐�閭�｢九′縲∝ｽｼ螂ｳ繧呈ｶ亥喧縺励ｈ縺�→縺吶ｋ陦檎ぜ縺縺｣縺溘�
+　それは紛れもなく、巨大な悪魔の胃袋が、彼女を消化しようとする行為だった。@
 br
-;縲蟆大･ｳ縺ｯ闍ｦ逞帙↓邨ｶ蜿ｫ縺励↑縺後ｉ縲∵掠縺剰�蛻�′莠句�繧後※縺上ｌ繧九％縺ｨ繧帝｡倥≧縲�
+;　少女は苦痛に絶叫しながら、早く自分が事切れてくれることを願う。@
 ` The girl, screaming in pain prayed for her life to quickly end.`@
-;縲縺励°縺励��繧ら甥繧ゅ∝�霄ｫ縺ｮ逕溽坩繧貞翁縺舌°縺ｮ繧医≧縺ｫ闍帙�縺ｮ縺ｫ縲∵ｭｻ縺ｫ縺ｯ荳蜷代↓閾ｳ繧峨○縺ｦ縺上ｌ縺ｪ縺��
+;　しかし、酸も牙も、全身の生皮を剥ぐかのように苛むのに、死には一向に至らせてくれない。\
 ` However, even though the fangs and acid had stripped her skin off, death did not come to her.`\
 
 bg black,26
@@ -958,35 +958,35 @@ bg black,0
 ld c,IZA_D2,22
 ld c,IZA_D6,80
 
-;縲梧ｭｻ縺ｭ繧九ｏ縺代�繧ｧ縺繧阪�縺雁燕縺ｯ繧ゅ≧縲∵ｭｻ繧薙□繧薙□縺懶ｼ檗縲縺縺九ｉ莠悟ｺｦ縺ｯ豁ｻ縺ｪ縺ｭ繧ｧ縲�莠悟ｺｦ縺ｨ豁ｻ縺ｭ縺ｭ繧ｧ��ｼ　縲縺雁燕縺ｯ縺昴％縺ｧ豌ｸ驕縺ｫ縲∽ｿｺ縺ｮ閭�｢九�荳ｭ縺ｧ螫ｲ繧峨ｌ縺ｦ縲∽ｿｺ縺ｫ鬲ゅｒ蝠懊ｊ蜿悶ｉ繧後ｋ繧薙□繧茨ｼ�ｼ√后
+;「死ねるわけねェだろ。@お前はもう、死んだんだぜ？@　だから二度は死なねェ。@二度と死ねねェ！！@　お前はそこで永遠に、俺の胃袋の中で嬲られて、俺に魂を啜り取られるんだよ！！」@
 ` "No way you can die. `@`You see, you're already dead? `@`You can't die twice, see. `@`You don't die twice!! `@`You'll spend eternity being tortured in my stomach, and I will digest your soul!!"`@
 br
-;縲豁ｻ逾槭�逕ｷ縺ｯ逵ｼ荳九ｒ隕倶ｸ九ｍ縺励∬協謔ｶ縺ｮ邨ｶ蜿ｫ繧呈椛縺医ｉ繧後↑縺�ｽｼ螂ｳ繧貞亟隨代≧縲�
+;　死神の男は眼下を見下ろし、苦悶の絶叫を抑えられない彼女を嘲笑う。\
 ` The shinigami looked on, ridiculing the girl who could not surpress her cries of anguish and suffering.`\
 
-;縲闍ｦ逞帙↓蝟倥＄縺薙→縺励°蜃ｺ譚･縺ｪ縺�ｰ大･ｳ縺ｫ縺ｯ繧上°繧峨↑縺�□繧阪≧縺後�縺薙％縺九ｉ隕倶ｸ九ｍ縺帙�縲∫愍荳九↓縺ｯ莉悶↓繧ゆｽ穂ｺｺ繧ゅ�蜩繧後↑迥迚ｲ閠�ｒ隕九ｋ縺薙→縺悟�譚･繧九�
-`縲The girl probably couldn't understand as all she could feel was the grip of agonizing pain. `@`If she could look down at the scene from above, she would see the suffering of countless victims.`\
+;　苦痛に喘ぐことしか出来ない少女にはわからないだろうが。@ここから見下ろせば、眼下には他にも何人もの哀れな犠牲者を見ることが出来る。\
+`　The girl probably couldn't understand as all she could feel was the grip of agonizing pain. `@`If she could look down at the scene from above, she would see the suffering of countless victims.`\
 
 bg black,26
 bg aka2,22
 se1 55
 
-;縲蜈ｨ霄ｫ縺ｮ逧ｮ繧偵☆縺｣縺九ｊ貅ｶ縺九＆繧後√ｂ縺ｯ繧�塙縺句･ｳ縺九ｂ繧上°繧峨↑縺�ｧｿ縺ｫ縺ｪ縺｣縺ｦ繧よｭｻ縺ｭ縺壹　闍ｦ謔ｶ縺ｫ霆｢縺偵∪繧上ｋ蜩繧後↑迥迚ｲ閠�◆縺｡縲�
-`縲Their hides had clearly dissolved from their undying bodies that could no longer be distinguished as men or women. `@`Victims writhing in agony.`@
+;　全身の皮をすっかり溶かされ、もはや男か女かもわからない姿になっても死ねず、@苦悶に転げまわる哀れな犠牲者たち。@
+`　Their hides had clearly dissolved from their undying bodies that could no longer be distinguished as men or women. `@`Victims writhing in agony.`@
 br
-;縲繧医ｊ髟ｷ縺上％縺ｮ蝨ｰ迯�↓縺�ｋ閠��縲√ｂ縺ｯ繧�ｺｺ髢薙→縺励※縺ｮ蟋ｿ縺輔∴螟ｱ縺�°縺代※縺�ｋ縲�
-`縲The ones that had spent too long in this hell didn't even appear human.`@
-;縲閻輔′蜊��繧後�ｭ縺悟鴻蛻�ｌ縲　窶ｦ窶ｦ譛蠕後↓縺ｯ縲∝�縺御ｺｺ縺ｧ縺ゅ▲縺溘％縺ｨ縺輔∴繧上°繧峨↑縺上↑繧九∬ｉ蝪翫→謌舌ｊ譫懊※繧九�縺縲�
-`縲Their arms and heads were split apart, `@`...and finally they'd reach a point where they'd become lumps of flesh that one would hardly have thought were once human beings in the first place.`\
+;　より長くこの地獄にいる者は、もはや人間としての姿さえ失いかけている。@
+`　The ones that had spent too long in this hell didn't even appear human.`@
+;　腕が千切れ、頭が千切れ、@……最後には、元が人であったことさえわからなくなる、肉塊と成り果てるのだ。\
+`　Their arms and heads were split apart, `@`...and finally they'd reach a point where they'd become lumps of flesh that one would hardly have thought were once human beings in the first place.`\
 
 me4v 16,70
 
-;縲縺励°縺励◎繧後〒繧ゅ∵ｭｻ縺ｭ縺ｪ縺��
+;　しかしそれでも、死ねない。@
 ` But even then, they didn't die.`
 br
-;縲繧ゅ�繧�哨縺輔∴縺ｪ縺上∬協謔ｶ縺ｫ蜻ｻ縺榊｣ｰ繧呈ｼ上ｉ縺吶％縺ｨ縺輔∴蜃ｺ譚･縺ｪ縺上※繧ゅ�
+;　もはや口さえなく、苦悶に呻き声を漏らすことさえ出来なくても。@
 ` Without mouths, they could no release their screams of agony.`@
-;縲豌ｸ驕縺ｫ豁ｻ縺ｭ縺壹∵ｰｸ驕縺ｫ縺薙�謔ｪ鬲斐�閭�｢九�荳ｭ縺ｧ蠑��繧檎ｶ壹￠繧九�縺窶ｦ窶ｦ縲�
+;　永遠に死ねず、永遠にこの悪魔の胃袋の中で弄ばれ続けるのだ……。\
 ` An eternity without dying--they'd continue eternally being tortured in the stomach of this demon...`\
 
 bg black,22
@@ -994,7 +994,7 @@ bg black,22
 ;ld c,IZA_D4,22
 ;ld c,IZA_D3,80
 
-;縲後％繧後′菫ｺ縺ｮ豁ｻ蠕後�荳也阜縺縺懊ぉ窶ｦ�檗縲豁ｻ縺ｯ螳峨ｉ縺弱↑繧薙°縺倥ｃ縺ｭ繧ｧ縲�豌ｸ驕縺ｮ闍ｦ逞帙�蜈･蜿｣縺縲�窶ｦ窶ｦ縺薙ｓ縺ｪ蜈画勹繧定ｦ九○繧峨ｌ縺｡縺ｾ縺｣縺溘ｉ縲　窶ｦ窶ｦ莠悟ｺｦ縺ｨ縲�妛縺瑚ｧ｣縺代ｋ繧医≧縺ｫ逵繧九ｈ縺�↓豁ｻ縺ｫ縺溘＞縺ｪ繧薙※縲∬ｨ縺医ｄ縺励�繧ｧ縺繧阪か窶ｦ窶ｦ�溘構
+;「これが俺の死後の世界だぜェ…？@　死は安らぎなんかじゃねェ。@永遠の苦痛の入口だ。@……こんな光景を見せられちまったら、@……二度と、雪が解けるように眠るように死にたいなんて、言えやしねェだろォ……？」\
 `"This is my afterlife... `@`Death isn't paradise or anything of the sort. `@`It's the gateway to an eternity of pain. `@`...After letting me show you this, `@`...I bet you won't say anything about wanting to die in your sleep like melting snow, will ya...?"`\
 
 fedexx 85,100,100,100,100,0,2000
@@ -1002,28 +1002,28 @@ fedexx 85,100,100,100,100,0,2000
 ld c,IZA_D2,2
 ld c,IZA_D3,80
 
-;縲豁ｻ逾槭′縲≫ｦ窶ｦ縺昴≧險縺�↑縺後ｉ縲∬ｦ九ｋ縲�
+;　死神が、……そう言いながら、見る。@
 ` While saying that, the shinigami looks.`@
 br
-;縲窶懃ｧ≫昴ｒ縲∬ｦ九ｋ縲�
+;　“私”を、見る。\
 ` He looks at "me".`\
-;縲窶ｦ窶ｦ縺薙％縺｣縺ｦ縲≫ｦ窶ｦ遘√�螟｢縺ｮ荳ｭ縺ｮ荳也阜縺倥ｃ縲√↑縺九▲縺溘▲縺鯛ｦ窶ｦ�檗
+;　……ここって、……私の夢の中の世界じゃ、なかったっけ……？@
 ` But this... isn't the world of my dreams at all...?`@
 br
-;縲繝�Ξ繝薙�蜷代％縺�↓縺�ｋ縺ｯ縺壹�莠ｺ迚ｩ縺ｫ縲√％縺｡繧峨ｒ逹ｨ縺ｿ縺､縺代ｉ繧後◆縺九�繧医≧縺ｪ荳肴ｰ怜袖縺輔�
-`縲It was an unease almost as if an actor that should have been inside a TV set started to glare in my direction.`@
-;縲縺薙�荳肴ｰ怜袖縺ｪ菴輔°縺ｯ縲√←縺�○遘√�螟｢縺ｧ縲　窶懃ｧ≫昴↓縺ｯ髢｢菫ゅ↑縺�ｂ縺ｮ縺ｨ縲∝ｿ��縺ｩ縺薙°縺ｧ豎ｺ繧∽ｻ倥￠縺ｦ縺�◆縲�
-`縲This uneasiness, somehow within my own dream, `@`my mind was following someone who had nothing to do with "me".`\
+;　テレビの向こうにいるはずの人物に、こちらを睨みつけられたかのような不気味さ。@
+`　It was an unease almost as if an actor that should have been inside a TV set started to glare in my direction.`@
+;　この不気味な何かは、どうせ私の夢で、@“私”には関係ないものと、心のどこかで決め付けていた。\
+`　This uneasiness, somehow within my own dream, `@`my mind was following someone who had nothing to do with "me".`\
 
-;縲縺励°縺励∵ｭｻ逾槭�窶懃ｧ≫昴↓蜷代°縺｣縺ｦ險縺｣縺ｦ縺�ｋ縺ｮ縺縲�
+;　しかし、死神は“私”に向かって言っているのだ。@
 ` But the shinigami was speaking to "me".`@
 br
-;縲髮ｪ縺瑚ｧ｣縺代ｋ繧医≧縺ｫ逵繧九ｈ縺�↓豁ｻ縺ｬ縺薙→縺碁｡俶悍縺ｧ縺ゅｋ縲≫懃ｧ≫昴↓險縺｣縺ｦ縺�ｋ縺ｮ縺縲�
+;　雪が解けるように眠るように死ぬことが願望である、“私”に言っているのだ。\
 ` Speaking to "me" and my desire to die as if falling asleep, softly as snow melts.`\
-;縲豁ｻ逾槭�縲√↓繧�↓繧�→隨代＞縺ｪ縺後ｉ繧ゅ∵ｱｺ縺励※遘√ｒ縺昴�逵ｼ蜉帙°繧蛾�′縺励※縺ｯ縺上ｌ縺ｪ縺��
+;　死神は、にやにやと笑いながらも、決して私をその眼力から逃がしてはくれない。@
 ` The shinigami didn't let me escape from his grinning gaze.`@
 br
-;縲遘√�螟｢縺ｮ荳ｭ縺ｧ縺ゅｋ縺ｫ繧ゅ°縺九ｏ繧峨★縲≫ｦ窶ｦ蜈ｨ霄ｫ縺碁≡邵帙ｊ縺ｫ縺ｪ繧九ｈ縺�↑諱先悶ｒ隕壹∴繧九�縺縺｣縺溪ｦ窶ｦ縲�
+;　私は夢の中であるにもかかわらず、……全身が金縛りになるような恐怖を覚えるのだった……。\
 ` Even though it was a dream, ...I felt a paralyzing fear all over my body...`\
 se3v 66,100
 
@@ -1035,44 +1035,44 @@ bg ie_06,48
 fedexx 0,0,0,0,0,70,3000
 E_B
 
-;縲窶ｦ窶ｦ窶ｦ縺輔▲縺阪°繧峨★縺｣縺ｨ閨槭％縺医ｋ縺昴ｌ縺後∫岼隕壹∪縺励�繧｢繝ｩ繝ｼ繝縺ｧ縺ゅｋ縺ｨ豌嶺ｻ倥￠縺滓凾縲�遘√�蠢��蠎輔°繧牙ｮ牙ｵ縺励◆縲�
+;　………さっきからずっと聞こえるそれが、目覚ましのアラームであると気付けた時。@私は心の底から安堵した。@
 ` When I realized my alarm clock had been ringing for quite some time, `@`I was relieved from the bottom of my heart.`@
 br
-;縲逶ｮ繧定ｦ壹∪縺励◆譎ゅ�遘√�蜈ｨ霄ｫ縺ｯ豎励〒縺ｳ縺｣縺励ｇ繧翫□縺｣縺溘�
+;　目を覚ました時。@私の全身は汗でびっしょりだった。\
 ` When I woke up, `@`my body was drenched in sweat.`\
 fede 0,1000
 E_A
 
 bgm1 7
 
-;縲窶ｦ窶ｦ諱舌ｍ縺励＞螟｢縺ｫ諤ｯ縺医※逶ｮ繧定ｦ壹∪縺励◆邨碁ｨ薙′縲√↑縺九▲縺溘ｏ縺代§繧�↑縺��
+;　……恐ろしい夢に怯えて目を覚ました経験が、なかったわけじゃない。@
 `...It's not as though I've never had the experience of waking up from a nightmare before.`@
-;縲縺励°縺励∽ｻ翫∪縺ｧ縺ｮ縺昴ｌ縺ｨ縺ｯ荳邱壹ｒ逕ｻ縺吩ｽ輔°縺縺｣縺溘�
+;　しかし、今までのそれとは一線を画す何かだった。@
 ` But this was something that really distinguished itself from past experiences.`@
 br
-;縲縺昴≧縲≫應ｽ輔°窶昴�
+;　そう、“何か”。\
 ` Yes, quite the "something".`\
 bg black,22
 
-;縲縺ゅｌ縺ｯ譛ｬ蠖薙↓螟｢縺縺｣縺溘�縺繧阪≧縺九�
+;　あれは本当に夢だったのだろうか。@
 ` Was that really a dream?`@
 br
-;縲縺薙≧縺励※縲∽ｽ穂ｺ九ｂ縺ｪ縺丞ｸ�屮縺ｮ荳ｭ縺ｧ逶ｮ繧定ｦ壹∪縺帙◆縺薙→繧偵√％繧後⊇縺ｩ螫峨＠縺乗昴▲縺溘％縺ｨ縺ｯ縺ｪ縺��
+;　こうして、何事もなく布団の中で目を覚ませたことを、これほど嬉しく思ったことはない。\
 ` I'd never been so happy to just be uneventfully laying wide awake in my futon.`\
 mono 1
 bg k_rouka_03,0
 ld c,IZA_D5,22
 
-;縲窶ｦ窶ｦ縺ゅ�豁ｻ逾槭�逕ｷ縺ｮ逵ｼ蜈峨�隨代＞螢ｰ縲�窶ｦ窶ｦ縺ゅ�閭�｢九�繧医≧縺ｪ縺翫◇縺ｾ縺励＞荳也阜縺ｧ縲　豁ｻ縺ｬ縺薙→繧ょ�譚･縺壹∝凍繧後↓陟｢縺冗刈迚ｲ閠�◆縺｡縺ｮ闍ｦ謔ｶ縺ｮ螢ｰ縲�
+;　……あの死神の男の眼光。@笑い声。@……あの胃袋のようなおぞましい世界で、@死ぬことも出来ず、哀れに蠢く犠牲者たちの苦悶の声。@
 ` ...That shinigami. `@`His laughter. `@`...the voices of those poor, undying, writhing victims in that world not unike a hideous monster's stomach.`@
 br
-;縲蜈ｨ縺ｦ縺後≠繧翫≠繧翫→諤昴＞蜃ｺ縺帙ｋ縲�
+;　全てがありありと思い出せる。\
 ` I could remember it all.`\
 bg black,22
 mono 0
 bg ie_06,22
 
-;縲遘√�縲∵ｯ阪�縲後→縺｣縺ｨ縺ｨ襍ｷ縺阪※縺阪↑縺輔＞�√阪→縺�≧螢ｰ縺瑚◇縺薙∴縺ｦ縺上ｋ縺ｾ縺ｧ縲　縺励�繧峨￥縺ｮ髢薙∵叛蠢�☆繧九％縺ｨ縺励°蜃ｺ譚･縺ｪ縺九▲縺溪ｦ窶ｦ縲�
+;　私は、母の「とっとと起きてきなさい！」という声が聞こえてくるまで、@しばらくの間、放心することしか出来なかった……。\
 ` I could only relax for a while until I could hear my mother's voice calling for me to wake up...`\
 bg black,2
 ;wait 2000
@@ -1080,7 +1080,7 @@ bg black,2
 fede 0,2000
 E_A
 
-;笆騾壼ｭｦ霍ｯ�槫ｭｦ譬｡
+;■通学路～学校
 
 ;me1 33
 
@@ -1097,64 +1097,64 @@ bg shoukou_01,22
 
 bgm1 6
 
-;縲窶ｦ窶ｦ縺ゅ�螟｢縺ｯ縲∽ｸ菴薙∽ｽ輔□縺｣縺溘ｓ縺繧阪≧縲�
+;　……あの夢は、一体、何だったんだろう。@
 ` ...What on earth was that dream?`@
 br
-;縲縺ゅｌ縺後√�繧�▲縺ｨ縺励※縲�ｼ托ｼ馴嚴谿ｵ縺ｮ蜻ｪ縺�°菴輔°縺繧阪≧縺九�
+;　あれが、ひょっとして、１３階段の呪いか何かだろうか。\
 ` By any chance, was it the curse of the 13th step?`\
 
-;縲蜻ｪ縺�↑繧薙※縲≫ｦ窶ｦ縺ゅｋ繧上￠縺後↑縺��
+;　呪いなんて、……あるわけがない。@
 ` No, surely not a curse...`@
 br
-;縲螟壼�縲∫ｧ√��托ｼ馴嚴谿ｵ繧定ｸ上ｓ縺縺ｨ諤昴＞霎ｼ縺ｿ縲　窶ｦ窶ｦ閾ｪ蛻�′諤昴▲縺ｦ縺�ｋ莉･荳翫↓縲∵ｯ縺医※縺励∪縺｣縺ｦ縺�◆縺ｮ縺繧阪≧縲�縺昴＠縺ｦ縺昴ｌ繧偵√≠縺ゅ＠縺ｦ螟｢縺ｫ隕九※縺励∪縺｣縺溘↓驕輔＞縺ｪ縺��
+;　多分、私は１３階段を踏んだと思い込み、@……自分が思っている以上に、怯えてしまっていたのだろう。@そしてそれを、ああして夢に見てしまったに違いない。\
 ` I thought I had probably stepped onto the 13th step, `@` and perhaps that frightened me deeper than I thought. `@`That must have been why I had that dream.`\
 bg black,22
 bg kaidan_01,22
 ld c,AYA_D4a,22
 
-;縲遘√�譏�剄蜿｣縺九ｉ縲≫ｦ窶ｦ縺�▽繧ゅ�髫取ｮｵ縺ｮ蜑阪↓繧�▲縺ｦ譚･繧九�
+;　私は昇降口から、……いつもの階段の前にやって来る。@
 ` From the entryway, ...I go up the front of the stairs as I always do.`@
 br
-;縲莉悶�逕溷ｾ偵◆縺｡縺後∽ｽ輔�髢｢蠢�ｂ縺ｪ縺上∝ｽ鍋┯縺ｮ繧医≧縺ｫ雕上∩雜翫∴縺ｦ縺�￥縺昴�髫取ｮｵ繧偵　窶ｦ窶ｦ繧ゅ≧荳蠎ｦ縲∵欠縺ｧ謨ｰ縺医ｋ縲�
+;　他の生徒たちが、何の関心もなく、当然のように踏み越えていくその階段を、@……もう一度、指で数える。\
 ` Other students paid no attention, and so they went up the stairs as always. `@`...I'll count on my fingers one more time.`\
 bg black,22
 bg kaidan_03,22
 ;ld c,AYA_D7a,22
 ;ld c,AYA_D3,80
 
-;縲窶ｦ窶ｦ�托ｼ呈ｮｵ縲�
+;　……１２段。@
 ` 12th step.`@
-;縲髢馴＆縺�↑縺上�ｼ托ｼ呈ｮｵ縺縺｣縺溘�
+;　間違いなく、１２段だった。@
 ` Without a doubt, it was the 12th step.`@
 br
-;縲縺昴≧縲�繧�▲縺ｱ繧翫≠繧後�縲∵焚縺磯俣驕輔＞縺縺｣縺溘ｓ縺縲�
+;　そう。@やっぱりあれは、数え間違いだったんだ。@
 ` Right. `@`I had probably made a mistake while counting.`@
-;縲縺ｪ縺ｮ縺ｫ縲∵悽蠖薙↓�托ｼ馴嚴谿ｵ繧定ｸ上ｓ縺縺ｨ諤昴＞縺薙ｓ縺ｧ諤ｯ縺医※縲√≠繧薙↑螟｢縺ｾ縺ｧ隕九※縲�
+;　なのに、本当に１３階段を踏んだと思いこんで怯えて、あんな夢まで見て。\
 ` Even so, I was scared, convinced that I had actually stepped on the 13th step caused me to have that dream.`\
 bg black,22
 bg kaidan_01,0
 ld r,AYA_D2,22
 
-;縲窶ｦ窶ｦ窶ｦ遘√▲縺ｦ縺ｰ縲�ｦｬ鮖ｿ縺ｿ縺溘＞縲�
+;　………私ってば、馬鹿みたい。@
 ` ...Jeez, I'm such an idiot.`@
 br
-;縲縺昴≧蠢��荳ｭ縺ｧ蜻溘″縺ｪ縺後ｉ繧ゅ≫ｦ窶ｦ遘√�螟壼�縲∽ｻ翫ｂ諤ｯ縺医※縺�◆縲�
+;　そう心の中で呟きながらも、……私は多分、今も怯えていた。\
 ` Even while muttering this to myself...I was still scared.`\
-;縲遘√↓縺ｨ縺｣縺ｦ縲∵ｭｻ縺ｯ螳峨ｉ縺九↑繧狗ｵら捩轤ｹ縲�縺昴≧菫｡縺倥※縺阪◆縲�
+;　私にとって、死は安らかなる終着点。@そう信じてきた。@
 ` Death would be a peaceful end for me. `@`I had believed that.`@
 br
-;縲縺昴ｌ繧定ｦ矩上°縺輔ｌ縲∵ｭｻ蠕後�荳也阜縺ｯ縺昴�繧医≧縺ｪ逕倥＞繧ゅ�縺ｧ縺ｯ縺ｪ縺�→遯√″縺､縺代ｉ繧後◆縲√≠縺ｮ陦晄茶縲�
+;　それを見透かされ、死後の世界はそのような甘いものではないと突きつけられた、あの衝撃。\
 ` Having seen been confronted with an afterlife that was not such a sweet thing after all, being forcefully disillusioned like that left an impact on me.`\
 ld r,AYA_D4a,80
 
-;縲窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縺ゅｓ縺ｪ縺ｮ縲√←縺�○縺溘□縺ｮ螟｢縲�豌励↓縺励■繧�ｧ�岼縺縲�鬥ｬ鮖ｿ鬥ｬ鮖ｿ縺励＞窶ｦ窶ｦ縲�
+;　………………あんなの、どうせただの夢。@気にしちゃ駄目だ。@馬鹿馬鹿しい……。@
 ` .......Anyway, it was just a dream. `@`It's pointless to worry about it. `@`Foolish even...`@
 br
-;縲縺昴≧縺ｯ諤昴＞縺､縺､繧ゅ�窶ｦ窶ｦ遘√�縺昴�髫取ｮｵ繧偵∝ｿ��荳ｭ縺ｧ謨ｰ縺医↑縺後ｉ荳翫ｉ縺壹↓縺ｯ縲√＞繧峨ｌ縺ｪ縺九▲縺溪ｦ窶ｦ縲�
+;　そうは思いつつも。@……私はその階段を、心の中で数えながら上らずには、いられなかった……。\
 ` While thinking that`@`...I couldn't count any further while on those stairs...`\
 cl r,2
 
-;笆縺ゅｄ縺碁嚴谿ｵ繧貞悉繧翫√＠縺ｰ繧峨￥髫取ｮｵ縺ｮ縺ｾ縺ｾwait縲�縺昴�蠕後∵ｭｻ逾槭ヵ繧ｧ繝ｼ繝峨う繝ｳ縲�
+;■あやが階段を去り、しばらく階段のままwait。@その後、死神フェードイン。@
 ;wait 3000
 
 wait 1000
@@ -1171,7 +1171,7 @@ wait 1000
 
 ld c,IZA_D5,80
 
-;縲悟､ｧ螂ｽ迚ｩ縺縺懌ｦ窶ｦ縲�窶ｦ窶ｦ菫ｺ縺ｮ螟ｧ螂ｽ迚ｩ縺ｮ縲√け繧ｽ關ｽ縺｡逶ｮ縺ｪ蟆丞ｨ倥§繧��繧ｧ縺銀ｦ窶ｦ縲�縺上▲縺上￥縺上￥縺上￥窶ｦ窶ｦ��ｼ√構
+;「大好物だぜ……。@……俺の大好物の、クソ落ち目な小娘じゃねェか……。@くっくくくくくく……！！」\
 `"My favorite food...`@`...You're a real loser girl aren't you...? `@`Kukukukukukuku!!"`\
 cl c,2
 bg black,2
@@ -1182,19 +1182,19 @@ wait 2000
 
 bg kyou_02,22
 
-;縲逶ｸ鬥ｬ縺ゅｄ縺ｮ莉頑律縺ｨ縺�≧譌･縺ｯ縲∬�讌ｵ蠖鍋┯縺ｫ縲√＞縺､繧ゅ→菴輔ｂ莉｣繧上ｊ譏縺医�縺励↑縺九▲縺溘�
+;　相馬あやの今日という日は、至極当然に、いつもと何も代わり映えはしなかった。\
 ` On this day, for Aya Souma, as usual, nothing changed for the better.`\
-;縲謗域･ｭ縺ｮ縺ｻ縺ｨ繧薙←蜈ｨ縺ｦ繧偵√⊂繧薙ｄ繧翫→縺ｾ縺ｩ繧阪ｓ縺ｧ驕弱＃縺励�
+;　授業のほとんど全てを、ぼんやりとまどろんで過ごし。@
 ` She spent time dozing off and daydreaming through almost all of the lesson.`@
-;縲莨代∩譎る俣縺ｯ譛ｺ縺ｮ荳翫↓遯√▲莨上＠縺ｦ逵縺｣縺溘�
+;　休み時間は机の上に突っ伏して眠った。@
 ` During recess she put her head down on the desk and slept.`@
 br
-;縲邨ｦ鬟溘ｂ鬟滓ｬｲ縺ｯ縺ｪ縺上√＞縺､繧ゅ�繧医≧縺ｫ谿九＠縺ｦ縲∵ｮ矩｣ｯ繧貞ｯｸ閭ｴ縺ｫ謌ｻ縺励◆縲�
+;　給食も食欲はなく、いつものように残して、残飯を寸胴に戻した。\
 ` Since she had no appetite, she'd always leave food on her plate and give back leftovers.`\
-;縲縺昴ｌ縺縺代�窶ｦ窶ｦ縺�▽繧ゅ�繧医≧縺ｫ縺ｼ繧薙ｄ繧翫→縺励◆縲∝腰隱ｿ縺ｧ辟｡諢丞袖縺ｪ荳譌･縺縺｣縺溘�
+;　それだけ。@……いつものようにぼんやりとした、単調で無意味な一日だった。@
 ` That was all there was to it. `@`...As usual, it was a monotonous and meaningless day.`@
 br
-;縲窶ｦ窶ｦ窶ｦ蟆代↑縺上→繧ゅ∝ｭｦ譬｡繧堤ｵゅ∴繧九∪縺ｧ縺ｯ縲�
+;　………少なくとも、学校を終えるまでは。\
 ` At least...until she finished school.`\
 bg black,22
 
@@ -1205,21 +1205,21 @@ bg kyou_01,22
 
 me1v 24,70
 
-;縲後〒縺吶°繧峨∝ｮｶ縺ｫ蟶ｰ縺｣縺溘ｉ蠢�★縲√≧縺後＞縲∵焔豢励＞繧偵☆繧九ｈ縺�↓縲�縺�＞縺ｧ縺吶�繝ｼ�√后
+;「ですから、家に帰ったら必ず、うがい、手洗いをするように。@いいですねー！」@
 `"So, when you go home, `@`make sure to rinse your mouth and wash your hands!"`@
-;縲後後後�繝ｼ縺�ｼ�ｼ√阪阪構
+;「「「はーい！！」」」\
 `"Yes!"`\
 
-縲後〒縺ｯ譌･逶ｴ縲∝捷莉､繝ｼ�√后
+「では日直、号令ー！」@
 `"Alright, classroom assistant please dismiss the class!"`@
-;縲後″繧翫�縺､�　縲繧後�縺�ｼ�ｼ√后
+;「きりーつ！@　れーい！！」@
 `"Staaand! `@`Bow!"`@
 br
-;縲縺輔ｈ縺�↑繧峨�蜿ｷ莉､縺ｧ縲∝ｭｦ譬｡縺九ｉ隗｣謾ｾ縺輔ｌ繧九�
+;　さようならの号令で、学校から解放される。@
 ` After saying goodbye and being dismissed, she would be freed from school.`@
-;縲窶ｦ窶ｦ蛻･縺ｫ螳ｶ縺ｫ蟶ｰ縺｣縺ｦ繧ゅ☆繧九％縺ｨ縺ｪ繧薙※縺ｪ縺�￠繧後←縲∝､壼ｰ代�隗｣謾ｾ諢溘�縺ゅｋ縲�
+;　……別に家に帰ってもすることなんてないけれど、多少の解放感はある。\
 ` ...Apart from that, there was a sense of relief in that she didn't have to return home.`\
-;縲後後後＆繧医�縺ｪ繧峨���ｼ�ｼ√構
+;「「「さよーならー！！！」\
 `"Goodbyeeee~!"`\
 
 E_A
@@ -1235,184 +1235,184 @@ ld l,AYA_D9a,22
 
 bgm1 16
 
-;縲娯ｦ窶ｦ窶ｦ窶ｦ窶ｦ繝��窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縺遺ｦ�檗縲窶ｦ窶ｦ窶ｦ窶ｦ�滂ｼ√構
+;「……………ッ。@………………え…？@　…………？！」\
 `"......`@`......huh?`@`.....?!"`\
 se2 33
 
-;縲遯∫┯縺ｫ縲�蜚千ｪ√↓縲�
+;　突然に。@唐突に。@
 ` Suddenly.`@`Abruptly.`@
 br
-;縲縺遺ｦ窶ｦ�檗
+;　え……？@
 ` ...Eh?`@
 br
-;縲縺ｪ縲≫ｦ窶ｦ菴輔′襍ｷ縺薙▲縺溘�縺九∫炊隗｣縺ｧ縺阪↑縺��
+;　な、……何が起こったのか、理解できない。\
 ` Wh... What happened, I don't understand.`\
 cl l,22
 
-;縲繧ｯ繝ｩ繧ｹ蜈ｨ蜩｡縺ｧ蜈育函縺ｫ蜷代°縺｣縺ｦ縲√＆繧医≧縺ｪ繧峨→險縺｣縺溘�
+;　クラス全員で先生に向かって、さようならと言った。@
 ` The whole class faced the teacher and said "goodbye".`@
 br
-;縲縺昴�迸ｬ髢薙�
+;　その瞬間。@
 ` In that moment`@
 br
-;縲荳也阜縺梧ｶ医∴縺溘�縺縲�
+;　世界が消えたのだ。\
 ` The world disappeared.`\
-;縲窶ｦ窶ｦ縺�ｄ縲∵ｶ医∴縺溘→縺�▲縺ｦ繧ゅ∫悄縺｣證励↓縺ｪ縺｣縺溘ｏ縺代§繧�↑縺��繧ゅ■繧阪ｓ縲√％縺薙′謨吝ｮ､縺ｧ縺ゅｋ縺薙→縺ｫ繧ょ､峨ｏ繧翫�縺ｪ縺��
+;　……いや、消えたといっても、真っ暗になったわけじゃない。@もちろん、ここが教室であることにも変わりはない。@
 ` ...No, saying that it ended would be wrong--it didn't even go dark.`@`Of course, there was no change even here in the classroom.`@
 br
-;縲縺励°縺励∵ｶ医∴縺溘�縺縲�
+;　しかし、消えたのだ。@
 ` But it was gone.`@
-;縲縺薙�荳也阜縺九ｉ縲∵蕗螳､縺九ｉ縲≫ｦ窶ｦ遘√∫嶌鬥ｬ縺ゅｄ繧帝勁縺上∝�縺ｦ縺ｮ莠ｺ髢薙′縲　縺ｾ繧九〒陋榊�轣ｯ縺後⊃繧薙→豸医∴繧九°縺ｮ繧医≧縺ｫ縲≫ｦ窶ｦ蜚千ｪ√↓豸医∴蜴ｻ縺｣縺溘�縺縲�
+;　この世界から、教室から、……私、相馬あやを除く、全ての人間が、@まるで蛍光灯がぽんと消えるかのように、……唐突に消え去ったのだ。\
 ` Like the pop of a flourescent light going out, `@`everyone in the world and in the classroom disappeared... except for me... Aya Souma.`\
 bg black,23
 bg kyou_02u,23
 ld r,AYA_D9,24
 ld r,AYA_D9a,80
 
-;縲娯ｦ窶ｦ窶ｦ窶ｦ縺ｪ縺ｫ窶ｦ窶ｦ窶ｦ縲�窶ｦ窶ｦ縺遺ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲ゅ后
+;「…………なに………。@……え……………。」@
 `"......What.....`@`.....ah..."`@
 br
-;縲遘√�繧上￠縺後ｏ縺九ｉ縺壹∝捉繧翫ｒ隕区ｸ｡縺吶�
+;　私はわけがわからず、周りを見渡す。@
 ` Without knowing why, I looked around.`@
-;縲縺励°縺励√←縺薙↓繧ゅ＞縺ｪ縺��隱ｰ繧ゅ＞縺ｪ縺��
+;　しかし、どこにもいない。@誰もいない。@
 ` However, nobody was around. `@` Everyone was gone.`@
-;縲縺昴ｌ縺ｩ縺薙ｍ縺九∝ｭｦ譬｡蜈ｨ菴薙�縺悶ｏ繧√″縺輔∴豸医∴蜴ｻ縺｣縺溘�
+;　それどころか、学校全体のざわめきさえ消え去った。\
 ` On top of that, all the ambient school noise had vanished.`\
-;縲縺昴ｌ縺ｯ縲√％縺ｮ謨吝ｮ､縺縺代〒縺ｪ縺上∝ｭｦ譬｡蜈ｨ菴薙　窶ｦ窶ｦ縺�ｄ縲√�繧�▲縺ｨ縺吶ｋ縺ｨ縲√％縺ｮ荳也阜縺昴�繧ゅ�縺九ｉ莠ｺ髢薙′豸医∴蜴ｻ縺｣縺溘％縺ｨ繧呈э蜻ｳ縺吶ｋ縺ｮ縺九ｂ縺励ｌ縺ｪ縺��
-`縲It was as if it wasn't everyone in the classroom, but the entire school, `@`...no, it could even mean that the rest of the world had disappeared.`@
+;　それは、この教室だけでなく、学校全体、@……いや、ひょっとすると、この世界そのものから人間が消え去ったことを意味するのかもしれない。@
+`　It was as if it wasn't everyone in the classroom, but the entire school, `@`...no, it could even mean that the rest of the world had disappeared.`@
 br
-;縲蜚千ｪ√�縲∫┌莠ｺ縺ｮ荳也阜縲�辟｡髻ｳ縺ｮ荳也阜縲�
+;　唐突の、無人の世界。@無音の世界。@
 ` Suddenly, it was a world without people. `@`A world of silence.`@
-;縲窶ｦ窶ｦ諢丞袖縺後√ｏ縺九ｉ縺ｪ縺�ｦ窶ｦ縲�
+;　……意味が、わからない……。\
 ` ...What was the meaning of this...?`\
 bg black,23
 bg kyou_04,23
 
-;縲縺昴≧縺｣縺ｨ縲∝ｻ贋ｸ九ｒ隕励＞縺ｦ縺ｿ繧九′縲≫ｦ窶ｦ繧ｷ繝ｳ縺ｨ髱吶∪繧願ｿ斐▲縺ｦ縺�ｋ縲�
+;　そうっと、廊下を覗いてみるが、……シンと静まり返っている。@
 ` I wondered and took a peek out into the corridor... it was dead silent.`@
 br
-;縲髫｣縺ｮ謨吝ｮ､縺ｯ縺翫ｍ縺九√％縺ｮ譬｡闊惹ｸｸ縺斐→縺ｫ縲≫ｦ窶ｦ隱ｰ繧ゆｺｺ縺ｮ豌鈴�縺後＠縺ｪ縺��
-`縲It wasn't just the neighboring classrooms either, because no one could be seen nor heard inside the building...`\
+;　隣の教室はおろか、この校舎丸ごとに、……誰も人の気配がしない。\
+`　It wasn't just the neighboring classrooms either, because no one could be seen nor heard inside the building...`\
 
 bg black,24
 bg koutei_06u,24
 
-;縲謨吝ｮ､縺ｫ鬟帙ｓ縺ｧ謌ｻ繧翫∫ｪ薙°繧画｡蠎ｭ繧定ｦ倶ｸ九ｍ縺吶�
-`縲Running back into the classroom, I looked down at the schoolyard from the window.`@ 
-;縲窶ｦ窶ｦ菴輔＠繧堺ｸ区｡縺ｮ譎る俣縺縲�譎ｮ谿ｵ縺ｪ繧峨∵�髯榊哨縺九ｉ譬｡髢縺ｸ縺ｨ蜷代°縺�｡悟�繧定ｦ倶ｸ九ｍ縺帙ｋ縺ｯ縺壹□縲�
-`縲...Nevertheless it was time to go home. `@`Normally, I should be looking down on a line of people heading towards the gate from the school entrance.`@
+;　教室に飛んで戻り、窓から校庭を見下ろす。@
+`　Running back into the classroom, I looked down at the schoolyard from the window.`@ 
+;　……何しろ下校の時間だ。@普段なら、昇降口から校門へと向かう行列を見下ろせるはずだ。@
+`　...Nevertheless it was time to go home. `@`Normally, I should be looking down on a line of people heading towards the gate from the school entrance.`@
 br
-;縲縺励°縺励√◎繧後′縺ｪ縺��
-`縲But there wasn't one.`@
-;縲縺ｪ縺�←縺薙ｍ縺九≫ｦ窶ｦ莠ｺ縺｣蟄舌�縺ｨ繧翫�縺�ｄ縲∝虚縺上ｂ縺ｮ荳縺､縺輔∴縲∬ｦ九▽縺代ｋ縺薙→縺悟�譚･縺ｪ縺��
-`縲There wasn't even a line ...not even a single soul. `@`Rather, I couldn't even see anything stirring outside.`\
+;　しかし、それがない。@
+`　But there wasn't one.`@
+;　ないどころか、……人っ子ひとり。@いや、動くもの一つさえ、見つけることが出来ない。\
+`　There wasn't even a line ...not even a single soul. `@`Rather, I couldn't even see anything stirring outside.`\
 
 bg black,22
 bg kyou_02u,22
 ld c,AYA_D9a,22
 ld c,AYA_D8a,22
 
-;縲後↑縲≫ｦ窶ｦ菴輔↑縺ｮ窶ｦ窶ｦ窶ｦ縲≫ｦ窶ｦ縺薙ｌ窶ｦ窶ｦ窶ｦ縲ゅ后
+;「な、……何なの………、……これ………。」@
 `"Wh, ...what... is this..."`@
 br
-;縲遨ｺ縺ｮ濶ｲ繧ゅ∽ｽ輔□縺句､峨□縲�
-`縲Even the pigment of the sky was somehow strange.`@
-;縲縺ｾ縺�疲凾縺ｫ繧ゅ↑縺｣縺ｦ縺�↑縺�凾髢薙�縺ｯ縺壹↑縺ｮ縺ｫ縲　繧ゅ≧螟墓婿縺ｮ繧医≧縺ｪ縲∵ｿ�＞讖呵牡縺ｫ譟薙∪縺｣縺ｦ縺�ｋ縺ｮ縺縲�
-`縲Even though it shouldn't even be 4 o'clock yet, `@`the sky was stained a deep orange as if it were already twilight.`\
+;　空の色も、何だか変だ。@
+`　Even the pigment of the sky was somehow strange.`@
+;　まだ４時にもなっていない時間のはずなのに、@もう夕方のような、濃い橙色に染まっているのだ。\
+`　Even though it shouldn't even be 4 o'clock yet, `@`the sky was stained a deep orange as if it were already twilight.`\
 ld c,AYA_D7a,22
 
-;縲窶ｦ窶ｦ窶ｦ縺薙�縲∝ｫ後↑讖呵牡縺ｫ譟薙∪縺｣縺滓｡蜀�ｒ縲≫ｦ窶ｦ遘√�隕壹∴縺ｦ縺�ｋ縲�
-`縲...I remembered seeing this detestibly orange colored school interior before.`@
+;　………この、嫌な橙色に染まった校内を、……私は覚えている。@
+`　...I remembered seeing this detestibly orange colored school interior before.`@
 br
-;縲縺ゅ�縲∵が螟｢縺ｮ荳ｭ縺ｮ蜈画勹縺縲�
-`縲It was the background from my nightmare.`@
-;縲蟆大･ｳ縺梧ｭｻ逾槭↓霑ｽ繧上ｌ縲∵ｮｺ縺輔ｌ縺溘∽ｻ頑悃縺ｮ縺ゅ�譛謔ｪ縺ｪ螟｢縺ｮ荳ｭ縺ｮ蜈画勹縺縲�
-`縲This was the backdrop to my horrific nightmare this morning where a girl was chased and murdered by a shinigami.`\
+;　あの、悪夢の中の光景だ。@
+`　It was the background from my nightmare.`@
+;　少女が死神に追われ、殺された、今朝のあの最悪な夢の中の光景だ。\
+`　This was the backdrop to my horrific nightmare this morning where a girl was chased and murdered by a shinigami.`\
 
-;縲縺昴ｓ縺ｪ縺ｯ縺壹�縲√◎繧薙↑縺ｯ縺壹�窶ｦ窶ｦ縲�
-`縲No way, no way...`@
-;縲縺ｨ縺ｫ縺九￥縲√％繧薙↑遨ｺ縺ｮ濶ｲ縺ｯ縲�ｼ匁凾縺上ｉ縺�↓縺ｪ繧峨↑縺代ｌ縺ｰ隕九ｉ繧後↑縺��縺壹�
-`縲Anyway, based on the sky being like this it must already be around 6 o'clock.`@
+;　そんなはずは、そんなはずは……。@
+`　No way, no way...`@
+;　とにかく、こんな空の色は、６時くらいにならなければ見られないはず。@
+`　Anyway, based on the sky being like this it must already be around 6 o'clock.`@
 br
-;縲莉翫′�匁凾縺ｮ繧上￠縺後↑縺��縺ｻ繧峨▲窶ｦ窶ｦ�―
-`縲There's no way it's 6 o'clock. `@`I mean look...!`\
+;　今が６時のわけがない。@ほらっ……！\
+`　There's no way it's 6 o'clock. `@`I mean look...!`\
 
 bg black,23
 bg kyou_01,23
 
 me1v 11,90
 
-;縲謨吝ｮ､縺ｮ譎りｨ医ｒ隕倶ｸ翫￡繧九�
-`縲I look up at the classroom clock.`@
-;縲遒ｺ縺九↓譎りｨ医�縲∝､墓婿縺ｮ譎る俣繧堤､ｺ縺励※縺ｯ縺�↑縺九▲縺溘�
-`縲Of course the clock didn't show it was the twilight hour.`@
+;　教室の時計を見上げる。@
+`　I look up at the classroom clock.`@
+;　確かに時計は、夕方の時間を示してはいなかった。@
+`　Of course the clock didn't show it was the twilight hour.`@
 br
-;縲縺励°縺励≫ｦ窶ｦ窶ｦ窶ｦ縺ｩ縺�＞縺�％縺ｨ縺ｪ縺ｮ縺九�ｼ托ｼ第凾�包ｼ募�繧呈欠縺励※縺�◆縲�
-`縲Although, ...for some reason it showed it was 11:55.`\
+;　しかし、…………どういうことなのか、１１時５５分を指していた。\
+`　Although, ...for some reason it showed it was 11:55.`\
 
-;縲豁｣蜊亥燕窶ｦ窶ｦ�檗縲縺頑仂縺ｮ譎る俣�檗縲縺薙ｓ縺ｪ螟慕┥縺題牡縺ｮ遨ｺ縺ｪ縺ｮ縺ｫ窶ｦ�檗
-`縲In the A.M....? `@`Day time? `@`Even with the sky colored by the sunset like that...?`@
-;縲諢丞袖縺後ｏ縺九ｉ縺ｪ縺��
-`縲I don't understand why.`@
+;　正午前……？@　お昼の時間？@　こんな夕焼け色の空なのに…？@
+`　In the A.M....? `@`Day time? `@`Even with the sky colored by the sunset like that...?`@
+;　意味がわからない。@
+`　I don't understand why.`@
 br
-;縲縺薙ｓ縺ｪ螟墓婿縺ｮ�托ｼ第凾�包ｼ募�縺ｮ譬｡闊弱↓縲≫ｦ窶ｦ遘∽ｻ･螟悶�隱ｰ繧ゅ＞縺ｪ縺�ｸ也阜縲�
-`縲It's twilight at 11:55 in the school building, ...and I'm alone in the world.`@
-;縲遘√�蜚千ｪ√↓菴輔�蜑崎ｧｦ繧後ｂ縺ｪ縺上≫ｦ窶ｦ窶ｦ縺薙�辟｡莠ｺ縺ｮ譬｡闊弱�荳也阜縺ｫ縺�◆縺ｮ縺窶ｦ窶ｦ縲�
-`縲I was suddenly and without warning, ...in a school building from an uninhabited world...`\
+;　こんな夕方の１１時５５分の校舎に、……私以外の誰もいない世界。@
+`　It's twilight at 11:55 in the school building, ...and I'm alone in the world.`@
+;　私は唐突に何の前触れもなく、………この無人の校舎の世界にいたのだ……。\
+`　I was suddenly and without warning, ...in a school building from an uninhabited world...`\
 
 ld c,AYA_D5a,22
 
-;縲後％繧娯ｦ窶ｦ窶ｦ縲�窶ｦ窶ｦ縺ｾ縺輔°縲≫ｦ窶ｦ窶ｦ窶ｦ縲�窶ｦ窶ｦ縺ｧ繧ゅ√◎繧薙↑縺ｯ縺壹�窶ｦ窶ｦ窶ｦ縲ゅ后
+;「これ………。@……まさか、…………。@……でも、そんなはずは………。」@
 `"This.... `@`It can't mean...... `@`...But there's no way..."`@
 br
-;縲蜷ｦ螳壹＠縺溘＞縲�窶ｦ窶ｦ縺ｧ繧ゅ∝�霄ｫ縺ｮ邏ｰ閭槭′縲∬ｶｳ蜈�°繧峨§繧上§繧上→縲≫ｦ窶ｦ隱阪ａ蟋九ａ縺ｦ縺�ｋ縲�
-`縲I want to deny it. `@`...But every cell in my body began to shiver starting with the soles of my feet... and I began to understand.`\
+;　否定したい。@……でも、全身の細胞が、足元からじわじわと、……認め始めている。\
+`　I want to deny it. `@`...But every cell in my body began to shiver starting with the soles of my feet... and I began to understand.`\
 
 ;ld c,AYA_D4a,80
 
-;縲縺薙％縺ｯ縲≫ｦ窶ｦ縺ゅ�謔ｪ螟｢縺ｧ隕九◆荳也阜縺昴�繧ゅ�縺ｪ縺ｮ縺縲�
-`縲This place... is the world I saw within my nightmare.`@
+;　ここは、……あの悪夢で見た世界そのものなのだ。@
+`　This place... is the world I saw within my nightmare.`@
 br
-;縲縺薙�荳也阜縺ｧ縲∝錐繧ら衍繧峨〓蟆大･ｳ縺梧ｭｻ逾槭↓霑ｽ繧上ｌ縲∬ｿｽ縺�ｻ倥°繧後※谿ｺ縺輔ｌ縲　窶ｦ窶ｦ諱舌ｍ縺励＞蝨ｰ迯�↓關ｽ縺ｨ縺輔ｌ縺溪ｦ窶ｦ窶ｦ縲�
-`縲In this world, a nameless girl was pursued by a shinigami -- caught, killed, `@`...and then dropped into a terrifying hell...`\
+;　この世界で、名も知らぬ少女が死神に追われ、追い付かれて殺され、@……恐ろしい地獄に落とされた………。\
+`　In this world, a nameless girl was pursued by a shinigami -- caught, killed, `@`...and then dropped into a terrifying hell...`\
 
 E_A
 
 
-;縲縺昴�譎ゅ√％縺ｮ荳也阜縺ｧ蟋九ａ縺ｦ縲�浹繧定◇縺�◆縲�
-`縲At that moment, I heard a sound for the first time in this world.`@
-;縲閾ｪ蛻�ｻ･螟悶↓隱ｰ縺九′螻�※縺上ｌ縺溘√→縺�≧螳牙ｵ縺ｯ荳迸ｬ縺縺第ｲｸ縺阪≠縺後▲縺溘′縲√☆縺舌↓豸医∴縺溘�
-`縲I had for a moment a sliver of hopeful excitement that someone else other than myself was there, but it immediately vanished.`@
+;　その時、この世界で始めて、音を聞いた。@
+`　At that moment, I heard a sound for the first time in this world.`@
+;　自分以外に誰かが居てくれた、という安堵は一瞬だけ沸きあがったが、すぐに消えた。@
+`　I had for a moment a sliver of hopeful excitement that someone else other than myself was there, but it immediately vanished.`@
 br
-;縲縺ｪ縺懊↑繧峨�
-`縲Because.`\
+;　なぜなら。\
+`　Because.`\
 
 se1v 14,100
 bg black,22
 
-;縲窶ｦ窶ｦ窶ｦ縺壹°縺壹°縲�
-`縲...Thump thump.`@
-;縲縺壹°縺壹°縲√★縺九★縺九★縺九�
-`縲Thump thump, thump thump thump.`@
+;　………ずかずか。@
+`　...Thump thump.`@
+;　ずかずか、ずかずかずか。@
+`　Thump thump, thump thump thump.`@
 br
-;縲雕ｵ繧定ｸ上∩魑ｴ繧峨☆縲√◎縺ｮ驥阪￥雜ｳ譌ｩ縺ｪ雜ｳ髻ｳ繧偵∫ｧ√�繧ゅ≧螟｢縺ｮ荳ｭ縺ｧ遏･縺｣縺ｦ縺�◆縺九ｉ縺縲�
-`縲The stomping sound of heels. `@`Heavy footsteps moving quickly. `@`I realized I was already inside the dream.`\
+;　踵を踏み鳴らす、その重く足早な足音を、私はもう夢の中で知っていたからだ。\
+`　The stomping sound of heels. `@`Heavy footsteps moving quickly. `@`I realized I was already inside the dream.`\
 
 bg kyou_03,22
 
-;縲縺昴�雜ｳ髻ｳ縺後√←繧薙←繧薙％縺ｮ謨吝ｮ､縺ｫ霑台ｻ倥＞縺ｦ縺上ｋ縲�
-`縲Those footsteps were quickly closing in on this classroom.`@
+;　その足音が、どんどんこの教室に近付いてくる。@
+`　Those footsteps were quickly closing in on this classroom.`@
 br
-;縲遘√�蜻�┯縺ｨ遶九■蟆ｽ縺上＠縲≫ｦ窶ｦ縺昴�髻ｳ縺ｮ荳ｻ繧貞ｾ�■蜿励￠縺溘�
-`縲I stood listlessly, ...and waited for the owner of those footsteps.`@
-;縲縺ゅ�豁ｻ逾槭〒縺ｪ縺�％縺ｨ繧堤･医▲縺ｦ縲�
-`縲I prayed it wasn't that shinigami.`\
+;　私は呆然と立ち尽くし、……その音の主を待ち受けた。@
+`　I stood listlessly, ...and waited for the owner of those footsteps.`@
+;　あの死神でないことを祈って。\
+`　I prayed it wasn't that shinigami.`\
 
-;縲縺昴＠縺ｦ縲≫ｦ窶ｦ縺昴�貍�ｻ偵�繝槭Φ繝医ｒ鄒ｽ郢斐ｊ螟ｧ骼後ｒ閭瑚ｲ縺｣縺溷､ｧ譟�↑莠ｺ蠖ｱ縺後≫ｦ窶ｦ縺ｬ縺�▲縺ｨ縲∝ｻ贋ｸ九ｈ繧雁ｧｿ繧堤樟縺吶�
-`縲Then... donning that jet black cloak across his back... a man with a large build slid open the door from the hallway.`@
+;　そして、……その漆黒のマントを羽織り大鎌を背負った大柄な人影が、……ぬぅっと、廊下より姿を現す。@
+`　Then... donning that jet black cloak across his back... a man with a large build slid open the door from the hallway.`@
 br
-;縲縺昴ｌ縺ｯ縲∫ｴ帙ｌ繧ゅ↑縺上≫ｦ窶ｦ窶ｦ縺ゅ�縲≫ｦ窶ｦ窶ｦ豁ｻ逾樞ｦ窶ｦ窶ｦ縲�
-`縲Tht was without a doubt... that... shinigami.`\
+;　それは、紛れもなく、………あの、………死神………。\
+`　Tht was without a doubt... that... shinigami.`\
 
 silent 3,1
 se2v 82,100
@@ -1432,64 +1432,64 @@ wait 1000
 
 bgm1 23
 
-;縲御ｿｺ縺ｮ蟄ｦ譬｡縺ｸ繧医≧縺薙◎繧ｩ��ｼ　縲縺上▲縺上￥縺｣縺上▲縺/
+;「俺の学校へようこそォ！！@　くっくくっくっく/
 `"Welcome to my school!! `@`Ku kuku ku ku`/
 
 
 se1v 84,100
 
-;縺ｲ繧�▲縺ｯ縺｣縺ｯ��ｼ√后
+;ひゃっはっは！！」@
 `Hya ha ha!!"`@
 br
-;縲髢句哨荳逡ｪ縺ｫ豁ｻ逾槭′閨槭°縺帙◆隨代＞螢ｰ縺ｯ縲≫ｦ窶ｦ邏帙ｌ繧ゅ↑縺上√≠縺ｮ謔ｪ螟｢縺ｮ荳ｭ縺ｧ閨槭＞縺溘ｂ縺ｮ縺縺｣縺溘�
-`縲When I first heard the shinigami's laughter, ...it was without a doubt the same one I had heard from within that nightmare.`\
+;　開口一番に死神が聞かせた笑い声は、……紛れもなく、あの悪夢の中で聞いたものだった。\
+`　When I first heard the shinigami's laughter, ...it was without a doubt the same one I had heard from within that nightmare.`\
 
 ld l,AYA_D7a,23
 
-;縲繧ゅ≧縲∫ｧ√�逶ｮ縺ｮ蜑阪�蜈画勹縺ｫ縺�ｍ縺溘∴縺溘ｊ縺励↑縺��
-`縲I didn't let my guard down while watching this spectacle.`@
+;　もう、私は目の前の光景にうろたえたりしない。@
+`　I didn't let my guard down while watching this spectacle.`@
 br
-;縲縺薙ｌ縺悟､｢縺九ｂ縺励ｌ縺ｪ縺�↑縺ｩ縺ｨ縲�ｬ繧呈鞄繧翫ｂ縺励↑縺�＠縲∫怏縺ｫ蜚ｾ繧貞｡励ｋ繧医≧縺ｪ縺薙→繧ゅ＠縺ｪ縺��
+;　これが夢かもしれないなどと、頬を抓りもしないし、眉に唾を塗るようなこともしない。\
 `(?) This might be a dream, but I wasn't about to snap out of it.`\
 
-;縲縺ｨ縺ｫ縺九￥縲∫岼縺ｮ蜑阪↓縲√≠縺ｮ諱舌ｍ縺励＞豁ｻ逾槭′螳溷惠縺吶ｋ縺薙→縺檎樟螳溘〒縺ゅｊ縲�
-`縲Regardless, the reality is that standing before my very eyes is that terrifying shinigami.`@
-;縲縺昴＠縺ｦ縲��￡縺ｪ縺代ｌ縺ｰ谿ｺ縺輔ｌ縺ｦ縲　縺ゅ�諱舌ｍ縺励＞閧芽牡縺ｮ縲∬ャ陲九�蝨ｰ迯�↓關ｽ縺｡縺ｦ豌ｸ驕縺ｫ繧ゅ′縺崎協縺励�縺薙→縺ｫ縺ｪ繧九�縺縲�
-`縲Therefore if I can't run away I'll be killed, `@`and be plumeted into that horrific organ-colored hell stomach to writhe in agony for eternity.`\
+;　とにかく、目の前に、あの恐ろしい死神が実在することが現実であり。@
+`　Regardless, the reality is that standing before my very eyes is that terrifying shinigami.`@
+;　そして、逃げなければ殺されて、@あの恐ろしい肉色の、胃袋の地獄に落ちて永遠にもがき苦しむことになるのだ。\
+`　Therefore if I can't run away I'll be killed, `@`and be plumeted into that horrific organ-colored hell stomach to writhe in agony for eternity.`\
 
 ld l,AYA_D8a,80
 
-;縲蜀苓ｫ�§繧�↑縺�∝�隲�§繧�↑縺�ｦ窶ｦ縲�縺ゅｓ縺ｪ逶ｮ縺ｫ縲��繧上＆繧後◆縺上↑繧薙°縺ｪ縺�▲縲�
-`縲You've got to be kidding me... `@`I didn't do anything to deserve a fate like that.`\
+;　冗談じゃない、冗談じゃない……。@あんな目に、遭わされたくなんかないっ。\
+`　You've got to be kidding me... `@`I didn't do anything to deserve a fate like that.`\
 
 ld r,IZA_D2,80
 
-;縲後◎縺�→繧ゅ�螟｢縺ｧ隕九◆騾壹ｊ縺縺懊�菫ｺ縺ｯ縺雁燕繧定ｿｽ縺｣縺ｦ縲∵ｮｺ縺吶�縺雁燕縺ｯ豁ｻ縺ｫ縺溘￥縺ｪ縺代ｊ繧�∝ｿ�ｭｻ縺薙＞縺ｦ騾�￡縺ｾ縺上▲縺ｦ縺ｿ繧阪�菫ｺ繧｡縲√♀蜑阪ｉ縺梧ｱ励□縺上↓縺ｪ縺｣縺ｦ騾�￡諠代≧縺ｮ繧偵　縺ｩ縺薙∪縺ｧ繧ゅ←縺薙∪縺ｧ繧りｿｽ縺�寺縺代ｋ縺ｮ縺後∵怙鬮倥�讌ｽ縺励∩縺ｪ繧薙□繧｡��ｼ　縲縺昴≦繧峨��￡繧阪ｄ縲��￡繧搾ｼ�ｼ　縲菫ｺ縺ｫ謐輔∪縺｣縺溘ｉ縺ｩ縺�↑繧九°縲√♀蜑阪�繧ゅ≧縲∫衍縺｣縺ｦ縺�ｋ縺ｯ縺壹□縺懊ぉ窶ｦ��ｼ√構
+;「そうとも。@夢で見た通りだぜ。@俺はお前を追って、殺す。@お前は死にたくなけりゃ、必死こいて逃げまくってみろ。@俺ァ、お前らが汗だくになって逃げ惑うのを、@どこまでもどこまでも追い掛けるのが、最高の楽しみなんだァ！！@　そぅら、逃げろや、逃げろ！！@　俺に捕まったらどうなるか、お前はもう、知っているはずだぜェ…！！」\
 `"Maybe. `@`It's just like you saw in your dream. `@`I'll chase you, and I'll kill you. `@`If you don't want to die, then try running away with everything you have. `@`You know, for me seeing your kind covered in sweat, `@`and chasing you everywhere, that's what I find truly fun!! `@`On you go, now run, RUN!! `@`You already know what's gonna happen to you when I catch you...!!"`\
 
 ld r,IZA_D5,80
 
-;縲縺昴≧險縺�↑縺後ｉ縲∵ｭｻ逾槭�鬘弱〒縲∵蕗螳､繧貞�繧阪→菫�☆縲�
-`縲As he said that, the shinigami urged directed with his chin for me to get out of the classroom.`@
+;　そう言いながら、死神は顎で、教室を出ろと促す。@
+`　As he said that, the shinigami urged directed with his chin for me to get out of the classroom.`@
 br
-;縲窶ｦ窶ｦ繧ゅ＠縺昴ｌ繧呈妙繧後�縲≫ｦ窶ｦ縺薙�謨吝ｮ､縺ｨ縺�≧陲句ｰ剰ｷｯ縺ｧ縲∝叉蠎ｧ縺ｫ豁ｻ逾槭↓謐輔∪縺｣縺ｦ縲≫ｦ窶ｦ蝨ｰ迯�｡後″縺縲�
-`縲...And if I refused to do that, ...he would catch me right away in this deadend classroom, ...and to hell I would go.`\
+;　……もしそれを断れば、……この教室という袋小路で、即座に死神に捕まって、……地獄行きだ。\
+`　...And if I refused to do that, ...he would catch me right away in this deadend classroom, ...and to hell I would go.`\
 
 ld l,AYA_D5a,80
 
-;縲諢丞袖繧ゅｏ縺九ｉ縺ｪ縺�√ｏ縺代ｂ繧上°繧峨↑縺�▲縲�
-`縲I don't know why, I don't know how.`@
-;縲縺ｧ繧ゅ√≠繧薙↑蝨ｰ迯�↓關ｽ縺ｨ縺輔ｌ繧九↑繧薙※縲∫ｵｶ蟇ｾ縺ｫ縺斐ａ繧薙□縺｣縲�
-`縲But being thrown into that kind of hell is something I want to avoid that at all costs.`@
+;　意味もわからない、わけもわからないっ。@
+`　I don't know why, I don't know how.`@
+;　でも、あんな地獄に落とされるなんて、絶対にごめんだっ。@
+`　But being thrown into that kind of hell is something I want to avoid that at all costs.`@
 br
-;縲遘√�豁ｻ逾槭�荳肴雰縺ｪ隨代＞縺ｨ謨吝ｮ､縺ｮ蜃ｺ蜿｣繧定ｦ区ｯ斐∋縺ｪ縺後ｉ縲∵＄繧区＄繧九∵蕗螳､繧貞�繧九�
-`縲As I looked at the classroom exit and watched that shinigami's fearless grin, carefully, carefully, I leave the classroom.`\
+;　私は死神の不敵な笑いと教室の出口を見比べながら、恐る恐る、教室を出る。\
+`　As I looked at the classroom exit and watched that shinigami's fearless grin, carefully, carefully, I leave the classroom.`\
 
 
 cl l,23
 
-;縲縺昴ｌ縺ｧ縺�＞縺ｨ縺ｧ繧りｨ縺�°縺ｮ繧医≧縺ｫ縲∵ｭｻ逾槭�縺ｫ繧�ｊ縺ｨ隨代≧縺ｨ縲√★縺九★縺九→雜ｳ譌ｩ縺ｫ豁ｩ縺榊ｧ九ａ繧九�
-`縲As if telling me I had done well, the shinigami sneered, and so the thumping of his footsteps began.`\
+;　それでいいとでも言うかのように、死神はにやりと笑うと、ずかずかと足早に歩き始める。\
+`　As if telling me I had done well, the shinigami sneered, and so the thumping of his footsteps began.`\
 
 cl r,0
 ;ld c,IZA_D2,24
@@ -1497,7 +1497,7 @@ ld c,IZA_D6,24
 
 me1v 17,70
 
-;縲後＆繧｡縲√ご繝ｼ繝縺ｮ蟋九∪繧翫□縺懊ぉ窶ｦ��ｼ　縲縺雁燕縺ｯ縺ｩ縺薙∪縺ｧ騾�￡蟒ｶ縺ｳ繧峨ｌ繧九°縺ｪ繧｡窶ｦ�滂ｼ　縲讌ｽ縺励∪縺帙※縺上ｌ繧ｧ��ｼ√構
+;「さァ、ゲームの始まりだぜェ…！！@　お前はどこまで逃げ延びられるかなァ…？！@　楽しませてくれェ！！」\
 `"Now then, the game begins!! `@`I wonder just how far and how long you can run...?! `@`Show me a good time!!"`\
 
 bg black,23
@@ -1506,13 +1506,13 @@ me2v 5,70
 
 bg rouka_04,23
 
-;縲後□縲≫ｦ窶ｦ隱ｰ縺九＝縺ゅ≠縺√≠��ｼ　縲隱ｰ縺句勧縺代※縺�∴縺医∴縺医∞縺�∞��ｼ�ｼ√后
+;「だ、……誰かぁああぁあ！！@　誰か助けてぇええええぇぇぇ！！！」@
 `"S- ...Somebodyyyy!! `@`SOMEBODY HEEEEeeeEEEEELP!!!"`@
 br
-;縲髦ｲ迥ｯ險鍋ｷｴ縺ｮ譎ゅ↓鄙偵▲縺溘∝勧縺代ｒ豎ゅａ繧狗ｷｴ鄙偵�騾壹ｊ縺ｫ縲∫ｧ√�蟒贋ｸ九ｒ鬧�￠縺ｪ縺後ｉ螟ｧ螢ｰ縺ｧ蜿ｫ縺ｶ縲�
-`縲Just as I had learned from a crime prevention lecture, I screamed for help as I ran down the hallway.`@
-;縲窶ｦ窶ｦ縺励°縺励√◎縺ｮ螢ｰ縺ｯ蟒贋ｸ九ｒ縺ｩ縺薙∪縺ｧ繧よｮ矩涸縺吶ｋ縺縺代�隱ｰ繧ょｿ懊∴縺溘ｊ縺ｯ縺励↑縺九▲縺溘�
-`縲...But all my screams did was echo through the hallways. `@`No one gave a response.`\
+;　防犯訓練の時に習った、助けを求める練習の通りに、私は廊下を駆けながら大声で叫ぶ。@
+`　Just as I had learned from a crime prevention lecture, I screamed for help as I ran down the hallway.`@
+;　……しかし、その声は廊下をどこまでも残響するだけ。@誰も応えたりはしなかった。\
+`　...But all my screams did was echo through the hallways. `@`No one gave a response.`\
 
 bg black,24
 bg kyou_04,24
@@ -1520,13 +1520,13 @@ wait 1000
 ld c,IZA_D3,22
 ld c,IZA_D5,80
 
-;縲後�縺｣縺ｯ縺｣縺ｯ繧｡��ｼ　縲縺薙�荳也阜縺ｫ縺ｯ菫ｺ縺ｨ縺雁燕莉･螟悶↓縺ｯ隱ｰ繧ゅ＞縺ｭ繧ｧ��ｼ　縲縺昴ｓ縺ｪ螟ｧ螢ｰ繧貞�縺吶□縺代∽ｽ灘鴨縺ｮ辟｡鬧�□縺懊ぉ�√后
+;「はっはっはァ！！@　この世界には俺とお前以外には誰もいねェ！！@　そんな大声を出すだけ、体力の無駄だぜェ！」@
 `"Ha ha haa!! `@`You and I are alone in this world!! `@`Screaming like that is just a waste of stamina!"`@
 br
-;縲豁ｻ逾槭′謨吝ｮ､縺九ｉ蜃ｺ縺ｦ縺上ｋ縲�譌ｩ雜ｳ縺ｧ縺ｯ縺ゅｋ縺後�ｧ�￠縺ｦ縺ｯ縺�↑縺��
-`縲The shinigami left the classroom. `@`He has a quick pace, but he doesn't run.`@
-;縲蟄蝉ｾ帙�雜ｳ縺ｧ繧ゅ∬ｵｰ繧後�騾�￡蛻�ｋ縺薙→縺ｯ髮｣縺励￥縺ｪ縺��縺壹�
-`縲Yet if a child tried to outrun him it would hardly be difficult for him to catch them.`\
+;　死神が教室から出てくる。@早足ではあるが、駆けてはいない。@
+`　The shinigami left the classroom. `@`He has a quick pace, but he doesn't run.`@
+;　子供の足でも、走れば逃げ切ることは難しくないはず。\
+`　Yet if a child tried to outrun him it would hardly be difficult for him to catch them.`\
 
 bg black,23
 bg rouka_01,23
@@ -1540,24 +1540,24 @@ wait 500
 bg black,24
 bg shoukou_01,24
 
-;縲遘√�縺ｰ縺溘�縺溘→髫取ｮｵ繧帝ｧ�￠荳九ｊ縲∵�髯榊哨縺ｸ霄阪ｊ蜃ｺ繧九�
-`縲I came barreling down the stairwell and ran to the entrance.`@
+;　私はばたばたと階段を駆け下り、昇降口へ躍り出る。@
+`　I came barreling down the stairwell and ran to the entrance.`@
 br
-;縲縺ｨ縺ｫ縺九￥縲√％縺ｮ蟄ｦ譬｡縺九ｉ騾�￡蜃ｺ縺昴≧縲�縺昴≧縺吶ｋ縺薙→縺ｧ縲∵ｭｻ逾槭�荳也阜縺九ｉ騾�￡繧峨ｌ繧九°繧ゅ＠繧後↑縺��
-`縲At any rate, I have to get out of the school. `@`Once I do that, I might be able to escape the world of the shinigami.`\
+;　とにかく、この学校から逃げ出そう。@そうすることで、死神の世界から逃げられるかもしれない。\
+`　At any rate, I have to get out of the school. `@`Once I do that, I might be able to escape the world of the shinigami.`\
 
 ld r,AYA_D8a,24
 
 
-;縲譏�剄蜿｣縺ｫ縺ｯ繧ｬ繝ｩ繧ｹ謌ｸ縺碁哩縺ｾ縺｣縺ｦ縺�◆縲�窶ｦ窶ｦ縺薙ｓ縺ｪ繧ゅ�縺碁哩縺ｾ縺｣縺ｦ縺�ｋ縺ｨ縺薙ｍ縺ｪ繧薙※縲∬ｦ九◆縺薙→縺後↑縺��
-`縲The entrance was shut with glass doors. `@`...I had never seen it closed with something like that before.`@
-;縲髢九￠繧医≧縺ｨ縺吶ｋ縺後�幕縺九↑縺��骰ｵ縺ｧ繧よ寺縺九▲縺ｦ繧具ｼ檗
-`縲It looks like it can be opened, but it won't let me out. `@`Does it need a key?`@
-;縲縺昴≧縺ｨ諤昴ｏ縺励″繧ゅ�繧偵′縺｡繧�′縺｡繧�→縺�§繧九�縺縺後√←縺�ｄ縺｣縺ｦ繧る幕縺九↑縺��縺ｳ縺上→繧ゅ＠縺ｪ縺�ｦ�―
-`縲I pondered this as I tried to force the door, but it won't open no matter what I try. `@`It won't budge...!"`\
+;　昇降口にはガラス戸が閉まっていた。@……こんなものが閉まっているところなんて、見たことがない。@
+`　The entrance was shut with glass doors. `@`...I had never seen it closed with something like that before.`@
+;　開けようとするが、開かない。@鍵でも掛かってる？@
+`　It looks like it can be opened, but it won't let me out. `@`Does it need a key?`@
+;　そうと思わしきものをがちゃがちゃといじるのだが、どうやっても開かない。@びくともしない…！\
+`　I pondered this as I tried to force the door, but it won't open no matter what I try. `@`It won't budge...!"`\
 
-;縲縺昴ｓ縺ｪ縺薙→繧偵＠縺ｦ縺�ｋ髢薙↓縲∵ｭｻ逾槭�雜ｳ髻ｳ縺碁嚴谿ｵ繧帝剄繧翫※縺上ｋ縺ｮ縺瑚◇縺薙∴繧九�
-`縲While I was doing that, I could hear the shinigami's footsteps going down the stairwell.`\
+;　そんなことをしている間に、死神の足音が階段を降りてくるのが聞こえる。\
+`　While I was doing that, I could hear the shinigami's footsteps going down the stairwell.`\
 
 bg black,23
 bg shoukou_02,23
@@ -1565,54 +1565,54 @@ wait 500
 ld r,IZA_D3,22
 ld r,IZA_D5,80
 
-;縲檎┌鬧�□縺懊ぉ縲�菫ｺ縺ｮ蟄ｦ譬｡縺ｯ縲∫樟荳悶°繧牙�繧企屬縺輔ｌ縺溽焚遨ｺ髢難ｼ　縲謇峨ｂ髢九°縺ｭ繧ｧ縺励∫ｪ薙ｂ髢九°縺ｭ繧ｧ�√遯薙ｂ蜑ｲ繧後�繧ｧ��ｼ　縲縺雁燕縺ｯ縺薙�譬｡闊弱�荳ｭ縺ｧ縲∽ｿｺ縺九ｉ襍ｰ縺｣縺ｦ騾�￡蝗槭ｋ縺励°逕溘″谿九ｋ譁ｹ豕輔�縺ｭ繧ｧ縺ｮ縺輔ャ��ｼ√構
+;「無駄だぜェ。@俺の学校は、現世から切り離された異空間！@　扉も開かねェし、窓も開かねェ！　窓も割れねェ！！@　お前はこの校舎の中で、俺から走って逃げ回るしか生き残る方法はねェのさッ！！」\
 `"It's pointless. `@`My school has its own space severed from the real world! `@`Doors won't open, windows won't open either! You can't even break them!! `@`The only way you can survive in this school now is by running away from meeee!!"`\
 
-;縲荳矩ｧ�ｮｱ縺ｮ蜷代％縺�↓豁ｻ逾槭′蟋ｿ繧堤樟縺吶�
-`縲The shinigami reveals himself across the shoe racks.`@
+;　下駄箱の向こうに死神が姿を現す。@
+`　The shinigami reveals himself across the shoe racks.`@
 br
-;縲荳矩ｧ�ｮｱ荳縺､繧呈検繧薙〒縲√＄繧九＄繧九→蝗槭▲縺ｦ騾�￡縺ｪ縺後ｉ縲∫ｧ√�鮗ｻ逞ｺ縺励◆鬆ｭ縺ｮ髴槭ｒ諛ｸ蜻ｽ縺ｫ謇輔♀縺�→縺励※縺�◆縲�
-`縲Running in circles in-between the shoe racks, I drove away the paralyzing haze that seized my mind.`\
+;　下駄箱一つを挟んで、ぐるぐると回って逃げながら、私は麻痺した頭の霞を懸命に払おうとしていた。\
+`　Running in circles in-between the shoe racks, I drove away the paralyzing haze that seized my mind.`\
 
 ld l,AYA_D5a,23
 
-;縲後≠縲≫ｦ窶ｦ縺ゅｓ縺溘�隱ｰ縺｣窶ｦ窶ｦ縲�窶ｦ窶ｦ菴輔〒遘√ｒ縺｣窶ｦ窶ｦ縲ゅ后
+;「あ、……あんたは誰っ……。@……何で私をっ……。」@
 `"Wh- ...Who are youuu... `@`...Why, why me...?"`@
 
 ld r,IZA_D6,80
 
-;縲御ｿｺ縺九ぃ�檗縲縺�＞縺懊ぉ縲�縺雁燕縺ｨ縺ｯ縺ｩ繧後⊇縺ｩ縺ｮ莉倥″蜷医＞縺ｫ縺ｪ繧九°遏･繧峨�繧ｧ縺後∽ｸ蠢懊∬�蟾ｱ邏ｹ莉九ｒ縺励※繧�ｉ繧｡縲�菫ｺ縺ｯ蟄ｦ譬｡螯匁ｪ蠎丞�隨ｬ�剃ｽ阪鯉ｼ托ｼ馴嚴谿ｵ縺ｮ豁ｻ逾槭阪％縺ｨ縲√う繧ｶ繝翫Α縺輔∪繧茨ｼ√構
+;「俺かァ？@　いいぜェ。@お前とはどれほどの付き合いになるか知らねェが、一応、自己紹介をしてやらァ。@俺は学校妖怪序列第２位「１３階段の死神」こと、イザナミさまよ！」\
 `"Who am I? `@`Alright. `@`I don't know how long we're going to be seeing each other, but I guess I'll introduce myself. `@`I am The Second Rank of the School Youkai, "Reaper of the 13th Step", Izanami-sama!"`\
 
 bg black,23
 
-;縲繧､繧ｶ繝翫Α縲�縺昴ｌ縺梧ｭｻ逾槭�蜷阪�繧医≧縺縺｣縺溘�
-`縲Izanami. `@`That was the name of the shinigami.`@
+;　イザナミ。@それが死神の名のようだった。@
+`　Izanami. `@`That was the name of the shinigami.`@
 br
-;縲窶ｦ窶ｦ菴輔□縺九∪繧九〒縲∵律譛ｬ逾櫁ｩｱ縺ｮ荳ｭ縺ｮ逾樊ｧ倥∩縺溘＞縺ｪ蜷榊燕窶ｦ窶ｦ縲�
-`縲...It was just like the name of the deity from Japanese mythology...`\
+;　……何だかまるで、日本神話の中の神様みたいな名前……。\
+`　...It was just like the name of the deity from Japanese mythology...`\
 
 bg shoukou_02,23
 ld c,IZA_D3,22
 ld c,IZA_D6,80
 
-;縲御ｿｺ縺ｫ譛ｬ譚･縲∝錐蜑阪�縺ｭ繧ｧ縲�縺溘□縺ｮ�托ｼ馴嚴谿ｵ縺ｮ豁ｻ逾槭□縺｣縺溘�縺昴ｌ繧偵√←縺｣縺九�隱ｰ縺九′縲�ｻ�ｳ画ｴ･螟ｧ逾槭�繧､繧ｶ繝翫Α縺ｮ蜷阪ｒ荳弱∴縺ｦ縺上ｌ縺溘√▲縺ｦ繧上￠縺縲�豌励↓蜈･縺｣縺溘°繧峨√◎繧御ｻ･譚･縲∽ｿｺ縺ｮ蜷榊燕縺ｫ縺輔○縺ｦ繧ゅｉ縺｣縺ｦ繧九′縺ｪ繧｡縲�窶ｦ窶ｦ縺励°縺励ｈ縲√う繧ｶ繝翫Α縺｣縺ｦ縺ｮ縺ｯ譛ｬ譚･縲∝･ｳ縺ｮ蜷榊燕縺縺懶ｼ檗縲菴輔→繧る俣謚懊￠縺ｪ隧ｱ縺縺懊ぉ縲√￥縺｣縺ｯ縺｣縺ｯ縺｣縺ｯ窶ｦ��ｼ√構
+;「俺に本来、名前はねェ。@ただの１３階段の死神だった。@それを、どっかの誰かが、黄泉津大神のイザナミの名を与えてくれた、ってわけだ。@気に入ったから、それ以来、俺の名前にさせてもらってるがなァ。@……しかしよ、イザナミってのは本来、女の名前だぜ？@　何とも間抜けな話だぜェ、くっはっはっは…！！」\
 `"Until recently, I had no name. `@`I was just the Reaper of the 13th Step. `@`And then somebody somewhere told me the name of Izanami, Lord of the Underworld. `@`I liked it, so from that day forth I made that name mine. `@`...Although Izanami was apparantly originally a woman's name? `@`Can you believe it? Ku hah hah hah!!"`\
 
-;縲繧､繧ｶ繝翫Α縺ｯ縺昴≧隧ｱ縺励↑縺後ｉ繧ゅ∵ｱｺ縺励※縲∬ｶｳ繧呈ｭ｢繧√ｋ縺薙→縺ｯ縺ｪ縺��
-`縲Even while Izanami carried on this conversation, his legs didn't stop.`@
-;縲縺壹°縺壹°縲√★縺九★縺九→諱ｯ繧ゆｹｱ縺輔★縺ｫ雜ｳ譌ｩ縺ｧ豁ｩ縺咲ｶ壹￠繧九�
-`縲Thump thump, thump thump -- he continued to walk at his quick pace without letting out a single breath.`@
+;　イザナミはそう話しながらも、決して、足を止めることはない。@
+`　Even while Izanami carried on this conversation, his legs didn't stop.`@
+;　ずかずか、ずかずかと息も乱さずに足早で歩き続ける。@
+`　Thump thump, thump thump -- he continued to walk at his quick pace without letting out a single breath.`@
 br
-;縲遘√�縲√∪繧九〒蜿矩＃縺ｨ鬯ｼ縺斐▲縺薙〒繧ゅ＠縺ｦ縺�ｋ縺九�繧医≧縺ｫ縲∽ｸ矩ｧ�ｮｱ縺ｮ蜻ｨ繧翫ｒ縺舌ｋ縺舌ｋ蝗槭▲縺ｦ騾�￡繧九�
-`縲Almost like the games of demon tag I used to play with my friends, I was running in circles around the shoe racks.`\
+;　私は、まるで友達と鬼ごっこでもしているかのように、下駄箱の周りをぐるぐる回って逃げる。\
+`　Almost like the games of demon tag I used to play with my friends, I was running in circles around the shoe racks.`\
 
 bg black,23
 bg shoukou_03,23
 ld r,AYA_D5a,23
 ld r,AYA_D6a,80
 
-;縲後ｏ縲≫ｦ窶ｦ遘√∽ｽ輔°縲√≠繧薙◆縺ｫ迢吶ｏ繧後ｋ繧医≧縺ｪ縺薙→縺励◆縺｣�滂ｼ　縲菴輔〒遘√′縺薙ｓ縺ｪ逶ｮ縺ｫ窶ｦ窶ｦ�√構
+;「わ、……私、何か、あんたに狙われるようなことしたっ？！@　何で私がこんな目に……！」\
 `"I... Did I do something to you to deserve this? `@`Why are you after me....!"`\
 
 bg black,23
@@ -1620,52 +1620,52 @@ bg shoukou_02,23
 ld l,IZA_D3,23
 ld l,IZA_D6,80
 
-;縲瑚ｸ上ｓ縺縺繧阪≧縺後ぃ縲�菫ｺ縺ｮ�托ｼ馴嚴谿ｵ繧偵ｈ繧ｩ窶ｦ��ｼ　縲縺雁燕縺ｯ縺励▲縺九ｊ縺ｨ謨ｰ縺医※荳翫▲縺ｦ縺溘�縺壹□縺懶ｼ檗縲蠢倥ｌ縺溘→縺ｯ險繧上＆縺ｭ繧ｧ��ｼ　縲�托ｼ馴嚴谿ｵ縺ｯ縲∬ｨ縺�↑繧後�菫ｺ縺ｮ驥｣繧企�繧医か縲�菫ｺ縺ｮ螟ｧ螂ｽ迚ｩ縺ｪ縲√け繧ｽ關ｽ縺｡逶ｮ縺ｮ繧ｬ繧ｭ縺ｫ雕上∪縺帙※縲∽ｿｺ縺ｮ荳也阜縺ｫ蠑輔″鞫ｺ繧願ｾｼ繧繧薙□窶ｦ��ｼ　縲雕上ｓ縺倥∪縺｣縺溘♀蜑阪�繧ゅ≧菫ｺ縺ｮ迯ｲ迚ｩ繧医か�　縲豕｣縺�※繧ょ繭縺�※繧ゅ∬ｪｰ繧ょ勧縺代■繧�￥繧後�繧ｧ縺懊ぉ��ｼ√構
+;「踏んだだろうがァ。@俺の１３階段をよォ…！！@　お前はしっかりと数えて上ってたはずだぜ？@　忘れたとは言わさねェ！！@　１３階段は、言うなれば俺の釣り針よォ。@俺の大好物な、クソ落ち目のガキに踏ませて、俺の世界に引き摺り込むんだ…！！@　踏んじまったお前はもう俺の獲物よォ！@　泣いても喚いても、誰も助けちゃくれねェぜェ！！」\
 `"You stepped on it, fool. `@`My 13th step!! `@`You counted it out clearly as you went up, didn't you? `@`I'm not gonna let you forget it!! `@`The 13th step is my fish hook, so to speak. `@`When my favorite prey, you wimpy punks, step on it, then you're whisked off to my world! `@`You stepped on it, so you're my prey nowww! `@`Cry and scream all your like, no one is gonna save youuu!!"`\
 
-;縲繧�▲縺ｱ繧翫�ｼ托ｼ馴嚴谿ｵ縺ｮ諤ｪ隲��譛ｬ蠖薙□縺｣縺溘ｓ縺縲�
-`縲As I thought, the tale of the 13th step was real.`@
-;縲�托ｼ馴嚴谿ｵ繧定ｸ上ｓ縺ｧ縺励∪縺｣縺溘ｉ縲∵ｭｻ逾槭↓迯ｲ迚ｩ縺ｫ縺輔ｌ縲√←縺薙∪縺ｧ繧りｿｽ縺�寺縺代ｉ繧後ｋ縺ｮ縺縲�
-`縲After stepping on the 13th step, you become prey of the shinigami, and he'll chase you no matter how far you run.`@
+;　やっぱり、１３階段の怪談は本当だったんだ。@
+`　As I thought, the tale of the 13th step was real.`@
+;　１３階段を踏んでしまったら、死神に獲物にされ、どこまでも追い掛けられるのだ。@
+`　After stepping on the 13th step, you become prey of the shinigami, and he'll chase you no matter how far you run.`@
 br
-;縲隱ｰ繧ょ勧縺代※縺上ｌ縺ｪ縺��蜃ｺ譚･繧九�縺ｯ襍ｰ縺｣縺ｦ騾�￡繧九％縺ｨ縺縺代�縺昴ｌ繧ゅ∝ｭｦ譬｡縺ｮ螟悶∈縺ｯ騾�￡繧峨ｌ縺ｪ縺��
-`縲No one will save me. `@`All I can do is run. `@`Furthermore, I can't even run away from school.`@
-;縲謐輔∪縺｣縺溘ｉ蝨ｰ迯�｡後″縺ｮ縲∵ｭｻ逾槭→縺ｮ鬯ｼ縺斐▲縺薙↑縺ｮ縺縲�
-`縲If he catches me, I'm bound for hell, like a game of demon tag.`\
+;　誰も助けてくれない。@出来るのは走って逃げることだけ。@それも、学校の外へは逃げられない。@
+`　No one will save me. `@`All I can do is run. `@`Furthermore, I can't even run away from school.`@
+;　捕まったら地獄行きの、死神との鬼ごっこなのだ。\
+`　If he catches me, I'm bound for hell, like a game of demon tag.`\
 
 bg black,23
 
-;縲窶ｦ窶ｦ豁ｻ縺ｫ縺溘＞縺ｨ鬘倥▲縺溘％縺ｨ縺ｯ縺ゅｋ縲�
-`縲...I once prayed for death.`@
+;　……死にたいと願ったことはある。@
+`　...I once prayed for death.`@
 br
-;縲繧､繧ｶ繝翫Α縺ｫ謐輔∪繧後�縲√◎繧後ｒ蜿ｶ縺医※繧ゅｉ縺医ｋ縲�
-`縲If Izanami catches me, he can grant my wish.`\
+;　イザナミに捕まれば、それを叶えてもらえる。\
+`　If Izanami catches me, he can grant my wish.`\
 
-;縲縺励°縺励∫ｧ√′譛帙�豁ｻ縺ｨ縺ｯ縲∝ｮ峨ｉ縺九↑逵繧翫�縺薙→縺縲�
-`縲But the kind of death I want is in a peaceful sleep.`@
-;縲縺ゅｓ縺ｪ縺翫◇縺ｾ縺励＞荳也阜縺ｧ縲∬ｉ縺ｮ蝪翫↓縺輔ｌ縺ｦ縲∵ｰｸ驕縺ｫ螫ｲ繧峨ｌ繧九ｈ縺�↑荳也阜縺ｫ關ｽ縺｡繧九％縺ｨ縺倥ｃ縺ｪ縺��
-`縲I don't want to fall into that disgusting world and turn into a pile of flesh -- tormented eternally.`@
+;　しかし、私が望む死とは、安らかな眠りのことだ。@
+`　But the kind of death I want is in a peaceful sleep.`@
+;　あんなおぞましい世界で、肉の塊にされて、永遠に嬲られるような世界に落ちることじゃない。@
+`　I don't want to fall into that disgusting world and turn into a pile of flesh -- tormented eternally.`@
 br
-;縲遘√�豎ゅａ繧区ｭｻ縺ｯ縲√≠繧薙◆縺御ｸ弱∴繧医≧縺ｨ縺励※繧区ｭｻ縺ｨ縺ｯ縲√∪縺｣縺溘￥驕輔≧繧ゅ�窶ｦ��ｼ―
-`縲The death I desire is completely different than the death you want to give me...!`\
+;　私の求める死は、あんたが与えようとしてる死とは、まったく違うもの…！！\
+`　The death I desire is completely different than the death you want to give me...!`\
 
 bg rouka_04,23
 
 fede 1,1000
 E_B
 
-;縲縺昴�譎ゅ�
-`縲Suddenly.`@
+;　その時。@
+`　Suddenly.`@
 br
-;縲繧､繧ｶ繝翫Α縺ｮ閧ｩ雜翫＠縺ｫ縲∵凾險医′隕九∴縺溘�
-`縲I saw the clock above Izanami's shoulders.`@
-;縲縺昴�髟ｷ驥昴→遏ｭ驥昴′鬆らせ縺ｧ驥阪↑繧翫�ｼ先凾繧貞綾繧薙□縲�
-`縲The long hand and short hand needles of the clock aligned, and the time was 12 o'clock.`\
+;　イザナミの肩越しに、時計が見えた。@
+`　I saw the clock above Izanami's shoulders.`@
+;　その長針と短針が頂点で重なり、０時を刻んだ。\
+`　The long hand and short hand needles of the clock aligned, and the time was 12 o'clock.`\
 
 fede 0,1000
 E_A
 
-;笆繝√Ε繧､繝
+;■チャイム
 
 se3v 66,100
 se1v 69,100
@@ -1674,32 +1674,32 @@ se2v 69,85
 ;wait 200
 ;se3v 69,70
 
-;縲縺昴＠縺ｦ縲√メ繝｣繧､繝縺碁ｳｴ繧企涸縺�◆縲�
-`縲Then the bell sounded.`@
+;　そして、チャイムが鳴り響いた。@
+`　Then the bell sounded.`@
 br
-;縲縺�▽繧り◇縺�※縺�ｋ繝√Ε繧､繝縺ｨ蜷後§髻ｳ縺縺｣縺溘￠繧後←縲　縺ｾ繧九〒蟄ｦ譬｡荳ｭ縺ｮ螢√�荳ｭ縺九ｉ譟薙∩蜃ｺ縺励※縺�ｋ縺九�繧医≧縺ｪ縲√◎繧薙↑蜃�∩縺ｮ縺ゅｋ繝√Ε繧､繝縺縺｣縺溘�
-`縲It sounded just like the usual school bell, `@`but the bell called as if it were oozing from the middle of the school walls.`\
+;　いつも聞いているチャイムと同じ音だったけれど、@まるで学校中の壁の中から染み出しているかのような、そんな凄みのあるチャイムだった。\
+`　It sounded just like the usual school bell, `@`but the bell called as if it were oozing from the middle of the school walls.`\
 
 se3 22
 bg white,48
 
-;縲縺昴�騾皮ｫｯ縲∽ｸ也阜縺檎悄縺｣逋ｽ縺ｪ蜈峨〒貅｢繧悟�縺励∫惓縺励￥縺ｦ逶ｮ繧帝幕縺代※縺�ｉ繧後↑縺上↑繧九�
-`縲In that moment, the world was enveloped in a white light, and in its radiance I couldn't open my eyes.`\
+;　その途端、世界が真っ白な光で溢れ出し、眩しくて目を開けていられなくなる。\
+`　In that moment, the world was enveloped in a white light, and in its radiance I couldn't open my eyes.`\
 
-;縲菴包ｼ檗縲菴穂ｺ具ｼ滂ｼ　
-`縲What? `@`What's happening?!`@
+;　何？@　何事？！@
+`　What? `@`What's happening?!`@
 br
-;縲逶ｮ縺後＄繧九＄繧九→蝗槭ｊ縲∵ｰ玲戟縺｡謔ｪ縺上↑縺｣縺ｦ縲∫ｫ九▲縺ｦ縺�ｉ繧後↑縺��
-`縲I felt dizzy, queezy, and I couldn't remain standing.`@
-;縲驕雁恍蝨ｰ縺ｮ繝｡繝ｪ繝ｼ繧ｴ繝ｼ繝ｩ繝ｳ繝峨ｄ繧ｳ繝ｼ繝偵�繧ｫ繝��縺ｧ諢溘§繧九ｈ縺�↑逵ｩ證医�
-`縲It was vertigo like going on the merry-go-round or coffee cup rides at an amusement park.`\
+;　目がぐるぐると回り、気持ち悪くなって、立っていられない。@
+`　I felt dizzy, queezy, and I couldn't remain standing.`@
+;　遊園地のメリーゴーランドやコーヒーカップで感じるような眩暈。\
+`　It was vertigo like going on the merry-go-round or coffee cup rides at an amusement park.`\
 
 
-;縲窶ｦ窶ｦ鬧�岼窶ｦ窶ｦ縲∵э隴倥′窶ｦ窶ｦ縲≫ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲�
-`縲...Oh no... I can't think straight... .........`@
+;　……駄目……、意識が……、……………………。@
+`　...Oh no... I can't think straight... .........`@
 br
-;縲窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲�
-`縲.........`\
+;　………………………。\
+`　.........`\
 
 textoff
 bg black,2
@@ -1709,14 +1709,14 @@ me1v 5,50
 
 bg mansion_01,42
 
-;縲驕縺上°繧芽◇縺薙∴縺ｦ縺上ｋ鬚ｨ縺ｮ髻ｳ縺後≫ｦ窶ｦ逕ｺ縺ｮ蝟ｧ鬨偵〒縺ゅｋ縺ｨ豌嶺ｻ倥￥縺ｾ縺ｧ縺ｮ髢薙　遘√�縺壹▲縺ｨ鬆ｭ繧呈干縺医※縺励ｃ縺後∩霎ｼ繧薙〒縺�◆縲�
-`縲While I began to hear the sound of wind in the distance, ...seemingly amonst the clamor of the middle of town, `@`I had been crouched and holding my head for the longest time.`\
+;　遠くから聞こえてくる風の音が、……町の喧騒であると気付くまでの間、@私はずっと頭を抱えてしゃがみ込んでいた。\
+`　While I began to hear the sound of wind in the distance, ...seemingly amonst the clamor of the middle of town, `@`I had been crouched and holding my head for the longest time.`\
 
-;縲驕縺上〒霆翫�襍ｰ繧矩浹縲�縺ｩ縺薙°縺ｮ螳ｶ縺ｮ謠帶ｰ玲援縺ｮ髻ｳ縲�閾ｪ霆｢霆翫�繝吶Ν縺ｮ髻ｳ繧�∬ｵｰ繧雁屓繧句ｭ蝉ｾ帙�隨代＞螢ｰ縲�
-`縲The sound of cars in the distance. `@`The hum of a ventalation fan from someone's house. `@`The sound of bicycle bells and the laughter of children playing.`@
+;　遠くで車の走る音。@どこかの家の換気扇の音。@自転車のベルの音や、走り回る子供の笑い声。@
+`　The sound of cars in the distance. `@`The hum of a ventalation fan from someone's house. `@`The sound of bicycle bells and the laughter of children playing.`@
 br
-;縲窶ｦ窶ｦ諱舌ｋ諱舌ｋ逶ｮ繧帝幕縺上→窶ｦ窶ｦ縲�
-`縲...Fearfully, carefully, I open my eyes and...`\
+;　……恐る恐る目を開くと……。\
+`　...Fearfully, carefully, I open my eyes and...`\
 
 ld c,AYA_D6a,2
 
@@ -1724,61 +1724,61 @@ wait 1000
 
 ld c,AYA_D9a,22
 
-;縲後％縺凪ｦ窶ｦ窶ｦ窶ｦ縲∝ｮｶ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲ゅ后
+;「ここ…………、家…………………。」@
 `"I'm... home........."`@
 br
-;縲遘√�縲√＞縺､縺ｮ髢薙↓縺玖�蛻��繝槭Φ繧ｷ繝ｧ繝ｳ縺ｮ邇�未蜑阪↓縺�※縲√＠繧�′縺ｿ霎ｼ繧薙〒縺�◆縺ｮ縺縲�
-`縲Somehow I was crouching outside my family's apartment.`\
+;　私は、いつの間にか自分のマンションの玄関前にいて、しゃがみ込んでいたのだ。\
+`　Somehow I was crouching outside my family's apartment.`\
 
-;縲諱舌ｋ諱舌ｋ蜻ｨ繧翫ｒ隕区ｸ｡縺吶�
-`縲Fearfully, carefully, I look over my surroundings.`@
+;　恐る恐る周りを見渡す。@
+`　Fearfully, carefully, I look over my surroundings.`@
 br
-;縲窶ｦ窶ｦ縺ゅ�諱舌ｍ縺励＞豁ｻ逾槭�蟋ｿ縺ｯ縺ｪ縺��
-`縲...That terrifying shinigami isn't showing himself.`\
+;　……あの恐ろしい死神の姿はない。\
+`　...That terrifying shinigami isn't showing himself.`\
 
 ;ld c,AYA_D5a,80
 cl c,22
 
-;縲縺薙ｌ縺ｯ縲∽ｸ菴凪ｦ窶ｦ縲√←縺�＞縺�％縺ｨ窶ｦ窶ｦ窶ｦ�檗
-`縲Just... what does this mean...?`@
-;縲遘√�縺�▽縺ｮ髢薙↓縺九％縺薙↓縺�※縲√＠繧�′縺ｿ霎ｼ繧薙〒縺翫°縺励↑逋ｽ譏ｼ螟｢繧定ｦ九※縺�◆縺ｨ縺�≧縺ｮ縺繧阪≧縺九�
-`縲Suddenly I'm here as if I had been daydreaming while squatting like that.`@
+;　これは、一体……、どういうこと………？@
+`　Just... what does this mean...?`@
+;　私はいつの間にかここにいて、しゃがみ込んでおかしな白昼夢を見ていたというのだろうか。@
+`　Suddenly I'm here as if I had been daydreaming while squatting like that.`@
 br
-;縲窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲�
-`縲.........`@
-;縲窶ｦ窶ｦ縺昴ｓ縺ｪ縺ｯ縺壹√↑縺��
-`縲...That can't be.`\
+;　……………………。@
+`　.........`@
+;　……そんなはず、ない。\
+`　...That can't be.`\
 
-;縲縺ｪ縺懊↑繧臥ｧ√�縲≫ｦ窶ｦ譏�剄蜿｣縺ｧ縺壹▲縺ｨ縺舌ｋ縺舌ｋ騾�￡蝗槭▲縺ｦ縺�◆縺九ｉ縲　窶ｦ窶ｦ逍ｲ繧後※縲∵悴縺縺ｫ諱ｯ縺御ｹｱ繧後※縺�ｋ縲�
-`縲Because I... I had been running around the school entrance for ages, `@`... I'm still tired, and my breathing is still erratic.`@ 
+;　なぜなら私は、……昇降口でずっとぐるぐる逃げ回っていたから、@……疲れて、未だに息が乱れている。@
+`　Because I... I had been running around the school entrance for ages, `@`... I'm still tired, and my breathing is still erratic.`@ 
 br
-;縲菴薙ｂ豎励〒縺ｳ縺｣縺励ｇ繧翫�雜ｳ縺ｮ髢｢遽繧ら李縺ｿ縲　縺､縺�＆縺｣縺阪∪縺ｧ髢馴＆縺�↑縺剰�蛻�′襍ｰ繧雁屓縺｣縺ｦ縺�◆縺薙→繧呈蕗縺医※縺上ｌ縺溪ｦ窶ｦ縲�
-`縲My body is even drenched in sweat. `@`The joints in my legs ache, `@`so I was absolutely sure until moments ago I assured myself I had been running away just moments ago...`\
+;　体も汗でびっしょり。@足の関節も痛み、@ついさっきまで間違いなく自分が走り回っていたことを教えてくれた……。\
+`　My body is even drenched in sweat. `@`The joints in my legs ache, `@`so I was absolutely sure until moments ago I assured myself I had been running away just moments ago...`\
 
 
 bg black,22
 
-;縲菴輔′菴輔ｄ繧峨ｏ縺九ｉ縺ｪ縺��
-`縲I have no idea what's going on.`@
-;縲縺ゅｌ縺ｯ螟｢縺縺｣縺溘�縺繧阪≧縺銀ｦ�檗
-`縲Could that have been a dream...?`@
+;　何が何やらわからない。@
+`　I have no idea what's going on.`@
+;　あれは夢だったのだろうか…？@
+`　Could that have been a dream...?`@
 br
-;縲縺昴ｓ縺ｪ繧上￠縺ｯ縺ｪ縺��縺ｧ繧ゅ∽ｸ縺､遒ｺ縺九↑縺薙→縺後≠繧九�
-`縲That's not possible. `@`Yet, I'm sure of one thing.`@
-;縲縺ゅ�豁ｻ逾槭°繧峨∫ｧ√�騾�￡蟒ｶ縺ｳ縺溘→縺�≧縺薙→縺窶ｦ窶ｦ縲�
-`縲I had escaped from that shinigami...`\
+;　そんなわけはない。@でも、一つ確かなことがある。@
+`　That's not possible. `@`Yet, I'm sure of one thing.`@
+;　あの死神から、私は逃げ延びたということだ……。\
+`　I had escaped from that shinigami...`\
 
 bg ie_04,2
 
-;縲縺昴�譎ｩ縲�遘√�縺ｾ縺溷､｢繧定ｦ九◆縲�
-`縲That night. `@`I saw another dream.`@
-;縲莉雁ｺｦ縺ｯ縲√％繧後′螟｢縺ｮ荳ｭ縺ｧ縺ゅｋ縺ｨ縺�≧縺薙→繧偵√�縺｣縺阪ｊ縺ｨ閾ｪ隕壹〒縺阪◆縲�
-`縲This time I was clearly aware that I was inside a dream.`@
+;　その晩。@私はまた夢を見た。@
+`　That night. `@`I saw another dream.`@
+;　今度は、これが夢の中であるということを、はっきりと自覚できた。@
+`　This time I was clearly aware that I was inside a dream.`@
 br
-;縲縺昴�螟｢縺ｮ荳ｭ縺ｧ縲≫ｦ窶ｦ繧､繧ｶ繝翫Α縺ｯ蜀阪�縲∬ｪ槭ｊ謗帙￠縺ｦ縺阪◆縲�
-`縲In that dream, ...Izanami once again came to speak to me.`@
-;縲縺ｾ繧九〒隶�∴繧九ｈ縺�↓縲∽ｸ｡謇九ｒ蜿ｩ縺阪↑縺後ｉ縲�
-`縲As if praising me, he clapped his hands together.`\
+;　その夢の中で、……イザナミは再び、語り掛けてきた。@
+`　In that dream, ...Izanami once again came to speak to me.`@
+;　まるで讃えるように、両手を叩きながら。\
+`　As if praising me, he clapped his hands together.`\
 
 bg black,22
 ;bg rouka_02,0
@@ -1790,49 +1790,49 @@ ld c,IZA_D6,80
 
 bgm1 23
 
-;縲御ｻ頑律縺ｯ騾�￡蟒ｶ縺ｳ縺溘↑縲�縺縺後√∪縺縺ｾ縺縺頑･ｽ縺励∩縺ｯ邨ゅｏ繧峨�繧ｧ縲�譏取律繧ゅ◆縺｣縺ｷ繧翫→讌ｽ縺励∪縺帙※繧ゅｉ縺�°繧峨↑繧｡縲�菴輔＠繧堺ｿｺ縺ｯ縲√け繧ｽ關ｽ縺｡逶ｮ縺ｪ繝､繝�′縲　豎励□縺上↓縺ｪ縺｣縺ｦ騾�￡蝗槭ｋ縺ｮ繧定ｿｽ縺�ｩｰ繧√ｋ縺ｮ縺後∽ｽ輔ｈ繧頑･ｽ縺励＞繧薙□縺九ｉ繧医か�　縲縺上▲縺ｲ縺｣縺ｲ縺｣縺ｲ��ｼ　縲讌ｽ縺励＞繧ｲ繝ｼ繝縺ｮ蟷暮幕縺代□繧｡窶ｦ��ｼ√構
+;「今日は逃げ延びたな。@だが、まだまだお楽しみは終わらねェ。@明日もたっぷりと楽しませてもらうからなァ。@何しろ俺は、クソ落ち目なヤツが、@汗だくになって逃げ回るのを追い詰めるのが、何より楽しいんだからよォ！@　くっひっひっひ！！@　楽しいゲームの幕開けだァ…！！」\
 `"You got away today. `@`But the fun ain't over yet! `@`Let's have lots of fun tomorrow. `@`After all, there's nothing I love more in this world than chasing and catching you hopeless punks dripping ins weat! `@`Ku hi hi hi hi!! `@`The curtains rise on our fun and games!!"`\
 
-;縲後ご繝ｼ繝窶ｦ窶ｦ縲�縺薙ｌ縺ｯ繧ｲ繝ｼ繝縺縺｣縺ｦ險縺��窶ｦ窶ｦ縲ゅ構
+;「ゲーム……。@これはゲームだって言うの……。」\
 `"Games... `@`Are you calling these games...?"`\
 
 cl c,0
 ld r,IZA_D5,23
 
-;縲後≠縺√√◎縺�□縲�縺薙ｌ縺ｯ蜻ｽ繧定ｳｭ縺代◆繧ｲ繝ｼ繝縺｣縺ｦ繧上￠縺�　縲縺昴＠縺ｦ繧ｲ繝ｼ繝縺縺九ｉ縲√Ν繝ｼ繝ｫ繧ゅ≠繧九ゅ后
+;「あぁ、そうだ。@これは命を賭けたゲームってわけだ！@　そしてゲームだから、ルールもある。」@
 `"That's right. `@`In these games, your life is at stake! `@`Because these are games, there are also rules."`@
 br
-;縲繝ｫ繝ｼ繝ｫ縺｣縺ｦ�檗
-`縲Rules?`@`
-;縲縺昴≧諤昴▲縺溽椪髢薙　繧､繧ｶ繝翫Α縺ｯ縺ｫ繧�ｊ縺ｨ隨代＞縲∝哨縺ｫ蜃ｺ縺励※縺�↑縺��縺壹�縺昴�蝠上＞縺ｫ遲斐∴繧九�
-`縲The moment I thought of it, `@`Izanami grinned as if he heard my thoughts even though I said nothing at all.`\
+;　ルールって？@
+`　Rules?`@`
+;　そう思った瞬間、@イザナミはにやりと笑い、口に出していないはずのその問いに答える。\
+`　The moment I thought of it, `@`Izanami grinned as if he heard my thoughts even though I said nothing at all.`\
 
 ld r,IZA_D3,80
 
-縲後ご繝ｼ繝繧呈･ｽ縺励�縺溘ａ縺ｮ縲√♀邏�據縺｣縺ｦ繧上￠縺輔�縺ｾ縺壹�菫ｺ縺ｯ襍ｰ繧峨�繧ｧ縲�縺ｩ繧薙↑縺ｫ譌ｩ豁ｩ縺阪ｒ縺励ｈ縺�→繧ゅ∫ｵｶ蟇ｾ縺ｫ襍ｰ繧峨�繧ｧ縲�菴輔＠繧阪∽ｿｺ縺梧悽豌励〒襍ｰ縺｣縺溘ｉ縲√☆縺舌↓縺雁燕繧峨ｒ謐輔∪縺医ｉ繧後■縺ｾ縺�ｓ縺縺九ｉ縺ｪ繧｡縲�菫ｺ縺悟､ｧ螂ｽ縺阪↑縺ｮ縺ｯ縲√♀蜑阪ｉ縺悟ｿ�ｭｻ縺薙＞縺ｦ騾�￡諠代▲縺ｦ豬ｮ縺九∋繧玖協謔ｶ縺ｮ陦ｨ諠�↑繧薙□縲�縺縺九ｉ縲√♀蜑阪ｉ蟄蝉ｾ帙�雜ｳ縺ｧ繧る�￡繧倶ｽ吝慍縺後≠繧九ｈ縺�↓縲　菫ｺ縺ｯ邨ｶ蟇ｾ縺ｫ襍ｰ繧峨�繧ｧ繧薙□縲ゅ構
+「ゲームを楽しむための、お約束ってわけさ。@まず。@俺は走らねェ。@どんなに早歩きをしようとも、絶対に走らねェ。@何しろ、俺が本気で走ったら、すぐにお前らを捕まえられちまうんだからなァ。@俺が大好きなのは、お前らが必死こいて逃げ惑って浮かべる苦悶の表情なんだ。@だから、お前ら子供の足でも逃げる余地があるように、@俺は絶対に走らねェんだ。」\
 
-;縲遒ｺ縺九↓縺昴≧縺縺｣縺溘�
+;　確かにそうだった。@
 ` That was certainly true.`@
 br
-;縲繧､繧ｶ繝翫Α縺ｯ縺壹▲縺ｨ譌ｩ雜ｳ縺縺｣縺溘�豎ｺ縺励※襍ｰ繧翫�縺励↑縺九▲縺溘�
+;　イザナミはずっと早足だった。@決して走りはしなかった。@
 ` Izanami always walked briskly`@`...but he never ran.`@
 br
-;縲螟ｧ莠ｺ縺ｮ雜ｳ縺縺九ｉ縲∵掠雜ｳ縺ｧ繧よｲｹ譁ｭ縺ｯ蜃ｺ譚･縺ｪ縺��
+;　大人の足だから、早足でも油断は出来ない。@
 ` Because of his adult feet, he couldn't be unprepared to walk fast.`@
-;縲縺ｧ繧ゅ∬ｵｰ縺｣縺ｦ騾�￡繧後�縲∵ｱｺ縺励※霑ｽ縺�ｻ倥°繧後ｋ縺薙→縺ｯ縺ｪ縺��縺昴ｓ縺ｪ騾溷ｺｦ縺縺｣縺溘�
+;　でも、走って逃げれば、決して追い付かれることはない。@そんな速度だった。\
 ` But if he ran,`@` he ran so fast you could never catch up.`\
 ld r,IZA_D2,80
 
-縲後◎縺励※縲√ｂ縺�ｸ縺､縲∫ｴ�據縺吶ｋ縺懊�菫ｺ縺後♀蜑阪�蜻ｽ繧貞･ｪ縺��縺ｯ縲√♀蜑阪ｒ謐輔∪縺医◆譎ゅ□縺代□縲�縺雁燕縺御ｿｺ縺九ｉ騾�￡邯壹￠繧矩剞繧翫∝多縺ｯ螂ｪ繧上�繧ｧ縺ｧ繧�ｋ縲�蜻ｪ縺�□縺ｨ縺倶ｺ区腐縺縺ｨ縺狗羅豌励□縺ｨ縺九�縺昴ｓ縺ｪ繧上￠縺ｮ繧上°繧薙�繧ｧ縺薙→縺ｧ縺ｯ谿ｺ縺輔�繧ｧ縺｣縺ｦ繧上￠縺縲�窶ｦ窶ｦ縺､縺ｾ繧翫�縺雁燕縺檎函縺阪ｋ縺区ｭｻ縺ｬ縺九�縲√♀蜑阪�雜ｳ縺縺代↓縺九°縺｣縺ｦ繧九▲縺ｦ繧ｧ繧上￠縺縲ゅ構
+「そして、もう一つ、約束するぜ。@俺がお前の命を奪うのは、お前を捕まえた時だけだ。@お前が俺から逃げ続ける限り、命は奪わねェでやる。@呪いだとか事故だとか病気だとか。@そんなわけのわかんねェことでは殺さねェってわけだ。@……つまり。@お前が生きるか死ぬかは、お前の足だけにかかってるってェわけだ。」\
 
-;縲後↓縲≫ｦ窶ｦ騾�￡邯壹￠繧矩剞繧翫∫ｧ√�谿ｺ縺輔ｌ縺ｪ縺�ｦ窶ｦ縲ゅ構
+;「に、……逃げ続ける限り、私は殺されない……。」\
 `"As long as I continue to run away, I won't be killed..."`\
 cl r,0
 ld c,IZA_D5,24
 
-;縲後◎縺�＞縺�％縺｣縺溘�縺ｾ繧｡縲√＞縺､譬ｹ繧剃ｸ翫￡繧九°縲∬ｦ狗黄縺｣縺ｦ縺薙→縺縺懊�縺上▲縺上￥縺上￥縺擾ｼ√后
+;「そういうこった。@まァ、いつ根を上げるか、見物ってことだぜ。@くっくくくくく！」@
 `"Heh.`@`Well, whenever you show your true nature, you're really frightening.`@`kukukukuku!"`@
-;縲娯ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲ゅ構
+;「…………………………。」\
 `".........."`\
 ;ld c,IZA_D6,80
 
@@ -1840,26 +1840,26 @@ bg Aka2,22
 
 me2v 17,70
 
-;縲後＞縺�°繧｡縲�菫ｺ縺ｯ螟｢縺倥ｃ縺ｭ繧ｧ縲�迴ｾ螳溘□縲�菫ｺ繧偵＠縺｣縺九ｊ縺ｨ隕九※繧阪�逶ｮ繧帝ｸ繧峨☆縺ｪ縲�逕溘″蟒ｶ縺ｳ縺溘°縺｣縺溘ｉ縲∵ｭｻ縺ｫ迚ｩ迢ゅ＞縺ｧ騾�￡縺ｾ縺上▲縺ｦ縲√♀蜑阪�謔ｪ雜ｳ謗ｻ縺阪ｒ隕九○縺ｦ縺ｿ繧阪�窶ｦ窶ｦ螟ｧ讎ゅ�繝､繝��縲∵怙蠕後↓縺ｯ縺翫°縺励￥縺ｪ縺｣縺ｦ縲　縺薙ｌ縺ｯ螟｢縺縺ｪ繧薙※險縺��縺励※縲∬�繧蛾�￡繧九�繧呈ｭ｢繧√■縺ｾ縺��縺昴ｌ縺倥ｃ縺ゅ�擇逋ｽ縺上�繧ｧ�　縲縺雁燕縺ｯ縲∽ｿｺ縺ｨ縺�≧迴ｾ螳溘ｒ縲√＠縺｣縺九ｊ縺ｨ蜿励￠螳ｹ繧後※縲∵･ｽ縺励∪縺帙※縺上ｌ繧茨ｼ　縲縺上▲縺ｲ縺｣縺ｲ縺｣縺ｲ�√構
+;「いいかァ。@俺は夢じゃねェ。@現実だ。@俺をしっかりと見てろ。@目を逸らすな。@生き延びたかったら、死に物狂いで逃げまくって、お前の悪足掻きを見せてみろ。@……大概のヤツは、最後にはおかしくなって、@これは夢だなんて言い出して、自ら逃げるのを止めちまう。@それじゃあ、面白くねェ！@　お前は、俺という現実を、しっかりと受け容れて、楽しませてくれよ！@　くっひっひっひ！」\
 `"Fine.`@`I'm not a dream.`@`I'm reality.`@`Look at me properly.`@`Don't look away.`@`If you want to live, flee in desparation. Show me your wickedness.`@`
 
-;縲繧上°縺｣縺ｦ繧九�縺薙ｌ縺ｯ螟｢縺ｮ荳ｭ縺縺代ｌ縺ｩ縲≫ｦ窶ｦ螟｢縺倥ｃ縺ｪ縺��
+;　わかってる。@これは夢の中だけれど、……夢じゃない。@
 ` I get it.`@`This is inside a dream...but not a dream.`@
 br
-;縲繧､繧ｶ繝翫Α縺悟､｢縺ｮ荳ｭ縺ｫ迴ｾ繧後※縲∫ｧ√↓隱槭ｊ縺九￠縺ｦ縺�ｋ縺ｮ縺縲�
+;　イザナミが夢の中に現れて、私に語りかけているのだ。\
 ` Izanami has appeared in my dream and is talking to me.`\
 
 ld c,IZA_D8,22
 
-縲瑚ｨ縺｣縺ｦ縺翫￥縺後�繧ゅ＠縲∽ｿｺ縺九ｉ騾�￡繧九◆繧√↓蟄ｦ譬｡繧剃ｼ代ｓ縺繧峨�蜊ｳ蠎ｧ縺ｫ繧ｲ繝ｼ繝縺ｯ縺翫＠縺ｾ縺�〒縲√♀蜑阪ｒ蝨ｰ迯�√ｊ縺ｫ縺励■縺ｾ縺�°繧峨↑縲�菫ｺ縺ｮ繧ｲ繝ｼ繝縺九ｉ騾�￡繧九％縺ｨ縺ｯ險ｱ縺輔�繧ｧ�　縲縺雁燕縺ｯ豈取律縲∬�繧峨�雜ｳ縺ｧ菫ｺ繧呈･ｽ縺励∪縺帙ｋ縺溘ａ縺ｫ蟄ｦ譬｡縺ｸ騾壹≧繧薙□縲�縺帙＞縺懊＞鬚ｨ驍ｪ繧貞ｼ輔°縺ｭ繧ｧ繧医≧縺ｫ豌励ｒ縺､縺代ｋ縺薙▲縺溘↑繧｡窶ｦ�　縲縺上▲縺上￥縺上￥縲√�縺｣縺ｲ繧�▲縺ｲ繧�▲縺ｲ繧�▲縺ｲ繧�ｼ�ｼ�ｼ√構
+「言っておくが。@もし、俺から逃げるために学校を休んだら。@即座にゲームはおしまいで、お前を地獄送りにしちまうからな。@俺のゲームから逃げることは許さねェ！@　お前は毎日、自らの足で俺を楽しませるために学校へ通うんだ。@せいぜい風邪を引かねェように気をつけるこったなァ…！@　くっくくくく、ひっひゃっひゃっひゃっひゃ！！！」\
 
 bg black,2
 ;bg gakkou_01,22
 
-;縲蜻ｽ諛ｸ縺代�縲∵ｭｻ逾槭→縺ｮ鬯ｼ縺斐▲縺薙�縲√◎縺ｮ譌･縺九ｉ豈取律郢ｰ繧雁ｺ�￡繧峨ｌ繧九％縺ｨ縺ｨ縺ｪ縺｣縺溘�
+;　命懸けの、死神との鬼ごっこは、その日から毎日繰り広げられることとなった。@
 ` It was decided that a deadly game of tag would unfold with the shinigami every day from then on.`@
 br
-;縲蛻晄律縺薙◎縲∝�繧√※縺ｨ縺�≧縺薙→繧ゅ≠縺｣縺ｦ豺ｷ荵ｱ縺励◆縺後　莠梧律逶ｮ縺ｯ縲∝､壼ｰ代�隕壽ぁ縺後≠縺｣縺溘�縺ｧ縲√ｏ縺壹°縺ｫ蜀ｷ髱吶〒縺�ｉ繧後◆縲�
+;　初日こそ、初めてということもあって混乱したが、@二日目は、多少の覚悟があったので、わずかに冷静でいられた。\
 ` On the first day, since it was the first time I was confused.`@`On the second day, I had little preparation, and kept my cool only slightly.`\
 bg kyou_02u,22
 
@@ -1867,7 +1867,7 @@ wait 2000
 
 bg kyou_01,23
 
-;縲繧､繧ｶ繝翫Α縺ｨ縺ｮ繧ｲ繝ｼ繝縺ｯ縲∝ｸｰ繧翫�繝帙�繝繝ｫ繝ｼ繝縺檎ｵゅｏ繧九→蜷梧凾縺ｫ蟋九∪繧九�
+;　イザナミとのゲームは、帰りのホームルームが終わると同時に始まる。\
 ` The game with Izanami began and ended at the homeroom.`\
 ld c,IZA_D3,22
 
@@ -1876,53 +1876,53 @@ wait 1000
 se1v 2,100
 ld c,IZA_D6,1
 
-;縲後＆縺√∽ｿｺ縺ｨ縺ｮ繧ｲ繝ｼ繝縺ｮ譎る俣縺縺懊ぉ縲√≠繧�■繧�ｓ繧医か��ｼ√后
+;「さぁ、俺とのゲームの時間だぜェ、あやちゃんよォ！！」@
 `"Well, now it's time for a game with me, Aya-chan!!"`@
 br
-;縲縺昴％縺ｯ縲∵｡闊弱→縺�≧蟾ｨ螟ｧ縺ｪ蟇�ｮ､縲�縺薙％縺九ｉ蜃ｺ繧区婿豕輔�縺ｪ縺��
+;　そこは、校舎という巨大な密室。@ここから出る方法はない。@
 ` There, behind the closed doors of the school,`@`there was no way to get out.`@
-;縲縺薙�逡ｰ荳也阜縺九ｉ隗｣謾ｾ縺輔ｌ繧九∪縺ｧ縲√→縺ｫ縺九￥縲√�縺溘☆繧峨↓豁ｻ逾槭°繧蛾�￡蝗槭ｋ莉悶↑縺��
+;　この異世界から解放されるまで、とにかく、ひたすらに死神から逃げ回る他ない。\
 ` At any rate, I was set on not fleeing from the shinigami to the other world.`\
 bg black,23
 
-;縲遒ｺ縺九↓縲√う繧ｶ繝翫Α縺ｯ繝ｫ繝ｼ繝ｫ縺ｮ騾壹ｊ縲∵ｱｺ縺励※襍ｰ繧翫�縺励↑縺��
+;　確かに、イザナミはルールの通り、決して走りはしない。@
 ` Indeed, as a rule, Izanami never ran.`@
-;縲譌ｩ雜ｳ縺ｧ霑ｽ縺｣縺ｦ縺ｯ譚･繧九′縲∵ｱｺ縺励※襍ｰ繧峨↑縺��
+;　早足で追っては来るが、決して走らない。@
 ` He always walked briskly, but never ran.`@
 br
-;縲縺縺九ｉ縲∬誠縺｡逹縺�※襍ｰ繧後�縲√◎縺ｮ蛻���￡縺ｦ霍晞屬繧帝幕縺上％縺ｨ縺悟�譚･繧九�
+;　だから、落ち着いて走れば、その分、逃げて距離を開くことが出来る。\
 ` So if I stay calm and run, I can make quite some distance between us.`\
 
-;縲諱舌ｉ縺上√メ繝｣繧､繝縺碁ｳｴ繧九∪縺ｧ騾�￡蛻�ｌ縺ｰ蜍昴■縺ｪ縺ｮ縺縲�
+;　恐らく、チャイムが鳴るまで逃げ切れば勝ちなのだ。@
 ` I'd likely win if I kept away until the chime rang.`@
 br
-;縲縺昴＠縺ｦ縺昴�繝√Ε繧､繝縺ｯ�托ｼ呈凾繧呈欠縺吶→魑ｴ繧企涸縺上�
+;　そしてそのチャイムは１２時を指すと鳴り響く。\
 ` Of course, I'm referring to the chime that rings at 12.`\
 bg rouka_04,22
 
-;縲窶ｦ窶ｦ譏ｨ譌･縺ｯ�托ｼ第凾�包ｼ募�縺九ｉ蟋九∪縺｣縺溘′縲∽ｻ頑律縺ｯ�托ｼ第凾�包ｼ仙�縺九ｉ蟋九∪縺｣縺溘�
+;　……昨日は１１時５５分から始まったが、今日は１１時５０分から始まった。@
 ` It rang at 11:55 yesterday, but 11:50 today.`@
 br
-;縲縺､縺ｾ繧翫�ｼ托ｼ仙�髢薙√う繧ｶ繝翫Α縺九ｉ騾�￡蟒ｶ縺ｳ繧後�縺�＞繧上￠縺縲�
+;　つまり、１０分間、イザナミから逃げ延びればいいわけだ。\
 ` In other words, if I make my escape from Izanami for 10 minutes, I should be fine.`\
-;縲騾�￡蝣ｴ縺ｯ縺ｪ縺�°繧峨√ざ繝ｼ繝ｫ縺ｯ縺ｪ縺��
+;　逃げ場はないから、ゴールはない。@
 ` Since there's no escape, there's no gaol.`@
 br
-;縲縺､縺ｾ繧翫∵｡蜀�ｒ縺舌ｋ縺舌ｋ縺ｨ縺壹▲縺ｨ襍ｰ繧雁屓縺｣縺ｦ縺�ｋ縺励°縺ｪ縺��
+;　つまり、校内をぐるぐるとずっと走り回っているしかない。\
 ` In other words, I only have to run around and around the school.`\
 bg rouka_01,23
 wait 500
 bg black,26
 bg kaidan_02,22
 
-;縲�鷹嚴縺ｮ蟒贋ｸ九ｒ襍ｰ繧頑栢縺代�ｼ帝嚴縺ｸ荳翫′繧翫∝他蜷ｸ繧呈紛縺医ｋ縲�
+;　１階の廊下を走り抜け、２階へ上がり、呼吸を整える。@
 ` I run through the corridor on the first floor, up to the second floor and take a breath.`@
-;縲繧､繧ｶ繝翫Α縺碁嚴谿ｵ縺ｮ荳九↓繧�▲縺ｦ譚･縺溘�繧定ｦ句ｱ翫￠縺ｦ縺九ｉ縲�ｼ帝嚴縺ｮ蟒贋ｸ九ｒ襍ｰ繧頑栢縺代ｋ縲�
+;　イザナミが階段の下にやって来たのを見届けてから、２階の廊下を走り抜ける。\
 ` After reassuring myself that Izanami was at the bottom of the staircase, I ran through the second floor corridor.`\
 bg black,24
 bg rouka_03,24
 
-;縲縺昴＠縺ｦ縲√◎縺ｮ蜈医�髫取ｮｵ繧剃ｸ九ｊ縺ｦ縲∝�縺ｳ縲√う繧ｶ繝翫Α縺碁嚴谿ｵ縺ｫ霎ｿ繧顔捩縺上�繧貞ｾ�■縲∝他蜷ｸ繧呈紛縺医ｋ縲�
+;　そして、その先の階段を下りて、再び、イザナミが階段に辿り着くのを待ち、呼吸を整える。\
 ` Then, at the stairs beyond that, I wait again for Izanami to arrive, and take a breath.`\
 bg black,23
 bg kaidan_02,23
@@ -1930,61 +1930,61 @@ wait 500
 bg black,23
 bg rouka_02,23
 
-;縲縺昴＠縺ｦ蜀阪��鷹嚴縺ｮ蟒贋ｸ九ｒ鬧�￠謚懊￠縲�嚴谿ｵ繧剃ｸ翫ｊ窶ｦ窶ｦ縲√ｒ蟒ｶ縲�→繝√Ε繧､繝縺碁ｳｴ繧九∪縺ｧ邯壹￠繧後�縺�＞縺ｮ縺縲�
+;　そして再び１階の廊下を駆け抜け、階段を上り……、を延々とチャイムが鳴るまで続ければいいのだ。@
 ` Then I go to the first floor corridor again, and climb the staircase...repeating endlessly until the chime rings.`@
 br
-;縲縺昴ｓ縺ｪ繧ｷ繝ｳ繝励Ν縺ｪ鬯ｼ縺斐▲縺薙〒縺ゅｋ縺薙→繧堤炊隗｣縺吶ｋ縺ｨ縲√＆繧峨↓蜀ｷ髱吶＆繧貞叙繧頑綾縺吶％縺ｨ縺悟�譚･縺溘�
+;　そんなシンプルな鬼ごっこであることを理解すると、さらに冷静さを取り戻すことが出来た。\
 ` Once I understood how simple a game of tag it was, I was able to pull myself together.`\
-;縲窶ｦ窶ｦ遒ｺ縺九↓縲∵黒縺ｾ繧後�諱舌ｍ縺励＞蝨ｰ迯�′蠕�▲縺ｦ縺�ｋ縲�
+;　……確かに、捕まれば恐ろしい地獄が待っている。@
 ` Of course, hell was waiting if I got caught.`@
-;縲縺励°縺励∵黒縺ｾ繧峨↑縺�ｈ縺�↓縺吶ｋ縺薙→縺ｯ縲∵ｱｺ縺励※髮｣縺励＞縺薙→縺倥ｃ縺ｪ縺��
+;　しかし、捕まらないようにすることは、決して難しいことじゃない。@
 ` But it was easy to not get caught.`@
 br
-;縲縺溘□縺薙≧縺励※縺舌ｋ縺舌ｋ縺ｨ縲∝酔縺伜ｻ贋ｸ九ｒ縺壹▲縺ｨ襍ｰ繧顔ｶ壹￠縺ｦ縺�ｌ縺ｰ縺�＞縺縺代□縲�
+;　ただこうしてぐるぐると、同じ廊下をずっと走り続けていればいいだけだ。\
 ` So just going round and round these stairs was good enought.`@
 bg black,23
 bg rouka_03,23
 
-;縲縺昴ｌ繧ゅ√′繧縺励ｃ繧峨↓蜈ｨ騾溷鴨縺ｧ襍ｰ繧句ｿ�ｦ√�縺ｪ縺��
+;　それも、がむしゃらに全速力で走る必要はない。@
 ` And I don't even need to run at full speed.`@
-;縲繧ｸ繝ｧ繧ｮ繝ｳ繧ｰ縺ｮ繧医≧縺ｫ霆ｽ縺剰ｵｰ縺｣縺ｦ騾�￡縺ｦ縺ｯ縲∬ｿ台ｻ倥＞縺ｦ縺上ｋ縺ｾ縺ｧ莨代ｓ縺ｧ縲√◎繧後°繧芽ｵｰ繧九�郢ｰ繧願ｿ斐＠縲�
+;　ジョギングのように軽く走って逃げては、近付いてくるまで休んで、それから走るの繰り返し。@
 ` I could jog lightly away, rest until he approached and then go back to running.`@
-;縲縺昴ｌ繧偵√§縺｣縺ｨ蠢�ｒ關ｽ縺｡逹縺代※縲√⊇繧薙��托ｼ仙�髢薙∫ｹｰ繧願ｿ斐☆縺縺鯛ｦ窶ｦ窶ｦ縲�
+;　それを、じっと心を落ち着けて、ほんの１０分間、繰り返すだけ………。@
 ` To calm my mind I'd repeat this every ten minutes...`@
 br
-;縲縺昴≧縲∝ｿ��荳ｭ縺ｧ菴募ｺｦ繧ょ臓縺阪√％繧後�髮｣縺励＞縺薙→縺ｧ縺ｯ縺ｪ縺�ｓ縺縺ｨ縲∬�蛻�↓菫｡縺倩ｾｼ縺ｾ縺帙ｈ縺�→縺吶ｋ縲�
+;　そう、心の中で何度も呟き、これは難しいことではないんだと、自分に信じ込ませようとする。\
 ` Yes, no matter how much I'd mutter that this wasn't difficult, I tried to convince myself.`\
 bg black,22
 
-;縲窶ｦ窶ｦ菫｡縺倩ｾｼ縺ｾ縺帙ｈ縺�→�檗
+;　……信じ込ませようと？@
 ` ...Did I really believe it?`@
 br
-;縲縺｡繧�▲縺ｨ襍ｰ縺｣縺ｦ縺ｯ莨代∩縲�縺｡繧�▲縺ｨ襍ｰ縺｣縺ｦ縺ｯ莨代∩縲�窶ｦ窶ｦ縺昴ｌ縺縺代�郢ｰ繧願ｿ斐＠縺倥ｃ縺ｪ縺�°縲�縺昴ｌ縺ｮ菴輔′縲�屮縺励＞縺薙→縺ｪ繧薙□窶ｦ�歃
+;　ちょっと走っては休み。@ちょっと走っては休み。@……それだけの繰り返しじゃないか。@それの何が、難しいことなんだ…？\
 ` Run a little, rest a little.`@`Run a little, rest a little.`@`Wasn't that just repetition?`@`What was difficult about that...?`\
-縲窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ譛ｬ蠖薙�縲√ｏ縺九▲縺ｦ繧九�
+　……………本当は、わかってる。@
 ` ......I truly understood.`@
 br
-;縲蟆丈ｼ第ｭ｢繧呈検繧√ｋ縺ｨ縺ｯ縺�∴縲≫ｦ窶ｦ�托ｼ仙�髢薙∬ｵｰ繧顔ｶ壹￠繧九→縺�≧縺ｮ縺ｯ縲√ｄ縺ｯ繧顔夢繧後ｋ縺薙→縺ｪ縺ｮ縺縲�
+;　小休止を挟めるとはいえ、……１０分間、走り続けるというのは、やはり疲れることなのだ。\
 ` Speaking of resting...keeping running for ten minutes really was tiring.`\
 bg kaidan_01,22
 ld c,AYA_D7a,24
 ld c,AYA_D8a,80
 
-;縲窶ｦ窶ｦ霆｢縺ｶ縺九ｂ縺励ｌ縺ｪ縺�＠縲∽ｸ�ｸ縲∬ｶｳ繧呈賢縺上ｈ縺�↑縺薙→縺ｧ繧ゅ≠繧後�縲∽ｸ蟾ｻ縺ｮ邨ゅｏ繧翫□縲�
+;　……転ぶかもしれないし、万一、足を挫くようなことでもあれば、一巻の終わりだ。@
 ` I might fall down, or sprain my foot, and in such a case, that'll be the end of the line for me.`@
 br
-縲縺昴ｌ繧呈э隴倥☆繧後�縺吶ｋ縺ｻ縺ｩ縲�嚴谿ｵ繧帝ｧ�￠荳九ｊ繧区凾縲　諷朱㍾縺ｫ荳九ｊ縺溘＞豌玲戟縺｡縺ｨ縲�ｧ�￠荳九ｊ縺溘＞豌玲戟縺｡縺後○繧√℃蜷医▲縺ｦ縺弱％縺｡縺ｪ縺上↑繧九�繧呈─縺倥◆縲�
+　それを意識すればするほど、階段を駆け下りる時、@慎重に下りたい気持ちと、駆け下りたい気持ちがせめぎ合ってぎこちなくなるのを感じた。\
 
-;縲縺薙ｌ縺ｯ邁｡蜊倥↑縺薙→縺ｪ繧薙□縺ｨ菫｡縺倩ｾｼ繧ゅ≧縺ｨ縺吶ｋ蠢�ｂ縲　�大��大�邨後▽豈弱↓繝｡繝�く縺悟翁縺偵∝ｿ�′辟ｦ縺｣縺ｦ縺上ｋ縲�
+;　これは簡単なことなんだと信じ込もうとする心も、@１分１分経つ毎にメッキが剥げ、心が焦ってくる。\
 ` No matter how much I reassure myself that this is easy,`@`with each passing minute my mind becomes impatient and rushed.`\
 ld c,AYA_D7a,80
 
-;縲繧ゅ▲縺ｨ繧ゅ▲縺ｨ縲�□縺上∪縺ｧ譌ｩ縺城�￡縺滓婿縺後＞縺��縺ｧ縺ｯ縺ｪ縺�°縲�
+;　もっともっと、遠くまで早く逃げた方がいいのではないか。@
 ` Moreso, wouldn't a way to run far away be good?`@
 br
-;縲縺�ｄ縺�ｄ縲√◎繧薙↑辟ｦ縺｣縺ｦ襍ｰ縺｣縺ｦ諤ｪ謌代〒繧ゅ＠縺溘ｉ縺翫＠縺ｾ縺�□縲�繧ゅ▲縺ｨ蜀ｷ髱吶↓繧�▲縺上ｊ縺ｨ襍ｰ繧後�縺�＞縺ｮ縺ｧ縺ｯ縺ｪ縺�°縲�
+;　いやいや、そんな焦って走って怪我でもしたらおしまいだ。@もっと冷静にゆっくりと走ればいいのではないか。\
 ` No, no. Surely I'd doom myself to injury with such a way.`@`Would running slowly and calmly be better?`\
-縲縺昴ｌ縺ｫ蜉縺医　縺ｩ縺�＠縺ｦ縺薙ｓ縺ｪ蠎�､ｧ縺ｪ蟄ｦ譬｡縺ｮ荳ｭ縺ｧ縲∬�蛻�□縺代′豁ｻ逾槭↓迢吶ｏ繧後　縺薙ｓ縺ｪ逶ｮ縺ｫ驕ｭ繧上↑縺代ｌ縺ｰ縺ｪ繧峨↑縺��縺九→縺�≧縲　謔斐＠縺輔↓繧ゆｼｼ縺滓�繧翫ｂ隕壹∴縺溘�
+　それに加え、@どうしてこんな広大な学校の中で、自分だけが死神に狙われ、@こんな目に遭わなければならないのかという、@悔しさにも似た憤りも覚えた。\
 
 bg black,23
 bg rouka_02,23
@@ -1992,56 +1992,56 @@ wait 500
 ld c,IZA_D5,22
 ld c,IZA_D6,80
 
-縲讒倥�↑諢滓ュ縺ｧ鬆ｭ縺後＃縺｣縺｡繧�↓縺ｪ繧九�蟆代＠縺ｧ繧ゆｼ代∩驕弱℃繧九→縲√≠縺｣縺ｨ縺�≧髢薙↓繧､繧ｶ繝翫Α縺ｯ霑台ｻ倥＞縺ｦ縺上ｋ縲�
+　様々な感情で頭がごっちゃになる。@少しでも休み過ぎると、あっという間にイザナミは近付いてくる。\
 
 bg black,23
 bg rouka_04,23
 
-縲騾比ｸｭ縲∵蕗螳､縺ｮ譎りｨ医ｒ縺｡繧峨ｊ縺ｨ隕九◆縲�
+　途中、教室の時計をちらりと見た。@
 br
-縲縺ゅ→�大�縲�螟ｧ荳亥､ｫ縲�蝠城｡後↑縺城�￡蛻�ｌ繧九�
-縲菴灘鴨繧ょ�蛻��豺ｷ荵ｱ繧ゅ＠縺ｦ縺ｪ縺��窶ｦ窶ｦ逕溘″蟒ｶ縺ｳ縺溘�
+　あと１分。@大丈夫。@問題なく逃げ切れる。@
+　体力も充分。@混乱もしてない。@……生き延びた。\
 
 ;se1 33
 
-縲縺昴≧諤昴▲縺滄皮ｫｯ縲≫ｦ窶ｦ蠢倥ｌ縺ｦ縺�◆縲√≠繧矩＆蜥梧─縺ｨ諱先悶′陂�ｋ縲�
+　そう思った途端、……忘れていた、ある違和感と恐怖が蘇る。@
 br
-縲縺昴ｌ縺ｯ縲∵乖譌･縺ｯ�托ｼ第凾�包ｼ募�縺九ｉ蟋九∪縺｣縺溘�縺ｫ縲∽ｻ頑律縺ｯ�托ｼ第凾�包ｼ仙�縺九ｉ蟋九∪縺｣縺溘→縺�≧縺薙→縲�
+　それは、昨日は１１時５５分から始まったのに、今日は１１時５０分から始まったということ。\
 
 mbg black,22
 
-縲窶ｦ窶ｦ縺溘°縺鯉ｼ募�縲�縺輔ｌ縺ｩ�募�縲�
+　……たかが５分。@されど５分。@
 br
-縲縺ｾ縺輔°縲≫ｦ窶ｦ窶ｦ豈取律縲√メ繝｣繧､繝縺後↑繧九∪縺ｧ縺ｮ譎る俣縺悟ｻｶ縺ｳ縺ｦ縺�￥縺ｮ縺ｧ縺ｯ縺ｪ縺�□繧阪≧縺九�
+　まさか、………毎日、チャイムがなるまでの時間が延びていくのではないだろうか。\
 
-縲縺ｻ繧薙��托ｼ仙�髢薙�ｧ�￠蝗槭▲縺溘□縺代〒縲√％繧後□縺醍夢繧後※縺�ｋ縺ｮ縺縲�
+　ほんの１０分間、駆け回っただけで、これだけ疲れているのだ。@
 br
-縲繧ゅ＠繧ゅ∵ｯ取律譎る俣縺悟ｰ代＠縺壹▽蟒ｶ髟ｷ縺励※縺�″縲≫ｦ窶ｦ繧�′縺ｦ縺ｯ縲�ｼ第凾髢薙ｄ�呈凾髢薙↓繧り�縺｣縺溘ｉ縲�
-縲窶ｦ窶ｦ窶ｦ縺昴ｌ縺ｯ諱舌ｍ縺励＞諠ｳ蜒上□縺｣縺溘�
+　もしも、毎日時間が少しずつ延長していき、……やがては、１時間や２時間にも至ったら。@
+　………それは恐ろしい想像だった。\
 
 mcbg 22
 
-縲縺昴＠縺ｦ縲∵凾險医��先凾繧呈欠縺吶�
+　そして、時計は０時を指す。@
 br
 se3v 66,100
 se1v 69,100
 wait 200
 se2v 69,85
 
-縲譬｡闊惹ｸｭ縺ｫ魑ｴ繧企涸縺上メ繝｣繧､繝縺ｮ髻ｳ縲�
+　校舎中に鳴り響くチャイムの音。\
 
 bg black,24
 bg rouka_03,0
 ld c,IZA_D2,24
 ld c,IZA_D3,80
 
-縲後→繧翫≠縺医★莉頑律繧ゅ√♀蜑阪�蜍昴■縺ｮ繧医≧縺縺ｪ繧｡縲�縺上▲縺ｲ縺｣縺ｲ窶ｦ��ｼ　縲譏取律繧よ･ｽ縺励∩縺ｫ縺励※繧九●繧ｧ�檗縲縺帙＞縺懊＞縲√ｈ縺上�繝�し繝ｼ繧ｸ縺ｧ繧ゅ＠縺ｦ縺翫￥繧薙□縺ｪ繧｡縲�遲玖ｉ逞帙〒襍ｰ繧後�繧ｧ縺ｪ繧薙※縲∬�驢偵ａ縺ｫ繧らｨ九′縺ゅｋ縺懊ぉ窶ｦ��ｼ　/
+「とりあえず今日も、お前の勝ちのようだなァ。@くっひっひ…！！@　明日も楽しみにしてるぜェ？@　せいぜい、よくマッサージでもしておくんだなァ。@筋肉痛で走れねェなんて、興醒めにも程があるぜェ…！！@/
 
 se3v 84,100
 
-縲縺ｲ縺｣縺ｲ繧�▲縺ｲ繧�▲縺ｲ繧�▲縺ｲ繧�ｼ�ｼ�ｼ√后
+　ひっひゃっひゃっひゃっひゃ！！！」@
 br
-縲繧､繧ｶ繝翫Α縺ｮ隨代＞螢ｰ縺ｨ逵ｩ縺励＞蜈峨〒縲∝�縺ｦ縺碁｣ｲ縺ｿ霎ｼ縺ｾ繧後※豸医∴縺ｦ縺�￥窶ｦ窶ｦ縲�
+　イザナミの笑い声と眩しい光で、全てが飲み込まれて消えていく……。\
 
 se1 22
 
@@ -2055,17 +2055,17 @@ me1v 16,50
 
 bg mansion_01,2
 
-縲謌代↓霑斐▲縺滓凾縲�縺昴％縺ｯ譏ｨ譌･縺ｨ蜷後§縺ｫ縲∬�螳��縺ゅｋ繝槭Φ繧ｷ繝ｧ繝ｳ縺ｮ蜑阪□縺｣縺溪ｦ窶ｦ縲�
+　我に返った時。@そこは昨日と同じに、自宅のあるマンションの前だった……。\
 
 
-;笆縺ゅｄ縺ｮ閾ｪ螳､
+;■あやの自室
 
 bg black,22
 
-縲窶ｦ窶ｦ縺薙ｌ縺悟､｢縺ｧ縺ゅｋ縺ｨ縲�菫｡縺倥ｋ縺薙→縺悟�譚･縺溘↑繧峨�
+　……これが夢であると。@信じることが出来たなら。@
 br
-縲縺励°縺励√う繧ｶ繝翫Α縺悟､｢縺ｮ荳ｭ縺ｧ險縺｣縺溘ｈ縺�↓縲�窶ｦ窶ｦ縺薙ｌ縺ｯ迴ｾ螳溘↑縺ｮ縺縲�
-縲諱舌ｉ縺上�縲∵�譌･繧よ�蠕梧律繧ゅ∝ｸｰ繧翫�繝帙�繝繝ｫ繝ｼ繝縺檎ｵゅｏ繧句ｺｦ縺ｫ縲　縺ゅ�逡ｰ荳也阜縺ｧ豁ｻ逾槭→蜻ｽ諛ｸ縺代�鬯ｼ縺斐▲縺薙ｒ縺吶ｋ縺薙→縺ｫ縺ｪ繧九�縺縲�
+　しかし、イザナミが夢の中で言ったように。@……これは現実なのだ。@
+　恐らくは、明日も明後日も、帰りのホームルームが終わる度に、@あの異世界で死神と命懸けの鬼ごっこをすることになるのだ。\
 
 fede 0,1000
 E_A
@@ -2074,50 +2074,50 @@ bg ie_04,22
 
 me1v 35,50
 
-縲窶ｦ窶ｦ讓ｪ縺ｫ縺ｪ縺｣縺ｦ螟ｩ莠輔ｒ隕倶ｸ翫￡繧九�
+　……横になって天井を見上げる。\
 
-縲逕溘″縺ｦ縺�ｋ縺薙→縺ｫ諢丞袖繧定ｦ句�縺帙★縲∵ｭｻ繧帝｡倥▲縺溘％縺ｨ縺御ｽ募ｺｦ繧ゅ≠縺｣縺溘�
-縲縺励°縺励∝ｰ代↑縺上→繧ゅ≠縺ｮ豁ｻ逾槭�荳弱∴繧区ｭｻ縺ｯ縲　遘√′譛帙ｓ縺ｧ縺�◆繧ゅ�縺ｨ縺ｯ菴吶ｊ縺ｫ遞矩□縺�∵＄繧阪＠縺上♀縺槭∪縺励＞繧ゅ�縺縺｣縺溘�
+　生きていることに意味を見出せず、死を願ったことが何度もあった。@
+　しかし、少なくともあの死神の与える死は、@私が望んでいたものとは余りに程遠い、恐ろしくおぞましいものだった。@
 br
-縲縺昴ｌ縺悟ｫ後□縺九ｉ縲∫ｧ√�騾�￡蟒ｶ縺ｳ縲∫函縺榊ｻｶ縺ｳ縺溘�
+　それが嫌だから、私は逃げ延び、生き延びた。\
 
-縲逕溘″蟒ｶ縺ｳ縺溪ｦ�檗
-縲逕溘″繧九％縺ｨ縺ｫ縲∽ｽ輔�萓｡蛟､繧りｦ句�縺帙↑縺��縺ｫ窶ｦ�檗
+　生き延びた…？@
+　生きることに、何の価値も見出せないのに…？@
 br
-縲窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲�
+　………………………。\
 
 bg black,22
 mono 1
 bg rouka_03,0
 ld c,IZA_D6,22
 
-縲縺ｻ繧薙�謨ｰ蛻�俣縺ｨ縺ｯ縺�∴縲∵ｭｻ逾槭→縺ｮ豁ｻ髣倥ｒ逕溘″蟒ｶ縺ｳ縺ｦ蠕励◆縲≫ｦ窶ｦ逕溘�荳迸ｬ縲�
+　ほんの数分間とはいえ、死神との死闘を生き延びて得た、……生の一瞬。@
 br
-縲縺励°縺励√◎縺ｮ荳迸ｬ縺ｫ縺ｯ縲∽ｽ輔�諢丞袖繧ゅ↑縺��
+　しかし、その一瞬には、何の意味もない。\
 
-縲遘√↓縺ｯ縲∵ｭｻ逾槭�繧ｲ繝ｼ繝繧貞享縺｡謚懊＞縺ｦ繧ゅ∽ｽ輔�蝟懊�繧ゅ↑縺代ｌ縺ｰ縲∽ｽ輔ｂ蠕励ｋ繧ゅ�縺ｪ縺ｩ縺ｪ縺��
+　私には、死神のゲームを勝ち抜いても、何の喜びもなければ、何も得るものなどない。@
 br
-縲縺溘□縲√≠縺ｮ蝨ｰ迯�□縺代�雖後〒縲��￡蟒ｶ縺ｳ縺溘□縺代�
-縲窶ｦ窶ｦ鄂ｰ繧ｲ繝ｼ繝縺縺代≠縺｣縺ｦ縲∽ｽ輔�縺碑､堤ｾ弱ｂ縺ｪ縺�ご繝ｼ繝縺ｨ縺�≧繧上￠縺縲�
+　ただ、あの地獄だけは嫌で、逃げ延びただけ。@
+　……罰ゲームだけあって、何のご褒美もないゲームというわけだ。\
 
 bg black,22
 mono 0
 
-縲縺､縺ｾ繧翫≫ｦ窶ｦ菴輔�諢丞袖繧ゅ↑縺�ご繝ｼ繝縲�
-縲繧ゅ＠縲√≠縺ｮ蝨ｰ迯�ｒ莠医ａ隕九○繧峨ｌ縺ｦ縺�↑縺九▲縺溘↑繧峨　遘√�縺阪▲縺ｨ蛻晄律縺ｫ縲∬�繧蛾ｲ繧薙〒蜻ｽ繧呈兜縺貞�縺励◆縺繧阪≧縲�
+　つまり、……何の意味もないゲーム。@
+　もし、あの地獄を予め見せられていなかったなら、@私はきっと初日に、自ら進んで命を投げ出しただろう。@
 br
-縲窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲�
+　………………………。\
 
 bg Different_spiral_1a,22
 
-縲逕溘″繧九％縺ｨ縺ｫ繧ゆｾ｡蛟､縺後↑縺上�
+　生きることにも価値がなく。@
 br
-縲豁ｻ縺ｬ縺薙→縺ｫ繧ゆｾ｡蛟､縺後↑縺��
+　死ぬことにも価値がない。\
 
-縲邨仙ｱ縲�窶ｦ窶ｦ豁ｻ逾槭→縺ｮ謾ｾ隱ｲ蠕後�繧ｲ繝ｼ繝繧ゅ∫┌諢丞袖縲≫ｦ窶ｦ辟｡萓｡蛟､縲�
+　結局。@……死神との放課後のゲームも、無意味、……無価値。@
 br
-縲縺溘□縲√≠縺ｮ蝨ｰ迯�ｒ諡貞凄縺吶ｋ縺溘ａ縺縺代↓縲≫ｦ窶ｦ譬｡蜀�ｒ蟒ｶ縲�→襍ｰ繧雁屓繧峨○繧峨ｌ繧九∬協陦後�
-縲縺昴ｌ繧偵√＞縺､縺ｾ縺ｧ繧ゅ＞縺､縺ｾ縺ｧ繧よｰｸ驕縺ｫ縲�
+　ただ、あの地獄を拒否するためだけに、……校内を延々と走り回らせられる、苦行。@
+　それを、いつまでもいつまでも永遠に。\
 
 bg black,22
 
@@ -2128,33 +2128,33 @@ mono 1
 bg kaidan_03,22
 
 
-縲窶ｦ窶ｦ�托ｼ馴嚴谿ｵ繧定ｸ上ｓ縺譎らせ縺ｧ縲�遘√�繧ゅ≧蝨ｰ迯�↓縺�ｋ縺ｮ縺縲∝､壼�縲�
+　……１３階段を踏んだ時点で。@私はもう地獄にいるのだ、多分。@
 br
-縲縺ゅ�縺翫◇縺ｾ縺励＞閭�｢九�蝨ｰ迯�→縲∵｡蜀�ｒ襍ｰ繧雁屓繧峨○繧峨ｌ繧句慍迯��
-縲縺昴��偵▽縺ｮ縺ｩ縺｡繧峨°繧偵�∈縺ｰ縺輔ｌ縺ｦ縺�ｋ縺縺代↑縺ｮ縺縲�
+　あのおぞましい胃袋の地獄と、校内を走り回らせられる地獄。@
+　その２つのどちらかを、選ばされているだけなのだ。\
 
 ;ld c,AYA_D7a,80
 
-縲窶ｦ窶ｦ遘√�縲√＞縺､縺ｾ縺ｧ縺ゅ�蝨ｰ迯��繧ｲ繝ｼ繝繧堤ｶ壹￠縺輔○繧峨ｌ繧九�縺繧阪≧縲�
+　……私は、いつまであの地獄のゲームを続けさせられるのだろう。@
 br
-縲繧ｲ繝ｼ繝縺ｪ繧峨∫ｵゅｏ繧翫ｄ繧ｴ繝ｼ繝ｫ縺後≠繧九∋縺阪〒縺ｯ縺ｪ縺��縺九�
+　ゲームなら、終わりやゴールがあるべきではないのか。\
 
 ;ld c,AYA_D4a,80
 
 bg black,22
 mono 0
 
-縲遘√�逕溘↓縺ｯ縲∫｢ｺ縺九↓萓｡蛟､縺ｯ縺ｪ縺�□繧阪≧縲�
+　私の生には、確かに価値はないだろう。@
 br
-縲縺ｧ繧ゅ∵悍繧蠖｢縺ｧ縺ｮ豁ｻ繧呈ｱゅａ繧区ｨｩ蛻ｩ縺ｯ縲∫ｧ√↓縺縺｣縺ｦ縺ゅｋ縺ｯ縺壹�
+　でも、望む形での死を求める権利は、私にだってあるはず。\
 
 bg ie_04,22
 
-縲縺�▽縺玖ｧ｣縺代ｋ繧医≧縺ｫ逵繧九ｈ縺�↓豁ｻ縺ｬ縺溘ａ縺ｫ縲≫ｦ窶ｦ窶ｦ莉翫ｒ逕溘″繧九�
+　いつか解けるように眠るように死ぬために、………今を生きる。@
 br
-縲豁ｻ縺ｬ縺溘ａ縺ｫ縲∫函縺阪ｋ縲�
+　死ぬために、生きる。@
 br
-縲窶ｦ窶ｦ縺昴ｌ繧ゅ∽ｽ輔→繧ら┌諢丞袖縺ｪ縺薙→縺ｫ諤昴∴縺溘�
+　……それも、何とも無意味なことに思えた。\
 
 bg black,2
 fede 0,2000
@@ -2167,40 +2167,40 @@ bg rouka_04,22
 
 bgm1 15
 
-縲縺昴ｌ縺九ｉ縲∵叛隱ｲ蠕後�繧ｲ繝ｼ繝縺ｯ蟄ｦ譬｡縺後≠繧矩剞繧翫∵ｯ取律邯壹＞縺溘�
-縲豈取律縲∝ｰ代＠縺壹▽縲��￡蟒ｶ縺ｳ繧九◆繧√�譎る俣縺ｯ蠅励∴縺ｦ縺�▲縺溘�
+　それから、放課後のゲームは学校がある限り、毎日続いた。@
+　毎日、少しずつ、逃げ延びるための時間は増えていった。@
 br
-縲縺溘∪縺ｫ豌礼ｴ帙ｌ縺ｫ貂帙ｋ譌･繧ゅ≠縺｣縺溘′縲√◎繧後�荳譌･豈弱�隱､蟾ｮ縺ｮ遽�峇縲�
-縲譌･縲�∫捩螳溘↓縺昴�譎る俣繝弱Ν繝槭�蟒ｶ縺ｳ邯壹￠縺ｦ縺�▲縺溪ｦ窶ｦ縲�
+　たまに気紛れに減る日もあったが、それは一日毎の誤差の範囲。@
+　日々、着実にその時間ノルマは延び続けていった……。\
 
 bg black,23
 bg rouka_02,0
 ld c,AYA_D6a,23
 
-縲�鷹嚴縺ｨ�帝嚴縺ｮ蟒贋ｸ九ｒ縲√→縺ｫ縺九￥縺舌ｋ縺舌ｋ襍ｰ繧顔ｶ壹￠繧九□縺代�
-縲縺昴ｌ繧偵メ繝｣繧､繝縺碁ｳｴ繧九∪縺ｧ縺ｲ縺溘☆繧峨↓郢ｰ繧願ｿ斐☆縲�
+　１階と２階の廊下を、とにかくぐるぐる走り続けるだけ。@
+　それをチャイムが鳴るまでひたすらに繰り返す。@
 br
-縲豕｣縺薙≧縺悟繭縺薙≧縺後√◎繧後＠縺狗函縺肴ｮ九ｋ譁ｹ豕輔�縺ｪ縺��
+　泣こうが喚こうが、それしか生き残る方法はない。\
 
 bg black,23
 bg rouka_01,23
 
-縲縺縺九ｉ縺薙◎縲∝ｿ�ｒ谿ｺ縺励※縲√◆縺鮟吶�→襍ｰ縺｣縺ｦ縺ｯ莨代∩縲√∪縺溯ｵｰ縺｣縺溘�
+　だからこそ、心を殺して、ただ黙々と走っては休み、また走った。@
 br
-縲�鷹ｱ髢薙ｒ雜�∴縺滄�↓縺ｯ縲∽ｽ楢ご縺ｮ譎る俣縺ｫ蛹ｹ謨ｵ縺吶ｋ縺上ｉ縺�↓襍ｰ繧雁屓繧峨＆繧後ｋ繧医≧縺ｫ縺ｪ縺｣縺ｦ縺�◆縲�
+　１週間を超えた頃には、体育の時間に匹敵するくらいに走り回らされるようになっていた。\
 
-縲窶ｦ窶ｦ繧ゅ≧縲∽ｽ薙′縺弱ｊ縺弱ｊ縺ｮ髯千阜縺縺｣縺溘�
+　……もう、体がぎりぎりの限界だった。@
 br
-縲蜈ｨ霄ｫ縲∵ｱ励□縺上〒縲∬ぜ繧ょｿ�∮繧ら�逋ｺ縺励◎縺��
-縲譛蠕後�縲∬х閻ｹ繧呈款縺輔∴縺ｪ縺後ｉ縲√ｈ繧阪ａ縺上ｈ縺�↓縺励°襍ｰ繧後↑縺九▲縺溘�
+　全身、汗だくで、肺も心臓も爆発しそう。@
+　最後は、脇腹を押さえながら、よろめくようにしか走れなかった。\
 
 bg black,2
 
-縲窶ｦ窶ｦ窶ｦ縺ｾ縺縺ｾ縺縲∵凾髢薙�蟒ｶ縺ｳ繧九□繧阪≧縲�
-縲繧�′縺ｦ縺ｯ�第凾髢薙≫ｦ窶ｦ縺�ｄ縲√◎繧御ｻ･荳翫ｒ襍ｰ繧峨＆繧後ｋ縺ｫ驕輔＞縺ｪ縺��
+　………まだまだ、時間は延びるだろう。@
+　やがては１時間、……いや、それ以上を走らされるに違いない。@
 br
-縲荳榊庄閭ｽ縺縲�縺昴ｓ縺ｪ縺ｫ繧りｵｰ繧顔ｶ壹￠縺ｦ縺�ｉ繧後ｋ繧ゅ�縺九�
-縲縺薙�縺ｾ縺ｾ譎る俣縺悟ｻｶ縲�→蟒ｶ縺ｳ邯壹￠繧後�縲≫ｦ窶ｦ窶ｦ繧�′縺ｦ邨ｶ蟇ｾ縲≫ｦ窶ｦ遘√�谿ｺ縺輔ｌ繧九�
+　不可能だ。@そんなにも走り続けていられるものか。@
+　このまま時間が延々と延び続ければ、………やがて絶対、……私は殺される。\
 
 bg black,2
 
@@ -2209,7 +2209,7 @@ E_A
 se1 69
 wait 2000
 
-;笆譬｡闊手｣擾ｽ槭＆縺上�縺励ｓ縺ｮ逾
+;■校舎裏～さくのしんの祠
 bg gakkou_02,2
 
 me1v 24,50
@@ -2217,15 +2217,15 @@ wait 2000
 
 bg kyou_04,2
 
-縲縺昴ｌ縺ｯ縲∽ｻ･蜑阪∬◇縺�◆縺ゅｋ蝎ゅ□縺｣縺溘�
+　それは、以前、聞いたある噂だった。@
 br
-縲縺ｩ縺薙°縺ｮ繧ｯ繝ｩ繧ｹ縺ｫ縲�怺諢溷ｰ大･ｳ縺後＞繧九√→縺�≧縺ｮ縺縲�
-縲縺昴�蟄舌�蟷ｽ髴翫ｄ螯匁ｪ縺ｫ隧ｳ縺励￥縲∫音縺ｫ蟄ｦ譬｡縺ｮ蜈ｫ荳肴晁ｭｰ縺ｫ繧らｲｾ騾壹＠縺ｦ縺�ｋ縺ｨ縺�≧隧ｱ縺縺｣縺溘�
+　どこかのクラスに、霊感少女がいる、というのだ。@
+　その子は幽霊や妖怪に詳しく、特に学校の八不思議にも精通しているという話だった。\
 
-縲窶ｦ窶ｦ繧ゅ■繧阪ｓ縲√＞縺�刈貂帙↑蟆ｾ縺ｲ繧後′莉倥＞縺ｦ繧九□繧阪≧縲�
-縲閨槭＞縺溷ｽ捺凾繧ゅ�ｦｬ鮖ｿ鬥ｬ鮖ｿ縺励＞縺ｨ縺励°諤昴ｏ縺ｪ縺九▲縺溘�
+　……もちろん、いい加減な尾ひれが付いてるだろう。@
+　聞いた当時も、馬鹿馬鹿しいとしか思わなかった。@
 br
-縲縺励°縺励∽ｻ翫→縺ｪ縺｣縺ｦ縺ｯ驕輔≧縲�窶ｦ窶ｦ貅ｺ繧後ｋ閠��阯√ｒ繧よ雫繧縺ｨ縺�≧險闡峨�諢丞袖縺後∽ｻ翫�縺ｲ縺励�縺励→繧上°縺｣縺溘�
+　しかし、今となっては違う。@……溺れる者は藁をも掴むという言葉の意味が、今はひしひしとわかった。\
 
 bg black,22
 
@@ -2239,62 +2239,62 @@ bg hokora_02,22
 
 bgm1 8
 
-縲蟆大･ｳ縺ｮ蜷榊燕縺ｯ縲∵｡懃伐縺ｿ縺｡繧九�
+　少女の名前は、桜田みちる。@
 br
-縲蠖ｼ螂ｳ縺ｮ繧ｯ繝ｩ繧ｹ縺ｧ閨槭＞縺溘ｉ縲∵仂莨代∩縺ｫ縺ｯ縺薙％縺ｫ縺�ｋ縺薙→縺悟､壹＞縺ｨ險繧上ｌ縺溪ｦ窶ｦ縲�
+　彼女のクラスで聞いたら、昼休みにはここにいることが多いと言われた……。\
 
-縲譬｡闊手｣上�縲∬撃縺ｿ縺ｮ髯ｰ縺ｫ縺ｲ縺｣縺昴ｊ縺ｨ縺ゅｋ縲∝ｰ上＆縺ｪ逾縲�
+　校舎裏の、茂みの陰にひっそりとある、小さな祠。@
 br
-縲縺昴�蜑阪↓縺励ｃ縺後∩霎ｼ縺ｿ縲∽ｽ輔°縺ｶ縺､縺ｶ縺､縺ｨ迢ｬ繧願ｨ繧定ｨ縺�↑縺後ｉ逾繧呈牒縺ｧ縺ｦ縺�ｋ逵ｼ蟶ｯ縺ｮ蟆大･ｳ縺薙◎縲　窶ｦ窶ｦ蝎ゅ�譯懃伐縺ｿ縺｡繧九↓驕輔＞縺ｪ縺九▲縺溘�
+　その前にしゃがみ込み、何かぶつぶつと独り言を言いながら祠を撫でている眼帯の少女こそ、@……噂の桜田みちるに違いなかった。\
 
-縲窶ｦ窶ｦ�托ｼ馴嚴谿ｵ繧定ｸ上∩縲∵ｯ取律縲∵叛隱ｲ蠕後↓縲∵ｭｻ逾槭→霑ｽ縺�°縺代▲縺薙ｒ縺励※縺�ｋ縺ｨ險縺｣縺ｦ縲　菫｡縺倥※縺上ｌ繧九□繧阪≧縺九�
-縲縺昴＠縺ｦ菴輔ｈ繧翫�窶ｦ窶ｦ閾ｪ蛻�′蜉ｩ縺九ｋ譁ｹ豕輔ｒ縲∝ｽｼ螂ｳ縺檎衍縺｣縺ｦ縺�ｋ縺繧阪≧縺九�謨吶∴縺ｦ縺上ｌ繧九□繧阪≧縺九�
+　……１３階段を踏み、毎日、放課後に、死神と追いかけっこをしていると言って、@信じてくれるだろうか。@
+　そして何より。@……自分が助かる方法を、彼女が知っているだろうか。@教えてくれるだろうか。@
 br
-縲窶ｦ窶ｦ逾医ｋ繧医≧縺ｪ豌玲戟縺｡縺ｧ縲∫ｧ√�蠖ｼ螂ｳ縺ｫ隧ｱ縺玲寺縺代◆縲�
+　……祈るような気持ちで、私は彼女に話し掛けた。\
 
 ld c,MIC_D1,26
 ld c,MIC_D2,80
 
-縲娯ｦ窶ｦ窶ｦ�托ｼ馴嚴谿ｵ縺ｮ豁ｻ逾橸ｼ檗縲遏･縺｣縺ｦ繧九�蟄ｦ譬｡螯匁ｪ蠎丞�隨ｬ�剃ｽ阪�ｼ托ｼ馴嚴谿ｵ縺ｮ豁ｻ逾槭√う繧ｶ繝翫Α縺繧医ゅ后
+「………１３階段の死神？@　知ってる。@学校妖怪序列第２位、１３階段の死神、イザナミだよ。」@
 
 ld l,AYA_D7a,23
 ld l,AYA_D8a,80
 
-縲後◎縲√◎縺�√◎繧後�窶ｦ窶ｦ縺昴�繧､繧ｶ繝翫Α縺｣縺ｦ豁ｻ逾槭↓縲≫ｦ窶ｦ遘√′迢吶ｏ繧後※繧九▲縺ｦ險縺｣縺溘ｉ縲　窶ｦ窶ｦ窶ｦ菫｡縺倥※縺上ｌ繧銀ｦ窶ｦ�溘構
+「そ、そう、それ。@……そのイザナミって死神に、……私が狙われてるって言ったら、@………信じてくれる……？」\
 
 cl c,0
 ld r,MIC_D1,23
 
-縲娯ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲ゅ后
+「……………………………。」@
 br
-縲譯懃伐縺ｿ縺｡繧九�縲≫ｦ窶ｦ逵ｼ蟶ｯ縺ｮ蜷代％縺�↓髫縺輔ｌ縺ｦ縺�ｋ縺ｨ縺�≧髴顔愍縺ｧ縲∫ｧ√ｒ縺倥▲縺ｨ隕九※縺�ｋ繧医≧縺縺｣縺溘�
+　桜田みちるは、……眼帯の向こうに隠されているという霊眼で、私をじっと見ているようだった。\
 
 ld l,AYA_D4a,80
 
-縲遘√�縺斐￥繧翫→蜚ｾ繧帝｣ｲ縺ｿ霎ｼ繧薙〒縲∝ｽｼ螂ｳ縺御ｽ輔°繧貞哨縺ｫ縺励※縺上ｌ繧九�繧貞ｾ�▲縺溘�
+　私はごくりと唾を飲み込んで、彼女が何かを口にしてくれるのを待った。@
 br
-縲縺励°縺励∝ｽｼ螂ｳ縺ｯ豐磯ｻ吶＠縺溘∪縺ｾ縲�
-縲縺昴ｌ縺ｩ縺薙ｍ縺九∫ｧ√↓髢｢蠢�′縺ｪ縺�°縺ｮ繧医≧縺ｫ縲√◎縺｣縺ｽ繧貞髄縺�※縺励∪縺｣縺溘�
+　しかし、彼女は沈黙したまま。@
+　それどころか、私に関心がないかのように、そっぽを向いてしまった。\
 
 cl r,22
 
 cl l,0
 ld c,AYA_D5a,23
 
-縲娯ｦ窶ｦ縺｡繧�▲縺ｨ縲∵｡懃伐縺輔ｓ縲�遘√�隧ｱ繧定◇縺�※繧九�窶ｦ窶ｦ�溘后
+「……ちょっと、桜田さん。@私の話を聞いてるの……？」@
 
 ld r,MIC_D3,22
 
-縲碁撕縺九↓縲�莉翫√＆縺上�縺励ｓ縺輔∪縺ｨ縺願ｩｱ縺励※縺�ｋ繧医ゅ后
+「静かに。@今、さくのしんさまとお話しているよ。」@
 
 cl c,0
 ld l,AYA_D7a,24
 
-縲後ｓ縲≫ｦ窶ｦ繧薙ｓ窶ｦ窶ｦ縲ゅ構
+「ん、……んん……。」\
 
-縲縺ｩ縺�ｄ繧牙ｽｼ螂ｳ縺ｯ縲∫･縺ｮ荳ｻ縺ｫ隧ｱ縺玲寺縺代※縺�ｋ繧峨＠縺九▲縺溘�
-縲譎ｮ谿ｵ縺ｮ閾ｪ蛻�↑繧峨←繧灘ｼ輔″縺吶ｋ縺ｨ縺薙ｍ縺縺後∽ｻ翫�縺昴≧縺�≧繧上￠縺ｫ縺ｯ陦後°縺ｪ縺��
-縲窶ｦ窶ｦ蠖ｼ螂ｳ縺檎･縺ｮ荳ｻ縺ｨ莨夊ｩｱ繧堤ｵゅ∴繧九�繧貞ｾ�▽縺励°縺ｪ縺九▲縺溘�
+　どうやら彼女は、祠の主に話し掛けているらしかった。@
+　普段の自分ならどん引きするところだが、今はそういうわけには行かない。@
+　……彼女が祠の主と会話を終えるのを待つしかなかった。\
 
 bg black,22
 
@@ -2306,176 +2306,176 @@ bgm1 18
 ld l,MIC_D3,26
 
 
-縲娯ｦ窶ｦ窶ｦ蜴�ｻ九□縺ｭ縲�縺輔￥縺ｮ縺励ｓ縺輔∪縺瑚ｨ縺�↓縺ｯ縲√う繧ｶ繝翫Α縺ｯ縲√°縺ｪ繧雁ｼｷ蜉帙↑蟄ｦ譬｡螯匁ｪ繧峨＠縺�ゅ后
+「………厄介だね。@さくのしんさまが言うには、イザナミは、かなり強力な学校妖怪らしい。」@
 
 ld r,AYA_D4a,24
 
-縲後◎縺ｮ繧､繧ｶ繝翫Α縺｣縺ｦ豁ｻ逾槭′縲≫ｦ窶ｦ豈取律縲∵叛隱ｲ蠕後↓縲≫ｦ窶ｦ遘√ｒ霑ｽ縺�寺縺大屓縺吶�縲ゅ構
+「そのイザナミって死神が、……毎日、放課後に、……私を追い掛け回すの。」\
 
 ld l,MIC_D1,80
 
-縲娯ｦ窶ｦ�托ｼ馴嚴谿ｵ繧定ｸ上ｓ縺ｧ縺励∪縺｣縺溘ｓ縺縺ｭ縲ゅ后
+「……１３階段を踏んでしまったんだね。」@
 
 ld r,AYA_D7a,80
 
-縲後≧縲≫ｦ窶ｦ縺�ｓ窶ｦ窶ｦ縲ゅ構
+「う、……うん……。」\
 
 ld l,MIC_D2,80
 
-縲鯉ｼ托ｼ馴嚴谿ｵ縺ｯ繧､繧ｶ繝翫Α縺ｮ蜻ｪ縺��蛻ｻ蜊ｰ縲�窶ｦ窶ｦ迯ｲ迚ｩ縺ｫ豎ｺ繧√◆迥迚ｲ閠�↓縺昴ｌ繧定ｸ上∪縺帙　蝓ｷ諡励↓霑ｽ縺�屓縺励※縲∝慍迯�∈騾｣繧悟悉繧銀ｦ窶ｦ縲ゅ構
+「１３階段はイザナミの呪いの刻印。@……獲物に決めた犠牲者にそれを踏ませ、@執拗に追い回して、地獄へ連れ去る……。」\
 ld r,AYA_D8a,80
 
-縲後◎縺�ｈ窶ｦ窶ｦ縲�窶ｦ窶ｦ遘√�繧ゅ≧縲∽ｽ墓律繧ゆｽ墓律繧ゅ∵ｯ取律縲≫ｦ窶ｦ謾ｾ隱ｲ蠕後↓縺ｪ繧九→霑ｽ縺�寺縺大屓縺輔ｌ縺ｦ繧九�縲�窶ｦ窶ｦ縺企｡倥＞縺｣縲�豁ｻ縺ｫ縺溘￥縺ｪ縺��縲�縺ｩ縺�ｄ縺｣縺溘ｉ蜉ｩ縺九ｋ縺ｮ縺区蕗縺医※縺｣縲ゅ構
+「そうよ……。@……私はもう、何日も何日も、毎日、……放課後になると追い掛け回されてるの。@……お願いっ。@死にたくないの。@どうやったら助かるのか教えてっ。」\
 
 cl l,22
 
-縲娯ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲ゅ后
+「…………………………。」@
 br
-縲蠖ｼ螂ｳ縺ｯ蜀阪�逾縺ｮ譁ｹ繧貞髄縺阪√◎縺ｮ荳ｻ縺ｨ莨夊ｩｱ縺吶ｋ縲�
-縲縺昴＠縺ｦ縲∫ｧ√�鬘斐ｒ縺倥ｍ繧翫→隕九※縲≫ｦ窶ｦ遲斐∴縺溘�
+　彼女は再び祠の方を向き、その主と会話する。@
+　そして、私の顔をじろりと見て、……答えた。\
 
 ld l,MIC_D3,22
 ld l,MIC_D4,80
 
-縲娯ｦ窶ｦ窶ｦ繧､繧ｶ繝翫Α縺ｮ蜻ｪ縺��縲∝屁蜊∽ｹ晄律縲∫ｶ壹￥繧薙□縺｣縺ｦ縲ゅ后
+「………イザナミの呪いは、四十九日、続くんだって。」@
 
 ld r,AYA_D5a,80
 
-縲後＠縲∝屁蜊∽ｹ晄律縺｣縺ｦ縲�ｼ費ｼ呎律髢難ｼ滂ｼ　縲窶ｦ窶ｦ縺｣縺ｦ縲√↑縲�ｼ鈴ｱ髢凪ｦ窶ｦ�滂ｼ√后
+「し、四十九日って、４９日間？！@　……って、な、７週間……？！」@
 br
-縲遘√�莉ｰ螟ｩ縺吶ｋ縲�縺�ｄ縲�ｭ縺檎悄縺｣逋ｽ縺ｫ縺ｪ繧九�繧呈─縺倥◆縲�
+　私は仰天する。@いや、頭が真っ白になるのを感じた。\
 
 bg black,22
 bg Different_spiral_1b,22
 
-縲縺ゅ�豁ｻ逾槭°繧芽ｧ｣謾ｾ縺輔ｌ繧九↓縺ｯ縲≫ｦ窶ｦ邏�ｼ偵Ω譛医ｂ縺ｮ髢薙∵ｯ取律縲��￡邯壹￠縺ｪ縺代ｌ縺ｰ縺ｪ繧峨↑縺��縺縲�
+　あの死神から解放されるには、……約２ヶ月もの間、毎日、逃げ続けなければならないのだ。@
 br
-縲縺昴ｌ繧ゅ√◆縺縺ｮ�偵Ω譛医§繧�↑縺��
+　それも、ただの２ヶ月じゃない。@
 br
-縲豈取律縲∝ｰ代＠縺壹▽騾�￡繧区凾髢薙′蟒ｶ縺ｳ縺ｦ縺�ｋ�偵Ω譛医□縲�
+　毎日、少しずつ逃げる時間が延びている２ヶ月だ。\
 
 
-縲莉翫〒縺輔∴縲√ｂ縺�ｽ楢ご縺ｮ譎る俣縺上ｉ縺�ｵｰ繧峨＆繧後※繧九�
+　今でさえ、もう体育の時間くらい走らされてる。@
 br
-縲縺薙�縺ｾ縺ｾ縲√＆繧峨↓縺ｩ繧薙←繧薙→譎る俣縺悟ｻｶ縺ｳ縺溘ｉ縲�窶ｦ窶ｦ譛蠕後↓縺ｯ縲�ｼ第凾髢薙←縺薙ｍ縺九�ｼ呈凾髢薙√≠繧九＞縺ｯ�捺凾髢薙√◎繧御ｻ･荳翫↓繧ゅ↑繧九°繧ゅ＠繧後↑縺��
+　このまま、さらにどんどんと時間が延びたら。@……最後には、１時間どころか、２時間、あるいは３時間、それ以上にもなるかもしれない。\
 
 bg black,22
 bg hokora_02,0
 ld l,AYA_D8a,22
 
-縲後◎縲≫ｦ窶ｦ窶ｦ縺昴ｓ縺ｪ縺ｫ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲ゅ后
+「そ、………そんなに……………。」@
 
 ;ld r,MIC_D1,24
 ld r,MIC_D3,22
 
-縲後う繧ｶ繝翫Α縺ｮ蜻ｪ縺�°繧蛾�ｌ繧九↓縺ｯ縲√◎繧後＠縺区婿豕輔�縺ｪ縺�▲縺ｦ縲�窶ｦ窶ｦ縺頑ｰ励�豈偵□繧医ゅ構
+「イザナミの呪いから逃れるには、それしか方法はないって。@……お気の毒だよ。」\
 
 ld l,AYA_D5a,80
 
 
-縲後§繧��勁髴翫→縺句ｾ｡螳医ｊ縺ｨ縺具ｼ　縲菴輔°繧ゅ▲縺ｨ縺昴�縲∝測縺�ｒ謇輔≧繧医≧縺ｪ菴輔°縺ｯ縺ｪ縺���滂ｼ　縲繧､繧ｶ繝翫Α繧貞偵○繧九ｈ縺�↑菴輔°縺ｯ縺ｪ縺���滂ｼ√構
+「じょ、除霊とか御守りとか！@　何かもっとその、呪いを払うような何かはないの？！@　イザナミを倒せるような何かはないの？！」\
 
 ld r,MIC_D5,80
 
-縲娯ｦ窶ｦ窶ｦ繧､繧ｶ繝翫Α縺ｯ蟄ｦ譬｡螯匁ｪ蠎丞�隨ｬ�剃ｽ阪�蠑ｷ蜉帙↑螯匁ｪ縲�窶ｦ窶ｦ蛟偵○繧句鴨繧呈戟縺､螯匁ｪ縺ｯ縲∫ｬｬ�台ｽ阪�譬｡髟ｷ蜈育函縺励°縺�↑縺��窶ｦ窶ｦ縺ｧ繧ゅ√°縺､縺ｦ縺ｮ譬｡髟ｷ蜈育函縺ｪ繧峨→繧ゅ°縺上　莉翫�閠√＞縺ｦ縲∫叫繧翫�縺壹＞縺ｶ繧灘燕縺ｫ蠑暮縺励※繧九�窶ｦ窶ｦ縺縺九ｉ縲√う繧ｶ繝翫Α繧貞偵○繧句ｭｦ譬｡螯匁ｪ縺ｯ縲∝ｭ伜惠縺励↑縺�ｓ縺繧医ゅ構
+「………イザナミは学校妖怪序列第２位の強力な妖怪。@……倒せる力を持つ妖怪は、第１位の校長先生しかいない。@……でも、かつての校長先生ならともかく、@今は老いて、狩りはずいぶん前に引退してる。@……だから、イザナミを倒せる学校妖怪は、存在しないんだよ。」\
 
 bg black,22
 
-縲蠖ｼ螂ｳ縺御ｽ輔ｒ險縺｣縺ｦ縺�ｋ縺ｮ縺九＆縺｣縺ｱ繧翫□縲�
-縲縺励°縺励∬ｨ縺�◆縺�％縺ｨ縺ｯ繧上°繧九�
+　彼女が何を言っているのかさっぱりだ。@
+　しかし、言いたいことはわかる。@
 br
-縲縺昴ｌ縺励°縺ｪ縺��縺縲�
-縲遘√′隗｣謾ｾ縺輔ｌ繧九↓縺ｯ縲≫ｦ窶ｦ�費ｼ呎律髢薙��￡蟒ｶ縺ｳ繧九＠縺九↑縺��縺縲�
-縲縺昴ｌ莉･螟悶↓縲√←繧薙↑繧､繝ｳ繝√く繧ゅぜ繝ｫ繧ょｭ伜惠縺励↑縺�ｦ窶ｦ縲�
+　それしかないのだ。@
+　私が解放されるには、……４９日間、逃げ延びるしかないのだ。@
+　それ以外に、どんなインチキもズルも存在しない……。\
 
 bg hokora_01,24
 ld r,AYA_D6n,24
 
-縲娯ｦ窶ｦ遘√≫ｦ窶ｦ窶ｦ縺薙≫ｦ窶ｦ谿ｺ縺輔ｌ繧九ｈ窶ｦ窶ｦ窶ｦ縲�縺ゅ√≠繧薙↑蝨ｰ迯�∬誠縺｡縺溘￥縺ｪ縺�ｈ窶ｦ��ｼ√后
+「……私、………こ、……殺されるよ………。@あ、あんな地獄、落ちたくないよ…！！」@
 
 ld l,MIC_D1,23
 ld l,MIC_D3,80
 
-縲後＃諢∝す縺輔∪縺繧医�窶ｦ窶ｦ豌励�豈偵□縺代ｌ縺ｩ縲∫ｧ√↓縺ｯ菴輔ｂ蜃ｺ譚･縺ｪ縺�ゅ構
+「ご愁傷さまだよ。@……気の毒だけれど、私には何も出来ない。」\
 
 cl r,0
 ld c,AYA_D5a,24
 quakex 1,100
 
-縲後◆縲∝勧縺代※繧医ャ��ｼ　縲縺ゅ↑縺溘□縺代↑縺ｮ��ｼ　縲莉悶↓鬆ｼ繧後ｋ莠ｺ縺後＞縺ｪ縺����ｼ√構
+「た、助けてよッ！！@　あなただけなの！！@　他に頼れる人がいないの！！」\
 
 ld l,MIC_D5,80
 
-縲娯ｦ窶ｦ菴輔°蜉ｩ縺九ｋ譁ｹ豕輔′縺ゅｋ縺ｪ繧峨　遘√□縺｣縺ｦ縲√＆縺上�縺励ｓ縺輔∪縺縺｣縺ｦ縲∵蕗縺医◆縺�→諤昴▲縺ｦ繧九ｈ縲�窶ｦ窶ｦ縺ｧ繧ゅ∽ｽ輔ｂ縺ｪ縺��縺縺九ｉ縲∫ｧ√□縺｣縺ｦ霎帙＞繧薙□繧遺ｦ窶ｦ縲ゅ后
+「……何か助かる方法があるなら、@私だって、さくのしんさまだって、教えたいと思ってるよ。@……でも、何もない。@だから、私だって辛いんだよ……。」@
 br
-縲遘√�縺励�繧峨￥縺ｮ髢薙√ｄ繧雁ｴ縺ｮ縺ｪ縺�偵ｊ繧定�縺ｮ螂･縺ｫ謚ｼ縺苓ｾｼ縺ｿ縺ｪ縺後ｉ縲　縺舌▲縺ｨ荳｡謇九ｒ謠｡繧顔ｷ繧√※菫ｯ縺上％縺ｨ縺励°蜃ｺ譚･縺ｪ縺九▲縺溪ｦ窶ｦ縲�
+　私はしばらくの間、やり場のない怒りを胸の奥に押し込みながら、@ぐっと両手を握り締めて俯くことしか出来なかった……。\
 
 bg black,2
 bg hokora_02,0
 ld c,MIC_D3,22
 
-縲娯ｦ窶ｦ窶ｦ縺輔￥縺ｮ縺励ｓ縺輔∪縺瑚ｨ縺�↓縺ｯ縲　窶ｦ窶ｦ驕主悉縺ｫ縺ｯ縲√う繧ｶ繝翫Α縺ｮ蜻ｪ縺�°繧蛾�ｌ繧九％縺ｨ縺悟�譚･縺滉ｺｺ髢薙ｂ縺�◆縺｣縺ｦ縲ゅ后
+「………さくのしんさまが言うには、@……過去には、イザナミの呪いから逃れることが出来た人間もいたって。」@
 br
-縲逕滄ｄ閠�′縺�◆窶ｦ窶ｦ�檗
-縲縺昴ｌ縺ｯ縲√％縺ｮ邨ｶ譛帙�證鈴裸縺ｫ縺ゅ▲縺ｦ縺ｯ縲∽ｸ譚｡縺ｮ蜈峨�繧医≧縺ｫ縺輔∴諢溘§繧峨ｌ縺溘�
+　生還者がいた……？@
+　それは、この絶望の暗闇にあっては、一条の光のようにさえ感じられた。\
 
 ld c,MIC_D1,80
 
-縲後◎縺ｮ莠ｺ縺ｯ縺壹＞縺ｶ繧灘燕縺ｫ蜊呈･ｭ縺励※繧九◎縺�〒縲∝錐蜑阪ｂ菴乗園繧ゅｏ縺九ｉ縺ｪ縺��窶ｦ窶ｦ縺ｧ繧ゅ∫｢ｺ縺九↓騾�ｌ縺滉ｺｺ髢薙�縺�◆縺｣縺ｦ縲ゅ構
+「その人はずいぶん前に卒業してるそうで、名前も住所もわからない。@……でも、確かに逃れた人間はいたって。」\
 
-縲縺昴�莠ｺ髢薙�菴戊�□繧阪≧縲�
+　その人間は何者だろう。@
 br
-縲謨ｰ譎る俣繧定ｦ倶ｺ九↓襍ｰ繧翫″縺｣縺溘∝ｼｷ蛛･縺ｪ繧｢繧ｹ繝ｪ繝ｼ繝医↑縺ｮ縺繧阪≧縺九�
-縲窶ｦ窶ｦ縺縺ｨ縺励◆繧峨♀謇倶ｸ翫￡縺縲�遘∝ｦゅ″縲√�蠑ｱ縺ｪ蟆丞ｨ倥↓縺ｯ縲��ｫ九■縺励◆縺｣縺ｦ逵滉ｼｼ縺悟�譚･縺ｪ縺��
+　数時間を見事に走りきった、強健なアスリートなのだろうか。@
+　……だとしたらお手上げだ。@私如き、ひ弱な小娘には、逆立ちしたって真似が出来ない。\
 
 bg black,22
 
-縲縺ｧ繧ゅ≫ｦ窶ｦ窶ｦ縺昴≧縺ｨ縺ｯ髯舌ｉ縺ｪ縺��
-縲縺�ｄ縲√�縺励ｍ縲√�蠑ｱ縺ｪ迥迚ｲ閠��蜿ｯ閭ｽ諤ｧ縺ｮ譁ｹ縺碁ｫ倥＞縺ｮ縺ｧ縺ｯ縺ｪ縺�□繧阪≧縺九�
+　でも、………そうとは限らない。@
+　いや、むしろ、ひ弱な犠牲者の可能性の方が高いのではないだろうか。\
 
 ;bg black,22
 mono 1
 bg rouka_02,0
 ld c,IZA_D8,22
 
-縲繧､繧ｶ繝翫Α縺ｯ險縺｣縺ｦ縺�◆縲�閾ｪ蛻��縲√け繧ｽ關ｽ縺｡逶ｮ縺ｪ繝､繝�′螟ｧ螂ｽ迚ｩ縺ｪ縺ｮ縺縺ｨ縲�
-縲蛛･蜈ｨ縺ｪ繧｢繧ｹ繝ｪ繝ｼ繝医′迯ｲ迚ｩ縺ｫ縺輔ｌ縺溘→縺ｯ蛻ｰ蠎墓昴∴縺ｪ縺��
+　イザナミは言っていた。@自分は、クソ落ち目なヤツが大好物なのだと。@
+　健全なアスリートが獲物にされたとは到底思えない。@
 br
-縲縺ゅ�繧､繧ｶ繝翫Α縺ｮ縺薙→縺縲�遘√�繧医≧縺ｪ縲√＞縺､繧ゆｿｯ縺�※縺�ｋ辟｡豌怜鴨縺ｪ蟆大ｹｴ蟆大･ｳ繧堤佐迚ｩ縺ｨ縺励◆縺ｯ縺壹□縲�
+　あのイザナミのことだ。@私のような、いつも俯いている無気力な少年少女を獲物としたはずだ。\
 
 bg black,22
 mono 0
 
-縲窶ｦ窶ｦ窶ｦ縺ｪ繧峨�謨ｰ譎る俣縺ｫ繧ゅｏ縺溘▲縺ｦ縲∬ｵｰ繧顔ｶ壹￠繧倶ｽ灘鴨縺後≠縺｣縺溘→縺ｯ縲∝芦蠎墓昴∴縺ｪ縺��
-縲菴輔°縲∫函縺肴ｮ九ｋ縺溘ａ縺ｮ遘伜ｯ�∫ｧ倩ｨ｣縲　窶ｦ窶ｦ繧ゅ＠縺上�陬乗橿縺ｮ繧医≧縺ｪ繧ゅ�縺後≠繧九�縺ｧ縺ｯ縺ｪ縺�□繧阪≧縺九�
+　………なら。@数時間にもわたって、走り続ける体力があったとは、到底思えない。@
+　何か、生き残るための秘密、秘訣、@……もしくは裏技のようなものがあるのではないだろうか。@
 br
-縲縺昴ｌ繧定◇縺阪◆縺��
+　それを聞きたい。\
 
-縲縺励°縺励√◎縺ｮ莠ｺ迚ｩ縺ｯ縺吶〒縺ｫ蜊呈･ｭ縺励∝錐蜑阪ｂ菴乗園繧ゅｏ縺九ｉ縺ｪ縺�→縺�≧縲�縺昴ｌ繧定◇縺上％縺ｨ縺ｯ蜿ｶ繧上↑縺�ｦ窶ｦ窶ｦ縲�
+　しかし、その人物はすでに卒業し、名前も住所もわからないという。@それを聞くことは叶わない………。@
 br
-縲邨ｶ譛帙☆繧狗ｧ√↓縲∵｡懃伐縺ｿ縺｡繧九�縺ｽ縺､繧翫→險縺｣縺溘�
+　絶望する私に、桜田みちるはぽつりと言った。\
 
 bg hokora_02,0
 ld c,MIC_D2,22
 
-縲娯ｦ窶ｦ縺ゅ↑縺溘□縺代§繧�↑縺�ｈ縲�窶ｦ窶ｦ逕ｷ縺ｮ蟄舌′�台ｺｺ縲≫ｦ窶ｦ莉翫√う繧ｶ繝翫Α縺ｮ蜻ｪ縺�↓驕ｭ縺｣縺ｦ繧九ゅ構
+「……あなただけじゃないよ。@……男の子が１人、……今、イザナミの呪いに遭ってる。」\
 
 ld l,AYA_D4a,23
 
-縲檎塙縺ｮ蟄絶ｦ窶ｦ窶ｦ�溘后
+「男の子………？」@
 
 cl c,0
 ld r,MIC_D1,23
 
-縲後≧繧薙�縺輔￥縺ｮ縺励ｓ縺輔∪縺瑚ｨ縺�↓縺ｯ縲√▽縺�怙霑代√う繧ｶ繝翫Α縺ｮ蜻ｪ縺�↓驕ｭ縺｣縺ｦ闍ｦ縺励ｓ縺ｧ繧狗塙縺ｮ蟄舌′縺�ｋ縺｣縺ｦ縲ゅ構
+「うん。@さくのしんさまが言うには、つい最近、イザナミの呪いに遭って苦しんでる男の子がいるって。」\
 
 ld l,AYA_D7a,80
 
-縲後◎繧後�窶ｦ窶ｦ縲√←縺薙�蟄撰ｼ檗縲莉翫ｂ縺�ｋ縺ｮ�溘后
+「それは……、どこの子？@　今もいるの？」@
 
 ld r,MIC_D2,80
 
-縲後≧繧薙�繧ｯ繝ｩ繧ｹ縺ｨ蜷榊燕繧ゅｏ縺九ｋ繧医ゅ構
+「うん。@クラスと名前もわかるよ。」\
 
 bg white,2
 
@@ -2487,22 +2487,22 @@ E_A
 
 me1v 24,50
 
-縲遘√�縲∵蕗縺医※繧ゅｉ縺｣縺溘け繝ｩ繧ｹ縺ｫ鬟帙ｓ縺ｧ陦後▲縺溘�
+　私は、教えてもらったクラスに飛んで行った。@
 br
-縲窶ｦ窶ｦ縺昴％縺ｯ縲∽ｸ顔ｴ夂函縺ｮ繧ｯ繝ｩ繧ｹ縺縺｣縺溘�
-縲繧ゅ≧荳莠ｺ縺ｮ迥迚ｲ閠�∝､ｧ驥悟�霈ｩ縺ｯ縲√◎縺ｮ繧ｯ繝ｩ繧ｹ縺ｫ縺�◆縲�
+　……そこは、上級生のクラスだった。@
+　もう一人の犠牲者、大里先輩は、そのクラスにいた。@
 br
-縲繧ｯ繝ｩ繧ｹ繝｡繝ｼ繝医′謖�ｷｮ縺吝�縺ｫ縺ｯ縲∵惻縺ｫ遯√▲莨上＠縺ｦ譏ｼ蟇昴☆繧九∝ｰ丞､ｪ繧翫�逕ｷ蟄舌�蟋ｿ縺後≠縺｣縺溪ｦ窶ｦ縲�
+　クラスメートが指差す先には、机に突っ伏して昼寝する、小太りの男子の姿があった……。\
 
 bg black,24
 bg kyou_02,24
 
-縲蠖ｼ縺ｯ螻�悛繧翫〒縺ｯ縺ｪ縺上∵悽豌励〒逵縺｣縺ｦ縺�ｋ繧医≧縺縺｣縺溘�
+　彼は居眠りではなく、本気で眠っているようだった。@
 br
-縲窶ｦ窶ｦ蠖ｼ縺後＞縺､縺九ｉ繧､繧ｶ繝翫Α縺ｮ蜻ｪ縺�↓蜿悶ｊ霎ｼ縺ｾ繧後※縺�ｋ縺九�繧上°繧峨↑縺�′縲　遘√ｈ繧企聞縺�↑繧峨∵ｯ取律縲∫嶌蠖薙�譎る俣繧定ｵｰ繧雁屓繧峨＆繧後※縺�ｋ縺ｯ縺壹□縲�
-縲逍ｲ蜉ｴ蝗ｰ諞翫〒逵縺｣縺ｦ縺�ｋ縺ｨ縺励※繧ゅ∫ｴ榊ｾ励〒縺阪◆縲�
+　……彼がいつからイザナミの呪いに取り込まれているかはわからないが、@私より長いなら、毎日、相当の時間を走り回らされているはずだ。@
+　疲労困憊で眠っているとしても、納得できた。\
 
-縲蠖ｼ縺ｯ驟ｷ縺丈ｸ肴ｩ溷ｫ後↓逶ｮ繧定ｦ壹∪縺励◆縺後∫ｧ√′繧､繧ｶ繝翫Α縺ｮ蜷阪ｒ蜃ｺ縺吶→縲∬ｺｫ繧剃ｹ励ｊ蜃ｺ縺励※遶九■荳翫′縺｣縺溘�
+　彼は酷く不機嫌に目を覚ましたが、私がイザナミの名を出すと、身を乗り出して立ち上がった。\
 
 bg black,2
 
@@ -2513,125 +2513,125 @@ bg kaidan_03,22
 
 bgm1 6
 
-縲娯ｦ窶ｦ譏ｨ譌･縺ｯ縲�ｼ托ｼ先凾蜊翫°繧牙ｧ九∪縺｣縺溪ｦ窶ｦ縲�繧ゅ≧窶ｦ窶ｦ縲�剞逡後□窶ｦ窶ｦ窶ｦ縲ゅ后
+「……昨日は、１０時半から始まった……。@もう……、限界だ………。」@
 br
-縲蠖ｼ縺ｯ遘√ｈ繧頑掠縺上°繧牙測繧上ｌ縺ｦ縺�ｋ繧峨＠縺��繧､繧ｶ繝翫Α縺九ｉ騾�￡繧区凾髢薙�縲√☆縺ｧ縺ｫ�第凾髢薙ｒ雜�∴縺ｦ縺�◆縲�
+　彼は私より早くから呪われているらしい。@イザナミから逃げる時間は、すでに１時間を超えていた。\
 
-縲娯ｦ窶ｦ繧ゅ≧縲≫ｦ窶ｦ髯千阜縺窶ｦ窶ｦ縲�譚･繧区律繧よ擂繧区律繧やｦ窶ｦ縲√★縺｣縺ｨ縺壹▲縺ｨ蟒贋ｸ九ｒ窶ｦ窶ｦ縲�譏ｨ譌･縺ｯ縲√≠縺ｨ蟆代＠縺ｧ霑ｽ縺�ｻ倥°繧後ｋ縺ｨ縺薙ｍ縺ｧ繝√Ε繧､繝縺縺｣縺溘�窶ｦ窶ｦ繧ゅ≧縲≫ｦ窶ｦ谺｡縺ｯ辟｡逅�□窶ｦ窶ｦ縲ゅ后
+「……もう、……限界だ……。@来る日も来る日も……、ずっとずっと廊下を……。@昨日は、あと少しで追い付かれるところでチャイムだった。@……もう、……次は無理だ……。」@
 br
-縲蠖ｼ縺ｯ鬆ｭ繧偵�繧翫�繧翫→謗ｻ縺肴ｯ溘▲縺ｦ菫ｯ縺�◆縲�
-縲縺昴ｓ縺ｪ蠖ｼ縺ｫ縲�ｼ費ｼ呎律髢薙��￡蛻�ｌ縺ｰ蜉ｩ縺九ｋ縺ｨ謨吶∴縺溘→縺薙ｍ縺ｧ縲　縺輔ｉ縺ｪ繧狗ｵｶ譛帙ｒ驥阪�繧九％縺ｨ縺ｫ縺励°縺ｪ繧峨↑縺九▲縺溪ｦ窶ｦ縲�
+　彼は頭をばりばりと掻き毟って俯いた。@
+　そんな彼に、４９日間、逃げ切れば助かると教えたところで、@さらなる絶望を重ねることにしかならなかった……。\
 
 se1 12
 quakey 1,100
 
-縲悟�隲�§繧��縺�ｈ窶ｦ窶ｦ縲��費ｼ呎律繧る�￡蛻�ｌ繧九ｏ縺代�縺�ｈ窶ｦ窶ｦ縲�窶ｦ窶ｦ窶ｦ菫ｺ縺ｯ豁ｻ逾槭↓鬲��繧峨ｌ縺滓凾轤ｹ縺ｧ縲√ｂ縺�ｭｻ繧薙□繧ょ酔辟ｶ縺縺｣縺溘ｓ縺縲�窶ｦ窶ｦ縺ｩ縺�○縺ゅ�蝨ｰ迯�↓關ｽ縺｡繧九↑繧峨　窶ｦ窶ｦ縺ｨ縺｣縺ｨ縺ｨ隕ｳ蠢ｵ縺吶ｌ縺ｰ縲∽ｽ呵ｨ医↓闍ｦ縺励�縺薙→縺ｯ縺ｪ縺九▲縺溘ｓ縺窶ｦ窶ｦ縲ゅ構
+「冗談じゃねぇよ……。@４９日も逃げ切れるわけねぇよ……。@………俺は死神に魅入られた時点で、もう死んだも同然だったんだ。@……どうせあの地獄に落ちるなら、@……とっとと観念すれば、余計に苦しむことはなかったんだ……。」\
 
 ld r,AYA_D4a,24
 
-縲娯ｦ窶ｦ縺ゅ√≠縺ｨ菴墓律繧呈ｮ九＠縺ｦ繧九°遏･繧峨↑縺�￠繧後←窶ｦ縲�荳邱偵↓鬆大ｼｵ繧阪≧繧遺ｦ窶ｦ縲ゅ構
+「……あ、あと何日を残してるか知らないけれど…。@一緒に頑張ろうよ……。」\
 
-縲後�繧ｸ縺ｧ險縺｣縺ｦ繧薙�縺具ｼ檗縲縺雁燕繝槭ず縺ｧ險縺｣縺ｦ繧薙�縺具ｼ滂ｼ　縲譚･繧区律繧よ擂繧区律繧ゑｼ�ｼ　縲縺励°繧ゅ←繧薙←繧捺凾髢薙′蟒ｶ縺ｳ縺ｦ縺�▲縺ｦ��ｼ　縲繧ゅ≧雖後□縲�剞逡後□繝�ｼ�ｼ　縲縺薙ｓ縺ｪ縺ｮ窶ｦ窶ｦ縲∬舌∴繧峨ｌ縺ｭ縺�ｦ��ｼ�ｼ√構
+「マジで言ってんのか？@　お前マジで言ってんのか？！@　来る日も来る日も！！@　しかもどんどん時間が延びていって！！@　もう嫌だ、限界だッ！！@　こんなの……、耐えられねぇ…！！！」\
 
 ld r,AYA_D2,80
 
-縲娯ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲ゅ構
+「………………………。」\
 
-縲娯ｦ窶ｦ縺ｩ繝ｼ縺帙≫ｦ窶ｦ菫ｺ縺ｪ繧薙※縲∝級蠑ｷ繧ょ�譚･縺ｭ縺�＠縲∝叙繧雁ｾ励↑繧薙°菴輔ｂ縺ｭ縺��窶ｦ窶ｦ逕溘″縺ｦ縺溘▲縺ｦ菴輔�諢丞袖繧ゅ↑縺�け繧ｺ縺ｪ繧薙□窶ｦ窶ｦ縲�繧ｯ繧ｺ縺ｯ繧ｯ繧ｺ繧峨＠縺乗ｷ俶ｱｰ縺輔ｌ繧阪▲縺ｦ縺�≧縲∫･樊ｧ倥�諤昴＠蜿ｬ縺励↑繧薙□縲�窶ｦ窶ｦ菫ｺ縺ｿ縺溘＞縺ｪ繧ｯ繧ｺ縺ｯ縲∫函縺ｾ繧後※縺阪◆譎らせ縺ｧ繧ゅ≧縲∽ｽ輔°縺ｮ髢馴＆縺�↑繧薙□窶ｦ縲�窶ｦ窶ｦ縺ｧ繧ゅｈ縺峨√◎繧薙↑縺ｮ縺ゅｓ縺ｾ繧翫□繧阪♂繧医♂窶ｦ窶ｦ縲�縺�♀縺峨♀縺翫♀縺峨♀縺俄ｦ窶ｦ縲√�縺｣縺上√∴縺｣縺絶ｦ窶ｦ��ｼ√構
+「……どーせ、……俺なんて、勉強も出来ねぇし、取り得なんか何もねぇ。@……生きてたって何の意味もないクズなんだ……。@クズはクズらしく淘汰されろっていう、神様の思し召しなんだ。@……俺みたいなクズは、生まれてきた時点でもう、何かの間違いなんだ…。@……でもよぉ、そんなのあんまりだろぉよぉ……。@ぅおぉおおおぉおぉ……、ひっく、えっぐ……！！」\
 
-縲縺ｨ縺�→縺�∽ｺｺ逶ｮ繧ゅ�縺ｰ縺九ｉ縺壽ｳ｣縺榊�縺励※縺励∪縺��
+　とうとう、人目もはばからず泣き出してしまう。@
 br
-縲遘√↓縺ｨ縺｣縺ｦ縲≫ｦ窶ｦ蠖ｼ縺ｯ縲∵悽蠖薙↓蜆壹￥縺ｦ蟆上＆縺�￠繧後←縲≫ｦ窶ｦ窶ｦ蟶梧悍縺ｪ縺ｮ縺縲�
-縲蠖ｼ縺鯉ｼ費ｼ呎律髢薙ｒ逕溘″蟒ｶ縺ｳ縺ｦ縺上ｌ繧後�縲≫ｦ窶ｦ遘√↓縺縺｣縺ｦ縺阪▲縺ｨ蜃ｺ譚･繧九→縺�≧蟶梧悍縺ｫ縺ｪ繧九�
+　私にとって、……彼は、本当に儚くて小さいけれど、………希望なのだ。@
+　彼が４９日間を生き延びてくれれば、……私にだってきっと出来るという希望になる。\
 
 cl r,0
 ld c,AYA_D8a,24
 
-縲後′縲≫ｦ窶ｦ鬆大ｼｵ繧阪≧繧医�窶ｦ窶ｦ縺ゅ＞縺､縺ｯ豎ｺ縺励※襍ｰ繧峨↑縺��遒ｺ縺九↓騾溘＞縺代ｌ縺ｩ縲∫ｵｶ蟇ｾ縺ｫ襍ｰ繧峨↑縺�ｦ縲�窶ｦ窶ｦ遒ｺ縺九↓縲�ｼ第凾髢薙ｂ�呈凾髢薙ｂ縺壹▲縺ｨ襍ｰ縺｣縺ｦ縺�ｋ縺ｮ縺ｯ繧ゅ�縺吶＃縺丞､ｧ螟峨□縺ｨ諤昴≧縲�窶ｦ窶ｦ縺ｧ繧ゅ√◎繧後〒閾ｪ蛻��蜻ｽ縺梧舞縺医ｋ縺ｪ繧峨∬ｵｰ繧九￥繧峨＞菴輔〒繧ゅ↑縺�ｦ窶ｦ縲ゅ構
+「が、……頑張ろうよ。@……あいつは決して走らない。@確かに速いけれど、絶対に走らない…。@……確かに、１時間も２時間もずっと走っているのはものすごく大変だと思う。@……でも、それで自分の命が救えるなら、走るくらい何でもない……。」\
 
-縲荳悶�荳ｭ縺ｫ縺ｯ縲∽ｸ肴ｲｻ縺ｮ逞�〒閾ｪ蛻�↓蜃ｺ譚･繧句巻蜉帙�菴輔ｂ縺ｪ縺上　縺溘□螟ｩ蜻ｽ縺ｫ莉ｻ縺帙ｋ莉悶↑縺�ｺｺ縺縺｣縺ｦ螟ｧ蜍｢縺�ｋ縲�
+　世の中には、不治の病で自分に出来る努力は何もなく、@ただ天命に任せる他ない人だって大勢いる。@
 br
-縲縺昴ｌ縺ｫ豈斐∋縺溘ｉ縲√←繧薙↑縺ｫ闍ｦ縺励￥縺ｨ繧ゅ∬�蛻��蜉ｪ蜉帙〒菴輔→縺句�譚･繧玖ｩｦ邱ｴ縺ｪ縺ｩ縲　縺ｾ縺諱ｵ縺ｾ繧後※縺�ｋ縺ｯ縺壺ｦ窶ｦ縲�
+　それに比べたら、どんなに苦しくとも、自分の努力で何とか出来る試練など、@まだ恵まれているはず……。\
 
 quakey 1,100
 
-縲梧ｯ取律縲∵ｯ取律縲∽ｽ墓凾髢薙ｂ襍ｰ繧顔ｶ壹￠繧九↑繧薙※縲∽ｸ榊庄閭ｽ縺繧遺ｦ��ｼ　縲縺昴ｓ縺ｪ縺ｮ蜃ｺ譚･繧九ｏ縺代�縺�ｦ��ｼ　縲隨ｬ荳縲√◎縺薙∪縺ｧ蠢�ｭｻ縺ｫ襍ｰ縺｣縺ｦ襍ｰ縺｣縺ｦ逕溘″蟒ｶ縺ｳ縺ｦ�　縲縺昴�蜈医↓菴輔′蠕�▲縺ｦ繧九▲縺ｦ繧薙□繧医♂�滂ｼ√構
+「毎日、毎日、何時間も走り続けるなんて、不可能だよ…！！@　そんなの出来るわけねぇ…！！@　第一、そこまで必死に走って走って生き延びて！@　その先に何が待ってるってんだよぉ？！」\
 
 ld c,AYA_D7a,80
 
-縲後＞縲≫ｦ窶ｦ逕溘″蟒ｶ縺ｳ繧九％縺ｨ縺悟�譚･繧九ｈ縲ゅ構
+「い、……生き延びることが出来るよ。」\
 
-縲後□縺九ｉ�　縲逕溘″蟒ｶ縺ｳ縺ｦ縲∽ｿｺ縺ｮ莠ｺ逕溘↓菴輔�諢丞袖縺後≠繧九▲縺ｦ險縺�ｓ縺繧医♂�滂ｼ　縲蜍牙ｼｷ繧ょ�譚･縺ｪ縺��°蜍輔ｂ蜃ｺ譚･縺ｪ縺�ｼ　縲蜿矩＃繧ゅ＞縺ｪ縺�∬ｶ｣蜻ｳ縺ｪ繧薙°菴輔ｂ縺ｪ縺�ｼ�ｼ　縲豈取律豈取律縲�螻医〒豁ｻ縺ｫ縺昴≧縺縺｣縺溘�縺�ｄ繧縺励ｍ縲∵ｭｻ縺ｫ縺溘＞縺ｨ縺輔∴諤昴▲縺ｦ縺溘＆窶ｦ��ｼ√構
+「だから！@　生き延びて、俺の人生に何の意味があるって言うんだよぉ？！@　勉強も出来ない、運動も出来ない！@　友達もいない、趣味なんか何もない！！@　毎日毎日、退屈で死にそうだった。@いやむしろ、死にたいとさえ思ってたさ…！！」\
 
 bg black,22
 
-縲髮ｪ縺瑚ｧ｣縺代ｋ繧医≧縺ｫ縲∫悛繧九ｈ縺�↓豁ｻ縺ｫ縺溘＞縲�
-縲窶ｦ窶ｦ蠖ｼ縺ｮ鬘俶悍繧ゅ∫ｧ√→蜷後§縺縺｣縺溘�
+　雪が解けるように、眠るように死にたい。@
+　……彼の願望も、私と同じだった。@
 br
-縲縺�ｄ縲∝ｽｼ縺ｯ遘√→縺ｾ縺｣縺溘￥蜷後§縺縺｣縺溘�縺縲�
+　いや、彼は私とまったく同じだったのだ。\
 
-縲蠖ｼ縺ｫ縺ｨ縺｣縺ｦ繧ゅ∽ｺｺ逕溘�辟｡諢丞袖縺ｧ縺ゅｊ縲∫┌萓｡蛟､縺縺｣縺溘�
+　彼にとっても、人生は無意味であり、無価値だった。@
 br
-縲縺昴ｓ縺ｪ蠖ｼ縺ｫ縺ｨ縺｣縺ｦ縲�ｼ費ｼ呎律髢薙ｂ縺ｮ隧ｦ邱ｴ繧堤函縺榊ｻｶ縺ｳ繧倶ｾ｡蛟､縺ｪ縺ｩ縲∽ｽ輔ｂ縺ｪ縺�ｦ窶ｦ縲�
+　そんな彼にとって、４９日間もの試練を生き延びる価値など、何もない……。\
 
 bg kaidan_04,22
 
 me1v 5,70
 
-縲檎函縺榊ｻｶ縺ｳ縺溘ｉ縲∽ｽ輔°繧ゅｉ縺医ｋ縺ｮ縺九ｈ�滂ｼ　縲�托ｼ撰ｼ蝉ｸ��縺上ｌ繧九�縺具ｼ滂ｼ　縲鬘倥＞縺ｧ繧ょ掌縺医※縺上ｌ繧九�縺具ｼ滂ｼ　縲縺倥ｃ縺ゅ√ラ繝�ず繝懊�繝ｫ縺ｧ蠑ｷ縺上↑繧後ｋ繧医≧縺ｫ縺励※縺上ｌ繧茨ｼ　縲貍ｫ逕ｻ�托ｼ撰ｼ仙�雋ｷ縺｣縺ｦ縺上ｌ繧茨ｼ�ｼ　縲窶ｦ窶ｦ菴輔ｂ縺ｭ縺�ｼ�ｼ�ｼ　縲莉ｮ縺ｫ逕溘″蟒ｶ縺ｳ縺溘▲縺ｦ縲√∪縺滉ｽ輔ｂ縺ｭ縺��螻医〒豁ｻ縺ｫ縺昴≧縺ｪ轣ｰ濶ｲ縺ｮ譌･縲�§繧��縺�°繧遺ｦ��ｼ　縲窶ｦ窶ｦ邨ゅｏ縺｣縺ｦ縺溘ｓ縺繧医ャ縲∵怙蛻昴▲縺九ｉ菫ｺ縺ｮ莠ｺ逕溘�窶ｦ��ｼ　縲逕溘∪繧後※縺上ｋ繧薙§繧�↑縺九▲縺溪ｦ窶ｦ縲�逕溘∪繧後※縺上ｋ繧薙§繧�ｦ窶ｦ縲√↑縺九▲窶ｦ窶ｦ縲√�縺｣縺上√≦縺舌＄縺絶ｦ窶ｦ窶ｦ縲ゅ構
+「生き延びたら、何かもらえるのかよ？！@　１００万円くれるのか？！@　願いでも叶えてくれるのか？！@　じゃあ、ドッジボールで強くなれるようにしてくれよ！@　漫画１００冊買ってくれよ！！@　……何もねぇ！！！@　仮に生き延びたって、また何もねぇ、退屈で死にそうな灰色の日々じゃねぇかよ…！！@　……終わってたんだよッ、最初っから俺の人生は…！！@　生まれてくるんじゃなかった……。@生まれてくるんじゃ……、なかっ……、ひっく、ぅぐぐぐ………。」\
 
-縲繧ゅ≧譛蠕後�蝸壼朕縺励°閨槭％縺医↑縺九▲縺溘�
-縲蠖ｼ縺ｯ繧ゅ≧縲∬�證ｴ閾ｪ譽�↓縺ｪ縺｣縺ｦ縺�◆縲�菴灘鴨莉･荳翫↓縲∵ｰ怜鴨縺後ｂ縺�剞逡後↑縺ｮ縺縲�
-縲縺昴＠縺ｦ縲∝ｽｼ縺ｮ豌玲戟縺｡縺ｯ縺昴�縺ｾ縺ｾ縲∫ｧ√�豌玲戟縺｡繧剃ｻ｣蠑√＠縺ｦ縺�◆縲�
+　もう最後は嗚咽しか聞こえなかった。@
+　彼はもう、自暴自棄になっていた。@体力以上に、気力がもう限界なのだ。@
+　そして、彼の気持ちはそのまま、私の気持ちを代弁していた。@
 br
-縲窶ｦ窶ｦ逕溘″蟒ｶ縺ｳ縺ｦ縲∝叙繧頑綾縺呎律蟶ｸ縺ｫ菴輔�萓｡蛟､縺後≠繧九�縺九�
+　……生き延びて、取り戻す日常に何の価値があるのか。\
 
 bg black,22
 
-縲縺ｪ縺��窶ｦ窶ｦ辟｡諢丞袖縺ｧ辟｡萓｡蛟､縺ｪ縲∫�濶ｲ縺ｮ荳也阜縲�
+　ない。@……無意味で無価値な、灰色の世界。@
 br
-縲縺ゅ�縲√♀縺槭∪縺励＞蝨ｰ迯�↓關ｽ縺｡繧九％縺ｨ縺縺代�雖後□縺九ｉ縲��￡蝗槭▲縺ｦ縺ｯ縺�ｋ縺代ｌ縺ｩ縲�縺昴�蜈医↓蠕�▽縺九▽縺ｦ縺ｮ譌･蟶ｸ縺ｫ縺ｯ縲∝ｽｩ繧翫ｂ霈昴″繧ゅ↑縺�ｦ窶ｦ縲�
+　あの、おぞましい地獄に落ちることだけは嫌だから、逃げ回ってはいるけれど。@その先に待つかつての日常には、彩りも輝きもない……。\
 
 ld r,AYA_D2,22
 
-縲菴輔°蠕励ｋ繧ゅ�縺ｮ縺溘ａ縺ｫ謌ｦ縺�↑繧峨∵э蜻ｳ縺ｯ隕句�縺帙ｋ縲�
+　何か得るもののために戦うなら、意味は見出せる。@
 br
-縲縺励°縺励∽ｽ輔ｂ蠕励ｋ繧ゅ�縺後↑縺上　窶ｦ窶ｦ縺ｩ縺�○縺�▽縺玖ｿ弱∴繧狗ｴ邯ｻ繧偵√ｏ縺壹°縺ｫ蜈亥ｻｶ縺ｰ縺励☆繧九□縺代�闍ｦ陦後↓縲　遘√◆縺｡縺ｯ荳菴薙∽ｽ輔�諢丞袖繧定ｦ句�縺帙ｋ縺ｨ縺�≧縺ｮ縺繧阪≧窶ｦ�歃
+　しかし、何も得るものがなく、@……どうせいつか迎える破綻を、わずかに先延ばしするだけの苦行に、@私たちは一体、何の意味を見出せるというのだろう…？\
 
 bg kaidan_04,0
 ;ld r,AYA_D4a,22
 ld r,AYA_D2,22
 
-縲蠖ｼ縺ｮ險闡峨�縲∫ｧ√�閭ｸ縺ｫ謚峨ｋ繧医≧縺ｫ遯√″蛻ｺ縺輔ｋ縺ｮ縺窶ｦ窶ｦ縲�
+　彼の言葉は、私の胸に抉るように突き刺さるのだ……。\
 
 ;bg black,22
 
-縲娯ｦ窶ｦ菫ｺ繧ゅ♀蜑阪ｂ縲　窶ｦ窶ｦ�托ｼ馴嚴谿ｵ繧定ｸ上ｓ縺倥∪縺｣縺滓凾轤ｹ縺ｧ縲≫ｦ窶ｦ縺ゅ＞縺､縺ｮ蝨ｰ迯�↓蠑輔″鞫ｺ繧願ｾｼ縺ｾ繧後■縺ｾ縺｣縺溘ｓ縺窶ｦ窶ｦ縲�縺ゅ＞縺､縲∬ｨ縺｣縺ｦ繧九□繧搾ｼ檗縲菫ｺ縺溘■繧ｯ繧ｺ縺悟ｿ�ｭｻ縺ｪ蠖｢逶ｸ縺ｧ騾�￡蝗槭▲縺ｦ繧九�繧定ｦ九ｋ縺ｮ縺梧･ｽ縺励＞縺｣縺ｦ縲�窶ｦ窶ｦ縺ゅ＞縺､縺ｯ菫ｺ縺溘■繧定ｿｽ縺�屓縺励※霑ｽ縺�屓縺励※窶ｦ窶ｦ縲�縺輔ｓ縺悶ｓ讌ｽ縺励ｓ縺蠕後∫ｵ仙ｱ縺ｯ蝨ｰ迯�↓遯√″關ｽ縺ｨ縺吶∵怙謔ｪ縺ｮ豁ｻ逾槭↑繧薙□窶ｦ窶ｦ縲ゅ構
+「……俺もお前も、@……１３階段を踏んじまった時点で、……あいつの地獄に引き摺り込まれちまったんだ……。@あいつ、言ってるだろ？@　俺たちクズが必死な形相で逃げ回ってるのを見るのが楽しいって。@……あいつは俺たちを追い回して追い回して……。@さんざん楽しんだ後、結局は地獄に突き落とす、最悪の死神なんだ……。」\
 
 cl r,0
 mld r,AYA_D4a,22
 
-縲娯ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲ゅ構
+「………………………………。」\
 
-縲後◎繧翫ｃ縺ゅｈ縲≫ｦ窶ｦ縺ゅｓ縺ｪ諱舌ｍ縺励＞蝨ｰ迯�∬誠縺｡縺溘￥縺ｯ縺ｭ縺�ｈ縲�窶ｦ窶ｦ蟷ｸ縺�∽ｻ頑律縺ｯ豌ｴ譖懈律縺縺励↑窶ｦ縲�莉頑律縺ｯ菴輔→縺九↑繧九□繧阪≧縺後≫ｦ窶ｦ繧ゅ≧谺｡縺ｯ辟｡逅�□縲�窶ｦ窶ｦ縺ｸ縺ｸ縲≫ｦ窶ｦ縺ｸ縺ｸ縺ｸ窶ｦ窶ｦ縲�縺ｾ縺√≫ｦ窶ｦ縺ｾ縺√∽ｻ頑律縺ｾ縺ｧ逕溘″蟒ｶ縺ｳ縺滉ｾ｡蛟､縺ｯ縲√■縺｣縺ｨ縺ｯ縺ゅ▲縺溘°縺ｪ窶ｦ窶ｦ縲�窶ｦ窶ｦ縺贋ｻｲ髢薙↓蜃ｺ莨壹∴縺ｦ縲∵�逞ｴ繧貞瑞縺榊�縺帙※窶ｦ窶ｦ縲∝ｰ代＠縺縺代☆縺｣縺阪ｊ縺励◆縺懌ｦ窶ｦ縲�縺ｸ縺ｸ縲≫ｦ窶ｦ縺ｸ縺ｸ縺ｸ縺ｸ縺ｸ窶ｦ窶ｦ窶ｦ縲�縺ゅｓ縺溘ｂ縲≫ｦ窶ｦ縺帙＞縺懊＞雜ｳ謗ｻ縺阪↑縲�窶ｦ窶ｦ閾ｪ蛻�′邏榊ｾ励☆繧九∪縺ｧ縲�窶ｦ窶ｦ窶ｦ蜷後§蝨ｰ迯�〒繧ゅ∫ｴ榊ｾ励☆繧九∪縺ｧ雜ｳ謗ｻ縺�※縺九ｉ縺ｪ繧峨≫ｦ窶ｦ縺ｾ縺縲≫ｦ窶ｦ繝槭す縺九ｂ縺励ｌ縺ｭ縺�＆窶ｦ窶ｦ縲�窶ｦ窶ｦ縺ｸ縺ｸ縺ｸ縺ｸ窶ｦ窶ｦ窶ｦ縺ｸ縺ｸ窶ｦ窶ｦ窶ｦ縲ゅ構
+「そりゃあよ、……あんな恐ろしい地獄、落ちたくはねぇよ。@……幸い、今日は水曜日だしな…。@今日は何とかなるだろうが、……もう次は無理だ。@……へへ、……へへへ……。@まぁ、……まぁ、今日まで生き延びた価値は、ちっとはあったかな……。@……お仲間に出会えて、愚痴を吐き出せて……、少しだけすっきりしたぜ……。@へへ、……へへへへへ………。@あんたも、……せいぜい足掻きな。@……自分が納得するまで。@………同じ地獄でも、納得するまで足掻いてからなら、……まだ、……マシかもしれねぇさ……。@……へへへへ………へへ………。」\
 
 ;mld r,AYA_D2,80
 
-縲蠖ｼ縺ｯ驕碑ｦｳ縺励◆繧医≧縺ｪ縲√≠繧九＞縺ｯ閾ｪ蝌ｲ逧�↑阮�ｬ代＞繧呈ｵｮ縺九∋縲∫┌逅�↓隨代▲縺ｦ縺�◆縲�
+　彼は達観したような、あるいは自嘲的な薄笑いを浮かべ、無理に笑っていた。@
 br
-縲窶ｦ窶ｦ窶ｦ蠖ｼ縺ｫ蟇ｾ縺励∵寺縺代ｋ險闡峨′縲∽ｽ輔ｂ諤昴＞莉倥°縺ｪ縺��
+　………彼に対し、掛ける言葉が、何も思い付かない。\
 
 mcl r,0
 bg black,22
 
-縲縺薙ｌ縺後√う繧ｶ繝翫Α縺後◎縺�〒縺ゅｋ縺ｨ遘ｰ縺吶ｋ繧医≧縺ｫ縲∵悽蠖薙↓繧ｲ繝ｼ繝縺ｪ繧峨�
-縲繝壹リ繝ｫ繝�ぅ縺ｫ蟇ｾ縺励√◎繧後↓隕句粋縺�､堤ｾ弱′縺ゅ▲縺ｦ繧ゅ＞縺��縺壹□縲�
+　これが、イザナミがそうであると称するように、本当にゲームなら。@
+　ペナルティに対し、それに見合う褒美があってもいいはずだ。\
 
-縲縺励°縺励√♀縺槭∪縺励＞繝壹リ繝ｫ繝�ぅ縺後≠繧九□縺代〒縲≫ｦ窶ｦ逕溘″蟒ｶ縺ｳ繧九％縺ｨ縺ｫ縲∽ｽ輔�萓｡蛟､繧ゅ↑縺��
+　しかし、おぞましいペナルティがあるだけで、……生き延びることに、何の価値もない。@
 br
-縲窶ｦ窶ｦ縺昴＠縺ｦ縺ゅ＞縺､縺ｯ縲√◎繧薙↑菴輔�萓｡蛟､繧ゅ↑縺�√け繧ｽ關ｽ縺｡逶ｮ縺ｪ莠ｺ髢薙′螟ｧ螂ｽ迚ｩ縺ｧ窶ｦ窶ｦ縲�
+　……そしてあいつは、そんな何の価値もない、クソ落ち目な人間が大好物で……。@
 br
-縲窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲�
+　………………………………。\
 
 fedexx 0,50,0,0,0,0,2000
 E_B
@@ -2642,45 +2642,45 @@ bg kaidan_02,22
 
 ;mld r,AYA_D4a,80
 
-縲譏ｼ莨代∩縺檎ｵゅｏ繧九メ繝｣繧､繝縺碁ｳｴ繧企涸縺上�
+　昼休みが終わるチャイムが鳴り響く。\
 
-縲窶ｦ窶ｦ遘√�蠖ｼ縺ｫ縲∵�譌･縺区�蠕梧律縺ｫ縺ｯ繧ゅ≧莨壹∴縺ｪ縺�°繧ゅ＠繧後↑縺��
+　……私は彼に、明日か明後日にはもう会えないかもしれない。@
 br
-縲蠖ｼ縺ｮ鬘斐↓縺ｯ縲≫ｦ窶ｦ螟壼�縲∵ｭｻ逶ｸ縺ｨ蜻ｼ縺ｶ縺ｹ縺阪↓驕輔＞縺ｪ縺�ｂ縺ｮ縺後∵ｵｮ縺九ｓ縺ｧ縺�◆縺九ｉ縲�
+　彼の顔には、……多分、死相と呼ぶべきに違いないものが、浮かんでいたから。\
 
 ;bg black,22
 ld r,AYA_D7a,22
 
-縲窶ｦ窶ｦ窶ｦ窶ｦ遘√ｂ繧�′縺ｦ縺ｯ縲∝ｽｼ縺ｮ繧医≧縺ｫ逍ｲ繧後″繧翫√≠縺ｮ蝨ｰ迯�ｒ蜿励￠螳ｹ繧後ｋ繧医≧縺ｫ縺ｪ繧九�縺繧阪≧縺九�
+　…………私もやがては、彼のように疲れきり、あの地獄を受け容れるようになるのだろうか。@
 br
-縲窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲�
+　………………………。\
 
 ;mld r,AYA_D7a,80
 
 bg black,22
 
-縲雖後□窶ｦ窶ｦ縲�縺ゅｓ縺ｪ諱舌ｍ縺励＞蝨ｰ迯�↓縲≫ｦ窶ｦ邨ｶ蟇ｾ縺ｫ關ｽ縺｡縺溘￥縺ｪ繧薙°縺ｪ縺��
+　嫌だ……。@あんな恐ろしい地獄に、……絶対に落ちたくなんかない。@
 br
-縲縺昴≧諤昴≧縺ｮ縺ｯ縲∫ｧ√↓縺ｾ縺菴灘鴨縺ｨ豌怜鴨縺後≠繧九°繧峨□繧阪≧縲�
+　そう思うのは、私にまだ体力と気力があるからだろう。@
 br
-縲縺薙ｌ縺九ｉ�鷹ｱ髢灘ｾ後�ｼ帝ｱ髢灘ｾ後↓縲∝ｽｼ縺ｮ蠅�慍縺ｫ閾ｳ繧峨↑縺�→縺�≧菫晁ｨｼ縺ｯ縲√←縺薙↓繧ゅ↑縺九▲縺溘�
+　これから１週間後、２週間後に、彼の境地に至らないという保証は、どこにもなかった。\
 
 bg kaidan_04,22
 
-縲蛻･繧碁圀縺ｫ縲≫ｦ窶ｦ縺ｵ縺ｨ豌励↓縺ｪ繧九％縺ｨ繧呈昴＞蜃ｺ縺励√◎繧後ｒ蠖ｼ縺ｸ縺ｮ譛蠕後�雉ｪ蝠上→縺励◆縲�
+　別れ際に、……ふと気になることを思い出し、それを彼への最後の質問とした。\
 
 fede 0,1000
 E_A
 
 ld r,AYA_D8a,24
 
-縲娯ｦ窶ｦ縺輔▲縺阪　/
+「……さっき、@/
 bgm1 14
-窶ｦ窶ｦ莉頑律縺ｯ豌ｴ譖懈律縺縺九ｉ菴輔→縺九↑繧九°繧ゅ√▲縺ｦ險縺�∪縺励◆繧医�窶ｦ窶ｦ�溘后
+……今日は水曜日だから何とかなるかも、って言いましたよね……？」@
 br
-縲遒ｺ縺九↓險縺｣縺溘�莉頑律縺ｯ豌ｴ譖懈律縺縺励↑縲∽ｻ頑律縺ｯ菴輔→縺九↑繧九□繧阪≧縺後→縲∫｢ｺ縺九↓險縺｣縺溘�
+　確かに言った。@今日は水曜日だしな、今日は何とかなるだろうがと、確かに言った。\
 
-縲後≠縲≫ｦ窶ｦ縺ゅ＝縲�窶ｦ窶ｦ逅�罰縺ｯ繧上°繧峨�縺�′縲�窶ｦ窶ｦ縺ｩ縺�＞縺�ｏ縺代°縲∵怦譖懊→豌ｴ譖懊→蝨滓屆縺ｯ縲∝ｰ代＠縺縺第凾髢薙′遏ｭ縺�ｓ縺縲�窶ｦ窶ｦ騾�↓縲∫↓譖懊→譛ｨ譖懊→驥第屆縺ｯ髟ｷ縺��譏ｨ譌･縺ｯ轣ｫ譖懊□縺九ｉ譛謔ｪ縺縺｣縺溘�窶ｦ窶ｦ莉頑律縺ｯ豌ｴ譖懊□縺九ｉ螟壼ｰ代�繧ｷ縺縺後≫ｦ窶ｦ縺昴�谺｡縺ｯ譛ｨ譖懊□縲�窶ｦ窶ｦ繧ゅ≧縲∽ｿｺ縺ｯ蜉ｩ縺九ｉ縺ｭ縺�ｦ窶ｦ縲ゅ構
+「あ、……あぁ。@……理由はわからねぇが。@……どういうわけか、月曜と水曜と土曜は、少しだけ時間が短いんだ。@……逆に、火曜と木曜と金曜は長い。@昨日は火曜だから最悪だった。@……今日は水曜だから多少マシだが、……その次は木曜だ。@……もう、俺は助からねぇ……。」\
 
 ;cl r,0
 ;ld r,AYA_D4a,80
@@ -2690,25 +2690,25 @@ bg black,22
 mono 1
 bg rouka_04,22
 
-縲遒ｺ縺九↓縲∫ｧ√��鷹ｱ髢薙ｂ縲∝ｰ代＠縺昴�諢溘§縺ｯ縺励※縺�◆縲�
+　確かに、私の１週間も、少しその感じはしていた。@
 br
-縲蜈ｨ菴鍋噪縺ｫ隕九ｌ縺ｰ縲∝ｰ代＠縺壹▽譌･縲��繝弱Ν繝槭�莨ｸ縺ｳ縺ｦ縺�ｋ縲�
-縲縺励°縺励∫｢ｺ縺九↓蜑肴律繧医ｊ譎る俣縺檎洒縺�律縺ｯ縺ゅ▲縺溘�
+　全体的に見れば、少しずつ日々のノルマは伸びている。@
+　しかし、確かに前日より時間が短い日はあった。\
 
-縲窶ｦ窶ｦ縺励°縺励∝ｽｼ縺ｮ險縺�屆譌･縺ｨ縺ｯ蜷医ｏ縺ｪ縺�ｰ励′縺吶ｋ縲�
+　……しかし、彼の言う曜日とは合わない気がする。@
 br
-縲蠖ｼ縺瑚ｨ縺�↓縺ｯ縲∵乖譌･縺ｮ轣ｫ譖懊�縲�聞縺�ｉ縺励＞縲�
-縲縺励°縺励∫ｧ√↓縺ｨ縺｣縺ｦ縺ｮ譏ｨ譌･縺ｯ縲∝燕譌･繧医ｊ遏ｭ縺九▲縺溘�
+　彼が言うには、昨日の火曜は、長いらしい。@
+　しかし、私にとっての昨日は、前日より短かった。\
 
 ;ld r,AYA_D7a,80
 
 bg black,22
 mono 0
 
-縲窶ｦ窶ｦ遘√�縲√◆縺ｾ縺ｫ遏ｭ縺上↑繧区律縺ｯ縲√う繧ｶ繝翫Α縺ｮ豌礼ｴ帙ｌ縺倶ｽ輔°縺縺ｨ諤昴▲縺ｦ縺�◆縲�
-縲縺励°縺励∝ｽｼ縺瑚ｨ縺�↓縺ｯ縲√◎縺ｮ遏ｭ縺上↑繧区律縺ｯ譖懈律縺ｧ豎ｺ縺ｾ縺｣縺ｦ縺�ｋ縺ｨ縺�≧縲�
+　……私は、たまに短くなる日は、イザナミの気紛れか何かだと思っていた。@
+　しかし、彼が言うには、その短くなる日は曜日で決まっているという。@
 br
-縲縺昴�譖懈律縺後√↑縺懊°蠖ｼ縺ｨ鬟溘＞驕輔≧縲�
+　その曜日が、なぜか彼と食い違う。\
 
 ;cl r,0
 ;bg black,22
@@ -2716,20 +2716,20 @@ bg Different_spiral_1b,22
 
 me1v 19,70
 
-縲蠢�★豎ｺ縺ｾ縺｣縺滓屆譌･縺ｫ遏ｭ縺上↑繧九→縺�≧豕募援諤ｧ縺後≠繧翫↑縺後ｉ縲　窶ｦ窶ｦ縺ｪ縺懊°遘√→蠖ｼ縺ｧ縲√◎縺ｮ譖懈律縺檎焚縺ｪ繧九→縺�≧荳肴晁ｭｰ縲�
+　必ず決まった曜日に短くなるという法則性がありながら、@……なぜか私と彼で、その曜日が異なるという不思議。@
 br
-縲窶ｦ窶ｦ窶ｦ縺ｩ縺�○豁ｻ逾槭�豌礼ｴ帙ｌ縲�閠�∴繧九□縺第凾髢薙�辟｡鬧�□繧阪≧縺九�
+　………どうせ死神の気紛れ。@考えるだけ時間の無駄だろうか。\
 
-縲遘√�蠖ｼ縺ｨ驕輔＞縲≫ｦ窶ｦ縺ｾ縺縺ｾ縺豌怜鴨縺後≠繧九�
-縲縺ゅ�蝨ｰ迯�↓縺縺代�邨ｶ蟇ｾ縺ｫ關ｽ縺｡縺溘￥縺ｪ縺�→縺�≧縲∝ｿ��蠑ｷ縺輔′縺ゅｋ縲�
+　私は彼と違い、……まだまだ気力がある。@
+　あの地獄にだけは絶対に落ちたくないという、心の強さがある。@
 br
-縲窶ｦ窶ｦ縺昴�蠑ｷ縺輔′縺ゅｋ蜀�↓縲≫ｦ窶ｦ菴輔°縺ｮ縲∝ｿ�享豕輔�繧医≧縺ｪ繧ゅ�繧定ｦ九▽縺大�縺吝ｿ�ｦ√′縺ゅｋ縲�
+　……その強さがある内に、……何かの、必勝法のようなものを見つけ出す必要がある。\
 
-縲繧､繧ｶ繝翫Α縺ｯ縲√け繧ｽ關ｽ縺｡逶ｮ縺ｪ繧ｬ繧ｭ縺悟､ｧ螂ｽ迚ｩ縲�
-縲縺九▽縺ｦ縺ｮ逕滄ｄ閠�□縺｣縺ｦ縲∫ｧ√→螟ｧ蟾ｮ縺ｪ縺�ｭ舌□縺｣縺溘↓驕輔＞縺ｪ縺��縺縲�
+　イザナミは、クソ落ち目なガキが大好物。@
+　かつての生還者だって、私と大差ない子だったに違いないのだ。@
 br
-縲縺昴�蟄舌�逕滄ｄ縺励◆縲�窶ｦ窶ｦ謨ｰ譎る俣繧呈ｯ取律縲∬ｵｰ繧雁屓縺｣縺溘→縺ｯ蛻ｰ蠎墓昴∴縺ｪ縺��
-縲縺�∪縺上ｄ繧企℃縺斐＠縺溘ｊ縺吶ｋ縲∽ｽ輔ｉ縺九�陬乗橿縺後″縺｣縺ｨ縺ゅ▲縺溘�縺縲�
+　その子は生還した。@……数時間を毎日、走り回ったとは到底思えない。@
+　うまくやり過ごしたりする、何らかの裏技がきっとあったのだ。\
 
 bg black,22
 
@@ -2739,9 +2739,9 @@ E_MA
 bg kaidan_03,0
 ld c,AYA_D7a,22
 
-縲蠖ｼ縺ｨ遘√�縲∵屆譌･縺ｮ驕輔＞縲�
+　彼と私の、曜日の違い。@
 br
-縲縺薙％縺ｫ縲∽ｽ輔°縺ｮ遘伜ｯ�′髫縺輔ｌ縺ｦ縺�ｋ縺ｫ驕輔＞縺ｪ縺�→縲　窶ｦ窶ｦ遘√�荳ｭ縺ｮ縲√∪縺豁ｻ縺ｫ縺溘￥縺ｪ縺�→縺�≧豌怜鴨縺悟宦縺�※縺�◆縲�
+　ここに、何かの秘密が隠されているに違いないと、@……私の中の、まだ死にたくないという気力が囁いていた。\
 
 textoff
 
@@ -2767,11 +2767,11 @@ ld l,IZA_D5,2
 se1v 2,100
 ld l,IZA_D6,80
 
-縲後∈縺｣縺ｸ縺ｸ縺ｸ縺ｸ��ｼ　縲縺輔＝縲√≠繧�■繧�ぃ繧難ｼ�ｼ　縲莉頑律繧ゅ●縺�●縺�＠縺ｪ縺後ｉ縲∵ｱ励□縺上〒騾�￡蝗槭ｋ蟋ｿ縺ｧ讌ｽ縺励∪縺帙※縺上ｌ繧�ぃ窶ｦ��ｼ√構
+「へっへへへへ！！@　さぁ、あやちゃァん！！@　今日もぜぇぜぇしながら、汗だくで逃げ回る姿で楽しませてくれやァ…！！」\
 
 ld r,AYA_D7a,22
 
-縲娯ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲ゅ構
+「……………………。」\
 
 cl r,23
 
@@ -2779,37 +2779,37 @@ cl r,23
 cl l,0
 ld c,IZA_D5,23
 
-縲後＆繧｡縲∬ｵｰ繧後ｄ襍ｰ繧後ぉ��ｼ　縲鬆ｭ繧ｫ繝ｩ繝��縺ｫ縺励※縲√メ繝｣繧､繝縺ｾ縺ｧ縺ｲ縺溘☆繧峨↓襍ｰ繧雁屓繧後ｄ繧｡��ｼ　縲縺上▲縺ｲ繧�▲縺ｲ繧�▲縺ｲ繧�≠繧｡��ｼ√構
+「さァ、走れや走れェ！！@　頭カラッポにして、チャイムまでひたすらに走り回れやァ！！@　くっひゃっひゃっひゃあァ！！」\
 
 bg black,2
 bg rouka_04,22
 
 
-縲蠖ｼ縺ｯ豌ｴ譖懊�遏ｭ縺�→險縺｣縺ｦ縺�◆縲�縺ｧ繧ゅ√ｄ縺ｯ繧翫∫ｧ√�豌ｴ譖懊�驕輔≧縲�譎りｨ医�驥昴�縲∵乖譌･繧医ｊ繧る□騾縺�※縺�◆縲�
+　彼は水曜は短いと言っていた。@でも、やはり、私の水曜は違う。@時計の針は、昨日よりも遠退いていた。@
 br
-縲窶ｦ窶ｦ莉頑律繧ゑｼ第凾髢薙◆縺｣縺ｷ繧翫∵｡蜀�ｒ鬧�￠蝗槭ｋ縺薙→縺ｫ縺ｪ繧九�
+　……今日も１時間たっぷり、校内を駆け回ることになる。\
 
-縲逕溘″蟒ｶ縺ｳ縺ｦ菴輔°繧偵＠縺溘＞縺ｪ繧薙※縲∝燕蜷代″縺ｪ豌玲戟縺｡縺ｯ菴輔ｂ縺ｪ縺��
+　生き延びて何かをしたいなんて、前向きな気持ちは何もない。@
 br
-縲縺ゅｋ縺ｮ縺ｯ縲√≠縺ｮ蝨ｰ迯�□縺代�縺斐ａ繧薙□縺ｨ縺�≧縲∝ｾ後ｍ蜷代″縺ｪ豌玲戟縺｡縺縺代�
+　あるのは、あの地獄だけはごめんだという、後ろ向きな気持ちだけ。\
 
 bg black,23
 bg rouka_02,23
 
-縲窶ｦ窶ｦ縺昴ｓ縺ｪ縺薙→閠�∴繧九□縺代∽ｽ灘鴨縺ｮ辟｡鬧�▲縺�□縲�
+　……そんなこと考えるだけ、体力の無駄遣いだ。@
 br
-縲繧､繧ｶ繝翫Α縺ｮ險縺�壹ｊ縲≫ｦ窶ｦ鬆ｭ繧偵き繝ｩ繝��縺ｫ縺励※縲√�縺溘☆繧峨↓襍ｰ繧顔ｶ壹￠繧九�縺梧怙蝟�↑縺ｮ縺縲�
+　イザナミの言う通り、……頭をカラッポにして、ひたすらに走り続けるのが最善なのだ。\
 
-縲�第凾髢薙�縲�°蜍輔�闍ｦ謇九↑遘√↓縺ｯ縲√☆縺ｧ縺ｫ髯千阜縺ｫ繧らｭ峨＠縺�凾髢薙□縲�
+　１時間は、運動の苦手な私には、すでに限界にも等しい時間だ。@
 br
-縲譏ｨ譌･縺ｾ縺ｧ縺ｮ遘√↑繧峨�縲∫ｵｶ譛帙↓貎ｰ縺輔ｌ縺昴≧縺ｫ縺ｪ縺｣縺ｦ縺�◆縺繧阪≧縲�
+　昨日までの私ならば、絶望に潰されそうになっていただろう。\
 
 ld c,AYA_D6a,24
 ld c,AYA_D8a,80
 
-縲窶ｦ窶ｦ縺励°縺励∽ｻ翫�蟆代＠縺縺鷹＆縺��
+　……しかし、今は少しだけ違う。@
 br
-縲譖懈律縺ｫ髫縺輔ｌ縺溽ｧ伜ｯ��窶ｦ窶ｦ縺昴ｌ縺ｫ豌嶺ｻ倥￠縺ｰ縲≫ｦ窶ｦ縺ｲ繧�▲縺ｨ縺励◆繧峨∫函縺榊ｻｶ縺ｳ繧九％縺ｨ縺悟�譚･繧九°繧ゅ＠繧後↑縺�→縺�≧蟶梧悍縺後≠繧九�
+　曜日に隠された秘密。@……それに気付けば、……ひょっとしたら、生き延びることが出来るかもしれないという希望がある。\
 
 cl c,23
 bg black,23
@@ -2819,23 +2819,23 @@ wait 1000
 bg rouka_03,2
 ld r,IZA_D2,22
 
-縲後♀蜑阪ｂ繧医￥鬆大ｼｵ縺｣縺溘↑繧｡縲�窶ｦ窶ｦ縺ｧ繧ゅｈ繧ｩ縲√ｂ縺�剞逡後□繧阪か�溘后
+「お前もよく頑張ったなァ。@……でもよォ、もう限界だろォ？」@
 
 
 ld l,AYA_D7a,23
 
-縲娯ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲ゅ構
+「…………………………。」\
 
 ld r,IZA_D5,80
 
-縲後◎繧薙↑縺ｫ豁ｻ縺梧悶ぉ縺ｮ縺九ぃ�檗縲縺九▽縺ｦ縺ｯ豁ｻ縺ｫ縺溘′繧翫□縺｣縺溘￥縺帙↓繧医か縲�窶ｦ窶ｦ縺ｾ繧｡縲√≠繧薙↑蝨ｰ迯�ｒ隕九○繧峨ｌ縺｡繧�ぃ縲∵ｰ励′螟峨ｏ繧九�繧ら┌逅��縺ｭ繧ｧ縺後↑繧｡縲�縺上▲縺上￥縺上￥��ｼ　縲縺昴≧縺ｾ縺ｧ縺励※縲√←縺�＠縺ｦ逕溘″縺溘＞�檗縲逕溘″縺ｦ縺溘▲縺ｦ縲√←縺�○縺溘□縺ｼ繧薙ｄ繧翫→蟇晄�縺代※驕弱＃縺吶□縺代□繧阪か縺後ゅ構
+「そんなに死が怖ェのかァ？@　かつては死にたがりだったくせによォ。@……まァ、あんな地獄を見せられちゃァ、気が変わるのも無理はねェがなァ。@くっくくくく！！@　そうまでして、どうして生きたい？@　生きてたって、どうせただぼんやりと寝惚けて過ごすだけだろォが。」\
 
 ;ld l,AYA_D7a,80
 cl l,24
 
-縲娯ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲ゅ后
+「………………………。」@
 br
-縲謖醍匱縺吶ｋ縺九�繧医≧縺ｫ縲√う繧ｶ繝翫Α縺ｯ遘√ｒ蝌ｲ隨代＞邯壹￠繧九�
+　挑発するかのように、イザナミは私を嘲笑い続ける。\
 
 ;ld l,AYA_D8a,80
 ;wait 500
@@ -2848,24 +2848,24 @@ ld c,IZA_D5,24
 bg black,22
 bg rouka_02,22
 
-縲窶ｦ窶ｦ縺ｩ縺�＠縺ｦ逕溘″縺溘＞縺ｮ縺九→縺九�逕溘″繧区э蜻ｳ縺ｨ縺倶ｾ｡蛟､縺ｨ縺九≫ｦ窶ｦ閠�∴縺溘＞縺薙→縲∝撫縺�寺縺代◆縺�％縺ｨ縲∬牡縲�≠繧九�
+　……どうして生きたいのかとか。@生きる意味とか価値とか、……考えたいこと、問い掛けたいこと、色々ある。@
 br
-縲縺ｧ繧ゅ∵ｱ励□縺上↓縺ｪ縺｣縺ｦ襍ｰ繧雁屓縺｣縺ｦ縺�ｋ縺ｨ縲√◎繧薙↑縺薙→繧定�∴縺ｦ縺�ｋ證�＆縺医↑縺��
-縲縺ゅ＞縺､縺ｮ謌ｯ險縺ｫ閠ｳ繧定ｲｸ縺励※繧倶ｽ呵｣輔↑繧薙※縲∫ｧ√↓縺ｯ縺ｪ縺��縺縲�
+　でも、汗だくになって走り回っていると、そんなことを考えている暇さえない。@
+　あいつの戯言に耳を貸してる余裕なんて、私にはないのだ。\
 
 bg black,23
 bg rouka_01,23
 
 me1v 17,70
 
-縲縺溘□襍ｰ縺｣縺ｦ縲√Ζ繝�′霑ｽ縺�ｻ倥￥縺ｾ縺ｧ繧剃ｼ代∩縺ｫ蠕ｹ縺励※縲∝他蜷ｸ繧呈紛縺医※縲≫ｦ窶ｦ縺ｾ縺溯ｵｰ繧九�
-縲縺昴ｌ繧偵メ繝｣繧､繝縺碁ｳｴ繧九∪縺ｧ縲√◆縺縺ｲ縺溘☆繧峨↓蟒ｶ縲�→郢ｰ繧願ｿ斐☆縲�
+　ただ走って、ヤツが追い付くまでを休みに徹して、呼吸を整えて、……また走る。@
+　それをチャイムが鳴るまで、ただひたすらに延々と繰り返す。@
 br
-縲豎励□縺上↓縺ｪ縺｣縺ｦ縲∝ｿ�∮縺檎ｴ陬ゅ☆繧九°縺ｨ諤昴≧縺ｻ縺ｩ縺ｫ縺ｪ繧九∪縺ｧ縲�
+　汗だくになって、心臓が破裂するかと思うほどになるまで。\
 
 bg black,22
 
-縲窶ｦ窶ｦ窶ｦ辟｡謌代�蠅�慍縺ｧ縲√◆縺縺ｲ縺溘☆繧峨↓鬧�￠蝗槭ｋ蜀�↓縲　縺昴�譌･縺ｯ繝√Ε繧､繝繧貞髄縺九∴繧九％縺ｨ縺悟�譚･縺溪ｦ窶ｦ縲�
+　………無我の境地で、ただひたすらに駆け回る内に、@その日はチャイムを向かえることが出来た……。\
 
 se3v 66,100
 se1v 69,100
@@ -2889,22 +2889,22 @@ bg kyou_04,22
 
 me1v 24,50
 
-縲谺｡縺ｮ譌･縲�
-縲螟ｧ驥悟�霈ｩ繧定ｨｪ縺ｭ繧九→縲≫ｦ窶ｦ窶ｦ窶ｦ繧ｯ繝ｩ繧ｹ繝｡繝ｼ繝医�縲√◎繧薙↑逕溷ｾ偵�縺�↑縺�→隨代▲縺溘�
+　次の日。@
+　大里先輩を訪ねると、…………クラスメートは、そんな生徒はいないと笑った。@
 br
-縲窶ｦ窶ｦ菴輔→縺ｪ縺上√ｏ縺九▲縺ｦ縺溘�
-縲蠖ｼ縺ｮ蟄伜惠縺ｯ縲∝ｸｭ縺斐→縲√↑縺上↑縺｣縺ｦ縺�◆縲�
+　……何となく、わかってた。@
+　彼の存在は、席ごと、なくなっていた。\
 
-縲縺薙ｌ縺悟ｭｦ譬｡蜈ｫ荳肴晁ｭｰ縺ｮ縲�ｼ托ｼ馴嚴谿ｵ縺ｮ豁ｻ逾槭↓蜻ｪ繧上ｌ縺溯��縲≫ｦ窶ｦ譛ｫ霍ｯ縺ｪ縺ｮ縺縲�
+　これが学校八不思議の、１３階段の死神に呪われた者の、……末路なのだ。\
 
-縲蜚ｯ荳縺ｮ莉ｲ髢薙ｒ螟ｱ縺�≫ｦ窶ｦ遘√�蠢�′邨ｶ譛帙↓謚ｼ縺玲ｽｰ縺輔ｌ縺昴≧縺ｫ縺ｪ繧九�
+　唯一の仲間を失い、……私の心が絶望に押し潰されそうになる。@
 br
-縲蠖ｼ縺後≠縺ｮ縲∬ャ陲九�蝨ｰ迯�〒縺薙ｌ縺九ｉ豌ｸ驕縺ｫ闍ｦ縺励�縺薙→繧呈昴≧縺ｨ縲∵＄諤悶↓蜈ｨ霄ｫ縺悟㍾繧贋ｻ倥″縺昴≧縺縺｣縺溘�
+　彼があの、胃袋の地獄でこれから永遠に苦しむことを思うと、恐怖に全身が凍り付きそうだった。\
 
 se1v 11,30
 quakex 2,100
 
-縲謨吝ｮ､縺ｮ蜑阪〒菫ｯ縺�※縺�ｋ縺ｨ縲≫ｦ窶ｦ荳顔ｴ夂函縺ｮ螂ｳ蟄舌↓縲√←繧薙→閧ｩ繧偵�縺､縺代ｉ繧後◆縲�
+　教室の前で俯いていると、……上級生の女子に、どんと肩をぶつけられた。\
 
 textoff
 
@@ -2916,152 +2916,152 @@ ld c,HIG_D5,22
 
 bgm1 5
 
-縲御ｽ輔〒荳狗ｴ夂函縺後％繧薙↑縺ｨ縺薙↓縺�ｋ縺ｮ�檗縲縺昴ｓ縺ｪ縺ｨ縺薙↓遯√▲遶九▲縺ｦ縺溘ｉ驍ｪ鬲斐□繧上�縺上☆縺上☆縺上☆縺上☆窶ｦ窶ｦ窶ｦ窶ｦ縲ゅ后
-;�懷ｽｼ蟯ｸ闃ｱ
+「何で下級生がこんなとこにいるの？@　そんなとこに突っ立ってたら邪魔だわ。@くすくすくすくす…………。」@
+;＜彼岸花
 br
-縲窶ｦ窶ｦ蜿ｯ諞舌↑蟄舌□縺｣縺溘�縺薙ｓ縺ｪ鬮ｪ縺檎ｶｺ鮗励↑螂ｳ縺ｮ蟄舌↓逕溘∪繧後ｉ繧後◆繧峨　縺輔◇繧�ｺｺ逕溘′蟷ｸ縺帙□縺｣縺溘ｍ縺�↓縲�
+　……可憐な子だった。@こんな髪が綺麗な女の子に生まれられたら、@さぞや人生が幸せだったろうに。\
 
 cl c,22
 
-縲遘√�閼�ｒ騾壹ｊ驕弱℃縺ｦ謨吝ｮ､縺ｫ蜈･縺｣縺溷ｰ大･ｳ縺ｯ縲　螢√↓雋ｼ繧峨ｌ縺ｦ縺�ｋ譎る俣蜑ｲ繧定ｦ九※縲∬か繧堤ｫｦ繧√ｋ縲�
+　私の脇を通り過ぎて教室に入った少女は、@壁に貼られている時間割を見て、肩を竦める。\
 
 bg black,22
 bg kyou_01,22
 ld l,HIG_D5,22
 
-縲梧悽蠖薙↓譛菴弱↑譎る俣蜑ｲ繧医�縲�窶ｦ窶ｦ縺ｩ縺�＠縺ｦ蜊亥ｾ後ｒ蜆ｪ髮�↓讌ｽ縺励ａ繧句悄譖懈律縺ｫ菴楢ご縺ｪ繧薙°縺ゅｋ縺ｮ縺九＠繧峨ゅ后
+「本当に最低な時間割よね。@……どうして午後を優雅に楽しめる土曜日に体育なんかあるのかしら。」@
 br
-縲窶ｦ窶ｦ縺薙�繧ｯ繝ｩ繧ｹ縺ｯ縲∝悄譖懈律縺ｫ菴楢ご縺ｮ謗域･ｭ縺後≠繧九ｈ縺�□縺｣縺溘�
+　……このクラスは、土曜日に体育の授業があるようだった。\
 
 ld l,HIG_W3,80
 
-縲檎ｧ√∽ｽ楢ご縺ｮ謗域･ｭ縺ｯ螟ｧ雖後＞縺ｪ縺ｮ縲�窶ｦ窶ｦ縺縺九ｉ莉頑律縺ｨ譏取律縺ｯ縲∝､壼ｰ代�繝槭す縺ｭ縲�縺ゅ＝縲∽ｽ楢ご縺ｪ繧薙※縲√％縺ｮ荳悶°繧画ｶ医∴縺ｦ縺ｪ縺上↑繧峨↑縺�°縺励ｉ縲�窶ｦ窶ｦ縺上☆縺上☆縺上☆縺上☆窶ｦ窶ｦ縲ゅ構
+「私、体育の授業は大嫌いなの。@……だから今日と明日は、多少はマシね。@あぁ、体育なんて、この世から消えてなくならないかしら。@……くすくすくすくす……。」\
 
 cl l,2
 bg black,22
 bg kyou_03,22
 
-縲蟆大･ｳ縺ｮ閧ｩ雜翫＠縺ｫ縲√％縺ｮ繧ｯ繝ｩ繧ｹ縺ｮ譎る俣蜑ｲ縺瑚ｦ九∴繧九�
+　少女の肩越しに、このクラスの時間割が見える。@
 br
-縲遒ｺ縺九↓縲∽ｻ頑律縺ｨ譏取律縲≫ｦ窶ｦ譛ｨ譖懊→驥第屆縺ｯ縲√％縺ｮ繧ｯ繝ｩ繧ｹ縺ｫ縺ｯ菴楢ご縺ｮ謗域･ｭ縺後↑縺�ｈ縺�□縺｣縺溘�
+　確かに、今日と明日、……木曜と金曜は、このクラスには体育の授業がないようだった。\
 
-縲窶ｦ窶ｦ蠖鍋┯縺ｮ縺薙→縺縺後≫ｦ窶ｦ譎る俣蜑ｲ縺ｯ繧ｯ繝ｩ繧ｹ縺ｫ繧医▲縺ｦ驕輔≧縲�
-縲縺薙�繧ｯ繝ｩ繧ｹ縺ｧ縺ｯ縲∽ｽ楢ご縺ｯ縲∵怦譖懊→豌ｴ譖懊→蝨滓屆縺ｫ縺ゅｋ縲�
+　……当然のことだが、……時間割はクラスによって違う。@
+　このクラスでは、体育は、月曜と水曜と土曜にある。@
 br
 E_A
-縲窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縺昴ｌ縺ｯ縲≫ｦ窶ｦ蠖ｼ縺瑚ｨ縺｣縺ｦ縺�◆縲∬ｵｰ繧区凾髢薙�遏ｭ縺上↑繧区屆譌･縺縲�
+　……………それは、……彼が言っていた、走る時間の短くなる曜日だ。\
 
 bgm1 18
 
 bg black,22
 
-縲縺倥ｃ縲√§繧�≠縲∫ｧ√�繧ｯ繝ｩ繧ｹ縺ｯ縺ｩ縺�□繧阪≧窶ｦ�檗
+　じゃ、じゃあ、私のクラスはどうだろう…？@
 br
-縲縺､縺ｾ繧岩ｦ窶ｦ窶ｦ縲∽ｽ楢ご縺ｮ謗域･ｭ縺後≠繧九→縲≫ｦ窶ｦ遏ｭ縺上↑繧銀ｦ窶ｦ�歃
+　つまり………、体育の授業があると、……短くなる……？\
 
 bg koutei_01,2
 
 me1v 31,50
 
-縲縺昴�譌･縺ｮ蜊亥ｾ後�縲∫ｧ√�繧ｯ繝ｩ繧ｹ縺ｧ縺ｯ菴楢ご縺ｮ譎る俣縺縺｣縺溘�
-縲逕ｷ蟄舌�謔ｪ縺ｵ縺悶￠縺碁℃縺弱※縲∝�逕溘ｒ諤偵ｉ縺帙※縺励∪縺�　縺昴�譌･縺ｯ縲∝ｻｶ縲�→譬｡蠎ｭ繧定ｵｰ繧雁屓繧峨○繧峨ｌ繧九％縺ｨ縺ｫ縺ｪ縺｣縺溘�
+　その日の午後は、私のクラスでは体育の時間だった。@
+　男子の悪ふざけが過ぎて、先生を怒らせてしまい、@その日は、延々と校庭を走り回らせられることになった。@
 br
-縲謾ｾ隱ｲ蠕後�縺溘ａ縺ｫ縲∝ｰ代＠縺ｧ繧ゆｽ灘鴨繧呈ｸｩ蟄倥＠縺ｦ縺翫″縺溘°縺｣縺溘�縺ｫ窶ｦ窶ｦ縲�
+　放課後のために、少しでも体力を温存しておきたかったのに……。\
 
 bg black,22
 
-縲縺昴�譎ゅ�遘√�螟ｧ縺�↓縺ｼ繧�＞縺溘�
+　その時は私は大いにぼやいた。@
 br
-縲縺励°縺励∵叛隱ｲ蠕後ｒ霑弱∴縲√う繧ｶ繝翫Α縺ｮ荳也阜縺ｧ譎りｨ医ｒ隕倶ｸ翫￡縺滓凾縲�窶ｦ窶ｦ縺ｯ縺｣縺阪ｊ縺ｨ遒ｺ菫｡縺励◆縲�
+　しかし、放課後を迎え、イザナミの世界で時計を見上げた時。@……はっきりと確信した。\
 
 fede 10,1000
 E_MA
 
 bg rouka_04,22
 
-縲娯ｦ窶ｦ窶ｦ縺吶√☆縺斐￥譎る俣縺後≫ｦ窶ｦ窶ｦ貂帙▲縺ｦ繧銀ｦ窶ｦ窶ｦ窶ｦ縲ゅ構
+「………す、すごく時間が、………減ってる…………。」\
 
-縲遒ｺ縺九↓菴楢ご縺ｮ縺ゅｋ譖懈律縺ｯ縺�▽繧ゅ∵凾髢薙′遏ｭ縺九▲縺溘�
+　確かに体育のある曜日はいつも、時間が短かった。@
 br
-縲菴楢ご縺ｮ譎ゅ↓縺ｯ縲∵ｺ門ｙ驕句虚縺ｮ縺ゅ→縲∝ｿ�★譬｡蠎ｭ繧偵＄繧九ｊ縺ｨ襍ｰ繧峨＆繧後ｋ縲�
-縲縺ｧ繧ゅ∽ｻ頑律縺ｯ縺昴ｌ縺ｫ蜉縺医√＆繧峨↓縺舌ｋ縺舌ｋ縺ｨ襍ｰ繧雁屓繧峨＆繧後◆縲�
+　体育の時には、準備運動のあと、必ず校庭をぐるりと走らされる。@
+　でも、今日はそれに加え、さらにぐるぐると走り回らされた。@
 br
-縲縺昴�蛻�′縲∝､ｧ縺阪￥繝√Ε繧､繝縺ｾ縺ｧ縺ｮ譎る俣繧呈ｸ帙ｉ縺励※縺�ｋ縺ｮ縺窶ｦ窶ｦ縲�
+　その分が、大きくチャイムまでの時間を減らしているのだ……。\
 
 bg black,22
 bg kyou_02u,22
 ld c,IZA_D3,22
 ld c,IZA_D2,80
 
-縲後♀繧�♀繧�ぃ窶ｦ��ｼ　縲縺ｩ縺�＞縺�ｏ縺代°縲∽ｻ頑律縺ｯ縺頑･ｽ縺励∩縺ｮ譎る俣縺後■繧�＞縺ｨ遏ｭ繧√□繧｡�√后
+「おやおやァ…！！@　どういうわけか、今日はお楽しみの時間がちょいと短めだァ！」@
 br
-縲繧､繧ｶ繝翫Α縺ｯ縺励ｉ縺ｰ縺｣縺上ｌ繧九′縲≫ｦ窶ｦ繧ゅ≧遘√↓縺ｯ繧上°縺｣縺ｦ繧九�
+　イザナミはしらばっくれるが、……もう私にはわかってる。\
 
-縲縺昴＠縺ｦ螟壼�縲�窶ｦ窶ｦ縺薙ｌ縺後√う繧ｶ繝翫Α縺ｮ繧ｲ繝ｼ繝縺ｮ縲∝髪荳縺ｮ蠢�享豕補ｦ窶ｦ縲�
+　そして多分。@……これが、イザナミのゲームの、唯一の必勝法……。@
 br
-縲縺昴�譌･縲∬ｵｰ縺｣縺ｦ縺�ｌ縺ｰ襍ｰ縺｣縺ｦ縺�ｋ縺ｻ縺ｩ縲�窶ｦ窶ｦ繧､繧ｶ繝翫Α縺ｮ荳也阜縺ｮ譎る俣縺ｯ遏ｭ縺上↑繧九�縺縲�
+　その日、走っていれば走っているほど。@……イザナミの世界の時間は短くなるのだ。\
 
 bg black,23
 bg kyou_04,23
 
-縲譏ｨ譌･繧堤函縺肴ｮ九ｌ縺溯�蛻�↑繧峨∵凾髢薙′縺壹▲縺ｨ遏ｭ縺�ｻ頑律繧堤函縺肴ｮ九ｋ縺ｮ縺ｯ螳ｹ譏薙↑縺薙→縲�
+　昨日を生き残れた自分なら、時間がずっと短い今日を生き残るのは容易なこと。@
 br
-縲窶ｦ窶ｦ窶ｦ譏取律縲∫ｧ√�繧ｯ繝ｩ繧ｹ縺ｫ縺ｯ菴楢ご縺ｯ縺ｪ縺�′縲�繧ゅ＠縲∫ｧ√�謗ｨ逅�壹ｊ縺ｪ繧峨　窶ｦ窶ｦ莨代∩譎る俣縺ｪ縺ｩ縺ｫ襍ｰ繧頑ｺ懊ａ縺ｦ縺翫￥縺薙→縺ｧ縲　繧､繧ｶ繝翫Α縺ｮ荳也阜縺ｮ譎る俣繧定ｻｽ貂帙〒縺阪ｋ縺ｯ縺壺ｦ窶ｦ縲�
+　………明日、私のクラスには体育はないが。@もし、私の推理通りなら、@……休み時間などに走り溜めておくことで、@イザナミの世界の時間を軽減できるはず……。\
 
 ld c,IZA_D3,22
 
-縲娯ｦ窶ｦ縺上▲縺ｲ縺｣縺ｲ縺｣縺ｲ縲�縺ｪ繧｡縺ｫ繧呈昴＞縺､縺�◆繧�ｉ繧｡縲�莉頑律縺ｮ縺雁燕縺ｯ逶ｮ縺ｮ蜈峨ｊ譁ｹ縺碁＆縺｣縺ｦ繧九●繧ｧ�檗縲豌怜鴨縲√＞繧�∝ｸ梧悍縺ｫ貅縺｡縺ｦ繧�′繧九ゅ構
+「……くっひっひっひ。@なァにを思いついたやらァ。@今日のお前は目の光り方が違ってるぜェ？@　気力、いや、希望に満ちてやがる。」\
 
 bg black,23
 bg rouka_03,0
 ld c,AYA_D8a,23
 
-縲娯ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲ゅ后
+「………………………………。」@
 br
-縲蟶梧悍縺ｫ貅縺｡縺ｦ縺�ｋ縲�窶ｦ窶ｦ遒ｺ縺九↓縺昴≧縺九ｂ縺励ｌ縺ｪ縺��
-縲遘√�縲∫函縺肴ｮ九ｌ繧九°繧ゅ＠繧後↑縺�％縺ｨ縺ｫ縲∝ｮ滓─繧定ｦ壹∴蟋九ａ縺ｦ縺�ｋ縲�
+　希望に満ちている。@……確かにそうかもしれない。@
+　私は、生き残れるかもしれないことに、実感を覚え始めている。\
 
-縲縺薙ｌ縺ｧ譏取律縲∽ｼ代∩譎る俣縺ｫ襍ｰ繧頑ｺ懊ａ縺ｦ縲∝ｮ滄圀縺ｫ蜉ｹ譫懊′縺ゅ▲縺溘↑繧峨�
+　これで明日、休み時間に走り溜めて、実際に効果があったなら。@
 br
-縲窶ｦ窶ｦ遘√�蜍昴※繧九�
+　……私は勝てる。\
 
 ;ld c,AYA_D4a,80
 
 cl c,24
 
-縲辟｡隰縺ｨ繧よ昴∴繧九�ｼ費ｼ呎律髢薙�謌ｦ縺�ｒ縲∫函縺肴ｮ九ｌ繧九°繧ゅ＠繧後↑縺��
+　無謀とも思える、４９日間の戦いを、生き残れるかもしれない。@
 br
-縲蜈ｨ霄ｫ繧偵√§繧�ｏ縺｣縺ｨ縺励◆繧ゅ�縺碁ｧ�￠蟾｡繧九�繧呈─縺倥◆縲�
+　全身を、じゅわっとしたものが駆け巡るのを感じた。\
 
 ;ld c,AYA_D7,80
 
 bg black,22
 
-縲遘√�繧�ｌ繧九�逕溘″谿九ｌ繧九�
+　私はやれる。@生き残れる。@
 br
-縲縺ゅ＞縺､縺ｪ繧薙°諤悶￥縺ｪ縺��遘√�騾�￡繧峨ｌ繧九�騾�￡蟒ｶ縺ｳ繧峨ｌ繧九�
+　あいつなんか怖くない。@私は逃げられる。@逃げ延びられる。\
 
 ;bg black,23
 bg kyou_04,23
 
-縲窶ｦ窶ｦ騾�￡蟒ｶ縺ｳ縺ｦ縲∽ｽ輔°繧堤ｧ√′蠕�▲縺ｦ縺�ｋ縺ｮ窶ｦ�檗
-縲縺昴�逍大撫縺ｫ蟇ｾ縺吶ｋ遲斐∴縺ｯ縲∵悴縺縺ｫ縺ｪ縺��
+　……逃げ延びて、何かを私が待っているの…？@
+　その疑問に対する答えは、未だにない。@
 br
-縲縺ｧ繧ゅ√≠縺ｮ縺翫◇縺ｾ縺励＞蝨ｰ迯�°繧蛾�ｌ繧区婿豕輔′隕九▽縺九▲縺溘□縺代〒繧ゅ　莉翫�雕翫ｊ蜃ｺ縺励◆縺�￥繧峨＞螫峨＠縺�ｰ玲戟縺｡縺縺｣縺溘�
+　でも、あのおぞましい地獄から逃れる方法が見つかっただけでも、@今は踊り出したいくらい嬉しい気持ちだった。\
 
 bg black,23
 bg rouka_01,23
 
-縲莠ｺ逕溘�諢丞袖縺ｨ縺倶ｾ｡蛟､縺ｨ縺九√◎繧薙↑繧ゅ�繧剃ｻ翫∬�∴縺ｦ繧ゅ√◎繧後％縺昜ｽ輔�諢丞袖繧ゆｾ｡蛟､繧ゅ↑縺��
+　人生の意味とか価値とか、そんなものを今、考えても、それこそ何の意味も価値もない。@
 br
-縲莉翫�縺溘□縲∫函縺肴ｮ九ｌ繧九°繧ゅ＠繧後↑縺�→縺�≧蜊倡ｴ斐↑蝟懊�縺後√◆縺縺昴ｌ縺縺代〒螫峨＠縺九▲縺溘�
+　今はただ、生き残れるかもしれないという単純な喜びが、ただそれだけで嬉しかった。\
 
 bg black,23
 bg rouka_03,23
 ld c,IZA_D3,22
 ld c,IZA_D6,80
 
-縲後⊇繧峨⊇繧峨ぃ��ｼ　縲襍ｰ繧瑚ｵｰ繧瑚ｵｰ繧後ぉ�　縲荳九ｉ縺ｪ縺�％縺ｨ閠�∴縺ｦ繧区嚊縺後≠縺｣縺溘ｉ縲∵ｱ玲ｰｴ蝙ゅｉ縺励※襍ｰ繧翫ｄ縺後ｌ�　縲莉頑律縺ｯ蟆代＠遏ｭ繧√〒險ｱ縺励※繧�ｋ縺後∵�譌･縺九ｉ縺ｯ繧ｬ繝ｳ繧ｬ繝ｳ譎る俣繧貞ｻｶ縺ｰ縺励※縲√◆縺｣縺ｷ繧願ｵｰ繧峨○縺ｦ繧�ｋ縺九ｉ縺ｪ繧｡��ｼ　縲縺ｲ繧�▲縺ｲ繧�▲縺ｲ繧�▲縺ｲ繧�ｼ�ｼ√構
+「ほらほらァ！！@　走れ走れ走れェ！@　下らないこと考えてる暇があったら、汗水垂らして走りやがれ！@　今日は少し短めで許してやるが、明日からはガンガン時間を延ばして、たっぷり走らせてやるからなァ！！@　ひゃっひゃっひゃっひゃ！！」\
 
 se3v 66,100
 se1v 69,100
@@ -3085,39 +3085,39 @@ bg koutei_04,22
 
 me1v 31,50
 
-縲莠梧凾髢鍋岼縺ｮ邨ゅｏ繧翫�讌ｭ髢謎ｼ代∩縺ｫ縲∵｡蠎ｭ縺ｫ蜃ｺ繧九↑繧薙※縲∵悽蠖薙↓荵�＠謖ｯ繧翫�縺薙→縺縺｣縺溘�
+　二時間目の終わりの業間休みに、校庭に出るなんて、本当に久し振りのことだった。@
 br
-縲菴楢ご縺ｮ謗域･ｭ縺ｧ繧ゅ↑縺��縺ｫ縲∵｡蠎ｭ繧定ｵｰ繧九↑繧薙※縲≫ｦ窶ｦ縺昴ｌ縺薙◎縲∫函縺ｾ繧後※蟋九ａ縺ｦ縺ｮ邨碁ｨ薙□縲�
+　体育の授業でもないのに、校庭を走るなんて、……それこそ、生まれて始めての経験だ。\
 
-縲窶ｦ窶ｦ縺ｩ繧後￥繧峨＞襍ｰ繧後�縲√←繧後￥繧峨＞縺ｮ譎る俣縺梧ｸ帙ｋ縺ｮ縺九�繧上°繧峨↑縺��
-縲縺ｧ繧ゅ∽ｻ翫％縺薙〒縺溘￥縺輔ｓ襍ｰ縺｣縺ｦ縺翫￠縺ｰ縲√◎縺ｮ蛻�∵叛隱ｲ蠕後↓讌ｽ縺悟�譚･繧九�
+　……どれくらい走れば、どれくらいの時間が減るのかはわからない。@
+　でも、今ここでたくさん走っておけば、その分、放課後に楽が出来る。@
 br
-縲菴輔＠繧阪∽ｻ翫↑繧峨�縲∬ｪｰ繧りｿｽ縺｣縺ｦ譚･縺ｪ縺��
-縲縺ｮ繧薙�繧翫→閾ｪ蛻��繝壹�繧ｹ縺ｧ襍ｰ繧九％縺ｨ縺悟�譚･繧九�
-縲逍ｲ繧後◆縺ｨ縺励※繧ゅ∵叛隱ｲ蠕後∪縺ｧ縺ｫ菴灘鴨繧貞屓蠕ｩ縺ｧ縺阪ｋ譎る俣縺ｯ縺溘▲縺ｷ繧翫≠繧九�
+　何しろ、今ならば、誰も追って来ない。@
+　のんびりと自分のペースで走ることが出来る。@
+　疲れたとしても、放課後までに体力を回復できる時間はたっぷりある。\
 
 bg black,22
 
-縲縺薙ｌ縺後√う繧ｶ繝翫Α縺ｮ繧ｲ繝ｼ繝縺ｮ逕溘″谿九ｊ豕輔�
+　これが、イザナミのゲームの生き残り法。@
 br
-縲髢馴＆縺�↑縺��驕主悉縺ｮ逕滄ｄ閠��縲√％縺ｮ遘伜ｯ�↓豌嶺ｻ倥＞縺溘�縺縲�
+　間違いない。@過去の生還者は、この秘密に気付いたのだ。\
 
 bg koutei_05,22
 
-縲蜈�ｰ励↑蟄蝉ｾ帙◆縺｡縺後�繝ｼ繝ｫ驕翫�縺ｫ螟｢荳ｭ縺ｫ縺ｪ繧倶ｸｭ縲�遘√�縺ｲ縺ｨ繧翫�ｻ吶�→譬｡蠎ｭ繧定ｵｰ繧顔ｶ壹￠縺溘�
-縲讌ｭ髢謎ｼ代∩縺縺代〒縺ｪ縺上∵仂莨代∩縺ｫ繧ょ酔縺倥￥鮟吶�→襍ｰ繧顔ｶ壹￠縺溘�
+　元気な子供たちがボール遊びに夢中になる中。@私はひとり、黙々と校庭を走り続けた。@
+　業間休みだけでなく、昼休みにも同じく黙々と走り続けた。\
 
 textoff
 
 ld r,AYA_D6a,23
 
-縲後�縺√▲縲√�縺√▲縲√�縺√▲窶ｦ��ｼ√構
+「はぁっ、はぁっ、はぁっ…！！」\
 
 ld r,AYA_D7a,80
 
-縲莉頑律縺ｯ菴楢ご縺ｮ謗域･ｭ縺ｯ縺ｪ縺�′縲∽ｽ楢ご縺ｧ襍ｰ繧峨＆繧後ｋ繧医ｊ縲√ｂ縺｣縺ｨ螟壹￥繧定ｵｰ縺｣縺溘→諤昴≧縲�
+　今日は体育の授業はないが、体育で走らされるより、もっと多くを走ったと思う。@
 br
-縲窶ｦ窶ｦ窶ｦ窶ｦ縺昴�謌先棡縺ｯ縲∵棡縺溘＠縺ｦ蜃ｺ繧九�縺九�
+　…………その成果は、果たして出るのか。\
 
 bg black,2
 
@@ -3128,21 +3128,21 @@ bg kyou_01,22
 
 me1v 24,50
 
-縲御ｸ区｡荳ｭ縺ｫ縺ｯ蟇�ｊ驕薙ｒ縺励↑縺�ｈ縺�↓繝ｼ�　縲縺ｧ縺ｯ譌･逶ｴ縲∝捷莉､繝ｼ��ｼ√后
-縲後″繧翫�縺､縲√″繧��縺､縺代���ｼ√構
+「下校中には寄り道をしないようにー！@　では日直、号令ー！！」@
+「きりーつ、きょーつけー！！」\
 
 ld c,AYA_D7a,26
 
-縲窶ｦ窶ｦ蟶ｰ繧翫�繝帙�繝繝ｫ繝ｼ繝縲�
-縲遘√�縺舌▲縺ｨ荳｡謇九ｒ謠｡繧顔ｷ繧√※縲∫ｫ九■荳翫′繧九�
+　……帰りのホームルーム。@
+　私はぐっと両手を握り締めて、立ち上がる。\
 
-縲窶ｦ窶ｦ遘√�謗ｨ逅�′豁｣縺励＞縺九←縺�°縲≫ｦ窶ｦ險ｼ譏弱＆繧後ｋ縲�
+　……私の推理が正しいかどうか、……証明される。@
 br
-縲縺企｡倥＞窶ｦ窶ｦ縲∝ｰ代＠縺ｧ繧よ凾髢薙′貂帙▲縺ｦ縺�※窶ｦ窶ｦ窶ｦ縲�
+　お願い……、少しでも時間が減っていて………。\
 
 E_A
 
-縲後後後＆繧医�縺ｪ繧峨���ｼ�ｼ√阪阪構
+「「「さよーならー！！！」」」\
 
 se1v 2,50
 nega 1
@@ -3155,41 +3155,41 @@ bg black,1
 
 me1v 16,50
 
-縲窶ｦ窶ｦ縺昴＠縺ｦ縲√＞縺､繧ゅ�繧医≧縺ｫ縲∵叛隱ｲ蠕後�繧､繧ｶ繝翫Α縺ｮ荳也阜縺ｸ縲�
+　……そして、いつものように、放課後のイザナミの世界へ。@
 br
-縲迸ｬ譎ゅ↓辟｡莠ｺ縺ｨ縺ｪ縺｣縺滓蕗螳､縺ｧ縲∫ｧ√�縲√＃縺上ｊ縺ｨ蜚ｾ繧帝｣ｲ縺ｿ霎ｼ繧薙〒縺九ｉ縲∵凾險医ｒ隕倶ｸ翫￡繧九�
+　瞬時に無人となった教室で、私は、ごくりと唾を飲み込んでから、時計を見上げる。\
 
 bg kyou_02u,22
 ld l,AYA_D7a,22
 
-縲娯ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲ゅ構
+「…………………………。」\
 
 se1v 82,85
 wait 1000
 
 ld r,IZA_D1,22
 
-縲縺後ｉ繧翫→謇峨ｒ髢九￠縺ｦ縲∵蕗螳､縺ｫ繧､繧ｶ繝翫Α縺悟�縺｣縺ｦ縺上ｋ縲�
+　がらりと扉を開けて、教室にイザナミが入ってくる。@
 br
-縲縺昴＠縺ｦ譎りｨ医ｒ隕倶ｸ翫￡縲∬か繧堤ｫｦ繧√↑縺後ｉ隨代▲縺溘�
+　そして時計を見上げ、肩を竦めながら笑った。\
 
 ld r,IZA_D2,80
 
 E_A
-縲後￥縺｣縺上▲縺鞘ｦ窶ｦ縲�繧�ｌ繧�ｌ縲≫ｦ窶ｦ豌嶺ｻ倥°繧後■縺ｾ縺｣縺溘°繧｡縲ゅ后
+「くっくっく……。@やれやれ、……気付かれちまったかァ。」@
 br
 bgm1 20
-縲譎る俣縺ｯ縲≫ｦ窶ｦ縺励▲縺九ｊ縺ｨ遏ｭ縺上↑縺｣縺ｦ縺�◆縲�
+　時間は、……しっかりと短くなっていた。\
 
 ld l,AYA_D7,80
 
-縲遘√�蜈ｨ霄ｫ繧偵√≠縺ｮ縺倥ｅ繧上▲縺ｨ縺励◆諢溯ｧｦ縺碁ｧ�￠蟾｡繧九�
+　私の全身を、あのじゅわっとした感触が駆け巡る。@
 br
-縲莉頑律荳譌･縲√°縺ｪ繧翫ｒ襍ｰ繧翫∫夢繧後※縺�◆縺ｯ縺壹↑縺ｮ縺ｫ縲≫ｦ窶ｦ縺昴ｌ縺後☆縺�▲縺ｨ蠑輔＞縺ｦ縺�￥縺ｮ繧呈─縺倥◆縲�
+　今日一日、かなりを走り、疲れていたはずなのに、……それがすぅっと引いていくのを感じた。\
 
 ld r,IZA_D6,80
 
-縲後＠縺九＠縲√◎縺ｮ蜉ｪ蜉帙�縺�▽縺ｾ縺ｧ邯壹￠繧峨ｌ繧九°縺ｪ繧｡�檗縲譬ｹ豌励ｂ豌怜鴨繧ゅ°繧峨▲縺阪＠縺ｮ縺雁燕縺ｫ繧医か窶ｦ�　縲譎る俣繧ゅ∪縺縺ｾ縺縺薙ｌ縺九ｉ縲√ぎ繝ｳ繧ｬ繝ｳ蟒ｶ縺ｰ縺励※縺�￥繧薙□縺九ｉ縺ｪ繧｡�滂ｼ　縲縺上▲縺上￥縺上￥縺擾ｼ�ｼ　縲縺ｾ縺√√＞縺�＆繧｡縲�莉頑律繧ょｧ九ａ繧医≧縺倥ｃ縺ｭ縺�°縲�縺輔ぃ縲∵･ｽ縺励＞謾ｾ隱ｲ蠕後�蟋九∪繧翫□繧｡窶ｦ��ｼ√構
+「しかし、その努力。@いつまで続けられるかなァ？@　根気も気力もからっきしのお前によォ…！@　時間もまだまだこれから、ガンガン延ばしていくんだからなァ？！@　くっくくくくく！！@　まぁ、いいさァ。@今日も始めようじゃねぇか。@さァ、楽しい放課後の始まりだァ…！！」\
 
 cl l,24
 
@@ -3198,9 +3198,9 @@ ld r,IZA_D5,80
 bg black,23
 bg rouka_03,23
 
-縲遘√�蟒贋ｸ九↓襍ｰ繧雁�繧九�縺昴ｌ繧定ｦ句ｱ翫￠縲√う繧ｶ繝翫Α繧ょｻ贋ｸ九↓蜃ｺ繧九�
+　私は廊下に走り出る。@それを見届け、イザナミも廊下に出る。@
 br
-縲窶ｦ窶ｦ遘√�縺励▲縺九ｊ縺ｨ蠎翫ｒ雕上∩縺励ａ縲∬ｵｰ繧雁�縺励◆縲�
+　……私はしっかりと床を踏みしめ、走り出した。\
 
 bg black,2
 
@@ -3210,22 +3210,22 @@ bg koutei_01,22
 
 me1v 31,70
 
-縲遘√�譌･縲�∬ｵｰ繧顔ｶ壹￠縺溘�
+　私は日々、走り続けた。@
 br
-縲莨代∩譎る俣縺ｮ蠎ｦ縺ｫ襍ｰ繧翫∬ｵｰ繧願ｵｰ繧願ｵｰ繧翫∪縺上▲縺溘�
+　休み時間の度に走り、走り走り走りまくった。\
 
-縲縺ｩ縺�ｄ繧峨∽ｺ医ａ襍ｰ縺｣縺滓凾髢薙�縲√う繧ｶ繝翫Α縺ｮ荳也阜縺ｧ縺ｯ縺昴ｌ莉･荳翫↓繧ｫ繧ｦ繝ｳ繝医＆繧後※縺�ｋ繧峨＠縺��
-縲縺､縺ｾ繧翫∽ｺ医ａ縲∬ｵｰ縺｣縺ｦ縺翫￠縺ｰ襍ｰ縺｣縺ｦ縺翫￥縺ｻ縺ｩ縲∵怏蛻ｩ縺縺ｨ縺�≧縺薙→縺縲�
+　どうやら、予め走った時間は、イザナミの世界ではそれ以上にカウントされているらしい。@
+　つまり、予め、走っておけば走っておくほど、有利だということだ。@
 br
-縲縺ｨ縺ｫ縺九￥襍ｰ縺｣縺溘�繝√Ε繧､繝縺ｨ蜷梧凾縺ｫ謨吝ｮ､繧帝｣帙�蜃ｺ縺励�邨ｦ鬟溘ｒ邨ゅ∴繧九→蜷梧凾縺ｫ謨吝ｮ､繧帝｣帙�蜃ｺ縺励◆縲�
+　とにかく走った。@チャイムと同時に教室を飛び出し。@給食を終えると同時に教室を飛び出した。\
 
 bg black,22
 bg kyou_01,22
 
-縲窶ｦ窶ｦ縺昴≧縺�∴縺ｰ縲∵怙霑代�邨ｦ鬟溘ｒ谿九＆縺ｪ縺上↑縺｣縺溘�
+　……そういえば、最近は給食を残さなくなった。@
 br
-縲菴輔＠繧阪∵ｯ取律豈取律縲∬ｵｰ繧翫∪縺上▲縺ｦ縺�ｋ縺ｮ縺縺九ｉ縲√♀閻ｹ縺檎ｩｺ縺上�
-縲螳ｶ縺ｧ縺ｮ鬟滉ｺ九ｂ谿九＆縺ｪ縺上↑縺｣縺滓ｰ励′縺吶ｋ縲�
+　何しろ、毎日毎日、走りまくっているのだから、お腹が空く。@
+　家での食事も残さなくなった気がする。\
 
 bg black,22
 
@@ -3233,43 +3233,43 @@ E_MA
 
 bg ie_04,22
 
-縲荳咲悛豌怜袖縺ｧ縲∽ｽ募ｺｦ繧ょｯ晁ｿ斐ｊ繧偵≧縺｣縺ｦ縺�◆縺ｯ縺壹�螟懊ｂ縲　譛霑代�轣ｯ繧翫ｒ豸医☆縺ｨ蜷梧凾縺ｫ縲∝ｸ�屮縺ｫ豐医∩霎ｼ繧縺九�繧医≧縺ｫ逵繧後ｋ繧医≧縺ｫ縺ｪ縺｣縺溘�
+　不眠気味で、何度も寝返りをうっていたはずの夜も、@最近は灯りを消すと同時に、布団に沈み込むかのように眠れるようになった。@
 br
-縲菴輔＠繧阪∵ｯ取律豈取律縲∬ｵｰ繧翫∪縺上▲縺ｦ縺�ｋ縺ｮ縺縺九ｉ縲∫夢繧後※繧医￥逵繧後ｋ縺ｮ縺ｯ蠖鍋┯縺縲�
+　何しろ、毎日毎日、走りまくっているのだから、疲れてよく眠れるのは当然だ。\
 
 bg black,22
 bg Air_02,22
 
-縲菴楢ご縺ｮ謗域･ｭ縺ｧ譬｡蠎ｭ繧定ｵｰ繧区凾縲�窶ｦ窶ｦ蜑阪⊇縺ｩ闍ｦ謇九§繧�↑縺上↑縺｣縺滓ｰ励′縺吶ｋ縲�
+　体育の授業で校庭を走る時。@……前ほど苦手じゃなくなった気がする。@
 br
-縲蠖鍋┯縺縲�遘√�豈取律縲√←繧後□縺代�譎る俣繧定ｵｰ繧峨＆繧後※縺�ｋ縺ｨ縺�≧縺ｮ縺九�
-縲縺昴ｌ縺ｫ豈斐∋縺溘ｉ縲　譬｡蠎ｭ繧偵⊇繧薙�謨ｰ蜻ｨ縲√◎繧後ｂ隱ｰ縺ｫ繧りｿｽ縺�寺縺代ｉ繧後★縺ｫ縺ｪ繧薙※縲∝撫鬘後↓繧ゅ↑繧峨↑縺九▲縺溘�
+　当然だ。@私は毎日、どれだけの時間を走らされているというのか。@
+　それに比べたら、@校庭をほんの数周、それも誰にも追い掛けられずになんて、問題にもならなかった。\
 
 bg black,22
 bg roji_03a,22
 
-縲隧ｦ縺励↓縲∝ｸｰ螳�ｾ後ｂ螟悶↓襍ｰ繧翫↓陦後▲縺ｦ縺ｿ縺溘ｉ縲√％繧後ｂ蜉ｹ譫懊ｒ遉ｺ縺励◆縲�
+　試しに、帰宅後も外に走りに行ってみたら、これも効果を示した。@
 br
-縲繧ゅ■繧阪ｓ縲√う繧ｶ繝翫Α繧らｧ√ｒ隲ｦ繧√ｋ縺､繧ゅｊ縺ｯ豈幃ｭ縺ｪ縺�ｉ縺励＞縲�
+　もちろん、イザナミも私を諦めるつもりは毛頭ないらしい。\
 
 bg black,22
 bg rouka_02,22
 
-縲譌･縲�∫嶌蠖薙�譎る俣繧剃ｸ贋ｹ励○縺励※謖代ｓ縺ｧ縺上ｋ縲�
-縲縺励°縺礼ｧ√ｂ縲∵律縲�∫嶌蠖薙�譎る俣繧定ｵｰ縺｣縺ｦ縲√◎繧後ｒ霆ｽ貂帙＠縺ｦ縺�ｋ縲�
+　日々、相当の時間を上乗せして挑んでくる。@
+　しかし私も、日々、相当の時間を走って、それを軽減している。\
 
 
-縲縺昴ｌ縺ｧ繧ょｰ代＠縺壹▽譎る俣縺ｯ蟒ｶ縺ｳ縺ｦ縺上ｋ縲�
-縲荳譎よ悄縺ｯ�難ｼ仙�譛ｪ貅縺ｫ縺輔∴邵ｮ繧√◆譎る俣繧ゅ　譛霑代�縺ｾ縺溷｢励∴蜃ｺ縺励∝�縺ｮ�第凾髢薙↓謌ｻ繧阪≧縺ｨ縺励※縺�ｋ縲�
-縲縺励°縺励≫ｦ窶ｦ遘√ｂ菴灘鴨繧剃ｻ倥￠縺ｦ縺阪※縺�ｋ縲�
+　それでも少しずつ時間は延びてくる。@
+　一時期は３０分未満にさえ縮めた時間も、@最近はまた増え出し、元の１時間に戻ろうとしている。@
+　しかし、……私も体力を付けてきている。\
 
 bg black,23
 bg rouka_04,23
 
-縲讌ｽ縺ｫ襍ｰ繧九さ繝��繧医≧縺ｪ繧ゅ�繧りｦ九▽縺代◆縲�菴灘鴨繧呈ｸｩ蟄倥〒縺阪ｋ繝壹�繧ｹ繧りｦ九▽縺代◆縲�
-縲莉翫�遘√↑繧峨∽ｻｮ縺ｫ�第凾髢薙ｒ雜�∴縺溘→縺励※繧ゅ≫ｦ窶ｦ窶ｦ繧�ｊ譫懊○繧玖�菫｡縺ｯ縺ゅ▲縺溘�
+　楽に走るコツのようなものも見つけた。@体力を温存できるペースも見つけた。@
+　今の私なら、仮に１時間を超えたとしても、………やり果せる自信はあった。@
 br
-縲縺昴≧縺励※縺�ｋ蜀�↓縲　窶ｦ窶ｦ遘√�繧､繧ｶ繝翫Α縺ｫ霑ｽ繧上ｌ繧九ｈ縺�↓縺ｪ縺｣縺ｦ縺九ｉ縲√☆縺ｧ縺ｫ�代Ω譛医ｒ雜�∴繧九ｈ縺�↓縺ｪ縺｣縺ｦ縺�◆縲�
+　そうしている内に、@……私はイザナミに追われるようになってから、すでに１ヶ月を超えるようになっていた。\
 
 bg black,2
 wait 1000
@@ -3281,39 +3281,39 @@ wait 300
 bg black,23
 bg rouka_03,23
 
-縲譛霑代�縲∫嶌蠖薙↑霍晞屬繧定ｵｰ繧願ｾｼ繧薙〒縺�※繧ゅ∵叛隱ｲ蠕後�譎る俣縺ｯ�第凾髢薙ｒ雜�∴縺ｦ縺励∪縺��
+　最近は、相当な距離を走り込んでいても、放課後の時間は１時間を超えてしまう。@
 br
-縲縺励°縺励≫ｦ窶ｦ遘√�雋縺代↑縺九▲縺溘�
-縲逕溘″縺ｦ�費ｼ呎律繧定ｶ翫∴繧玖�菫｡繧呈戟縺｣縺ｦ縺�◆縲�
+　しかし、……私は負けなかった。@
+　生きて４９日を越える自信を持っていた。\
 
-縲譎りｨ医ｒ縺｡繧峨ｊ縺ｨ隕九ｋ縲�
+　時計をちらりと見る。@
 br
-縲縺ゅ→�募�縲�窶ｦ窶ｦ莉頑律縺ｮ繧､繧ｶ繝翫Α縺ｮ謾ｾ隱ｲ蠕後ｂ縲√ｂ縺�☆縺千ｵゅｏ繧翫□縺｣縺溘�
+　あと５分。@……今日のイザナミの放課後も、もうすぐ終わりだった。\
 
 ld l,IZA_D4,22
 ;ld l,IZA_D4,80
 
-縲碁大ｼｵ繧九§繧��繧ｧ縺九�譛霑代�縺壹＞縺ｶ繧薙→菴灘鴨繧剃ｻ倥￠繧�′縺｣縺ｦ繧ｧ縲�窶ｦ窶ｦ縺昴ｓ縺ｪ縺ｫ蝨ｰ迯�′雖後°繧｡�檗縲縺上▲縺上￥縺上√◎繧翫ｃ雖後□繧阪か縺ｪ繧｡縲ゅ構
+「頑張るじゃねェか。@最近はずいぶんと体力を付けやがってェ。@……そんなに地獄が嫌かァ？@　くっくくく、そりゃ嫌だろォなァ。」\
 
 ld r,AYA_D7a,22
 
-縲娯ｦ窶ｦ縺ゅｓ縺ｪ蝨ｰ迯�∬ｪｰ縺縺｣縺ｦ縺斐ａ繧薙ｈ縲ゅ后
+「……あんな地獄、誰だってごめんよ。」@
 br
-縲菴灘鴨繧ゆｻ倥″縲∝ｹｳ蟶ｸ蠢�ｒ菫昴※繧九ｈ縺�↓縺ｪ縺｣縺滓怙霑代�縲　繧､繧ｶ繝翫Α縺ｫ險縺�ｿ斐○繧九￥繧峨＞縺ｮ菴呵｣輔ｂ蜃ｺ譚･縺溘�
+　体力も付き、平常心を保てるようになった最近は、@イザナミに言い返せるくらいの余裕も出来た。\
 
 ld l,IZA_D2,80
 
-縲御ｿｺ繧｡縲√♀蜑阪′縺繧薙□繧捺ｰ励↓蜈･縺｣縺ｦ縺阪◆縺懊ゅ后
+「俺ァ、お前がだんだん気に入ってきたぜ。」@
 
 ld r,AYA_D8a,80
 
-縲娯ｦ窶ｦ蠕｡蜈崎｢ｫ繧九ｏ縲�豁ｻ逾槭↓螂ｽ縺九ｌ繧九↑繧薙※縲∝�隲�§繧�↑縺�ゅ構
+「……御免被るわ。@死神に好かれるなんて、冗談じゃない。」\
 
 cl r,23
 
 ld l,IZA_D5,80
 
-縲後￥縺｣縺上￥縺上￥縺擾ｼ　縲縺昴ｊ繧�ぃ縲�＆繧ｧ縺ｭ繧ｧ窶ｦ�√構
+「くっくくくくく！@　そりゃァ、違ェねェ…！」\
 
 bg black,23
 
@@ -3324,41 +3324,41 @@ bg rouka_04,23
 
 me1v 5,50
 
-縲後↑繧｡縲√≠繧�■繧�ｓ繧医か縲�閨槭°縺帙※縺上ｌ縲�縺昴％縺ｾ縺ｧ縺励※縲√←縺�＠縺ｦ逕溘″縺溘＞�溘后
-縲娯ｦ窶ｦ縺ゅｓ縺ｪ蝨ｰ迯��邨ｶ蟇ｾ蠕｡蜈阪▲縺ｦ縲∬ｨ縺｣縺溘�縺壹ｈ縲ゅ構
+「なァ、あやちゃんよォ。@聞かせてくれ。@そこまでして、どうして生きたい？」@
+「……あんな地獄は絶対御免って、言ったはずよ。」\
 
-縲後↑繧峨�縺雁燕縺ｮ譛帙�繧医≧縺ｪ豁ｻ縺縺｣縺溘ｉ縺ｩ縺�☆繧具ｼ溘后
-縲娯ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲ゅ構
+「なら。@お前の望むような死だったらどうする？」@
+「……………………。」\
 
 me2v 16,50
 
-縲御ｿｺ繧｡縲∵ｭｻ逾槭□縲�莠ｺ髢薙�鬲ゅｒ縲∵ｭｻ蠕後�縺ゅｉ繧�ｋ荳也阜縺ｫ螂ｽ縺阪↓騾｣繧後※陦後￠繧九�縺ゅｓ縺ｪ驟ｷ繧ｧ蝨ｰ迯�§繧�↑縺上※縲�縺雁燕縺ｮ譛帙�繧医≧縺ｪ縲∫悛繧九ｈ縺�↓豸医∴繧峨ｌ繧倶ｸ也阜縺ｫ騾｣繧後※陦後▲縺ｦ繧�▲縺ｦ繧ゅ＞縺�ｓ縺縺懶ｼ溘構
+「俺ァ、死神だ。@人間の魂を、死後のあらゆる世界に好きに連れて行ける。@あんな酷ェ地獄じゃなくて。@お前の望むような、眠るように消えられる世界に連れて行ってやってもいいんだぜ？」\
 
 bg black,24
 bg kaidan_02,0
 ld l,AYA_D2,24
 
-縲娯ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲�/
+「………………………。@/
 ld l,AYA_D3,80
-窶ｦ窶ｦ蜀苓ｫ�§繧�↑縺�ｏ縲ゅ構
+……冗談じゃないわ。」\
 
 
 ld r,IZA_D1,24
 ;ld r,IZA_D3,80
 
-縲悟�隲�§繧��繧ｧ縺輔よ悽蠖薙＆縲�險縺｣縺溘ｍ�檗縲菫ｺ縺ｯ繧ｯ繧ｽ關ｽ縺｡逶ｮ縺ｧ逕溘″繧区ｰ怜鴨繧ゅ�繧ｧ譛菴弱�繧ｯ繧ｺ縺悟､ｧ螂ｽ迚ｩ縺ｪ繧薙□縲�窶ｦ窶ｦ縺ｨ縺薙ｍ縺後∵怙霑代�縺雁燕縺ｯ縺ｩ縺�□繧｡�檗縲逕溘″蟒ｶ縺ｳ繧狗ぜ縺ｫ蜉ｪ蜉帙ｒ諠懊＠縺ｾ縺壹∵ｯ取律豈取律縲√″縺｣縺｡繧翫→襍ｰ繧願ｾｼ繧薙〒繧�′繧九�螟ｧ縺励◆豌怜鴨縲∫函蜻ｽ蜉帙□縲�窶ｦ窶ｦ縺昴≧縺�≧繧ｿ繝槭ぃ縲∽ｿｺ縺ｮ螂ｽ迚ｩ縺倥ｃ縺ｭ縺�ｓ縺縲�縺縺九ｉ縲√♀蜑阪∩縺溘＞縺ｪ繝槭ぜ縺�ｭゅ↓菫ｺ縺ｮ閭�｢九�闊亥袖縺ｭ繧ｧ繧薙□縲ゅ構
+「冗談じゃねェさ。本当さ。@言ったろ？@　俺はクソ落ち目で生きる気力もねェ最低のクズが大好物なんだ。@……ところが、最近のお前はどうだァ？@　生き延びる為に努力を惜しまず、毎日毎日、きっちりと走り込んでやがる。@大した気力、生命力だ。@……そういうタマァ、俺の好物じゃねぇんだ。@だから、お前みたいなマズい魂に俺の胃袋は興味ねェんだ。」\
 
 ld l,AYA_D8a,80
 
-縲後↑繧俄ｦ窶ｦ縲�縺輔▲縺輔→縺薙�荳也阜縺九ｉ遘√ｒ隗｣謾ｾ縺励※繧医▲縲�蜀苓ｫ�§繧�↑縺�ｏ縲ゅ構
+「なら……。@さっさとこの世界から私を解放してよっ。@冗談じゃないわ。」\
 
 ld r,IZA_D4,80
 
-縲御ｻ墓婿縺ｭ繧ｧ縺輔�菫ｺ縺ｮ荳也阜縺ｫ蠑輔″霎ｼ繧薙□莉･荳翫√″縺｣縺｡繧奇ｼ費ｼ呎律縺ｯ莉倥″蜷医ｏ縺ｪ縺上■繧�↑繧峨�繧ｧ縲�縺昴ｌ縺御ｿｺ縺ｮ繝ｫ繝ｼ繝ｫ縺ｪ繧薙□縲�縺昴�髢薙↓縲√←繧後⊇縺ｩ縺雁燕縺後�繧ｺ縺�ｭゅ↓縺ｪ縺｣縺｡縺ｾ縺｣縺ｦ繧ゅ↑縲ゅ構
+「仕方ねェさ。@俺の世界に引き込んだ以上、きっちり４９日は付き合わなくちゃならねェ。@それが俺のルールなんだ。@その間に、どれほどお前がマズい魂になっちまってもな。」\
 
 ld l,AYA_D3,80
 
-縲後＞縺�ｰ怜袖縺繧上�窶ｦ窶ｦ縺疲п蛯ｷ縺輔∪縺｣縲ゅ構
+「いい気味だわ。@……ご愁傷さまっ。」\
 
 cl l,24
 
@@ -3366,104 +3366,104 @@ wait 1000
 
 ld r,IZA_D2,80
 
-縲後％縺�ｨ縺｣縺｡繧�↑繧薙□縺後�菫ｺ繧ゅ◎縺�◎縺�嚊縺倥ｃ縺ｭ繧ｧ縲�譌ｨ縺昴≧縺ｪ鬲ゅ↑繧峨＞縺也衍繧後★縲　縺雁燕縺ｿ縺ｦ繧ｧ縺ｪ繝槭ぜ縺�ｭゅｒ霑ｽ縺｣謗帙￠蝗槭☆縺ｪ繧薙※縲∵凾髢薙�辟｡鬧�ｂ縺�＞縺ｨ縺薙ｍ縺縲�縺昴ｓ縺ｪ證�′縺ゅ▲縺溘ｉ縲√∪縺溷挨縺ｮ繧ｯ繧ｽ關ｽ縺｡逶ｮ縺ｮ繧ｬ繧ｭ繧呈爾縺励↓陦後″縺溘＞縺ｨ縺薙ｍ縺縺懊ゅ構
+「こう言っちゃなんだが。@俺もそうそう暇じゃねェ。@旨そうな魂ならいざ知れず、@お前みてェなマズい魂を追っ掛け回すなんて、時間の無駄もいいところだ。@そんな暇があったら、また別のクソ落ち目のガキを探しに行きたいところだぜ。」\
 
 ;cl r,22
 bg black,25
 bg kaidan_01,22
 ld c,AYA_D7a,24
 
-縲後§繧�≠縲∫ｧ√↓縺ｪ繧薙°讒九ｏ縺ｪ縺�〒縲√→縺｣縺ｨ縺ｨ縺昴≧縺励↑縺輔＞繧医ゅ構
+「じゃあ、私になんか構わないで、とっととそうしなさいよ。」\
 
 cl c,24
 ld r,IZA_D3,22
 
-縲瑚ｨ縺｣縺溘ｍ縲��費ｼ呎律縺檎ｵゅｏ繧九°縲√♀蜑阪′菫ｺ縺ｫ謐輔∪繧九°縲�縺昴�縺ｩ縺｡繧峨°縺ｧ縺励°縲∽ｿｺ縺ｨ縺雁燕縺ｮ謾ｾ隱ｲ蠕後�邨ゅｏ繧峨�繧ｧ縲�縺昴ｌ縺御ｿｺ縺ｮ縲∝ｭｦ譬｡螯匁ｪ蠎丞�隨ｬ�剃ｽ阪�ｼ托ｼ馴嚴谿ｵ縺ｮ豁ｻ逾槭�繝ｫ繝ｼ繝ｫ縺縲ゅ構
+「言ったろ。@４９日が終わるか、お前が俺に捕まるか。@そのどちらかでしか、俺とお前の放課後は終わらねェ。@それが俺の、学校妖怪序列第２位、１３階段の死神のルールだ。」\
 
 bg black,23
 bg rouka_04,23
 
-縲娯ｦ窶ｦ窶ｦ縺贋ｺ偵＞縲∽ｽ輔�蠕励ｂ諢丞袖繧ゅ↑縺�叛隱ｲ蠕後�縲�隨代∴繧九ｏ縲ゅ后
-縲後∪縺｣縺溘￥縺繧｡縲�窶ｦ窶ｦ縺縺九ｉ縺縲�縺雁燕縺ｫ逶ｸ隲�′縺ゅｋ繧上￠縺縲ゅ后
-縲檎嶌隲�ｦ窶ｦ�溘后
+「………お互い、何の得も意味もない放課後ね。@笑えるわ。」@
+「まったくだァ。@……だからだ。@お前に相談があるわけだ。」@
+「相談……？」@
 br
-縲遘√◆縺｡縺ｯ縲∽ｺ偵＞縺ｫ雜ｳ繧呈ｭ｢繧√ｋ縺薙→縺ｪ縺上∽ｼ夊ｩｱ繧堤ｶ壹￠繧九�
+　私たちは、互いに足を止めることなく、会話を続ける。\
 
 bg black,23
 
-縲御ｿｺ縺ｯ繧ゅ≧縲√♀蜑阪↓闊亥袖縺ｯ縺ｭ繧ｧ縺励√♀蜑阪□縺｣縺ｦ縺薙ｓ縺ｪ縺ｮ縺悟ｻｶ縲�→邯壹￥縺ｮ繧ゅえ繝ｳ繧ｶ繝ｪ縺ｮ縺ｯ縺壹□繧｡縲�縺縺九ｉ縺縲�縺薙≧縺励ｈ縺��菫ｺ縺ｫ謐輔∪繧後ゅ構
+「俺はもう、お前に興味はねェし、お前だってこんなのが延々と続くのもウンザリのはずだァ。@だからだ。@こうしよう。@俺に捕まれ。」\
 
 bg kyou_04,23
 ld r,AYA_D7a,23
 ld r,AYA_D8a,80
 
-縲碁ｦｬ鮖ｿ縺ｨ蟇晁ｨ縺ｯ蟇昴※縺九ｉ縺ｫ縺励※縲ゅ構
+「馬鹿と寝言は寝てからにして。」\
 
 ld l,IZA_D4,23
 ld l,IZA_D2,80
 
-縲後￥縺｣縺上▲縺上▲縺擾ｼ　縲縺ｾ繧｡縲∝ｾ�※縲�隧ｱ縺ｯ譛蠕後∪縺ｧ閨槭￠縺｣縺ｦ縲�窶ｦ窶ｦ菫ｺ縺ｯ謐輔∪縺医◆繝､繝�ｒ縲√≠縺ｮ閭�｢九�蝨ｰ迯�∈謾ｾ繧願ｾｼ繧縲�縺縺後√♀蜑阪∩縺ｦ繧ｧ縺ｪ繝槭ぜ縺�ｭゅ�縺�ｉ縺ｭ繧ｧ縲�縺励°縺励∽ｿｺ縺ｯ豁ｻ逾槭□縲�謐輔∪縺医◆莉･荳翫∵ｭｻ蠕後�荳也阜縺ｫ騾｣繧後※陦後°縺ｭ繧ｧ繧上￠縺ｫ縺ｯ縺�°縺ｭ繧ｧ縲ゅ構
+「くっくっくっく！@　まァ、待て。@話は最後まで聞けって。@……俺は捕まえたヤツを、あの胃袋の地獄へ放り込む。@だが、お前みてェなマズい魂はいらねェ。@しかし、俺は死神だ。@捕まえた以上、死後の世界に連れて行かねェわけにはいかねェ。」\
 ld r,AYA_D7a,80
 
-縲娯ｦ窶ｦ遘√↓縲√≠繧薙◆縺ｫ謐輔∪繧句茜轤ｹ縺後＆縺｣縺ｱ繧翫↑縺�ｓ縺ｧ縺吶￠縺ｩ縲ゅ構
+「……私に、あんたに捕まる利点がさっぱりないんですけど。」\
 
 ld l,IZA_D3,80
 E_A
-縲後♀蜑阪�譛帙ｓ縺豁ｻ繧偵∽ｸ弱∴縺ｦ繧�ｋ繧医ゅ后
+「お前の望んだ死を、与えてやるよ。」@
 
 ld r,AYA_D5a,80
 
 bgm1 7
 
-縲娯ｦ窶ｦ窶ｦ窶ｦ窶ｦ縺医ゅ構
+「……………え。」\
 
 ld l,IZA_D1,80
 
-縲後♀蜑阪�譛帙∩縺ｯ縲�妛縺瑚ｧ｣縺代ｋ繧医≧縺ｫ逵繧九ｈ縺�↓縲∝ｮ峨ｉ縺九↓豁ｻ縺ｬ縺薙→縺繧搾ｼ溘構
+「お前の望みは、雪が解けるように眠るように、安らかに死ぬことだろ？」\
 
 
-縲遒ｺ縺九↓縺昴ｌ縺ｯ縲≫ｦ窶ｦ遘√�鬘俶悍縺縲�
+　確かにそれは、……私の願望だ。@
 br
-縲窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲�
+　……………………。\
 
 ld l,IZA_D2,80
 
-縲後◎繧後ｒ蜿ｶ縺医※繧�ｋ繧医�縺昴≧縺�≧豁ｻ蠕後�荳也阜繧ゅ≠繧九�縺雁燕縺ｮ鬲ゅ�縲∫音蛻･縺ｫ縺昴�荳也阜縺ｸ騾√▲縺ｦ繧�ｋ縲�縺昴ｌ縺ｧ縺ｩ縺�□縲ゅ后
+「それを叶えてやるよ。@そういう死後の世界もある。@お前の魂は、特別にその世界へ送ってやる。@それでどうだ。」@
 
 ld r,AYA_D4a,80
 
-縲娯ｦ窶ｦ縺昴ｓ縺ｪ縺ｮ縲≫ｦ窶ｦ窶ｦ菫｡逕ｨ縺ｧ縺阪ｋ繧上￠縺ｪ縺�〒縺励ｇ縲ゅ構
+「……そんなの、………信用できるわけないでしょ。」\
 
 cl r,24
 
 bg black,22
 ;bg rouka_04,22
 
-縲御ｿｺ繧｡豁ｻ逾槭□縲�縺昴�莉穂ｺ九〒蝌倥�險繧上�繧ｧ縺励∬ｨ縺�％縺ｨ繧りｨｱ縺輔ｌ縺ｦ縺ｭ繧ｧ縲ゅ構
+「俺ァ死神だ。@その仕事で嘘は言わねェし、言うことも許されてねェ。」\
 
 bg kyou_04,0
 ld c,IZA_D1,24
 
-縲遘√�諤昴ｏ縺壽険繧願ｿ斐ｊ縲≫ｦ窶ｦ繧､繧ｶ繝翫Α繧定ｦ九ｋ縲�
+　私は思わず振り返り、……イザナミを見る。@
 br
-縲豁ｻ逾槭�縺�▽縺縺｣縺ｦ縲∫ｧ√ｒ謖醍匱縺吶ｋ繧医≧縺ｫ縺ｸ繧峨∈繧峨＠縺ｦ縺�ｋ縲�
-縲縺励°縺励∽ｻ翫�迸ｳ縺ｯ縲≫ｦ窶ｦ縺ｪ縺懊°菫｡逕ｨ縺ｧ縺阪ｋ繧医≧縺ｪ豌励′縺励◆縲�
+　死神はいつだって、私を挑発するようにへらへらしている。@
+　しかし、今の瞳は、……なぜか信用できるような気がした。\
 
 ld c,IZA_D3,80
 
-縲御ｿｺ縺ｯ縺雁燕縺ｨ縺ｮ謾ｾ隱ｲ蠕後ｒ縺ｨ縺｣縺ｨ縺ｨ邨ゅ∴縺ｦ縲∵眠縺励＞迢ｩ繧翫ｒ蟋九ａ縺溘＞縲�縺雁燕縺ｯ縲∵悍縺ｿ縺ｮ豁ｻ繧呈焔縺ｫ蜈･繧後※縲∝ｮ峨ｉ縺九↓逵繧九％縺ｨ縺悟�譚･繧九�縺ｩ縺�□繧医�縺贋ｺ偵＞縺ｫ謳阪′縺ｭ繧ｧ隧ｱ縺縺ｨ縺ｯ諤昴ｏ縺ｭ繧ｧ縺銀ｦ窶ｦ�溘后
+「俺はお前との放課後をとっとと終えて、新しい狩りを始めたい。@お前は、望みの死を手に入れて、安らかに眠ることが出来る。@どうだよ。@お互いに損がねェ話だとは思わねェか……？」@
 br
-縲縺�▽繧ゅ∫ｧ√ｒ譌ｩ雜ｳ縺ｧ霑ｽ縺�ｫ九※縺ｦ縺�◆豁ｻ逾槭′縲≫ｦ窶ｦ蛻昴ａ縺ｦ雜ｳ繧呈ｭ｢繧√◆縲�
-縲遘√�鬩壹″縲≫ｦ窶ｦ閾ｪ蛻�ｂ雜ｳ繧呈ｭ｢繧√※縺励∪縺��
+　いつも、私を早足で追い立てていた死神が、……初めて足を止めた。@
+　私は驚き、……自分も足を止めてしまう。\
 
 cl c,0
 ld l,IZA_D1,24
 
-縲檎嶌鬥ｬ縺ゅｄ縲�縺雁燕縺ｮ譛帙∩繧貞掌縺医ｉ繧後ｋ縺ｮ縺ｯ縲∵ｭｻ逾槭�菫ｺ縺縺代□縲�窶ｦ窶ｦ窶ｦ逕溘″繧九％縺ｨ縺ｫ縲∽ｽ輔�萓｡蛟､繧りｦ句�縺帙↑縺��縺縺九ｉ縺帙ａ縺ｦ縲∝ｮ峨ｉ縺九↓豁ｻ縺ｫ縺溘＞縲�窶ｦ窶ｦ縺昴�鬘倥＞縲∽ｿｺ縺ｫ縺縺大掌縺医ｋ縺薙→縺悟�譚･繧九ｓ縺縺懌ｦ窶ｦ縲ゅ構
+「相馬あや。@お前の望みを叶えられるのは、死神の俺だけだ。@………生きることに、何の価値も見出せない。@だからせめて、安らかに死にたい。@……その願い、俺にだけ叶えることが出来るんだぜ……。」\
 
 ld r,AYA_D8a,22
 
-縲娯ｦ窶ｦ縺ｾ縲≫ｦ窶ｦ縺ｾ縺｣縺ｴ繧牙ｾ｡蜈阪ｈ縲�遘√′莠ｺ逕溘ｒ縲√←縺�＞縺�ｭｻ縺ｫ譁ｹ縺ｧ邨ゅ∴繧九°縺ｯ遘√′謗｢縺励※遘√′豎ｺ繧√ｋ繧上�窶ｦ窶ｦ縺ゅｓ縺溘↑繧薙°鬆ｼ繧峨↑縺��菫｡逕ｨ縺ｧ縺阪↑縺�ゅ構
+「……ま、……まっぴら御免よ。@私が人生を、どういう死に方で終えるかは私が探して私が決めるわ。@……あんたなんか頼らない。@信用できない。」\
 
 textoff
 
@@ -3472,81 +3472,81 @@ E_A
 
 ld l,IZA_D4,80
 
-縲後�縲�窶ｦ窶ｦ縺上▲縺上￥縺上￥縲�/
+「ふ。@……くっくくくく。@/
 me1v 16,50
-窶ｦ窶ｦ縺ｾ繧｡縲√◎縺�擂繧九□繧阪≧繧医ゅ后
+……まァ、そう来るだろうよ。」@
 br
-縲繧､繧ｶ繝翫Α縺ｯ鬆ｭ繧呈悉縺阪↑縺後ｉ閧ｩ繧堤ｫｦ繧√※隨代≧縲�
-縲縺昴＠縺ｦ蜀阪�縲∬ｶｳ譌ｩ縺ｫ豁ｩ縺榊�縺吶�遘√ｂ雜ｳ繧貞�縺ｳ蜍輔°縺吶�
+　イザナミは頭を掻きながら肩を竦めて笑う。@
+　そして再び、足早に歩き出す。@私も足を再び動かす。\
 
 bg black,23
 bg rouka_01,23
 
-縲繧ゅ≧繧､繧ｶ繝翫Α縺ｯ菴輔ｂ險繧上↑縺九▲縺溘�縺縺九ｉ遘√ｂ謖ｯ繧願ｿ斐ｉ縺壹∝燕縺縺代ｒ隕九※縲�ｻ吶�→襍ｰ繧九�
+　もうイザナミは何も言わなかった。@だから私も振り返らず、前だけを見て、黙々と走る。\
 
 bg black,22
 
-縲窶ｦ窶ｦ繧､繧ｶ繝翫Α縺ｯ縲∫┌諷域ご縺ｪ豁ｻ逾槭□縺代ｌ縺ｩ縲∽ｻ頑律縺ｾ縺ｧ蝌倥ｒ蜷舌＞縺溘％縺ｨ縺ｯ縺ｪ縺��
+　……イザナミは、無慈悲な死神だけれど、今日まで嘘を吐いたことはない。@
 br
-縲縺昴�蠖ｼ縺後√°縺､縺ｦ縺ｮ遘√′譛帙ｓ縺ｧ縺�◆豁ｻ繧剃ｸ弱∴縺ｦ繧ゅ＞縺�→縲∬ｨ縺｣縺ｦ縺上ｌ縺溘�縺縲�
+　その彼が、かつての私が望んでいた死を与えてもいいと、言ってくれたのだ。\
 
 fede 0,1000
 E_A
 
 bgm1 24
 
-縲縺ｪ縺懈妙縺｣縺溘ｓ縺繧阪≧縲�
-縲窶ｦ窶ｦ繧､繧ｶ繝翫Α縺御ｿ｡逕ｨ縺ｧ縺阪↑縺�°繧画妙縺｣縺溘ｓ縺倥ｃ縺ｪ縺��
+　なぜ断ったんだろう。@
+　……イザナミが信用できないから断ったんじゃない。@
 br
-縲閾ｪ蛻�〒繧ゅ≫ｦ窶ｦ繧上°繧峨↑縺��
+　自分でも、……わからない。\
 
-縲譛霑代�蠢倥ｌ謗帙￠縺ｦ縺�◆蝠上＞縺後∝�縺ｳ鬆ｭ繧呈ｺ縺溘☆縲�
+　最近は忘れ掛けていた問いが、再び頭を満たす。@
 br
-縲窶ｦ窶ｦ遘√�縲√←縺�＠縺ｦ逕溘″蟒ｶ縺ｳ繧医≧縺ｨ縺吶ｋ繧薙□繧阪≧縲�
-縲莠ｺ縺ｯ縲∵ｭｻ縺ｫ縺溘￥縺ｪ縺�°繧峨□縺代�逅�罰縺ｧ縲∫函縺阪ｈ縺�→縺吶ｋ縺ｮ縺繧阪≧縺九�
+　……私は、どうして生き延びようとするんだろう。@
+　人は、死にたくないからだけの理由で、生きようとするのだろうか。\
 
 ;bg black,23
 bg rouka_02,22
 
-縲縺昴ｓ縺ｪ縺ｮ縲∽ｺｺ縺ｪ繧芽ｪｰ縺ｧ繧ょｽ薙ｊ蜑阪□縲�
+　そんなの、人なら誰でも当り前だ。@
 br
-縲逕溘″繧九↓縺ｯ縲√ｂ縺｣縺ｨ諢丞袖縺ｨ縺倶ｾ｡蛟､縺ｨ縺狗岼逧�→縺九≫ｦ窶ｦ濶ｲ縲�→縺ゅｋ縺ｯ縺壹�
-縲豁ｻ縺ｫ縺溘￥縺ｪ縺�°繧臥函縺阪◆縺�□縺ｪ繧薙※縲≫ｦ窶ｦ縺昴ｓ縺ｪ縺ｮ辟｡諢丞袖縺ｧ闕貞柏辟｡遞ｽ縺縲�
+　生きるには、もっと意味とか価値とか目的とか、……色々とあるはず。@
+　死にたくないから生きたいだなんて、……そんなの無意味で荒唐無稽だ。\
 
-縲窶ｦ窶ｦ遘√�譛ｪ縺隕九▽縺代ｉ繧後※縺�↑縺��
-縲逕溘″繧狗炊逕ｱ繧偵∵э蜻ｳ繧剃ｾ｡蛟､繧偵∫岼逧�ｒ縲�
+　……私は未だ見つけられていない。@
+　生きる理由を、意味を価値を、目的を。@
 br
-縲縺溘□豁ｻ縺ｫ縺溘￥縺ｪ縺�°繧峨→縲∫函縺榊ｻｶ縺ｳ繧九◆繧√↓襍ｰ繧顔ｶ壹￠繧区律縲��
-縲窶ｦ窶ｦ縺昴ｌ縺ｯ縲∫┌諢丞袖縺ｧ辟｡萓｡蛟､縺ｪ譌･縲��縺ｯ縺壹�
+　ただ死にたくないからと、生き延びるために走り続ける日々。@
+　……それは、無意味で無価値な日々のはず。\
 
 bg black,23
 bg rouka_03,23
 
-縲縺ｧ繧ゅ≫ｦ窶ｦ窶ｦ窶ｦ菴輔□縺九√ｏ縺九ｉ縺ｪ縺��縺縲�
+　でも、…………何だか、わからないのだ。@
 br
-縲縺九▽縺ｦ縺ｮ縺ｼ繧薙ｄ繧翫→縺励◆菴輔�諢丞袖繧ゅ↑縺�律縲�↓豈斐∋縺溘ｉ縲�
-縲莉翫�縲∫函縺榊ｻｶ縺ｳ繧九◆繧√↓蜉ｪ蜉帙ｒ驥阪�繧区律縲��譁ｹ縺後　窶ｦ窶ｦ縺ｾ縺縲√＆縺輔ｄ縺九↑萓｡蛟､縺後≠繧九ｈ縺�↓諤昴∴繧九�縺縲�
+　かつてのぼんやりとした何の意味もない日々に比べたら。@
+　今の、生き延びるために努力を重ねる日々の方が、@……まだ、ささやかな価値があるように思えるのだ。\
 
-縲豁ｻ縺ｫ縺溘￥縺ｪ縺�↑繧薙※縲∬ｪｰ縺縺｣縺ｦ蠖薙ｊ蜑阪�
-縲縺昴ｓ縺ｪ縺ｮ縲∫函縺阪ｋ縺溘ａ縺ｮ逅�罰縺ｫ縺ｯ縺ｪ繧峨↑縺��縺壹�
+　死にたくないなんて、誰だって当り前。@
+　そんなの、生きるための理由にはならないはず。@
 br
-縲逕溘″繧九◆繧√�逅�罰縺ｨ縺�≧縺ｮ縺ｯ縲≫ｦ窶ｦ繧ゅ▲縺ｨ蟠�ｫ倥↑逶ｮ逧�→縺倶ｽｿ蜻ｽ縺ｨ縺九√◎縺�＞縺�ｂ縺ｮ縺ｮ縺ｯ縺壹�
+　生きるための理由というのは、……もっと崇高な目的とか使命とか、そういうもののはず。\
 
 bg black,23
 bg kaidan_01,23
 ld l,AYA_D2,23
 
-縲窶ｦ窶ｦ縺ｧ繧らｧ√�縲∵ｭｻ縺ｫ縺溘￥縺ｪ縺�°繧峨→縺�≧縺縺代�逅�罰縺ｧ縲≫ｦ窶ｦ莉頑律繧ら函縺榊ｻｶ縺ｳ縺ｦ縺�ｋ縲�
-縲縺昴ｌ縺ｯ縲∫┌諢丞袖縺ｧ辟｡萓｡蛟､縺ｪ譌･縲��縺ｯ縺壹�
+　……でも私は、死にたくないからというだけの理由で、……今日も生き延びている。@
+　それは、無意味で無価値な日々のはず。@
 br
-縲窶ｦ窶ｦ縺ｪ繧峨∵ｭｻ縺ｪ縺帙※繧ゅｉ縺医�縺�＞縺ｯ縺壹↑縺ｮ縺ｫ窶ｦ窶ｦ縲�
-縲菴輔′豁｣縺励￥縺ｦ菴輔′隱､繧翫↑縺ｮ縺九≫ｦ窶ｦ閾ｪ蛻�〒繧ゅｏ縺九ｉ縺ｪ縺上↑縺｣縺ｦ縺阪◆窶ｦ窶ｦ縲�
+　……なら、死なせてもらえばいいはずなのに……。@
+　何が正しくて何が誤りなのか、……自分でもわからなくなってきた……。\
 
 bg black,24
 bg rouka_03,24
 ld c,IZA_D7,24
 
-縲後♀繧峨ぃ�　縲繝壹�繧ｹ縺瑚誠縺｡縺ｦ繧九◇繝��霑ｽ縺�ｻ倥°繧後ｋ縺槭か��ｼ√構
+「おらァ！@　ペースが落ちてるぞッ。@追い付かれるぞォ！！」\
 
 
 bg black,23
@@ -3554,54 +3554,54 @@ bg kaidan_01,0
 ld l,AYA_D2,23
 ld l,AYA_D5a,80
 
-縲後ャ�√構
+「ッ！」\
 
 cl l,23
 bg black,23
 bg rouka_01,23
 
-縲閠�∴莠九ｒ縺鈴℃縺弱◆縲�
-縲縺�▽縺ｮ髢薙↓縺九�繝ｼ繧ｹ縺瑚誠縺｡縺ｦ縺�※縲√う繧ｶ繝翫Α縺後☆縺占ｿ代￥縺ｾ縺ｧ霑ｫ縺｣縺ｦ縺�◆縲�
+　考え事をし過ぎた。@
+　いつの間にかペースが落ちていて、イザナミがすぐ近くまで迫っていた。@
 br
-縲繧､繧ｶ繝翫Α縺悟､ｧ骼後�譟�〒蠎翫ｒ縺ｩ繧薙←繧薙→蜿ｩ縺阪√�繝ｼ繧ｹ繧剃ｸ翫￡繧阪→諤帝ｳｴ繧九�
+　イザナミが大鎌の柄で床をどんどんと叩き、ペースを上げろと怒鳴る。\
 
 bg black,24
 bg kaidan_01,24
 ld c,IZA_D7,24
 ;ld c,IZA_D8,80
 
-縲瑚ｵｰ繧区凾縺ｯ鬆ｭ繧偵き繝ｩ繝��縺ｫ縺励ｍ縲�襍ｰ縺｣縺ｦ繧後�鬆ｭ縺後き繝ｩ繝��縺ｫ縺ｪ繧具ｼ　縲荳九ｉ縺ｭ繧ｧ縺薙→閠�∴繧区嚊縺後≠縺｣縺溘ｉ縲√ぎ繝ｳ繧ｬ繝ｳ襍ｰ縺｣縺ｦ鬆ｭ繧偵き繝ｩ繝��縺ｫ縺励ｍ繧｣�　縲菫ｺ縺ｮ繧�＆縺励＞繧�＆縺励＞逕ｳ縺怜�繧定ｹｴ繧翫ｄ縺後▲縺溘ｓ縺縲�縺薙≧縺ｪ繧翫ｃ縺ｨ縺薙→繧謎ｻ倥″蜷医▲縺ｦ繧�ｉ繧｡縲��費ｼ呎律髢薙√ヰ繝�メ繝ｪ菫ｺ縺九ｉ騾�￡譫懊○縺ｦ縺ｿ繧�′繧後ぉ��ｼ√構
+「走る時は頭をカラッポにしろ。@走ってれば頭がカラッポになる！@　下らねェこと考える暇があったら、ガンガン走って頭をカラッポにしろィ！@　俺のやさしいやさしい申し出を蹴りやがったんだ。@こうなりゃとことん付き合ってやらァ。@４９日間、バッチリ俺から逃げ果せてみやがれェ！！」\
 
 bg black,23
 bg rouka_02,23
 
-縲遘√�蜑阪ｒ蜷代＞縺溘∪縺ｾ縲∝鴨蠑ｷ縺城ｷ縺�◆縲�
-縲蠖ｼ縺ｮ險縺�壹ｊ縺ｪ縺ｮ縺縲�窶ｦ窶ｦ菴呵ｨ医↑縺薙→縺ｯ閠�∴縺ｪ縺上※縺�＞縲�
+　私は前を向いたまま、力強く頷いた。@
+　彼の言う通りなのだ。@……余計なことは考えなくていい。@
 br
-縲莠ｺ逕溘�諢丞袖縺ｯ菴輔°縺ｨ閾ｪ蝠剰�遲斐☆繧九％縺ｨ縺昴�繧ゅ�縺後∫┌諢丞袖縺ｧ辟｡萓｡蛟､縺ｪ縺ｮ縺ｧ縺ｯ縺ｪ縺��縺九�
-縲縺昴ｓ縺ｪ辟｡諢丞袖縺ｪ縺薙→縺ｧ閾ｪ蛻�ｒ闍ｦ縺励ａ繧九￥繧峨＞縺ｪ繧峨�ｭ縺ｯ繧ｫ繝ｩ繝��縺ｮ譁ｹ縺後＞縺��
+　人生の意味は何かと自問自答することそのものが、無意味で無価値なのではないのか。@
+　そんな無意味なことで自分を苦しめるくらいなら、頭はカラッポの方がいい。\
 
-縲縺輔＝縲∽ｽ輔ｂ閠�∴縺壹↓繧ｫ繝ｩ繝��縺ｫ縺ｪ繧阪≧縲�縺溘□縲∬ｵｰ繧九％縺ｨ縺ｫ髮�ｸｭ縺励ｈ縺��
+　さぁ、何も考えずにカラッポになろう。@ただ、走ることに集中しよう。@
 br
-縲縺昴�繧ｫ繝ｩ繝��縺ｮ譎ゅ′縲∽ｸ逡ｪ縲∬ｺｫ繧ょｿ�ｂ霆ｽ縺上↑繧九�縺縲�
+　そのカラッポの時が、一番、身も心も軽くなるのだ。\
 
 bg black,2
 
-縲縺昴ｓ縺ｪ譌･縲�′縲∽ｽ墓律繧らｹｰ繧願ｿ斐＆繧後◆縲�
+　そんな日々が、何日も繰り返された。@
 br
-縲繧ｫ繝ｬ繝ｳ繝繝ｼ縺ｫ莉倥￠縺溘�ｼ費ｼ呎律逶ｮ縺梧ｬ｡隨ｬ縺ｫ霑代▼縺�※譚･繧九�
-縲縺昴�谿九ｊ譌･謨ｰ繧呈焚縺医ｋ縺薙→繧ゅ√→縺ｦ繧よ･ｽ縺励°縺｣縺溘�
+　カレンダーに付けた、４９日目が次第に近づいて来る。@
+　その残り日数を数えることも、とても楽しかった。\
 
 bg air_02,22
 
 fedexx 85,0,0,0,0,0,1000
 
-縲豈取律縲�ｭ繧偵き繝ｩ繝��縺ｫ縺励※襍ｰ繧顔ｶ壹￠縲�
+　毎日、頭をカラッポにして走り続け。@
 br
-縲豎励□縺上〒蟶ｰ螳�＠縺ｦ縲√♀鬚ｨ蜻ゅ↓蜈･繧翫�
-縲縺�▲縺ｱ縺�＃縺ｯ繧薙ｒ鬟溘∋縺ｦ縲√�縺｣縺溘ｊ縺ｨ蟶�屮縺ｫ蛟偵ｌ縺ｦ縲∝､｢繧りｦ九↑縺�⊇縺ｩ縺ｫ縺舌▲縺吶ｊ逵縺｣縺溘�
+　汗だくで帰宅して、お風呂に入り。@
+　いっぱいごはんを食べて、ばったりと布団に倒れて、夢も見ないほどにぐっすり眠った。@
 br
-縲窶ｦ窶ｦ縺昴＠縺ｦ縲√→縺�→縺��ｼ費ｼ呎律逶ｮ繧定ｿ弱∴縺溘�
+　……そして、とうとう、４９日目を迎えた。\
 
 bg black,2
 
@@ -3612,18 +3612,18 @@ bg koutei_01,2
 
 me1v 24,50
 
-縲遘√�閾ｪ蛻��縺薙→縺ｫ邊ｾ荳譚ｯ縺縺｣縺溘�縺ｧ縲∝ｭｦ譬｡縺ｮ陦御ｺ九↑縺ｩ縺ｯ縺吶▲縺九ｊ蠢倥ｌ縺ｦ縺�◆縲�
+　私は自分のことに精一杯だったので、学校の行事などはすっかり忘れていた。@
 br
-縲縺昴�譌･縺ｯ縲∝ｭｦ蟷ｴ縺ｮ繝槭Λ繧ｽ繝ｳ螟ｧ莨壹�譌･縺縺｣縺溘�
+　その日は、学年のマラソン大会の日だった。\
 
-縲縺九▽縺ｦ縺ｯ螟ｧ雖後＞縺縺｣縺溘�繝ｩ繧ｽ繝ｳ螟ｧ莨壹�
-縲縺励°縺嶺ｻ翫�縺ｾ縺｣縺溘￥蝠城｡後↓縺ｪ繧峨↑縺��
+　かつては大嫌いだったマラソン大会。@
+　しかし今はまったく問題にならない。@
 br
-縲縺ｲ縺ｨ繧翫〒譬｡蠎ｭ繧定ｵｰ繧雁屓繧九°縲√∩繧薙↑縺ｧ繝槭Λ繧ｽ繝ｳ繧偵☆繧九°縲�縺昴ｌ縺縺代�蟾ｮ縺縲�
+　ひとりで校庭を走り回るか、みんなでマラソンをするか。@それだけの差だ。\
 
-縲縺励▲縺九ｊ襍ｰ縺｣縺ｦ縲∽ｻ頑律縺ｮ譛蠕後�隧ｦ邱ｴ縺ｫ謖代ｂ縺��
+　しっかり走って、今日の最後の試練に挑もう。@
 br
-縲繧､繧ｶ繝翫Α縺ｨ縺ｮ閻舌ｌ邵√ｂ縲∽ｻ頑律縺ｧ縺翫＠縺ｾ縺�□縲�
+　イザナミとの腐れ縁も、今日でおしまいだ。\
 
 
 bg black,22
@@ -3633,100 +3633,100 @@ ld r,IZA_D2,80
 
 E_A
 
-縲後＞繧医か縲�/
+「いよォ。@/
 me1v 5,50
-莉頑律縺ｯ譛鬮倥�襍ｰ繧頑律蜥後□縺ｪ繧｡窶ｦ�　縲縺上▲縺上￥縺上▲縺上￥縺上￥��ｼ√后
+今日は最高の走り日和だなァ…！@　くっくくくっくくくく！！」@
 
 ld l,ay2_D5a,23
 ld l,ay2_D8a,80
 
-縲娯ｦ窶ｦ窶ｦ繝�ｼ�ｼ　縲縺ｩ縲√←縺�＠縺ｦ縺薙％縺ｫ窶ｦ窶ｦ�滂ｼ√構
+「………ッ！！@　ど、どうしてここに……？！」\
 
-縲縺昴ｌ縺ｯ邏帙ｌ繧ゅ↑縺上√う繧ｶ繝翫Α縺縺｣縺溘�
-縲蠖ｼ縺ｮ迚ｩ鬨偵↑蟋ｿ縺ｯ縺ｩ縺�ｄ繧牙捉繧翫�莠ｺ縺溘■縺ｫ縺ｯ隕九∴縺ｦ縺�↑縺�ｉ縺励＞縲�
-縲謾ｾ隱ｲ蠕後ｒ蠕�◆縺壹↓迴ｾ繧後ｋ縺ｪ繧薙※縲∝�繧√※縺ｮ縺薙→縺縺｣縺溘�
+　それは紛れもなく、イザナミだった。@
+　彼の物騒な姿はどうやら周りの人たちには見えていないらしい。@
+　放課後を待たずに現れるなんて、初めてのことだった。\
 
 ld r,IZA_D3,80
 
 E_A
 bgm1 15
 
-縲後○縺｣縺九￥縲√�繝ｩ繧ｽ繝ｳ螟ｧ莨壹↑繧薙※髱｢逋ｽ繧ｧ繧､繝吶Φ繝医′縺ゅｋ繧薙□縲�縺昴＠縺ｦ縲∽ｻ頑律縺御ｿｺ縺ｨ縺雁燕縺ｮ髟ｷ縺九▲縺滓律縲��譛蠕後□縲�窶ｦ窶ｦ謾ｾ隱ｲ蠕後↓譬｡闊弱ｒ縺舌ｋ縺舌ｋ縺倥ｃ縺ゅ√す繝｡縺ｫ縺ｯ髱｢逋ｽ縺上�繧ｧ縲ゅ構
+「せっかく、マラソン大会なんて面白ェイベントがあるんだ。@そして、今日が俺とお前の長かった日々の最後だ。@……放課後に校舎をぐるぐるじゃあ、シメには面白くねェ。」\
 
 ld l,ay2_D5a,80
 
-縲娯ｦ窶ｦ縺ｾ縺輔°縲∽ｻ翫≫ｦ窶ｦ窶ｦ繧�ｋ豌励↑縺ｮ窶ｦ窶ｦ縲ゅ構
+「……まさか、今、………やる気なの……。」\
 
 ld r,IZA_D5,80
 
-縲後◎縺�＞縺�％縺｣縺溪ｦ�　縲縺壹▲縺ｨ豁ｩ縺�※繧九�縺九ｊ縺ｧ縲∽ｿｺ繧る｣ｽ縺阪■縺ｾ縺｣縺溘ぃ�　縲縺帙▲縺九￥縺ｮ繝槭Λ繧ｽ繝ｳ螟ｧ莨壹□縲�莉頑律縺ｯ菫ｺ繧りｵｰ繧峨○縺ｦ繧ゅｉ縺�●繧ｧ窶ｦ��ｼ√構
+「そういうこった…！@　ずっと歩いてるばかりで、俺も飽きちまったァ！@　せっかくのマラソン大会だ。@今日は俺も走らせてもらうぜェ…！！」\
 
 ld l,ay2_D7a,80
 
-縲後ャ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲ゅ后
+「ッ……………。」@
 br
-縲蠖ｼ縺後←繧後⊇縺ｩ縺ｮ騾溷ｺｦ縺ｧ襍ｰ繧後ｋ縺ｮ縺九�繧上°繧峨↑縺��
-縲縺ｧ繧ゅ∝､ｧ譟�↑縺昴�菴捺ｼ縺ｨ髟ｷ縺�ｶｳ繧呈昴∴縺ｰ縲√°縺ｪ繧翫�騾溷ｺｦ縺ｧ襍ｰ繧後ｋ縺ｮ縺ｯ髢馴＆縺�↑縺��
+　彼がどれほどの速度で走れるのかはわからない。@
+　でも、大柄なその体格と長い足を思えば、かなりの速度で走れるのは間違いない。\
 
-縲蠖ｼ縺縺｣縺ｦ縲∵ｯ取律縲�ｼ第凾髢謎ｻ･荳翫ｂ譌ｩ雜ｳ縺ｧ豁ｩ縺咲ｶ壹￠縺ｦ縺�ｋ縺後∵�荳縺､荵ｱ縺輔↑縺��縺縲�
+　彼だって、毎日、１時間以上も早足で歩き続けているが、息一つ乱さないのだ。@
 br
-縲窶ｦ窶ｦ逶ｸ蠖薙�菴灘鴨縺ｨ閼壼鴨縺後≠繧九↓驕輔＞縺ｪ縺��
+　……相当の体力と脚力があるに違いない。\
 
 ld r,IZA_D2,80
 
-縲梧悶ぉ縺具ｼ溘后
+「怖ェか？」@
 
 ld l,ay2_D4a,80
 
-縲娯ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲ゅ構
+「……………………。」\
 
 ld r,IZA_D4,80
 
-縲悟ｮ牙ｿ�＠繧阪ぅ縲�謐輔∪縺医※繧ゅ∝ｮ峨ｉ縺九↓豁ｻ縺ｪ縺帙ｋ縺｣縺ｦ邏�據縺ｯ縺阪▲縺｡繧雁ｮ医▲縺ｦ繧�ｋ縺九ｉ繧医か縲ゅ后
+「安心しろィ。@捕まえても、安らかに死なせるって約束はきっちり守ってやるからよォ。」@
 
 ld l,ay2_D7a,80
 
-縲娯ｦ窶ｦ窶ｦ蜀苓ｫ�§繧�↑縺�ゅ構
+「………冗談じゃない。」\
 
 ld r,IZA_D6,80
 
-縲後↑繧峨√○縺�●縺�ｰ怜粋蜈･繧後※襍ｰ繧九％縺｣縺溘↑繧｡縲�菫ｺ縺ｫ謐輔∪繧峨★縺ｫ繧ｴ繝ｼ繝ｫ縺ｧ縺阪◆繧峨√♀蜑阪�蜍昴■縺縲�謐輔∪縺｣縺溘ｉ縲≫ｦ窶ｦ螳峨ｉ縺九↓逵繧峨○縺ｦ繧�ｋ縺懊ぉ縲�縺上▲縺上￥縺上￥縺擾ｼ√后
+「なら、せいぜい気合入れて走るこったなァ。@俺に捕まらずにゴールできたら、お前の勝ちだ。@捕まったら、……安らかに眠らせてやるぜェ。@くっくくくくく！」@
 br
-縲繧､繧ｶ繝翫Α縺ｯ諢丞慍謔ｪ縺昴≧縺ｫ隨代＞邯壹￠縺ｦ縺�ｋ縲�
+　イザナミは意地悪そうに笑い続けている。\
 
 cl l,24
 
-縲遘√�縺昴ｌ繧貞ｰｻ逶ｮ縺ｫ縲∝ｰ代＠縺ｧ繧ゅせ繧ｿ繝ｼ繝医Λ繧､繝ｳ縺ｮ蜑阪�譁ｹ縺ｸ莠ｺ縺斐∩繧呈悉縺榊�縺代※縺�￥縲�
+　私はそれを尻目に、少しでもスタートラインの前の方へ人ごみを掻き分けていく。\
 
 cl r,0
 ld c,IZA_D3,24
 
-縲鯉ｼ抵ｼ舌ｒ謨ｰ縺医※縺九ｉ霑ｽ縺｣謗帙￠縺ｦ繧�ｉ繧｡縲�縺昴�髢薙↓縲√○縺�●縺�ｷ晞屬繧堤ｨｼ縺�〒縺翫￥縺薙→縺縺懊ぉ縲ゅ構
+「２０を数えてから追っ掛けてやらァ。@その間に、せいぜい距離を稼いでおくことだぜェ。」\
 
 bg black,22
 bg koutei_04,22
 
-縲繧ｹ繧ｿ繝ｼ繝医Λ繧､繝ｳ蜑阪�縲∫塙蟄舌◆縺｡縺後＃縺｣縺溯ｿ斐＠縺ｦ縺�ｋ縲�
-縲縺昴ｓ縺ｪ荳ｭ縺ｫ豺ｷ縺倥ｍ縺�→縺吶ｋ螂ｳ蟄舌�縲∫ｧ√□縺代□縺｣縺溘�
+　スタートライン前は、男子たちがごった返している。@
+　そんな中に混じろうとする女子は、私だけだった。@
 br
-縲蜈育函縺後ヴ繧ｹ繝医Ν繧呈ｧ九∴繧九�
+　先生がピストルを構える。\
 
 fede 0,1000
 E_A
 
-縲碁比ｸｭ縲∵ｭｩ縺�※繧ゅ＞縺�°繧峨↑窶ｦ�　縲縺励▲縺九ｊ螳瑚ｵｰ縺縺代�縺励ｍ繧茨ｼ�ｼ　縲繧医�縺�√構
+「途中、歩いてもいいからな…！@　しっかり完走だけはしろよ！！@　よーい、」\
 
 me1v 17,90
 
-縲鬆大ｼｵ縺｣縺ｦ霎ｿ繧顔捩縺�◆縲∽ｻ頑律縲�
-縲縺昴ｌ繧堤ｵｶ蟇ｾ縺ｫ辟｡鬧�↓縺励↑縺��
+　頑張って辿り着いた、今日。@
+　それを絶対に無駄にしない。@
 br
-縲邨ｶ蟇ｾ縺ｫ縲≫ｦ窶ｦ逕溘″谿九▲縺ｦ繧�ｋ縲�
+　絶対に、……生き残ってやる。\
 
-縲窶ｦ窶ｦ窶ｦ逞帙＞縺上ｉ縺��豐磯ｻ吶′縲∝�逕溘�讒九∴繧九ヴ繧ｹ繝医Ν縺ｮ蠑輔″驥代↓豕ｨ隕悶＆縺帙ｋ縲�
+　………痛いくらいの沈黙が、先生の構えるピストルの引き金に注視させる。@
 br
-縲縺昴＠縺ｦ縲≫ｦ窶ｦ謨ｰ迸ｬ縺ｮ豐磯ｻ吶ｒ縲∽ｹｾ縺�◆轣ｫ阮ｬ髻ｳ縺梧遠縺｡遐ｴ繧九�
-縲縺昴�迸ｬ髢薙∵焚逋ｾ莠ｺ縺ｮ逕溷ｾ偵◆縺｡縺後∽ｸ譁峨↓襍ｰ繧雁�縺吶�
+　そして、……数瞬の沈黙を、乾いた火薬音が打ち破る。@
+　その瞬間、数百人の生徒たちが、一斉に走り出す。\
 E_A
 bgm1 21
 
@@ -3736,183 +3736,183 @@ mcbg 42
 ld c,IZA_D3,24
 ld c,IZA_D6,80
 
-縲後＆繧｡縲∬ｵｰ繧瑚ｵｰ繧後∫嶌鬥ｬ縺ゅｄ繧｡�　縲莉頑律縺ｾ縺ｧ縺ゅｌ縺縺題ｵｰ繧顔ｶ壹￠縺溘♀蜑阪□縲�縺昴�謌先棡縲∬ｦ九○縺ｦ縺上ｌ繧�ぃ窶ｦ��ｼ√構
+「さァ、走れ走れ、相馬あやァ！@　今日まであれだけ走り続けたお前だ。@その成果、見せてくれやァ…！！」\
 
 bg black,22
 
-縲繧､繧ｶ繝翫Α縺ｮ菴薙�縲∬ｦ九∴縺ｪ縺�ｺｺ髢薙↓縺ｯ騾上￠繧九ｉ縺励＞縲�
-縲�抵ｼ舌ｒ謨ｰ縺医ｋ蠖ｼ縺ｮ菴薙ｒ縺吶ｊ謚懊￠縲∝､ｧ蜍｢縺ｮ逕溷ｾ偵◆縺｡縺ｮ豕｢縺瑚ｵｰ繧雁�縺励※縺�￥縲�
+　イザナミの体は、見えない人間には透けるらしい。@
+　２０を数える彼の体をすり抜け、大勢の生徒たちの波が走り出していく。\
 
 ;bg black,24
 ;bg gakkou_05,22
 bg ura7,24
 
-縲莠ｺ縺斐∩縺ｫ鬟ｲ縺ｿ霎ｼ縺ｾ繧後◆繧峨∬�蛻��繝壹�繧ｹ縺ｧ襍ｰ繧後↑縺上↑繧九�
+　人ごみに飲み込まれたら、自分のペースで走れなくなる。@
 br
-縲遘√�蜈磯ｭ髮�屮縺ｫ豺ｷ縺倥▲縺ｦ縲√°縺ｪ繧企溘＞繝壹�繧ｹ縺ｧ襍ｰ繧雁�縺励◆縲�
+　私は先頭集団に混じって、かなり速いペースで走り出した。\
 
 bg black,22
 bg roji_03a,22
 
 
-縲窶ｦ窶ｦ莉頑律縺ｾ縺ｧ縲∵戟荵�鴨縺ｯ縺九↑繧贋ｻ倥￠縺溘→諤昴≧縲�
-縲縺ｧ繧ゅ√せ繝斐�繝峨↓髢｢縺励※縺ｯ諢剰ｭ倥＠縺溘％縺ｨ縺後↑縺��
-縲縺縺九ｉ縲√％縺ｮ繧ｹ繧ｿ繝ｼ繝医ム繝�す繝･縺ｯ縲√ｄ繧�┌逅�ｒ縺励※縺�◆縲�
-縲縺ｧ繧ゅ＞縺��縺ｨ縺ｫ縺九￥縲∽ｺｺ縺斐∩縺九ｉ縺輔∴騾�ｌ繧峨ｌ繧後�縲√≠縺ｨ縺ｯ閾ｪ蛻��繝壹�繧ｹ縺ｧ襍ｰ繧後ｋ縲�
+　……今日まで、持久力はかなり付けたと思う。@
+　でも、スピードに関しては意識したことがない。@
+　だから、このスタートダッシュは、やや無理をしていた。@
+　でもいい。@とにかく、人ごみからさえ逃れられれば、あとは自分のペースで走れる。\
 
-縲譛蛻昴￥繧峨＞縺ｯ荳菴肴ｰ怜�繧貞袖繧上＞縺溘＞縺ｨ縲　螽∝兇濶ｯ縺上せ繧ｿ繝ｼ繝医ム繝�す繝･繧偵＠縺溽塙蟄舌◆縺｡縺ｯ縲∵ｬ｡縲�↓菴灘鴨蛻�ｌ縺ｧ閼ｱ關ｽ縺励※縺�￥縲�
+　最初くらいは一位気分を味わいたいと、@威勢良くスタートダッシュをした男子たちは、次々に体力切れで脱落していく。@
 br
-縲遘√�閼ｱ關ｽ縺励↑縺��窶ｦ窶ｦ縺ゅｓ縺溘◆縺｡縺ｨ縺ｯ骰帙∴譁ｹ縺碁＆縺�ｓ縺縺九ｉ縺｣縲�
+　私は脱落しない。@……あんたたちとは鍛え方が違うんだからっ。\
 
 bg black,23
 
-縲繧�′縺ｦ縲�°蜍暮Κ縺ｧ骰帙∴繧峨ｌ縺溽函蠕偵□縺代↓縺ｪ縺｣縺ｦ縲∝�鬆ｭ髮�屮繧ゅ∪縺ｰ繧峨↓縺ｪ繧九→縲　遘√�騾溷ｺｦ繧定誠縺ｨ縺励√＞縺､繧ゅ�繝壹�繧ｹ繧貞叙繧頑綾縺励◆縲�
+　やがて、運動部で鍛えられた生徒だけになって、先頭集団もまばらになると、@私は速度を落とし、いつものペースを取り戻した。\
 
 ;bg black,23
 bg roji_04a,0
 ld c,IZA_D6,23
 
-縲蠕後ｒ謖ｯ繧願ｿ斐ｋ縺ｨ縲�窶ｦ窶ｦ窶ｦ窶ｦ螻�◆縲�
-縲繧､繧ｶ繝翫Α縺檎ｧ√ｒ霑ｽ縺｣縺ｦ譚･縺ｦ縺�ｋ縺ｮ縺瑚ｦ九∴縺溘�
+　後を振り返ると。@…………居た。@
+　イザナミが私を追って来ているのが見えた。@
 br
-縲縺昴�騾溷ｺｦ縺ｯ縲∵ｱｺ縺励※騾滄℃縺弱ｋ繧ゅ�縺ｧ縺ｯ縺ｪ縺��
-縲遘√′閾ｪ蛻��繝壹�繧ｹ繧貞ｮ医ｋ縺薙→縺悟�譚･繧後�縲√Μ繝ｼ繝峨ｒ螳医ｋ縺薙→縺ｯ蜈��縺ｫ蜿ｯ閭ｽ縺縺｣縺溘�
+　その速度は、決して速過ぎるものではない。@
+　私が自分のペースを守ることが出来れば、リードを守ることは充分に可能だった。\
 
-縲譛ｬ蠖薙�縲√ｂ縺｣縺ｨ譌ｩ縺剰ｵｰ繧九％縺ｨ繧ょ�譚･繧九�縺繧阪≧縲�
-縲繧､繧ｶ繝翫Α縺ｯ謐輔∪縺医ｋ縺薙→繧医ｊ縲∬ｿｽ縺�屓縺吶％縺ｨ繧貞･ｽ繧縲�
-縲縺阪▲縺ｨ縲∵怙蠕後�譛蠕後∪縺ｧ縲√℃繧翫℃繧翫�騾溷ｺｦ縺ｧ遘√ｒ霑ｽ縺�ｸ翫￡邯壹￠繧九↓驕輔＞縺ｪ縺��
+　本当は、もっと早く走ることも出来るのだろう。@
+　イザナミは捕まえることより、追い回すことを好む。@
+　きっと、最後の最後まで、ぎりぎりの速度で私を追い上げ続けるに違いない。\
 
 ld c,IZA_D2,80
 
-縲後☆縺｣縺九ｊ菴灘鴨繧剃ｻ倥￠縺溘↑繧｡縲�縺雁燕縺御ｻ頑栢縺�◆繝､繝�∫塙蟄舌□縺懊ぉ�檗縲縺雁燕縲√◎縺ｮ霎ｺ縺ｮ驛ｨ豢ｻ繧�▲縺ｦ繧狗塙蟄舌ｈ繧贋ｽ灘鴨縺､縺代※繧九◇繧ｩ縲ゅ后
+「すっかり体力を付けたなァ。@お前が今抜いたヤツ、男子だぜェ？@　お前、その辺の部活やってる男子より体力つけてるぞォ。」@
 br
-縲窶ｦ窶ｦ縺企匆讒倥〒縲�逧ｮ閧峨ｒ險縺｣縺ｦ繧�ｊ縺溘＞縺後∝他蜷ｸ縺ｮ繝壹�繧ｹ縺御ｹｱ繧後ｋ縺ｮ縺ｧ縲∝哨縺ｫ縺ｯ蜃ｺ縺輔↑縺九▲縺溘�
-縲縺昴ｌ縺ｫ縲√←縺�ｄ繧峨う繧ｶ繝翫Α縺ｯ縲∫ｧ√′蜿｣縺ｫ蜃ｺ縺輔↑縺上※繧ょｿ��螢ｰ縺瑚◇縺薙∴繧九ｉ縺励＞縲�
+　……お陰様で。@皮肉を言ってやりたいが、呼吸のペースが乱れるので、口には出さなかった。@
+　それに、どうやらイザナミは、私が口に出さなくても心の声が聞こえるらしい。\
 
 ld c,IZA_D3,80
 
-縲後∪縺縲√♀蜑阪�閠�∴縺ｦ繧九�縺九ぃ�溘后
+「まだ、お前は考えてるのかァ？」@
 br
-縲窶ｦ窶ｦ菴輔ｒ縲�
+　……何を。\
 
 ld c,IZA_D5,80
 
-縲檎函縺阪ｋ縺薙→縺ｮ諢丞袖縺縺ｮ萓｡蛟､縺縺ｮ縲�縺昴ｓ縺ｪ荳九ｉ縺ｭ繧ｧ縺薙→繧偵□繧医か縲ゅ后
+「生きることの意味だの価値だの。@そんな下らねェことをだよォ。」@
 br
-縲窶ｦ窶ｦ縺ゅｓ縺溘�縺企匆縺ｧ縲√◎繧後ｒ閠�∴繧区嚊繧ゅ↑縺��繧医�
+　……あんたのお陰で、それを考える暇もないのよ。\
 
 ld c,IZA_D2,80
 
-縲後↑繧芽憶縺九▲縺溘§繧��繧ｧ縺九�縺昴�證�′縺ｪ縺上※繧医か縲ゅ后
+「なら良かったじゃねェか。@その暇がなくてよォ。」@
 br
-縲菴輔′濶ｯ縺九▲縺溘�繧医�
+　何が良かったのよ。\
 
 ld c,IZA_D3,80
 
-縲後◎繧後ｒ豈取律閠�∴縺｡縺ｾ縺�°繧峨∬協縺励°縺｣縺溘ｓ縺繧阪か�溘后
+「それを毎日考えちまうから、苦しかったんだろォ？」@
 br
-縲窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ縲�
+　……………………。\
 
 ld c,IZA_D1,80
 
-縲後◎縺ｮ闍ｦ縺励∩縺ｫ閠舌∴繧峨ｌ縺ｪ縺上※縲√♀蜑阪�豁ｻ縺ｫ縺溘＞縺ｨ鬘倥▲縺溘ｓ縺繧阪か�檗縲縺ｪ繧峨∬憶縺九▲縺溘§繧��繧ｧ縺九�菫ｺ縺ｮ縺企匆縺ｧ縲√♀蜑阪�荳九ｉ縺ｭ繧ｧ縺薙→繧定�∴繧区嚊縺後↑縺上↑縺｣縺溘▲縺ｦ繧ｧ繧上￠縺縲ゅ構
+「その苦しみに耐えられなくて、お前は死にたいと願ったんだろォ？@　なら、良かったじゃねェか。@俺のお陰で、お前は下らねェことを考える暇がなくなったってェわけだ。」\
 
 bg black,24
 
-縲窶ｦ窶ｦ窶ｦ窶ｦ縺昴≧縺九ｂ縺ｭ縲�
+　…………そうかもね。@
 br
-縲荳区焔縺ｮ閠�∴縲∽ｼ代�縺ｫ莨ｼ縺溘ｊ縺｣縺ｦ隲ｺ縺後≠繧九ｂ繧薙�縲�
-縲閠�∴縺ｦ繧ら┌鬧�↑縺薙→縺｣縺ｦ縲∽ｸ悶�荳ｭ縺ｫ縺ｯ縺阪▲縺ｨ縺ゅｋ縲�
-縲螟壼�縲∽ｺｺ逕溘�諢丞袖繧�ｾ｡蛟､縺ｪ繧薙※縲∽ｸ隕矩ｫ伜ｰ壹◎縺�↑縺薙→繧ゅ　閠�∴繧九□縺醍┌諢丞袖縺ｧ辟｡萓｡蛟､縺ｪ縺薙→縺ｫ驕輔＞縺ｪ縺��
+　下手の考え、休むに似たりって諺があるもんね。@
+　考えても無駄なことって、世の中にはきっとある。@
+　多分、人生の意味や価値なんて、一見高尚そうなことも、@考えるだけ無意味で無価値なことに違いない。\
 
 ;bg black,24
 bg air_02,24
 
-縲縺昴ｓ縺ｪ荳九ｉ縺ｪ縺�％縺ｨ繧定�∴繧区嚊縺後≠縺｣縺溘↑繧峨�
+　そんな下らないことを考える暇があったなら。@
 br
-縲窶ｦ窶ｦ蜍牙ｼｷ縺励◆繧翫�°蜍輔＠縺溘ｊ縲�鄒主袖縺励￥邨ｦ鬟溘ｒ鬟溘∋縺ｦ縺贋ｻ｣繧上ｊ縺励◆繧翫�
-縲諤昴＞縺｣縺阪ｊ豎励ｒ豬√＠縺ｦ縲√す繝｣繝ｯ繝ｼ繧呈ｵｴ縺ｳ縺ｦ縺吶▲縺阪ｊ縺励※縲�
-縲螟懊�蟶�屮縺ｮ譟斐ｉ縺九＆繧貞�霄ｫ縺ｧ讌ｽ縺励ｓ縺ｧ縲√＄縺｣縺吶ｊ逵縺｣縺滓婿縺後�▼縺九↓繝槭す縺ｪ縺ｮ縺縲�
+　……勉強したり、運動したり。@美味しく給食を食べてお代わりしたり。@
+　思いっきり汗を流して、シャワーを浴びてすっきりして。@
+　夜は布団の柔らかさを全身で楽しんで、ぐっすり眠った方が、遥かにマシなのだ。\
 
-縲遘√�縺九▽縺ｦ縲　逕溘″繧九％縺ｨ縺ｮ諢丞袖繧定�∴繧医≧縺ｨ繧ゅ＠縺ｪ縺�ｺｺ縺溘■縺ｮ縺薙→繧偵∵�縺九□縺ｪ縺ｨ隕倶ｸ九＠縺溘％縺ｨ縺後≠繧九�
+　私はかつて、@生きることの意味を考えようともしない人たちのことを、愚かだなと見下したことがある。@
 br
-縲縺昴ｓ縺ｪ蜩ｲ蟄ｦ逧�↑縺薙→縺ｧ鬆ｭ繧偵＞縺｣縺ｱ縺�↓縺吶ｋ閾ｪ蛻��縲√←繧薙↑縺ｫ鬮伜ｰ壹°縺ｨ閾ｪ諠壹ｌ縺ｦ縺�◆縺九ｂ縺励ｌ縺ｪ縺��
+　そんな哲学的なことで頭をいっぱいにする自分は、どんなに高尚かと自惚れていたかもしれない。\
 
-縲縺励°縺励∽ｻ翫↓縺ｪ繧九→諤昴≧縲�
+　しかし、今になると思う。@
 br
-縲鬥ｬ鮖ｿ鬥ｬ鮖ｿ縺励°縺｣縺溘�
-縲閾ｪ蛻��逕溘″繧区э蜻ｳ�檗縲萓｡蛟､�檗
-縲縺昴ｓ縺ｪ縺薙→閠�∴繧区嚊縺後≠縺｣縺溘ｉ縲√ｂ縺｣縺ｨ繧ゅ▲縺ｨ繧�ｋ縺ｹ縺阪％縺ｨ縺後∽ｸ悶�荳ｭ縺ｫ縺ｯ縺�▲縺ｱ縺�≠縺｣縺溘�
+　馬鹿馬鹿しかった。@
+　自分の生きる意味？@　価値？@
+　そんなこと考える暇があったら、もっともっとやるべきことが、世の中にはいっぱいあった。\
 
 bg kyou_01,22
 
-縲蟄ｦ譬｡縺ｯ蜍牙ｼｷ縺励※驕句虚縺励※縲�♀繧薙〒隨代≧縺ｨ縺薙ｍ縺ｧ縺励ｇ縲�
+　学校は勉強して運動して、遊んで笑うところでしょ。@
 br
-縲遘√�菴輔ｒ縺励※縺滂ｼ檗縲豈取律縺ｼ繧薙ｄ繧翫→縺励※縲∝級蠑ｷ繧ゅ○縺夐°蜍輔ｂ縺帙★縲�♀縺ｳ繧ゅ○縺夂ｬ代＞繧ゅ○縺壹�
-縲縺ｪ縺ｮ縺ｫ縲∽ｺｺ逕溘�諢丞袖縺ｪ繧薙※縲�ｦｬ鮖ｿ鬥ｬ鮖ｿ縺励＞縺薙→縺ｧ鬆ｭ繧偵＞縺｣縺ｱ縺�↓縺励※縲　閾ｪ蛻��鬮伜ｰ壹↑莠ｺ髢薙□縺ｨ閾ｪ諠壹ｌ縺ｦ縺�◆縲�
+　私は何をしてた？@　毎日ぼんやりとして、勉強もせず運動もせず、遊びもせず笑いもせず。@
+　なのに、人生の意味なんて、馬鹿馬鹿しいことで頭をいっぱいにして、@自分は高尚な人間だと自惚れていた。\
 
 bg black,22
 
-縲遘√√ｄ縺｣縺ｨ繧上°縺｣縺溘°繧ゅ＠繧後↑縺��窶ｦ窶ｦ莠ｺ逕溘�縲∵э蜻ｳ縲�
+　私、やっとわかったかもしれない。@……人生の、意味。@
 br
-縲窶懈ｭｻ縺ｫ縺溘￥縺ｪ縺�°繧臥函縺阪ｋ窶昴〒縲∝�蛻�↑繧薙□縲�
+　“死にたくないから生きる”で、充分なんだ。\
 
-縲莠ｺ縺檎函縺阪ｋ縺ｨ譖ｸ縺�※縲∽ｺｺ逕溘�
+　人が生きると書いて、人生。@
 br
-縲莠ｺ縺ｯ縲√◆縺逕溘″縺ｦ縺�ｋ縺縺代〒縲∫ｫ区ｴｾ縺ｫ諢丞袖縺ｨ萓｡蛟､縺後≠繧九ｓ縺縲�
-縲縺昴＠縺ｦ縺輔ｉ縺ｫ莠ｺ逕溘↓諢丞袖繧�ｾ｡蛟､縺梧ｱゅａ縺溘＞縺ｪ繧峨≫ｦ窶ｦ縺輔ｉ縺ｫ莉翫ｒ邊ｾ荳譚ｯ縲∫函縺阪ｌ縺ｰ縺�＞縲�
+　人は、ただ生きているだけで、立派に意味と価値があるんだ。@
+　そしてさらに人生に意味や価値が求めたいなら、……さらに今を精一杯、生きればいい。\
 
 bg ura5,24
 
-縲蟄ｦ縺ｶ縲�驕翫�縲�隨代≧縲�諤偵ｋ縲�豕｣縺上�菴輔〒繧ゅ＞縺��邊ｾ荳譚ｯ邊ｾ荳譚ｯ縲�
+　学ぶ。@遊ぶ。@笑う。@怒る。@泣く。@何でもいい。@精一杯精一杯。@
 br
-縲縺昴ｌ繧貞�蜉帙〒繧�ｊ蟆ｽ縺上＠縺ｦ逕溘″繧九％縺ｨ縺昴�繧ゅ�縺後∽ｺｺ髢薙�萓｡蛟､縺ｪ縺ｮ縺縲�
+　それを全力でやり尽くして生きることそのものが、人間の価値なのだ。\
 
 bg black,24
 bg roji_03a,24
 
-縲後≠繧�ぃ��ｼ　縲縺ｾ縺溘�繝ｼ繧ｹ縺瑚誠縺｡縺ｦ繧九◇繧ｩ��ｼ　縲荳九ｉ縺ｭ繧ｧ縺薙→縺ｧ鬆ｭ繧呈ｺ縺溘☆縺ｪ��ｼ　縲繧ｫ繝ｩ繝��縺ｫ縺励ｍ�　縲閠�∴繧九ｓ縺倥ｃ縺ｭ繧ｧ繝�√き繝ｩ繝��縺ｧ襍ｰ繧後∞縺医∴��ｼ√后
-縲娯ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ��ｼ√構
+「あやァ！！@　またペースが落ちてるぞォ！！@　下らねェことで頭を満たすな！！@　カラッポにしろ！@　考えるんじゃねェッ、カラッポで走れぇええ！！」@
+「…………………！！」\
 
-縲繧､繧ｶ繝翫Α縺ｮ螢ｰ縺瑚ｿ代＞縲�
-縲縺ｾ縺溘⊂繧薙ｄ繧翫＠縺ｦ繝壹�繧ｹ縺瑚誠縺｡縺ｦ縺�◆繧峨＠縺��
+　イザナミの声が近い。@
+　またぼんやりしてペースが落ちていたらしい。@
 br
-縲蠖ｼ縺ｮ險縺�壹ｊ縺縲�窶ｦ窶ｦ荳九ｉ縺ｪ縺�％縺ｨ縺ｯ鬆ｭ縺ｫ縺�ｉ縺ｪ縺��蜈ｨ縺ｦ霑ｽ縺��縺励√き繝ｩ繝��縺ｫ縺励ｈ縺��
-縲鬆ｭ繧ょｿ�ｂ縲√◎縺励※菴薙ｂ繧ｫ繝ｩ繝��縺ｫ縺励※霆ｽ縺上☆繧九ｓ縺窶ｦ窶ｦ縲�
+　彼の言う通りだ。@……下らないことは頭にいらない。@全て追い出し、カラッポにしよう。@
+　頭も心も、そして体もカラッポにして軽くするんだ……。\
 
 bg black,24
 bg roji_04a,24
 
 me1v 5,85
 
-縲鬆ｭ縺ｮ荳ｭ縺後√☆縺�▲縺ｨ貔�ｓ縺ｧ縺�￥諢溯ｧｦ窶ｦ窶ｦ縲�
-縲菴薙�荳ｭ縺檎ｩｺ豢槭↓縺ｪ繧翫∫ｾｽ縺ｫ縺ｧ繧ゅ↑縺｣縺滓ｰ励′縺吶ｋ縲�
-縲逶ｮ邱壹�閾ｪ辟ｶ縺ｨ驕･縺句ｽｼ譁ｹ縺ｸ縲�窶ｦ窶ｦ蜻ｼ蜷ｸ繧らｩ上ｄ縺九↑繧ゅ�縺ｫ縺ｪ縺｣縺ｦ縺�￥縲�
+　頭の中が、すぅっと澄んでいく感触……。@
+　体の中が空洞になり、羽にでもなった気がする。@
+　目線は自然と遥か彼方へ。@……呼吸も穏やかなものになっていく。\
 
-縲雜ｳ縺ｯ縺ｩ繧薙←繧楢ｻｽ縺上↑繧九�陦後￠繧九∬｡後￠繧九≫ｦ窶ｦ縺ｾ縺縺ｾ縺陦後￠繧銀ｦ窶ｦ縲�
-縲髯ｸ荳企Κ縺ｮ逕ｷ蟄舌′謚懊°繧後�ｩ壹″縺ｮ逶ｮ繧貞髄縺代ｋ縲�
+　足はどんどん軽くなる。@行ける、行ける、……まだまだ行ける……。@
+　陸上部の男子が抜かれ、驚きの目を向ける。@
 br
-縲縺ｧ繧ゅ◎繧薙↑縺ｮ闊亥袖縺ｪ縺��蜈ｨ縺ｦ繧偵き繝ｩ繝��縺ｫ縺励※縲≫ｦ窶ｦ窶ｦ鬚ｨ縺ｫ縺ｪ繧九ｓ縺縲�
+　でもそんなの興味ない。@全てをカラッポにして、………風になるんだ。\
 
 bg black,24
 bg gakkou_01a,24
 
-縲隗偵ｒ譖ｲ縺後ｋ縺ｨ縲∝�縺ｳ蟄ｦ譬｡縺瑚ｦ九∴縺ｦ縺上ｋ縲�
+　角を曲がると、再び学校が見えてくる。@
 br
-縲縺ゅ�譬｡髢縺後ざ繝ｼ繝ｫ縺縲�縺ゅ→縲√⊇繧薙�謨ｰ逋ｾ繝｡繝ｼ繝医Ν縲�
+　あの校門がゴールだ。@あと、ほんの数百メートル。\
 
 bg black,1
 
-縲後≠繧�ぃ��ｼ　縲繝ｩ繧ｹ繝医せ繝代�繝医か��ｼ　縲譛蠕後�豌怜粋縲∽ｿｺ縺ｫ隕九○縺ｦ縺ｿ繧�′繧�ｌ繧ｧ��ｼ√后
-縲娯ｦ窶ｦ窶ｦ窶ｦ窶ｦ窶ｦ繝�ャ��ｼ�ｼ√構
+「あやァ！！@　ラストスパートォ！！@　最後の気合、俺に見せてみやがやれェ！！」@
+「………………ッッ！！！」\
 
-縲莉頑律縺ｯ谿九ｊ譎る俣繧ゅ√う繧ｶ繝翫Α縺ｮ霍晞屬繧ゅ∽ｸ翫ｊ髫取ｮｵ繧ゆｸ九ｊ髫取ｮｵ繧ゆｽ輔ｂ豌励↓縺励↑縺上※縺�＞縲�
+　今日は残り時間も、イザナミの距離も、上り階段も下り階段も何も気にしなくていい。@
 br
-縲繧ｴ繝ｼ繝ｫ縺吶ｌ縺ｰ蜈ｨ縺ｦ邨ゅｏ繧翫□縲�菴輔ｂ菴輔ｂ縲∵ｮ九＆縺ｪ縺上※縺�＞縲�
+　ゴールすれば全て終わりだ。@何も何も、残さなくていい。\
 
-縲襍ｰ繧頑栢縺代ｈ縺��菴薙�荳ｭ縺ｮ蜈ｨ縺ｦ繧貞瑞縺榊�縺昴≧縲�
-縲蠕悟�縺ｪ繧薙°閠�∴縺ｪ縺上※縺�＞縲�荳九ｉ縺ｪ縺��蝠剰�遲斐↓縲∽ｺ悟ｺｦ縺ｨ蠢�ｒ貅縺溘＆縺ｪ縺上※縺�＞縲�
-縲蜈ｨ驛ｨ蜈ｨ驛ｨ縲√き繝ｩ繝��縺ｮ蠅�慍縲�
+　走り抜けよう。@体の中の全てを吐き出そう。@
+　後先なんか考えなくていい。@下らない自問自答に、二度と心を満たさなくていい。@
+　全部全部、カラッポの境地。\
 
 ;bg white,2
 bg gakkou_01a,2
@@ -3921,7 +3921,7 @@ flushout 5000
 
 bg black,42
 
-縲窶ｦ窶ｦ遘√�縲≫ｦ窶ｦ窶ｦ鬚ｨ縺ｫ縺ｪ縺｣縺溪ｦ窶ｦ窶ｦ縲�
+　……私は、………風になった………。\
 
 fede 1,4000
 E_B
@@ -3933,69 +3933,69 @@ bg air_02,2
 
 
 
-縲譛蠕後��托ｼ撰ｼ舌Γ繝ｼ繝医Ν縺ｯ鬆ｭ縺檎悄縺｣逋ｽ縺ｧ縲∽ｽ輔ｂ險俶�縺ｫ縺ｪ縺��
+　最後の１００メートルは頭が真っ白で、何も記憶にない。@
 br
-縲豌嶺ｻ倥＞縺滓凾縲�遘√�譬｡蠎ｭ縺ｫ縺ｶ縺｣蛟偵ｌ縲∝､ｧ縺ｮ蟄励↓縺ｪ縺｣縺ｦ縲�搨遨ｺ繧定ｦ倶ｸ翫￡縺ｦ縺�◆縲�
+　気付いた時。@私は校庭にぶっ倒れ、大の字になって、青空を見上げていた。\
 
-縲蜈ｨ霄ｫ縺ｯ豎励〒縺ｳ縺｣縺励ｇ繧翫�閭ｸ縺ｯ豼縺励￥荳贋ｸ九＠縲∬ぜ縺ｯ縺ｾ縺縺ｾ縺辷�匱縺励◎縺�↓辭ｱ縺九▲縺溘�
+　全身は汗でびっしょり。@胸は激しく上下し、肺はまだまだ爆発しそうに熱かった。@
 br
-縲縺ｧ繧ゅ≫ｦ窶ｦ窶ｦ逶ｮ縺ｮ蜑阪＞縺｣縺ｱ縺�↓蠎�′繧矩搨遨ｺ縺ｮ繧医≧縺ｫ縲≫ｦ窶ｦ霄ｫ繧ょｿ�ｂ縲∝�縺ｦ縺梧匐繧後ｄ縺九〒縲　窶ｦ窶ｦ蠎�､ｧ縺ｪ蠎�､ｧ縺ｪ縲∵ｸ��＠縺�き繝ｩ繝��縺縺｣縺溘�
+　でも、………目の前いっぱいに広がる青空のように、……身も心も、全てが晴れやかで、@……広大な広大な、清々しいカラッポだった。\
 
 fede 0,1000
 E_A
 
-縲縺昴ｓ縺ｪ遘√�逶ｮ縺ｮ蜑阪↓縲√★縺�▲縺ｨ螟ｧ縺阪↑謇九′遯√″蜃ｺ縺輔ｌ繧九�
-縲蜥�痢縺ｫ縺昴ｌ繧偵∵升縺｣縺ｦ縺励∪縺��
+　そんな私の目の前に、ずいっと大きな手が突き出される。@
+　咄嗟にそれを、握ってしまう。@
 bgm1 4
-縲螟ｧ縺阪↑蛻�字縺�焔縺縺｣縺溘�
+　大きな分厚い手だった。@
 br
-縲縺昴＠縺ｦ縲√◎繧後′豁ｻ逾槭�謇九〒縺ゅ▲縺溘％縺ｨ縺ｫ豌嶺ｻ倥￥縲�
+　そして、それが死神の手であったことに気付く。@
 br
-縲繧､繧ｶ繝翫Α縺ｯ縺舌＞縺｣縺ｨ蠑輔▲蠑ｵ繧翫√≠繧��荳贋ｽ薙ｒ襍ｷ縺薙＠縺ｦ縺上ｌ縺溘�
+　イザナミはぐいっと引っ張り、あやの上体を起こしてくれた。\
 
 bg black,22
 bg koutei_01,22
 ld r,IZA_D4,22
 
 
-縲娯ｦ窶ｦ莉翫√←繧薙↑豌玲戟縺｡縺繧｡縲ゅ后
+「……今、どんな気持ちだァ。」@
 
 ld l,ay2_D11,26
 
-縲悟�驛ｨ繧ｫ繝ｩ繝��縺ｧ縲≫ｦ窶ｦ窶ｦ閾ｪ蛻�′髱堤ｩｺ縺ｫ縺ｪ縺｣縺溘∩縺溘＞縺ｪ豌玲戟縺｡縲≫ｦ窶ｦ縺ｧ縺吶ゅ構
+「全部カラッポで、………自分が青空になったみたいな気持ち、……です。」\
 
 ld r,IZA_D1,80
 
-縲後き繝ｩ繝��縺ｯ譛鬮倥□繧阪�襍ｰ縺｣縺ｦ襍ｰ縺｣縺ｦ襍ｰ繧翫∪縺上ｊ繧��隱ｰ縺縺｣縺ｦ繧ｫ繝ｩ繝��縺ｫ縺ｪ繧後ｋ繧薙□縲ゅ后
+「カラッポは最高だろ。@走って走って走りまくりゃ。@誰だってカラッポになれるんだ。」@
 
 ld l,ay2_D10,80
 
-縲娯ｦ窶ｦ縺ｯ縺��窶ｦ窶ｦ譛鬮倥〒縺吶ゅ后
+「……はい。@……最高です。」@
 br
-縲荳肴晁ｭｰ縺縺｣縺溘�
-縲縺ゅｌ縺縺第ｯ縺医◆豁ｻ逾槭↑縺ｮ縺ｫ縲≫ｦ窶ｦ縺ｾ繧九〒蜈育函縺ｧ縺ゅｋ縺九�繧医≧縺ｫ縲∵噴隱槭〒遲斐∴縺ｦ縺励∪縺��
+　不思議だった。@
+　あれだけ怯えた死神なのに、……まるで先生であるかのように、敬語で答えてしまう。\
 
 
 ld r,IZA_D3,80
 
-縲後↑�檗縲莠ｺ縺檎函縺阪ｋ諢丞袖縺ｪ繧薙※縲∫炊逕ｱ縺ｪ繧薙※縲�縺昴ｓ縺ｪ鬥ｬ鮖ｿ鬥ｬ鮖ｿ縺励＞繝｢繝ｳ縲√←縺�〒繧ゅ＞縺�□繧阪か�溘后
+「な？@　人が生きる意味なんて、理由なんて。@そんな馬鹿馬鹿しいモン、どうでもいいだろォ？」@
 
 ld l,ay2_D9,80
 
-縲後�縺��窶ｦ窶ｦ縺昴ｓ縺ｪ繧ゅ�縲≫ｦ窶ｦ縺吶＃縺上←縺�〒繧ゅｈ縺上※縲≫ｦ窶ｦ鬥ｬ鮖ｿ鬥ｬ鮖ｿ縺励＞縺ｧ縺吶ゅ構
+「はい。@……そんなもの、……すごくどうでもよくて、……馬鹿馬鹿しいです。」\
 
 cl r,0
 mld c,IZA_D1,24
 
-縲御ｺｺ髢薙�縺ｪ繧｡縲�縺後�縺励ｃ繧峨↓襍ｰ縺｣縺ｦ縲�ｭ繧偵き繝ｩ繝��縺ｫ縺吶ｋ縺上ｉ縺�〒縺｡繧�≧縺ｩ縺�＞繧薙□繧医�縺雁燕縺ｮ莠ｺ逕溘�縺薙ｌ縺九ｉ繧る聞縺��縺ｾ縺溘√♀縺九＠縺ｪ縺薙→縺ｧ鬆ｭ繧偵＞縺｣縺ｱ縺�↓縺励■縺ｾ縺�％縺ｨ繧ゅ≠繧九□繧阪≧繧医�窶ｦ窶ｦ窶ｦ縺昴�譎ゅ�縺ｩ縺�☆繧後�縺�＞縺九√ｏ縺九▲縺ｦ繝ｳ縺ｪ縲ゅ構
+「人間はなァ。@がむしゃらに走って、頭をカラッポにするくらいでちょうどいいんだよ。@お前の人生はこれからも長い。@また、おかしなことで頭をいっぱいにしちまうこともあるだろうよ。@………その時はどうすればいいか、わかってンな。」\
 
 mcl c,0
 bg black,22
 bg air_02,22
 
-縲後�縺��窶ｦ窶ｦ襍ｰ縺｣縺ｦ襍ｰ縺｣縺ｦ縲≫ｦ窶ｦ縺ｾ縺滄ｭ繧偵き繝ｩ繝��縺ｫ縺励∪縺吶ゅ后
-縲後◎縺�□繧｡�　縲縺�＞縺繧阪∬ｵｰ繧九▲縺ｦ縺ｮ縺ｯ繧｡��ｼ√后
-縲娯ｦ窶ｦ窶ｦ縺ｯ縺�▲縲ゅ構
+「はい。@……走って走って、……また頭をカラッポにします。」@
+「そうだァ！@　いいだろ、走るってのはァ！！」@
+「………はいっ。」\
 
 mov %IZA_Isyou,2
 bg black,22
@@ -4004,32 +4004,32 @@ ld l,ay2_D11,0
 ld r,IZA_D2,22
 ld r,IZA_D6,80
 
-縲後◎繧後↓縺励※繧ゅ♀蜑阪√↑縺九↑縺九＞縺��繧偵＠縺ｦ繧九§繧��繧ｧ縺具ｼ　縲髯ｸ荳企Κ縺ｫ蜈･繧後ャ縲�菫ｺ縺後§縺阪§縺阪↓縲√ヰ繝ｳ繝舌Φ縺励＃縺�※繧�ｉ繧｡��ｼ　縲繧上▲縺ｯ縺ｯ縺ｯ縺ｯ縺ｯ縺ｯ縺ｯ縺ｯ��ｼ√構
+「それにしてもお前、なかなかいい脚をしてるじゃねェか！@　陸上部に入れッ。@俺がじきじきに、バンバンしごいてやらァ！！@　わっはははははははは！！」\
 
 
 ld l,ay2_D10,80
 
-縲娯ｦ窶ｦ遘√∬ｵｰ繧九�縲�窶ｦ窶ｦ窶ｦ螂ｽ縺阪↓縺ｪ繧翫∪縺励◆縲�窶ｦ窶ｦ蜈育函縲ゅ構
+「……私、走るの。@………好きになりました。@……先生。」\
 
-縲繧､繧ｶ繝翫Α縺ｮ蟋ｿ縺ｯ縺�▽縺ｮ髢薙↓縺九∵ｭｻ逾槭�繝槭Φ繝亥ｧｿ縺ｧ縺ｯ縺ｪ縺上↑縺｣縺ｦ縺�◆縲�
-縲謇九↓謖√▲縺ｦ縺�◆縺ｯ縺壹�螟ｧ骼後�縲∫ｫｹ蛻縺ｫ莉｣繧上ｊ縲�窶ｦ窶ｦ貍�ｻ偵�繝槭Φ繝医�縲√ず繝｣繝ｼ繧ｸ縺ｫ莉｣繧上▲縺ｦ縺�◆窶ｦ窶ｦ縲�
+　イザナミの姿はいつの間にか、死神のマント姿ではなくなっていた。@
+　手に持っていたはずの大鎌は、竹刀に代わり。@……漆黒のマントは、ジャージに代わっていた……。\
 
 bg black,22
 bg air_02,22
 
-縲諡�ｻｻ繧�ｻ悶�蜈育函縺溘■繧ょｽｼ螂ｳ縺ｮ繧ゅ→縺ｸ髮�∪繧翫∫嶌鬥ｬ縺ゅｄ縺ｮ諢丞､悶↑螟ｧ蛛･髣倥ｒ邨ｶ雉帙＠縺ｦ縺上ｌ縺溘�
-縲蠖ｼ螂ｳ縺御ｼ代∩譎る俣縺ｮ蠎ｦ縺ｫ譬｡蠎ｭ繧定ｵｰ縺｣縺ｦ縺�◆縺ｮ縺ｯ縲√☆縺ｧ縺ｫ譛牙錐縺ｪ隧ｱ縲�
-縲縺昴�謌先棡繧貞ｭ伜�縺ｫ逋ｺ謠ｮ縺励◆謌千ｸｾ縺ｯ縲�°蜍暮Κ縺ｫ謇螻槭☆繧狗函蠕偵◆縺｡縺ｫ荳ｦ縺ｶ繧ゅ�縺ｧ縺ゅ▲縺溘�
+　担任や他の先生たちも彼女のもとへ集まり、相馬あやの意外な大健闘を絶賛してくれた。@
+　彼女が休み時間の度に校庭を走っていたのは、すでに有名な話。@
+　その成果を存分に発揮した成績は、運動部に所属する生徒たちに並ぶものであった。@
 br
-縲縺薙ｓ縺ｪ縺ｫ繧ょｯ�▲縺ｦ髮�▲縺ｦ隍偵ａ繧峨ｌ縺溽ｵ碁ｨ薙↑縺ｩ縺ｪ縺��
+　こんなにも寄って集って褒められた経験などない。\
 
-縲娯ｦ窶ｦ縺ゅｊ縺後→縺�ょ�逕溘ゅ后
-縲檎函縺阪ｍ繧医か縲√≠繧�ぃ窶ｦ��ｼ�ｼ　縲遶九■豁｢縺ｾ縺｣縺溘ｉ縲√◎縺ｮ繧ｱ繝�∽ｿｺ縺ｮ遶ｹ蛻縺ｧ縺ｶ縺｣蜿ｩ縺�※繧�ｋ縺九ｉ縺ｪ繧｡�√后
-縲後�縺�▲縲ゅ構
+「……ありがとう。先生。」@
+「生きろよォ、あやァ…！！！@　立ち止まったら、そのケツ、俺の竹刀でぶっ叩いてやるからなァ！」@
+「はいっ。」\
 
-縲豌玲戟縺｡縺ｮ縺�＞鬚ｨ縺後∝ｽｼ螂ｳ縺ｮ轣ｫ辣ｧ繧翫ｒ蜀ｷ縺ｾ縺吶�
+　気持ちのいい風が、彼女の火照りを冷ます。@
 br
-縲縺ゅｄ縺ｯ螟｢繧定ｦ九ｋ繧医≧縺ｪ蠢�慍縺ｧ縲√＞縺､縺ｾ縺ｧ繧る搨遨ｺ繧定ｦ倶ｸ翫￡縺ｦ縺�ｋ縺ｮ縺縺｣縺溪ｦ窶ｦ縲�
+　あやは夢を見るような心地で、いつまでも青空を見上げているのだった……。\
 
 
 mov %SIN_Isyou,2
@@ -4044,38 +4044,38 @@ ld r,SIN_D1,22
 
 bgm1 1
 
-縲檎ｫ区ｴｾ縺ｪ辭ｱ陦謨吝ｸｫ縺ｶ繧翫〒縺吶�縺�ゅ后
-;�懈蕗鬆ｭ�育ｴ�幻邏ｳ螢ｫ�
+「立派な熱血教師ぶりですねぇ。」@
+;＜教頭（紅茶紳士）
 
 ld l,IZA_D1,22
 ld l,IZA_D2,80
 
-縲御ｽ輔□縲∵蕗鬆ｭ縺九ｈ縲�莠ｺ縺梧が繧｣縺ｪ縲�縺壹▲縺ｨ隕九※繧�′縺｣縺溘↑繧｡�溘后
+「何だ、教頭かよ。@人が悪ィな。@ずっと見てやがったなァ？」@
 
 ld r,SIN_D3,80
 
-縲後￥縺｣縺上▲縺上▲縺上�豌励↓縺励↑縺�％縺ｨ縺ｧ縺吶�蟄蝉ｾ帙◆縺｡繧定ｦ句ｮ医ｋ縺ｮ縺後∫ｧ√◆縺｡縺ｮ莉穂ｺ九〒縺吶°繧峨ゅ構
+「くっくっくっく。@気にしないことです。@子供たちを見守るのが、私たちの仕事ですから。」\
 
 ld l,IZA_D3,80
 
-縲碁�繧企�′縺励■縺ｾ縺｣縺溘′縲√≠繧��繧ゅ≧縲√♀蜑阪�迯ｲ迚ｩ縺ｫ繧ゅ↑繧峨�繧ｧ縺槭�縺ゅ＞縺､縺ｯ繧ゅ≧縲∝ｦ�Φ縺ｫ騾�￡繧九ｈ縺�↑繧ｯ繧ｽ關ｽ縺｡逶ｮ縺倥ｃ縺ｭ繧ｧ縲ゅ構
+「釣り逃がしちまったが、あやはもう、お前の獲物にもならねェぞ。@あいつはもう、妄想に逃げるようなクソ落ち目じゃねェ。」\
 
 ld r,SIN_D2,80
 
-縲後◎縺ｮ繧医≧縺ｧ縺吶�縺��窶ｦ窶ｦ蜈医↓逶ｮ繧剃ｻ倥￠縺溘�縺檎ｧ√□縺｣縺溘ｉ縲　蠖ｼ螂ｳ繧堤ｴ謨ｵ縺ｪ螟｢縺ｮ荳也阜縺ｫ諡帛ｾ�〒縺阪◆縺ｮ縺ｧ縺吶′縲ゅ構
+「そのようですねぇ。@……先に目を付けたのが私だったら、@彼女を素敵な夢の世界に招待できたのですが。」\
 
 cl l,0
 mld c,IZA_D5,23
 
-縲後＞縺�°縲∫ｴ�幻驥朱ヮ繧ｩ縲�縺薙�蟄ｦ譬｡縺ｮ繝翫Φ繝舌��偵�菫ｺ縺繧｡�　縲迢ｩ繧翫�驍ｪ鬲斐�縺輔○縺ｭ繧ｧ縺励　莉ｮ縺ｫ驥｣繧企�＠縺ｦ繧ゅ√♀蜑阪�迯ｲ迚ｩ縺ｫ繧よ妙縺倥※縺輔○縺ｭ繧ｧ窶ｦ�　縲譬｡髟ｷ縺ｮ閻ｰ蟾ｾ逹鬚ｨ諠�′縲∝ｽｱ縺ｮ隨ｬ�剃ｽ阪↑繧薙※逋ｾ蟷ｴ譌ｩ繧ｧ繧薙□繧茨ｼ√構
+「いいか、紅茶野郎ォ。@この学校のナンバー２は俺だァ！@　狩りの邪魔はさせねェし、@仮に釣り逃しても、お前の獲物にも断じてさせねェ…！@　校長の腰巾着風情が、影の第２位なんて百年早ェんだよ！」\
 
 ld r,SIN_D1,80
 
-縲後￥縺｣縺上▲縺上�遘√�縺薙→縺ｪ縺ｩ縲∵ｰ励↓縺励↑縺�％縺ｨ縺ｧ縺吶�縺輔※縲�窶ｦ窶ｦ迢吶▲縺ｦ縺�◆逶ｸ鬥ｬ縺ゅｄ繧ゅ√☆縺｣縺九ｊ鄒主袖縺ｧ縺ｯ縺ｪ縺上↑縺｣縺ｦ縺励∪縺�∪縺励◆縺九ｉ縺ｭ縺��縺ｾ縺溘∵眠縺励＞迯ｲ迚ｩ繧呈爾縺励∪縺励ｇ縺��縺昴＠縺ｦ縲∵掠縺丞､｢縺ｮ荳也阜縺ｸ騾｣繧悟悉縺｣縺ｦ縲√≠縺ｪ縺溘�謇九′螻翫°縺ｪ縺�ｈ縺�↓縺励↑縺上※縺ｯ縲ゅ構
+「くっくっく。@私のことなど、気にしないことです。@さて。@……狙っていた相馬あやも、すっかり美味ではなくなってしまいましたからねぇ。@また、新しい獲物を探しましょう。@そして、早く夢の世界へ連れ去って、あなたの手が届かないようにしなくては。」\
 
 mld c,IZA_D2,80
 
-縲後￠縺｣縲�菴輔′螟｢縺ｮ荳也阜縺縲�菫ｺ縺後こ繝�ｒ蠑輔▲蜿ｩ縺�※縲∫樟螳溘↓蜿ｩ縺肴綾縺励※繧�ｋ縺懊ぉ縲ゅ構
+「けっ。@何が夢の世界だ。@俺がケツを引っ叩いて、現実に叩き戻してやるぜェ。」\
 
 mcl c,0
 bg black,23
@@ -4083,8 +4083,8 @@ bg koutei_04,0
 ld l,HOK_D1,23
 ld l,HOK_D3,80
 
-縲梧蕗鬆ｭ蜈育函�槭�陦ｨ蠖ｰ蠑上′蟋九∪繧翫∪縺吶ｈ縲�蜈育函譁ｹ縺悟他繧薙〒縺ｾ繝ｼ縺吶ゅ構
-;�應ｿ晏▼縺ｮ蜈育函
+「教頭先生～。@表彰式が始まりますよ。@先生方が呼んでまーす。」\
+;＜保健の先生
 
 bg black,24
 bg koutei_05,0
@@ -4093,21 +4093,21 @@ ld l,IZA_D2,24
 
 ld r,SIN_D2,80
 
-縲娯ｦ窶ｦ縺ｧ縺ｯ螟ｱ遉ｼ縲�縺ゅ↑縺溘→縺ｮ豎ｺ逹縺ｯ縺�★繧後ゅ構
+「……では失礼。@あなたとの決着はいずれ。」\
 
 cl r,23
 
 ld l,IZA_D5,80
 
-縲檎衍繧九°縲�邏�幻縺ｧ繧ょ復縺｣縺ｦ繧�′繧後ゅ構
+「知るか。@紅茶でも啜ってやがれ。」\
 
 bg black,22
 bg koutei_04,0
 ld l,SIN_D2,0
 ld r,AY2_D11,2
 
-縲荳贋ｽ搾ｼ托ｼ撰ｼ蝉ｺｺ縺ｫ縺ｯ縲∝�雉槭�繝｡繝繝ｫ縺御ｸ弱∴繧峨ｌ繧九�
-縲繝励Λ繧ｹ繝√ャ繧ｯ陬ｽ縺ｮ繝√�繝励↑縺昴ｌ繧ゅ　縺ゅｄ縺ｫ縺ｨ縺｣縺ｦ縺ｯ縲�ｼ費ｼ呎律髢薙ｒ逕溘″謚懊＞縺ｦ逕溘∪繧悟､峨ｏ縺｣縺溘％縺ｨ繧定ｮ�∴繧九∫ｫ区ｴｾ縺ｪ繝｡繝繝ｫ縺ｫ縺ｪ繧九□繧阪≧縲�
+　上位１００人には、入賞のメダルが与えられる。@
+　プラスチック製のチープなそれも、@あやにとっては、４９日間を生き抜いて生まれ変わったことを讃える、立派なメダルになるだろう。\
 
 cl l,0
 ld c,SIN_D3,23
@@ -4116,7 +4116,7 @@ ld r,AY2_D10,80
 
 se3v 54,50
 
-縲縺薙�繧医≧縺ｪ雉槭ｒ繧ゅｉ縺�％縺ｨ縺後∫函縺ｾ繧後※蛻昴ａ縺ｦ縺ｮ蠖ｼ螂ｳ縺ｯ縲　謨咎ｭ蜈育函縺九ｉ繝｡繝繝ｫ繧呈焔貂｡縺輔ｌ縲�｡斐ｒ邏�ｽｮ縺輔○縺ｦ蠕ｮ隨代ｓ縺ｧ縺�◆縲�
+　このような賞をもらうことが、生まれて初めての彼女は、@教頭先生からメダルを手渡され、顔を紅潮させて微笑んでいた。\
 
 bg black,22
 bg koutei_05,0
@@ -4130,28 +4130,28 @@ cl c,22
 bg white,29
 bg air_02,29
 
-縲後￠縺｣縲�縺吶▲縺九ｊ荳榊袖縺昴≧縺ｪ鬲ゅ↓縺ｪ縺｣縺｡縺ｾ縺�ｄ縺後▲縺溘ぃ縲�窶ｦ窶ｦ逕溘″繧阪ｈ縲√≠繧�ぃ��ｼ√構
+「けっ。@すっかり不味そうな魂になっちまいやがったァ。@……生きろよ、あやァ！！」\
 
 
 
 bg black,42
 
-;�懊♀縺励∪縺�ｼ
+;＜おしまい＞
 
 bg e022,42
 wait 1000
 bg black,42
-bgcopy ;閭梧勹繧偵Μ繧ｻ繝�ヨ
+bgcopy ;背景をリセット
 
 fede 0,2000
 E_A
 wait 2000
 
-if %UMINEKOEND < 2 mov %UMINEKOEND,2 : mov %END_FLG,2 ;繧ｯ繝ｪ繧｢繝輔Λ繧ｰ縺ｮ螟画峩
+if %UMINEKOEND < 2 mov %UMINEKOEND,2 : mov %END_FLG,2 ;クリアフラグの変更
 
-	saveoff            ;繧ｻ繝ｼ繝悶が繝輔〒縲∝�逅�ｒ鬮倬溷喧縺吶ｋ縲
-	erasetextwindow 0  ;繝�く繧ｹ繝医お繝輔ぉ繧ｯ繝医ｒ蛻�ｋ莠九〒蜃ｦ逅�ｒ鬮倬溷喧
-	rmode 0            ;蜿ｳ繧ｯ繝ｪ繝�け縺ｮ繝｡繝九Η繝ｼ陦ｨ遉ｺ縺ｮ辟｡蜉ｹ蛹
+	saveoff            ;セーブオフで、処理を高速化する。
+	erasetextwindow 0  ;テキストエフェクトを切る事で処理を高速化
+	rmode 0            ;右クリックのメニュー表示の無効化
 	textoff
 
 goto *b_title
@@ -4165,7 +4165,7 @@ texton
 csp -1
 
 bg black,2
-bgcopy ;閭梧勹繧偵Μ繧ｻ繝�ヨ
+bgcopy ;背景をリセット
 
 setwindow 31,16,22,16,26,26,0,2,20,1,1,#999999,0,0,639,479
 
