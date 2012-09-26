@@ -1984,52 +1984,59 @@ ld c,AYA_D7a,80
 br
 ;　いやいや、そんな焦って走って怪我でもしたらおしまいだ。@もっと冷静にゆっくりと走ればいいのではないか。\
 ` No, no. Surely I'd doom myself to injury with such a way.`@`Would running slowly and calmly be better?`\
-　それに加え、@どうしてこんな広大な学校の中で、自分だけが死神に狙われ、@こんな目に遭わなければならないのかという、@悔しさにも似た憤りも覚えた。\
-
+;　それに加え、@どうしてこんな広大な学校の中で、自分だけが死神に狙われ、@こんな目に遭わなければならないのかという、@悔しさにも似た憤りも覚えた。\
+` Additionally,`@`I could not think why even in this whole large school, the shinigami would only aim at me,`@`never meeting my eyes,`@`much to my regret.`\
 bg black,23
 bg rouka_02,23
 wait 500
 ld c,IZA_D5,22
 ld c,IZA_D6,80
 
-　様々な感情で頭がごっちゃになる。@少しでも休み過ぎると、あっという間にイザナミは近付いてくる。\
-
+;　様々な感情で頭がごっちゃになる。@少しでも休み過ぎると、あっという間にイザナミは近付いてくる。\
+` My head is confused with various emotions.`@`If I rest a just a little, quickly, Izanami will draw near.`\
 bg black,23
 bg rouka_04,23
 
-　途中、教室の時計をちらりと見た。@
+;　途中、教室の時計をちらりと見た。@
+` On the way I glanced at the clock in the classroom.`@
 br
-　あと１分。@大丈夫。@問題なく逃げ切れる。@
-　体力も充分。@混乱もしてない。@……生き延びた。\
-
+;　あと１分。@大丈夫。@問題なく逃げ切れる。@
+` Just one more minute.`@`I'd be fine.`@`I'd escape without any problems.`@
+;　体力も充分。@混乱もしてない。@……生き延びた。\
+` My strength was enough.`@`I didn't mess up.`@`I survived...`\
 ;se1 33
 
-　そう思った途端、……忘れていた、ある違和感と恐怖が蘇る。@
+;　そう思った途端、……忘れていた、ある違和感と恐怖が蘇る。@
+` As soon as I though so, I forgot. A sense of fear and discomfort was revived.`@
 br
-　それは、昨日は１１時５５分から始まったのに、今日は１１時５０分から始まったということ。\
-
+;　それは、昨日は１１時５５分から始まったのに、今日は１１時５０分から始まったということ。\
+` It began at 11:55 yesterday, so then today it began at 11:50.`\
 mbg black,22
 
-　……たかが５分。@されど５分。@
+;　……たかが５分。@されど５分。@
+` So then five minutes.`@`Five more minutes.`@
 br
-　まさか、………毎日、チャイムがなるまでの時間が延びていくのではないだろうか。\
-
-　ほんの１０分間、駆け回っただけで、これだけ疲れているのだ。@
+;　まさか、………毎日、チャイムがなるまでの時間が延びていくのではないだろうか。\
+` It couldn't be...everyday, didn't the time last until the chime rang?`\
+;　ほんの１０分間、駆け回っただけで、これだけ疲れているのだ。@
+` Only ten minutes. I'll just have to run around a bit...but I'm so tired.`@
 br
-　もしも、毎日時間が少しずつ延長していき、……やがては、１時間や２時間にも至ったら。@
-　………それは恐ろしい想像だった。\
-
+;　もしも、毎日時間が少しずつ延長していき、……やがては、１時間や２時間にも至ったら。@
+` If the time extends little by little each day....eventually it'll reach one or two hours longer.`@
+;　………それは恐ろしい想像だった。\
+` ...that was a terrible thought.`\
 mcbg 22
 
-　そして、時計は０時を指す。@
+;　そして、時計は０時を指す。@
+` Then, the clock strikes midnight.`@
 br
 se3v 66,100
 se1v 69,100
 wait 200
 se2v 69,85
 
-　校舎中に鳴り響くチャイムの音。\
-
+;　校舎中に鳴り響くチャイムの音。\
+` The sound of chimes ringing in the schoolhouse.`\
 bg black,24
 bg rouka_03,0
 ld c,IZA_D2,24
@@ -2039,10 +2046,11 @@ ld c,IZA_D3,80
 
 se3v 84,100
 
-　ひっひゃっひゃっひゃっひゃ！！！」@
+;　ひっひゃっひゃっひゃっひゃ！！！」@
+` "Hahahahahahahaha!!!"`@
 br
-　イザナミの笑い声と眩しい光で、全てが飲み込まれて消えていく……。\
-
+;　イザナミの笑い声と眩しい光で、全てが飲み込まれて消えていく……。\
+` Everything is swallowed into Izanami's glaring and laughter...`\
 se1 22
 
 bg white,48
@@ -2055,18 +2063,20 @@ me1v 16,50
 
 bg mansion_01,2
 
-　我に返った時。@そこは昨日と同じに、自宅のあるマンションの前だった……。\
-
+;　我に返った時。@そこは昨日と同じに、自宅のあるマンションの前だった……。\
+` Then I returned to myself.`@`The same as yesterday, in front my home...`\
 
 ;■あやの自室
 
 bg black,22
 
-　……これが夢であると。@信じることが出来たなら。@
+;　……これが夢であると。@信じることが出来たなら。@
+` ...if this is a dream`@`I'm able to believe it.`@
 br
-　しかし、イザナミが夢の中で言ったように。@……これは現実なのだ。@
-　恐らくは、明日も明後日も、帰りのホームルームが終わる度に、@あの異世界で死神と命懸けの鬼ごっこをすることになるのだ。\
-
+;　しかし、イザナミが夢の中で言ったように。@……これは現実なのだ。@
+` However this is reality.`@`As real as Izanami is in my dreams.`@
+;　恐らくは、明日も明後日も、帰りのホームルームが終わる度に、@あの異世界で死神と命懸けの鬼ごっこをすることになるのだ。\
+` But perhaps I'll be return tomorrow and the day after that, to this classroom`@`where my game of tag with the shinigami ends.`\
 fede 0,1000
 E_A
 
@@ -2074,51 +2084,63 @@ bg ie_04,22
 
 me1v 35,50
 
-　……横になって天井を見上げる。\
-
-　生きていることに意味を見出せず、死を願ったことが何度もあった。@
-　しかし、少なくともあの死神の与える死は、@私が望んでいたものとは余りに程遠い、恐ろしくおぞましいものだった。@
+;　……横になって天井を見上げる。\
+` I'm lying down, looking up at the ceiling.`\
+;　生きていることに意味を見出せず、死を願ったことが何度もあった。@
+` I had forgotten the meaning of existence and wanted to die many times.`@
+;　しかし、少なくともあの死神の与える死は、@私が望んでいたものとは余りに程遠い、恐ろしくおぞましいものだった。@
+` However, far from the gracious death I wanted from the shinigami,`@`I was given a horrible thing.`@
 br
-　それが嫌だから、私は逃げ延び、生き延びた。\
-
-　生き延びた…？@
-　生きることに、何の価値も見出せないのに…？@
+;　それが嫌だから、私は逃げ延び、生き延びた。\
+` Because it's horrible, I escape and continue to live.`\
+;　生き延びた…？@
+` I continue to live...?`@
+;　生きることに、何の価値も見出せないのに…？@
+` Living when I can't find any worth in doing so...?`@
 br
-　………………………。\
-
+;　………………………。\
+` ...........`\
 bg black,22
 mono 1
 bg rouka_03,0
 ld c,IZA_D6,22
 
-　ほんの数分間とはいえ、死神との死闘を生き延びて得た、……生の一瞬。@
+;　ほんの数分間とはいえ、死神との死闘を生き延びて得た、……生の一瞬。@
+` Although it took a few minutes, in a duel with the Shinigami...there was only a moment of life.`@ 
 br
-　しかし、その一瞬には、何の意味もない。\
-
-　私には、死神のゲームを勝ち抜いても、何の喜びもなければ、何も得るものなどない。@
+;　しかし、その一瞬には、何の意味もない。\
+` But that moment had no meaning.`\
+;　私には、死神のゲームを勝ち抜いても、何の喜びもなければ、何も得るものなどない。@
+` Even if I survive a game of death, if I receive no joy, I haven't gained anything.`@
 br
-　ただ、あの地獄だけは嫌で、逃げ延びただけ。@
-　……罰ゲームだけあって、何のご褒美もないゲームというわけだ。\
-
+;　ただ、あの地獄だけは嫌で、逃げ延びただけ。@
+` But that hell was disgusting and I just had to escape.`@
+;　……罰ゲームだけあって、何のご褒美もないゲームというわけだ。\
+` ...It was a punishment game, without any reward.`\
 bg black,22
 mono 0
 
-　つまり、……何の意味もないゲーム。@
-　もし、あの地獄を予め見せられていなかったなら、@私はきっと初日に、自ら進んで命を投げ出しただろう。@
+;　つまり、……何の意味もないゲーム。@
+` In other words...a game without meaning.`@
+;　もし、あの地獄を予め見せられていなかったなら、@私はきっと初日に、自ら進んで命を投げ出しただろう。@
+` If I hadn't been shown this hell previously,`@`I'd have thrown away my life of my own volition on the first day.`@
 br
-　………………………。\
-
+;　………………………。\
+` ...........`\
 bg Different_spiral_1a,22
 
-　生きることにも価値がなく。@
+;　生きることにも価値がなく。@
+` Life has no worth`@
 br
-　死ぬことにも価値がない。\
-
-　結局。@……死神との放課後のゲームも、無意味、……無価値。@
+;　死ぬことにも価値がない。\
+` As does death.`\
+;　結局。@……死神との放課後のゲームも、無意味、……無価値。@
+` Eventually`@`...this game of death would be meaningless...worthless.`@
 br
-　ただ、あの地獄を拒否するためだけに、……校内を延々と走り回らせられる、苦行。@
-　それを、いつまでもいつまでも永遠に。\
-
+;　ただ、あの地獄を拒否するためだけに、……校内を延々と走り回らせられる、苦行。@
+` However, just to deny that hell of me, I forced myself to run around the school.`@
+;　それを、いつまでもいつまでも永遠に。\
+` Forever and ever.`\
 bg black,22
 
 ;bg aka1,0
