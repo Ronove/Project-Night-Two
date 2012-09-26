@@ -2568,38 +2568,40 @@ br
 bg black,22
 mono 0
 
-　………なら。@数時間にもわたって、走り続ける体力があったとは、到底思えない。@
-
-　何か、生き残るための秘密、秘訣、@……もしくは裏技のようなものがあるのではないだろうか。@
+;　………なら。@数時間にもわたって、走り続ける体力があったとは、到底思えない。@
+` However,`@`I hardly think I have the energy to run over a few hours.`@
+;　何か、生き残るための秘密、秘訣、@……もしくは裏技のようなものがあるのではないだろうか。@
+` Were there any secrets or tricks for survival?`@
 br
-　それを聞きたい。\
-
-　しかし、その人物はすでに卒業し、名前も住所もわからないという。@それを聞くことは叶わない………。@
+;　それを聞きたい。\
+` I wanted to hear them.`\
+;　しかし、その人物はすでに卒業し、名前も住所もわからないという。@それを聞くことは叶わない………。@
+` But that person had already graduated, and I knew not the name nor address.`@`I'd never hear such tips...`@
 br
-　絶望する私に、桜田みちるはぽつりと言った。\
-
+;　絶望する私に、桜田みちるはぽつりと言った。\
+` Sakurada Michiru whispered to me as I despaired.`\
 bg hokora_02,0
 ld c,MIC_D2,22
 
-「……あなただけじゃないよ。@……男の子が１人、……今、イザナミの呪いに遭ってる。」\
-
+;「……あなただけじゃないよ。@……男の子が１人、……今、イザナミの呪いに遭ってる。」\
+`"It's not just you...`@`...a boy is also now caught in Izanami's curse."`\
 ld l,AYA_D4a,23
 
-「男の子………？」@
-
+;「男の子………？」@
+`"A boy?"`@
 cl c,0
 ld r,MIC_D1,23
 
-「うん。@さくのしんさまが言うには、つい最近、イザナミの呪いに遭って苦しんでる男の子がいるって。」\
-
+;「うん。@さくのしんさまが言うには、つい最近、イザナミの呪いに遭って苦しんでる男の子がいるって。」\
+`"Yeah.`@`Sakunoshin was talking about it recently. He said there's a boy who's suffering Izanami's curse."`\
 ld l,AYA_D7a,80
 
-「それは……、どこの子？@　今もいるの？」@
-
+;「それは……、どこの子？@　今もいるの？」@
+`"Who is he?`@`...is he still around?"`@
 ld r,MIC_D2,80
 
-「うん。@クラスと名前もわかるよ。」\
-
+;「うん。@クラスと名前もわかるよ。」\
+`"Yep.`@`I know his name and class"`\
 bg white,2
 
 bg black,24
@@ -2610,22 +2612,28 @@ E_A
 
 me1v 24,50
 
-　私は、教えてもらったクラスに飛んで行った。@
+;　私は、教えてもらったクラスに飛んで行った。@
+` I flew to the class where he was taught.`@
 br
-　……そこは、上級生のクラスだった。@
-　もう一人の犠牲者、大里先輩は、そのクラスにいた。@
+;　……そこは、上級生のクラスだった。@
+` ....this was for upperclassmen.`@
+;　もう一人の犠牲者、大里先輩は、そのクラスにいた。@
+` The other victim, Osato-san was in there.`@
 br
-　クラスメートが指差す先には、机に突っ伏して昼寝する、小太りの男子の姿があった……。\
-
+;　クラスメートが指差す先には、机に突っ伏して昼寝する、小太りの男子の姿があった……。\
+` The classmates were pointing at his plump figure, asleep with his head on the desk...`\
 bg black,24
 bg kyou_02,24
 
-　彼は居眠りではなく、本気で眠っているようだった。@
+;　彼は居眠りではなく、本気で眠っているようだった。@
+` Not just dozing, but sleeping in earnest.`@
 br
 　……彼がいつからイザナミの呪いに取り込まれているかはわからないが、@私より長いなら、毎日、相当の時間を走り回らされているはずだ。@
-　疲労困憊で眠っているとしても、納得できた。\
+;　疲労困憊で眠っているとしても、納得できた。\
+` I was convinced he was asleep from exhaustion.`\
 
-　彼は酷く不機嫌に目を覚ましたが、私がイザナミの名を出すと、身を乗り出して立ち上がった。\
+;　彼は酷く不機嫌に目を覚ましたが、私がイザナミの名を出すと、身を乗り出して立ち上がった。\
+` He woke up crossly, but leaned forward when I said Izanami's name.`\
 
 bg black,2
 
@@ -2636,15 +2644,18 @@ bg kaidan_03,22
 
 bgm1 6
 
-「……昨日は、１０時半から始まった……。@もう……、限界だ………。」@
+;「……昨日は、１０時半から始まった……。@もう……、限界だ………。」@
+`"Tomorrow I start from 10:30...`@`I can't do this anymore..."`@
 br
-　彼は私より早くから呪われているらしい。@イザナミから逃げる時間は、すでに１時間を超えていた。\
-
-「……もう、……限界だ……。@来る日も来る日も……、ずっとずっと廊下を……。@昨日は、あと少しで追い付かれるところでチャイムだった。@……もう、……次は無理だ……。」@
+;　彼は私より早くから呪われているらしい。@イザナミから逃げる時間は、すでに１時間を超えていた。\
+` Is seemed he had been cursed earlier that I had.`@`He already had an extra hour to escape from Izanami.`\
+;「……もう、……限界だ……。@来る日も来る日も……、ずっとずっと廊下を……。@昨日は、あと少しで追い付かれるところでチャイムだった。@……もう、……次は無理だ……。」@
+`"...it's the limit...`@`Day after day...always running in the corridors.`@`...tomorrow, after a short while I'll be caught before the chime.`@`...it's the limit...."`@
 br
-　彼は頭をばりばりと掻き毟って俯いた。@
-　そんな彼に、４９日間、逃げ切れば助かると教えたところで、@さらなる絶望を重ねることにしかならなかった……。\
-
+;　彼は頭をばりばりと掻き毟って俯いた。@
+` He looked down and scratched his head roughly.`@
+;　そんな彼に、４９日間、逃げ切れば助かると教えたところで、@さらなる絶望を重ねることにしかならなかった……。\
+` For him, he was taught that if he escaped for 49 days, he'd be saved,`@`but despaired after is just continued....`\
 se1 12
 quakey 1,100
 
@@ -2652,66 +2663,76 @@ quakey 1,100
 
 ld r,AYA_D4a,24
 
-「……あ、あと何日を残してるか知らないけれど…。@一緒に頑張ろうよ……。」\
-
+;「……あ、あと何日を残してるか知らないけれど…。@一緒に頑張ろうよ……。」\
+`"...I...I don't know how many days are left,`@`but let's do our best..."`\
 「マジで言ってんのか？@　お前マジで言ってんのか？！@　来る日も来る日も！！@　しかもどんどん時間が延びていって！！@　もう嫌だ、限界だッ！！@　こんなの……、耐えられねぇ…！！！」\
 
 ld r,AYA_D2,80
 
-「………………………。」\
-
+;「………………………。」\
+`"..........."`\
 「……どーせ、……俺なんて、勉強も出来ねぇし、取り得なんか何もねぇ。@……生きてたって何の意味もないクズなんだ……。@クズはクズらしく淘汰されろっていう、神様の思し召しなんだ。@……俺みたいなクズは、生まれてきた時点でもう、何かの間違いなんだ…。@……でもよぉ、そんなのあんまりだろぉよぉ……。@ぅおぉおおおぉおぉ……、ひっく、えっぐ……！！」\
 
-　とうとう、人目もはばからず泣き出してしまう。@
+;　とうとう、人目もはばからず泣き出してしまう。@
+` Finally, I'd be cry unrelentingly.`@ 
 br
-　私にとって、……彼は、本当に儚くて小さいけれど、………希望なのだ。@
-　彼が４９日間を生き延びてくれれば、……私にだってきっと出来るという希望になる。\
-
+;　私にとって、……彼は、本当に儚くて小さいけれど、………希望なのだ。@
+` For me, ...he was a small, ephemeral hope.`@
+;　彼が４９日間を生き延びてくれれば、……私にだってきっと出来るという希望になる。\
+` If he survived for 49 days, I'm sure I could.`\
 cl r,0
 ld c,AYA_D8a,24
 
 「が、……頑張ろうよ。@……あいつは決して走らない。@確かに速いけれど、絶対に走らない…。@……確かに、１時間も２時間もずっと走っているのはものすごく大変だと思う。@……でも、それで自分の命が救えるなら、走るくらい何でもない……。」\
 
-　世の中には、不治の病で自分に出来る努力は何もなく、@ただ天命に任せる他ない人だって大勢いる。@
+;　世の中には、不治の病で自分に出来る努力は何もなく、@ただ天命に任せる他ない人だって大勢いる。@
+` This shadow of death does nothing to my effort.`@`In the world there are many other people who leave not such things to fate.`@
 br
-　それに比べたら、どんなに苦しくとも、自分の努力で何とか出来る試練など、@まだ恵まれているはず……。\
-
+;　それに比べたら、どんなに苦しくとも、自分の努力で何とか出来る試練など、@まだ恵まれているはず……。\
+` Compared to that,`@`I should be able to conquer anything with my effort that I've been blessed with...`\
 quakey 1,100
 
 「毎日、毎日、何時間も走り続けるなんて、不可能だよ…！！@　そんなの出来るわけねぇ…！！@　第一、そこまで必死に走って走って生き延びて！@　その先に何が待ってるってんだよぉ？！」\
 
 ld c,AYA_D7a,80
 
-「い、……生き延びることが出来るよ。」\
-
-「だから！@　生き延びて、俺の人生に何の意味があるって言うんだよぉ？！@　勉強も出来ない、運動も出来ない！@　友達もいない、趣味なんか何もない！！@　毎日毎日、退屈で死にそうだった。@いやむしろ、死にたいとさえ思ってたさ…！！」\
-
+;「い、……生き延びることが出来るよ。」\
+`"I...I can survive."`\
+;「だから！@　生き延びて、俺の人生に何の意味があるって言うんだよぉ？！@　勉強も出来ない、運動も出来ない！@　友達もいない、趣味なんか何もない！！@　毎日毎日、退屈で死にそうだった。@いやむしろ、死にたいとさえ思ってたさ…！！」\
+`"So live!`@`Is there not meaning in my life?`@`I can't study, I can't exercise!`@`I have no friends, I have no hobbies!`@`Every day I felt I'd die from boredom.`@`No, I wanted to die..!!"`\
 bg black,22
 
-　雪が解けるように、眠るように死にたい。@
-　……彼の願望も、私と同じだった。@
+;　雪が解けるように、眠るように死にたい。@
+` Like the rain falls, and the snow melts, I want to die.`@
+;　……彼の願望も、私と同じだった。@
+` My desire was the same as his.`@
 br
-　いや、彼は私とまったく同じだったのだ。\
-
-　彼にとっても、人生は無意味であり、無価値だった。@
+;　いや、彼は私とまったく同じだったのだ。\
+` No, his was the same as mine.`\
+;　彼にとっても、人生は無意味であり、無価値だった。@
+` For him, life was meaningless, worthless.`@
 br
-　そんな彼にとって、４９日間もの試練を生き延びる価値など、何もない……。\
-
+;　そんな彼にとって、４９日間もの試練を生き延びる価値など、何もない……。\
+` And there was no worth in him being able to survive this ordeal for 49 days...`\
 bg kaidan_04,22
 
 me1v 5,70
 
 「生き延びたら、何かもらえるのかよ？！@　１００万円くれるのか？！@　願いでも叶えてくれるのか？！@　じゃあ、ドッジボールで強くなれるようにしてくれよ！@　漫画１００冊買ってくれよ！！@　……何もねぇ！！！@　仮に生き延びたって、また何もねぇ、退屈で死にそうな灰色の日々じゃねぇかよ…！！@　……終わってたんだよッ、最初っから俺の人生は…！！@　生まれてくるんじゃなかった……。@生まれてくるんじゃ……、なかっ……、ひっく、ぅぐぐぐ………。」\
 
-　もう最後は嗚咽しか聞こえなかった。@
-　彼はもう、自暴自棄になっていた。@体力以上に、気力がもう限界なのだ。@
-　そして、彼の気持ちはそのまま、私の気持ちを代弁していた。@
+;　もう最後は嗚咽しか聞こえなかった。@
+` I could only hear sobbing in the end.`@
+;　彼はもう、自暴自棄になっていた。@体力以上に、気力がもう限界なのだ。@
+` He had become desperate.`@`More than strength, the limit was willpower.`@
+;　そして、彼の気持ちはそのまま、私の気持ちを代弁していた。@
+` And his feelings resonated with mine.`@
 br
-　……生き延びて、取り戻す日常に何の価値があるのか。\
-
+;　……生き延びて、取り戻す日常に何の価値があるのか。\
+` ...was there any worth in surviving and going back to normal life?`\
 bg black,22
 
-　ない。@……無意味で無価値な、灰色の世界。@
+;　ない。@……無意味で無価値な、灰色の世界。@
+` No.`@`...it was a meaningless worthless world.`@`A gray world.`@
 br
 　あの、おぞましい地獄に落ちることだけは嫌だから、逃げ回ってはいるけれど。@その先に待つかつての日常には、彩りも輝きもない……。\
 
