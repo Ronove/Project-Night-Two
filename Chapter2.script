@@ -2075,8 +2075,8 @@ bg black,22
 br
 ;　しかし、イザナミが夢の中で言ったように。@……これは現実なのだ。@
 ` However this is reality.`@`As real as Izanami is in my dreams.`@
-　恐らくは、明日も明後日も、帰りのホームルームが終わる度に、@あの異世界で死神と命懸けの鬼ごっこをすることになるのだ。\
-
+;　恐らくは、明日も明後日も、帰りのホームルームが終わる度に、@あの異世界で死神と命懸けの鬼ごっこをすることになるのだ。\
+` But perhaps I'll be return tomorrow and the day after that, to this classroom`@`where my game of tag with the shinigami ends.`\
 fede 0,1000
 E_A
 
@@ -2084,51 +2084,63 @@ bg ie_04,22
 
 me1v 35,50
 
-　……横になって天井を見上げる。\
-
-　生きていることに意味を見出せず、死を願ったことが何度もあった。@
-　しかし、少なくともあの死神の与える死は、@私が望んでいたものとは余りに程遠い、恐ろしくおぞましいものだった。@
+;　……横になって天井を見上げる。\
+` I'm lying down, looking up at the ceiling.`\
+;　生きていることに意味を見出せず、死を願ったことが何度もあった。@
+` I had forgotten the meaning of existence and wanted to die many times.`@
+;　しかし、少なくともあの死神の与える死は、@私が望んでいたものとは余りに程遠い、恐ろしくおぞましいものだった。@
+` However, far from the gracious death I wanted from the shinigami,`@`I was given a horrible thing.`@
 br
-　それが嫌だから、私は逃げ延び、生き延びた。\
-
-　生き延びた…？@
-　生きることに、何の価値も見出せないのに…？@
+;　それが嫌だから、私は逃げ延び、生き延びた。\
+` Because it's horrible, I escape and continue to live.`\
+;　生き延びた…？@
+` I continue to live...?`@
+;　生きることに、何の価値も見出せないのに…？@
+` Living when I can't find any worth in doing so...?`@
 br
-　………………………。\
-
+;　………………………。\
+` ...........`\
 bg black,22
 mono 1
 bg rouka_03,0
 ld c,IZA_D6,22
 
-　ほんの数分間とはいえ、死神との死闘を生き延びて得た、……生の一瞬。@
+;　ほんの数分間とはいえ、死神との死闘を生き延びて得た、……生の一瞬。@
+` Although it took a few minutes, in a duel with the Shinigami...there was only a moment of life.`@ 
 br
-　しかし、その一瞬には、何の意味もない。\
-
-　私には、死神のゲームを勝ち抜いても、何の喜びもなければ、何も得るものなどない。@
+;　しかし、その一瞬には、何の意味もない。\
+` But that moment had no meaning.`\
+;　私には、死神のゲームを勝ち抜いても、何の喜びもなければ、何も得るものなどない。@
+` Even if I survive a game of death, if I receive no joy, I haven't gained anything.`@
 br
-　ただ、あの地獄だけは嫌で、逃げ延びただけ。@
-　……罰ゲームだけあって、何のご褒美もないゲームというわけだ。\
-
+;　ただ、あの地獄だけは嫌で、逃げ延びただけ。@
+` But that hell was disgusting and I just had to escape.`@
+;　……罰ゲームだけあって、何のご褒美もないゲームというわけだ。\
+` ...It was a punishment game, without any reward.`\
 bg black,22
 mono 0
 
-　つまり、……何の意味もないゲーム。@
-　もし、あの地獄を予め見せられていなかったなら、@私はきっと初日に、自ら進んで命を投げ出しただろう。@
+;　つまり、……何の意味もないゲーム。@
+` In other words...a game without meaning.`@
+;　もし、あの地獄を予め見せられていなかったなら、@私はきっと初日に、自ら進んで命を投げ出しただろう。@
+` If I hadn't been shown this hell previously,`@`I'd have thrown away my life of my own volition on the first day.`@
 br
-　………………………。\
-
+;　………………………。\
+` ...........`\
 bg Different_spiral_1a,22
 
-　生きることにも価値がなく。@
+;　生きることにも価値がなく。@
+` Life has no worth`@
 br
-　死ぬことにも価値がない。\
-
-　結局。@……死神との放課後のゲームも、無意味、……無価値。@
+;　死ぬことにも価値がない。\
+` As does death.`\
+;　結局。@……死神との放課後のゲームも、無意味、……無価値。@
+` Eventually`@`...this game of death would be meaningless...worthless.`@
 br
-　ただ、あの地獄を拒否するためだけに、……校内を延々と走り回らせられる、苦行。@
-　それを、いつまでもいつまでも永遠に。\
-
+;　ただ、あの地獄を拒否するためだけに、……校内を延々と走り回らせられる、苦行。@
+` However, just to deny that hell of me, I forced myself to run around the school.`@
+;　それを、いつまでもいつまでも永遠に。\
+` Forever and ever.`\
 bg black,22
 
 ;bg aka1,0
