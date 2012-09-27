@@ -2738,7 +2738,8 @@ br
 
 ld r,AYA_D2,22
 
-　何か得るもののために戦うなら、意味は見出せる。@
+;　何か得るもののために戦うなら、意味は見出せる。@
+` If I fight for something I'll obtain, I'll find meaning.`@
 br
 　しかし、何も得るものがなく、@……どうせいつか迎える破綻を、わずかに先延ばしするだけの苦行に、@私たちは一体、何の意味を見出せるというのだろう…？\
 
@@ -2746,37 +2747,41 @@ bg kaidan_04,0
 ;ld r,AYA_D4a,22
 ld r,AYA_D2,22
 
-　彼の言葉は、私の胸に抉るように突き刺さるのだ……。\
-
+;　彼の言葉は、私の胸に抉るように突き刺さるのだ……。\
+` His words pierced my chest as if gouging it...`\
 ;bg black,22
 
-「……俺もお前も、@……１３階段を踏んじまった時点で、……あいつの地獄に引き摺り込まれちまったんだ……。@あいつ、言ってるだろ？@　俺たちクズが必死な形相で逃げ回ってるのを見るのが楽しいって。@……あいつは俺たちを追い回して追い回して……。@さんざん楽しんだ後、結局は地獄に突き落とす、最悪の死神なんだ……。」\
-
+;「……俺もお前も、@……１３階段を踏んじまった時点で、……あいつの地獄に引き摺り込まれちまったんだ……。@あいつ、言ってるだろ？@　俺たちクズが必死な形相で逃げ回ってるのを見るのが楽しいって。@……あいつは俺たちを追い回して追い回して……。@さんざん楽しんだ後、結局は地獄に突き落とす、最悪の死神なんだ……。」\
+`"You and I..`@`..when we step on the 13th staircase, we approach his hell...`@`He said so right?`@`He'd chase after us desperately.`@`And after he's chased us around and around,`@`and enjoyed himself, hell push us down into his hell. He's the worst kind of shinigami..."`\
 cl r,0
 mld r,AYA_D4a,22
 
-「………………………………。」\
-
+;「………………………………。」\
+`"............."`\
 「そりゃあよ、……あんな恐ろしい地獄、落ちたくはねぇよ。@……幸い、今日は水曜日だしな…。@今日は何とかなるだろうが、……もう次は無理だ。@……へへ、……へへへ……。@まぁ、……まぁ、今日まで生き延びた価値は、ちっとはあったかな……。@……お仲間に出会えて、愚痴を吐き出せて……、少しだけすっきりしたぜ……。@へへ、……へへへへへ………。@あんたも、……せいぜい足掻きな。@……自分が納得するまで。@………同じ地獄でも、納得するまで足掻いてからなら、……まだ、……マシかもしれねぇさ……。@……へへへへ………へへ………。」\
 
 ;mld r,AYA_D2,80
 
-　彼は達観したような、あるいは自嘲的な薄笑いを浮かべ、無理に笑っていた。@
+;　彼は達観したような、あるいは自嘲的な薄笑いを浮かべ、無理に笑っていた。@
+` He was laughing forcibly, with a philosophical, almost self-mocking smile.`@
 br
-　………彼に対し、掛ける言葉が、何も思い付かない。\
-
+;　………彼に対し、掛ける言葉が、何も思い付かない。\
+` ...Words to describe it didn't come to mind.`\
 mcl r,0
 bg black,22
 
-　これが、イザナミがそうであると称するように、本当にゲームなら。@
-　ペナルティに対し、それに見合う褒美があってもいいはずだ。\
-
-　しかし、おぞましいペナルティがあるだけで、……生き延びることに、何の価値もない。@
+;　これが、イザナミがそうであると称するように、本当にゲームなら。@
+` This is the real game Izanami referred to.`@
+;　ペナルティに対し、それに見合う褒美があってもいいはずだ。\
+` For the penalty, there should be a corresponding reward.`\
+;　しかし、おぞましいペナルティがあるだけで、……生き延びることに、何の価値もない。@
+` But there was just a very harsh punishment...there was no meaning in survival.`@
 br
-　……そしてあいつは、そんな何の価値もない、クソ落ち目な人間が大好物で……。@
+;　……そしてあいつは、そんな何の価値もない、クソ落ち目な人間が大好物で……。@
+` And he liked humans with such adversity and lack of worth. They were his favorite food...`@
 br
-　………………………………。\
-
+;　………………………………。\
+` ...........`\
 fedexx 0,50,0,0,0,0,2000
 E_B
 
@@ -2786,44 +2791,50 @@ bg kaidan_02,22
 
 ;mld r,AYA_D4a,80
 
-　昼休みが終わるチャイムが鳴り響く。\
-
-　……私は彼に、明日か明後日にはもう会えないかもしれない。@
+;　昼休みが終わるチャイムが鳴り響く。\
+` The chimes signaling the end of lunch ring.`\
+;　……私は彼に、明日か明後日にはもう会えないかもしれない。@
+` ...I might not meet him again tomorrow or the day after,`@
 br
-　彼の顔には、……多分、死相と呼ぶべきに違いないものが、浮かんでいたから。\
-
+;　彼の顔には、……多分、死相と呼ぶべきに違いないものが、浮かんでいたから。\
+` since his face was floating in the shadow of death.`\
 ;bg black,22
 ld r,AYA_D7a,22
 
-　…………私もやがては、彼のように疲れきり、あの地獄を受け容れるようになるのだろうか。@
+;　…………私もやがては、彼のように疲れきり、あの地獄を受け容れるようになるのだろうか。@
+` ...I, now as tired as he was, started to embrace that hell.`@
 br
-　………………………。\
-
+;　………………………。\
+` ............`\
 ;mld r,AYA_D7a,80
 
 bg black,22
 
-　嫌だ……。@あんな恐ろしい地獄に、……絶対に落ちたくなんかない。@
+;　嫌だ……。@あんな恐ろしい地獄に、……絶対に落ちたくなんかない。@
+` No.`@`I'd never fall into that hell.`@
 br
-　そう思うのは、私にまだ体力と気力があるからだろう。@
+;　そう思うのは、私にまだ体力と気力があるからだろう。@
+` I think I still have the strength and willpower.`@
 br
-　これから１週間後、２週間後に、彼の境地に至らないという保証は、どこにもなかった。\
-
+;　これから１週間後、２週間後に、彼の境地に至らないという保証は、どこにもなかった。\
+` His assurance didn't extend one or two weeks into the future.`\
 bg kaidan_04,22
 
-　別れ際に、……ふと気になることを思い出し、それを彼への最後の質問とした。\
-
+;　別れ際に、……ふと気になることを思い出し、それを彼への最後の質問とした。\
+` In parting...I remembered what had been worrying me, and asked him.`\
 fede 0,1000
 E_A
 
 ld r,AYA_D8a,24
 
-「……さっき、@/
+;「……さっき、@/
+`"You just...`@/
 bgm1 14
-……今日は水曜日だから何とかなるかも、って言いましたよね……？」@
+;……今日は水曜日だから何とかなるかも、って言いましたよね……？」@
+`...said that since it's Wednesday, somehow we'll manage, right...?"`\
 br
-　確かに言った。@今日は水曜日だしな、今日は何とかなるだろうがと、確かに言った。\
-
+;　確かに言った。@今日は水曜日だしな、今日は何とかなるだろうがと、確かに言った。\
+` I certainly said it.`@`Today's Wednesday, and I'd maybe somehow survive. I surely said that.`\
 「あ、……あぁ。@……理由はわからねぇが。@……どういうわけか、月曜と水曜と土曜は、少しだけ時間が短いんだ。@……逆に、火曜と木曜と金曜は長い。@昨日は火曜だから最悪だった。@……今日は水曜だから多少マシだが、……その次は木曜だ。@……もう、俺は助からねぇ……。」\
 
 ;cl r,0
@@ -2834,14 +2845,19 @@ bg black,22
 mono 1
 bg rouka_04,22
 
-　確かに、私の１週間も、少しその感じはしていた。@
+;　確かに、私の１週間も、少しその感じはしていた。@
+` Surely, that had been my feeling for this week.`@
 br
-　全体的に見れば、少しずつ日々のノルマは伸びている。@
-　しかし、確かに前日より時間が短い日はあった。\
+;　全体的に見れば、少しずつ日々のノルマは伸びている。@
+` All in all, the daily quota is growing little by little.`@
+;　しかし、確かに前日より時間が短い日はあった。\
+` But the days were surely shorter than the ones before.`\
 
-　……しかし、彼の言う曜日とは合わない気がする。@
+;　……しかし、彼の言う曜日とは合わない気がする。@
+` But that feeling didn't fit with what he said.`@
 br
-　彼が言うには、昨日の火曜は、長いらしい。@
+;　彼が言うには、昨日の火曜は、長いらしい。@
+` He said that yesterday, Tuesday, felt long.`@
 　しかし、私にとっての昨日は、前日より短かった。\
 
 ;ld r,AYA_D7a,80
