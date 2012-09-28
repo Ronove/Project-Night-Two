@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Yirba's progress calculator</title>
+		<script type="text/javascript">
+			function update() {
+				document.getElementById("pch1").innerHTML = Math.round(document.getElementById("ich1").value/327*100);
+				document.getElementById("pch2").innerHTML = Math.round(document.getElementById("ich2").value/1110*100);
+				document.getElementById("pch3").innerHTML = Math.round(document.getElementById("ich3").value/381*100);
+				document.getElementById("pch4").innerHTML = Math.round(document.getElementById("ich4").value/1120*100);
+				document.getElementById("pch5").innerHTML = Math.round(document.getElementById("ich5").value/569*100);
+				document.getElementById("pch6").innerHTML = Math.round(document.getElementById("ich6").value/1268*100);
+				document.getElementById("pch7").innerHTML = Math.round(document.getElementById("ich7").value/960*100);
+				document.getElementById("pch8").innerHTML = Math.round(document.getElementById("ich8").value/179*100);
+				document.getElementById("totallines").innerHTML = parseInt(document.getElementById("ich1").value)+parseInt(document.getElementById("ich2").value)+parseInt(document.getElementById("ich3").value)+parseInt(document.getElementById("ich4").value)+parseInt(document.getElementById("ich5").value)+parseInt(document.getElementById("ich6").value)+parseInt(document.getElementById("ich7").value)+parseInt(document.getElementById("ich8").value);
+				document.getElementById("total").innerHTML = Math.round((parseInt(document.getElementById("ich1").value)+parseInt(document.getElementById("ich2").value)+parseInt(document.getElementById("ich3").value)+parseInt(document.getElementById("ich4").value)+parseInt(document.getElementById("ich5").value)+parseInt(document.getElementById("ich6").value)+parseInt(document.getElementById("ich7").value)+parseInt(document.getElementById("ich8").value))/5914*100);
+			}
+		</script>
+	</head>
+	<body onload="update();">
+
+<h1>Yirba's progress calculator</h1>
+
+<h2>Lines</h2>
+
+Chapter 1: <input id="ich1" onchange="update();" onkeyup="update();" value="327">/327<br>
+Chapter 2: <input id="ich2" onchange="update();" onkeyup="update();" value="0">/1110<br>
+Chapter 3: <input id="ich3" onchange="update();" onkeyup="update();" value="0">/381<br>
+Chapter 4: <input id="ich4" onchange="update();" onkeyup="update();" value="0">/1120<br>
+Chapter 5: <input id="ich5" onchange="update();" onkeyup="update();" value="0">/569<br>
+Chapter 6: <input id="ich6" onchange="update();" onkeyup="update();" value="0">/1268<br>
+Chapter 7: <input id="ich7" onchange="update();" onkeyup="update();" value="0">/960<br>
+Chapter ?: <input id="ich8" onchange="update();" onkeyup="update();" value="0">/179<br>
+Total: <span id="totallines"></span>/5914
+
+<h2>Percentage</h2>
+
+Chapter 1: <span id="pch1"></span>%<br>
+Chapter 2: <span id="pch2"></span>%<br>
+Chapter 3: <span id="pch3"></span>%<br>
+Chapter 4: <span id="pch4"></span>%<br>
+Chapter 5: <span id="pch5"></span>%<br>
+Chapter 6: <span id="pch6"></span>%<br>
+Chapter 7: <span id="pch7"></span>%<br>
+Chapter ?: <span id="pch8"></span>%<br>
+Total: <span id="total"></span>%
+
+	</body>
+</html>
