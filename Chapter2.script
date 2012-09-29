@@ -2858,39 +2858,47 @@ br
 br
 ;　彼が言うには、昨日の火曜は、長いらしい。@
 ` He said that yesterday, Tuesday, felt long.`@
-　しかし、私にとっての昨日は、前日より短かった。\
-
+;　しかし、私にとっての昨日は、前日より短かった。\
+` But for me, yesterday felt shorter than the previous day.`\
 ;ld r,AYA_D7a,80
 
 bg black,22
 mono 0
 
-　……私は、たまに短くなる日は、イザナミの気紛れか何かだと思っていた。@
-　しかし、彼が言うには、その短くなる日は曜日で決まっているという。@
+;　……私は、たまに短くなる日は、イザナミの気紛れか何かだと思っていた。@
+` ....I thought maybe the days were sometimes shorter on Izanami's whims.`@
+;　しかし、彼が言うには、その短くなる日は曜日で決まっているという。@
+` But he said that the short days were already determined.`@
 br
-　その曜日が、なぜか彼と食い違う。\
-
+;　その曜日が、なぜか彼と食い違う。\
+` Why did our feelings with respect to that day differ?`\
 ;cl r,0
 ;bg black,22
 bg Different_spiral_1b,22
 
 me1v 19,70
 
-　必ず決まった曜日に短くなるという法則性がありながら、@……なぜか私と彼で、その曜日が異なるという不思議。@
+;　必ず決まった曜日に短くなるという法則性がありながら、@……なぜか私と彼で、その曜日が異なるという不思議。@
+` While there's a rule that determines how short the day is,`@`...why are we different on our perceptions of it?`@
 br
-　………どうせ死神の気紛れ。@考えるだけ時間の無駄だろうか。\
-
-　私は彼と違い、……まだまだ気力がある。@
-　あの地獄にだけは絶対に落ちたくないという、心の強さがある。@
+;　………どうせ死神の気紛れ。@考えるだけ時間の無駄だろうか。\
+` ....At any rate, it's on the whims of the shinigami.`@`It's no use thinking about it.`\
+;　私は彼と違い、……まだまだ気力がある。@
+` He and I disagree...but there's still vigor.`@
+;　あの地獄にだけは絶対に落ちたくないという、心の強さがある。@
+` The strength of our hearts said that we'd never fall into hell.`@
 br
-　……その強さがある内に、……何かの、必勝法のようなものを見つけ出す必要がある。\
-
-　イザナミは、クソ落ち目なガキが大好物。@
-　かつての生還者だって、私と大差ない子だったに違いないのだ。@
+;　……その強さがある内に、……何かの、必勝法のようなものを見つけ出す必要がある。\
+` ...While having that strength, we still need to find a winning strategy.`\
+;　イザナミは、クソ落ち目なガキが大好物。@
+` Izanami's favorite prey are despairing people.`@
+;　かつての生還者だって、私と大差ない子だったに違いないのだ。@
+` Even as a former survivor, he must have been little more than a child with me.`@
 br
-　その子は生還した。@……数時間を毎日、走り回ったとは到底思えない。@
-　うまくやり過ごしたりする、何らかの裏技がきっとあったのだ。\
-
+;　その子は生還した。@……数時間を毎日、走り回ったとは到底思えない。@
+` He was still alive,`@`and I hardly think he ran around for more than a few hours a day.`@
+;　うまくやり過ごしたりする、何らかの裏技がきっとあったのだ。\
+` To get by, he surely had some tricks.`\
 bg black,22
 
 fede 10,1000
@@ -2899,10 +2907,11 @@ E_MA
 bg kaidan_03,0
 ld c,AYA_D7a,22
 
-　彼と私の、曜日の違い。@
+;　彼と私の、曜日の違い。@
+` He and I disagreed on the day of the week.`@
 br
-　ここに、何かの秘密が隠されているに違いないと、@……私の中の、まだ死にたくないという気力が囁いていた。\
-
+;　ここに、何かの秘密が隠されているに違いないと、@……私の中の、まだ死にたくないという気力が囁いていた。\
+` Now, when secrets must be kept hidden`@`...the strength in my heart whispered that I didn't want to die.`\
 textoff
 
 ld c,AYA_D7,22
@@ -2927,50 +2936,55 @@ ld l,IZA_D5,2
 se1v 2,100
 ld l,IZA_D6,80
 
-「へっへへへへ！！@　さぁ、あやちゃァん！！@　今日もぜぇぜぇしながら、汗だくで逃げ回る姿で楽しませてくれやァ…！！」\
-
+;「へっへへへへ！！@　さぁ、あやちゃァん！！@　今日もぜぇぜぇしながら、汗だくで逃げ回る姿で楽しませてくれやァ…！！」\
+`"Hahahahaha!`@`Well, Aya-chan!!`@`I'll make sure to enjoy myself with your sweaty fleeing body today too!!"`\
 ld r,AYA_D7a,22
 
-「……………………。」\
-
+;「……………………。」\
+`".........."`\
 cl r,23
 
 ;wait 1000
 cl l,0
 ld c,IZA_D5,23
 
-「さァ、走れや走れェ！！@　頭カラッポにして、チャイムまでひたすらに走り回れやァ！！@　くっひゃっひゃっひゃあァ！！」\
-
+;「さァ、走れや走れェ！！@　頭カラッポにして、チャイムまでひたすらに走り回れやァ！！@　くっひゃっひゃっひゃあァ！！」\
+`"Well, run, run!`@`Empty your head and until the chime rings, run around single-mindedly!!`@`Kyahahahaha!!"`\
 bg black,2
 bg rouka_04,22
 
 
-　彼は水曜は短いと言っていた。@でも、やはり、私の水曜は違う。@時計の針は、昨日よりも遠退いていた。@
+;　彼は水曜は短いと言っていた。@でも、やはり、私の水曜は違う。@時計の針は、昨日よりも遠退いていた。@
+` He said that Wednesday was short.`@`But not for me.`@`Today, the clock hands were further apart than yesterday.`@
 br
-　……今日も１時間たっぷり、校内を駆け回ることになる。\
-
-　生き延びて何かをしたいなんて、前向きな気持ちは何もない。@
+;　……今日も１時間たっぷり、校内を駆け回ることになる。\
+` I'll be running around the school for a full hour.`\
+;　生き延びて何かをしたいなんて、前向きな気持ちは何もない。@
+` I wanted to survive and do something. Optimism was nothing.`@
 br
-　あるのは、あの地獄だけはごめんだという、後ろ向きな気持ちだけ。\
-
+;　あるのは、あの地獄だけはごめんだという、後ろ向きな気持ちだけ。\
+` That hell only said sorry; it was just negative feelings.`\
 bg black,23
 bg rouka_02,23
 
-　……そんなこと考えるだけ、体力の無駄遣いだ。@
+;　……そんなこと考えるだけ、体力の無駄遣いだ。@
+` ....Just thinking of such things was a waste of stamina.`@
 br
-　イザナミの言う通り、……頭をカラッポにして、ひたすらに走り続けるのが最善なのだ。\
-
-　１時間は、運動の苦手な私には、すでに限界にも等しい時間だ。@
+;　イザナミの言う通り、……頭をカラッポにして、ひたすらに走り続けるのが最善なのだ。\
+` It was as Izanami said...I'd just have to empty my head and run around.`\
+;　１時間は、運動の苦手な私には、すでに限界にも等しい時間だ。@
+` For someone as unathletic as me, one hour was already my limit.`@
 br
-　昨日までの私ならば、絶望に潰されそうになっていただろう。\
-
+;　昨日までの私ならば、絶望に潰されそうになっていただろう。\
+` Until yesterday, I'd have been crushed by despair.`\
 ld c,AYA_D6a,24
 ld c,AYA_D8a,80
 
-　……しかし、今は少しだけ違う。@
+;　……しかし、今は少しだけ違う。@
+` But now it's a little different.`@
 br
-　曜日に隠された秘密。@……それに気付けば、……ひょっとしたら、生き延びることが出来るかもしれないという希望がある。\
-
+;　曜日に隠された秘密。@……それに気付けば、……ひょっとしたら、生き延びることが出来るかもしれないという希望がある。\
+` A secret was hidden in the day of the week.`@`...If I noticed it, maybe I'd survive.`\
 cl c,23
 bg black,23
 
@@ -2979,13 +2993,13 @@ wait 1000
 bg rouka_03,2
 ld r,IZA_D2,22
 
-「お前もよく頑張ったなァ。@……でもよォ、もう限界だろォ？」@
-
+;「お前もよく頑張ったなァ。@……でもよォ、もう限界だろォ？」@
+`"You're trying well.`@`...but are you at your limit already I wonder?"`@
 
 ld l,AYA_D7a,23
 
-「…………………………。」\
-
+;「…………………………。」\
+`"..........."`\
 ld r,IZA_D5,80
 
 「そんなに死が怖ェのかァ？@　かつては死にたがりだったくせによォ。@……まァ、あんな地獄を見せられちゃァ、気が変わるのも無理はねェがなァ。@くっくくくく！！@　そうまでして、どうして生きたい？@　生きてたって、どうせただぼんやりと寝惚けて過ごすだけだろォが。」\
@@ -2993,10 +3007,11 @@ ld r,IZA_D5,80
 ;ld l,AYA_D7a,80
 cl l,24
 
-「………………………。」@
+;「………………………。」@
+`"..........."`@
 br
-　挑発するかのように、イザナミは私を嘲笑い続ける。\
-
+;　挑発するかのように、イザナミは私を嘲笑い続ける。\
+` As if to provoke me, Izanami keeps ridiculing me.`\
 ;ld l,AYA_D8a,80
 ;wait 500
 ;cl l,24
@@ -3008,25 +3023,29 @@ ld c,IZA_D5,24
 bg black,22
 bg rouka_02,22
 
-　……どうして生きたいのかとか。@生きる意味とか価値とか、……考えたいこと、問い掛けたいこと、色々ある。@
+;　……どうして生きたいのかとか。@生きる意味とか価値とか、……考えたいこと、問い掛けたいこと、色々ある。@
+` ...why I wanted to live.`@`What meaning and value were in my life...what I'd like to believe...what I'd like to ask.`@`Various things he provoked me with.`@
 br
-　でも、汗だくになって走り回っていると、そんなことを考えている暇さえない。@
-　あいつの戯言に耳を貸してる余裕なんて、私にはないのだ。\
-
+;　でも、汗だくになって走り回っていると、そんなことを考えている暇さえない。@
+` But I wasn't free to think about such things while running around sweaty.`@
+;　あいつの戯言に耳を貸してる余裕なんて、私にはないのだ。\
+` I don't have time to listen to any of his nonsense.`\
 bg black,23
 bg rouka_01,23
 
 me1v 17,70
 
-　ただ走って、ヤツが追い付くまでを休みに徹して、呼吸を整えて、……また走る。@
-　それをチャイムが鳴るまで、ただひたすらに延々と繰り返す。@
+;　ただ走って、ヤツが追い付くまでを休みに徹して、呼吸を整えて、……また走る。@
+` I run, rest until he catches up, take a breath and run again.`@
+;　それをチャイムが鳴るまで、ただひたすらに延々と繰り返す。@
+` Until the chime rings, I'm doing this single-mindedly`@
 br
-　汗だくになって、心臓が破裂するかと思うほどになるまで。\
-
+;　汗だくになって、心臓が破裂するかと思うほどになるまで。\
+` sweating buckets and worrying about having a heart attack.`\
 bg black,22
 
-　………無我の境地で、ただひたすらに駆け回る内に、@その日はチャイムを向かえることが出来た……。\
-
+;　………無我の境地で、ただひたすらに駆け回る内に、@その日はチャイムを向かえることが出来た……。\
+` ....with such a stage of selflessness, and just running around,`@`I was able to welcome to chime that day...`\
 se3v 66,100
 se1v 69,100
 wait 200
@@ -3049,23 +3068,27 @@ bg kyou_04,22
 
 me1v 24,50
 
-　次の日。@
-　大里先輩を訪ねると、…………クラスメートは、そんな生徒はいないと笑った。@
+;　次の日。@
+` The next day.`@
+;　大里先輩を訪ねると、…………クラスメートは、そんな生徒はいないと笑った。@
+` When I asked for Ousato-senpai, his classmates laughed and said they didn't know a student like him.`@
 br
-　……何となく、わかってた。@
-　彼の存在は、席ごと、なくなっていた。\
-
-　これが学校八不思議の、１３階段の死神に呪われた者の、……末路なのだ。\
-
-　唯一の仲間を失い、……私の心が絶望に押し潰されそうになる。@
+;　……何となく、わかってた。@
+` I understand.`\
+;　彼の存在は、席ごと、なくなっていた。\
+` His seat, and his existence is gone.`\
+;　これが学校八不思議の、１３階段の死神に呪われた者の、……末路なのだ。\
+` This was one of the eight wonders of the school. The fate of those cursed by the Shinigami of the 13th staircase.`@
+;　唯一の仲間を失い、……私の心が絶望に押し潰されそうになる。@
+` It seemed my heart was being crushed under the weight of losing my sole companion.`@
 br
-　彼があの、胃袋の地獄でこれから永遠に苦しむことを思うと、恐怖に全身が凍り付きそうだった。\
-
+;　彼があの、胃袋の地獄でこれから永遠に苦しむことを思うと、恐怖に全身が凍り付きそうだった。\
+` To think that he'd suffer in that hell for eternity, his whole body in that stomach.`\
 se1v 11,30
 quakex 2,100
 
-　教室の前で俯いていると、……上級生の女子に、どんと肩をぶつけられた。\
-
+;　教室の前で俯いていると、……上級生の女子に、どんと肩をぶつけられた。\
+` Holding my head low....my shoulders are hit by upperclassman girls as they come and go.`\
 textoff
 
 E_A
@@ -3076,78 +3099,90 @@ ld c,HIG_D5,22
 
 bgm1 5
 
-「何で下級生がこんなとこにいるの？@　そんなとこに突っ立ってたら邪魔だわ。@くすくすくすくす…………。」@
+;「何で下級生がこんなとこにいるの？@　そんなとこに突っ立ってたら邪魔だわ。@くすくすくすくす…………。」@
+`"What are you doing in a place like this?`@` You're in everyone's way.`@`Kususususu...."`@
 ;＜彼岸花
 br
-　……可憐な子だった。@こんな髪が綺麗な女の子に生まれられたら、@さぞや人生が幸せだったろうに。\
-
+;　……可憐な子だった。@こんな髪が綺麗な女の子に生まれられたら、@さぞや人生が幸せだったろうに。\
+`...it was a pretty girl.`@`If I'd been born a pretty girl with such lovely hair,`@`I'd have had a good life.`\
 cl c,22
 
-　私の脇を通り過ぎて教室に入った少女は、@壁に貼られている時間割を見て、肩を竦める。\
-
+;　私の脇を通り過ぎて教室に入った少女は、@壁に貼られている時間割を見て、肩を竦める。\
+` The girl walks straight past me into the classroom`@`looked at the timetable on the wall and shrugs her shoulders.`\ 
 bg black,22
 bg kyou_01,22
 ld l,HIG_D5,22
 
-「本当に最低な時間割よね。@……どうして午後を優雅に楽しめる土曜日に体育なんかあるのかしら。」@
+;「本当に最低な時間割よね。@……どうして午後を優雅に楽しめる土曜日に体育なんかあるのかしら。」@
+`"It's a horrible timetable.`@`...Who possibly could enjoy gym on Saturday afternoon?"`@
 br
-　……このクラスは、土曜日に体育の授業があるようだった。\
-
+;　……このクラスは、土曜日に体育の授業があるようだった。\
+` ...this class seemed to have gym on Friday.`\
 ld l,HIG_W3,80
 
-「私、体育の授業は大嫌いなの。@……だから今日と明日は、多少はマシね。@あぁ、体育なんて、この世から消えてなくならないかしら。@……くすくすくすくす……。」\
-
+;「私、体育の授業は大嫌いなの。@……だから今日と明日は、多少はマシね。@あぁ、体育なんて、この世から消えてなくならないかしら。@……くすくすくすくす……。」\
+`"Ugh. I hate gym`@`...so I guess today and tomorrow is a bit better.`@`Ah, what with P.E. today and tomorrow, I wonder if I'll just disappear from this world?`@`..kususususu..."`\
 cl l,2
 bg black,22
 bg kyou_03,22
 
-　少女の肩越しに、このクラスの時間割が見える。@
+;　少女の肩越しに、このクラスの時間割が見える。@
+` Over the girl's shoulder, I could see the timetable.`@
 br
-　確かに、今日と明日、……木曜と金曜は、このクラスには体育の授業がないようだった。\
-
-　……当然のことだが、……時間割はクラスによって違う。@
-　このクラスでは、体育は、月曜と水曜と土曜にある。@
+;　確かに、今日と明日、……木曜と金曜は、このクラスには体育の授業がないようだった。\
+` Certainly, it seemed that for this class, today and tomorrow, Thursday and Friday, that there was no P.E.`\
+;　……当然のことだが、……時間割はクラスによって違う。@
+` Of course, but this was different between the timetable and class`@
+;　このクラスでは、体育は、月曜と水曜と土曜にある。@
+` In this class, P.E. was on Monday, Wednesday and Saturday.`@
 br
 E_A
-　……………それは、……彼が言っていた、走る時間の短くなる曜日だ。\
-
+;　……………それは、……彼が言っていた、走る時間の短くなる曜日だ。\
+` ....those days...he said...were ones on which time to run was shortened.`\
 bgm1 18
 
 bg black,22
 
-　じゃ、じゃあ、私のクラスはどうだろう…？@
+;　じゃ、じゃあ、私のクラスはどうだろう…？@
+` Then...then what about my class?`@
 br
-　つまり………、体育の授業があると、……短くなる……？\
-
+;　つまり………、体育の授業があると、……短くなる……？\
+` Could it be...that on days with P.E. there's less time...?`\
 bg koutei_01,2
 
 me1v 31,50
 
-　その日の午後は、私のクラスでは体育の時間だった。@
-　男子の悪ふざけが過ぎて、先生を怒らせてしまい、@その日は、延々と校庭を走り回らせられることになった。@
+;　その日の午後は、私のクラスでは体育の時間だった。@
+` That afternoon, I was in P.E. with my class.`@
+;　男子の悪ふざけが過ぎて、先生を怒らせてしまい、@その日は、延々と校庭を走り回らせられることになった。@
+` The boys played pranks on the teacher and angered them.`@`And I was made to run around the schoolyard endlessly.`@
 br
-　放課後のために、少しでも体力を温存しておきたかったのに……。\
-
+;　放課後のために、少しでも体力を温存しておきたかったのに……。\
+` I wanted to preserve a little strength for after school...`\
 bg black,22
 
-　その時は私は大いにぼやいた。@
+;　その時は私は大いにぼやいた。@
+` I complained a lot.`@
 br
-　しかし、放課後を迎え、イザナミの世界で時計を見上げた時。@……はっきりと確信した。\
-
+;　しかし、放課後を迎え、イザナミの世界で時計を見上げた時。@……はっきりと確信した。\
+` But when school ended and I looked up at the clock in Izanami's world,`@`I was certain.`\
 fede 10,1000
 E_MA
 
 bg rouka_04,22
 
-「………す、すごく時間が、………減ってる…………。」\
-
-　確かに体育のある曜日はいつも、時間が短かった。@
+;「………す、すごく時間が、………減ってる…………。」\
+`"....the...the time has really decreased..."`\
+;　確かに体育のある曜日はいつも、時間が短かった。@
+` Certainly, on days with P.E., the time was shortened.`@
 br
-　体育の時には、準備運動のあと、必ず校庭をぐるりと走らされる。@
-　でも、今日はそれに加え、さらにぐるぐると走り回らされた。@
+;　体育の時には、準備運動のあと、必ず校庭をぐるりと走らされる。@
+` In P.E., after a warm-up, I'd invariably run around the schoolyard.`@
+;　でも、今日はそれに加え、さらにぐるぐると走り回らされた。@
+` But additionally, today, I'd be running round and round in circles.`@
 br
-　その分が、大きくチャイムまでの時間を減らしているのだ……。\
-
+;　その分が、大きくチャイムまでの時間を減らしているのだ……。\
+` Those minutes until the chime rang are being decreaed...`\
 bg black,22
 bg kyou_02u,22
 ld c,IZA_D3,22
@@ -3157,14 +3192,16 @@ ld c,IZA_D2,80
 br
 　イザナミはしらばっくれるが、……もう私にはわかってる。\
 
-　そして多分。@……これが、イザナミのゲームの、唯一の必勝法……。@
+;　そして多分。@……これが、イザナミのゲームの、唯一の必勝法……。@
+` And probably,`@`..this is the only winning strategy for Izanami's game.`@
 br
-　その日、走っていれば走っているほど。@……イザナミの世界の時間は短くなるのだ。\
-
+;　その日、走っていれば走っているほど。@……イザナミの世界の時間は短くなるのだ。\
+` That day, the more I ran,`@`the shorter the time in Izanami's world became.`\
 bg black,23
 bg kyou_04,23
 
-　昨日を生き残れた自分なら、時間がずっと短い今日を生き残るのは容易なこと。@
+;　昨日を生き残れた自分なら、時間がずっと短い今日を生き残るのは容易なこと。@
+` Since I survived yesterday, today I'm going to handle the shorter time much easier.`@
 br
 　………明日、私のクラスには体育はないが。@もし、私の推理通りなら、@……休み時間などに走り溜めておくことで、@イザナミの世界の時間を軽減できるはず……。\
 
@@ -3176,11 +3213,13 @@ bg black,23
 bg rouka_03,0
 ld c,AYA_D8a,23
 
-「………………………………。」@
+;「………………………………。」@
+`"............"`@
 br
-　希望に満ちている。@……確かにそうかもしれない。@
-　私は、生き残れるかもしれないことに、実感を覚え始めている。\
-
+;　希望に満ちている。@……確かにそうかもしれない。@
+` I'm hopeful.`@`...That might be the case.`@
+;　私は、生き残れるかもしれないことに、実感を覚え始めている。\
+` I'm beginning to remember the feeling of maybe surviving.`\
 　これで明日、休み時間に走り溜めて、実際に効果があったなら。@
 br
 　……私は勝てる。\
