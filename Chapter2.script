@@ -3220,41 +3220,47 @@ br
 ` I'm hopeful.`@`...That might be the case.`@
 ;　私は、生き残れるかもしれないことに、実感を覚え始めている。\
 ` I'm beginning to remember the feeling of maybe surviving.`\
-　これで明日、休み時間に走り溜めて、実際に効果があったなら。@
+;　これで明日、休み時間に走り溜めて、実際に効果があったなら。@
+` If I pool my energy for running today and tomorrow, it'll have an effect.`@
 br
-　……私は勝てる。\
-
+;　……私は勝てる。\
+`...I'll win.`\
 ;ld c,AYA_D4a,80
 
 cl c,24
 
-　無謀とも思える、４９日間の戦いを、生き残れるかもしれない。@
+;　無謀とも思える、４９日間の戦いを、生き残れるかもしれない。@
+` Maybe I'll survive this reckless fight for 49 days.`@
 br
-　全身を、じゅわっとしたものが駆け巡るのを感じた。\
-
+;　全身を、じゅわっとしたものが駆け巡るのを感じた。\
+` My whole body felt a clipping sound.`\
 ;ld c,AYA_D7,80
 
 bg black,22
 
-　私はやれる。@生き残れる。@
+;　私はやれる。@生き残れる。@
+` I can do it.`@`I can survive.`@
 br
-　あいつなんか怖くない。@私は逃げられる。@逃げ延びられる。\
-
+;　あいつなんか怖くない。@私は逃げられる。@逃げ延びられる。\
+` He's not scary.`@`I can run away.`@`I can make good of my escape.`\
 ;bg black,23
 bg kyou_04,23
 
-　……逃げ延びて、何かを私が待っているの…？@
-　その疑問に対する答えは、未だにない。@
+;　……逃げ延びて、何かを私が待っているの…？@
+` ....escape...an I waiting on something?`@
+;　その疑問に対する答えは、未だにない。@
+` I still didn't have an answer to that question`@
 br
-　でも、あのおぞましい地獄から逃れる方法が見つかっただけでも、@今は踊り出したいくらい嬉しい気持ちだった。\
-
+;　でも、あのおぞましい地獄から逃れる方法が見つかっただけでも、@今は踊り出したいくらい嬉しい気持ちだった。\
+` But I found a way to escape this hell.`@`I'm so happy now I could dance.`\
 bg black,23
 bg rouka_01,23
 
-　人生の意味とか価値とか、そんなものを今、考えても、それこそ何の意味も価値もない。@
+;　人生の意味とか価値とか、そんなものを今、考えても、それこそ何の意味も価値もない。@
+` Even if I try thinking about the meaning and value of life, I still have neither.`@
 br
-　今はただ、生き残れるかもしれないという単純な喜びが、ただそれだけで嬉しかった。\
-
+;　今はただ、生き残れるかもしれないという単純な喜びが、ただそれだけで嬉しかった。\
+` Right now there was just the simple pleasure of possibly surviving, and I was happy with that.`\
 bg black,23
 bg rouka_03,23
 ld c,IZA_D3,22
@@ -3284,23 +3290,29 @@ bg koutei_04,22
 
 me1v 31,50
 
-　二時間目の終わりの業間休みに、校庭に出るなんて、本当に久し振りのことだった。@
+;　二時間目の終わりの業間休みに、校庭に出るなんて、本当に久し振りのことだった。@
+` It's been a while since I've come out into the schoolyard after a two hour rest after working.`@
 br
-　体育の授業でもないのに、校庭を走るなんて、……それこそ、生まれて始めての経験だ。\
-
-　……どれくらい走れば、どれくらいの時間が減るのかはわからない。@
-　でも、今ここでたくさん走っておけば、その分、放課後に楽が出来る。@
+;　体育の授業でもないのに、校庭を走るなんて、……それこそ、生まれて始めての経験だ。\
+` I was running although it wasn't P.E, but even so...it was like a experience of being born again.`\
+;　……どれくらい走れば、どれくらいの時間が減るのかはわからない。@
+` I didn't know if I'd have to run or even how much time it'd be reduced by.`@
+;　でも、今ここでたくさん走っておけば、その分、放課後に楽が出来る。@
+` But if I run a lot now, I'd be able to do so easily after school.`@
 br
-　何しろ、今ならば、誰も追って来ない。@
-　のんびりと自分のペースで走ることが出来る。@
-　疲れたとしても、放課後までに体力を回復できる時間はたっぷりある。\
-
+;　何しろ、今ならば、誰も追って来ない。@
+` After all, nobody is following me now.`@
+;　のんびりと自分のペースで走ることが出来る。@
+` I can run leisurely at my own pace.`@
+;　疲れたとしても、放課後までに体力を回復できる時間はたっぷりある。\
+` Even if I tire, I have plenty time to recuperate until after school.`\
 bg black,22
 
-　これが、イザナミのゲームの生き残り法。@
+;　これが、イザナミのゲームの生き残り法。@
+` That is the way to survive Izanami's game.`@
 br
-　間違いない。@過去の生還者は、この秘密に気付いたのだ。\
-
+;　間違いない。@過去の生還者は、この秘密に気付いたのだ。\
+` Without a doubt,`@`the past survivors knew this secret.`\
 bg koutei_05,22
 
 　元気な子供たちがボール遊びに夢中になる中。@私はひとり、黙々と校庭を走り続けた。@
