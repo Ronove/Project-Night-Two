@@ -3315,21 +3315,23 @@ br
 ` Without a doubt,`@`the past survivors knew this secret.`\
 bg koutei_05,22
 
-　元気な子供たちがボール遊びに夢中になる中。@私はひとり、黙々と校庭を走り続けた。@
-　業間休みだけでなく、昼休みにも同じく黙々と走り続けた。\
-
+;　元気な子供たちがボール遊びに夢中になる中。@私はひとり、黙々と校庭を走り続けた。@
+` While lively children play ball,`@`I run around the schoolyard in silence.`@
+;　業間休みだけでなく、昼休みにも同じく黙々と走り続けた。\
+` I ran silently during both lunch and recess.`\
 textoff
 
 ld r,AYA_D6a,23
 
-「はぁっ、はぁっ、はぁっ…！！」\
-
+;「はぁっ、はぁっ、はぁっ…！！」\
+`"Haa, haa, haaa!!"`\
 ld r,AYA_D7a,80
 
-　今日は体育の授業はないが、体育で走らされるより、もっと多くを走ったと思う。@
+;　今日は体育の授業はないが、体育で走らされるより、もっと多くを走ったと思う。@
+` Today wasn't P.E., but I think I'm running more that I'd be during P.E.`@
 br
-　…………その成果は、果たして出るのか。\
-
+;　…………その成果は、果たして出るのか。\
+` .....I wonder if it'll work out as expected.`\
 bg black,2
 
 fede 0,1000
@@ -3344,17 +3346,19 @@ me1v 24,50
 
 ld c,AYA_D7a,26
 
-　……帰りのホームルーム。@
-　私はぐっと両手を握り締めて、立ち上がる。\
-
-　……私の推理が正しいかどうか、……証明される。@
+;　……帰りのホームルーム。@
+` ....homeroom.`@
+;　私はぐっと両手を握り締めて、立ち上がる。\
+` I clasped my hands and stood.`\
+;　……私の推理が正しいかどうか、……証明される。@
+` ...If I was correct in my reasoning, it'd be verified now.`@
 br
-　お願い……、少しでも時間が減っていて………。\
-
+;　お願い……、少しでも時間が減っていて………。\
+` PLease...decrease the time just a little...`\
 E_A
 
-「「「さよーならー！！！」」」\
-
+;「「「さよーならー！！！」」」\
+`"BYEEEE~!"`\
 se1v 2,50
 nega 1
 print 80
@@ -3366,32 +3370,35 @@ bg black,1
 
 me1v 16,50
 
-　……そして、いつものように、放課後のイザナミの世界へ。@
+;　……そして、いつものように、放課後のイザナミの世界へ。@
+` ...And as usual, I was in Izanami's After-School world.`@
 br
-　瞬時に無人となった教室で、私は、ごくりと唾を飲み込んでから、時計を見上げる。\
-
+;　瞬時に無人となった教室で、私は、ごくりと唾を飲み込んでから、時計を見上げる。\
+` The classroom emptied. I gulped and looked up at the clock.`\
 bg kyou_02u,22
 ld l,AYA_D7a,22
 
-「…………………………。」\
-
+;「…………………………。」\
+`"..........."`\
 se1v 82,85
 wait 1000
 
 ld r,IZA_D1,22
 
-　がらりと扉を開けて、教室にイザナミが入ってくる。@
+;　がらりと扉を開けて、教室にイザナミが入ってくる。@
+` Izanami opens the door and bursts into the classroom.`@
 br
-　そして時計を見上げ、肩を竦めながら笑った。\
-
+;　そして時計を見上げ、肩を竦めながら笑った。\
+` Looking up at the clock, he shrugged his shoulders and laughs.`\
 ld r,IZA_D2,80
 
 E_A
-「くっくっく……。@やれやれ、……気付かれちまったかァ。」@
+;「くっくっく……。@やれやれ、……気付かれちまったかァ。」@
+`"Kukuku...`@`...well well...did you notice?"`@
 br
 bgm1 20
-　時間は、……しっかりと短くなっていた。\
-
+;　時間は、……しっかりと短くなっていた。\
+` Time had definitely become shorter.`\
 ld l,AYA_D7,80
 
 　私の全身を、あのじゅわっとした感触が駆け巡る。@
@@ -3409,10 +3416,11 @@ ld r,IZA_D5,80
 bg black,23
 bg rouka_03,23
 
-　私は廊下に走り出る。@それを見届け、イザナミも廊下に出る。@
+;　私は廊下に走り出る。@それを見届け、イザナミも廊下に出る。@
+` I rushed out into the corridor`@`and saw Izanami do the same.`@
 br
-　……私はしっかりと床を踏みしめ、走り出した。\
-
+;　……私はしっかりと床を踏みしめ、走り出した。\
+` I firmly stepped on the floor and started to run.`\
 bg black,2
 
 fedexx 85,0,0,0,0,0,1000
@@ -3421,7 +3429,8 @@ bg koutei_01,22
 
 me1v 31,70
 
-　私は日々、走り続けた。@
+;　私は日々、走り続けた。@
+` Every day I continued to run.`@
 br
 　休み時間の度に走り、走り走り走りまくった。\
 
