@@ -3432,21 +3432,25 @@ me1v 31,70
 ;　私は日々、走り続けた。@
 ` Every day I continued to run.`@
 br
-　休み時間の度に走り、走り走り走りまくった。\
-
-　どうやら、予め走った時間は、イザナミの世界ではそれ以上にカウントされているらしい。@
-　つまり、予め、走っておけば走っておくほど、有利だということだ。@
+;　休み時間の度に走り、走り走り走りまくった。\
+` Every break time I ran my heart out.`\
+;　どうやら、予め走った時間は、イザナミの世界ではそれ以上にカウントされているらしい。@
+` But it seemed that in Izanami's world was counted more than these times I ran in advance.`@
+;　つまり、予め、走っておけば走っておくほど、有利だということだ。@
+` Thus, the more I ran in advance the more advantaged I became.`@
 br
-　とにかく走った。@チャイムと同時に教室を飛び出し。@給食を終えると同時に教室を飛び出した。\
-
+;　とにかく走った。@チャイムと同時に教室を飛び出し。@給食を終えると同時に教室を飛び出した。\
+` I ran anyway.`@`As soon as the bell went, I ran out the classroom.`@`When I finished my meal I ran out the classroom.`\
 bg black,22
 bg kyou_01,22
 
-　……そういえば、最近は給食を残さなくなった。@
+;　……そういえば、最近は給食を残さなくなった。@
+` Now that I mention it....recently I hadn't been leaving my school lunch.`@
 br
-　何しろ、毎日毎日、走りまくっているのだから、お腹が空く。@
-　家での食事も残さなくなった気がする。\
-
+;　何しろ、毎日毎日、走りまくっているのだから、お腹が空く。@
+` After all, I was running every day so I was hungry.`@
+;　家での食事も残さなくなった気がする。\
+` I didn't intend to leave my meals at home either.`\
 bg black,22
 
 E_MA
@@ -3455,38 +3459,44 @@ bg ie_04,22
 
 　不眠気味で、何度も寝返りをうっていたはずの夜も、@最近は灯りを消すと同時に、布団に沈み込むかのように眠れるようになった。@
 br
-　何しろ、毎日毎日、走りまくっているのだから、疲れてよく眠れるのは当然だ。\
-
+;　何しろ、毎日毎日、走りまくっているのだから、疲れてよく眠れるのは当然だ。\
+` After all, since I was running earnestly every day, it stood to reason that I'd try to sleep well.`@
 bg black,22
 bg Air_02,22
 
-　体育の授業で校庭を走る時。@……前ほど苦手じゃなくなった気がする。@
+;　体育の授業で校庭を走る時。@……前ほど苦手じゃなくなった気がする。@
+` When I run in gym class now,`@`I don't think I'm as unskilled as before.`@
 br
-　当然だ。@私は毎日、どれだけの時間を走らされているというのか。@
-　それに比べたら、@校庭をほんの数周、それも誰にも追い掛けられずになんて、問題にもならなかった。\
-
+;　当然だ。@私は毎日、どれだけの時間を走らされているというのか。@
+` Of course.`@`I was being made to run for ages every day.`@
+;　それに比べたら、@校庭をほんの数周、それも誰にも追い掛けられずになんて、問題にもならなかった。\
+` Compared to that, running a few laps around the school yard was nothing.`\
 bg black,22
 bg roji_03a,22
 
-　試しに、帰宅後も外に走りに行ってみたら、これも効果を示した。@
+;　試しに、帰宅後も外に走りに行ってみたら、これも効果を示した。@
+` As a test, when I got home in the evening, I ran outside to see any effects.`@
 br
-　もちろん、イザナミも私を諦めるつもりは毛頭ないらしい。\
-
+;　もちろん、イザナミも私を諦めるつもりは毛頭ないらしい。\
+` Of course, Izanami too had no intention of giving up on me.`\
 bg black,22
 bg rouka_02,22
 
-　日々、相当の時間を上乗せして挑んでくる。@
-　しかし私も、日々、相当の時間を走って、それを軽減している。\
+;　日々、相当の時間を上乗せして挑んでくる。@
+` Every day, I was challenged for a substantial amount of time.`@
+;　しかし私も、日々、相当の時間を走って、それを軽減している。\
+` But every day, I ran for a time which is now reducing.`\
 
-
-　それでも少しずつ時間は延びてくる。@
+;　それでも少しずつ時間は延びてくる。@
+` Even so the time extended little by little.`@
 　一時期は３０分未満にさえ縮めた時間も、@最近はまた増え出し、元の１時間に戻ろうとしている。@
-　しかし、……私も体力を付けてきている。\
-
+;　しかし、……私も体力を付けてきている。\
+` However, I also put in all my strength.`\
 bg black,23
 bg rouka_04,23
 
-　楽に走るコツのようなものも見つけた。@体力を温存できるペースも見つけた。@
+;　楽に走るコツのようなものも見つけた。@体力を温存できるペースも見つけた。@
+` I found I trick to running easier,`@` and a pace that allowed me to conserve strength.`@
 　今の私なら、仮に１時間を超えたとしても、………やり果せる自信はあった。@
 br
 　そうしている内に、@……私はイザナミに追われるようになってから、すでに１ヶ月を超えるようになっていた。\
@@ -3503,10 +3513,12 @@ bg rouka_03,23
 
 　最近は、相当な距離を走り込んでいても、放課後の時間は１時間を超えてしまう。@
 br
-　しかし、……私は負けなかった。@
+;　しかし、……私は負けなかった。@
+` But I wouldn't lose.`@
 　生きて４９日を越える自信を持っていた。\
 
-　時計をちらりと見る。@
+;　時計をちらりと見る。@
+` I glanced at the clock.`@
 br
 　あと５分。@……今日のイザナミの放課後も、もうすぐ終わりだった。\
 
