@@ -3628,74 +3628,78 @@ bg rouka_04,23
 `"Something to discuss?"`@
 br
 ;　私たちは、互いに足を止めることなく、会話を続ける。\
-` Without stopping our walk, we continue the conversation.`\
+` *Without stopping our walk, we continue the conversation.`\
 bg black,23
 
-「俺はもう、お前に興味はねェし、お前だってこんなのが延々と続くのもウンザリのはずだァ。@だからだ。@こうしよう。@俺に捕まれ。」\
-
+;「俺はもう、お前に興味はねェし、お前だってこんなのが延々と続くのもウンザリのはずだァ。@だからだ。@こうしよう。@俺に捕まれ。」\
+`"Honestly, I'm not interested in you...but I should follow you till I tire of it.`@`So try it.`@`Try to be caught by me."`\
 bg kyou_04,23
 ld r,AYA_D7a,23
 ld r,AYA_D8a,80
 
-「馬鹿と寝言は寝てからにして。」\
-
+;「馬鹿と寝言は寝てからにして。」\
+`"Cut the nonsense."`\
 ld l,IZA_D4,23
 ld l,IZA_D2,80
 
 「くっくっくっく！@　まァ、待て。@話は最後まで聞けって。@……俺は捕まえたヤツを、あの胃袋の地獄へ放り込む。@だが、お前みてェなマズい魂はいらねェ。@しかし、俺は死神だ。@捕まえた以上、死後の世界に連れて行かねェわけにはいかねェ。」\
 ld r,AYA_D7a,80
 
-「……私に、あんたに捕まる利点がさっぱりないんですけど。」\
-
+;「……私に、あんたに捕まる利点がさっぱりないんですけど。」\
+`"But there's no advantage in being caught by you."`\
 ld l,IZA_D3,80
 E_A
-「お前の望んだ死を、与えてやるよ。」@
-
+;「お前の望んだ死を、与えてやるよ。」@
+`"I'll grant you the death you long for"`@
 ld r,AYA_D5a,80
 
 bgm1 7
 
-「……………え。」\
-
+;「……………え。」\
+`"......yes."`\
 ld l,IZA_D1,80
 
-「お前の望みは、雪が解けるように眠るように、安らかに死ぬことだろ？」\
+;「お前の望みは、雪が解けるように眠るように、安らかに死ぬことだろ？」\
+`"Your wish is to die peacefully like falling asleep and melting snow, correct?"`\
 
-
-　確かにそれは、……私の願望だ。@
+;　確かにそれは、……私の願望だ。@
+` That surely was....my wish.`@
 br
-　……………………。\
-
+;　……………………。\
+` ............`\
 ld l,IZA_D2,80
 
-「それを叶えてやるよ。@そういう死後の世界もある。@お前の魂は、特別にその世界へ送ってやる。@それでどうだ。」@
-
+;「それを叶えてやるよ。@そういう死後の世界もある。@お前の魂は、特別にその世界へ送ってやる。@それでどうだ。」@
+`"I'll grant it.`@`An afterlife also exists.`@`I'll send your soul there specially.`@`How's that?"`@
 ld r,AYA_D4a,80
 
-「……そんなの、………信用できるわけないでしょ。」\
-
+;「……そんなの、………信用できるわけないでしょ。」\
+`"......I....I can't depend on that."`\
 cl r,24
 
 bg black,22
 ;bg rouka_04,22
 
-「俺ァ死神だ。@その仕事で嘘は言わねェし、言うことも許されてねェ。」\
-
+;「俺ァ死神だ。@その仕事で嘘は言わねェし、言うことも許されてねェ。」\
+`"I'm a Shinigami.`@`I don't lie because of my position--I'm allowed to say such things."`\
 bg kyou_04,0
 ld c,IZA_D1,24
 
-　私は思わず振り返り、……イザナミを見る。@
+;　私は思わず振り返り、……イザナミを見る。@
+` I turned back without thinking...and looked at Izanami.`@
 br
-　死神はいつだって、私を挑発するようにへらへらしている。@
-　しかし、今の瞳は、……なぜか信用できるような気がした。\
-
+;　死神はいつだって、私を挑発するようにへらへらしている。@
+` This Shinigami is always senselessly provoking me.`@
+;　しかし、今の瞳は、……なぜか信用できるような気がした。\
+` But why then now did I feel like I could trust the look in his eyes?`\
 ld c,IZA_D3,80
 
 「俺はお前との放課後をとっとと終えて、新しい狩りを始めたい。@お前は、望みの死を手に入れて、安らかに眠ることが出来る。@どうだよ。@お互いに損がねェ話だとは思わねェか……？」@
 br
-　いつも、私を早足で追い立てていた死神が、……初めて足を止めた。@
-　私は驚き、……自分も足を止めてしまう。\
-
+;　いつも、私を早足で追い立てていた死神が、……初めて足を止めた。@
+` This Shinigami who had forever been briskly pursuing me, for the first time stood still.`@
+;　私は驚き、……自分も足を止めてしまう。\
+` Surprised, I stopped myself too.`\
 cl c,0
 ld l,IZA_D1,24
 
@@ -3712,49 +3716,61 @@ E_A
 
 ld l,IZA_D4,80
 
-「ふ。@……くっくくくく。@/
+;「ふ。@……くっくくくく。@/
+`"Fu.`@`...kukukukuku`@/
 me1v 16,50
-……まァ、そう来るだろうよ。」@
+;……まァ、そう来るだろうよ。」@
+`....well, it has come."`@
 br
-　イザナミは頭を掻きながら肩を竦めて笑う。@
-　そして再び、足早に歩き出す。@私も足を再び動かす。\
-
+;　イザナミは頭を掻きながら肩を竦めて笑う。@
+` Izanami laughed while scratching his head and shrugging his shoulders.`@
+;　そして再び、足早に歩き出す。@私も足を再び動かす。\
+` And once again, he began to walk.`@`As did I.`\
 bg black,23
 bg rouka_01,23
 
-　もうイザナミは何も言わなかった。@だから私も振り返らず、前だけを見て、黙々と走る。\
-
+;　もうイザナミは何も言わなかった。@だから私も振り返らず、前だけを見て、黙々と走る。\
+` Izanami didn't say anything more.`@`So without looking back, I ran, pressing on ahead.`\
 bg black,22
 
-　……イザナミは、無慈悲な死神だけれど、今日まで嘘を吐いたことはない。@
+;　……イザナミは、無慈悲な死神だけれど、今日まで嘘を吐いたことはない。@
+` ....Izanami was a cruel Shinigami, but he hadn't uttered a lie till today.`@
 br
-　その彼が、かつての私が望んでいた死を与えてもいいと、言ってくれたのだ。\
-
+;　その彼が、かつての私が望んでいた死を与えてもいいと、言ってくれたのだ。\
+` He had told me that he would grant me the death I wished for.`\
 fede 0,1000
 E_A
 
 bgm1 24
 
-　なぜ断ったんだろう。@
-　……イザナミが信用できないから断ったんじゃない。@
+;　なぜ断ったんだろう。@
+` I wonder why I turned him down.`@
+;　……イザナミが信用できないから断ったんじゃない。@
+` ...I didn't refuse because he was untrustworthy.`@
 br
-　自分でも、……わからない。\
-
-　最近は忘れ掛けていた問いが、再び頭を満たす。@
+;　自分でも、……わからない。\
+` I myself didn't understand.`\
+;　最近は忘れ掛けていた問いが、再び頭を満たす。@
+` I question I had forgotten surfaced again in my mind.`@
 br
-　……私は、どうして生き延びようとするんだろう。@
-　人は、死にたくないからだけの理由で、生きようとするのだろうか。\
-
+;　……私は、どうして生き延びようとするんだろう。@
+` ....why would I survive?`@
+;　人は、死にたくないからだけの理由で、生きようとするのだろうか。\
+` Did I simply want to survive because I didn't really want to die?`\
 ;bg black,23
 bg rouka_02,22
 
-　そんなの、人なら誰でも当り前だ。@
+;　そんなの、人なら誰でも当り前だ。@
+` That's a common reason for anyone.`@
 br
-　生きるには、もっと意味とか価値とか目的とか、……色々とあるはず。@
-　死にたくないから生きたいだなんて、……そんなの無意味で荒唐無稽だ。\
-
-　……私は未だ見つけられていない。@
-　生きる理由を、意味を価値を、目的を。@
+;　生きるには、もっと意味とか価値とか目的とか、……色々とあるはず。@
+` In life there ought to be a variety of purpose, value and meaning.`@
+;　死にたくないから生きたいだなんて、……そんなの無意味で荒唐無稽だ。\
+` Wanting to live because you don't want to die...that's a meaningless, absurd tautology.`\
+;　……私は未だ見つけられていない。@
+` Maybe I haven't found it yet.`@
+;　生きる理由を、意味を価値を、目的を。@
+` My reason, purpose, value and meaning of life.`@
 br
 　ただ死にたくないからと、生き延びるために走り続ける日々。@
 　……それは、無意味で無価値な日々のはず。\
@@ -3762,7 +3778,8 @@ br
 bg black,23
 bg rouka_03,23
 
-　でも、…………何だか、わからないのだ。@
+;　でも、…………何だか、わからないのだ。@
+` But.....I didn't understand anything.`@
 br
 　かつてのぼんやりとした何の意味もない日々に比べたら。@
 　今の、生き延びるために努力を重ねる日々の方が、@……まだ、ささやかな価値があるように思えるのだ。\
