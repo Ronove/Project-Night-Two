@@ -3497,10 +3497,11 @@ bg rouka_04,23
 
 ;　楽に走るコツのようなものも見つけた。@体力を温存できるペースも見つけた。@
 ` I found I trick to running easier,`@` and a pace that allowed me to conserve strength.`@
-　今の私なら、仮に１時間を超えたとしても、………やり果せる自信はあった。@
+;　今の私なら、仮に１時間を超えたとしても、………やり果せる自信はあった。@
+` Even if now I had to run more than an hour, I had confidence that I could do it.`@
 br
-　そうしている内に、@……私はイザナミに追われるようになってから、すでに１ヶ月を超えるようになっていた。\
-
+;　そうしている内に、@……私はイザナミに追われるようになってから、すでに１ヶ月を超えるようになっていた。\
+` In the meanwhile,`@`I had reached a month of being chased by Izanami.`\
 bg black,2
 wait 1000
 bg rouka_02,23
@@ -3511,17 +3512,18 @@ wait 300
 bg black,23
 bg rouka_03,23
 
-　最近は、相当な距離を走り込んでいても、放課後の時間は１時間を超えてしまう。@
+;　最近は、相当な距離を走り込んでいても、放課後の時間は１時間を超えてしまう。@
+` Recently, even if I ran a considerable distance, I'd still have more than an hour after school.`@
 br
 ;　しかし、……私は負けなかった。@
 ` But I wouldn't lose.`@
-　生きて４９日を越える自信を持っていた。\
-
+;　生きて４９日を越える自信を持っていた。\
+` I had was confident that I'd survive for 49 days.`\
 ;　時計をちらりと見る。@
 ` I glanced at the clock.`@
 br
-　あと５分。@……今日のイザナミの放課後も、もうすぐ終わりだった。\
-
+;　あと５分。@……今日のイザナミの放課後も、もうすぐ終わりだった。\
+` Five more minutes.`@`...Izanami's after-school challenge soon would be over.`\
 ld l,IZA_D4,22
 ;ld l,IZA_D4,80
 
@@ -3529,24 +3531,25 @@ ld l,IZA_D4,22
 
 ld r,AYA_D7a,22
 
-「……あんな地獄、誰だってごめんよ。」@
+;「……あんな地獄、誰だってごめんよ。」@
+`"That hell....everyone....I'm sorry."`@
 br
 　体力も付き、平常心を保てるようになった最近は、@イザナミに言い返せるくらいの余裕も出来た。\
 
 ld l,IZA_D2,80
 
-「俺ァ、お前がだんだん気に入ってきたぜ。」@
-
+;「俺ァ、お前がだんだん気に入ってきたぜ。」@
+`"I gradually came to like you."`@
 ld r,AYA_D8a,80
 
-「……御免被るわ。@死神に好かれるなんて、冗談じゃない。」\
-
+;「……御免被るわ。@死神に好かれるなんて、冗談じゃない。」\
+`"....excuse me?`@` You're joking right?"`\
 cl r,23
 
 ld l,IZA_D5,80
 
-「くっくくくくく！@　そりゃァ、違ェねェ…！」\
-
+;「くっくくくくく！@　そりゃァ、違ェねェ…！」\
+`"Kukukukuku!`@`Well....you're wrong!"`\
 bg black,23
 
 fede 0,2000
@@ -3556,12 +3559,14 @@ bg rouka_04,23
 
 me1v 5,50
 
-「なァ、あやちゃんよォ。@聞かせてくれ。@そこまでして、どうして生きたい？」@
-「……あんな地獄は絶対御免って、言ったはずよ。」\
-
-「なら。@お前の望むような死だったらどうする？」@
-「……………………。」\
-
+;「なァ、あやちゃんよォ。@聞かせてくれ。@そこまでして、どうして生きたい？」@
+`" Hey, listen to me Aya-chan.`@`Why do you want to live?"`@
+;「……あんな地獄は絶対御免って、言ったはずよ。」\
+`"I said I'm completely rejecting that hell."`\
+;「なら。@お前の望むような死だったらどうする？」@
+`" So if you die as you wish, what would you do?"`@
+;「……………………。」\
+`"..........."`\
 me2v 16,50
 
 「俺ァ、死神だ。@人間の魂を、死後のあらゆる世界に好きに連れて行ける。@あんな酷ェ地獄じゃなくて。@お前の望むような、眠るように消えられる世界に連れて行ってやってもいいんだぜ？」\
@@ -3570,10 +3575,11 @@ bg black,24
 bg kaidan_02,0
 ld l,AYA_D2,24
 
-「………………………。@/
+;「………………………。@/
+`"...........`@/
 ld l,AYA_D3,80
-……冗談じゃないわ。」\
-
+;……冗談じゃないわ。」\
+`....I'm not joking"`\
 
 ld r,IZA_D1,24
 ;ld r,IZA_D3,80
@@ -3582,16 +3588,16 @@ ld r,IZA_D1,24
 
 ld l,AYA_D8a,80
 
-「なら……。@さっさとこの世界から私を解放してよっ。@冗談じゃないわ。」\
-
+;「なら……。@さっさとこの世界から私を解放してよっ。@冗談じゃないわ。」\
+` Well....`@`....quickly free me from this world!`@`I'm not joking!"`\
 ld r,IZA_D4,80
 
 「仕方ねェさ。@俺の世界に引き込んだ以上、きっちり４９日は付き合わなくちゃならねェ。@それが俺のルールなんだ。@その間に、どれほどお前がマズい魂になっちまってもな。」\
 
 ld l,AYA_D3,80
 
-「いい気味だわ。@……ご愁傷さまっ。」\
-
+;「いい気味だわ。@……ご愁傷さまっ。」\
+`"That's a good feeling,`@`this sorrow"`\
 cl l,24
 
 wait 1000
@@ -3605,8 +3611,8 @@ bg black,25
 bg kaidan_01,22
 ld c,AYA_D7a,24
 
-「じゃあ、私になんか構わないで、とっととそうしなさいよ。」\
-
+;「じゃあ、私になんか構わないで、とっととそうしなさいよ。」\
+`"Well, it doesn't bother me. Hurry up and do it."`\
 cl c,24
 ld r,IZA_D3,22
 
@@ -3616,11 +3622,13 @@ bg black,23
 bg rouka_04,23
 
 「………お互い、何の得も意味もない放課後ね。@笑えるわ。」@
-「まったくだァ。@……だからだ。@お前に相談があるわけだ。」@
-「相談……？」@
+;「まったくだァ。@……だからだ。@お前に相談があるわけだ。」@
+`"Jeez.`@`That's why`@`there's something to discuss with you."`@
+;「相談……？」@
+`"Something to discuss?"`@
 br
-　私たちは、互いに足を止めることなく、会話を続ける。\
-
+;　私たちは、互いに足を止めることなく、会話を続ける。\
+` Without stopping our walk, we continue the conversation.`\
 bg black,23
 
 「俺はもう、お前に興味はねェし、お前だってこんなのが延々と続くのもウンザリのはずだァ。@だからだ。@こうしよう。@俺に捕まれ。」\
