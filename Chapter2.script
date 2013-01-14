@@ -3772,9 +3772,10 @@ br
 ;　生きる理由を、意味を価値を、目的を。@
 ` My reason, purpose, value and meaning of life.`@
 br
-　ただ死にたくないからと、生き延びるために走り続ける日々。@
-　……それは、無意味で無価値な日々のはず。\
-
+;　ただ死にたくないからと、生き延びるために走り続ける日々。@
+` The days I ran were just for the sake of surviving.`@
+;　……それは、無意味で無価値な日々のはず。\
+` ....those ought to be a meaningless, worthless days.`\
 bg black,23
 bg rouka_03,23
 
@@ -3784,40 +3785,46 @@ br
 　かつてのぼんやりとした何の意味もない日々に比べたら。@
 　今の、生き延びるために努力を重ねる日々の方が、@……まだ、ささやかな価値があるように思えるのだ。\
 
-　死にたくないなんて、誰だって当り前。@
-　そんなの、生きるための理由にはならないはず。@
+;　死にたくないなんて、誰だって当り前。@
+` Obviously anyone wouldn't want to die.`@
+;　そんなの、生きるための理由にはならないはず。@
+` You shouldn't have to have a reason to do that.`@
 br
-　生きるための理由というのは、……もっと崇高な目的とか使命とか、そういうもののはず。\
-
+;　生きるための理由というのは、……もっと崇高な目的とか使命とか、そういうもののはず。\
+` The reason for living should be a noble purpose or goal, something like that.`\
 bg black,23
 bg kaidan_01,23
 ld l,AYA_D2,23
 
-　……でも私は、死にたくないからというだけの理由で、……今日も生き延びている。@
-　それは、無意味で無価値な日々のはず。@
+;　……でも私は、死にたくないからというだけの理由で、……今日も生き延びている。@
+` ....but for me, only me reason of wanting to not die let me continue to live.`@
+;　それは、無意味で無価値な日々のはず。@
+` Those were meaningless, worthless days.`@
 br
-　……なら、死なせてもらえばいいはずなのに……。@
-　何が正しくて何が誤りなのか、……自分でもわからなくなってきた……。\
-
+;　……なら、死なせてもらえばいいはずなのに……。@
+` ....Even if it was alright to be laid to rest...`@`
+;　何が正しくて何が誤りなのか、……自分でもわからなくなってきた……。\
+` I myself didn't know what was correct and what was a mistake...`\
 bg black,24
 bg rouka_03,24
 ld c,IZA_D7,24
 
-「おらァ！@　ペースが落ちてるぞッ。@追い付かれるぞォ！！」\
-
+;「おらァ！@　ペースが落ちてるぞッ。@追い付かれるぞォ！！」\
+`"Hey~!`@`You've slowed down!`@`Hurry up!!"`\
 
 bg black,23
 bg kaidan_01,0
 ld l,AYA_D2,23
 ld l,AYA_D5a,80
 
-「ッ！」\
-
+;「ッ！」\
+`"Ah!"`\
 cl l,23
 bg black,23
 bg rouka_01,23
 
-　考え事をし過ぎた。@
+;　考え事をし過ぎた。@
+` I was lost in thought.`@
 　いつの間にかペースが落ちていて、イザナミがすぐ近くまで迫っていた。@
 br
 　イザナミが大鎌の柄で床をどんどんと叩き、ペースを上げろと怒鳴る。\
