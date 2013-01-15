@@ -3825,10 +3825,11 @@ bg rouka_01,23
 
 ;　考え事をし過ぎた。@
 ` I was lost in thought.`@
-　いつの間にかペースが落ちていて、イザナミがすぐ近くまで迫っていた。@
+;　いつの間にかペースが落ちていて、イザナミがすぐ近くまで迫っていた。@
+` As soon as I dropped my pace, before I knew it, Izanami had drawn close.`@
 br
-　イザナミが大鎌の柄で床をどんどんと叩き、ペースを上げろと怒鳴る。\
-
+;　イザナミが大鎌の柄で床をどんどんと叩き、ペースを上げろと怒鳴る。\
+` My hear beat as he drew near, and I picked up my pace once again.`\
 bg black,24
 bg kaidan_01,24
 ld c,IZA_D7,24
@@ -3839,10 +3840,13 @@ ld c,IZA_D7,24
 bg black,23
 bg rouka_02,23
 
-　私は前を向いたまま、力強く頷いた。@
-　彼の言う通りなのだ。@……余計なことは考えなくていい。@
+;　私は前を向いたまま、力強く頷いた。@
+` I nodded vigorously while facing forward.`@
+;　彼の言う通りなのだ。@……余計なことは考えなくていい。@
+` It was as he said.`@`...It was okay to not think of unnecessary things.`@
 br
-　人生の意味は何かと自問自答することそのものが、無意味で無価値なのではないのか。@
+;　人生の意味は何かと自問自答することそのものが、無意味で無価値なのではないのか。@
+` The meaning of life was something you had to ask yourself, about what was meaning and worthless.`@
 　そんな無意味なことで自分を苦しめるくらいなら、頭はカラッポの方がいい。\
 
 　さぁ、何も考えずにカラッポになろう。@ただ、走ることに集中しよう。@
