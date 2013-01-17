@@ -3847,30 +3847,36 @@ bg rouka_02,23
 br
 ;　人生の意味は何かと自問自答することそのものが、無意味で無価値なのではないのか。@
 ` The meaning of life was something you had to ask yourself, about what was meaning and worthless.`@
-　そんな無意味なことで自分を苦しめるくらいなら、頭はカラッポの方がいい。\
-
+;　そんな無意味なことで自分を苦しめるくらいなら、頭はカラッポの方がいい。\
+` If you tormented yourself with such meaningless things, an empty head would be fine.`\
 　さぁ、何も考えずにカラッポになろう。@ただ、走ることに集中しよう。@
+` Without thinking, I shall empty my head.`@`We'll just concentrate on running.`@
 br
-　そのカラッポの時が、一番、身も心も軽くなるのだ。\
-
+;　そのカラッポの時が、一番、身も心も軽くなるのだ。\
+` When empty, your body and soul became lighter.`\
 bg black,2
 
-　そんな日々が、何日も繰り返された。@
+;　そんな日々が、何日も繰り返された。@
+` Days like that occurred often.`@
 br
-　カレンダーに付けた、４９日目が次第に近づいて来る。@
-　その残り日数を数えることも、とても楽しかった。\
-
+;　カレンダーに付けた、４９日目が次第に近づいて来る。@
+` According to the calendar, day 49 was approaching.`@
+;　その残り日数を数えることも、とても楽しかった。\
+` Just counting the number of days that remained was fun.`\
 bg air_02,22
 
 fedexx 85,0,0,0,0,0,1000
 
-　毎日、頭をカラッポにして走り続け。@
+;　毎日、頭をカラッポにして走り続け。@
+` Every day, I continued to run and emptied my mind in the process.`@
 br
-　汗だくで帰宅して、お風呂に入り。@
-　いっぱいごはんを食べて、ばったりと布団に倒れて、夢も見ないほどにぐっすり眠った。@
+;　汗だくで帰宅して、お風呂に入り。@
+` I would home dripping with sweat and take a bath.`@
+;　いっぱいごはんを食べて、ばったりと布団に倒れて、夢も見ないほどにぐっすり眠った。@
+` I ate a lot of food, and collapsed into bed, sleeping so soundly that I didn't even dream.`@
 br
-　……そして、とうとう、４９日目を迎えた。\
-
+;　……そして、とうとう、４９日目を迎えた。\
+` ....and, finally, I reached the 49th day.`\
 bg black,2
 
 fede 0,2000
