@@ -3886,19 +3886,23 @@ bg koutei_01,2
 
 me1v 24,50
 
-　私は自分のことに精一杯だったので、学校の行事などはすっかり忘れていた。@
+;　私は自分のことに精一杯だったので、学校の行事などはすっかり忘れていた。@
+` With so much to do, I had completely forgotten about school events and the like.`@
 br
-　その日は、学年のマラソン大会の日だった。\
-
-　かつては大嫌いだったマラソン大会。@
-　しかし今はまったく問題にならない。@
+;　その日は、学年のマラソン大会の日だった。\
+` That was the day of the school marathon.`\
+;　かつては大嫌いだったマラソン大会。@
+` A marathon I once loathed.`@
+;　しかし今はまったく問題にならない。@
+` But now, it would be no problem at all.`@
 br
-　ひとりで校庭を走り回るか、みんなでマラソンをするか。@それだけの差だ。\
-
-　しっかり走って、今日の最後の試練に挑もう。@
+;　ひとりで校庭を走り回るか、みんなでマラソンをするか。@それだけの差だ。\
+` The only difference was that instead of running around the schoolyard alone,`@`I'd be running with others.`\
+;　しっかり走って、今日の最後の試練に挑もう。@
+` I'll run my heart out, and take on this last challenge.`@
 br
-　イザナミとの腐れ縁も、今日でおしまいだ。\
-
+;　イザナミとの腐れ縁も、今日でおしまいだ。\
+` My relationship with Izanami would end today.`\
 
 bg black,22
 bg koutei_05,0
@@ -3907,19 +3911,22 @@ ld r,IZA_D2,80
 
 E_A
 
-「いよォ。@/
+;「いよォ。@/
+`"Good.`@/
 me1v 5,50
-今日は最高の走り日和だなァ…！@　くっくくくっくくくく！！」@
-
+;今日は最高の走り日和だなァ…！@　くっくくくっくくくく！！」@
+` Today's weather is great for running!`@`Kukukukuku!"`@
 ld l,ay2_D5a,23
 ld l,ay2_D8a,80
 
-「………ッ！！@　ど、どうしてここに……？！」\
-
-　それは紛れもなく、イザナミだった。@
-　彼の物騒な姿はどうやら周りの人たちには見えていないらしい。@
-　放課後を待たずに現れるなんて、初めてのことだった。\
-
+;「………ッ！！@　ど、どうしてここに……？！」\
+`".......ah?!`@`W-why are you here?!"`\
+;　それは紛れもなく、イザナミだった。@
+` Without a doubt, it was Izanami.`@`
+;　彼の物騒な姿はどうやら周りの人たちには見えていないらしい。@
+` His unruly appearance didn't seem visible to the people walking around.`@
+;　放課後を待たずに現れるなんて、初めてのことだった。\
+` This was the first time he had shown up without me waiting after school.`\
 ld r,IZA_D3,80
 
 E_A
@@ -3929,27 +3936,30 @@ bgm1 15
 
 ld l,ay2_D5a,80
 
-「……まさか、今、………やる気なの……。」\
-
+;「……まさか、今、………やる気なの……。」\
+`".....no way. Now, I have motivation..."`\
 ld r,IZA_D5,80
 
 「そういうこった…！@　ずっと歩いてるばかりで、俺も飽きちまったァ！@　せっかくのマラソン大会だ。@今日は俺も走らせてもらうぜェ…！！」\
 
 ld l,ay2_D7a,80
 
-「ッ……………。」@
+;「ッ……………。」@
+`"ah........."`@
 br
-　彼がどれほどの速度で走れるのかはわからない。@
-　でも、大柄なその体格と長い足を思えば、かなりの速度で走れるのは間違いない。\
-
-　彼だって、毎日、１時間以上も早足で歩き続けているが、息一つ乱さないのだ。@
+;　彼がどれほどの速度で走れるのかはわからない。@
+` I didn't know for certain how fast he was able to run.`@
+;　でも、大柄なその体格と長い足を思えば、かなりの速度で走れるのは間違いない。\
+` But he surely would be able to run quickly, judging from that strapping physique and those long muscular legs.`\
+;　彼だって、毎日、１時間以上も早足で歩き続けているが、息一つ乱さないのだ。@
+` And he had walked for more than an hour every day without taking one breath.`@
 br
-　……相当の体力と脚力があるに違いない。\
-
+;　……相当の体力と脚力があるに違いない。\
+` He must have considerable leg strength and stamina.`\
 ld r,IZA_D2,80
 
-「怖ェか？」@
-
+;「怖ェか？」@
+`"Are you scared?"`@
 ld l,ay2_D4a,80
 
 「……………………。」\
