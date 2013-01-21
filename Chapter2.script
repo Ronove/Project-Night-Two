@@ -3962,44 +3962,46 @@ ld r,IZA_D2,80
 `"Are you scared?"`@
 ld l,ay2_D4a,80
 
-「……………………。」\
-
+;「……………………。」\
+`"..........."`\
 ld r,IZA_D4,80
 
-「安心しろィ。@捕まえても、安らかに死なせるって約束はきっちり守ってやるからよォ。」@
-
+;「安心しろィ。@捕まえても、安らかに死なせるって約束はきっちり守ってやるからよォ。」@
+`"Don't worry.`@`Even if you're caught, I'll still keep my promise to gently let you die."`@
 ld l,ay2_D7a,80
 
-「………冗談じゃない。」\
-
+;「………冗談じゃない。」\
+`"I'm not joking."`\
 ld r,IZA_D6,80
 
 「なら、せいぜい気合入れて走るこったなァ。@俺に捕まらずにゴールできたら、お前の勝ちだ。@捕まったら、……安らかに眠らせてやるぜェ。@くっくくくくく！」@
 br
-　イザナミは意地悪そうに笑い続けている。\
-
+;　イザナミは意地悪そうに笑い続けている。\
+` Izanami continued to laugh in a mean manner.`\
 cl l,24
 
-　私はそれを尻目に、少しでもスタートラインの前の方へ人ごみを掻き分けていく。\
-
+;　私はそれを尻目に、少しでもスタートラインの前の方へ人ごみを掻き分けていく。\
+` I was a little skeptical as I waded my way to the start line.`\
 cl r,0
 ld c,IZA_D3,24
 
-「２０を数えてから追っ掛けてやらァ。@その間に、せいぜい距離を稼いでおくことだぜェ。」\
-
+;「２０を数えてから追っ掛けてやらァ。@その間に、せいぜい距離を稼いでおくことだぜェ。」\
+`"I'm gonna count down from 20 before I come after you.`@`I'n the meantime try to distance yourself."`\
 bg black,22
 bg koutei_04,22
 
-　スタートライン前は、男子たちがごった返している。@
-　そんな中に混じろうとする女子は、私だけだった。@
+;　スタートライン前は、男子たちがごった返している。@
+` Boys crowded in front of the start line.`@
+;　そんな中に混じろうとする女子は、私だけだった。@
+` I was the only girl mixed among them.`@
 br
-　先生がピストルを構える。\
-
+;　先生がピストルを構える。\
+` A teacher held up a pistol.`\
 fede 0,1000
 E_A
 
-「途中、歩いてもいいからな…！@　しっかり完走だけはしろよ！！@　よーい、」\
-
+;「途中、歩いてもいいからな…！@　しっかり完走だけはしろよ！！@　よーい、」\
+`"It's alright to walk along the way!`@`All that matters is that you finish!!"`\
 me1v 17,90
 
 　頑張って辿り着いた、今日。@
