@@ -4004,15 +4004,20 @@ E_A
 `"It's alright to walk along the way!`@`All that matters is that you finish!!"`\
 me1v 17,90
 
-　頑張って辿り着いた、今日。@
-　それを絶対に無駄にしない。@
+;　頑張って辿り着いた、今日。@
+` I had worked hard to reach this day.`@
+;　それを絶対に無駄にしない。@
+` I wouldn't waste those efforts.`@
 br
-　絶対に、……生き残ってやる。\
-
-　………痛いくらいの沈黙が、先生の構えるピストルの引き金に注視させる。@
+;　絶対に、……生き残ってやる。\
+` I was going to survive....definitely.`\
+;　………痛いくらいの沈黙が、先生の構えるピストルの引き金に注視させる。@
+` How much longer was I going to have to stare at the pistol held up by the teacher, ready to pull the trigger?`@
 br
-　そして、……数瞬の沈黙を、乾いた火薬音が打ち破る。@
-　その瞬間、数百人の生徒たちが、一斉に走り出す。\
+;　そして、……数瞬の沈黙を、乾いた火薬音が打ち破る。@
+` The silence was broken by the sound of dry gunpowder.`@
+;　その瞬間、数百人の生徒たちが、一斉に走り出す。\
+` At that moment, hundreds of students started running.`\
 E_A
 bgm1 21
 
@@ -4026,17 +4031,19 @@ ld c,IZA_D6,80
 
 bg black,22
 
-　イザナミの体は、見えない人間には透けるらしい。@
-　２０を数える彼の体をすり抜け、大勢の生徒たちの波が走り出していく。\
-
+;　イザナミの体は、見えない人間には透けるらしい。@
+` Izanami's body seemed transparent to the other humans--they didn't appear to be able to see him.`@
+;　２０を数える彼の体をすり抜け、大勢の生徒たちの波が走り出していく。\
+` I could count as many as 20 students slipping through his body as waves of hundreds of runners passed by.`\
 ;bg black,24
 ;bg gakkou_05,22
 bg ura7,24
 
-　人ごみに飲み込まれたら、自分のペースで走れなくなる。@
+;　人ごみに飲み込まれたら、自分のペースで走れなくなる。@
+` I was swept up in the crowd, unable to run at my own pace.`@
 br
-　私は先頭集団に混じって、かなり速いペースで走り出した。\
-
+;　私は先頭集団に混じって、かなり速いペースで走り出した。\
+` But since I was mixed with the leading pack of students, I felt myself running pretty fast.`\
 bg black,22
 bg roji_03a,22
 
