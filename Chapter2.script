@@ -4048,15 +4048,19 @@ bg black,22
 bg roji_03a,22
 
 
-　……今日まで、持久力はかなり付けたと思う。@
-　でも、スピードに関しては意識したことがない。@
-　だから、このスタートダッシュは、やや無理をしていた。@
-　でもいい。@とにかく、人ごみからさえ逃れられれば、あとは自分のペースで走れる。\
-
-　最初くらいは一位気分を味わいたいと、@威勢良くスタートダッシュをした男子たちは、次々に体力切れで脱落していく。@
+;　……今日まで、持久力はかなり付けたと思う。@
+` ....I think that until today, my stamina had been fine.`@
+;　でも、スピードに関しては意識したことがない。@
+` But I wasn't so sure of my speed.`@
+;　だから、このスタートダッシュは、やや無理をしていた。@
+` So this starting dash was somewhat unreasonable.`@
+;　でもいい。@とにかく、人ごみからさえ逃れられれば、あとは自分のペースで走れる。\
+` But it's okay.`@`If I can escape from the crowd, then I can run at my own pace.`\
+;　最初くらいは一位気分を味わいたいと、@威勢良くスタートダッシュをした男子たちは、次々に体力切れで脱落していく。@
+` The men that want first place will make a spirited starting dash,`@` but then will temporarily be out of stamina.`@
 br
-　私は脱落しない。@……あんたたちとは鍛え方が違うんだからっ。\
-
+;　私は脱落しない。@……あんたたちとは鍛え方が違うんだからっ。\
+` I won't fall by the wayside.`@`...I trained differently to them.`\
 bg black,23
 
 　やがて、運動部で鍛えられた生徒だけになって、先頭集団もまばらになると、@私は速度を落とし、いつものペースを取り戻した。\
@@ -4065,13 +4069,17 @@ bg black,23
 bg roji_04a,0
 ld c,IZA_D6,23
 
-　後を振り返ると。@…………居た。@
-　イザナミが私を追って来ているのが見えた。@
+;　後を振り返ると。@…………居た。@
+` Looking back on it later,`@`....I stayed.`@
+;　イザナミが私を追って来ているのが見えた。@
+` I saw Izanami chasing me.`@
 br
-　その速度は、決して速過ぎるものではない。@
+;　その速度は、決して速過ぎるものではない。@
+` But at not too fast a rate.`@
 　私が自分のペースを守ることが出来れば、リードを守ることは充分に可能だった。\
 
-　本当は、もっと早く走ることも出来るのだろう。@
+;　本当は、もっと早く走ることも出来るのだろう。@
+` Really, couldn't he run faster?`@
 　イザナミは捕まえることより、追い回すことを好む。@
 　きっと、最後の最後まで、ぎりぎりの速度で私を追い上げ続けるに違いない。\
 
