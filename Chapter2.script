@@ -4080,66 +4080,78 @@ br
 
 ;　本当は、もっと早く走ることも出来るのだろう。@
 ` Really, couldn't he run faster?`@
-　イザナミは捕まえることより、追い回すことを好む。@
-　きっと、最後の最後まで、ぎりぎりの速度で私を追い上げ続けるに違いない。\
-
+;　イザナミは捕まえることより、追い回すことを好む。@
+` He preferred the chase to the catch.`@
+;　きっと、最後の最後まで、ぎりぎりの速度で私を追い上げ続けるに違いない。\
+` He was going to play catch-up up until the last minute.`\
 ld c,IZA_D2,80
 
 「すっかり体力を付けたなァ。@お前が今抜いたヤツ、男子だぜェ？@　お前、その辺の部活やってる男子より体力つけてるぞォ。」@
 br
 　……お陰様で。@皮肉を言ってやりたいが、呼吸のペースが乱れるので、口には出さなかった。@
-　それに、どうやらイザナミは、私が口に出さなくても心の声が聞こえるらしい。\
-
+;　それに、どうやらイザナミは、私が口に出さなくても心の声が聞こえるらしい。\
+` And, somehow, Izanami seemed able to hear my voice from my heart, even when I didn't open my mouth.`\
 ld c,IZA_D3,80
 
-「まだ、お前は考えてるのかァ？」@
+;「まだ、お前は考えてるのかァ？」@
+`"Are you still thinking?"`@
 br
-　……何を。\
-
+;　……何を。\
+`....about what?`\
 ld c,IZA_D5,80
 
-「生きることの意味だの価値だの。@そんな下らねェことをだよォ。」@
+;「生きることの意味だの価値だの。@そんな下らねェことをだよォ。」@
+`"The meaning of life.`@`Trivial things like that."`@
 br
-　……あんたのお陰で、それを考える暇もないのよ。\
-
+;　……あんたのお陰で、それを考える暇もないのよ。\
+`....thanks to you I don't have time to think about it.`\
 ld c,IZA_D2,80
 
-「なら良かったじゃねェか。@その暇がなくてよォ。」@
+;「なら良かったじゃねェか。@その暇がなくてよォ。」@
+`"Well isn't that good?`@`That you don't have the time to think?"`@
 br
-　何が良かったのよ。\
-
+;　何が良かったのよ。\
+` What's good about that?"`\
 ld c,IZA_D3,80
 
-「それを毎日考えちまうから、苦しかったんだろォ？」@
+;「それを毎日考えちまうから、苦しかったんだろォ？」@
+`"Isn't thinking about that every day painful?"`@
 br
-　……………………。\
-
+;　……………………。\
+`...........`\
 ld c,IZA_D1,80
 
 「その苦しみに耐えられなくて、お前は死にたいと願ったんだろォ？@　なら、良かったじゃねェか。@俺のお陰で、お前は下らねェことを考える暇がなくなったってェわけだ。」\
 
 bg black,24
 
-　…………そうかもね。@
+;　…………そうかもね。@
+`.....maybe that's so.`@
 br
-　下手の考え、休むに似たりって諺があるもんね。@
-　考えても無駄なことって、世の中にはきっとある。@
-　多分、人生の意味や価値なんて、一見高尚そうなことも、@考えるだけ無意味で無価値なことに違いない。\
-
+;　下手の考え、休むに似たりって諺があるもんね。@
+` There's a saying that goes 'bad thoughts are like resting'.`@
+;　考えても無駄なことって、世の中にはきっとある。@
+` Even if you think about it, useless things will remain in the world.`@
+;　多分、人生の意味や価値なんて、一見高尚そうなことも、@考えるだけ無意味で無価値なことに違いない。\
+` At first glance the meaning and value of life seem like noble things to have,`@`but just thinking about it reveals how worthless and meaningless such things actually are.`\
 ;bg black,24
 bg air_02,24
 
-　そんな下らないことを考える暇があったなら。@
+;　そんな下らないことを考える暇があったなら。@
+` If there was time to think of such trivial things,`@
 br
-　……勉強したり、運動したり。@美味しく給食を食べてお代わりしたり。@
-　思いっきり汗を流して、シャワーを浴びてすっきりして。@
-　夜は布団の柔らかさを全身で楽しんで、ぐっすり眠った方が、遥かにマシなのだ。\
-
+;　……勉強したり、運動したり。@美味しく給食を食べてお代わりしたり。@
+`....studying, exercising,`@`Or eating delicious meals.`@
+;　思いっきり汗を流して、シャワーを浴びてすっきりして。@
+` Sweating buckets and washing off in the shower.`@
+;　夜は布団の柔らかさを全身で楽しんで、ぐっすり眠った方が、遥かにマシなのだ。\
+` And enjoying the softness of the futon in the evening.`\
 　私はかつて、@生きることの意味を考えようともしない人たちのことを、愚かだなと見下したことがある。@
 br
 　そんな哲学的なことで頭をいっぱいにする自分は、どんなに高尚かと自惚れていたかもしれない。\
 
-　しかし、今になると思う。@
+;　しかし、今になると思う。@
+` However, now I think it will be.`@
 br
 　馬鹿馬鹿しかった。@
 　自分の生きる意味？@　価値？@
