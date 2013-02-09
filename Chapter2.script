@@ -4153,31 +4153,39 @@ br
 ;　しかし、今になると思う。@
 ` However, now I think it will be.`@
 br
-　馬鹿馬鹿しかった。@
-　自分の生きる意味？@　価値？@
-　そんなこと考える暇があったら、もっともっとやるべきことが、世の中にはいっぱいあった。\
-
+;　馬鹿馬鹿しかった。@
+` This was absurd.`@
+;　自分の生きる意味？@　価値？@
+` One's own meaning of life?`@` Or value?`@
+;　そんなこと考える暇があったら、もっともっとやるべきことが、世の中にはいっぱいあった。\
+` When I have time to think of that, I realize that there's so much other work that ought to be done first`\
 bg kyou_01,22
 
-　学校は勉強して運動して、遊んで笑うところでしょ。@
+;　学校は勉強して運動して、遊んで笑うところでしょ。@
+` Like studying, exercising and laughing at school.`@
 br
-　私は何をしてた？@　毎日ぼんやりとして、勉強もせず運動もせず、遊びもせず笑いもせず。@
+;　私は何をしてた？@　毎日ぼんやりとして、勉強もせず運動もせず、遊びもせず笑いもせず。@
+` What was I doing?`@`Every day I was daydreaming--not exercising, studying, laughing or playing.`@
 　なのに、人生の意味なんて、馬鹿馬鹿しいことで頭をいっぱいにして、@自分は高尚な人間だと自惚れていた。\
 
 bg black,22
 
-　私、やっとわかったかもしれない。@……人生の、意味。@
+;　私、やっとわかったかもしれない。@……人生の、意味。@
+` I....I think I understand it now...`@`...that meaning of life.`@
 br
-　“死にたくないから生きる”で、充分なんだ。\
-
-　人が生きると書いて、人生。@
+;　“死にたくないから生きる”で、充分なんだ。\
+` "Living because you don't want to die". That's enough of a meaning.`\
+;　人が生きると書いて、人生。@
+` The characters for 'person' and 'living' written together make 'life'.`@
 br
-　人は、ただ生きているだけで、立派に意味と価値があるんだ。@
-　そしてさらに人生に意味や価値が求めたいなら、……さらに今を精一杯、生きればいい。\
-
+;　人は、ただ生きているだけで、立派に意味と価値があるんだ。@
+` People, just by living, admirably have their own meaning of life.`@
+;　そしてさらに人生に意味や価値が求めたいなら、……さらに今を精一杯、生きればいい。\
+` And if you want more meaning in life, you just have to live it to its fullest.`\
 bg ura5,24
 
-　学ぶ。@遊ぶ。@笑う。@怒る。@泣く。@何でもいい。@精一杯精一杯。@
+;　学ぶ。@遊ぶ。@笑う。@怒る。@泣く。@何でもいい。@精一杯精一杯。@
+` Learn.`@` Laugh.`@` Be angry.`@` Cry.`@` Anything is good.`@` Live life to the max.`@
 br
 　それを全力でやり尽くして生きることそのものが、人間の価値なのだ。\
 
