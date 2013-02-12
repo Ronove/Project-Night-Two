@@ -4187,27 +4187,33 @@ bg ura5,24
 ;　学ぶ。@遊ぶ。@笑う。@怒る。@泣く。@何でもいい。@精一杯精一杯。@
 ` Learn.`@` Laugh.`@` Be angry.`@` Cry.`@` Anything is good.`@` Live life to the max.`@
 br
-　それを全力でやり尽くして生きることそのものが、人間の価値なのだ。\
-
+;　それを全力でやり尽くして生きることそのものが、人間の価値なのだ。\
+` The value of humans is in being able to live after exhausting all of these things.`\
 bg black,24
 bg roji_03a,24
 
-「あやァ！！@　またペースが落ちてるぞォ！！@　下らねェことで頭を満たすな！！@　カラッポにしろ！@　考えるんじゃねェッ、カラッポで走れぇええ！！」@
-「…………………！！」\
-
-　イザナミの声が近い。@
-　またぼんやりしてペースが落ちていたらしい。@
+;「あやァ！！@　またペースが落ちてるぞォ！！@　下らねェことで頭を満たすな！！@　カラッポにしろ！@　考えるんじゃねェッ、カラッポで走れぇええ！！」@
+`"Aya!!`@`Drop your speed already!!`@`Don't fill your head with such trivial things!`@`Keep it empty!`@`Don't think, just run in emptiness!!"`@
+;「…………………！！」\
+`"..........!!"`\
+;　イザナミの声が近い。@
+` Izanami's voice was near.`@
+;　またぼんやりしてペースが落ちていたらしい。@
+` But it seemed that he had slowed his pace.`@
 br
-　彼の言う通りだ。@……下らないことは頭にいらない。@全て追い出し、カラッポにしよう。@
-　頭も心も、そして体もカラッポにして軽くするんだ……。\
-
+;　彼の言う通りだ。@……下らないことは頭にいらない。@全て追い出し、カラッポにしよう。@
+` But he's right.`@`...I don't need this sort of stuff filling up my head.`@`I'll cast it all away.`@
+;　頭も心も、そして体もカラッポにして軽くするんだ……。\
+` I will gently clean out my head, heart and body...`\
 bg black,24
 bg roji_04a,24
 
 me1v 5,85
 
-　頭の中が、すぅっと澄んでいく感触……。@
-　体の中が空洞になり、羽にでもなった気がする。@
+;　頭の中が、すぅっと澄んでいく感触……。@
+` In my head, there was a feeling of clarity...`@
+;　体の中が空洞になり、羽にでもなった気がする。@
+` I felt as though my body had wings.`@
 　目線は自然と遥か彼方へ。@……呼吸も穏やかなものになっていく。\
 
 　足はどんどん軽くなる。@行ける、行ける、……まだまだ行ける……。@
@@ -4218,7 +4224,8 @@ br
 bg black,24
 bg gakkou_01a,24
 
-　角を曲がると、再び学校が見えてくる。@
+;　角を曲がると、再び学校が見えてくる。@
+` Once I turned the corned, the school would once again come into view.`@
 br
 　あの校門がゴールだ。@あと、ほんの数百メートル。\
 
