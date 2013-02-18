@@ -4216,6 +4216,7 @@ me1v 5,85
 ` I felt as though my body had wings.`@
 　目線は自然と遥か彼方へ。@……呼吸も穏やかなものになっていく。\
 
+
 　足はどんどん軽くなる。@行ける、行ける、……まだまだ行ける……。@
 　陸上部の男子が抜かれ、驚きの目を向ける。@
 br
@@ -4225,22 +4226,27 @@ bg black,24
 bg gakkou_01a,24
 
 ;　角を曲がると、再び学校が見えてくる。@
-` Once I turned the corned, the school would once again come into view.`@
+` Once I turned the corner, the school would once again come into view.`@
 br
-　あの校門がゴールだ。@あと、ほんの数百メートル。\
-
+;　あの校門がゴールだ。@あと、ほんの数百メートル。\
+` That gate was the goal.`@`Just a hundred meters more.`\
 bg black,1
 
-「あやァ！！@　ラストスパートォ！！@　最後の気合、俺に見せてみやがやれェ！！」@
-「………………ッッ！！！」\
-
-　今日は残り時間も、イザナミの距離も、上り階段も下り階段も何も気にしなくていい。@
+;「あやァ！！@　ラストスパートォ！！@　最後の気合、俺に見せてみやがやれェ！！」@
+`"Aya!!`@`This is the last stretch!!`@`Show me your fighting spirit until the end!!"`@
+;「………………ッッ！！！」\
+`".........!!!"`\
+;　今日は残り時間も、イザナミの距離も、上り階段も下り階段も何も気にしなくていい。@
+` Today I don't have to worry about the time remaining, Izanami's distance, or the staircases I have the climb up and down.`@
 br
-　ゴールすれば全て終わりだ。@何も何も、残さなくていい。\
-
-　走り抜けよう。@体の中の全てを吐き出そう。@
-　後先なんか考えなくていい。@下らない自問自答に、二度と心を満たさなくていい。@
-　全部全部、カラッポの境地。\
+;　ゴールすれば全て終わりだ。@何も何も、残さなくていい。\
+` It's all over once I reach the goal.`@`It's alright if nothing is left back.`\
+;　走り抜けよう。@体の中の全てを吐き出そう。@
+` Let's keep running.`@`I'll spend everything my body has.`@
+;　後先なんか考えなくていい。@下らない自問自答に、二度と心を満たさなくていい。@
+` It was fine to ignore the consequences.`@`
+;　全部全部、カラッポの境地。\
+` Everything was on the empty horizon.`\
 
 ;bg white,2
 bg gakkou_01a,2
@@ -4249,8 +4255,8 @@ flushout 5000
 
 bg black,42
 
-　……私は、………風になった………。\
-
+;　……私は、………風になった………。\
+` I became the wind.`\
 fede 1,4000
 E_B
 
@@ -4261,7 +4267,8 @@ bg air_02,2
 
 
 
-　最後の１００メートルは頭が真っ白で、何も記憶にない。@
+;　最後の１００メートルは頭が真っ白で、何も記憶にない。@
+` For the last hundred meters, my head was completely blank--I didn't remember anything.`@
 br
 　気付いた時。@私は校庭にぶっ倒れ、大の字になって、青空を見上げていた。\
 
