@@ -4244,7 +4244,7 @@ br
 ;　走り抜けよう。@体の中の全てを吐き出そう。@
 ` Let's keep running.`@`I'll spend everything my body has.`@
 ;　後先なんか考えなくていい。@下らない自問自答に、二度と心を満たさなくていい。@
-` It was fine to ignore the consequences.`@`
+` It was fine to ignore the consequences.`@
 ;　全部全部、カラッポの境地。\
 ` Everything was on the empty horizon.`\
 
@@ -4270,68 +4270,77 @@ bg air_02,2
 ;　最後の１００メートルは頭が真っ白で、何も記憶にない。@
 ` For the last hundred meters, my head was completely blank--I didn't remember anything.`@
 br
-　気付いた時。@私は校庭にぶっ倒れ、大の字になって、青空を見上げていた。\
-
-　全身は汗でびっしょり。@胸は激しく上下し、肺はまだまだ爆発しそうに熱かった。@
+;　気付いた時。@私は校庭にぶっ倒れ、大の字になって、青空を見上げていた。\
+` When I came to,`@`I was sprawled out on the ground in the schoolyard, looking up at the blue sky`\
+;　全身は汗でびっしょり。@胸は激しく上下し、肺はまだまだ爆発しそうに熱かった。@
+` My whole body was drenched in sweat.`@`My chest was moving up and down with labored breath as my lungs felt on the verge of explosion.`@
 br
-　でも、………目の前いっぱいに広がる青空のように、……身も心も、全てが晴れやかで、@……広大な広大な、清々しいカラッポだった。\
-
+;　でも、………目の前いっぱいに広がる青空のように、……身も心も、全てが晴れやかで、@……広大な広大な、清々しいカラッポだった。\
+` But....like the expanding sky in front my eyes,`@` my body, soul, everything was radiant, and refreshingly empty.`\
 fede 0,1000
 E_A
 
-　そんな私の目の前に、ずいっと大きな手が突き出される。@
-　咄嗟にそれを、握ってしまう。@
+;　そんな私の目の前に、ずいっと大きな手が突き出される。@
+` It was like a big hand was reaching out to me.`@
+;　咄嗟にそれを、握ってしまう。@
+` I grasp it for a moment.`@
 bgm1 4
-　大きな分厚い手だった。@
+;　大きな分厚い手だった。@
+` It's a big, thick hand.`@
 br
-　そして、それが死神の手であったことに気付く。@
+;　そして、それが死神の手であったことに気付く。@
+` And then I realize it's attached to the Shinigami.`@
 br
-　イザナミはぐいっと引っ張り、あやの上体を起こしてくれた。\
-
+;　イザナミはぐいっと引っ張り、あやの上体を起こしてくれた。\
+` Izanami pulled, and raised my--Aya's--upper body.`\
 bg black,22
 bg koutei_01,22
 ld r,IZA_D4,22
 
 
-「……今、どんな気持ちだァ。」@
-
+;「……今、どんな気持ちだァ。」@
+`"...What do you feel now?"`@
 ld l,ay2_D11,26
 
-「全部カラッポで、………自分が青空になったみたいな気持ち、……です。」\
-
+;「全部カラッポで、………自分が青空になったみたいな気持ち、……です。」\
+`"I feel empty.....like a blue sky..."`\
 ld r,IZA_D1,80
 
-「カラッポは最高だろ。@走って走って走りまくりゃ。@誰だってカラッポになれるんだ。」@
-
+;「カラッポは最高だろ。@走って走って走りまくりゃ。@誰だってカラッポになれるんだ。」@
+`"Emptiness is probably best.`@`You ran and ran and ran.`@`Anyone can become empty if they do that."`@
 ld l,ay2_D10,80
 
-「……はい。@……最高です。」@
+;「……はい。@……最高です。」@
+`"Yeah, it's probably for the best."`@
 br
-　不思議だった。@
-　あれだけ怯えた死神なのに、……まるで先生であるかのように、敬語で答えてしまう。\
-
+;　不思議だった。@
+` It was strange.`@
+;　あれだけ怯えた死神なのに、……まるで先生であるかのように、敬語で答えてしまう。\
+` Even though he was just a frightened Shinigami...he spoke politely, just like a teacher.`\
 
 ld r,IZA_D3,80
 
-「な？@　人が生きる意味なんて、理由なんて。@そんな馬鹿馬鹿しいモン、どうでもいいだろォ？」@
-
+;「な？@　人が生きる意味なんて、理由なんて。@そんな馬鹿馬鹿しいモン、どうでもいいだろォ？」@
+`"Right?`@`The meaning and reason for people to live.`@`You're fine with or without them, right?"`@
 ld l,ay2_D9,80
 
-「はい。@……そんなもの、……すごくどうでもよくて、……馬鹿馬鹿しいです。」\
-
+;「はい。@……そんなもの、……すごくどうでもよくて、……馬鹿馬鹿しいです。」\
+`"Yes.`@`...such things are ridiculous at best."`\
 cl r,0
 mld c,IZA_D1,24
 
-「人間はなァ。@がむしゃらに走って、頭をカラッポにするくらいでちょうどいいんだよ。@お前の人生はこれからも長い。@また、おかしなことで頭をいっぱいにしちまうこともあるだろうよ。@………その時はどうすればいいか、わかってンな。」\
-
+;「人間はなァ。@がむしゃらに走って、頭をカラッポにするくらいでちょうどいいんだよ。@お前の人生はこれからも長い。@また、おかしなことで頭をいっぱいにしちまうこともあるだろうよ。@………その時はどうすればいいか、わかってンな。」\
+`"Humans.`@`When running recklessly, it's alright to empty your head once in a while.`@`Your life is going to be long.`@`But along the way, you'll pick up so weird, useless things in that head of yours.`@`When that happens, you know what to do, right?"`\
 mcl c,0
 bg black,22
 bg air_02,22
 
-「はい。@……走って走って、……また頭をカラッポにします。」@
-「そうだァ！@　いいだろ、走るってのはァ！！」@
-「………はいっ。」\
-
+;「はい。@……走って走って、……また頭をカラッポにします。」@
+`"Yep!`@` I'll run and run...and empty my head of all those things!"`@
+;「そうだァ！@　いいだろ、走るってのはァ！！」@
+`"Exactly!`@`Running is good!!"`@
+;「………はいっ。」\
+`"...Yes."`\
 mov %IZA_Isyou,2
 bg black,22
 bg koutei_01,0
