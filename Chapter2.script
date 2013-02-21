@@ -4353,28 +4353,34 @@ ld r,IZA_D6,80
 
 ld l,ay2_D10,80
 
-「……私、走るの。@………好きになりました。@……先生。」\
-
-　イザナミの姿はいつの間にか、死神のマント姿ではなくなっていた。@
-　手に持っていたはずの大鎌は、竹刀に代わり。@……漆黒のマントは、ジャージに代わっていた……。\
-
+;「……私、走るの。@………好きになりました。@……先生。」\
+`"...I`@`...grew to love running.`@`Sensei."`\
+;　イザナミの姿はいつの間にか、死神のマント姿ではなくなっていた。@
+` Without my noticing, Izanami had stopped wearing his Shinigami cloak.`@
+;　手に持っていたはずの大鎌は、竹刀に代わり。@……漆黒のマントは、ジャージに代わっていた……。\
+` Instead of a scythe, he carried a stick of bamboo.`@`...and instead of a cloak, he wore a black jersey...`\
 bg black,22
 bg air_02,22
 
 　担任や他の先生たちも彼女のもとへ集まり、相馬あやの意外な大健闘を絶賛してくれた。@
-　彼女が休み時間の度に校庭を走っていたのは、すでに有名な話。@
-　その成果を存分に発揮した成績は、運動部に所属する生徒たちに並ぶものであった。@
+;　彼女が休み時間の度に校庭を走っていたのは、すでに有名な話。@
+` The story of the girl that ran every break time was already famous.`@
+;　その成果を存分に発揮した成績は、運動部に所属する生徒たちに並ぶものであった。@
+` The results were seen in how many other students started to learn to exercise themselves.`@
 br
-　こんなにも寄って集って褒められた経験などない。\
-
-「……ありがとう。先生。」@
-「生きろよォ、あやァ…！！！@　立ち止まったら、そのケツ、俺の竹刀でぶっ叩いてやるからなァ！」@
-「はいっ。」\
-
-　気持ちのいい風が、彼女の火照りを冷ます。@
+;　こんなにも寄って集って褒められた経験などない。\
+` No such experience gathered this much praise.`\
+;「……ありがとう。先生。」@
+`"Thank you, Sensei"`@
+;「生きろよォ、あやァ…！！！@　立ち止まったら、そのケツ、俺の竹刀でぶっ叩いてやるからなァ！」@
+`"Live, Aya!!`@`If you stop, I'll whack your ass with my bamboo!"`@
+;「はいっ。」\
+`"Yes."`\
+;　気持ちのいい風が、彼女の火照りを冷ます。@
+` A pleasant wind cooled the girl's burning sensation.`@
 br
-　あやは夢を見るような心地で、いつまでも青空を見上げているのだった……。\
-
+;　あやは夢を見るような心地で、いつまでも青空を見上げているのだった……。\
+` Dream-like, Aya looked up at the blue sky forever...`\ 
 
 mov %SIN_Isyou,2
 bg black,42
@@ -4388,26 +4394,27 @@ ld r,SIN_D1,22
 
 bgm1 1
 
-「立派な熱血教師ぶりですねぇ。」@
+;「立派な熱血教師ぶりですねぇ。」@
+`"What a good first-time teacher"`@
 ;＜教頭（紅茶紳士）
 
 ld l,IZA_D1,22
 ld l,IZA_D2,80
 
-「何だ、教頭かよ。@人が悪ィな。@ずっと見てやがったなァ？」@
-
+;「何だ、教頭かよ。@人が悪ィな。@ずっと見てやがったなァ？」@
+`"What is it now, Vice Principal?`@`People are reprehensible, aren't they?`@`Have you been watching all this time?"`@
 ld r,SIN_D3,80
 
-「くっくっくっく。@気にしないことです。@子供たちを見守るのが、私たちの仕事ですから。」\
-
+;「くっくっくっく。@気にしないことです。@子供たちを見守るのが、私たちの仕事ですから。」\
+`"kukukuku.`@`Don't worry.`@`Watching over all you children is my job."`\
 ld l,IZA_D3,80
 
 「釣り逃がしちまったが、あやはもう、お前の獲物にもならねェぞ。@あいつはもう、妄想に逃げるようなクソ落ち目じゃねェ。」\
 
 ld r,SIN_D2,80
 
-「そのようですねぇ。@……先に目を付けたのが私だったら、@彼女を素敵な夢の世界に招待できたのですが。」\
-
+;「そのようですねぇ。@……先に目を付けたのが私だったら、@彼女を素敵な夢の世界に招待できたのですが。」\
+`"That's right.`@`...If it had been me to appear before her earlier,`@`I would have taken her away to the world of her dreams."`\
 cl l,0
 mld c,IZA_D5,23
 
@@ -4415,8 +4422,8 @@ mld c,IZA_D5,23
 
 ld r,SIN_D1,80
 
-「くっくっく。@私のことなど、気にしないことです。@さて。@……狙っていた相馬あやも、すっかり美味ではなくなってしまいましたからねぇ。@また、新しい獲物を探しましょう。@そして、早く夢の世界へ連れ去って、あなたの手が届かないようにしなくては。」\
-
+;「くっくっく。@私のことなど、気にしないことです。@さて。@……狙っていた相馬あやも、すっかり美味ではなくなってしまいましたからねぇ。@また、新しい獲物を探しましょう。@そして、早く夢の世界へ連れ去って、あなたの手が届かないようにしなくては。」\
+`"Kukuku.`@`Don't worry about me.`@`Well then`@`....that Aya Souma you're aiming at....she doesn't taste very good.`@`I'd recommend looking for another prey.`@`Now, quickly, reach out your hands and carry me to the world of dreams."`\
 mld c,IZA_D2,80
 
 「けっ。@何が夢の世界だ。@俺がケツを引っ叩いて、現実に叩き戻してやるぜェ。」\
@@ -4427,7 +4434,8 @@ bg koutei_04,0
 ld l,HOK_D1,23
 ld l,HOK_D3,80
 
-「教頭先生～。@表彰式が始まりますよ。@先生方が呼んでまーす。」\
+;「教頭先生～。@表彰式が始まりますよ。@先生方が呼んでまーす。」\
+`"Vice Principal~!`@`The award ceremony has started.`@`They're calling for you."`\
 ;＜保健の先生
 
 bg black,24
@@ -4437,22 +4445,23 @@ ld l,IZA_D2,24
 
 ld r,SIN_D2,80
 
-「……では失礼。@あなたとの決着はいずれ。」\
-
+;「……では失礼。@あなたとの決着はいずれ。」\
+`"Well then excuse me.`@`We'll settle this later."`\
 cl r,23
 
 ld l,IZA_D5,80
 
-「知るか。@紅茶でも啜ってやがれ。」\
-
+;「知るか。@紅茶でも啜ってやがれ。」\
+`"I know.`@`I'm even sipping tea"`\
 bg black,22
 bg koutei_04,0
 ld l,SIN_D2,0
 ld r,AY2_D11,2
 
-　上位１００人には、入賞のメダルが与えられる。@
-　プラスチック製のチープなそれも、@あやにとっては、４９日間を生き抜いて生まれ変わったことを讃える、立派なメダルになるだろう。\
-
+;　上位１００人には、入賞のメダルが与えられる。@
+` The winner's medal was given to the one who beat the 100 other competitors.`@
+;　プラスチック製のチープなそれも、@あやにとっては、４９日間を生き抜いて生まれ変わったことを讃える、立派なメダルになるだろう。\
+` It was cheap plastic,`@`but Aya wore it as a reborn, fine medal as praise for her 49 day survival.`\
 cl l,0
 ld c,SIN_D3,23
 wait 1000
@@ -4474,8 +4483,8 @@ cl c,22
 bg white,29
 bg air_02,29
 
-「けっ。@すっかり不味そうな魂になっちまいやがったァ。@……生きろよ、あやァ！！」\
-
+;「けっ。@すっかり不味そうな魂になっちまいやがったァ。@……生きろよ、あやァ！！」\
+`"Tch.`@`You really have a distasteful soul.`@`Live, Aya!!"`\
 
 
 bg black,42
