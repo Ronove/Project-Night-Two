@@ -1,25 +1,26 @@
 ;Chapter 3
-「毬枝ー。@栗饅頭が食べたいわ。@探してきてちょうだい、５分で。@あと、今日はほうじ茶の気分だわ。@それも一緒にお願いねー。」@
+;「毬枝ー。@栗饅頭が食べたいわ。@探してきてちょうだい、５分で。@あと、今日はほうじ茶の気分だわ。@それも一緒にお願いねー。」@
+`"Marie.`@`I feel like eating chestnut cake today.`@`Go and have a look for it in five minutes.`@`Oh, and after I want roasted tea.`@`Get that for us as well won't you?"`@
 br
-　彼岸花は、保健室のベッドの上で、実にだらしない格好でくつろぎながら、ぞんざいに言う。\
-
+;　彼岸花は、保健室のベッドの上で、実にだらしない格好でくつろぎながら、ぞんざいに言う。\
+` Higanbana was lying untidily on the bed in the infirmary, saying offhanded remarks.`\
 
 
 ld l,MAR_D3a,23
 
-「も、もー、彼岸花さんっ……。@女の子なのに、そんな格好、はしたないですよっ。」\
-
+;「も、もー、彼岸花さんっ……。@女の子なのに、そんな格好、はしたないですよっ。」\
+`"Ah, Higanbana-san...`@`Even though you're a lady, why do you let yourself look so?`@`It's disgraceful."`\
 ld r,HIG_w5,80
 
-「……何よ。@毬枝の分際で、この踊る彼岸花に口答えする気ィ？@/
-
+;「……何よ。@毬枝の分際で、この踊る彼岸花に口答えする気ィ？@/
+`"...What's this?`@`Marie with her social standing is talking back to the lovely dancing Higanbana?`@
 cl r,0
 ld c,HIG_W5,24
 ;se1v 7,30
 quakex 2,200
 
-　……わ・た・し・はッ、栗饅頭が食べたいって言ってんのよぉおおぉおおぉおッ。」\
-
+;　……わ・た・し・はッ、栗饅頭が食べたいって言ってんのよぉおおぉおおぉおッ。」\
+` I. Said. I. Wanted. Chestnut. Cake. Understand?"`\
 
 
 ld l,MAR_N1,80
@@ -27,38 +28,41 @@ se1 48
 quakey 2,400
 se2 47
 quakex 2,400
-「痛い、痛たたったたたったったッ！！@　やめて抓んないで、引っ張らないでー！」@
-
+;「痛い、痛たたったたたったったッ！！@　やめて抓んないで、引っ張らないでー！」@
+`"Ow! Ow! Owowowowowow!!`@`Please stop! Don't pull anymore!"`@
 ld c,HIG_D5,80
 
-「口答えしてる暇があったら、とっとと栗饅頭を持ってきなさい。@ちなみにあと、４分３２秒だからねっ。@１秒でも遅れたら、二度とあんたにテレビ見せてあげないわよ。」\
-
+;「口答えしてる暇があったら、とっとと栗饅頭を持ってきなさい。@ちなみにあと、４分３２秒だからねっ。@１秒でも遅れたら、二度とあんたにテレビ見せてあげないわよ。」\
+`"If you have time to chat back you have time to get me my cake.`@`Anyway, you only have 4 minutes 32 seconds left.`@`And if you take one more second, I won't show you the TV a second time."`\
 
 
 ld l,MAR_D2a,80
 
-「わ、わかりました……、探してきますからっ。@もー…、最近、わがままなんだから……。」\
+;「わ、わかりました……、探してきますからっ。@もー…、最近、わがままなんだから……。」\
+`"I-I understand....I'll go and look for it.`@`You're being really selfish recently."`\
 
 
-
-　彼岸花がぞんざいで態度がデカイのはいつものことだ。@
+;　彼岸花がぞんざいで態度がデカイのはいつものことだ。@
+` Higanbana has always had a rude, careless attitude.`@
 br
-　お菓子を持って来いというと、すぐに毬枝が持って来てくれるのが気分がいいらしい。\
-
+;　お菓子を持って来いというと、すぐに毬枝が持って来てくれるのが気分がいいらしい。\
+` When she said to bring candy, Marie would return with them in a good mood.`\
 
 
 ld c,HIG_W4,0
 ld l,MAR_D3a,80
 
-　しかし最近、少々、それに溺れ過ぎている様子。@ますますぞんざいになっていく。@
-　逆らうと意地悪になるので、毬枝も逆らえない。@
+;　しかし最近、少々、それに溺れ過ぎている様子。@ますますぞんざいになっていく。@
+` Recently, it seemed she had become a little too addicted to it`@` and was more crass than ever before .`@
+;　逆らうと意地悪になるので、毬枝も逆らえない。@
+` Marie didn't dare disobey, for if she did, she'd only be bullied.`@
 br
 
 se1 3
 cl l,24
 
-　ぴゅーっと保健室を飛び出していく。\
-
+;　ぴゅーっと保健室を飛び出していく。\
+` She was going to jump out of the infirmary window.`\
 
 
 bg hoken_04,26
