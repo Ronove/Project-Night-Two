@@ -67,40 +67,45 @@ cl l,24
 
 bg hoken_04,26
 
-　それを見送りもせず、彼岸花はベッドの上で、だらしない格好で、う～んと伸びをするのだった。\
-
+;　それを見送りもせず、彼岸花はベッドの上で、だらしない格好で、う～んと伸びをするのだった。\
+` Then, without even seeing her off, Higanbana turned in the bed, and let out a long yawn.`\
 
 
 quakey 1,200
 
-　その彼岸花が、突然、起き上がり、しゃきりと背筋を伸ばす。@
+;　その彼岸花が、突然、起き上がり、しゃきりと背筋を伸ばす。@
+` Then, all of a sudden, she up straight.`@
 br
-　やや遅れて、保健室に足音、……いや、人ならざる者の気配が近付いてくるのが感じられた。@
-　少なくとも、毬枝以外の前では、威厳を保つ努力はしているらしい。\
-
-「………いるか。」@
+;　やや遅れて、保健室に足音、……いや、人ならざる者の気配が近付いてくるのが感じられた。@
+` A moment later, I felt footsteps...no, I felt the sign of a person approaching the infirmary.`@  
+;　少なくとも、毬枝以外の前では、威厳を保つ努力はしているらしい。\
+` It seemed that Higanbana was trying to preserve her dignity in front of those other than Marie.`\
+;「………いるか。」@
+`"...Are you here?"`@
 br
-　ノックと共に、そう呼び掛けてくる。@
-　その声だけで、訪ねてきたのが誰か、彼岸花にはわかったようだった。\
-
+;　ノックと共に、そう呼び掛けてくる。@
+` This call came along with a knock on the door.`@
+;　その声だけで、訪ねてきたのが誰か、彼岸花にはわかったようだった。\
+` From that voice alone, it seemed Higanbana knew who had come to visit.`\
 
 bg black,22
 bg hoken_02,22
 ld r,HIG_W3,22
 
-「いるってわかってるくせに。@………何の用？@　鏡のキョウ。」@
+;「いるってわかってるくせに。@………何の用？@　鏡のキョウ。」@
+`"Even though you know I'm here...`@`...What is it?`@`Kyou of the mirror."`@
 br
 se1v 82,100
 ld l,KYO_D1,23
 
-　ガラリと引き戸が開き、……和服を着た青年を模した妖怪が姿を現す。\
-
+;　ガラリと引き戸が開き、……和服を着た青年を模した妖怪が姿を現す。\
+` The sliding door opened and in its frame stood a Youkai, with the appearance of a young man dressed in a kimono.`\ 
 
 
 ld l,KYO_D3,80
 
-「よう。@ブレイクタイムのところ、邪魔するぜ。」@
-
+;「よう。@ブレイクタイムのところ、邪魔するぜ。」@
+`"Hey.`@`It's recess, so I'm gonna disturb you."`@
 ld r,HIG_D3,80
 
 「珍しいわね。@あんたが私の保健室に来るなんて。@まさか転んで怪我して、絆創膏が欲しいなんて言い出さないわよねぇ？@　くすくすくすくす……。」\
