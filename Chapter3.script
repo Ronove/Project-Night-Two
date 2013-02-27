@@ -108,23 +108,26 @@ ld l,KYO_D3,80
 `"Hey.`@`It's recess, so I'm gonna disturb you."`@
 ld r,HIG_D3,80
 
-「珍しいわね。@あんたが私の保健室に来るなんて。@まさか転んで怪我して、絆創膏が欲しいなんて言い出さないわよねぇ？@　くすくすくすくす……。」\
-
+;「珍しいわね。@あんたが私の保健室に来るなんて。@まさか転んで怪我して、絆創膏が欲しいなんて言い出さないわよねぇ？@　くすくすくすくす……。」\
+`"This is rare.`@`You don't come and see me in the infirmary often.`@`Wait, could it be that you fell, got hurt and want a plaster?`@` Kususususu..."`\
 
 
 bg black,0
 ld c,KYO_D1,2
 
-　鏡のキョウ。@
+;　鏡のキョウ。@
+` Kyou of the Mirror.`@
 br
-　学校妖怪序列第５位。@
-　通り名が示すとおり、鏡を司る妖怪だ。@いや、本人は鏡を守る番人だと称している。\
-
+;　学校妖怪序列第５位。@
+` The fifth-ranked monster in the school.`@
+;　通り名が示すとおり、鏡を司る妖怪だ。@いや、本人は鏡を守る番人だと称している。\
+` As the name suggests, he's a monster that rules over mirrors.`@` No, more than that, he's the keeper who protects the mirror surface.`\
 
 
 　鏡を覗いたことのある人間なら、誰でも一度は、@鏡の向こうにも、こちら側同様に広大な世界が広がっているように妄想したことがあるだろう。@
 br
-　それは間違いではない。@
+;　それは間違いではない。@
+` That's not a mistake.`@
 　鏡の向こうには、確かに異界が広がっている。\
 
 bg black,22
