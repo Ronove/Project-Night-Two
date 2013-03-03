@@ -128,8 +128,8 @@ br
 br
 ;　それは間違いではない。@
 ` That's not a mistake.`@
-　鏡の向こうには、確かに異界が広がっている。\
-
+;　鏡の向こうには、確かに異界が広がっている。\
+` Another world was spreading out beyond the other side of the mirror.`\
 bg black,22
 ;bg e005,26
 ;bg Different_spiral_1a,22
@@ -140,10 +140,11 @@ bg black,22
 
 ;bg black,22
 
-　つまり、鏡とは異界の入口なのだ。@
+;　つまり、鏡とは異界の入口なのだ。@
+` In other words, the mirror was an entrance to another world.`@
 br
-　キョウはその入口を守り、司る番人なのだ。\
-
+;　キョウはその入口を守り、司る番人なのだ。\
+` Kyou was the guardian and keeper of that gateway.`\
 
 
 bg hoken_01,22
@@ -156,30 +157,31 @@ bg hoken_01,22
 
 ld c,KYO_D3,22
 
-「お前に用があるわけじゃねぇ。@……めそめその毬枝に用があんだ。」@
-
+;「お前に用があるわけじゃねぇ。@……めそめその毬枝に用があんだ。」@
+`"There's no business for you in there...`@`...but Mesomeso Marie has a task to do in there."`@
 ld l,HIG_d10,22
 
-「あんたが毬枝に用？」\
-
+;「あんたが毬枝に用？」\
+`"Are you for Marie?"`\
 cl c,0
 ld r,KYO_D2,23
 
-「あいつのウォッシュテクに一目惚れ、ってわけさ。」@
-
+;「あいつのウォッシュテクに一目惚れ、ってわけさ。」@
+`"I fell in love with her wash tech at first sight."`@
 ld l,HIG_D9a,80
 
-「はぁ？」\
-
+;「はぁ？」\
+`"Whaaa?"`\
 
 
 bg black,2
 bg rouka_04,2
 
-　毬枝は給食センターの近くを、お菓子アンテナを働かせながら歩いているところだった。@
+;　毬枝は給食センターの近くを、お菓子アンテナを働かせながら歩いているところだった。@
+` Marie drew near to the catering center, walking while using her Sweets Antenna.`@
 br
-　そこにキョウがやってきて、同じことをもう一度言う。\
-
+;　そこにキョウがやってきて、同じことをもう一度言う。\
+` Kyou came there too and said the same thing once more.`\
 
 bg rouka_02,0
 ld r,MAR_D1,0
@@ -189,28 +191,30 @@ ld l,KYO_D1,22
 
 ld r,MAR_D4a,80
 
-「ウ、……ウォッシュテクって、何ですか…？」@
-
+;「ウ、……ウォッシュテクって、何ですか…？」@
+` What is this 'wash tech'?"`@
 ld l,KYO_D5,80
 
-「お前の住処の鏡の、見事な磨きっぷりのことさ。」\
-
+;「お前の住処の鏡の、見事な磨きっぷりのことさ。」\
+`"It's the brilliant polish of the mirror in your living quarters."`\
 
 
 ld r,MAR_D4,80
 
-「は、はぁ……。@それはその、どうも……。」@
+;「は、はぁ……。@それはその、どうも……。」@
+`"Ah....`@`...thanks."`@
 br
-　住処と言われるとどうかと思うが。@めそめそさんの怪談では、その所在地は、旧校舎の女子トイレということになっている。\
-
+;　住処と言われるとどうかと思うが。@めそめそさんの怪談では、その所在地は、旧校舎の女子トイレということになっている。\
+` Speaking of living places,`@`In mesomeso-san's Ghost Story, her living place was the girls' toilet of the old school building.`\
 
 bg black,22
 bg toire_05,2
 
-　妖怪にとって、もっとも妖力を回復させやすいのは、自分の怪談の所在地だ。@
+;　妖怪にとって、もっとも妖力を回復させやすいのは、自分の怪談の所在地だ。@
+` For monsters, it was easiest to recover magical strength in the locations mentioned in their ghost stories.`@
 br
-　その為、妖力を減らして疲労した毬枝は、旧校舎のトイレに帰ると回復が早い。\
-
+;　その為、妖力を減らして疲労した毬枝は、旧校舎のトイレに帰ると回復が早い。\
+` Thus, for Marie, who's magic was on the wane, a hastened return to that toilet was imperative.`\
 
 
 bg toire_07,22
@@ -277,10 +281,11 @@ ld l,KYO_D2,80
 
 ld r,MAR_D4a,80
 
-「はー……。@そうなんですかぁ……。」@
+;「はー……。@そうなんですかぁ……。」@
+`"Ah...`@`..is that so..."`@
 br
-　ここまで話が及べば、キョウが何を頼もうとしているのかは明白だ。\
-
+;　ここまで話が及べば、キョウが何を頼もうとしているのかは明白だ。\
+` If the conversation had come to this, it was obvious was Kyou was trying to do.`\
 
 
 ld r,MAR_D4,80
