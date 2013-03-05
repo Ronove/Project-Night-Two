@@ -219,18 +219,19 @@ br
 
 bg toire_07,22
 
-　かつては色々と酷い目に遭わされた、嫌な思い出も多いトイレだが、@最近は、ほっと一息つける、自分だけの隠れ家のような気持ちにもなっていた。\
-
+;　かつては色々と酷い目に遭わされた、嫌な思い出も多いトイレだが、@最近は、ほっと一息つける、自分だけの隠れ家のような気持ちにもなっていた。\
+` It had once been a place of bad memories,`@`but recently, it felt like a place to take a breath, a special retreat for herself alone.`\
 
 bg black,24
 bg toire_08,0
 ld c,MAR_W1,24
 
-　そんなわけで。@ならばピカピカにお掃除して、居心地のいい場所にしようと奮起し、毬枝はトイレをまめに掃除していたのだ。@
+;　そんなわけで。@ならばピカピカにお掃除して、居心地のいい場所にしようと奮起し、毬枝はトイレをまめに掃除していたのだ。@
+` In fact,`@`she was sure that if she cleaned it till it sparkled, it would be quite a cozy place.`@` That's why she diligently cleaned the room.`@
 （誰も掃除していないはずなのに、なぜか塵一つない旧校舎のトイレ…、@というのも新しい怪談なのだが、それは別の話……）\
 
-　そのトイレの、鏡の見事な磨きっぷりに、どうもキョウは感動したらしいのだ……。\
-
+;　そのトイレの、鏡の見事な磨きっぷりに、どうもキョウは感動したらしいのだ……。\
+` It seemed that Kyou had been impressed by the work she had done on the toilet's mirror...`\
 bg black,22
 bg rouka_03,0
 ;ld r,MAR_D3a,0
@@ -242,14 +243,15 @@ mld c,KYO_D2,80
 
 
 
-　……言い回しがいちいち痛いが、とりあえず悪い人ではなさそうだ。@
+;　……言い回しがいちいち痛いが、とりあえず悪い人ではなさそうだ。@
+`....his expressions hurt, but he wasn't a bad person.`@
 br
-　毬枝はとりあえず、わざわざ自分を訪ねてくれた理由を聞いてみることにする……。\
-
+;　毬枝はとりあえず、わざわざ自分を訪ねてくれた理由を聞いてみることにする……。\
+` Now, Marie decided to ask what reason he had for visiting...`\
 ld r,MAR_D4a,22
 
-「なるほど……。@キョウさんは、鏡の番人さんなんですか……。」\
-
+;「なるほど……。@キョウさんは、鏡の番人さんなんですか……。」\
+`"I see....`@`..Kyou, you're the keeper of this mirror?"`\
 mld c,KYO_D3,80
 
 「あぁ。@一番霊力のある鏡は、職員室前の階段踊り場にある、大鏡だが。@校内にはそれ以外にも霊力を持った鏡がいくつもある。@お前の住処の鏡の一枚も、そんな霊力のある鏡の内の一つだ。」@
