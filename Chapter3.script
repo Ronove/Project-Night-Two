@@ -256,25 +256,25 @@ mld c,KYO_D3,80
 
 「あぁ。@一番霊力のある鏡は、職員室前の階段踊り場にある、大鏡だが。@校内にはそれ以外にも霊力を持った鏡がいくつもある。@お前の住処の鏡の一枚も、そんな霊力のある鏡の内の一つだ。」@
 br
-　キョウは鏡の番人として、鏡を定期的に磨いているらしい。\
-
+;　キョウは鏡の番人として、鏡を定期的に磨いているらしい。\
+` As the keeper of the mirror, it seemed Kyou polished it on a regular basis. `\
 
 
 ld r,MAR_D1,80
 
-「霊力のある鏡って、校内にどのくらいあるんですか…？」@
-
+;「霊力のある鏡って、校内にどのくらいあるんですか…？」@
+`" How many of these magical mirrors does the school have?"`@
 mcl c,0
 ld l,KYO_D1,24
 
-「ざっと、４０枚ってとこか。」\
-
+;「ざっと、４０枚ってとこか。」\
+`"Hm. About 40."`\
 
 
 ld r,MAR_I3a,80
 
-「そんなにあるんですか？！@　それを毎日磨いてるんですか？！」@
-
+;「そんなにあるんですか？！@　それを毎日磨いてるんですか？！」@
+`"That many?!`@` Do you polish them every day?!"`@
 ld l,KYO_D2,80
 
 「毎日、全部を磨いてなんかいられっか。@だから日替わりで数枚ずつ磨いてる。@お前がその内の１枚を毎日磨いてくれるんで、その分、助かってるってもんだぜ。」\
@@ -292,18 +292,18 @@ br
 
 ld r,MAR_D4,80
 
-「で、私に鏡磨きを手伝って欲しいと？」@
-
+;「で、私に鏡磨きを手伝って欲しいと？」@
+`"So you want me to help polish them?`"`@
 ld l,KYO_D4,80
 
-「そうだ。@それも鏡の表側じゃない。@裏側だ。」\
-
+;「そうだ。@それも鏡の表側じゃない。@裏側だ。」\
+`"Yes.`@` But not just the front.`@` The back too."`\
 
 
 ld r,MAR_D3a,80
 
-「裏側……？」\
-
+;「裏側……？」\
+`"The back?"`\
 bg black,22
 
 fede 0,1000
@@ -315,21 +315,24 @@ bg k_kaidan_02,22
 
 bgm1 5
 
-　キョウに連れられ、階段踊り場にある大鏡にやってくる。@
+;　キョウに連れられ、階段踊り場にある大鏡にやってくる。@
+` Kyou brought me to the large mirror on the staircase landing.`@
 br
-　この学校でもっとも霊力が強い鏡で、鏡の向こうに広がる異界との門にもなっている。\
-
+;　この学校でもっとも霊力が強い鏡で、鏡の向こうに広がる異界との門にもなっている。\
+` This is the most magically powerful mirror in the school, and acts as a portal beyond which another world reaches out.`\
 
 
 ld r,MAR_I3a,22
 
-「あ、……私たちの姿が映らない…！」@
-
+;「あ、……私たちの姿が映らない…！」@
+`"....I...I can't see our reflections!"`@
 ld c,KYO_D1,22
 
-「たまに怪談で聞くだろう。@姿が映らない鏡の話を。@……その時の鏡は鏡じゃねぇんだ。@入口なのさ。」@
+;「たまに怪談で聞くだろう。@姿が映らない鏡の話を。@……その時の鏡は鏡じゃねぇんだ。@入口なのさ。」@
+`"Occasionally, I hear a story.`@`A story about a mirror that sometimes doesn't reflect the observers' appearances.`@`...the truth is, at those times, it's not a mirror,`@` but an entrance."`@
 br
-　キョウはそう言い、手をすぅっと、……鏡に近付け、……その向こうに突っ込む。\
+;　キョウはそう言い、手をすぅっと、……鏡に近付け、……その向こうに突っ込む。\
+` Kyou put his hand close to the mirror, and thrust it inwards.`\
 
 textoff
 se1 22
@@ -338,11 +341,13 @@ wait 1000
 
 ld r,MAR_I1a,80
 
-「え？@　あれ？！」@
+;「え？@　あれ？！」@
+`"Wha--?`@` Hah?!"`@
 br
-　鏡があるべき場所を突き抜けて、キョウの手はその向こうにまで差し出されている。@
-　驚いて毬枝も手を伸ばす。\
-
+;　鏡があるべき場所を突き抜けて、キョウの手はその向こうにまで差し出されている。@
+` Instead of stopping on the surface, his hand went in.`@
+;　驚いて毬枝も手を伸ばす。\
+` He also reached for the hand of the startled Marie.`\
 
 
 ;cl c,0
@@ -355,18 +360,19 @@ ld l,KYO_D1,80
 
 ld c,MAR_I4a,80
 
-「鏡が、……ない……。@む、向こう側の世界の……入口になってるっ。」@
-
+;「鏡が、……ない……。@む、向こう側の世界の……入口になってるっ。」@
+`"It's not a mirror.`@` It's an entrance to the other world."`@
 ld l,KYO_D5,80
 
-「な？@　これならお前も、鏡の向こうの世界がわかるだろう？」\
+;「な？@　これならお前も、鏡の向こうの世界がわかるだろう？」\
+`"Oh?`@` Do you know of the world in the other side of the mirror?"`\
 
 
-
-　今や大鏡は、物を反射して映す「鏡」ではない。@
+;　今や大鏡は、物を反射して映す「鏡」ではない。@
+` Now the big mirror isn't a mirror that reflects objects.`@
 br
-　こちら側と左右反転した、瓜二つの別世界への、……入口なのだ。\
-
+;　こちら側と左右反転した、瓜二つの別世界への、……入口なのだ。\
+` It's the entrance to a world where left and right are reversed.`\
 
 cl l,0
 mld l,KYO_D2,80
@@ -375,8 +381,8 @@ mld l,KYO_D2,80
 
 ld c,MAR_D4a,80
 
-「向こう側が汚れてるとは…？」\
-
+;「向こう側が汚れてるとは…？」\
+`"The other side is dirty?"`\
 mld l,KYO_D3,80
 
 「鏡の向こうにも、こっちと瓜二つの世界があり、@俺様と瓜二つの存在が鏡を司り、毎日磨いてなきゃならねぇはずなんだ。@なのに、その世界の俺様は鏡磨きをサボっちまってるらしい。@そのせいで、全ての霊鏡が曇っちまってる。@……向こう側の汚れだから、向こう側から磨かなけりゃ綺麗にならねぇ。」\
@@ -385,7 +391,8 @@ mld l,KYO_D3,80
 mcl l,0
 bg black,22
 
-　ようやく話が見えてくる。@
+;　ようやく話が見えてくる。@
+` You'll finally see the story yourself.`@
 br
 　ようするに、鏡の中の世界に入り、そちらの世界での鏡を全て磨こうというのだ。@
 　だとすると４０枚。@確かに、キョウ一人では持て余す数だ。\
