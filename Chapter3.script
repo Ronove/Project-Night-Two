@@ -394,9 +394,10 @@ bg black,22
 ;　ようやく話が見えてくる。@
 ` You'll finally see the story yourself.`@
 br
-　ようするに、鏡の中の世界に入り、そちらの世界での鏡を全て磨こうというのだ。@
-　だとすると４０枚。@確かに、キョウ一人では持て余す数だ。\
-
+;　ようするに、鏡の中の世界に入り、そちらの世界での鏡を全て磨こうというのだ。@
+` In short, it was to enter into the world in the mirror and polish all of the mirrors there.`@
+;　だとすると４０枚。@確かに、キョウ一人では持て余す数だ。\
+` Assuming there were 40 of them,`@`it was surely a matter beyond Kyou's capabilities alone.`\
 
 
 bg k_kaidan_03,22
@@ -407,43 +408,44 @@ bg k_kaidan_03,22
 
 ld l,MAR_D1,23
 
-「それで、私と一緒に鏡の中に入って、霊鏡を全て磨こうと。」@
-
+;「それで、私と一緒に鏡の中に入って、霊鏡を全て磨こうと。」@
+`"So then, come with me and let us polish all the spirit mirrors."`@
 ld r,KYO_D1,22
 
-「そういうこった。@俺様と手分けして鏡を磨いて欲しい。@報酬に俺様がくすねた柏餅をやろう。@どうだ？」\
-
+;「そういうこった。@俺様と手分けして鏡を磨いて欲しい。@報酬に俺様がくすねた柏餅をやろう。@どうだ？」\
+`"Yes.`@` Let us divide the labour.`@` I'll reward you with a rice cake.`@` How about it?"`\ 
 
 
 ld l,MAR_D4a,80
 
-「んー……。@……いいですけれど……。@……私を鏡の世界に閉じ込めたりとか、そういう意地悪は企んでませんよね？」\
-
+;「んー……。@……いいですけれど……。@……私を鏡の世界に閉じ込めたりとか、そういう意地悪は企んでませんよね？」\
+`"erm...`@`...that's fine...`@`...but you're not plotting maliciously to trap me in the mirror or something are you?"`\
 
 
 ld r,KYO_D2,80
 
-「お前に何かあったら、俺様が彼岸花に八つ裂きにされちまうに決まってる。@あいつは短気で横暴で残酷で乱暴で、」@
-
+;「お前に何かあったら、俺様が彼岸花に八つ裂きにされちまうに決まってる。@あいつは短気で横暴で残酷で乱暴で、」@
+`" If anything happens to you, Higanbana will rip my head off.`@` She's violent, tyrannical, oppressive and impatient."`@
 ld l,MAR_D2a,80
 
-「その上、気分屋で天邪鬼ですから。」\
-
+;「その上、気分屋で天邪鬼ですから。」\
+`"On top of that, she's a bit perverse."`\
 
 ;bg black,22
 bg k_kaidan_01,22
 ;ld r,KYO_D1,0
 ;ld l,MAR_D1,80
 
-　はぁっと二人でため息を吐き合う。\
-
+;　はぁっと二人でため息を吐き合う。\
+` The two of us sighed.`\
 
 
 ;ld r,KYO_D1,80
 
 「鏡の中の世界も面白ぇぞ。@まぁ、探検気分で頼まぁ。@この通りだぜっ。」@
 br
-　拝む仕草をされる。@
+;　拝む仕草をされる。@
+` He made a gesture of worship.`@
 　……人間に対してはどうか知らないが、少なくとも、妖怪同士には悪い人ではなさそうだ。\
 
 
@@ -451,7 +453,8 @@ br
 bg black,22
 ;ld c,MAR_W1,22
 
-　毬枝は申し出を引き受けることにする。@
+;　毬枝は申し出を引き受けることにする。@
+` Marie decided to take him up on his offer.`@
 br
 　鏡の中の世界にも、ちょっと興味はあった。\
 
