@@ -437,12 +437,13 @@ bg k_kaidan_01,22
 ;ld l,MAR_D1,80
 
 ;　はぁっと二人でため息を吐き合う。\
-` The two of us sighed.`\
+` The two of them sighed.`\
 
 
 ;ld r,KYO_D1,80
 
-「鏡の中の世界も面白ぇぞ。@まぁ、探検気分で頼まぁ。@この通りだぜっ。」@
+;「鏡の中の世界も面白ぇぞ。@まぁ、探検気分で頼まぁ。@この通りだぜっ。」@
+`"The mirror world is interesting.`@`Well, trust in exploration`@`on this street."`@
 br
 ;　拝む仕草をされる。@
 ` He made a gesture of worship.`@
@@ -456,8 +457,8 @@ bg black,22
 ;　毬枝は申し出を引き受けることにする。@
 ` Marie decided to take him up on his offer.`@
 br
-　鏡の中の世界にも、ちょっと興味はあった。\
-
+;　鏡の中の世界にも、ちょっと興味はあった。\
+` She was, in fact, a little interested by the prospect of seeing another world in the mirror.`\
 ;bg black,22
 ;cl c,1
 wait 1000
@@ -465,10 +466,11 @@ bg k_kaidan_04,2
 ld c,KYO_D1,0
 ld l,MAR_D4a,23
 
-　清掃道具をバケツに詰め、キョウと毬枝は大鏡の前に再集合する。@
+;　清掃道具をバケツに詰め、キョウと毬枝は大鏡の前に再集合する。@
+` She packed cleaning tools in a bucket and reassembled before the large mirror with Kyou.`@
 br
-　そしてキョウについて、大鏡の中に、するりと入る……。\
-
+;　そしてキョウについて、大鏡の中に、するりと入る……。\
+` And she and Kyou slipped into the mirror...`\
 textoff
 
 fede 0,1000
@@ -490,55 +492,58 @@ ld c,MAR_I4a,80
 
 bgm1 31
 
-「こ、……ここが、鏡の中の世界……、ですか……。」@
-
+;「こ、……ここが、鏡の中の世界……、ですか……。」@
+`"Th-,...This is the mirror world?!"`@
 ld r,KYO_D2,22
 
-「慣れないと、ちょっと酔うだろ。@俺様は好きだぜ、このドランカーな感覚。@くっくっくっく……。」\
+;「慣れないと、ちょっと酔うだろ。@俺様は好きだぜ、このドランカーな感覚。@くっくっくっく……。」\
+`"If it's a bit unfamiliar, that's 'cause I'm a little drunk.`@`I love it, this drunk feeling.`@`Kukukukuku..."`\
 
 
-
-　壁の掲示物を見ると、全ての文字が左右に反転している。@
+;　壁の掲示物を見ると、全ての文字が左右に反転している。@
+` If one looked at all the stuff posted on the walls, the characters were all flipped horizontally.`@
 br
-　うわ……。@想像以上に、なんというのかその、……酔うというか、気持ち悪い。\
-
+;　うわ……。@想像以上に、なんというのかその、……酔うというか、気持ち悪い。\
+` Wow...`@`this drunk feeling is worse than you'd think.`\
 
 cl c,0
 ld l,MAR_D2a,24
 
-「何でも左右反転なんですね……。@確かに酔いそうです…。」@
-
+;「何でも左右反転なんですね……。@確かに酔いそうです…。」@
+`"Everything's reversed....`@`Man, I'm really drunk for sure."`@
 ld r,KYO_D3,80
 
 「それ以外にも、何かが反転してるかもな。@……何しろ、鏡は森羅万象、あらゆるものの対を司る。@鏡の向こうの異界は無数だから、俺様にも全ては把握しきれねぇ。」\
 
 
 
-　何だかよくわからないが、ちょっぴり面白そうだ。@
+;　何だかよくわからないが、ちょっぴり面白そうだ。@
+` It was interesting, even though she couldn't really understand it."`@
 br
-　生前に大好きだった、不思議の国のアリスになれた気分だ。\
-
+;　生前に大好きだった、不思議の国のアリスになれた気分だ。\
+` During her life, she loved this sort of Alice in Wonderland-esque feeling.`\
 
 
 ld l,MAR_D4a,80
 
-「この世界には、……やっぱり私たちが存在するんですか？」@
-
+;「この世界には、……やっぱり私たちが存在するんですか？」@
+`"We still exist in this world too right?"`@
 ld r,KYO_D5,80
 
-「するさ。@だから俺様もいるだろうぜ。@……もし会ったら、ミラーウォッシュをサボるなと伝えてくれ。」\
-
+;「するさ。@だから俺様もいるだろうぜ。@……もし会ったら、ミラーウォッシュをサボるなと伝えてくれ。」\
+`"Yeah.`@`That's why I'm here too.`@`If we meet, I'll tell you not to slack off on washing the mirrors."`\
 
 bg black,22
 ;bg black,0
 ld c,MAR_D4,22
 
-　ということは、……私ももう一人いるということか。@
-
+;　ということは、……私ももう一人いるということか。@
+` By which he meant, she was going to be alone.`@
 ld c,MAR_W2,80
 
 br
-　……わー。@何だか面白そう。@
+;　……わー。@何だか面白そう。@
+` Wow.`@`It looks somewhat fun.`@
 br
 
 
