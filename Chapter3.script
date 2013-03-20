@@ -565,17 +565,18 @@ ld r,KYO_D3,80
 ld l,MAR_w1,23
 ld l,MAR_W2,80
 
-「了解しましたっ。@がんばりましょう！」\
-
+;「了解しましたっ。@がんばりましょう！」\
+`"OK!`@`Let's do our best!"`\
 
 
 ld r,KYO_D2,80
 
-「すまねぇなぁ。@……ったく。@ここの世界の俺様がサボらなけりゃこんなことには。@ブツブツ……。」@
+;「すまねぇなぁ。@……ったく。@ここの世界の俺様がサボらなけりゃこんなことには。@ブツブツ……。」@
+`"This is crazy.`@`Jeez.`@`The me from this world is playing truant.`@`*mutter mutter*"`@
 cl r,23
 br
-　二人は、それぞれの清掃道具を手に、それぞれの担当の鏡へ散っていく。\
-
+;　二人は、それぞれの清掃道具を手に、それぞれの担当の鏡へ散っていく。\
+` The two of them, each with cleaning materials in hand, dispersed to clean the mirrors to which they were assigned.`\
 cl l,24
 
 
@@ -584,23 +585,24 @@ bg black,2
 bg rouka_03,0
 ld c,MAR_D4a,22
 
-「それにしても、……左右反転って結構、混乱するな…。@……よく知ってる学校のはずなのに、左右が逆になっただけで、すっごいわかりづらい……。」\
+;「それにしても、……左右反転って結構、混乱するな…。@……よく知ってる学校のはずなのに、左右が逆になっただけで、すっごいわかりづらい……。」\
+`"What's more, the horizontal flip is confusing.`@`It's the school I know well, but with just this lateral inversion, it's hard to understand..."`\
 
 
-
-　目に見える物全てを、頭の中で左右反転して考え直す。@
-
+;　目に見える物全てを、頭の中で左右反転して考え直す。@
+` They had to rethink everything they saw in their heads, while inverting it.`@
 ;ld c,MAR_D4,80
 
 br
-　とにかく、担当個所を端から順に片付けていこう。\
-
+;　とにかく、担当個所を端から順に片付けていこう。\
+` Anyway, let's clean up from the end of this area.`\
 cl c,24
 
-　まず最初は、……演劇部の部室。@
+;　まず最初は、……演劇部の部室。@
+` First, the Drama Club room.`@
 br
-　そこにある、衣装合わせ用の姿見だった。\
-
+;　そこにある、衣装合わせ用の姿見だった。\
+` In there was a full-length mirror used probably for dressing sessions.`\
 
 
 bg black,24
@@ -613,20 +615,24 @@ bg engeki_01,22
 
 bgm1 1
 
-　部室に入ると、少女がひとり、熱心に稽古をしているところだった。@
+;　部室に入ると、少女がひとり、熱心に稽古をしているところだった。@
+` When they entered the room, a girl was there, practicing all by herself.`@
 br
-　毬枝は妖怪だから、望まなければ人間に姿を見られることはない。@
-　だから稽古の邪魔をせずに、鏡を磨いてしまうことが出来る。\
-
+;　毬枝は妖怪だから、望まなければ人間に姿を見られることはない。@
+` Because Marie was a monster, she could conceal herself from the eyes of humans if she so desired.`@
+;　だから稽古の邪魔をせずに、鏡を磨いてしまうことが出来る。\
+` So without interrupting the rehearsal, she was able to polish the mirror.`\
 
 bg engeki_04,0
 ld c,MAR_W1,22
 
-　それにしても、誰もいない、放課後の教室でひとり、稽古をしているとは感心な子だ。@
+;　それにしても、誰もいない、放課後の教室でひとり、稽古をしているとは感心な子だ。@
+` Anyway, it was impressive that a child was so diligent as to practice alone in a classroom after school`@
 br
-　……と思ったら、見覚えのある子だった。@
-　みどりだ。\
-
+;　……と思ったら、見覚えのある子だった。@
+` As she thought this, she realized the child looked somewhat familiar.`@
+;　みどりだ。\
+` It was Midori.`\
 
 
 bg black,22
