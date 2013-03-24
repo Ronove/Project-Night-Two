@@ -641,9 +641,10 @@ bg engeki_06,0
 ld r,MID_D3,22
 se1 54
 
-　楠木みどり。@演劇の世界に魂を住まわせ、現実を捨て去ることを選んだ少女。@
+;　楠木みどり。@演劇の世界に魂を住まわせ、現実を捨て去ることを選んだ少女。@
+` Kusunori Midori.`@`A girl who, having chosen to abandon reality, allows her soul to dwell in theatre.`@
 br
-　すっかり奇人の扱いだが、演劇にかけるその凄まじい執念に、@最近、見方を改めている者も少なくないと聞く……。\
+;　すっかり奇人の扱いだが、演劇にかけるその凄まじい執念に、@最近、見方を改めている者も少なくないと聞く……。\
 
 bg black,2
 mono 0
@@ -652,35 +653,39 @@ bg engeki_04,0
 ld c,MAR_D1,22
 ld c,MAR_W1,80
 
-「演劇かぁ。@……ちょっと素敵かな。@私もあんなお姫様の役をやってみたいな。」\
+;「演劇かぁ。@……ちょっと素敵かな。@私もあんなお姫様の役をやってみたいな。」\
+`"Theatre.`@`...It's pretty nice.`@`I want to try the role of a princess."`\
 
 
-
-　みどりはお姫様の衣装を身に付け、台本を見ながらイメージトレーニングをしているようだった。@
+;　みどりはお姫様の衣装を身に付け、台本を見ながらイメージトレーニングをしているようだった。@
+` It seemed Midori was in costume and practicing image training while reading a script.`@
 br
-　毬枝も、姿見の前に清掃道具を置き、ごしごしと心を込めて磨き始める。\
-
+;　毬枝も、姿見の前に清掃道具を置き、ごしごしと心を込めて磨き始める。\
+` Marie put her tools down in front of her and began earnestly scrubbing the mirror from top to bottom.`\
 bg black,22
 bg engeki_02,22
 ld r,MID_D1,26
 
-「大体わかったわ。@何て素敵な役なのかしら。@まさに私の為にあるような役だわっ。」@
+;「大体わかったわ。@何て素敵な役なのかしら。@まさに私の為にあるような役だわっ。」@
+`"I understand it well.`@`It's quite a nice role,`@`almost as if it was made for me."`@
 br
-　みどりは台本を置き、満面の笑顔でそう言う。\
-
+;　みどりは台本を置き、満面の笑顔でそう言う。\
+` Midori put down the script and smiled.`\
 
 
 ld r,MID_D5,80
 
-「ねぇっ、そう思うでしょう？@　紅茶紳士さん？」@
-
+;「ねぇっ、そう思うでしょう？@　紅茶紳士さん？」@
+`"Do you think so too?`@`Mr. Tea Gentleman?"`@
 ld l,SIN_D3,22
 
-「……さぁて、どうでしょうねぇ。」@
+;「……さぁて、どうでしょうねぇ。」@
+`"Well...how is it, I wonder."`@
 br
-　紅茶の香りがふわりと漂ったかと思うと、紅茶紳士が姿を現す。@
-　みどりにしか関心がないのか、毬枝には気付いていない様子だった。\
-
+;　紅茶の香りがふわりと漂ったかと思うと、紅茶紳士が姿を現す。@
+` As she thought of the aroma of tea, the Tea Gentleman appeared.`@
+;　みどりにしか関心がないのか、毬枝には気付いていない様子だった。\
+` He was interested only in Midori, and wasn't aware of Marie's presence.`\
 ld r,MID_D4,80
 
 E_A
@@ -688,22 +693,23 @@ E_A
 bgm1 19
 
 se1 47
-「高貴なる血筋で、豪華絢爛なるお姫様！@　これってまさに、私そのものじゃないですか。@大金持ちで裕福で、貧民とは生まれも育ちもまったく違う、@生まれながらの大金持ちの令嬢の、私そのものの役じゃないですか…！@/
-
+;「高貴なる血筋で、豪華絢爛なるお姫様！@　これってまさに、私そのものじゃないですか。@大金持ちで裕福で、貧民とは生まれも育ちもまったく違う、@生まれながらの大金持ちの令嬢の、私そのものの役じゃないですか…！@/
+`"What a gorgeous princess of noble lineage!`@`That's something I'm not familiar with at all.`@`I'm almost like a daughter of a millionare.`@`Something, I'm definitely not. I was raised poor..!`@/
 se2 3
 ld r,MID_U2,80
 
-　あっははははははは！！」\
-
+;　あっははははははは！！」\
+` Ahahahahahaha!!"`\
 
 
 bg engeki_04,0
 ld c,MAR_I1a,22
 
-　う、うわー……。@
+;　う、うわー……。@
+` Wowwee!`@
 br
-　演劇に一途な情熱を傾けると評判の彼女が、こんな性格だったなんてショックだ……。\
-
+;　演劇に一途な情熱を傾けると評判の彼女が、こんな性格だったなんてショックだ……。\
+` For a girl with such a single-minded passion for drama, this personality was quite a shock...`\
 
 
 bg black,22
@@ -716,7 +722,8 @@ me1v 5,50
 
 ld l,SIN_D2,22
 
-「……お金持ち自慢はそれくらいにして、そろそろお稽古を始めた方がよろしいのではありませんか？」@
+;「……お金持ち自慢はそれくらいにして、そろそろお稽古を始めた方がよろしいのではありませんか？」@
+`"In order to flaunt your wealth, shouldn't we start your lessons soon?"`@
 ;＜紅茶紳士
 
 ld r,MID_K4,24
@@ -727,27 +734,31 @@ ld r,MID_K4,24
 
 ld l,SIN_D1,80
 
-「………では冒頭のセリフをどうぞ。」@
+;「………では冒頭のセリフをどうぞ。」@
+`"....well then, to the opening line please."`@
 
 ld r,MID_D3,80
 se1 47
-「あぁ～、私は可憐なお姫さまぁ！@/
+;「あぁ～、私は可憐なお姫さまぁ！@/
+`"Aah! A dainty princess am I!!`@/
 se2 48
-　どこかに素敵な王子はいないかしら～ン！！」\
-
+;　どこかに素敵な王子はいないかしら～ン！！」\
+` I wonder if there is a great prince somewhere out there for me!!"`\
 
 
 bg engeki_02,0
 ld c,MAR_D3a,22
 
-　ぇ、……えー……。@
+;　ぇ、……えー……。@
+` ah.....Ah....`@
 br
 
 ;ld c,MAR_D3a,80
 
-　……何この演技、学芸会レベルとか言ったら学芸会に失礼なレベルだ。@
-　本人は実に楽しそうに演じているのだが、演技力はカケラほども感じられない。\
-
+;　……何この演技、学芸会レベルとか言ったら学芸会に失礼なレベルだ。@
+`...What is this acting? It's got all the depth of a kindergarden play.`@
+;　本人は実に楽しそうに演じているのだが、演技力はカケラほども感じられない。\
+` The actor seems to be having fun playing the role, but feels none of the parts of the character itself.`\
 
 
 bg engeki_01,0
@@ -756,46 +767,49 @@ ld l,SIN_D3,22
 
 ld r,MID_K3,80
 se1 47
-「こんなにも素敵な演技なのに、なんで先生はわかってくれないのかしら！@/
+;「こんなにも素敵な演技なのに、なんで先生はわかってくれないのかしら！@/
+`"Even though me acting is so good, why is it that teachers don't know me?!`@/
 se2 48
-　きっと育ちが貧しくて卑しいせいね！」@
-
+;　きっと育ちが貧しくて卑しいせいね！」@
+` because I'm poor and of low birth, of course!"`@
 ld l,SIN_D2,80
 
-「………少しはご自身の演技力を疑われた方が。」\
-
+;「………少しはご自身の演技力を疑われた方が。」\
+`"It seems to be a way of doubting one's acting skills."`\
 ld r,MID_U1,80
 
 se1v 2,50
 quakey 2,200
 
-「さもなければ、私の演技が革新的過ぎるのかしら！」@
-
+;「さもなければ、私の演技が革新的過ぎるのかしら！」@
+`"Otherwise, maybe my acting is too innovative!"`@
 ld l,SIN_D3,80
 
-「………そう思える貴女が素敵です。」\
-
+;「………そう思える貴女が素敵です。」\
+`"....the lady seems wonderful."`\
 
 
 ld r,MID_K4,80
 
-「ま、先生の言うことなんか気にしても仕方がないもんねっ。@気にしない気にしない！」@
-
+;「ま、先生の言うことなんか気にしても仕方がないもんねっ。@気にしない気にしない！」@
+`"Well, there's no sense in giving a damn what you think Sensei!`@`I don't care at all!"`@
 ld l,SIN_D1,80
 
-「………大いに気にすることです。」\
-
+;「………大いに気にすることです。」\
+`"...She seems to care a lot."`\
 
 
 bg engeki_04,0
 ld c,MAR_D4a,22
 
-　みどりちゃんって、何だか面白い子だなー……。@
+;　みどりちゃんって、何だか面白い子だなー……。@
+` Midori-chan is such an interesting girl....`@
 br
 
 ;ld c,MAR_D1,80
 
-　まぁ、本人は楽しそうにやってるし、邪魔しちゃ悪い。@
+;　まぁ、本人は楽しそうにやってるし、邪魔しちゃ悪い。@
+` Well, with such an interesting person, it's bad to get in their way.`@
 　毬枝は姿見を磨き上げると、みどりたちを残し、そっと立ち去るのだった。\
 
 bg black,23
