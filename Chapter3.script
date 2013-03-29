@@ -810,8 +810,8 @@ br
 
 ;　まぁ、本人は楽しそうにやってるし、邪魔しちゃ悪い。@
 ` Well, with such an interesting person, it's bad to get in their way.`@
-　毬枝は姿見を磨き上げると、みどりたちを残し、そっと立ち去るのだった。\
-
+;　毬枝は姿見を磨き上げると、みどりたちを残し、そっと立ち去るのだった。\
+` After Marie polished the mirror, she left Midori quietly standing.`\
 bg black,23
 
 fede 0,1000
@@ -821,8 +821,10 @@ bg toire_05,22
 
 bgm1 32
 
-　次は校舎内の各トイレに散っている霊鏡だ。@
-　どのトイレにも１枚くらいは霊鏡があるらしい。@
+;　次は校舎内の各トイレに散っている霊鏡だ。@
+` Next were the spirit mirrors in each bathroom in the school.`@
+;　どのトイレにも１枚くらいは霊鏡があるらしい。@
+` Each bathroom seemed to have one mirror in it.`@
 　確かに、薄暗い日にひとりでトイレに入ると、鏡の中に薄気味悪さを感じることはあったけれど。@……納得、納得。\
 
 
@@ -830,31 +832,34 @@ bgm1 32
 bg toire_07,0
 ld c,MAR_D1,22
 
-　きゅっきゅと磨いていると、……のっそりと巨体がやってくる。@
-　誰かと思えば、……何と、校長先生ではないか。\
-
+;　きゅっきゅと磨いていると、……のっそりと巨体がやってくる。@
+` When she squeakily polished the mirror, a sluggish, large figure approached.`@
+;　誰かと思えば、……何と、校長先生ではないか。\
+` Just who could it be...surely not the Principal?`\
 cl c,0
 ld l,MAR_D4,24
 ld r,KOU_D2,24
 ld r,KOU_D3,80
 
-「おやおや……、毬枝さんではありませんか……。@このようなところで何をなさっているのですかな……。」@
+;「おやおや……、毬枝さんではありませんか……。@このようなところで何をなさっているのですかな……。」@
+`"Well well, if it isn't Marie-chan.`@`What on earth you you be doing in a place like this?"`@
 br
-　好々爺のような、やさしさを感じる言葉で話し掛けてくる。\
-
+;　好々爺のような、やさしさを感じる言葉で話し掛けてくる。\
+` They spoke in a kind manner with pleasant language.`\
 
 
 bg black,0
 ld c,KOU_D1,22
 
-　校長先生は敬意を持って接すればやさしいけれど、@/
-
+;　校長先生は敬意を持って接すればやさしいけれど、@/
+` The Principal demanded respect, but he was kind`@/
 bg aka2,0
 ld c,kou_u1,22
 
-……本当はすごく怖い人だって、彼岸花さんに聞かされてる。@
-　鏡の世界の校長先生であっても、敬意を忘れないようにしなくちゃ。\
-
+;……本当はすごく怖い人だって、彼岸花さんに聞かされてる。@
+`....Higanbana had told her about really scary people.`@
+;　鏡の世界の校長先生であっても、敬意を忘れないようにしなくちゃ。\
+` Even in the Mirror World, she didn't forget to show respect.`\
 
 
 bg black,22
@@ -864,12 +869,12 @@ bg toire_07,0
 
 ld l,MAR_W1,22
 
-「こんにちは。@今日はお手伝いで鏡のお掃除をしているんです。」@
-
+;「こんにちは。@今日はお手伝いで鏡のお掃除をしているんです。」@
+`"Good day.`@`Today I'm assisting in the cleaning of the mirrors."`@
 ld r,KOU_D2,24
 
-「お、おぉおぉ、それはそれは……。@私もお手伝いしないわけには参りませんな……。@どれどれ、よっこらしょっと。」\
-
+;「お、おぉおぉ、それはそれは……。@私もお手伝いしないわけには参りませんな……。@どれどれ、よっこらしょっと。」\
+`"Ohohoh...well well....`@`I really ought to help too....`@`...let's see here."`\
 cl r,0
 ld c,KOU_D1,24
 
@@ -878,12 +883,12 @@ ld c,KOU_D1,24
 
 ld l,MAR_D4a,80
 
-「あぁ、そんな、お構いなくっ。」@
-
+;「あぁ、そんな、お構いなくっ。」@
+`"Oh, really, don't trouble yourself."`@
 ld c,KOU_D3,80
 
-「いえいえいえ……、この爺にもどうかお掃除を手伝わせて下さい……。@よっこらしょっと、よっこらしょっと。」\
-
+;「いえいえいえ……、この爺にもどうかお掃除を手伝わせて下さい……。@よっこらしょっと、よっこらしょっと。」\
+`"No no, let's see what this old man can do....`@`heave-ho, heave-ho."`\
 
 
 　仮にも学校妖怪の序列第１位に君臨するお人なのだ。@トイレで鏡磨きなんてこと、手伝わせちゃ申し訳ない。@
@@ -895,18 +900,20 @@ bg black,22
 ;mono 1
 ;ld c,KOU_D3,22
 
-　鏡の世界の校長先生は、確かによく見ると、色々と左右が反転している。@
+;　鏡の世界の校長先生は、確かによく見ると、色々と左右が反転している。@
+` In fact, the more she looked at the Mirror World Principal, the more she realized that he was reversed in more ways than one.`@
 br
-　スーツの合わせが左右逆だし、装飾も逆。@モノクルも左右逆だ。\
-
+;　スーツの合わせが左右逆だし、装飾も逆。@モノクルも左右逆だ。\
+` His suit was reversed, as well as his adornments and monocle.`\
 
 
 ;ld c,KOU_D1,80
 
-　でも、右と左は入れ替わっても、心までは変わらないようだ。@
+;　でも、右と左は入れ替わっても、心までは変わらないようだ。@
+` But even thought the left and right were changed, his heart wasn't.`@
 br
-　校長先生の、貫禄の中にも忘れない、やさしい心を感じる。\
-
+;　校長先生の、貫禄の中にも忘れない、やさしい心を感じる。\
+` Marie could feel the Principal's heart amongst and air of dignity.`\
 
 
 ;bg black,22
