@@ -913,7 +913,7 @@ br
 ` But even thought the left and right were changed, his heart wasn't.`@
 br
 ;　校長先生の、貫禄の中にも忘れない、やさしい心を感じる。\
-` Marie could feel the Principal's heart amongst and air of dignity.`\
+` Marie could feel the Principal's heart amongst an air of dignity.`\
 
 
 ;bg black,22
@@ -922,20 +922,21 @@ bg toire_02,0
 ld r,MAR_W2,0
 ld l,KOU_D1,22
 
-　せっかくの貴重な機会だ。@一緒にお掃除をしよう。@
+;　せっかくの貴重な機会だ。@一緒にお掃除をしよう。@
+` This was a great opportunity.`@`They could clean together.`@
 br
-　毬枝は校長先生と一緒に、鏡をきゅっきゅと磨き上げるのだった。\
-
+;　毬枝は校長先生と一緒に、鏡をきゅっきゅと磨き上げるのだった。\
+` Marie and the Principal cleaned the mirror together.`\
 
 
 ld l,KOU_D3,80
 
-「はてさて……。@どうして毬枝さんは鏡を磨いているのですかな……。」@
-
+;「はてさて……。@どうして毬枝さんは鏡を磨いているのですかな……。」@
+`"Well then....`@`why is it that Marie-san is polishing the mirrors?"`@
 ld r,MAR_W1,80
 
-「これはキョウさんのお手伝いなんです。@磨く鏡がいっぱいあって。」\
-
+;「これはキョウさんのお手伝いなんです。@磨く鏡がいっぱいあって。」\
+`"I'm doing it to help Kyou.`@`Filling the world with cleaned mirrors."`\
 
 
 ld l,KOU_D2,80
@@ -943,20 +944,22 @@ ld l,KOU_D2,80
 se1v 2,50
 quakex 1,100
 
-「お、……おぉ、何と畏れ多い……！！@　鏡のキョウの分際で、毬枝さんにお掃除の手伝いをさせるとは……、恐ろしや恐ろしや……。」\
+;「お、……おぉ、何と畏れ多い……！！@　鏡のキョウの分際で、毬枝さんにお掃除の手伝いをさせるとは……、恐ろしや恐ろしや……。」\
+`"Oh, I'm so sorry to hear that.!!`@`We've come to such a state that in today's world, even someone like Marie-san must be called on to help. So sad."`\
 
 
-
-　初めて会った時には、何だかものすごい威圧感で、体が大きく見えたけれど。@
-　こうして一緒に掃除をする校長先生は、何だかとても小さく見える。@
-　ぼんやりしていると、ただのお年寄りだなんて思ってしまいそう。\
-
+;　初めて会った時には、何だかものすごい威圧感で、体が大きく見えたけれど。@
+` The first time she had met the principal, his large stature had been intimidating.`@
+;　こうして一緒に掃除をする校長先生は、何だかとても小さく見える。@
+` But when he was cleaning like this, he looked quite small.`@
+;　ぼんやりしていると、ただのお年寄りだなんて思ってしまいそう。\
+` And with his slight absent-mindedness, he was just like an elderly man.`\
 
 
 ld r,MAR_I4a,80
 
-　いけないいけない、敬意を失ってはいけない。@この方は学校妖怪のトップなのだから。\
-
+;　いけないいけない、敬意を失ってはいけない。@この方は学校妖怪のトップなのだから。\
+` But she couldn't lose respect for him.`@` After all, he was the top school monster.`\
 
 
 bg black,22
@@ -967,25 +970,25 @@ bg toire_07,22
 
 ld r,MAR_W2,24
 
-「さぁ、出来たっと。@……校長先生、お手伝いをありがとうございます。」@
-
+;「さぁ、出来たっと。@……校長先生、お手伝いをありがとうございます。」@
+`"Whew...we did it.`@`Principal, thankyou so much for your help."`@
 ld l,KOU_D3,22
 
-「いえいえいえいえ……、この爺がお役に立てて光栄ですわい。@……むむ、毬枝さん、どちらへ…？」\
-
+;「いえいえいえいえ……、この爺がお役に立てて光栄ですわい。@……むむ、毬枝さん、どちらへ…？」\
+`"No no no....This old man is honored to have been of such use.`@`Well, Marie-san, where to now?"`\
 
 
 ld r,MAR_W1,80
 
-「まだ磨く鏡がたくさんありますので。@では失礼します……。」\
-
+;「まだ磨く鏡がたくさんありますので。@では失礼します……。」\
+`"Well, there are still a lot of mirrors left,`@`so excuse me...."`\
 ld l,KOU_D2,80
 
 se1v 2,50
 quakex 2,200
 
-「何と、まだお掃除があるというのですかッ。@この爺、毬枝さんのお手伝いをせぬわけには参りません。@どうかッ、どうかお手伝いを、お手伝いをさせて下さいッ。@/
-
+;「何と、まだお掃除があるというのですかッ。@この爺、毬枝さんのお手伝いをせぬわけには参りません。@どうかッ、どうかお手伝いを、お手伝いをさせて下さいッ。@/
+`"Well, if there are so many mirrors still to clean,`@`then this old man can't afford to let you go unaided.`@`Please Marie-san, let me help you!`@/
 cl l,0
 ld c,KOU_D7,23
 
@@ -997,8 +1000,8 @@ ld r,MAR_d4a,80
 se2 2
 quakey 2,200
 
-毬枝さまのお手伝いをさせて下さいぃいいぃぃぃ、うぉおおおぉおぉおんんっ！！」\
-
+;毬枝さまのお手伝いをさせて下さいぃいいぃぃぃ、うぉおおおぉおぉおんんっ！！」\
+`Let me help you, Marie-sama! Uwaooooooooo!!!"`\
 se1 2
 quakex 2,200
 wait 200
@@ -1007,23 +1010,24 @@ quakey 2,200
 
 ;ld r,MAR_I3a,80
 
-　両目からだばだばと涙を零しながら、手伝いたいとしがみついてくる。@
+;　両目からだばだばと涙を零しながら、手伝いたいとしがみついてくる。@
+` He wanted to help so much that tears of longing streamed from both eyes.`@
 br
-　な、何だろう、嬉しいやらキモチ悪いやら！\
-
+;　な、何だろう、嬉しいやらキモチ悪いやら！\
+` Wha-what was with this mixed happy and sad feelings?!`\
 
 
 bg toire_05,23
 ld r,MAR_d2a,0
 ld c,KOU_D7,23
 
-　本当に大丈夫です、結構ですからと説き伏せ、毬枝は逃げるように飛び出す。\
-
+;　本当に大丈夫です、結構ですからと説き伏せ、毬枝は逃げるように飛び出す。\
+` Marie fled as she tried to persuade the Principal that he had already done enough.`\
 se1 3
 cl r,23
 
-「どうか毬枝さまのお手伝いをぉおおぉー！　うぉおおぉおおんっ！！」\
-
+;「どうか毬枝さまのお手伝いをぉおおぉー！　うぉおおぉおおんっ！！」\
+`"But Marie-sama's assistance-! Uwooooooooo!!"`\
 se1 2
 quakex 2,200
 wait 200
@@ -1036,64 +1040,71 @@ quakey 2,200
 
 bg black,2
 
-「……やっぱり、ちょっと雰囲気が違う。@……鏡の世界のみんなは、やっぱり私の知るみんなとは違うみたい……。」@
+;「……やっぱり、ちょっと雰囲気が違う。@……鏡の世界のみんなは、やっぱり私の知るみんなとは違うみたい……。」@
+`"As I thought. It's a different personality.`@`It seems like everyone in this world aren't the same people as I know."`@
 br
-　まぁ、手伝ってもらえたから悪い気はしないけれど……。\
+;　まぁ、手伝ってもらえたから悪い気はしないけれど……。\
+` Well...I guess it wouldn't hurt to have him help me...`\
 
 
-
-　こうなると、こっちの世界の彼岸花や自分は、一体、どんな性格なのだろうと興味が出てしまう。\
-
+;　こうなると、こっちの世界の彼岸花や自分は、一体、どんな性格なのだろうと興味が出てしまう。\
+` I'm quite interested in what kind of personality Higanbana or I could have in this world.`\
 
 
 bg rouka_04,24
 
-　家庭科室の鏡を磨き終わり、廊下に出ると、みちると数人の女の子たちが話しているのに出くわした。@
+;　家庭科室の鏡を磨き終わり、廊下に出ると、みちると数人の女の子たちが話しているのに出くわした。@
+` After she had polished the mirror in the Home Economics room, she went down the stairs and stumbled across some girls chatting with Michiru.`@
 br
-　みちるを取り囲み、女の子たちが口々に騒いでいる。\
-
+;　みちるを取り囲み、女の子たちが口々に騒いでいる。\
+` As they surrounded Michiru, their voices grew louder and louder.`\
 
 
 bg rouka_02,0
 ld c,MIC_D1,22
 
-「何で桜田さんは信じてくれないのよ？！@　だって、本当に見たのよ？！」@
-「学校八不思議を司る妖怪の仕業に違いないわ、違いないわ！！」\
+;「何で桜田さんは信じてくれないのよ？！@　だって、本当に見たのよ？！」@
+`"Why won't Michiru-san believe me?!`@`You saw it, didn't you?!"`@
+;「学校八不思議を司る妖怪の仕業に違いないわ、違いないわ！！」\
+`"It's surely the work of a mysterious school monster!!"`\
 
 
-
-　どうやら、オカルト話のようだ。@
+;　どうやら、オカルト話のようだ。@
+` It seems they were talking about the Occult.`@
 br
-　見たところ、少女たちは何か不思議な体験をしたのだが、@それを誰も信じてくれないので、オカルト専門家のみちるに相談しに来た、という感じだろうか……。\
-
+;　見たところ、少女たちは何か不思議な体験をしたのだが、@それを誰も信じてくれないので、オカルト専門家のみちるに相談しに来た、という感じだろうか……。\
+Apparently, the girls had had a strange experience,`@`but no one would believe them. Thus, they came to consult Occult Expert Michiru...`\
 
 
 ld c,MIC_D3,80
 
-「妖怪。@……霊魂？@　祟り？@/
+;「妖怪。@……霊魂？@　祟り？@/
+` Monster?`@` Soul?`@` Curse?`@/
 E_A
 se1 47
-　……ばかじゃない？」@
-
+;　……ばかじゃない？」@
+` Are you an idiot?"`@
 bgm1 3
 
 br
-　みちるは肩を竦めながら、少女たちを冷笑する。\
-
+;　みちるは肩を竦めながら、少女たちを冷笑する。\
+` Michiru shrugged and laughed at the girls.`\
 
 
 ld c,MIC_D4,80
 
 me1v 28,50
 
-「そんな非科学的なもの、あるわけないじゃない。@……霊現象も怪現象も全て、解明を放棄したことへの言い訳でしょ。」@
-「そ、それじゃあ、どう説明すんのよ！！@　私たちが見た現象はどう説明すんのよ！！」\
-
+;「そんな非科学的なもの、あるわけないじゃない。@……霊現象も怪現象も全て、解明を放棄したことへの言い訳でしょ。」@
+`"It's not as if there's no scientific explanation.`@`You lot seem to have just abandoned it to spirit phenomena."`@
+;「そ、それじゃあ、どう説明すんのよ！！@　私たちが見た現象はどう説明すんのよ！！」\
+`"Well then, how do you explain it!!?`@` How do you explain the phenomenon we experienced?!!"`\
 
 
 ld c,MIC_D3,80
 
-「錯覚、静電気、気の迷いに思い込み。@全て科学的に説明できるもの。@オカルト信じてるなんて、ばっかじゃない？」@
+;「錯覚、静電気、気の迷いに思い込み。@全て科学的に説明できるもの。@オカルト信じてるなんて、ばっかじゃない？」@
+` Static electricity, illusions, and your own delusions.`@` All are things that can be explained scientifically.`@`Yet you're insistent on this being the work of the occult? Idiots."`@
 br
 　彼女らが何を訴えたのか知らないが、みちるはにべもなくバッサリだ。\
 
@@ -1103,16 +1114,18 @@ cl c,24
 
 　みちるは、すたすたと立ち去るのだが、少女たちはそれを追い掛け、いいや心霊だ祟りだ悪霊だと騒ぎ立てている。@
 br
-　それを見て、ぽかんとする毬枝だった……。\
-
+;　それを見て、ぽかんとする毬枝だった……。\
+` Marie looked blankly...`\
 
 
 bg rouka_03,0
 ld c,MAR_D4a,22
 
-「あのみちるちゃんが、……どういうこと……？」\
+;「あのみちるちゃんが、……どういうこと……？」\
+`"What does Michiru-chan mean?"`\
 
 textoff
+
 
 fede 10,1000
 E_MA
@@ -1125,23 +1138,25 @@ E_MA
 ld l,KYO_D5,23
 ld l,KYO_D1,80
 
-「毬枝。@ミラーウォッシュは順調か。」@
-
+;「毬枝。@ミラーウォッシュは順調か。」@
+`"Marie.`@`Is your mirror-washing going steady?"`@
 ld c,MAR_I4a,80
 
-「あ、キョウさん。@……あなたはどっちの世界のキョウさんですか？」\
-
+;「あ、キョウさん。@……あなたはどっちの世界のキョウさんですか？」\
+`"Ah, Kyou-san,`@`...which world's Kyou-san are you?"`\
 
 
 ld l,KYO_D5,80
 
-「お前と同じ、元の世界のキョウだよ。@ほら、服の着合わせの方向とかでちゃんと覚えておきやがれぃ。」@
+;「お前と同じ、元の世界のキョウだよ。@ほら、服の着合わせの方向とかでちゃんと覚えておきやがれぃ。」@
+`"The same as you. The original world's Kyou.`@`Look, my clothes are aligned like you remember."`@
 br
-　本当だ。@服装をよく見たら、間違いなく自分と同じ世界のキョウだった。\
+;　本当だ。@服装をよく見たら、間違いなく自分と同じ世界のキョウだった。\
+` It was true.`@`When she looked at his clothes, without a doubt, it was the Kyou from her world.`\
 
 
-
-　次の鏡へ向かう途中の廊下でばったりと出くわす。@
+;　次の鏡へ向かう途中の廊下でばったりと出くわす。@
+` From this brief encounter in the hallway, she made here way to the next mirror to clean.`@
 br
 　キョウの方も順調なようだ。@さすが鏡の番人。@そのお手入れはばっちりなようだ。\
 
