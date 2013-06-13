@@ -1158,54 +1158,55 @@ br
 ;　次の鏡へ向かう途中の廊下でばったりと出くわす。@
 ` From this brief encounter in the hallway, she made here way to the next mirror to clean.`@
 br
-　キョウの方も順調なようだ。@さすが鏡の番人。@そのお手入れはばっちりなようだ。\
-
+;　キョウの方も順調なようだ。@さすが鏡の番人。@そのお手入れはばっちりなようだ。\
+` Kyou was smooth.`@`Definitely, he was the keeper of the Mirrors.`@`The care he gave them was incredible.`\
 
 
 ld c,MAR_D3a,80
 
-「この世界の人たちに何人か会ったんですけれど……。@何だかちょっと、様子が違うんです。」@
-
+;「この世界の人たちに何人か会ったんですけれど……。@何だかちょっと、様子が違うんです。」@
+`"No matter how many people you could meet in this world,`@`they were always slightly different."`@
 ld l,KYO_D3,80
 
-「そのようだな。@どうやらこの世界は、性格が反転している世界らしいな。」\
-
+;「そのようだな。@どうやらこの世界は、性格が反転している世界らしいな。」\
+`"That's right.`@`No matter how you look at it, the personalities are inverted."`\
 
 
 ld c,MAR_D4a,80
 
-「性格が、……反転………。」@
-
+;「性格が、……反転………。」@
+`"Personality....inversion....?"`@
 ld l,KYO_D2,80
 
-「鏡の向こうには、様々な要素が反転している異世界が無数にあるんだ。@反転するものは色々あるが、ここでは性格が反転しているんだろう。」\
-
+;「鏡の向こうには、様々な要素が反転している異世界が無数にあるんだ。@反転するものは色々あるが、ここでは性格が反転しているんだろう。」\
+`"On the other side of the mirror, there are countless worlds with inverted aspects.`@`Many different things are reversed. In this case, it's the personality."`\
 
 
 ld c,MAR_I4a,80
 
-「あぁ……、なるほど…………。」@
+;「あぁ……、なるほど…………。」@
+`"Ah, I see....."`@
 br
-　ポンと手を打たずにはいられない。\
-
+;　ポンと手を打たずにはいられない。\
+` He couldn't knock.`\
 
 
 bg black,22
 ld r,MID_D1,22
 
-　楠木みどりは、本当はお金持ち自慢などしない、慎ましやかで演劇に情熱を傾ける人のはず。@
-
+;　楠木みどりは、本当はお金持ち自慢などしない、慎ましやかで演劇に情熱を傾ける人のはず。@
+` Kusunoki Midori instead of being rich and proud, should have humbly shown her passion for theatre.`@
 ld r,MID_U2,80
 
 br
-　それが反転して、お金持ち自慢で、演劇にいい加減な人になり。\
-
+;　それが反転して、お金持ち自慢で、演劇にいい加減な人になり。\
+` But that was inverted. Instead, she was rich and boastful, and carried out here theatre duties lazily.`\
 
 
 ld c,KOU_D4,22
 
-　そういえば、校長先生も変だった。@
-
+;　そういえば、校長先生も変だった。@
+` Now that she thought about it, the Principal was also strange.`@
 ld c,KOU_D7,80
 
 br
@@ -1215,8 +1216,8 @@ br
 
 mld l,MIC_D3,22
 
-　桜田みちるなど最たるもの。@オカルトマニアのはずの彼女が、オカルトを全否定なのだから。\
-
+;　桜田みちるなど最たるもの。@オカルトマニアのはずの彼女が、オカルトを全否定なのだから。\
+` Sakurada Michiru was a prime example.`@`A girl that should be an occult fanatic, was instead a denier of the supernatural.`\
 
 
 mcl a,0
@@ -1228,8 +1229,8 @@ bg rouka_04,22
 
 ;ld r,MAR_D1,80
 
-「はー……。@面白い世界ですねぇ……。@じゃあ、この世界のキョウさんも性格が違うわけですね。」\
-
+;「はー……。@面白い世界ですねぇ……。@じゃあ、この世界のキョウさんも性格が違うわけですね。」\
+`"Waaa...!`@`What an interesting world!`@`Well, that means that this Kyou-san is different in personality too, right?"`\
 
 
 ;ld l,KYO_D1,80
@@ -1240,29 +1241,32 @@ bg rouka_04,22
 
 ;ld r,MAR_D1,80
 
-「はい。@あとちょっとですね。@がんばりましょう！」@
+;「はい。@あとちょっとですね。@がんばりましょう！」@
+`"Yes.`@`Just a little longer.`@`Let's do our best!"`@
 br
 
 ;cl r,23
 ;cl l,24
 
-　毬枝たちは別れ、残りの鏡のところへ向かう。\
-
+;　毬枝たちは別れ、残りの鏡のところへ向かう。\
+` They separated and Marie went to the remaining mirror locations.`\
 bg black,24
 
 bg rouka_02,24
 ;ld c,MAR_D3a,23
 ld c,MAR_D4,24
 
-「……ということは、この世界の私も性格が反転してるということ…？@　……うーん、どんな私なんだろ。@ちょっと見てみたい気もするなぁ。@………あれ？@　彼岸花さんとスミレさんだ。」\
+;「……ということは、この世界の私も性格が反転してるということ…？@　……うーん、どんな私なんだろ。@ちょっと見てみたい気もするなぁ。@………あれ？@　彼岸花さんとスミレさんだ。」\
+`"Which means that my personality is also reversed...`@`...Yes, whatever 'me' it is,`@`...I think I'd like to try seeing it.`@`...huh?`@`Higanbana-san and Sumire-san?"`\
 
 
-
-　向こうから、お喋りをしながら、彼岸花とスミレが歩いてくるのが見える。@
+;　向こうから、お喋りをしながら、彼岸花とスミレが歩いてくるのが見える。@
+` She could see Higanbana and Sumire approaching from the other side while chatting.`@
 br
-　二人の服装は左右が逆だ。@鏡の世界の二人に違いない。@
-　二人はどんな風に性格が変わっているのだろう。@ちょっとわくわくする。\
-
+;　二人の服装は左右が逆だ。@鏡の世界の二人に違いない。@
+` The two of them had laterally inverted clothes.`@`They were surely the Mirror World counterparts.`@
+;　二人はどんな風に性格が変わっているのだろう。@ちょっとわくわくする。\
+` What way would the personalities have changed though?`@`Marie was a bit excited to find out.`\
 
 mov %SMI_Isyou,2
 
@@ -1274,41 +1278,46 @@ ld c,SMI_W1,22
 
 mld l,MAR_W2,23
 
-「彼岸花さん、スミレさん、こんにちは。」\
-
+;「彼岸花さん、スミレさん、こんにちは。」\
+`"Good day, Higanbana-san, Sumire-san."`\
 se1 47
 ld r,HIG_D7,80
 se2 48
 ld c,SMI_I1,80
 se3 2
 quake 4,500
-「こッ、………こんにちはッ！」
+;「こッ、………こんにちはッ！」
+`"He--hello!"`\
 ;＜彼岸花
 
 ;ld c,SMI_D1,80
 
-「こここ、こんにちはぁあぁッ…！！」/
-\
+;「こここ、こんにちはぁあぁッ…！！」/
+`"He-he-he-hellooooooooo!"`\
+;\
 ;＜スミレ
 
 
 
 mld l,MAR_D4a,80
 
-　気さくに声を掛けたつもりなのに、二人は仰け反って驚いて答える。@
+;　気さくに声を掛けたつもりなのに、二人は仰け反って驚いて答える。@
+` Even though she called out in a friendly manner, she was taken aback by the response.`@
 br
-　そうか、なるほど。@元の世界では態度の大きい二人が、こっちの世界では逆に態度が小さくなるわけだ。\
-
+;　そうか、なるほど。@元の世界では態度の大きい二人が、こっちの世界では逆に態度が小さくなるわけだ。\
+` I see.`@`In the real world, these two have inflated egos and attitudes, which are downplayed in this world.`\
 
 
 ld c,SMI_D3a,80
 
-「バケツなぞ持って、一体どうなさったのじゃ……。」@
+;「バケツなぞ持って、一体どうなさったのじゃ……。」@
+`"You have a bucket, what on earth is that for?"`@
 ;＜スミレ
 
 ld r,HIG_W4a,80
 
-「お掃除…！@　お掃除ですよね？！@　どちらをお掃除なさるのですか…？！」\
+;「お掃除…！@　お掃除ですよね？！@　どちらをお掃除なさるのですか…？！」\
+`"Cleaning..!`@`It's for cleaning right?!`@`What are you cleaning...?!"`\
 ;＜彼岸花
 
 
@@ -1324,14 +1333,16 @@ se1 10
 mld c,HIG_W6a,24
 ld r,SMI_I3a,23
 
-「いえいえ、そんな！@　私が私が！@　毬枝さまの白いお手にバケツなんて似合いませんものね、くすくすくす…！！」\
+;「いえいえ、そんな！@　私が私が！@　毬枝さまの白いお手にバケツなんて似合いませんものね、くすくすくす…！！」\
+`"No no no!`@`Pick me! Pick me!`@`That bucket doesn't suit Marie-sama's white hands, kusukusukusukusu!!"`\
 ;＜彼岸花
 
 
 
 mld l,MAR_d4,80
 
-　彼岸花とスミレが、争うように毬枝の持つ清掃道具を奪ってくる。@
+;　彼岸花とスミレが、争うように毬枝の持つ清掃道具を奪ってくる。@
+` Higanbana and Sumire fought to take Marie's cleaning tools from her.`@
 br
 　……どっちかというと意地悪なはずの二人に、こんなに低姿勢に出られると、これはこれで新鮮だ。\
 
@@ -1339,12 +1350,14 @@ br
 
 mld l,MAR_D4a,80
 
-「お二人とも、どうも、ありがとうございます……。」@
+;「お二人とも、どうも、ありがとうございます……。」@
+`"Thanks a ton, you two...."`@
 ;＜毬枝
 
 mld c,HIG_W4a,80
 
-「い、いえいえそんな……。@これくらい当然です…、うふふふふふふ……。」\
+;「い、いえいえそんな……。@これくらい当然です…、うふふふふふふ……。」\
+`"No, no....`@`This much is natural...eahahahahaaa..."`\
 ;＜彼岸花
 
 　何だか卑屈っぽくてちょっぴり嫌だが、@最近のぞんざい過ぎる彼岸花には、ぜひ爪垢を持ち帰って飲ませたいものだ。\
@@ -1354,7 +1367,8 @@ mcl a,0
 bg black,22
 bg rouka_02,24
 
-　次の鏡は、そこの廊下の窓ガラス。@
+;　次の鏡は、そこの廊下の窓ガラス。@
+` The next mirror was the window glass in that hallway.`@
 br
 　キョウが言うには、夜、外が真っ暗になると、窓も鏡のようによく姿を映すようになる。@そこに、霊鏡としての妖力が宿るのだという。\
 
