@@ -1724,33 +1724,34 @@ bg hoken_01,23
 
 ;mld l,MAR_I2,23
 
-　ガラリと引き戸を開け、毬枝が保健室に入る。@
+;　ガラリと引き戸を開け、毬枝が保健室に入る。@
+` Marie opened the gallery door and walked into the infirmary.`@
 br
-　それはよく見れば、服装が左右逆になっている別世界の毬枝なのだが、@ベッドの上でだらしなくくつろぐ彼岸花は気付かないようだった。\
-
+;　それはよく見れば、服装が左右逆になっている別世界の毬枝なのだが、@ベッドの上でだらしなくくつろぐ彼岸花は気付かないようだった。\
+` On looking closely, she saw that there was a Marie with reversed clothes--a Marie from a different world.`@`On top of the bed, Higanbana was resting slovenly and didn't seem aware of Marie's presence.`\
 
 ld r,HIG_d5,22
 
-「あー、毬枝ー。お帰りー。@窓拭きの手伝いは終わったのかしらー？@　それはそうと、私の栗饅頭はどうなってんのよ。@ジャンピング土下座したら、特別に許してあげるから、今から５分で速攻、持ってきなさい。」\
-
+;「あー、毬枝ー。お帰りー。@窓拭きの手伝いは終わったのかしらー？@　それはそうと、私の栗饅頭はどうなってんのよ。@ジャンピング土下座したら、特別に許してあげるから、今から５分で速攻、持ってきなさい。」\
+`"Ah! If it isn't Marie! Welcome back.`@`Is your help with window cleaning over?`@`Well, what about my Chestnut Cake?`@`Maybe if you kneel down, I'll forgive you,`@`especially if you promise to hurry up and bring it to me in the next 5 minutes!"`\
 mld l,MAR_I6,80
 se1v 2,100
 quakey 3,200
 
-「あぁぁぁぁぁ？@　何で私がテメェに栗饅頭もってこなきゃなんねぇんだ、コラ。」@
-
+;「あぁぁぁぁぁ？@　何で私がテメェに栗饅頭もってこなきゃなんねぇんだ、コラ。」@
+`"Waaaaaaaah?`@`Why do I have to bring you a cake?"`@
 ld r,HIG_w5a,80
 
 me1v 17,50
 
-「はあ？@　………あんた、毬枝の分際で、この踊る彼岸花にどういう口の聞き方なわけ？」\
-
+;「はあ？@　………あんた、毬枝の分際で、この踊る彼岸花にどういう口の聞き方なわけ？」\
+`"Huh?`@`Marie, with your social standing, you dare to question the whims of the Dancing Higanbana?"`\
 
 
 mld l,MAR_I5,80
 
-「テメェこそ、この毬枝さまに向かって、どーゆー口の聞き方だ、コラ。@……いいぜいいぜ、躾けてやんぜ。@私の世界のテメェと同じように、従順に躾けてやるからよォ！」\
-
+;「テメェこそ、この毬枝さまに向かって、どーゆー口の聞き方だ、コラ。@……いいぜいいぜ、躾けてやんぜ。@私の世界のテメェと同じように、従順に躾けてやるからよォ！」\
+`"You too though. When you face this Marie-sama, do you even think about what you're saying?`@`...fine fine.`@`I'll just have to discipline you into subservience like I did my world's version of you."\
 cl r,0
 ld c,HIG_W5a,24
 se1 2
@@ -1758,14 +1759,14 @@ quakex 2,200
 
 me2v 28,50
 
-「なに訳わかんないこと言ってんのかしらぁああぁああ？！？！@　あんた、毬枝よ？@　マ・リ・エ！！@　私のお友達でしょ？@　私がお茶菓子食べたい時に持ってくる役担当でしょぉお？！」\
-
+;「なに訳わかんないこと言ってんのかしらぁああぁああ？！？！@　あんた、毬枝よ？@　マ・リ・エ！！@　私のお友達でしょ？@　私がお茶菓子食べたい時に持ってくる役担当でしょぉお？！」\
+`"UGH! I don't know what you're saying anymore!`@`Aren't you Marie?`@` MA. RI. E!!`@`Aren't you my friend?`@`My friend responsible for bringing me my tea?!"`\
 
 
 mld l,MAR_W3,80
 
-「ンだそれ、面白ぇぜ。@じゃあ、なろーぜ、お友達によぉ。@テメェ、私のお友達にしてやっから、５分で栗饅頭探して、テメェがジャンピング土下座しろ。」\
-
+;「ンだそれ、面白ぇぜ。@じゃあ、なろーぜ、お友達によぉ。@テメェ、私のお友達にしてやっから、５分で栗饅頭探して、テメェがジャンピング土下座しろ。」\
+`"Hn...that's interesting.`@`Well, sure...`@`You're my friend now.`@`And as my friend, you can hurry up and bring me a Chestnut Cake for my tea".`\
 cl c,0
 ld r,HIG_W6a,23
 
@@ -1775,10 +1776,11 @@ me3v 5,50
 `"Whaaaaaaaaaaaaat?!?!"`\
 
 
-　保健室内でバチバチと両者の妖気が火花を散らす。@
+;　保健室内でバチバチと両者の妖気が火花を散らす。@
+` Sparks flew in the Infirmary.`@
 br
-　彼岸花の長い髪は、燃え上がる炎のように、めらめらと吹き上げる。\
-
+;　彼岸花の長い髪は、燃え上がる炎のように、めらめらと吹き上げる。\
+` Higanbana's long hair rose up, bursting like flames.`\
 textoff
 
 fedexx 0,90,90,90,0,0,1000
@@ -1786,8 +1788,8 @@ E_B
 
 ld r,HIG_W5a,80
 
-「あんた、私がやさしくしてたからって、少し付け上がっちゃったようね。@勝てると思ってんのォ？！@　この私に！@　学校妖怪序列第３位、踊る彼岸花にぃいぃい！！！」\
-
+;「あんた、私がやさしくしてたからって、少し付け上がっちゃったようね。@勝てると思ってんのォ？！@　この私に！@　学校妖怪序列第３位、踊る彼岸花にぃいぃい！！！」\
+`"I've always been kind to you, so much so that you've become a bit spoilt.`@`Do you really think you're gonna win?!`@`Against me?`@`Higanbana?`"\
 
 
 mld l,MAR_W4,80
@@ -1810,19 +1812,19 @@ lsp2 5,$ld_pass2,130,263,-100,100,0
 print 0
 ld r,MAR_D1,22
 
-　鏡の世界の毬枝は、めそめそさんではない。@
-
+;　鏡の世界の毬枝は、めそめそさんではない。@
+` The Marie from the mirror world wasn't Mesomeso-san. She wasn't tearful at all.`@
 ld_p MAR_D3
 lsp2 4,$ld_pass,130,263,-100,100,0
 lsp2 5,$ld_pass2,130,263,-100,100,0
 print 80
 br
-　臆病で引っ込み思案でか弱い毬枝の正反対。@
-
+;　臆病で引っ込み思案でか弱い毬枝の正反対。@
+` She was the opposite to that weak, shy and timid Marie.`@
 ld r,MAR_W4,80
 
-　短気でおっかない、恐るべき暴君。@げらげらの毬枝なのだ…！\
-
+;　短気でおっかない、恐るべき暴君。@げらげらの毬枝なのだ…！\
+` She was short-tempered, tyrannical,`@`and guffawed.`\
 
 
 csp2 -1
@@ -1839,10 +1841,11 @@ print 24
 
 ld c,MAR_I5,0
 
-　学校妖怪としての実力や序列も、ビリの第８位が反転して、第１位の力となっている。@
+;　学校妖怪としての実力や序列も、ビリの第８位が反転して、第１位の力となっている。@
+` Furthermore, her lack of ability as the 8th-ranked monster had been reversed, conferring upon her all the skills of the highest ranked monsters.`@
 br
-　鏡の向こうの世界で、彼岸花たちが毬枝にぺこぺこしていたのは、@単に彼らの性格が反転したからだけではない。@毬枝が暴君として君臨していたからなのだ…！\
-
+;　鏡の向こうの世界で、彼岸花たちが毬枝にぺこぺこしていたのは、@単に彼らの性格が反転したからだけではない。@毬枝が暴君として君臨していたからなのだ…！\
+` In the world of the mirror, Higanbana and the others had been subservient,`@`not just because their personalities were reversed,`@`but because the mirror world let Marie begin her reign as a tyrant!`\
 se1v 66,100
 
 bg black,2
@@ -1852,11 +1855,12 @@ wait 1000
 bg hoken_04,1
 se1v 2,100
 quakey 3,200
-　ドッカン！　ズッガン！！@/
+;　ドッカン！　ズッガン！！@/
+` BANG! SMASH!!`@/
 se2v 2,100
 quakex 6,500
-　ボコボコ、ドカーン！！\
-
+;　ボコボコ、ドカーン！！\
+` BADUM-BANG, CRASH!!`\
 textoff
 
 fede 0,1000
@@ -1866,11 +1870,13 @@ bgm1 28
 
 ld c,MAR_w4,6
 
-「けっ。@ガンバナの分際でこの私に上等コキやがって。」@
-「……こ、……こんな……、……馬鹿なことって…………。」@
+;「けっ。@ガンバナの分際でこの私に上等コキやがって。」@
+`"Urgh.`@`Being kicked like this, a person of my standing."`@
+;「……こ、……こんな……、……馬鹿なことって…………。」@
+`"Wh-what.....what a fool....."`@
 br
-　頭にタンコブ三兄弟を載せ、彼岸花は床で大の字になってプスプスと煙をあげている。\
-
+;　頭にタンコブ三兄弟を載せ、彼岸花は床で大の字になってプスプスと煙をあげている。\
+` She laid three punches on her head, and then Higanbana lay sprawled out on the floor.`\
 
 bg black,22
 bg hoken_02,22
@@ -1880,38 +1886,41 @@ ld r,MAR_I6,80
 se1v 2,100
 quakey 3,200
 
-「オラッ、立てコラッ！！」@
-
+;「オラッ、立てコラッ！！」@
+`"Hey, get up now!!"`@
 ld l,HIG_D7,26
 
 quakey 1,100
 se1 48
 
-「はッ、はいーッ！！！」@
+;「はッ、はいーッ！！！」@
+`"Y-Yes!!"`@
 br
-　毬枝が一喝すると、彼岸花はビョンっと飛び跳ねるように直立する。\
-
+;　毬枝が一喝すると、彼岸花はビョンっと飛び跳ねるように直立する。\
+` As Marie shouted, Higanbana jumped up.`\
 
 ld r,MAR_W3,80
 
-「今から５分な。@栗饅頭さがして持ってこい！@　１秒でも遅れたら、テメェのスカート、巾着にして校庭１０周な。@/
+;「今から５分な。@栗饅頭さがして持ってこい！@　１秒でも遅れたら、テメェのスカート、巾着にして校庭１０周な。@/
+`"You have five minutes.`@`Bring me my Chestnut Cake!`@`If you're even one second late, I'll make you run 10 laps of the schoolyard without your skirt or your drawstring bag!`@/
 se1 2
 quakey 3,200
-オラ、行けッ！！」@
-
+;オラ、行けッ！！」@
+` Hey, go!!"`@
 ;ld l,HIG_D1,80
 
 quakey 1,100
 cl l,64
 se2 3
 
-「は、はいーーーッ！！！」@
+;「は、はいーーーッ！！！」@
+`"Y-yes!!"`@
 br
 
 ;cl l,64
 ;se2 3
-　涙目の彼岸花は、再びビョンっと飛び跳ねてから、ぴゅーっと飛び出していく。\
-
+;　涙目の彼岸花は、再びビョンっと飛び跳ねてから、ぴゅーっと飛び出していく。\
+` Higanbana, with tears in her eyes, once again jumped up and ran off.`\
 
 
 ld r,MAR_W4,80
@@ -1924,7 +1933,8 @@ bg black,23
 
 E_A
 
-「そうはさせねぇぜ、毬枝！！」@
+;「そうはさせねぇぜ、毬枝！！」@
+`"Hold it right there, Marie!!"`@
 br
 se1v 82,100
 bg hoken_02,24
@@ -1934,21 +1944,23 @@ ld l,KYO_D6,22
 
 bgm1 15
 
-　ガラリと引き戸が開くと、そこには１人の毬枝と２人のキョウが。\
-
+;　ガラリと引き戸が開くと、そこには１人の毬枝と２人のキョウが。\
+` The Gallery door opened and standing in the doorway was one Marie and two Kyous.`\
 
 
 ld r,KYO_D4,80
 
-「俺様のミラーブラザーに全ては聞いたぜ！！」@
-
+;「俺様のミラーブラザーに全ては聞いたぜ！！」@
+`"We've heard everything from my mirror brother."`@
 ld l,KYO_D6a,80
 
-「お前の悪巧み、そうはさせねぇ！！」@
+;「お前の悪巧み、そうはさせねぇ！！」@
+`"Your evil plans end here, fool!!"`@
 
 mld c,MAR_I1a,80
 
-「お願い、私ッ。@元の世界へ帰って！！」\
+;「お願い、私ッ。@元の世界へ帰って！！」\
+`"Please,`@`let me return to the original world!!"`\
 ;＜毬枝
 
 mbg white,1
@@ -1962,15 +1974,16 @@ ld c,MAR_I1a,0
 mld r,KYO_D6,0
 mld l,KYO_D6,22
 
-「「元の世界へ帰り給え、帰り給えッ、帰り給えぇええぇえぇぇぇぇ！！！」」@
+;「「元の世界へ帰り給え、帰り給えッ、帰り給えぇええぇえぇぇぇぇ！！！」」@
+`""Let me return, let me return, just please let me go back!!""`@
 br
-　２人のキョウが、同時に小さな霊鏡を取り出し、それを鏡の世界の毬枝に突き付ける。\
-
+;　２人のキョウが、同時に小さな霊鏡を取り出し、それを鏡の世界の毬枝に突き付ける。\
+` The two Kyous pull out small spirit mirrors, and at the same time thrust at the mirror world Marie.`\
 mcl a,0
 se1v 27,100
 bg white,30
-　するとそこから眩い光が噴き出した。\
-
+;　するとそこから眩い光が噴き出した。\
+` As they did so, a dazzling light radiated forth.`\
 
 bg hoken_01,0
 ld c,MAR_I6a,22
@@ -1979,8 +1992,8 @@ ld c,MAR_I6a,22
 se1v 55,100
 quake 9,600
 
-「うぐぉおおぉおおお！！！@　畜生ォ、キョウ、テメェぇえぇええぇ！！@　ぐはァああああああぁああああ！！！」\
-
+;「うぐぉおおぉおおお！！！@　畜生ォ、キョウ、テメェぇえぇええぇ！！@　ぐはァああああああぁああああ！！！」\
+`"Uguuuuuoooooooooo!!`@`Damn you Kyou, you bastard!!`@`Guhahaaaaaaaaaaaaaa!!!"`\
 
 
 se1v 1022,100
@@ -1988,10 +2001,11 @@ bg white,28
 
 se2 55
 
-　ガシャーン！！@
+;　ガシャーン！！@
+` CLASH!!`@
 br
-　ガラスが砕け散るような音がして、真っ白な輝きが保健室中に飛び散る。\
-
+;　ガラスが砕け散るような音がして、真っ白な輝きが保健室中に飛び散る。\
+` With the sound of breaking glass, the Infirmary was filled with a bright white light.`\
 bg black,22
 
 fede 0,1000
@@ -2002,8 +2016,8 @@ bg hoken_01,6
 
 me1v 16,50
 
-　……恐る恐る目を開けると、……もう、鏡の世界の毬枝はいなくなっていた。\
-
+;　……恐る恐る目を開けると、……もう、鏡の世界の毬枝はいなくなっていた。\
+` When everyone had opened their eyes, the Marie of Kyou's world was gone.`\
 
 
 bg hoken_02,0
@@ -2021,7 +2035,8 @@ bgm1 5
 
 ld c,MAR_D2a,80
 
-「……な、何だか、申し訳ないです……。@ご、ご迷惑をお掛けしました。@鏡の世界のキョウさん。」@
+;「……な、何だか、申し訳ないです……。@ご、ご迷惑をお掛けしました。@鏡の世界のキョウさん。」@
+`"I'm...so sorry...`@`I've been nothing but an inconvenience.`@`Kyou-san."`@
 
 ld l,KYO_D3,80
 
