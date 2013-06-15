@@ -1370,23 +1370,28 @@ bg rouka_02,24
 ;　次の鏡は、そこの廊下の窓ガラス。@
 ` The next mirror was the window glass in that hallway.`@
 br
-　キョウが言うには、夜、外が真っ暗になると、窓も鏡のようによく姿を映すようになる。@そこに、霊鏡としての妖力が宿るのだという。\
-
+;　キョウが言うには、夜、外が真っ暗になると、窓も鏡のようによく姿を映すようになる。@そこに、霊鏡としての妖力が宿るのだという。\
+` As Kyou said, at night, when outside becomes dark, you can see yourself well in the window glass.`@`At that time, it functions like a mirror.`\
 
 
 bg rouka_04,22
 
-「お二人とも、ありがとうございます。@ここまでで結構ですので……。」@
-「このようなところで何をなさるのじゃ？」\
+;「お二人とも、ありがとうございます。@ここまでで結構ですので……。」@
+`"You two, thanks a bunch.`@`This is enough though..."`@
+;「このようなところで何をなさるのじゃ？」\
+`"What do you plan to do in a place like this, though?"`\ 
 ;＜スミレ
 
 
 
-「スミレは馬鹿ね！@　毬枝さまはこの窓を掃除しようとされているに決まってるじゃない！」@
+;「スミレは馬鹿ね！@　毬枝さまはこの窓を掃除しようとされているに決まってるじゃない！」@
+`"Stupid Sumire!`@`Marie-sama has made her mind up that she's gonna clean this window!"`@
 ;＜彼岸花
-「毬枝さまが窓掃除などと畏れ多いのじゃ！@　お手が汚れてしまうのじゃ！」@
+;「毬枝さまが窓掃除などと畏れ多いのじゃ！@　お手が汚れてしまうのじゃ！」@
+`"But cleaning the window is bad for Marie-sama!`@`She'll dirty her hands!"`@
 ;＜スミレ
-「そ、そのような仕事は私たちにお任せを…！@　うふふ、うふふふふふふふ！」\
+;「そ、そのような仕事は私たちにお任せを…！@　うふふ、うふふふふふふふ！」\
+`"That type of work is best left to us..!`@`Ufufufufufufu!"`\
 ;＜彼岸花
 
 
@@ -1395,25 +1400,28 @@ bg rouka_02,0
 ld l,HIG_W4a,0
 ld c,SMI_D5a,24
 
-　二人は愛想笑いを浮かべながら、勝手に窓拭きを始める。@
+;　二人は愛想笑いを浮かべながら、勝手に窓拭きを始める。@
+` With fake smiles, the two of them started cleaning the window.`@
 br
-　普段、尊大で自信たっぷりな性格だから、@それが反転して、この世界では卑屈で臆病になっているわけだ。\
+;　普段、尊大で自信たっぷりな性格だから、@それが反転して、この世界では卑屈で臆病になっているわけだ。\
+` While normally overconfident and arrogant,`@`this was reversed and so in this world they were cowardly and subservient.`\
 
 
-
-　二人とも、時折、ちらちらと毬枝の表情を盗み見ては、びくびくと愛想笑いを浮かべる。@
+;　二人とも、時折、ちらちらと毬枝の表情を盗み見ては、びくびくと愛想笑いを浮かべる。@
+` Occasionally, they would look at Marie's facial expressions, and then put on more fake smiles and continue cleaning.`@
 br
-　何だか、私が意地悪をして二人をいじめてるみたいな気分だ。\
-
+;　何だか、私が意地悪をして二人をいじめてるみたいな気分だ。\
+` Somehow, I feel like bullying them.`\
 
 
 bg rouka_03,0
 ld r,MAR_I4a,22
 
-　……しかし、考えてみれば、私はちっとも悪くないっ。@
+;　……しかし、考えてみれば、私はちっとも悪くないっ。@
+`...but, if I think about it, I'm not really that bad at all.`@
 br
-　この二人が元の世界で、色々と問題があるから、@この世界でもそれが裏返って、さらに面倒な性格になるわけだ。\
-
+;　この二人が元の世界で、色々と問題があるから、@この世界でもそれが裏返って、さらに面倒な性格になるわけだ。\
+` In the real world, these two had various problems.`@`But even in this world, with the reversal, they still had somewhat troublesome personalities.`\
 
 
 ;bg black,22
@@ -1430,31 +1438,33 @@ se1 48
 ld l,HIG_D6,26
 quakey 2,200
 
-「ううぅううぅ、すみませんッ、すみません毬枝さまぁあぁ…！！@　この彼岸花が不甲斐ないばかりにぃいぃい、うううぅううぅ！！」@
-
+;「ううぅううぅ、すみませんッ、すみません毬枝さまぁあぁ…！！@　この彼岸花が不甲斐ないばかりにぃいぃい、うううぅううぅ！！」@
+`"Waaaaaaahh! Sorry, sorry Marie-samaaa!!`@`Higanbana is too shameless...waaaaahh!"`@
 ld r,MAR_D4a,80
 
-「あっ、いけない。@ついつい、違う世界の彼岸花さんに向かって……。」\
-
+;「あっ、いけない。@ついつい、違う世界の彼岸花さんに向かって……。」\
+`"Oh dear oh dear.`@`This really does look like a different Higanbana."`\
 bg black,22
 ;ld c,MAR_D2a,22
 
-　いけないいけない、この世界の彼岸花さんは臆病なのだから。@
+;　いけないいけない、この世界の彼岸花さんは臆病なのだから。@
+` My oh my, how cowardly this world's Higanbana seems to be.`@
 br
 
 ;ld c,MAR_D3a,80
 
-　それにしても、本当に不思議な世界。@
-　ならば、この世界の私はどんななんだろう？\
-
+;　それにしても、本当に不思議な世界。@
+` This world really was strange.`@
+;　ならば、この世界の私はどんななんだろう？\
+` So strange that it made me wonder all the more how I would appear in it.`\
 ;bg black,22
 bg rouka_03,0
 ld c,MAR_W1,22
 ld c,MAR_W2,80
 ;bg rouka_04,22
 
-「私って、人見知りするし臆病だし卑屈だし……。@……それが克服されてるんだから、ひょっとして、すごい社交的になっているかも？@　明るくて物怖じしなくて前向きで。@……理想の私だったりして…！@　ちょっと会いたくなってきちゃったなぁ。@うふふふ。」\
-
+;「私って、人見知りするし臆病だし卑屈だし……。@……それが克服されてるんだから、ひょっとして、すごい社交的になっているかも？@　明るくて物怖じしなくて前向きで。@……理想の私だったりして…！@　ちょっと会いたくなってきちゃったなぁ。@うふふふ。」\
+`"For me, if I was cowardly, shy and subservient before...`@`...then maybe there's a chance I've overcome that.`@`Maybe I'll be sociable? Amazing? Optimistic? `@` Surely I'll be the ideal 'me'.`@`I really want to see now.`@`Ufufufu."`\
 
 E_A
 se1 2
@@ -1462,10 +1472,11 @@ quakey 3,200
 
 ld c,MAR_I1a,80
 
-　その時、唐突に彼岸花とスミレが短い悲鳴を上げて飛び上がった。@
+;　その時、唐突に彼岸花とスミレが短い悲鳴を上げて飛び上がった。@
+` Just then, Higanbana and Sumire let out a short scream.`@
 br
-　何事かと思って振り返ると……。\
-
+;　何事かと思って振り返ると……。\
+` When I look back on it and think...`\
 
 
 bg black,24
@@ -1478,13 +1489,15 @@ ld r,MAR_W2,80
 
 bgm1 19
 
-「あら、さくのしんちゃん。@こんにちは。」@
+;「あら、さくのしんちゃん。@こんにちは。」@
+`"Ah, Sakunoshin-chan.`@`Hello."`@
 ;＜毬枝
 
 ld c,SMI_I1,0
 ld l,HIG_D7,80
 
-「ひぃ！」「ひゃあ！」\
+;「ひぃ！」「ひゃあ！」\
+`"Ah!" "Aiah!"`\
 ;＜スミレ・彼岸花
 
 
@@ -1492,25 +1505,27 @@ ld l,HIG_D7,80
 bg rouka_03,22
 ld l,SAK_W2,2
 
-「………りゅぅぅぅぅ………。」@
+;「………りゅぅぅぅぅ………。」@
+`"Uryuuuuuuu....."`@
 ;＜さくのしん
 
 me1v 16,50
 
 br
-　さくのしんが、一升瓶を手に、ふらふらしながらやって来る。@
-　明らかに千鳥足。@というか、毬枝のよく知るさくのしんの雰囲気じゃない。\
-
+;　さくのしんが、一升瓶を手に、ふらふらしながらやって来る。@
+` Bottle in hand, Sakunoshin ambled towards us, dizzy.`@
+;　明らかに千鳥足。@というか、毬枝のよく知るさくのしんの雰囲気じゃない。\
+` He was clearly staggering.`@`Marie saw at once this was not the Sakunoshin she knew.`\
 
 
 ld r,MAR_D4a,24
 
-「ど、どうしたの、さくのしんちゃん……。」@
-
+;「ど、どうしたの、さくのしんちゃん……。」@
+`"What's wrong, Sakunoshin?"`@
 ld l,SAK_D5,80
 
-「うりゅう！！」\
-
+;「うりゅう！！」\
+`"Uryuuu!!"`\
 E_A
 
 se1 12
@@ -1518,93 +1533,102 @@ quakex 5,600
 
 bgm1 28
 
-　唐突にさくのしんは飛び上がると、今、拭いたばかりの窓ガラスを、バーンと蹴る！@
-　せっかく磨いたのに、足跡の汚れが付いてしまう。\
-
+;　唐突にさくのしんは飛び上がると、今、拭いたばかりの窓ガラスを、バーンと蹴る！@
+` Suddenly, Sakunoshin ran, jumped, and kicked the window glass that had just been cleaned!`@
+;　せっかく磨いたのに、足跡の汚れが付いてしまう。\
+` Although it had been so stringently polished, dirty footprints were now stuck to it.`\
 
 
 ld r,MAR_N1,80
 
-「な、何をするの……。」@
-
+;「な、何をするの……。」@
+`"W-what are you doing?"`@
 cl l,0
 mld c,SAK_W1,23
 
 se1 12
 quakex 2,200
 
-「うりゅう！@/
-
+;「うりゅう！@/
+`"Uryuuu!`@/
 se2 12
 quakey 3,200
 
-　うりゅう！@/
-
+;　うりゅう！@/
+` Uryuu!`@/
 se3 12
 quakex 4,500
 
-　うりゅううううう！！」\
-
+;　うりゅううううう！！」\
+` Uryuuuuuuu!!"`\
 
 
 quakex 2,200
 se1 12
-　バーン！@/
+;　バーン！@/
+` BAM!`@/
 quakex 2,200
 se2 12
-　ビターン！@/
+;　ビターン！@/
+` BA-DUM!`@/
 quakex 2,300
 se3 12
-　バシーン！！@
+;　バシーン！！@
+` CRASH!!`@
 br
-　次々に窓ガラスに足跡を付けていく。\
-
+;　次々に窓ガラスに足跡を付けていく。\
+` He put footprints on the window one after the other.`\
 
 mcl c,0
 ld l,SAK_W2,24
 
-「いっひっひー。@ぉらぁ、何を見てんだ、彼岸花ぁ、スミレぇえぇ。@おらぁ、窓ガラスが汚れてんぞ～。@……とっとと拭かんかッ、うりゅああぁああぁ！！」\
-
+;「いっひっひー。@ぉらぁ、何を見てんだ、彼岸花ぁ、スミレぇえぇ。@おらぁ、窓ガラスが汚れてんぞ～。@……とっとと拭かんかッ、うりゅああぁああぁ！！」\
+`"Ihihihii.`@`Hey, what're you lot standing around looking at?`@`Higanbana?`@`Sumire?`@`I just messed up the window!`@`Hurry up and polish it! Uryuuuuu!!"`\
 se1 12
 quakex 4,300
-　バシーン！@
+;　バシーン！@
+` BAM!`@
 br
-　彼岸花たちは跳び上がり、大慌てで窓を拭き始める。\
-
+;　彼岸花たちは跳び上がり、大慌てで窓を拭き始める。\
+` Higanbana and Sumire jumped up and started polishing the windows in a hurry.`\
 
 
 
 ld r,MAR_I1a,80
 
-「ちょ、ちょっと……、何をするんですか……！」@
+;「ちょ、ちょっと……、何をするんですか……！」@
+`"H-hey, what are you doing?!"`@
 ;＜毬枝
 
 ld l,SAK_D5,80
 
-「………うりゅぅ。@……ちっ、酒が不味くならぁ。」@
+;「………うりゅぅ。@……ちっ、酒が不味くならぁ。」@
+`"Uryuuuu...`@` Man, Sake can screw you up real bad."`@
 br
-　さくのしんは、ぷいっとそっぽを向く。\
-
+;　さくのしんは、ぷいっとそっぽを向く。\
+` Sakunoshin turned away.`\
 cl l,24
 
-　そして、もっと腰を入れて磨けーと、彼岸花たちをいびっている。\
-
+;　そして、もっと腰を入れて磨けーと、彼岸花たちをいびっている。\
+` And then told Higanbana and Sumire to put their backs into it when they polished.`\
 
 
 ld r,MAR_I4a,80
 
-「な、なるほど……。@あの臆病だけれど、心のやさしいさくのしんちゃんは、反転するとこうなるわけね……。@…………………………。」\
-
+;「な、なるほど……。@あの臆病だけれど、心のやさしいさくのしんちゃんは、反転するとこうなるわけね……。@…………………………。」\
+`"I see...`@`That cowardly but kind-hearted Sakunoshin-chan has changed....`@`......"`\
 
 
 
 bg black,22
 
-　何だか不安になってくる。@
-　この世界の私って、……どうなってるんだろう。@
+;　何だか不安になってくる。@
+` It made Marie uneasy.`@
+;　この世界の私って、……どうなってるんだろう。@
+` What would this world's version of her be like?`@
 br
-　まさか、さくのしんちゃんみたいに………。\
-
+;　まさか、さくのしんちゃんみたいに………。\
+` Surely she wouldn't become like Sakunoshin-chan....`\
 fede 0,1000
 E_A
 
@@ -1614,16 +1638,18 @@ E_A
 
 me1v 5,50
 
-　鏡の世界の毬枝はその頃、どこにいただろう？@
+;　鏡の世界の毬枝はその頃、どこにいただろう？@
+` And just where was she?`@
 br
-　その世界にはいなかった。\
-
+;　その世界にはいなかった。\
+` Maybe she wasn't here at all.`\
 bg k_kaidan_02,22
 
-　何と、鏡を通り抜けて、毬枝たちの元の世界側にいた。@
+;　何と、鏡を通り抜けて、毬枝たちの元の世界側にいた。@
+` Maybe if she passed through the mirror to the real side, she'd be there.`@
 br
-　毬枝の想像通り、……その雰囲気は、本来のそれとは１８０度違う。\
-
+;　毬枝の想像通り、……その雰囲気は、本来のそれとは１８０度違う。\
+` As Marie guessed, ...that personality was 180 degrees from the original.`\
 
 se1 22
 bg k_kaidan_04,0
@@ -1641,40 +1667,43 @@ ld r,MAR_W4,80
 
 bgm1 19
 
-「……ここが、鏡の向こうの世界か…。@ちっ。@文字が何でもかんでも、左右に引っ繰り返ってやがる。@気持ち悪ぃったらありゃしねぇぜ。@まぁ、いい。@私がこの世界を支配したら、全部の文字を引っ繰り返してやるぜ！」@
+;「……ここが、鏡の向こうの世界か…。@ちっ。@文字が何でもかんでも、左右に引っ繰り返ってやがる。@気持ち悪ぃったらありゃしねぇぜ。@まぁ、いい。@私がこの世界を支配したら、全部の文字を引っ繰り返してやるぜ！」@
+`"In this, the mirror world,`@`Every thing, every character is reversed.`@` It feels bad,`@`but if I ruled the real world, I'd flip everything there too!"`@
 br
-　そう言って、げらげらと笑うその姿は、確かに外見だけは毬枝のそれだ。\
-
+;　そう言って、げらげらと笑うその姿は、確かに外見だけは毬枝のそれだ。\
+` As she said so, Marie laughed, and her appearance was surely just that of herself.`\
 
 
 ld r,MAR_W3,80
 
-「それにしても。@案外、呆気なく思い通りになってくれたぜ。@ふっふっふ…！！」\
-
+;「それにしても。@案外、呆気なく思い通りになってくれたぜ。@ふっふっふ…！！」\
+`"What's more,`@`Just like this, unexpectedly, I've become what I thought.`@` Fufufu!!"`\ 
 
 
 bg black,22
 mono 2
 ld c,MAR_W3,22
 
-　全て、鏡の世界の毬枝が仕組んだことだったのだ。@
+;　全て、鏡の世界の毬枝が仕組んだことだったのだ。@
+` Everything had been planned by the Mirror world Marie.`@
 br
-　彼女は自分の世界のキョウを縛り上げ、鏡の掃除を出来ないようにした。\
+;　彼女は自分の世界のキョウを縛り上げ、鏡の掃除を出来ないようにした。\
+` She had tied up her own world's Kyou and pretended to not be able to clean the mirrors.`\
 
 
-
-　その結果、彼女の世界の鏡は汚れる。@
+;　その結果、彼女の世界の鏡は汚れる。@
+` As a result, her world's mirrors were unclean.`@
 br
-　そして、他の世界のキョウが、こちら側の鏡の汚れに気付き、それを掃除するためにやって来る。\
-
-
+;　そして、他の世界のキョウが、こちら側の鏡の汚れに気付き、それを掃除するためにやって来る。\
+` And Kyou would notice the dirt on the other side of the mirror and come to clean it.`\
 
 ld c,MAR_W4,80
 
-　その間に相手の世界へ踏み込み、全てをブチのめして支配しようという算段なのだ。@
+;　その間に相手の世界へ踏み込み、全てをブチのめして支配しようという算段なのだ。@
+` In the meantime, she would break into the other world and plan to control it.`@
 br
-　鏡の世界の毬枝は、……元の世界の毬枝の想像をはるかに超える……、超々暴君だったのだ。\
-
+;　鏡の世界の毬枝は、……元の世界の毬枝の想像をはるかに超える……、超々暴君だったのだ。\
+` The mirror world's Marie, unlike the original, was an tyrant beyond all human imagination.`\
 
 
 
@@ -1742,8 +1771,8 @@ ld r,HIG_W6a,23
 
 me3v 5,50
 
-「んなんですってぇえええぇええええぇええ？！？！」\
-
+;「んなんですってぇえええぇええええぇええ？！？！」\
+`"Whaaaaaaaaaaaaat?!?!"`\
 
 
 　保健室内でバチバチと両者の妖気が火花を散らす。@
