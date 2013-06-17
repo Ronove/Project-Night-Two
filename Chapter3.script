@@ -2029,8 +2029,8 @@ ld r,KYO_D2,80
 
 bgm1 5
 
-「危ないところだったぜ。@どうやら、こいつの世界の毬枝は、手の付けられねぇ、相当のバイオレンスジェネラルらしいぜ。」\
-
+;「危ないところだったぜ。@どうやら、こいつの世界の毬枝は、手の付けられねぇ、相当のバイオレンスジェネラルらしいぜ。」\
+`"That was dangerous.`@`No matter how you look at it, that Marie was nothing but a Violent General"`\
 
 
 ld c,MAR_D2a,80
@@ -2040,57 +2040,59 @@ ld c,MAR_D2a,80
 
 ld l,KYO_D3,80
 
-「こちらこそ、そっちに迷惑を掛けてすまねぇ。@俺様としたことが面目ねぇぜ。」\
-
+;「こちらこそ、そっちに迷惑を掛けてすまねぇ。@俺様としたことが面目ねぇぜ。」\
+`"Likewise, I've been a bother.`@`I've ruined my pride and reputation."`\
 
 
 ld c,MAR_D4a,80
 
-「でも、……びっくりです。@いくら別世界とはいえ、……もう一人の私が、乱暴者だなんて。」@
-
+;「でも、……びっくりです。@いくら別世界とはいえ、……もう一人の私が、乱暴者だなんて。」@
+`"But, I'm surprised.`@`No matter how many times you speak of that other world, I can't believe the 'me' in it was like that."`@
 ld l,KYO_D5,80
 
-「それだけ、あんたが乱暴者じゃねぇってことの証だろうぜ。」\
-
+;「それだけ、あんたが乱暴者じゃねぇってことの証だろうぜ。」\
+`"Well, think of it as proof that you're not a violent person."`\
 
 
 ld r,KYO_D4,80
 
-「そして、鏡に映った逆の姿もまた、同時にお前の本性でもある。@……他人事とは思わねぇことだぜ。」@
-
+;「そして、鏡に映った逆の姿もまた、同時にお前の本性でもある。@……他人事とは思わねぇことだぜ。」@
+`"And at the same time, the figure that appeared in the mirror also showed you your true personality.`@`It's not something to take lightly."`@
 ld l,KYO_D1,80
 
-「どのような形であれ、鏡はいつだって真実を映すんだぜ。@……本当にビューティな姿をしていたなら、鏡にもまったく同じく、美しい姿が映るだろ。」\
-
+;「どのような形であれ、鏡はいつだって真実を映すんだぜ。@……本当にビューティな姿をしていたなら、鏡にもまったく同じく、美しい姿が映るだろ。」\
+`"Whatever form you have here, the mirror will reflect the truth.`@`If you really are beautiful, then the mirror too shall show beauty."`\
 
 
 ld r,KYO_D5,80
 
-「レフト＆ライトが歪だから、逆になろうとも、鏡はその歪を映し出す。」\
-
+;「レフト＆ライトが歪だから、逆になろうとも、鏡はその歪を映し出す。」\
+`"Because left and right are distorted, the mirror will show that distortion."`\
 
 
 bg black,0
 ld c,MAR_D2a,22
 
-　……なるほど。@
+;　……なるほど。@
+` I see...`@
 br
-　私は自分のことを謙虚なのだと思い込んでいるけれど。@……それは卑屈なことで、余り良いことではないのだろう。\
-
+;　私は自分のことを謙虚なのだと思い込んでいるけれど。@……それは卑屈なことで、余り良いことではないのだろう。\
+` Even though I'm convinced that I'm a humble person,`@`I don't think that being constantly servile is in my best interest.`\
 
 
 ;ld c,MAR_D3a,80
 
-　鏡の世界の私は乱暴者だった。@……それはひょっとしたら、抑え込んだ、私の本心なのかもしれない。\
-
+;　鏡の世界の私は乱暴者だった。@……それはひょっとしたら、抑え込んだ、私の本心なのかもしれない。\
+` The Mirror's version of me was so violent...`@`..maybe those are my true feelings, deep down...`\
 
 
 ld c,MAR_I4a,80
 
-　……卑屈は止めなきゃ。@胸を張って堂々と。@
+;　……卑屈は止めなきゃ。@胸を張って堂々と。@
+`...I can't stop being humble.`@`But at least I can be proud of it.`@
 br
-　そうすれば鏡の世界で出会う自分も、やがてはまったく同じ姿になるだろう。\
-
+;　そうすれば鏡の世界で出会う自分も、やがてはまったく同じ姿になるだろう。\
+` And in that way I can adopt characteristics of both me and the me from the mirror.`\
 bg black,22
 
 fede 0,1000
@@ -2098,9 +2100,11 @@ E_A
 
 bg hoken_04,22
 
-　どたどたどたどた…！！@/
+;　どたどたどたどた…！！@/
+` THUD THUD THUD!!`@/
 se1 82
-　ガラガラガラー！！@
+;　ガラガラガラー！！@
+` RATTLE RATTLE RATTLE!!`@
 br
 
 bg black,24
@@ -2109,8 +2113,8 @@ ld r,MAR_D4,22
 ;se1 3
 ;ld l,HIG_D7,23
 
-　その時、凄まじい勢いで彼岸花が駆け込んでくる。\
-
+;　その時、凄まじい勢いで彼岸花が駆け込んでくる。\
+` Higanbana rushed in, furious.`\
 
 se1 3
 ld l,HIG_D7,23
@@ -2120,7 +2124,8 @@ quakex 2,200
 
 bgm1 32
 
-「ま、毬枝さまぁあぁあぁぁ！！@　栗饅頭、５分で持ってきましたー！！」@
+;「ま、毬枝さまぁあぁあぁぁ！！@　栗饅頭、５分で持ってきましたー！！」@
+`"Marie-samaaaaaa!!`@`I brought it! Chestnut Cake! In five minutes!!"`@
 br
 
 ld l,hig_W4a,80
@@ -2128,40 +2133,41 @@ se1 48
 wait 500
 se2 48
 
-　ジャンピング土下座を繰り返す彼岸花。\
-
+;　ジャンピング土下座を繰り返す彼岸花。\
+` Higanbana was repeatedly jumping up and then prostrating herself on the ground.`\
 
 
 ld r,MAR_D4a,80
 
-　一度も見たことのない、情けない顔をして、ぴょこぴょこと飛び跳ねている。@
-
+;　一度も見たことのない、情けない顔をして、ぴょこぴょこと飛び跳ねている。@
+` Just one look at her showed how upset and miserable she was.`@
 ;ld r,MAR_D1,80
 
 br
-　毬枝は面食らったが、ポンと手を打つと、ちょっぴりだけ表情を険しくして言う。\
-
+;　毬枝は面食らったが、ポンと手を打つと、ちょっぴりだけ表情を険しくして言う。\
+` Marie was a bit taken aback, but when she slapped with her hand, Higanbana's facial expression became a little more stern.`\
 
 
 ld r,MAR_I3,80
 
-「いいですか、彼岸花さん。@親しき仲にも礼儀ありと言います。@私たちはお友達なんですからね？@　わがままを言ったり困ったことを言い出したりしたら、また怒りますからね？@　わかりましたか？@　お返事はっ。」\
-
+;「いいですか、彼岸花さん。@親しき仲にも礼儀ありと言います。@私たちはお友達なんですからね？@　わがままを言ったり困ったことを言い出したりしたら、また怒りますからね？@　わかりましたか？@　お返事はっ。」\
+`"It's fine Higanbana-san.`@`Let's have good manners between us.`@`After all, we are friends, right?`@`Or are you scared that I'll become angry again?`@` Huh?`@`C'mon, reply."`\
 
 
 ld l,HIG_D7,80
 se1 47
 quakey 3,300
 
-「はッ、はいーーーーーーー！！！」@
+;「はッ、はいーーーーーーー！！！」@
+`"Y-Yes!!!!!"`@
 br
 
 se1 48
 wait 300
 se2 48
 
-　ぴょいん、ぴょいん！！\
-
+;　ぴょいん、ぴょいん！！\
+` Boing Boing!!`\
 textoff
 wait 1000
 
