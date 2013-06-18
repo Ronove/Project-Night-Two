@@ -1,43 +1,48 @@
 ;Chapter 5
-「ヒヒイロカネとオリハルコンは同じものじゃないの？」@
+;「ヒヒイロカネとオリハルコンは同じものじゃないの？」@
+`"Aren't Scarletite and Orichalcum the same thing?"`@
 ;＜みちる
 
 se1 47
 ld r,TOM_D2,26
 
-「アトランティスより古代日本に伝えられたとする説もあるけれどねー。@私は双方とも違うものだと見てるねー！」\
+;「アトランティスより古代日本に伝えられたとする説もあるけれどねー。@私は双方とも違うものだと見てるねー！」\
+`"It's generally accepted in theory that the metal was transferred from Atlantis to Ancient Japan.`@`But I think they may be different."`\
 ;＜智子
 
 
 
 
-　みちると熱心にオカルト談義に耽るのは、岡田智子（おかだ　ともこ）。@
-　みちるに負けないくらいの、@いや、偏った一部の分野においては、みちるでさえ閉口してしまうほどのオカルトマニアだった。\
+;　みちると熱心にオカルト談義に耽るのは、岡田智子（おかだ　ともこ）。@
+` Michiru was lecturing in the Occult to Okada Tomoko.`@
+;　みちるに負けないくらいの、@いや、偏った一部の分野においては、みちるでさえ閉口してしまうほどのオカルトマニアだった。\
+` She wasn't one to lose to Michiru,`@`rather, even in this one-sided field, she was so obsessed with the Occult that she was closing in on her.`\
 
 
-
-　当然、この二人はそれぞれのクラスでは孤立し、友達もいなかった。@
-　しかし、偶然のきっかけから二人は知り合い、……いつの間にか、大の親友になっていた。\
-
+;　当然、この二人はそれぞれのクラスでは孤立し、友達もいなかった。@
+` Naturally, in their respective classes, these two had no friends.`@
+;　しかし、偶然のきっかけから二人は知り合い、……いつの間にか、大の親友になっていた。\
+` However, by chance they had met and before long become best friends.`\
 cl r,0
 ld c,TOM_D4,24
 
-「そもそも、アトランティスっちゅーのはねー。@アタナシウス・キルヒャーが書いた地図が元でー。」@
+;「そもそも、アトランティスっちゅーのはねー。@アタナシウス・キルヒャーが書いた地図が元でー。」@
+`"First of all, this 'Atlantis' thing,`@` it originates from the map done by Athanasius Kircher, right?"`@
 ;＜智子
 
 cl l,0
 ld r,MIC_D4,23
 
-「ふむふむ、ふむふむ。」\
-
+;「ふむふむ、ふむふむ。」\
+`"Mhmmhmm..."`\
 ld c,TOM_D5,80
 
-「そのキルヒャーが１６６６年に手にしたのが、かの有名なヴォイニッチ手稿でー！」@
-
+;「そのキルヒャーが１６６６年に手にしたのが、かの有名なヴォイニッチ手稿でー！」@
+`"And in 1666, this Kircher got ahold of the famous Voynich manuscript!"`@
 ld r,MIC_D2,80
 
-「知ってる。@誰にも読めない謎の原稿。」\
-
+;「知ってる。@誰にも読めない謎の原稿。」\
+`"I know it.`@`The mysterious original that nobody can read."`\
 cl c,0
 mld l,TOM_D2,24
 
@@ -47,23 +52,25 @@ mld l,TOM_D2,24
 cl r,0
 ld c,MIC_D4,24
 
-「ふむふむ、ふむふむっ。」\
-
+;「ふむふむ、ふむふむっ。」\
+`"Mhmmhmmmhmm...."`\
 mcl l,0
 ld r,TOM_D7,23
 
-「んで、そこにソロモン王の伝説が絡んでくるー！@　悪魔の秘術は即ち、当時の彼らが理解できなかった、超文明の科学力を指してるってわけでー！」\
+;「んで、そこにソロモン王の伝説が絡んでくるー！@　悪魔の秘術は即ち、当時の彼らが理解できなかった、超文明の科学力を指してるってわけでー！」\
+`"And that's where the legend of King Solomon comes into play!`@`Demonic Numerology was heretical and misunderstood at the time, but could support a scientifically advanced super civilization."`\ 
 ;＜智子
 
 cl c,0
 mld c,MIC_D3,80
 
-「グリモワールの数々は、決しておとぎ話じゃない。@……異なる次元の存在と交流の可能だった時代が存在したことの確かな示唆……。」@
-
+;「グリモワールの数々は、決しておとぎ話じゃない。@……異なる次元の存在と交流の可能だった時代が存在したことの確かな示唆……。」@
+`"Most of the Grimoires are more than just fairy tales.`@`...they suggest that a time in which interaction with different dimensions was possible actually existed."`@
 cl r,0
 ld l,TOM_D1,24
 
-「確かに確かにっ。」\
+;「確かに確かにっ。」\
+`"Definitely, definitely."`\
 ;＜智子
 
 mcl c,0
@@ -71,14 +78,16 @@ mcl c,0
 bg black,22
 bg Different_spiral_1b,22
 
-　空想科学、とんでも科学。@
+;　空想科学、とんでも科学。@
+`Science Fiction, Science Fantasy.`@
 br
-　ＳＦにオカルト、ファンタジー。@
+;　ＳＦにオカルト、ファンタジー。@
+` Sci-Fi and Occult Fantasy.`@
 br
-　ＵＦＯ、ネッシーにスカイフィッシュ。@とにかく不思議なものは何でもござれ。\
-
-　みちるは、霊や悪魔、魔法などのオカルトに精通し、@智子は、空想科学やとんでもＳＦに精通していた。\
-
+;　ＵＦＯ、ネッシーにスカイフィッシュ。@とにかく不思議なものは何でもござれ。\
+` UFOs, Loch Ness Monsters, and Sky Fish.`@`All weird things, at any rate.`\
+;　みちるは、霊や悪魔、魔法などのオカルトに精通し、@智子は、空想科学やとんでもＳＦに精通していた。\
+` Michiru was familiar with demons and spirits, and magic.`@` Tomoko, with Science Fiction and Fantasy.`\
 
 bg black,22
 bg ie_02,22
@@ -92,40 +101,46 @@ bg ie_02,22
 ;ld r,MIC_D1,0
 ;ld l,TOM_D1,80
 
-　二人は互いの知識を尊敬し合い、感嘆しては、ますますに議論にはまっていく。@
+;　二人は互いの知識を尊敬し合い、感嘆しては、ますますに議論にはまっていく。@
+` The two respected eachothers knowledge and were driven to discuss the topics more and more.`@
 br
-　ほとんどの人々には理解不能なそれも、@彼女らにとっては、時間を忘れるほどの素晴らしい議論だった。\
+;　ほとんどの人々には理解不能なそれも、@彼女らにとっては、時間を忘れるほどの素晴らしい議論だった。\
+` For most people, the topics were incomprehensible, but proved material for great debate for the two of them.`\
 
-
-　二人は、無地のノートを広げて、@その無限に広がるオカルトトークを、しゃべりながらイラストにして延々と落書きしている。\
-
+;　二人は、無地のノートを広げて、@その無限に広がるオカルトトークを、しゃべりながらイラストにして延々と落書きしている。\
+` They would have blank notebooks open,`@`and while discussing the limitless Occult, doodle and illustrate.`\
 
 bg black,22
 bg note1,22
 
-　そんなオカルト落書きノートは、すでに何冊にも及んでいるのだ。@
+;　そんなオカルト落書きノートは、すでに何冊にも及んでいるのだ。@
+` These Occult notes filled many volumes already.`@
 br
-　二人が遊ぶ時、常にみちるが持ち歩いているそれは、どれも黒ずんで年季が入っている。\
+;　二人が遊ぶ時、常にみちるが持ち歩いているそれは、どれも黒ずんで年季が入っている。\
+` Michiru always brought them when the two of them played.`\
 
 
-
-　開けばその内容を理解することは、彼女ら二人以外には到底不可能だろう。@
+;　開けばその内容を理解することは、彼女ら二人以外には到底不可能だろう。@
+` After all, the contents would be incomprehensible to any but the two of them.`@
 br
-　しかし、二人にとってそれは、楽しい楽しい時間を一緒に過ごした証なのだ。\
-
+;　しかし、二人にとってそれは、楽しい楽しい時間を一緒に過ごした証なのだ。\
+` But it was proof that the two of them had fun times together.`\
 bg black,22
 bg ie_04,22
 
-「智子ー！@　もうこんな時間よー！@　みちるちゃんにも帰ってもらいなさーい！！」@
+;「智子ー！@　もうこんな時間よー！@　みちるちゃんにも帰ってもらいなさーい！！」@
+`"Tomoko!`@`It's that time already!`@` Let Michiru-chan leave!!"`@
 br
-　時計を見ると、午後７時も間近。@
-　カーテンの隙間から外を見ると、いつの間にか暗くなっていた。\
+;　時計を見ると、午後７時も間近。@
+` The clock said it was almost 7 pm.`@
+;　カーテンの隙間から外を見ると、いつの間にか暗くなっていた。\
+` Looking through the slit in the curtain, it was dark before she knew it.`\
 
 
-
-　なんてこった。@さっき腰を下ろして二人で議論を始めたのはお昼過ぎのはずなのに。@
-　みちるにとって、智子と議論に耽る時間は、あまりに楽しく、そしてあまりに時間が早く経つのだった。\
-
+;　なんてこった。@さっき腰を下ろして二人で議論を始めたのはお昼過ぎのはずなのに。@
+` Jeez.`@`It should have been still afternoon, with the two of them sitting down chatting.`@
+;　みちるにとって、智子と議論に耽る時間は、あまりに楽しく、そしてあまりに時間が早く経つのだった。\
+` For Michiru, the times she lectured Tomoko was fun, and the time thus flew by quite fast.`\
 bg black,2
 me1v 30,50
 bg mansion_03,0
@@ -135,35 +150,35 @@ ld r,TOM_D3,22
 ld r,TOM_D1,80
 
 
-「じゃーねー！@　まったねー！！」@
-
+;「じゃーねー！@　まったねー！！」@
+`"Byeee!`@` See you next time!!"`@
 ld l,MIC_D1,80
 
-「またね、智子ちゃん。@明日も遊びに来ていい？」\
-
+;「またね、智子ちゃん。@明日も遊びに来ていい？」\
+`"See you, Tomoko-chan.`@` Can you come and play tomorrow?"`\
 ld r,TOM_D2,80
 
-「ごめんねー！@　明日は家族で温泉リゾートに遊びに行くんだよー。@ふっひっひー、いいだろー！」@
-
+;「ごめんねー！@　明日は家族で温泉リゾートに遊びに行くんだよー。@ふっひっひー、いいだろー！」@
+`"Sorry!`@`I'm going to play at the family Hot Spring resort tomorrow.`@`Okay?"`@
 ld l,MIC_D4,80
 
-「そっか。@じゃあ、ノートに７２柱の絵、書いておいて、学校で見せるね。」\
-
+;「そっか。@じゃあ、ノートに７２柱の絵、書いておいて、学校で見せるね。」\
+`"Well, I'll keep doing this picture of the 72 demons, and show it to you at school."`\
 ld r,TOM_D1,80
 
-「うんうん、お願いねー！@　みちるちゃんは絵がうまいから、楽しみだよー！」@
-
+;「うんうん、お願いねー！@　みちるちゃんは絵がうまいから、楽しみだよー！」@
+`"Yes, yes please!`@`Michiru-chan is so skilled at drawing, I can't wait to see it!"`@
 ld l,MIC_D2,80
 
-「じゃあね、また学校でね。」\
-
+;「じゃあね、また学校でね。」\
+`"Well, until school, then."`\
 mono 1
 print 2
 
 E_B
 
-　それが最後の別れになるなんて、………私は想像もしなかった。\
-
+;　それが最後の別れになるなんて、………私は想像もしなかった。\
+` She never imagined that that would be the last time she would say goodbye.`\
 bg black,22
 mono 0
 
@@ -174,44 +189,51 @@ bg kyou_01,22
 
 bgm1 24
 
-　翌々日。@……学校で先生より、智子ちゃんが突然、亡くなったことを聞いた。@
-　家族で出掛けた温泉リゾートで。@温水プールの脇で、滑って転んで、プールの縁に頭を強く打ち付けたらしい。\
+;　翌々日。@……学校で先生より、智子ちゃんが突然、亡くなったことを聞いた。@
+` Two days later,`@` at school she hear from the teacher that Tomoko had died.`@
+;　家族で出掛けた温泉リゾートで。@温水プールの脇で、滑って転んで、プールの縁に頭を強く打ち付けたらしい。\
+` At the Hot Spring resort she went to with her family,`@`she apparently slipped and fell into the pool and on the way down hit her head.`\
 
 
-
-　そのまま意識を失い、…………もう、智子ちゃんは、二度と目を覚ますことはなかったそうだ……。@
-　私は日曜日を一つ、またいだだけで。@……唯一無二の友人を、失ってしまった……。\
-
+;　そのまま意識を失い、…………もう、智子ちゃんは、二度と目を覚ますことはなかったそうだ……。@
+` She lost consciousness, and just never woke up again...`@
+;　私は日曜日を一つ、またいだだけで。@……唯一無二の友人を、失ってしまった……。\
+` Over this Sunday, I had lost my one`@`and only friend...`\
 bg black,22
 ld c,MIC_D1,22
 
-　自分が、平均的な子じゃないことはよく知っていた。@
-　友達なんて出来ないし、誰も友達になろうなんて思わない。@
-　少し寂しいとは思ったけれど、@……こんな変わり者の自分を理解してくれる人間なんて、いるわけもないと諦めていた。\
-
+;　自分が、平均的な子じゃないことはよく知っていた。@
+` I knew well that I wasn't a normal child.`@
+;　友達なんて出来ないし、誰も友達になろうなんて思わない。@
+` I couldn't make friends, and even found the notion of becoming friends with people unthinkable.`@
+;　少し寂しいとは思ったけれど、@……こんな変わり者の自分を理解してくれる人間なんて、いるわけもないと諦めていた。\
+` It made me sad,`@`but I'd given up on finding people that could help me understand myself.`\
 ld r,TOM_D3,22
 ld r,TOM_D1,80
 
-　……そんな中、出会ったのが、智子ちゃんだった。\
-
+;　……そんな中、出会ったのが、智子ちゃんだった。\
+` ...and then, I met Tomoko-chan.`\
 bg black,22
 bg kyou_02,22
 
 
-　彼女は、私の霊が視える体質のことも馬鹿にしないで信じてくれた。@
-　私のオカルトの話も、真剣に聞いてくれた。\
-
+;　彼女は、私の霊が視える体質のことも馬鹿にしないで信じてくれた。@
+` She didn't doubt my ability to see spirits, or call me a fool.`@
+;　私のオカルトの話も、真剣に聞いてくれた。\
+` She'd listend earnestly to my Occult stories.`\
 ld r,MIC_D5,22
 
-　それを二人で図解してノートに落書きし合うのが大好きだった。@
-　今日もこうして、@……日曜日をまるまる掛けて、彼女に喜んでもらおうと、色々ノートに書いて持ってきたのに。\
-
+;　それを二人で図解してノートに落書きし合うのが大好きだった。@
+` I loved the times the two of us would meed and doodle in eachother's notebooks.`@
+;　今日もこうして、@……日曜日をまるまる掛けて、彼女に喜んでもらおうと、色々ノートに書いて持ってきたのに。\
+` So this Sunday,`@`even though I was so excited to see her and continue drawing...`\
 ld r,MIC_N1,80
 
-　………もう、一緒に読んでくれる彼女はこの世にいない……。@
+;　………もう、一緒に読んでくれる彼女はこの世にいない……。@
+` ....the girl I'd draw and read with was no longer in this world...`@
 br
-　………………………………。\
-
+;　………………………………。\
+` ..............`\
 ;mcl a,0
 bg black,42
 
@@ -224,26 +246,31 @@ bg ie_05,22
 me1v 35,50
 
 
-「……みちるー？@　みちるー？@　………降りてきて晩御飯、食べなさーい……。」@
-「みちるはまだ寝ているのか。」\
+;「……みちるー？@　みちるー？@　………降りてきて晩御飯、食べなさーい……。」@
+`"Michiru?`@`Michiru?`@` Come down for dinner!"`@
+;「みちるはまだ寝ているのか。」\
+`"She's still sleeping?"`\
 
 
-
-「……お友達が亡くなったのがショックみたいで。@……すっかり元気をなくしちゃって。」@
-「あー、智子ちゃんだっけ？@　……みちる、大の仲良しだったもんなぁ……。」@
+;「……お友達が亡くなったのがショックみたいで。@……すっかり元気をなくしちゃって。」@
+`"...She seems shocked from her friend's death.`@`It's like she's lost her spirit."`@
+;「あー、智子ちゃんだっけ？@　……みちる、大の仲良しだったもんなぁ……。」@
+`"Ah, Tomoko-chan?`@`So she was such an important friend to Michiru...."`@
 br
-　階段を見上げ、みちるの両親は心配そうだった。\
-
+;　階段を見上げ、みちるの両親は心配そうだった。\
+` Michiru's parents were worried, casting glances up the stairs.`\
 bg black,22
 bg ie_06,22
 
-　……みちるはあの日、以来、ずっと寝込んでいる。@
-　すっかり気力をなくしてしまい、屍のように、ずっとずっと横になっていた。\
-
-　時折、意識が戻ると、@………また、親友がもうこの世にいないことを思い出して、涙を零してしまう。@
+;　……みちるはあの日、以来、ずっと寝込んでいる。@
+` Michiru had been sleeping since that day.`@
+;　すっかり気力をなくしてしまい、屍のように、ずっとずっと横になっていた。\
+` She had lost her spirit completely, and was lying down like a corpse.`\
+;　時折、意識が戻ると、@………また、親友がもうこの世にいないことを思い出して、涙を零してしまう。@
+` Occasionally she'd come to,`@`but then she'd remember that her best friend had forever gone, and tears would creep down her face.`@
 br
-　……親友の面影を感じたくて、@二人で書き溜めてきた落書きノートを開くと、……また涙が零れた。\
-
+;　……親友の面影を感じたくて、@二人で書き溜めてきた落書きノートを開くと、……また涙が零れた。\
+` She wanted to feel the remnants of her friend,`@`and so opened their notebooks, and cried.`\
 
 bg black,22
 bgm1 25
@@ -253,31 +280,37 @@ E_MA
 
 bg note1,22
 
-　ノートにところ狭しと書き込まれた、様々な落書き、文章。@
+;　ノートにところ狭しと書き込まれた、様々な落書き、文章。@
+` Various jottings and sentences were crammed into the pages.`@
 br
-　それらは乱雑で、二人以外には何が書かれているのかを理解することも出来ないだろう。\
+;　それらは乱雑で、二人以外には何が書かれているのかを理解することも出来ないだろう。\
+` It was messy, and unintelligible to any but the two of them.`\ 
 
 
-
-　……しかし、みちるにはわかるのだ。@
+;　……しかし、みちるにはわかるのだ。@
+` ....But Michiru understood it.`@
 br
-　何が書いてあるのか、だけではない。@
-　それを書いた時、二人がどんな風に笑い合い、どんなことを話して、どう盛り上がったか。@
+;　何が書いてあるのか、だけではない。@
+` Not just what was written.`@
+;　それを書いた時、二人がどんな風に笑い合い、どんなことを話して、どう盛り上がったか。@
+` She remembered what they had been talking about, or laughing at while they had written.`@
 br
-　そんな思い出が、ノートの全てのページから、湧き出すように思い出せるのだ……。\
-
+;　そんな思い出が、ノートの全てのページから、湧き出すように思い出せるのだ……。\
+` These memories almost welled up from within the pages of the notebook...`\
 bg black,22
 bg ie_06,22
 
-　みちるの布団の周りはいつしか、ページの開いた落書きノートで埋め尽くされるようになっていた……。\
-
+;　みちるの布団の周りはいつしか、ページの開いた落書きノートで埋め尽くされるようになっていた……。\
+` The area around and in Michiru's bed was littered and filled with these notebook pages.`\
 bg black,22
 
-　みちるの心の穴は、まったく塞がりはしなかった。@
-　両親も同情し、風邪ということで３日ほどは休みを認めてくれた。@
+;　みちるの心の穴は、まったく塞がりはしなかった。@
+` But the hole in her heart remained.`@
+;　両親も同情し、風邪ということで３日ほどは休みを認めてくれた。@
+` Her parents, out of sympathy, let her rest for 3 days under the pretense of a cold.`@
 br
-　しかし、心配した担任の訪問を受け、……学校に復帰しなくてはならなくなった。\
-
+;　しかし、心配した担任の訪問を受け、……学校に復帰しなくてはならなくなった。\
+` But, in response to her homeroom teacher's worried, she had to return to school.`\
 bg gakkou_01,2
 wait 2000
 bg black,22
@@ -285,7 +318,8 @@ bg black,22
 bg kyou_01,22
 ld c,MIC_D5,2
 
-　そうして、数日ぶりに姿を見せたみちるは、@………まるで別人のように、暗く、塞ぎ込み、変わり果てていた。@
+;　そうして、数日ぶりに姿を見せたみちるは、@………まるで別人のように、暗く、塞ぎ込み、変わり果てていた。@
+` Then, when she saw her body for the first time in days,`@`Michiru looked like a different, silent, changed person.`@
 　迂闊に話し掛けるべきでない気配をまとった彼女を、@クラス中の誰もが、腫れ物を扱うかのように接した。\
 
 cl c,22
