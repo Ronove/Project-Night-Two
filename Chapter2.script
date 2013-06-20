@@ -27,7 +27,7 @@ quakey 2,200
 `　Her entire body was drenched in sweat. `@`Her legs stiffened, cramped.`@
 br
 ;　無理もない。@少女は校舎の中を、１時間も走り回っていたのだから。\
-`　They hadn't been wasted. `@`After all, she had been running around the inside of the school for a full hour.`\
+`　This was only natural. `@`After all, she had been running around the inside of the school for a full hour.`\
 
 bg black,23
 bg rouka_03,23
@@ -166,7 +166,7 @@ ld c,AYA_D1,80
 bgm1 8
 
 ;　私の名は、相馬あや（そうま　あや）。@
-`　My name is Aya Souma.`@
+`　My name is Aya Souma. (相馬あや)`@
 br
 ;　名前なんて、どうでもいい。@
 `　Names and stuff don't really matter.`@
@@ -205,7 +205,7 @@ fede 10,1000
 E_MA
 
 ;　人間は、誰も彼も、何の存在価値もないのだ。@
-`　Human beings, one and hall, have no real value in living.`@
+`　Human beings, one and all, have no real value in living.`@
 br
 ;　そして私たちは学校で、何の価値もないことを延々と教えられている。\
 `　And so in school we're endlessly taught things of no real value either.`\
@@ -333,14 +333,14 @@ me1v 24,50
 
 
 ;「１３階段なんて、本当にあるわけ？」@
-`"13th floor you say? Is there really such a thing?"`@
+`"A 13th step you say? Is there really such a thing?"`@
 ;「うん。@学校八不思議の、すっごい有名なやつだよ。」\
 `"Yeah. `@`It's one of the most famous of the Eight School Mysteries."`\
 
 ld r,AYA_D4,22
 
 ;　１３階段の怪談なら、私も聞いたことがある。@
-`　I've also heard the story of the 13th floor.`@
+`　I've also heard the story of the 13th step.`@
 br
 ;　ぴったり１３段の階段なんて学校には存在しないはずなのに。@唐突に階段が１３段になってしまうらしいという怪異。@
 `　Even though the school shouldn't have a 13 steps on a flight of stairs. `@`There's now this strange phenomenom that has just developed about a 13th step.`@
@@ -626,7 +626,7 @@ bg black,22
 bg roji_03,22
 
 ;　両親は共働きで帰りは遅い。@
-` Her parents both worked so they'd come home late.`@
+` Her parents both worked, so they'd come home late.`@
 br
 ;　かつてはテレビも見ていたが、その馬鹿馬鹿しい内容に何の意味も価値も見出せず。@……今では彼女は、家でもただぼんやりと横になって過ごすだけだった。\
 ` She used to watch television, but found no meaning or value in the idiotic content of the programs... `@`Now she just passes the time laying around in the house.`\
@@ -817,7 +817,7 @@ bg black,23
 bg rouka_04,23
 
 ;「許して下さい…、許して下さい……。@私、何も悪いことしてないんです……。@いつもクラスのみんなにいじめられてて……、@どこにも居場所がないんです……。@なのにその上、……こんな目に遭わされるなんて……。@そんなのあんまりです…、あんまりです……。@何で、こんな私がこんな目に遭わされなきゃならないんですか……。@……死神なら、@私をいじめる人とか、もっともっと悪い人の魂を獲物にしてくれればいいのに……！」\
-`"Let me live please...Let me live. `@`I won't do anything bad anymore... `@`I'm always bullied by everyone in class... `@`I don't have a place anywhere... `@`And to meet a fate lik this...`@`I don't deserve this... not like this... `@`Why do I have to suffer like this? `@`If you're a shinigami, hunt the souls of the worse people that bully me!"`\
+`"Let me live please...Let me live. `@`I won't do anything bad anymore... `@`I'm always bullied by everyone in class... `@`I don't have a place anywhere... `@`And to meet a fate like this...`@`I don't deserve this... not like this... `@`Why do I have to suffer like this? `@`If you're a shinigami, hunt the souls of the worse people that bully me!"`\
 ld r,IZA_D6,6
 
 ;「俺ァな。@お前みたいな。@クソ落ち目なヤツが大好物なんだよォ…！！@　うっひゃっひゃっひゃっひゃ！！」@
@@ -1008,7 +1008,7 @@ br
 ;　“私”を、見る。\
 ` He looks at "me".`\
 ;　……ここって、……私の夢の中の世界じゃ、なかったっけ……？@
-` But this... isn't the world of my dreams at all...?`@
+` But this... wasn't this the world of my dreams...?`@
 br
 ;　テレビの向こうにいるはずの人物に、こちらを睨みつけられたかのような不気味さ。@
 `　It was an unease almost as if an actor that should have been inside a TV set started to glare in my direction.`@
@@ -1048,7 +1048,7 @@ bgm1 7
 ;　……恐ろしい夢に怯えて目を覚ました経験が、なかったわけじゃない。@
 `...It's not as though I've never had the experience of waking up from a nightmare before.`@
 ;　しかし、今までのそれとは一線を画す何かだった。@
-` But this was something that really distinguished itself from past experiences.`@
+` But something about this really distinguished itself from past experiences.`@
 br
 ;　そう、“何か”。\
 ` Yes, quite the "something".`\
@@ -1450,7 +1450,7 @@ ld l,AYA_D7a,23
 `　I didn't let my guard down while watching this spectacle.`@
 br
 ;　これが夢かもしれないなどと、頬を抓りもしないし、眉に唾を塗るようなこともしない。\
-`(?) This might be a dream, but I wasn't about to snap out of it.`\
+` This might be a dream, but I didn't attempt to pinch my cheek or wake myself up.`\
 
 ;　とにかく、目の前に、あの恐ろしい死神が実在することが現実であり。@
 `　Regardless, the reality is that standing before my very eyes is that terrifying shinigami.`@
@@ -1470,7 +1470,7 @@ ld r,IZA_D2,80
 ld r,IZA_D5,80
 
 ;　そう言いながら、死神は顎で、教室を出ろと促す。@
-`　As he said that, the shinigami urged directed with his chin for me to get out of the classroom.`@
+`　As he said that, the shinigami directed with his chin for me to get out of the classroom.`@
 br
 ;　……もしそれを断れば、……この教室という袋小路で、即座に死神に捕まって、……地獄行きだ。\
 `　...And if I refused to do that, ...he would catch me right away in this deadend classroom, ...and to hell I would go.`\
@@ -1526,7 +1526,7 @@ br
 ;　死神が教室から出てくる。@早足ではあるが、駆けてはいない。@
 `　The shinigami left the classroom. `@`He has a quick pace, but he doesn't run.`@
 ;　子供の足でも、走れば逃げ切ることは難しくないはず。\
-`　Yet if a child tried to outrun him it would hardly be difficult for him to catch them.`\
+`　Yet, if a child tried to outrun him, it would hardly be difficult for him to catch them.`\
 
 bg black,23
 bg rouka_01,23
@@ -1819,7 +1819,7 @@ br
 ` Izanami always walked briskly `@`...but he never ran.`@
 br
 ;　大人の足だから、早足でも油断は出来ない。@
-` Because he has adult legs, even though he's just walking quickly, you can't take that for granted.`@
+` Because he has adult legs, even though he's just walking quickly, you can't let your guard down.`@
 ;　でも、走って逃げれば、決して追い付かれることはない。@そんな速度だった。\
 ` But if he ran,`@` there was no way to avoid being caught in the end. `@`He was just that fast.`\
 ld r,IZA_D2,80
@@ -1885,7 +1885,7 @@ br
 ;　そこは、校舎という巨大な密室。@ここから出る方法はない。@
 ` There, behind the closed doors of the school, `@`there was no way to get out.`@
 ;　この異世界から解放されるまで、とにかく、ひたすらに死神から逃げ回る他ない。\
-` At any rate, until he let me go from that alternate reality, I had no alternative but to run away from the shinigami.`\
+` At any rate, until he let me go from that alternate reality, I had no other choice but to run away from the shinigami.`\
 bg black,23
 
 ;　確かに、イザナミはルールの通り、決して走りはしない。@
@@ -1919,7 +1919,7 @@ bg black,26
 bg kaidan_02,22
 
 ;　１階の廊下を走り抜け、２階へ上がり、呼吸を整える。@
-` I run through the corridor on the first floor, up to the second floor and tppl a breath.`@
+` I run through the corridor on the first floor, up to the second floor and took a breath.`@
 ;　イザナミが階段の下にやって来たのを見届けてから、２階の廊下を走り抜ける。\
 ` After reassuring myself that Izanami was at the bottom of the staircase, I ran through the second floor corridor.`\
 bg black,24
@@ -1984,7 +1984,7 @@ br
 ld c,AYA_D7a,80
 
 ;　もっともっと、遠くまで早く逃げた方がいいのではないか。@
-` Perhaps I should run really really far away?`@
+` Perhaps I should run really, really far away?`@
 br
 ;　いやいや、そんな焦って走って怪我でもしたらおしまいだ。@もっと冷静にゆっくりと走ればいいのではないか。\
 ` No no no, that's not right. `@`If I ran like that, what if I injured myself? `@`Then it'd be the end for me. `@`Maybe running calmly and pacing myself would be better?`\
@@ -2032,7 +2032,7 @@ br
 mcbg 22
 
 ;　そして、時計は０時を指す。@
-` Then, the clock strikes midnight.`@
+` Then, the clock strikes twelve.`@
 br
 se3v 66,100
 se1v 69,100
@@ -2329,7 +2329,7 @@ ld l,AYA_D7a,23
 ld l,AYA_D8a,80
 
 ;「そ、そう、それ。@……そのイザナミって死神に、……私が狙われてるって言ったら、@………信じてくれる……？」\
-`"Y- Yeah, him. `@`...If I said that shinigami called Izanami was... targetting me, `@`...would you believe me...?"`\
+`"Y- Yeah, him. `@`...If I said that shinigami called Izanami was... targeting me, `@`...would you believe me...?"`\
 
 cl c,0
 ld r,MIC_D1,23
@@ -2518,7 +2518,7 @@ ld l,MIC_D5,80
 `"...If there was a way to save you, `@`then I think myself or Sakunoshin-sama would tell you. `@`...However, there isn't one. `@`It hurts me to say it......"`@
 br
 ;　私はしばらくの間、やり場のない怒りを胸の奥に押し込みながら、@ぐっと両手を握り締めて俯くことしか出来なかった……。\
-`　For a time, a rage with no where to go welled up in my chest, `@`and all I could do was clench my fists tightly and hang my head...`\
+`　For a time, a rage with nowhere to go welled up in my chest, `@`and all I could do was clench my fists tightly and hang my head...`\
 
 bg black,2
 bg hokora_02,0
@@ -2628,7 +2628,8 @@ bg kyou_02,24
 ;　彼は居眠りではなく、本気で眠っているようだった。@
 ` Not just dozing, but sleeping in earnest.`@
 br
-　……彼がいつからイザナミの呪いに取り込まれているかはわからないが、@私より長いなら、毎日、相当の時間を走り回らされているはずだ。@
+;　……彼がいつからイザナミの呪いに取り込まれているかはわからないが、@私より長いなら、毎日、相当の時間を走り回らされているはずだ。@
+` ...I have no idea how long he's been caught in Izanami's curse, `@`but if it's been longer than I have, then he's been forced to run around that much longer every single day.`@
 ;　疲労困憊で眠っているとしても、納得できた。\
 ` I was convinced he was asleep from exhaustion.`\
 
@@ -2645,22 +2646,22 @@ bg kaidan_03,22
 bgm1 6
 
 ;「……昨日は、１０時半から始まった……。@もう……、限界だ………。」@
-`"Tomorrow I start from 10:30...`@`I can't do this anymore..."`@
+`"Tomorrow I start from 10:30... `@`I can't do this anymore..."`@
 br
 ;　彼は私より早くから呪われているらしい。@イザナミから逃げる時間は、すでに１時間を超えていた。\
 ` It seemed he had been cursed earlier than I had. `@`The amount of time he had to run from Izanami had already reached over 1 hour.`\
 ;「……もう、……限界だ……。@来る日も来る日も……、ずっとずっと廊下を……。@昨日は、あと少しで追い付かれるところでチャイムだった。@……もう、……次は無理だ……。」@
-`"...I'm already at my limit... `@`Day after day... always running in the corridors.`@`...yesterday, he was only a hair's breadth away from catching me when the chime sounded`@`... Next time, I'm done for...."`@
+`"...I'm already at my limit... `@`Day after day... always running in the corridors.`@`... yesterday, he was only a hair's breadth away from catching me when the chime sounded`@`... Next time, I'm done for...."`@
 br
 ;　彼は頭をばりばりと掻き毟って俯いた。@
 ` He looked down and scratched his head roughly.`@
 ;　そんな彼に、４９日間、逃げ切れば助かると教えたところで、@さらなる絶望を重ねることにしかならなかった……。\
-` He was told that if he escaped for 49 days, he'd be saved,`@`but that only added to his hopelessness....`\
+` He was told that if he escaped for 49 days, he'd be saved, `@`but that only added to his hopelessness....`\
 se1 12
 quakey 1,100
 
 ;「冗談じゃねぇよ……。@４９日も逃げ切れるわけねぇよ……。@………俺は死神に魅入られた時点で、もう死んだも同然だったんだ。@……どうせあの地獄に落ちるなら、@……とっとと観念すれば、余計に苦しむことはなかったんだ……。」\
-`"This isn't funny... `@`There's no way that I can keep running away for 49 days...`@`....I'm being haunted by a reaper, I'm already as good as dead. `@`...Eventually I will fall into that hell,`@`....by doing this I'm only adding to my suffering. I should just give up now....`\
+`"This isn't funny... `@`There's no way that I can keep running away for 49 days...`@`.... I'm being haunted by a reaper, I'm already as good as dead.`@`... Eventually I will fall into that hell `@`....by doing this I'm only adding to my suffering. I should just give up now....`\
 
 ld r,AYA_D4a,24
 
@@ -2674,7 +2675,7 @@ ld r,AYA_D2,80
 ;「………………………。」\
 `"..........."`\
 ;「……どーせ、……俺なんて、勉強も出来ねぇし、取り得なんか何もねぇ。@……生きてたって何の意味もないクズなんだ……。@クズはクズらしく淘汰されろっていう、神様の思し召しなんだ。@……俺みたいなクズは、生まれてきた時点でもう、何かの間違いなんだ…。@……でもよぉ、そんなのあんまりだろぉよぉ……。@ぅおぉおおおぉおぉ……、ひっく、えっぐ……！！」\
-`"...Besides,... I'm bad at studying, and I don't have any redeeming features. `@`...Even if I survive I'm still just worthless trash.... `@`Trash will be weeded out like the trash it is, all because god wills it.`@`...It was a mistake for trash like me to even be born...`@`... It's just too much for me to handle.... 。`@`uOOOOooOO... hic, guh...!!"`\
+`"...Besides... I'm bad at studying, and I don't have any redeeming features.`@`... Even if I survive I'm still just worthless trash.... `@`Trash will be weeded out like the trash it is, all because god wills it.`@`... It was a mistake for trash like me to even be born...`@`... It's just too much for me to handle.... 。`@`uOOOOooOO... hic, guh...!!"`\
 ;　とうとう、人目もはばからず泣き出してしまう。@
 ` Finally, he started crying out loud, not caring who heard.`@ 
 br
@@ -2686,48 +2687,48 @@ cl r,0
 ld c,AYA_D8a,24
 
 ;「が、……頑張ろうよ。@……あいつは決して走らない。@確かに速いけれど、絶対に走らない…。@……確かに、１時間も２時間もずっと走っているのはものすごく大変だと思う。@……でも、それで自分の命が救えるなら、走るくらい何でもない……。」\
-`"Still... hang in there.`@`...He won't ever run.`@` He may be fast, but he'll never outright run...`@`...Of course, running for 1 or 2 hours straight is incredibly difficult, I know. `@`But if you're doing it to save your own life, running for that long is nothing..."`\
+`"Still... hang in there.`@`... He won't ever run. `@`He may be fast, but he'll never outright run...`@`... Of course, running for 1 or 2 hours straight is incredibly difficult, I know. `@`But if you're doing it to save your own life, running for that long is nothing..."`\
 
 ;　世の中には、不治の病で自分に出来る努力は何もなく、@ただ天命に任せる他ない人だって大勢いる。@
-` This shadow of death does nothing to my effort.`@`In the world there are many other people who leave not such things to fate.`@
+` In this world there are many people who find themselves powerless in the face of an incurable disease. `@`Unable to save themselves, they have no choice but to let fate decide.`@
 br
 ;　それに比べたら、どんなに苦しくとも、自分の努力で何とか出来る試練など、@まだ恵まれているはず……。\
-` Compared to that,`@`I should be able to conquer anything with my effort that I've been blessed with...`\
+` Compared to that, no matter how painful the trial, if you're given a a chance to overcome it by your own power, `@`that is a blessing in itself ...`\
 quakey 1,100
 
 ;「毎日、毎日、何時間も走り続けるなんて、不可能だよ…！！@　そんなの出来るわけねぇ…！！@　第一、そこまで必死に走って走って生き延びて！@　その先に何が待ってるってんだよぉ？！」\
-`"Running for that many hours, day in and day ouy, it's impossible...!`@`　It just can't be done...! `@`I'd run and run, frantically trying to survive!`@`　But what's waiting for me in the end? What's it all worth?!"`\
+`"Running for that many hours, day in and day out, it's impossible...! `@`It just can't be done...! `@`I'd run and run, frantically trying to survive! `@`But what's waiting for me in the end? What's it all worth?!"`\
 
 ld c,AYA_D7a,80
 
 ;「い、……生き延びることが出来るよ。」\
 `Y-... You can survive.`\
 ;「だから！@　生き延びて、俺の人生に何の意味があるって言うんだよぉ？！@　勉強も出来ない、運動も出来ない！@　友達もいない、趣味なんか何もない！！@　毎日毎日、退屈で死にそうだった。@いやむしろ、死にたいとさえ思ってたさ…！！」\
-`"I'm asking you! `@`What's the point of me suriving?! `@`I can't study, I can't exercise! `@`I have no friends, I have no hobbies! `@`Every day I felt I'd die from boredom.`@`No, I wanted to die..!!"`\
+`"I'm asking you! `@`What's the point of me suriving?! `@`I can't study, I can't exercise! `@`I have no friends, I have no hobbies! `@`Every day I felt like I'd die from boredom.`@`No, I wanted to die..!!"`\
 bg black,22
 
 ;　雪が解けるように、眠るように死にたい。@
-` Like the rain falls, and the snow melts, I want to die.`@
+` Wanting to die as if falling asleep, or melting away like snow.`@
 ;　……彼の願望も、私と同じだった。@
-` My desire was the same as his.`@
+` ...His desire was the same as mine.`@
 br
 ;　いや、彼は私とまったく同じだったのだ。\
-` No, his was the same as mine.`\
+` No, everything about him was the same as me.`\
 ;　彼にとっても、人生は無意味であり、無価値だった。@
 ` For him, life was meaningless, worthless.`@
 br
 ;　そんな彼にとって、４９日間もの試練を生き延びる価値など、何もない……。\
-` And there was no worth in him being able to survive this ordeal for 49 days...`\
+` To him, there was no point in surviving this ordeal for 49 days...`\
 bg kaidan_04,22
 
 me1v 5,70
 
-「生き延びたら、何かもらえるのかよ？！@　１００万円くれるのか？！@　願いでも叶えてくれるのか？！@　じゃあ、ドッジボールで強くなれるようにしてくれよ！@　漫画１００冊買ってくれよ！！@　……何もねぇ！！！@　仮に生き延びたって、また何もねぇ、退屈で死にそうな灰色の日々じゃねぇかよ…！！@　……終わってたんだよッ、最初っから俺の人生は…！！@　生まれてくるんじゃなかった……。@生まれてくるんじゃ……、なかっ……、ひっく、ぅぐぐぐ………。」\
-
+;「生き延びたら、何かもらえるのかよ？！@　１００万円くれるのか？！@　願いでも叶えてくれるのか？！@　じゃあ、ドッジボールで強くなれるようにしてくれよ！@　漫画１００冊買ってくれよ！！@　……何もねぇ！！！@　仮に生き延びたって、また何もねぇ、退屈で死にそうな灰色の日々じゃねぇかよ…！！@　……終わってたんだよッ、最初っから俺の人生は…！！@　生まれてくるんじゃなかった……。@生まれてくるんじゃ……、なかっ……、ひっく、ぅぐぐぐ………。」\
+`"Do I get something special if I survive?! `@` Will I get a million yen?! `@`Will I be granted one wish?! `@`If so, then make me a great dodgeball player! `@`Buy me 100 manga volumes!! `@`...No, I get nothing!!! `@`Even if I survive I'll get nothing! I'll just go back to my bland life and want to die from boredom...! `@`....My life was over from the very beginning...!! `@`I wish I was never born.... `@`I wish I'd never been b... hic... borrrn, g- gahh..."`\
 ;　もう最後は嗚咽しか聞こえなかった。@
 ` I could only hear sobbing in the end.`@
 ;　彼はもう、自暴自棄になっていた。@体力以上に、気力がもう限界なのだ。@
-` He had become desperate.`@`More than strength, the limit was willpower.`@
+` He had become desperate. `@`Rather than physical strength, it was his willpower that had failed.`@
 ;　そして、彼の気持ちはそのまま、私の気持ちを代弁していた。@
 ` And his feelings resonated with mine.`@
 br
@@ -2736,17 +2737,17 @@ br
 bg black,22
 
 ;　ない。@……無意味で無価値な、灰色の世界。@
-` No.`@`...it was a meaningless worthless world.`@`A gray world.`@
+` No.`@`...it was a meaningless worthless world. `@`A gray world.`@
 br
-　あの、おぞましい地獄に落ちることだけは嫌だから、逃げ回ってはいるけれど。@その先に待つかつての日常には、彩りも輝きもない……。\
-
+;　あの、おぞましい地獄に落ちることだけは嫌だから、逃げ回ってはいるけれど。@その先に待つかつての日常には、彩りも輝きもない……。\
+` The only reason we keep running around is to keep from falling into that gruesome hell. `@`All that awaits us should we succeed is the same bleak life we had before.`\
 ld r,AYA_D2,22
 
 ;　何か得るもののために戦うなら、意味は見出せる。@
-` If I fight for something I'll obtain, I'll find meaning.`@
+` If we were fighting to attain something, we would be able to find meaning in it.`@
 br
-　しかし、何も得るものがなく、@……どうせいつか迎える破綻を、わずかに先延ばしするだけの苦行に、@私たちは一体、何の意味を見出せるというのだろう…？\
-
+;　しかし、何も得るものがなく、@……どうせいつか迎える破綻を、わずかに先延ばしするだけの苦行に、@私たちは一体、何の意味を見出せるというのだろう…？\
+` But, there is nothing to fight for.`@`... We torture ourselves by putting off the inevitable, knowing that eventually we will have to accept failure. `@`What is the point to it all...?`\
 bg kaidan_04,0
 ;ld r,AYA_D4a,22
 ld r,AYA_D2,22
@@ -2756,14 +2757,14 @@ ld r,AYA_D2,22
 ;bg black,22
 
 ;「……俺もお前も、@……１３階段を踏んじまった時点で、……あいつの地獄に引き摺り込まれちまったんだ……。@あいつ、言ってるだろ？@　俺たちクズが必死な形相で逃げ回ってるのを見るのが楽しいって。@……あいつは俺たちを追い回して追い回して……。@さんざん楽しんだ後、結局は地獄に突き落とす、最悪の死神なんだ……。」\
-`"You and I..`@`..when we step on the 13th staircase, we approach his hell...`@`He said so right?`@`He'd chase after us desperately.`@`And after he's chased us around and around,`@`and enjoyed himself, hell push us down into his hell. He's the worst kind of shinigami..."`\
+`"...You and I `@`...the moment we stepped on that 13th stair... we were dragged into his hell... `@`He said so, right? `@`He loves to watch trash like us run around in desperation.`@`... To chase us around and around... `@`And after he's had his fun, he will throw us into hell. He's the worst kind of shinigami..."`\
 cl r,0
 mld r,AYA_D4a,22
 
 ;「………………………………。」\
 `"............."`\
-「そりゃあよ、……あんな恐ろしい地獄、落ちたくはねぇよ。@……幸い、今日は水曜日だしな…。@今日は何とかなるだろうが、……もう次は無理だ。@……へへ、……へへへ……。@まぁ、……まぁ、今日まで生き延びた価値は、ちっとはあったかな……。@……お仲間に出会えて、愚痴を吐き出せて……、少しだけすっきりしたぜ……。@へへ、……へへへへへ………。@あんたも、……せいぜい足掻きな。@……自分が納得するまで。@………同じ地獄でも、納得するまで足掻いてからなら、……まだ、……マシかもしれねぇさ……。@……へへへへ………へへ………。」\
-
+;「そりゃあよ、……あんな恐ろしい地獄、落ちたくはねぇよ。@……幸い、今日は水曜日だしな…。@今日は何とかなるだろうが、……もう次は無理だ。@……へへ、……へへへ……。@まぁ、……まぁ、今日まで生き延びた価値は、ちっとはあったかな……。@……お仲間に出会えて、愚痴を吐き出せて……、少しだけすっきりしたぜ……。@へへ、……へへへへへ………。@あんたも、……せいぜい足掻きな。@……自分が納得するまで。@………同じ地獄でも、納得するまで足掻いてからなら、……まだ、……マシかもしれねぇさ……。@……へへへへ………へへ………。」\
+`"You know... I really don't want to go to that terrifying hell.`@`...Fortunately, since today is Wednesday...`@` I'll manage to survive somehow or another... but next time around, I'm doomed.`@`... heh... heh, heh... `@` Oh well, at least there was some point until surviving until today... `@`Since I was able to meet someone else who was cursed, and vent my frustrations... I feel kind of refreshed... `@`heh... heh heh heh... `@` You... are going to struggle too, you know? `@`...Until you can accept it. `@`You'll struggle until you realize that you'll be going to the same hell that I am, but... hey, I guess that's better than nothing...`@`...heheheh... heh..."`\
 ;mld r,AYA_D2,80
 
 ;　彼は達観したような、あるいは自嘲的な薄笑いを浮かべ、無理に笑っていた。@
@@ -2775,14 +2776,14 @@ mcl r,0
 bg black,22
 
 ;　これが、イザナミがそうであると称するように、本当にゲームなら。@
-` This is the real game Izanami referred to.`@
+` If this really was a game like Izanami said,`@
 ;　ペナルティに対し、それに見合う褒美があってもいいはずだ。\
-` For the penalty, there should be a corresponding reward.`\
+` then in exchange for a penalty for losing, there should be a corresponding reward for winning.`\
 ;　しかし、おぞましいペナルティがあるだけで、……生き延びることに、何の価値もない。@
-` But there was just a very harsh punishment...there was no meaning in survival.`@
+` But there was just a very harsh punishment... there was no worth in surviving.`@
 br
 ;　……そしてあいつは、そんな何の価値もない、クソ落ち目な人間が大好物で……。@
-` And he liked humans with such adversity and lack of worth. They were his favorite food...`@
+` ...And he liked those kinds of downtrodden, worthless humans. They were his favorite food...`@
 br
 ;　………………………………。\
 ` ...........`\
@@ -2798,10 +2799,10 @@ bg kaidan_02,22
 ;　昼休みが終わるチャイムが鳴り響く。\
 ` The chimes signaling the end of lunch ring.`\
 ;　……私は彼に、明日か明後日にはもう会えないかもしれない。@
-` ...I might not meet him again tomorrow or the day after,`@
+` ...I might not be able to meet him again tomorrow or the day after,`@
 br
 ;　彼の顔には、……多分、死相と呼ぶべきに違いないものが、浮かんでいたから。\
-` since his face was floating in the shadow of death.`\
+` since I saw in his face what could only be called the mark of death.`\
 ;bg black,22
 ld r,AYA_D7a,22
 
@@ -2815,32 +2816,32 @@ br
 bg black,22
 
 ;　嫌だ……。@あんな恐ろしい地獄に、……絶対に落ちたくなんかない。@
-` No.`@`I'd never fall into that hell.`@
+` No... `@`I'd never want to fall into that horrible hell.`@
 br
 ;　そう思うのは、私にまだ体力と気力があるからだろう。@
-` I think I still have the strength and willpower.`@
+` The reason I can still think that way must be because I still have some strength and willpower left in me.`@
 br
 ;　これから１週間後、２週間後に、彼の境地に至らないという保証は、どこにもなかった。\
-` His assurance didn't extend one or two weeks into the future.`\
+` There's no guarantee that in one or two weeks I won't end up being just as hopeless as he is.`\
 bg kaidan_04,22
 
 ;　別れ際に、……ふと気になることを思い出し、それを彼への最後の質問とした。\
-` In parting...I remembered what had been worrying me, and asked him.`\
+` When I was turning to leave the classroom... I suddenly remembered what had been worrying me, and stopped to ask him one final question.`\
 fede 0,1000
 E_A
 
 ld r,AYA_D8a,24
 
 ;「……さっき、@/
-`"You just...`@/
+`"Earlier...`@/
 bgm1 14
 ;……今日は水曜日だから何とかなるかも、って言いましたよね……？」@
-`...said that since it's Wednesday, somehow we'll manage, right...?"`\
+`... you mentioned that since it's Wednesday, somehow you'll manage, right...?"`@
 br
 ;　確かに言った。@今日は水曜日だしな、今日は何とかなるだろうがと、確かに言った。\
-` I certainly said it.`@`Today's Wednesday, and I'd maybe somehow survive. I surely said that.`\
-「あ、……あぁ。@……理由はわからねぇが。@……どういうわけか、月曜と水曜と土曜は、少しだけ時間が短いんだ。@……逆に、火曜と木曜と金曜は長い。@昨日は火曜だから最悪だった。@……今日は水曜だから多少マシだが、……その次は木曜だ。@……もう、俺は助からねぇ……。」\
-
+` I'm that's what I heard him say. `@`That since today is Wednesday he would somehow manage to surive. That's definitely what he said. `\
+;「あ、……あぁ。@……理由はわからねぇが。@……どういうわけか、月曜と水曜と土曜は、少しだけ時間が短いんだ。@……逆に、火曜と木曜と金曜は長い。@昨日は火曜だから最悪だった。@……今日は水曜だから多少マシだが、……その次は木曜だ。@……もう、俺は助からねぇ……。」\
+`"Ah... yeah.`@`... I don't know why... `@`but for some reason, on Mondays, Wednesdays and Saturdays, the amount of time I have to run is shorter.`@`.. but on the other hand, Tuesdays, Thursdays and Fridays are longer. `@`Yesterday was Tuesday, so it was the worst.`@`... Today is Wednesday so it's not as bad... but then it's going to be Thursday.`@`.... I'm not going to make it..."`\
 ;cl r,0
 ;ld r,AYA_D4a,80
 
@@ -2850,18 +2851,18 @@ mono 1
 bg rouka_04,22
 
 ;　確かに、私の１週間も、少しその感じはしていた。@
-` Surely, that had been my feeling for this week.`@
+` In my one week of running, I had also started to notice that pattern.`@
 br
 ;　全体的に見れば、少しずつ日々のノルマは伸びている。@
 ` All in all, the daily quota is growing little by little.`@
 ;　しかし、確かに前日より時間が短い日はあった。\
-` But the days were surely shorter than the ones before.`\
+` But there were some days that were shorter than the one before.`\
 
 ;　……しかし、彼の言う曜日とは合わない気がする。@
-` But that feeling didn't fit with what he said.`@
+` ...But, the days of the week he mentioned felt off.`@
 br
 ;　彼が言うには、昨日の火曜は、長いらしい。@
-` He said that yesterday, Tuesday, felt long.`@
+` According to him, it was yesterday, Tuesday, that felt long.`@
 ;　しかし、私にとっての昨日は、前日より短かった。\
 ` But for me, yesterday felt shorter than the previous day.`\
 ;ld r,AYA_D7a,80
@@ -2870,12 +2871,12 @@ bg black,22
 mono 0
 
 ;　……私は、たまに短くなる日は、イザナミの気紛れか何かだと思っていた。@
-` ....I thought maybe the days were sometimes shorter on Izanami's whims.`@
+` ....I originally thought that Izanami decided when a day would be shorter entirely on a whim.`@
 ;　しかし、彼が言うには、その短くなる日は曜日で決まっているという。@
-` But he said that the short days were already determined.`@
+` But, according to this boy, the short days were determined based on what day of the week it was.`@
 br
 ;　その曜日が、なぜか彼と食い違う。\
-` Why did our feelings with respect to that day differ?`\
+` If that's the case, for some reason my short days were not the same as his.`\ 
 ;cl r,0
 ;bg black,22
 bg Different_spiral_1b,22
@@ -2883,26 +2884,26 @@ bg Different_spiral_1b,22
 me1v 19,70
 
 ;　必ず決まった曜日に短くなるという法則性がありながら、@……なぜか私と彼で、その曜日が異なるという不思議。@
-` While there's a rule that determines how short the day is,`@`...why are we different on our perceptions of it?`@
+` If there's a rule that dictates which days are shorter...`@` then it's odd that those days differ between us.`@
 br
 ;　………どうせ死神の気紛れ。@考えるだけ時間の無駄だろうか。\
-` ....At any rate, it's on the whims of the shinigami.`@`It's no use thinking about it.`\
+` ....I have to assume it's just on the whim of that shinigami. `@`Thinking about it is a waste of my precious time.`\
 ;　私は彼と違い、……まだまだ気力がある。@
-` He and I disagree...but there's still vigor.`@
+` The difference between that boy and I... is that I still have the willpower left to fight.`@
 ;　あの地獄にだけは絶対に落ちたくないという、心の強さがある。@
-` The strength of our hearts said that we'd never fall into hell.`@
+` I the only reason I still have that determination is because I never want to fall into that hell.`@
 br
 ;　……その強さがある内に、……何かの、必勝法のようなものを見つけ出す必要がある。\
-` ...While having that strength, we still need to find a winning strategy.`\
+` ...While I still have that strength... I need to find some way to ensure my survival.`\
 ;　イザナミは、クソ落ち目なガキが大好物。@
-` Izanami's favorite prey are despairing people.`@
+` Izanami's favorite prey is downtrodden, worthless kids.`@
 ;　かつての生還者だって、私と大差ない子だったに違いないのだ。@
-` Even as a former survivor, he must have been little more than a child with me.`@
+` Even that former survivor must have been child no different than I am now.`@
 br
 ;　その子は生還した。@……数時間を毎日、走り回ったとは到底思えない。@
-` He was still alive,`@`and I hardly think he ran around for more than a few hours a day.`@
+` It was a child that survived.`@`... So I find it hard to believe that they ran around for hours on end every day.`@
 ;　うまくやり過ごしたりする、何らかの裏技がきっとあったのだ。\
-` To get by, he surely had some tricks.`\
+` To get by, they surely had some tricks.`\
 bg black,22
 
 fede 10,1000
@@ -2912,10 +2913,10 @@ bg kaidan_03,0
 ld c,AYA_D7a,22
 
 ;　彼と私の、曜日の違い。@
-` He and I disagreed on the day of the week.`@
+` The days differed between him and I.`@
 br
 ;　ここに、何かの秘密が隠されているに違いないと、@……私の中の、まだ死にたくないという気力が囁いていた。\
-` Now, when secrets must be kept hidden`@`...the strength in my heart whispered that I didn't want to die.`\
+` There must be some sort of secret hidden in that fact...`@` that is what the determination in my heart whispered to me.`\
 textoff
 
 ld c,AYA_D7,22
@@ -2941,7 +2942,7 @@ se1v 2,100
 ld l,IZA_D6,80
 
 ;「へっへへへへ！！@　さぁ、あやちゃァん！！@　今日もぜぇぜぇしながら、汗だくで逃げ回る姿で楽しませてくれやァ…！！」\
-`"Hahahahaha!`@`Well, Aya-chan!!`@`I'll make sure to enjoy myself with your sweaty fleeing body today too!!"`\
+`"Hahahahaha!! `@`Come on, Aya-chan!! `@`Let me see you gasping for air, drenched in sweat! Let me have my fun today too...!!"`\
 ld r,AYA_D7a,22
 
 ;「……………………。」\
@@ -2953,42 +2954,42 @@ cl l,0
 ld c,IZA_D5,23
 
 ;「さァ、走れや走れェ！！@　頭カラッポにして、チャイムまでひたすらに走り回れやァ！！@　くっひゃっひゃっひゃあァ！！」\
-`"Well, run, run!`@`Empty your head and until the chime rings, run around single-mindedly!!`@`Kyahahahaha!!"`\
+`"Come on, run, run!! `@`Empty your head and mindlessly run around until the bell rings!! `@`Kyahahahaha!!"`\
 bg black,2
 bg rouka_04,22
 
 
 ;　彼は水曜は短いと言っていた。@でも、やはり、私の水曜は違う。@時計の針は、昨日よりも遠退いていた。@
-` He said that Wednesday was short.`@`But not for me.`@`Today, the clock hands were further apart than yesterday.`@
+` He said that Wednesdays were shorter. `@`But, just like I thought, that wasn't the case for me. `@`The clock hands were further apart than they were yesterday.`@
 br
 ;　……今日も１時間たっぷり、校内を駆け回ることになる。\
-` I'll be running around the school for a full hour.`\
+` ...Today I will be racing around the school halls for a full hour.`\
 ;　生き延びて何かをしたいなんて、前向きな気持ちは何もない。@
-` I wanted to survive and do something. Optimism was nothing.`@
+` I wasn't looking forward to survivng at all.`@
 br
 ;　あるのは、あの地獄だけはごめんだという、後ろ向きな気持ちだけ。\
-` That hell only said sorry; it was just negative feelings.`\
+` All I wanted was to be spared a trip to hell.`\
 bg black,23
 bg rouka_02,23
 
 ;　……そんなこと考えるだけ、体力の無駄遣いだ。@
-` ....Just thinking of such things was a waste of stamina.`@
+` ....Just thinking about such things was a waste of stamina.`@
 br
 ;　イザナミの言う通り、……頭をカラッポにして、ひたすらに走り続けるのが最善なのだ。\
-` It was as Izanami said...I'd just have to empty my head and run around.`\
+` It was just like Izanami said... The best things I can do is just empty my mind and run.`\
 ;　１時間は、運動の苦手な私には、すでに限界にも等しい時間だ。@
 ` For someone as unathletic as me, one hour was already my limit.`@
 br
 ;　昨日までの私ならば、絶望に潰されそうになっていただろう。\
-` Until yesterday, I'd have been crushed by despair.`\
+` If the events of today had no happened, I would probably be giving into despair right now.`\
 ld c,AYA_D6a,24
 ld c,AYA_D8a,80
 
 ;　……しかし、今は少しだけ違う。@
-` But now it's a little different.`@
+` ...But now it's a little different.`@
 br
 ;　曜日に隠された秘密。@……それに気付けば、……ひょっとしたら、生き延びることが出来るかもしれないという希望がある。\
-` A secret was hidden in the day of the week.`@`...If I noticed it, maybe I'd survive.`\
+` I have some hope.`@`... there must be some secret or clue hidden in the days of the week... If I can find it, I might be able to survive.`\
 cl c,23
 bg black,23
 
@@ -2998,7 +2999,7 @@ bg rouka_03,2
 ld r,IZA_D2,22
 
 ;「お前もよく頑張ったなァ。@……でもよォ、もう限界だろォ？」@
-`"You're trying well.`@`...but are you at your limit already I wonder?"`@
+`"You're doing well.`@`... but you can't last much longer, can you?"`@
 
 ld l,AYA_D7a,23
 
@@ -3006,8 +3007,8 @@ ld l,AYA_D7a,23
 `"..........."`\
 ld r,IZA_D5,80
 
-「そんなに死が怖ェのかァ？@　かつては死にたがりだったくせによォ。@……まァ、あんな地獄を見せられちゃァ、気が変わるのも無理はねェがなァ。@くっくくくく！！@　そうまでして、どうして生きたい？@　生きてたって、どうせただぼんやりと寝惚けて過ごすだけだろォが。」\
-
+;「そんなに死が怖ェのかァ？@　かつては死にたがりだったくせによォ。@……まァ、あんな地獄を見せられちゃァ、気が変わるのも無理はねェがなァ。@くっくくくく！！@　そうまでして、どうして生きたい？@　生きてたって、どうせただぼんやりと寝惚けて過ごすだけだろォが。」\
+`"Does death really scare you that much? `@`Weren't you practically begging to die before?`@`.... Well, I guess if anyone was shown a glimpse of that hell, there's no way they'd still want to die. `@`Kuhahaha!! `@`Still, why are you trying so hard to survive? `@`Even if you do, you'll just return to wasting your life away in a half-awake daze."`\
 ;ld l,AYA_D7a,80
 cl l,24
 
@@ -3015,7 +3016,7 @@ cl l,24
 `"..........."`@
 br
 ;　挑発するかのように、イザナミは私を嘲笑い続ける。\
-` As if to provoke me, Izanami keeps ridiculing me.`\
+` As if trying to provoke me, Izanami keeps ridiculing me.`\
 ;ld l,AYA_D8a,80
 ;wait 500
 ;cl l,24
@@ -3028,28 +3029,28 @@ bg black,22
 bg rouka_02,22
 
 ;　……どうして生きたいのかとか。@生きる意味とか価値とか、……考えたいこと、問い掛けたいこと、色々ある。@
-` ...why I wanted to live.`@`What meaning and value were in my life...what I'd like to believe...what I'd like to ask.`@`Various things he provoked me with.`@
+` ...Why I want to live. `@`What meaning or worth there is in life... There are many things that I want to think about. Many things I want to ponder.`@
 br
 ;　でも、汗だくになって走り回っていると、そんなことを考えている暇さえない。@
-` But I wasn't free to think about such things while running around sweaty.`@
+` But I wasn't free to think about such things while running around and dripping sweat.`@
 ;　あいつの戯言に耳を貸してる余裕なんて、私にはないのだ。\
-` I don't have time to listen to any of his nonsense.`\
+` I don't have the leisure to listen to his nonsense.`\
 bg black,23
 bg rouka_01,23
 
 me1v 17,70
 
 ;　ただ走って、ヤツが追い付くまでを休みに徹して、呼吸を整えて、……また走る。@
-` I run, rest until he catches up, take a breath and run again.`@
+` I can only run, rest until he catches up, take a deep breath... and start running again.`@
 ;　それをチャイムが鳴るまで、ただひたすらに延々と繰り返す。@
-` Until the chime rings, I'm doing this single-mindedly`@
+` Until the bell chimes, I just repeat this pattern again and again.`@
 br
 ;　汗だくになって、心臓が破裂するかと思うほどになるまで。\
-` sweating buckets and worrying about having a heart attack.`\
+` Repeat it until I'm sweating buckets and worried that my heart might explode.`\
 bg black,22
 
 ;　………無我の境地で、ただひたすらに駆け回る内に、@その日はチャイムを向かえることが出来た……。\
-` ....with such a stage of selflessness, and just running around,`@`I was able to welcome to chime that day...`\
+` ....That day, by rushing around those halls in a sort of trance, `@`I was able to make it until the bell sounded...`\
 se3v 66,100
 se1v 69,100
 wait 200
@@ -3075,24 +3076,24 @@ me1v 24,50
 ;　次の日。@
 ` The next day.`@
 ;　大里先輩を訪ねると、…………クラスメートは、そんな生徒はいないと笑った。@
-` When I asked for Ousato-senpai, his classmates laughed and said they didn't know a student like him.`@
+` When I went to visit Osato-senpai..... his classmates laughed at me and said they didn't know anyone like that.`@
 br
 ;　……何となく、わかってた。@
-` I understand.`\
+` I understand, more or less.`\
 ;　彼の存在は、席ごと、なくなっていた。\
-` His seat, and his existence is gone.`\
+` His existence, together with his seat in the classroom, have disappeared.`\
 ;　これが学校八不思議の、１３階段の死神に呪われた者の、……末路なのだ。\
-` This was one of the eight wonders of the school. The fate of those cursed by the Shinigami of the 13th staircase.`@
+` This was one of the eight mysteries of the school. The fate of those cursed by the Shinigami of the 13th step.`@
 ;　唯一の仲間を失い、……私の心が絶望に押し潰されそうになる。@
-` It seemed my heart was being crushed under the weight of losing my sole companion.`@
+` It felt like... my heart was being crushed in despair at the loss my sole companion.`@
 br
 ;　彼があの、胃袋の地獄でこれから永遠に苦しむことを思うと、恐怖に全身が凍り付きそうだった。\
-` To think that he'd suffer in that hell for eternity, his whole body in that stomach.`\
+` To think that he'd suffer in that stomach-like hell for all eternity... my whole body froze in terror at the notion of it.`\
 se1v 11,30
 quakex 2,100
 
 ;　教室の前で俯いていると、……上級生の女子に、どんと肩をぶつけられた。\
-` Holding my head low....my shoulders are hit by upperclassman girls as they come and go.`\
+` I went to leave the classroom, my head hanging low.... Just then, I bumped shoulders with an upperclassman girl.`\
 textoff
 
 E_A
@@ -3104,115 +3105,117 @@ ld c,HIG_D5,22
 bgm1 5
 
 ;「何で下級生がこんなとこにいるの？@　そんなとこに突っ立ってたら邪魔だわ。@くすくすくすくす…………。」@
-`"What are you doing in a place like this?`@` You're in everyone's way.`@`Kususususu...."`@
+`"What's an underclassman like you doing up here? `@`If you're just going to loiter around, you'll only get in the way. `@`Teeheehee...."`@
 ;＜彼岸花
 br
 ;　……可憐な子だった。@こんな髪が綺麗な女の子に生まれられたら、@さぞや人生が幸せだったろうに。\
-`...it was a pretty girl.`@`If I'd been born a pretty girl with such lovely hair,`@`I'd have had a good life.`\
+`...She was pretty.`@` If I had been born with hair as beautiful as hers, `@`I'm sure I would have had a much better life.`\
 cl c,22
 
 ;　私の脇を通り過ぎて教室に入った少女は、@壁に貼られている時間割を見て、肩を竦める。\
-` The girl walks straight past me into the classroom`@`looked at the timetable on the wall and shrugs her shoulders.`\ 
+` The girl walked straight past me into the classroom, `@`looked at the class schedule posted on the wall, and shrugged her shoulders.`\ 
 bg black,22
 bg kyou_01,22
 ld l,HIG_D5,22
 
 ;「本当に最低な時間割よね。@……どうして午後を優雅に楽しめる土曜日に体育なんかあるのかしら。」@
-`"It's a horrible timetable.`@`...Who possibly could enjoy gym on Saturday afternoon?"`@
+`"What a horrible schedule.`@`... Why do we need to have gym on Saturday afternoons? It just ruins my weekend."`@
 br
 ;　……このクラスは、土曜日に体育の授業があるようだった。\
-` ...this class seemed to have gym on Friday.`\
+` ...It seems that this class has physical education on Saturdays.`\
 ld l,HIG_W3,80
 
 ;「私、体育の授業は大嫌いなの。@……だから今日と明日は、多少はマシね。@あぁ、体育なんて、この世から消えてなくならないかしら。@……くすくすくすくす……。」\
-`"Ugh. I hate gym`@`...so I guess today and tomorrow is a bit better.`@`Ah, what with P.E. today and tomorrow, I wonder if I'll just disappear from this world?`@`..kususususu..."`\
+`"I absolutely hate gym.`@`... If only our schedule for Saturday was a bit more like today or tomorrow. `@`I wish gym would just disappear from this world.`@`.. teehee..."`\
 cl l,2
 bg black,22
 bg kyou_03,22
 
 ;　少女の肩越しに、このクラスの時間割が見える。@
-` Over the girl's shoulder, I could see the timetable.`@
+` Looking over the girl's shoulder, I could see the schedule.`@
 br
 ;　確かに、今日と明日、……木曜と金曜は、このクラスには体育の授業がないようだった。\
-` Certainly, it seemed that for this class, today and tomorrow, Thursday and Friday, that there was no P.E.`\
+` Just as she had said, there wasn't P.E. on either today or tomorrow... Thursday and Friday.`\
 ;　……当然のことだが、……時間割はクラスによって違う。@
-` Of course, but this was different between the timetable and class`@
+` ...It goes without saying... but each class has a different schedule.`@
 ;　このクラスでは、体育は、月曜と水曜と土曜にある。@
 ` In this class, P.E. was on Monday, Wednesday and Saturday.`@
 br
 E_A
 ;　……………それは、……彼が言っていた、走る時間の短くなる曜日だ。\
-` ....those days...he said...were ones on which time to run was shortened.`\
+` ......These... match the days that he said were shorter.`\
 bgm1 18
 
 bg black,22
 
 ;　じゃ、じゃあ、私のクラスはどうだろう…？@
-` Then...then what about my class?`@
+` Then... then what about my class...?`@
 br
 ;　つまり………、体育の授業があると、……短くなる……？\
-` Could it be...that on days with P.E. there's less time...?`\
+` Could it be... that on days with P.E. the time is shortened...?`\
 bg koutei_01,2
 
 me1v 31,50
 
 ;　その日の午後は、私のクラスでは体育の時間だった。@
-` That afternoon, I was in P.E. with my class.`@
+` That afternoon, my class had P.E.`@
 ;　男子の悪ふざけが過ぎて、先生を怒らせてしまい、@その日は、延々と校庭を走り回らせられることになった。@
-` The boys played pranks on the teacher and angered them.`@`And I was made to run around the schoolyard endlessly.`@
+` Some boys took their pranks too far, and the teachers got angry, `@`and we were all made to run circles around the schoolyard for the entire time.`@
 br
 ;　放課後のために、少しでも体力を温存しておきたかったのに……。\
-` I wanted to preserve a little strength for after school...`\
+` Even though I wanted to preserve as much energy as possible for after school...`\
 bg black,22
 
 ;　その時は私は大いにぼやいた。@
-` I complained a lot.`@
+` I complained the whole time.`@
 br
 ;　しかし、放課後を迎え、イザナミの世界で時計を見上げた時。@……はっきりと確信した。\
-` But when school ended and I looked up at the clock in Izanami's world,`@`I was certain.`\
+` But when the end of the schoolday arrived, I looked up at the clock in Izanami's world, `@`and confirmed my suspicions..`\
 fede 10,1000
 E_MA
 
 bg rouka_04,22
 
 ;「………す、すごく時間が、………減ってる…………。」\
-`"....the...the time has really decreased..."`\
+`"....Th-... the time is much shorter..."`\
 ;　確かに体育のある曜日はいつも、時間が短かった。@
-` Certainly, on days with P.E., the time was shortened.`@
+` It was true. On days with P.E. the time decreases.`@
 br
 ;　体育の時には、準備運動のあと、必ず校庭をぐるりと走らされる。@
-` In P.E., after a warm-up, I'd invariably run around the schoolyard.`@
+` During P.E., after a warm-up, we would always run a lap around the schoolyard.`@
 ;　でも、今日はそれに加え、さらにぐるぐると走り回らされた。@
-` But additionally, today, I'd be running round and round in circles.`@
+` But today, on top of that, we were forced to run around in circles for a long, long time.`@
 br
 ;　その分が、大きくチャイムまでの時間を減らしているのだ……。\
-` Those minutes until the chime rang are being decreaed...`\
+` And those minutes I spent running significantly decreased the time until the bell rang.`\
 bg black,22
 bg kyou_02u,22
 ld c,IZA_D3,22
 ld c,IZA_D2,80
 
-「おやおやァ…！！@　どういうわけか、今日はお楽しみの時間がちょいと短めだァ！」@
+;「おやおやァ…！！@　どういうわけか、今日はお楽しみの時間がちょいと短めだァ！」@
+`"Aya, Ayaa!! `@`Looks like for some reason the time we had to play today got kinda short!"`@
 br
-　イザナミはしらばっくれるが、……もう私にはわかってる。\
+;　イザナミはしらばっくれるが、……もう私にはわかってる。\
+` Even though Izanami was playing dumb, I already understood.`\
 
 ;　そして多分。@……これが、イザナミのゲームの、唯一の必勝法……。@
-` And probably,`@`..this is the only winning strategy for Izanami's game.`@
+` This was probably... `@`the only way to win this game of Izanami's.`@
 br
 ;　その日、走っていれば走っているほど。@……イザナミの世界の時間は短くなるのだ。\
-` That day, the more I ran,`@`the shorter the time in Izanami's world became.`\
+` That day, the more I ran... `@`the shorter my time in Izanami's world became.`\
 bg black,23
 bg kyou_04,23
 
 ;　昨日を生き残れた自分なら、時間がずっと短い今日を生き残るのは容易なこと。@
-` Since I survived yesterday, today I'm going to handle the shorter time much easier.`@
+` I survived yesterday, and since the amount of time until the bell is much shorter today, this should be easy for me.`@
 br
-　………明日、私のクラスには体育はないが。@もし、私の推理通りなら、@……休み時間などに走り溜めておくことで、@イザナミの世界の時間を軽減できるはず……。\
-
+;　………明日、私のクラスには体育はないが。@もし、私の推理通りなら、@……休み時間などに走り溜めておくことで、@イザナミの世界の時間を軽減できるはず……。\
+` .....I don't have P.E. tomorrow. `@`But if I'm correct.... `@`then I should be able to reduce my time in Izanami's world by going running during breaks between classes...`\
 ld c,IZA_D3,22
 
-「……くっひっひっひ。@なァにを思いついたやらァ。@今日のお前は目の光り方が違ってるぜェ？@　気力、いや、希望に満ちてやがる。」\
-
+;「……くっひっひっひ。@なァにを思いついたやらァ。@今日のお前は目の光り方が違ってるぜェ？@　気力、いや、希望に満ちてやがる。」\
+`"...Kuhehehe. `@`Did ya realize something? `@`Looks like you've got a bit of spark in your eyes today. `@`Is it determination? No, looks like you've got some hope."`\
 bg black,23
 bg rouka_03,0
 ld c,AYA_D8a,23
@@ -3221,57 +3224,57 @@ ld c,AYA_D8a,23
 `"............"`@
 br
 ;　希望に満ちている。@……確かにそうかもしれない。@
-` I'm hopeful.`@`...That might be the case.`@
+` I'm hopeful.`@`... That might be the case.`@
 ;　私は、生き残れるかもしれないことに、実感を覚え始めている。\
-` I'm beginning to remember the feeling of maybe surviving.`\
+` For the first time, I feel like I might actually survive.`\
 ;　これで明日、休み時間に走り溜めて、実際に効果があったなら。@
-` If I pool my energy for running today and tomorrow, it'll have an effect.`@
+` If I can gather up some running time during break tomorrow, I can do it.`@
 br
 ;　……私は勝てる。\
-`...I'll win.`\
+`...I can win.`\
 ;ld c,AYA_D4a,80
 
 cl c,24
 
 ;　無謀とも思える、４９日間の戦いを、生き残れるかもしれない。@
-` Maybe I'll survive this reckless fight for 49 days.`@
+` I might be able to survive this 49 day fight. It's a matter of life and death.`@
 br
 ;　全身を、じゅわっとしたものが駆け巡るのを感じた。\
-` My whole body felt a clipping sound.`\
+` I could feel my body running with a new vigor.`\
 ;ld c,AYA_D7,80
 
 bg black,22
 
 ;　私はやれる。@生き残れる。@
-` I can do it.`@`I can survive.`@
+` I can do it.`@` I can survive.`@
 br
 ;　あいつなんか怖くない。@私は逃げられる。@逃げ延びられる。\
-` He's not scary.`@`I can run away.`@`I can make good of my escape.`\
+` He's not scary. `@`I can run away. `@`I can make my escape.`\
 ;bg black,23
 bg kyou_04,23
 
 ;　……逃げ延びて、何かを私が待っているの…？@
-` ....escape...an I waiting on something?`@
+` ....Do I have something to look forward to if I escape?`@
 ;　その疑問に対する答えは、未だにない。@
 ` I still didn't have an answer to that question`@
 br
 ;　でも、あのおぞましい地獄から逃れる方法が見つかっただけでも、@今は踊り出したいくらい嬉しい気持ちだった。\
-` But I found a way to escape this hell.`@`I'm so happy now I could dance.`\
+` But I found a way to escape that gruesome hell.`@` I'm so happy right now, I could dance.`\
 bg black,23
 bg rouka_01,23
 
 ;　人生の意味とか価値とか、そんなものを今、考えても、それこそ何の意味も価値もない。@
-` Even if I try thinking about the meaning and value of life, I still have neither.`@
+` Even if I try thinking about the meaning or value in life, there just isn't any.`@
 br
 ;　今はただ、生き残れるかもしれないという単純な喜びが、ただそれだけで嬉しかった。\
-` Right now there was just the simple pleasure of possibly surviving, and I was happy with that.`\
+` Right now I'm just plenty happy that I have a possibility of surviving.`\
 bg black,23
 bg rouka_03,23
 ld c,IZA_D3,22
 ld c,IZA_D6,80
 
-「ほらほらァ！！@　走れ走れ走れェ！@　下らないこと考えてる暇があったら、汗水垂らして走りやがれ！@　今日は少し短めで許してやるが、明日からはガンガン時間を延ばして、たっぷり走らせてやるからなァ！！@　ひゃっひゃっひゃっひゃ！！」\
-
+;「ほらほらァ！！@　走れ走れ走れェ！@　下らないこと考えてる暇があったら、汗水垂らして走りやがれ！@　今日は少し短めで許してやるが、明日からはガンガン時間を延ばして、たっぷり走らせてやるからなァ！！@　ひゃっひゃっひゃっひゃ！！」\
+`"Come on, come on!! `@`Get runnin'! `@`If ya got time to think about dumb shit, then pick up the pace and start sweatin'! `@`I let ya get off easy today, but startin' tomorrow I'm gonna start kickin' the time length up a notch!! `@`Hyahahaha!!"`\
 se3v 66,100
 se1v 69,100
 wait 200
@@ -3295,34 +3298,34 @@ bg koutei_04,22
 me1v 31,50
 
 ;　二時間目の終わりの業間休みに、校庭に出るなんて、本当に久し振りのことだった。@
-` It's been a while since I've come out into the schoolyard after a two hour rest after working.`@
+` It's been a while since I last went outside during recess.`@
 br
 ;　体育の授業でもないのに、校庭を走るなんて、……それこそ、生まれて始めての経験だ。\
-` I was running although it wasn't P.E, but even so...it was like a experience of being born again.`\
+` It's also the very first time I've ever gone running laps around the schoolyard without being in P.E. class.`\
 ;　……どれくらい走れば、どれくらいの時間が減るのかはわからない。@
-` I didn't know if I'd have to run or even how much time it'd be reduced by.`@
+` ...I have no idea how time will be shaved off by my running.`@
 ;　でも、今ここでたくさん走っておけば、その分、放課後に楽が出来る。@
-` But if I run a lot now, I'd be able to do so easily after school.`@
+` But if I run a lot now, I should be able to take it that much easier after school.`@
 br
 ;　何しろ、今ならば、誰も追って来ない。@
-` After all, nobody is following me now.`@
+` After all, nobody is chasing me right now.`@
 ;　のんびりと自分のペースで走ることが出来る。@
 ` I can run leisurely at my own pace.`@
 ;　疲れたとしても、放課後までに体力を回復できる時間はたっぷりある。\
-` Even if I tire, I have plenty time to recuperate until after school.`\
+` Even if I tire, I still have plenty time to recuperate before school ends.`\
 bg black,22
 
 ;　これが、イザナミのゲームの生き残り法。@
 ` That is the way to survive Izanami's game.`@
 br
 ;　間違いない。@過去の生還者は、この秘密に気付いたのだ。\
-` Without a doubt,`@`the past survivors knew this secret.`\
+` Without a doubt, `@`the previous survivor must have discoved this secret too.`\
 bg koutei_05,22
 
 ;　元気な子供たちがボール遊びに夢中になる中。@私はひとり、黙々と校庭を走り続けた。@
-` While lively children play ball,`@`I run around the schoolyard in silence.`@
+` While the other kids are engrossed in their game of dodgeball, `@`I run around the schoolyard in silence.`@
 ;　業間休みだけでなく、昼休みにも同じく黙々と走り続けた。\
-` I ran silently during both lunch and recess.`\
+` It wasn't just at recess either. I ran the same way during lunch as well.`\
 textoff
 
 ld r,AYA_D6a,23
@@ -3332,10 +3335,10 @@ ld r,AYA_D6a,23
 ld r,AYA_D7a,80
 
 ;　今日は体育の授業はないが、体育で走らされるより、もっと多くを走ったと思う。@
-` Today wasn't P.E., but I think I'm running more that I'd be during P.E.`@
+` I didn't have P.E. today, but I think I ran even more today than I normally would in gym class.`@
 br
 ;　…………その成果は、果たして出るのか。\
-` .....I wonder if it'll work out as expected.`\
+` .....I wonder if this will really work out as expected.`\
 bg black,2
 
 fede 0,1000
@@ -3345,24 +3348,25 @@ bg kyou_01,22
 
 me1v 24,50
 
-「下校中には寄り道をしないようにー！@　では日直、号令ー！！」@
+;「下校中には寄り道をしないようにー！@　では日直、号令ー！！」@
+`"Make sure you go straight home once you leave school grounds! `@`Whoever's on duty today, please dismiss the class!!"`@
 「きりーつ、きょーつけー！！」\
-
+`"Stand! At attention!"`\
 ld c,AYA_D7a,26
 
 ;　……帰りのホームルーム。@
-` ....homeroom.`@
+` ....The final homeroom of the day.`@
 ;　私はぐっと両手を握り締めて、立ち上がる。\
-` I clasped my hands and stood.`\
+` I clasped my hands tightly and stood up.`\
 ;　……私の推理が正しいかどうか、……証明される。@
-` ...If I was correct in my reasoning, it'd be verified now.`@
+` ...Whether or not my theory is correct... will be proven now.`@
 br
 ;　お願い……、少しでも時間が減っていて………。\
-` PLease...decrease the time just a little...`\
+` Please... decrease the time. Even if it's just a little...`\
 E_A
 
 ;「「「さよーならー！！！」」」\
-`"BYEEEE~!"`\
+`"""BYEEEE~!!"""`\
 se1v 2,50
 nega 1
 print 80
@@ -3375,10 +3379,10 @@ bg black,1
 me1v 16,50
 
 ;　……そして、いつものように、放課後のイザナミの世界へ。@
-` ...And as usual, I was in Izanami's After-School world.`@
+` ...And with that, just like always, I was in Izanami's after-school world.`@
 br
 ;　瞬時に無人となった教室で、私は、ごくりと唾を飲み込んでから、時計を見上げる。\
-` The classroom emptied. I gulped and looked up at the clock.`\
+` In an instant, not a sole remained in the classroom. I gulped and looked up at the clock.`\
 bg kyou_02u,22
 ld l,AYA_D7a,22
 
@@ -3390,29 +3394,30 @@ wait 1000
 ld r,IZA_D1,22
 
 ;　がらりと扉を開けて、教室にイザナミが入ってくる。@
-` Izanami opens the door and bursts into the classroom.`@
+` Izanami slams opens the door and bursts into the classroom.`@
 br
 ;　そして時計を見上げ、肩を竦めながら笑った。\
-` Looking up at the clock, he shrugged his shoulders and laughs.`\
+` Looking up at the clock, he shrugged his shoulders and laughed.`\
 ld r,IZA_D2,80
 
 E_A
 ;「くっくっく……。@やれやれ、……気付かれちまったかァ。」@
-`"Kukuku...`@`...well well...did you notice?"`@
+`"Kukuku...`@`... well, well, well... Looks like you've gone and figured it out."`@
 br
 bgm1 20
 ;　時間は、……しっかりと短くなっていた。\
-` Time had definitely become shorter.`\
+` The time... had definitely become shorter.`\
 ld l,AYA_D7,80
 
-　私の全身を、あのじゅわっとした感触が駆け巡る。@
+;　私の全身を、あのじゅわっとした感触が駆け巡る。@
+` That feeling of vigor ran throughout my whole body.`@
 br
-　今日一日、かなりを走り、疲れていたはずなのに、……それがすぅっと引いていくのを感じた。\
-
+;　今日一日、かなりを走り、疲れていたはずなのに、……それがすぅっと引いていくのを感じた。\
+` Since I was running laps all day, I should be tired... but I felt all of that exhaustion immediately leave me body.
 ld r,IZA_D6,80
 
-「しかし、その努力。@いつまで続けられるかなァ？@　根気も気力もからっきしのお前によォ…！@　時間もまだまだこれから、ガンガン延ばしていくんだからなァ？！@　くっくくくくく！！@　まぁ、いいさァ。@今日も始めようじゃねぇか。@さァ、楽しい放課後の始まりだァ…！！」\
-
+;「しかし、その努力。@いつまで続けられるかなァ？@　根気も気力もからっきしのお前によォ…！@　時間もまだまだこれから、ガンガン延ばしていくんだからなァ？！@　くっくくくくく！！@　まぁ、いいさァ。@今日も始めようじゃねぇか。@さァ、楽しい放課後の始まりだァ…！！」\
+`"But, `@`how long can you keep up that routine I wonder? `@`After all, you ain't got any patience or willpower...! `@`And it's not like I'm just gonna stop incresing the time. In fact, I intend to lengthen it much more! `@`Kukukuku!! `@`Oh well, it don't matter to me. `@`What do you say we start now? `@`Now then, let's start our after school game...!!"`\
 cl l,24
 
 wait 1000
@@ -3421,10 +3426,10 @@ bg black,23
 bg rouka_03,23
 
 ;　私は廊下に走り出る。@それを見届け、イザナミも廊下に出る。@
-` I rushed out into the corridor`@`and saw Izanami do the same.`@
+` I rushed out into the corridor `@`and Izanami did the same.`@
 br
 ;　……私はしっかりと床を踏みしめ、走り出した。\
-` I firmly stepped on the floor and started to run.`\
+` I dug my feet firmly into the ground, and started to run.`\
 bg black,2
 
 fedexx 85,0,0,0,0,0,1000
@@ -3439,47 +3444,48 @@ br
 ;　休み時間の度に走り、走り走り走りまくった。\
 ` Every break time I ran my heart out.`\
 ;　どうやら、予め走った時間は、イザナミの世界ではそれ以上にカウントされているらしい。@
-` But it seemed that in Izanami's world was counted more than these times I ran in advance.`@
+` And it seemed that whatever amount of time I ran in advance, that counted for even more time in Inzanami's world.`@
 ;　つまり、予め、走っておけば走っておくほど、有利だということだ。@
-` Thus, the more I ran in advance the more advantaged I became.`@
+` Thus, the more I ran in advance the more of an an advantage I had.`@
 br
 ;　とにかく走った。@チャイムと同時に教室を飛び出し。@給食を終えると同時に教室を飛び出した。\
-` I ran anyway.`@`As soon as the bell went, I ran out the classroom.`@`When I finished my meal I ran out the classroom.`\
+` I was always running. `@`As soon as the bell rang, I would dash out the classroom. `@`The moment I finished eating lunch, I would start running.`\
 bg black,22
 bg kyou_01,22
 
 ;　……そういえば、最近は給食を残さなくなった。@
-` Now that I mention it....recently I hadn't been leaving my school lunch.`@
+` Now that I mention it.... recently I've been finishing my whole lunch.`@
 br
 ;　何しろ、毎日毎日、走りまくっているのだから、お腹が空く。@
-` After all, I was running every day so I was hungry.`@
+` After all, I was running every day so I've been hungry.`@
 ;　家での食事も残さなくなった気がする。\
-` I didn't intend to leave my meals at home either.`\
+` I think the same goes for my meals at home too.`\
 bg black,22
 
 E_MA
 
 bg ie_04,22
 
-　不眠気味で、何度も寝返りをうっていたはずの夜も、@最近は灯りを消すと同時に、布団に沈み込むかのように眠れるようになった。@
+;　不眠気味で、何度も寝返りをうっていたはずの夜も、@最近は灯りを消すと同時に、布団に沈み込むかのように眠れるようになった。@
+` And even though I used to used to toss and turn at night, and struggle with insomnia, `@`recently, as soon as I shut off the lights I would immediately sink into my futon and fall asleep.`@
 br
 ;　何しろ、毎日毎日、走りまくっているのだから、疲れてよく眠れるのは当然だ。\
-` After all, since I was running earnestly every day, it stood to reason that I'd try to sleep well.`@
+` After all, since I was running with all my might every day, it's obvious that I'd sleep easily from being exhausted.`@
 bg black,22
 bg Air_02,22
 
 ;　体育の授業で校庭を走る時。@……前ほど苦手じゃなくなった気がする。@
-` When I run in gym class now,`@`I don't think I'm as unskilled as before.`@
+` When I run in gym class now,`@` I don't have as much trouble as I did before.`@
 br
 ;　当然だ。@私は毎日、どれだけの時間を走らされているというのか。@
-` Of course.`@`I was being made to run for ages every day.`@
+` Of course.`@` I had been running for hours on end every day.`@
 ;　それに比べたら、@校庭をほんの数周、それも誰にも追い掛けられずになんて、問題にもならなかった。\
-` Compared to that, running a few laps around the school yard was nothing.`\
+` I ran countless laps around the schoolyard every day. `@`Compared to that, running around during P.E. without anyone chase me was easy.`\
 bg black,22
 bg roji_03a,22
 
 ;　試しに、帰宅後も外に走りに行ってみたら、これも効果を示した。@
-` As a test, when I got home in the evening, I ran outside to see any effects.`@
+` As a test, when I got home in the evening I would go running as well. I could see results there as well.`@
 br
 ;　もちろん、イザナミも私を諦めるつもりは毛頭ないらしい。\
 ` Of course, Izanami too had no intention of giving up on me.`\
@@ -3487,25 +3493,26 @@ bg black,22
 bg rouka_02,22
 
 ;　日々、相当の時間を上乗せして挑んでくる。@
-` Every day, I was challenged for a substantial amount of time.`@
+` Every day, I was challenged to a corresponding amount of time.`@
 ;　しかし私も、日々、相当の時間を走って、それを軽減している。\
-` But every day, I ran for a time which is now reducing.`\
+` But as I ran more outside of that game, the time was ever decreasing.`\
 
 ;　それでも少しずつ時間は延びてくる。@
-` Even so the time extended little by little.`@
-　一時期は３０分未満にさえ縮めた時間も、@最近はまた増え出し、元の１時間に戻ろうとしている。@
+` Even so, little by little, extra time was tacked on daily.`@
+;　一時期は３０分未満にさえ縮めた時間も、@最近はまた増え出し、元の１時間に戻ろうとしている。@
+` For some time I was able to reduce the time down to 30 minutes. `@`But recently, it has been increasing again, and it returned back to a full hour.`@
 ;　しかし、……私も体力を付けてきている。\
-` However, I also put in all my strength.`\
+` However... I fought with all my strength.`\
 bg black,23
 bg rouka_04,23
 
 ;　楽に走るコツのようなものも見つけた。@体力を温存できるペースも見つけた。@
 ` I found I trick to running easier,`@` and a pace that allowed me to conserve strength.`@
 ;　今の私なら、仮に１時間を超えたとしても、………やり果せる自信はあった。@
-` Even if now I had to run more than an hour, I had confidence that I could do it.`@
+` Even if I had to run more than an hour.... I had confidence that I could do it.`@
 br
 ;　そうしている内に、@……私はイザナミに追われるようになってから、すでに１ヶ月を超えるようになっていた。\
-` In the meanwhile,`@`I had reached a month of being chased by Izanami.`\
+` In the meanwhile,`@`before I knew it, I had already reached one month of running away from Izanami.`\
 bg black,2
 wait 1000
 bg rouka_02,23
@@ -3517,43 +3524,43 @@ bg black,23
 bg rouka_03,23
 
 ;　最近は、相当な距離を走り込んでいても、放課後の時間は１時間を超えてしまう。@
-` Recently, even if I ran a considerable distance, I'd still have more than an hour after school.`@
+` Recently, even if I ran a considerable distance ahead of time, I'd still have more than an hour to go after school.`@
 br
 ;　しかし、……私は負けなかった。@
-` But I wouldn't lose.`@
+` But... I wouldn't lose.`@
 ;　生きて４９日を越える自信を持っていた。\
-` I had was confident that I'd survive for 49 days.`\
+` I was confident that I'd survive for 49 days.`\
 ;　時計をちらりと見る。@
 ` I glanced at the clock.`@
 br
 ;　あと５分。@……今日のイザナミの放課後も、もうすぐ終わりだった。\
-` Five more minutes.`@`...Izanami's after-school challenge soon would be over.`\
+` Five more minutes.`@`... Izanami's after-school game would soon be over.`\
 ld l,IZA_D4,22
 ;ld l,IZA_D4,80
 
-「頑張るじゃねェか。@最近はずいぶんと体力を付けやがってェ。@……そんなに地獄が嫌かァ？@　くっくくく、そりゃ嫌だろォなァ。」\
-
+;「頑張るじゃねェか。@最近はずいぶんと体力を付けやがってェ。@……そんなに地獄が嫌かァ？@　くっくくく、そりゃ嫌だろォなァ。」\
+`"Well, ain't you doin' good? `@`You've been giving it your all lately.`@`... Is hell really that scary to you? `@`Kukuku, I guess that ain't surprising."`\
 ld r,AYA_D7a,22
 
 ;「……あんな地獄、誰だってごめんよ。」@
-`"That hell....everyone....I'm sorry."`@
+`"...Anyone would want to be spared from that hell."`@
 br
-　体力も付き、平常心を保てるようになった最近は、@イザナミに言い返せるくらいの余裕も出来た。\
-
+;　体力も付き、平常心を保てるようになった最近は、@イザナミに言い返せるくらいの余裕も出来た。\
+` Recently, `@`I've even gathered enough strength and confidence to speak back to Izanami.`\
 ld l,IZA_D2,80
 
 ;「俺ァ、お前がだんだん気に入ってきたぜ。」@
-`"I gradually came to like you."`@
+`"Ya know, I gradually came to like you."`@
 ld r,AYA_D8a,80
 
 ;「……御免被るわ。@死神に好かれるなんて、冗談じゃない。」\
-`"....excuse me?`@` You're joking right?"`\
+`"....Excuse me?`@` Who would want to be liked by a shinigami? What a joke."`\
 cl r,23
 
 ld l,IZA_D5,80
 
 ;「くっくくくくく！@　そりゃァ、違ェねェ…！」\
-`"Kukukukuku!`@`Well....you're wrong!"`\
+`"Kukukukuku!`@`Well, that's for sure...!"`\
 bg black,23
 
 fede 0,2000
@@ -3564,17 +3571,17 @@ bg rouka_04,23
 me1v 5,50
 
 ;「なァ、あやちゃんよォ。@聞かせてくれ。@そこまでして、どうして生きたい？」@
-`" Hey, listen to me Aya-chan.`@`Why do you want to live?"`@
+`" Hey, listen to me Aya-chan.`@` Why do you want to live?"`@
 ;「……あんな地獄は絶対御免って、言ったはずよ。」\
-`"I said I'm completely rejecting that hell."`\
+`"...I told you. I'm definitely going to be spared a trip to that hell."`\
 ;「なら。@お前の望むような死だったらどうする？」@
-`" So if you die as you wish, what would you do?"`@
+`"Well then. `@`What if you could die in the manner you wished?"`@
 ;「……………………。」\
 `"..........."`\
 me2v 16,50
 
-「俺ァ、死神だ。@人間の魂を、死後のあらゆる世界に好きに連れて行ける。@あんな酷ェ地獄じゃなくて。@お前の望むような、眠るように消えられる世界に連れて行ってやってもいいんだぜ？」\
-
+;「俺ァ、死神だ。@人間の魂を、死後のあらゆる世界に好きに連れて行ける。@あんな酷ェ地獄じゃなくて。@お前の望むような、眠るように消えられる世界に連れて行ってやってもいいんだぜ？」\
+`"I'm a shinigami, ya know? `@`I can ferry the souls of the dead to a myriad of different afterlifes. `@`What if instead of that brutal hell, `@`I brought you to a world where you could vanish away as if falling asleep, like you wanted?"`\
 bg black,24
 bg kaidan_02,0
 ld l,AYA_D2,24
@@ -3583,60 +3590,61 @@ ld l,AYA_D2,24
 `"...........`@/
 ld l,AYA_D3,80
 ;……冗談じゃないわ。」\
-`....I'm not joking"`\
+`....Don't mess wih me."`\
 
 ld r,IZA_D1,24
 ;ld r,IZA_D3,80
 
-「冗談じゃねェさ。本当さ。@言ったろ？@　俺はクソ落ち目で生きる気力もねェ最低のクズが大好物なんだ。@……ところが、最近のお前はどうだァ？@　生き延びる為に努力を惜しまず、毎日毎日、きっちりと走り込んでやがる。@大した気力、生命力だ。@……そういうタマァ、俺の好物じゃねぇんだ。@だから、お前みたいなマズい魂に俺の胃袋は興味ねェんだ。」\
-
+;「冗談じゃねェさ。本当さ。@言ったろ？@　俺はクソ落ち目で生きる気力もねェ最低のクズが大好物なんだ。@……ところが、最近のお前はどうだァ？@　生き延びる為に努力を惜しまず、毎日毎日、きっちりと走り込んでやがる。@大した気力、生命力だ。@……そういうタマァ、俺の好物じゃねぇんだ。@だから、お前みたいなマズい魂に俺の胃袋は興味ねェんだ。」\
+`"I ain't messin' around. It's the truth. `@`You said it yourself. `@`My favorite food are the pathetic little shits that no longer have the will to live.`@`... You, on the other hand... `@`Lately you've been willingly going running every day, giving it all your might. `@`You've got willpower and vitality.`@`... And I hate souls like that. `@`A gross tasting soul like yours would just give me indigestion."`\
 ld l,AYA_D8a,80
 
 ;「なら……。@さっさとこの世界から私を解放してよっ。@冗談じゃないわ。」\
-` Well....`@`....quickly free me from this world!`@`I'm not joking!"`\
+`"If that's the case...`@` Then hurry up and let me go already. `@`Give me a break!"`\
 ld r,IZA_D4,80
 
-「仕方ねェさ。@俺の世界に引き込んだ以上、きっちり４９日は付き合わなくちゃならねェ。@それが俺のルールなんだ。@その間に、どれほどお前がマズい魂になっちまってもな。」\
-
+;「仕方ねェさ。@俺の世界に引き込んだ以上、きっちり４９日は付き合わなくちゃならねェ。@それが俺のルールなんだ。@その間に、どれほどお前がマズい魂になっちまってもな。」\
+`"Sorry, can't do that. `@`Once you've ended up in my world, you've gotta last the full 49 days. `@`That's my rule. `@`Even if it means I've gotta eat a soul that's gotten all nasty tasting."`\
 ld l,AYA_D3,80
 
 ;「いい気味だわ。@……ご愁傷さまっ。」\
-`"That's a good feeling,`@`this sorrow"`\
+`"Oh no, that must be sooo horrible for you.`@`... I guess you reap what you sow."`\
 cl l,24
 
 wait 1000
 
 ld r,IZA_D2,80
 
-「こう言っちゃなんだが。@俺もそうそう暇じゃねェ。@旨そうな魂ならいざ知れず、@お前みてェなマズい魂を追っ掛け回すなんて、時間の無駄もいいところだ。@そんな暇があったら、また別のクソ落ち目のガキを探しに行きたいところだぜ。」\
-
+;「こう言っちゃなんだが。@俺もそうそう暇じゃねェ。@旨そうな魂ならいざ知れず、@お前みてェなマズい魂を追っ掛け回すなんて、時間の無駄もいいところだ。@そんな暇があったら、また別のクソ落ち目のガキを探しに行きたいところだぜ。」\
+`"Ya know. `@`I don't have time for this either. `@`Having to chase you around, `@`when I'm not even sure whether you'll taste decent, it's a total waste of my time. `@`I would much rather be using that time to scout out other miserable brats."`\
 ;cl r,22
 bg black,25
 bg kaidan_01,22
 ld c,AYA_D7a,24
 
 ;「じゃあ、私になんか構わないで、とっととそうしなさいよ。」\
-`"Well, it doesn't bother me. Hurry up and do it."`\
+`"Fine, hurry up and go then. It doesn't matter to me."`\
 cl c,24
 ld r,IZA_D3,22
 
-「言ったろ。@４９日が終わるか、お前が俺に捕まるか。@そのどちらかでしか、俺とお前の放課後は終わらねェ。@それが俺の、学校妖怪序列第２位、１３階段の死神のルールだ。」\
-
+;「言ったろ。@４９日が終わるか、お前が俺に捕まるか。@そのどちらかでしか、俺とお前の放課後は終わらねェ。@それが俺の、学校妖怪序列第２位、１３階段の死神のルールだ。」\
+`"I just told ya. `@`Either go for the full 49 days, or get caught by me. `@`Those are the only ways to end our game. `@`That is my rule as the shinigami of the 13th step, 2nd ranked among the school youkai."`\
 bg black,23
 bg rouka_04,23
 
-「………お互い、何の得も意味もない放課後ね。@笑えるわ。」@
+;「………お互い、何の得も意味もない放課後ね。@笑えるわ。」@
+`"....So we're both just wasting our afternoons then? `@`That's laughably absurd."`@
 ;「まったくだァ。@……だからだ。@お前に相談があるわけだ。」@
-`"Jeez.`@`That's why`@`there's something to discuss with you."`@
+`"Would ya listen to me? `@`...I'm trying to say, `@`I have something to discuss with you."`@
 ;「相談……？」@
-`"Something to discuss?"`@
+`"Something to discuss....?"`@
 br
 ;　私たちは、互いに足を止めることなく、会話を続ける。\
-` *Without stopping our walk, we continue the conversation.`\
+` Without either of us slowing our pace, we continue our conversation.`\
 bg black,23
 
 ;「俺はもう、お前に興味はねェし、お前だってこんなのが延々と続くのもウンザリのはずだァ。@だからだ。@こうしよう。@俺に捕まれ。」\
-`"Honestly, I'm not interested in you...but I should follow you till I tire of it.`@`So try it.`@`Try to be caught by me."`\
+`"Honestly, I don't care for you, and I'm sure you're getting bored of doing this every day too. `@`So here's the deal.`@`You. `@`Should let me catch you."`\
 bg kyou_04,23
 ld r,AYA_D7a,23
 ld r,AYA_D8a,80
@@ -3646,73 +3654,75 @@ ld r,AYA_D8a,80
 ld l,IZA_D4,23
 ld l,IZA_D2,80
 
-「くっくっくっく！@　まァ、待て。@話は最後まで聞けって。@……俺は捕まえたヤツを、あの胃袋の地獄へ放り込む。@だが、お前みてェなマズい魂はいらねェ。@しかし、俺は死神だ。@捕まえた以上、死後の世界に連れて行かねェわけにはいかねェ。」\
+;「くっくっくっく！@　まァ、待て。@話は最後まで聞けって。@……俺は捕まえたヤツを、あの胃袋の地獄へ放り込む。@だが、お前みてェなマズい魂はいらねェ。@しかし、俺は死神だ。@捕まえた以上、死後の世界に連れて行かねェわけにはいかねェ。」\
+`"Kukuku! `@`Don't be so hasty. `@`Hear me out.`@`... I usually take those I catch to that stomach-like hell. `@`But, I don't have any use for bad tasing souls like yourself. `@`However, I am still a shinigami. `@`Once I catch someone, I have to bring them to an afterlife."`\
 ld r,AYA_D7a,80
 
 ;「……私に、あんたに捕まる利点がさっぱりないんですけど。」\
-`"But there's no advantage in being caught by you."`\
+`"...And? I don't see how that's advantageous to me."`\
 ld l,IZA_D3,80
 E_A
 ;「お前の望んだ死を、与えてやるよ。」@
-`"I'll grant you the death you long for"`@
+`"I can grant you the death you long for"`@
 ld r,AYA_D5a,80
 
 bgm1 7
 
 ;「……………え。」\
-`"......yes."`\
+`"......huh?"`\
 ld l,IZA_D1,80
 
 ;「お前の望みは、雪が解けるように眠るように、安らかに死ぬことだろ？」\
-`"Your wish is to die peacefully like falling asleep and melting snow, correct?"`\
+`"Your wish was to die peacefully like falling asleep or melting away like snow, correct?"`\
 
 ;　確かにそれは、……私の願望だ。@
-` That surely was....my wish.`@
+` There is no mistake... that was my wish.`@
 br
 ;　……………………。\
 ` ............`\
 ld l,IZA_D2,80
 
 ;「それを叶えてやるよ。@そういう死後の世界もある。@お前の魂は、特別にその世界へ送ってやる。@それでどうだ。」@
-`"I'll grant it.`@`An afterlife also exists.`@`I'll send your soul there specially.`@`How's that?"`@
+`"I can grant it.`@` That sort of afterlife exists.`@` I'll make an exception and send you soul to that one instead. `@`How does that sound?"`@
 ld r,AYA_D4a,80
 
 ;「……そんなの、………信用できるわけないでしょ。」\
-`"......I....I can't depend on that."`\
+`"......I ....I don't believe you."`\
 cl r,24
 
 bg black,22
 ;bg rouka_04,22
 
 ;「俺ァ死神だ。@その仕事で嘘は言わねェし、言うことも許されてねェ。」\
-`"I'm a Shinigami.`@`I don't lie because of my position--I'm allowed to say such things."`\
+`"I'm a shinigami. `@`I don't lie about my job. I'm not allowed to."`\
 bg kyou_04,0
 ld c,IZA_D1,24
 
 ;　私は思わず振り返り、……イザナミを見る。@
-` I turned back without thinking...and looked at Izanami.`@
+` Without thinking, I looked back over my shoulder... and looked at Izanami.`@
 br
 ;　死神はいつだって、私を挑発するようにへらへらしている。@
-` This Shinigami is always senselessly provoking me.`@
+` This shinigami is always trying to provoke me.`@
 ;　しかし、今の瞳は、……なぜか信用できるような気がした。\
-` But why then now did I feel like I could trust the look in his eyes?`\
+` But, for some reason... at that moment, I didn't feel like those were the eyes of a liar.`\
 ld c,IZA_D3,80
 
-「俺はお前との放課後をとっとと終えて、新しい狩りを始めたい。@お前は、望みの死を手に入れて、安らかに眠ることが出来る。@どうだよ。@お互いに損がねェ話だとは思わねェか……？」@
+;「俺はお前との放課後をとっとと終えて、新しい狩りを始めたい。@お前は、望みの死を手に入れて、安らかに眠ることが出来る。@どうだよ。@お互いに損がねェ話だとは思わねェか……？」@
+`"Since I want to put an end to our after-school game and start hunting a new victim, `@`and you want to be able to rest peacefullly... `@`What do you think? `@`It's a win-win situation, right...?"`@
 br
 ;　いつも、私を早足で追い立てていた死神が、……初めて足を止めた。@
-` This Shinigami who had forever been briskly pursuing me, for the first time stood still.`@
+` For the first time since he started chasing me... the shinigami stood still.`@
 ;　私は驚き、……自分も足を止めてしまう。\
-` Surprised, I stopped myself too.`\
+` Dumbstruck... I stopped as well.`\
 cl c,0
 ld l,IZA_D1,24
 
-「相馬あや。@お前の望みを叶えられるのは、死神の俺だけだ。@………生きることに、何の価値も見出せない。@だからせめて、安らかに死にたい。@……その願い、俺にだけ叶えることが出来るんだぜ……。」\
-
+;「相馬あや。@お前の望みを叶えられるのは、死神の俺だけだ。@………生きることに、何の価値も見出せない。@だからせめて、安らかに死にたい。@……その願い、俺にだけ叶えることが出来るんだぜ……。」\
+`"Aya Souma. `@`The one who can grant your wish, is me.`@`.... Seeing no value in life, `@`and wanting to peacefully die because of it.`@`... I'm the only one who can grant that..."`\
 ld r,AYA_D8a,22
 
-「……ま、……まっぴら御免よ。@私が人生を、どういう死に方で終えるかは私が探して私が決めるわ。@……あんたなんか頼らない。@信用できない。」\
-
+;「……ま、……まっぴら御免よ。@私が人生を、どういう死に方で終えるかは私が探して私が決めるわ。@……あんたなんか頼らない。@信用できない。」\
+`"...I... I beg your pardon? `@`The one who decides how I'll die should be me.`@`... Not you. `@`I don't trust you."`\
 textoff
 
 fede 0,1000
@@ -3721,27 +3731,27 @@ E_A
 ld l,IZA_D4,80
 
 ;「ふ。@……くっくくくく。@/
-`"Fu.`@`...kukukukuku`@/
+`"Heh.`@`... kukukukuku.`@/
 me1v 16,50
 ;……まァ、そう来るだろうよ。」@
-`....well, it has come."`@
+`....Well, that time may come."`@
 br
 ;　イザナミは頭を掻きながら肩を竦めて笑う。@
-` Izanami laughed while scratching his head and shrugging his shoulders.`@
+` Izanami scratched his head and shrugged his shoulders, then let out a laugh.`@
 ;　そして再び、足早に歩き出す。@私も足を再び動かす。\
-` And once again, he began to walk.`@`As did I.`\
+` And once again, he began to move his legs. `@`As did I.`\
 bg black,23
 bg rouka_01,23
 
 ;　もうイザナミは何も言わなかった。@だから私も振り返らず、前だけを見て、黙々と走る。\
-` Izanami didn't say anything more.`@`So without looking back, I ran, pressing on ahead.`\
+` Izanami didn't say anything more. `@`So I no longer looked at him. I just quietly ran, looking ahead.`\
 bg black,22
 
 ;　……イザナミは、無慈悲な死神だけれど、今日まで嘘を吐いたことはない。@
-` ....Izanami was a cruel Shinigami, but he hadn't uttered a lie till today.`@
+` ....Izanami is a ruthless shinigami, but so far, he's never told a lie.`@
 br
 ;　その彼が、かつての私が望んでいた死を与えてもいいと、言ってくれたのだ。\
-` He had told me that he would grant me the death I wished for.`\
+` He had offered me that death that I had once dreamed of.`\
 fede 0,1000
 E_A
 
@@ -3750,71 +3760,72 @@ bgm1 24
 ;　なぜ断ったんだろう。@
 ` I wonder why I turned him down.`@
 ;　……イザナミが信用できないから断ったんじゃない。@
-` ...I didn't refuse because he was untrustworthy.`@
+` ...It wasn't because I didn't trust him.`@
 br
 ;　自分でも、……わからない。\
-` I myself didn't understand.`\
+` Honestly... I'm not sure why.`\
 ;　最近は忘れ掛けていた問いが、再び頭を満たす。@
-` I question I had forgotten surfaced again in my mind.`@
+` The question that I forgot about, once again surfaced in my mind.`@
 br
 ;　……私は、どうして生き延びようとするんだろう。@
-` ....why would I survive?`@
+` ....Why do I want to survive?`@
 ;　人は、死にたくないからだけの理由で、生きようとするのだろうか。\
-` Did I simply want to survive because I didn't really want to die?`\
+` Do people keep living simply because they don't want to die?`\
 ;bg black,23
 bg rouka_02,22
 
 ;　そんなの、人なら誰でも当り前だ。@
-` That's a common reason for anyone.`@
+` I suppose that would be the most obvious reason.`@
 br
 ;　生きるには、もっと意味とか価値とか目的とか、……色々とあるはず。@
-` In life there ought to be a variety of purpose, value and meaning.`@
+` But, there's more to life than that... isn't there?`@
 ;　死にたくないから生きたいだなんて、……そんなの無意味で荒唐無稽だ。\
-` Wanting to live because you don't want to die...that's a meaningless, absurd tautology.`\
+` Wanting to live because you don't want to die... that's meaningless. Absurd.`\
 ;　……私は未だ見つけられていない。@
-` Maybe I haven't found it yet.`@
+` ...But I just can't find it.`@
 ;　生きる理由を、意味を価値を、目的を。@
-` My reason, purpose, value and meaning of life.`@
+` I can't find a reason to live. I can't find meaning, or purpose, or a goal.`@
 br
 ;　ただ死にたくないからと、生き延びるために走り続ける日々。@
-` The days I ran were just for the sake of surviving.`@
+` These days that I spend running just because I don't want to die...`@
 ;　……それは、無意味で無価値な日々のはず。\
-` ....those ought to be a meaningless, worthless days.`\
+` They're meaningless and worthless.`\
 bg black,23
 bg rouka_03,23
 
 ;　でも、…………何だか、わからないのだ。@
-` But.....I didn't understand anything.`@
+` But..... there's something I don't understand.`@
 br
-　かつてのぼんやりとした何の意味もない日々に比べたら。@
-　今の、生き延びるために努力を重ねる日々の方が、@……まだ、ささやかな価値があるように思えるのだ。\
-
+;　かつてのぼんやりとした何の意味もない日々に比べたら。@
+` Compared to the days before this, when I lived as if in a trance...
+;　今の、生き延びるために努力を重ねる日々の方が、@……まだ、ささやかな価値があるように思えるのだ。\
+` I feel like these days that I spend trying so hard every day to survive... `@`have slightly more value to me.
 ;　死にたくないなんて、誰だって当り前。@
-` Obviously anyone wouldn't want to die.`@
+` Obviously no one wants to die.`@
 ;　そんなの、生きるための理由にはならないはず。@
-` You shouldn't have to have a reason to do that.`@
+` But that shouldn't be a reason to live in itself.`@
 br
 ;　生きるための理由というのは、……もっと崇高な目的とか使命とか、そういうもののはず。\
-` The reason for living should be a noble purpose or goal, something like that.`\
+` Your reason for living should be... something more like a noble goal, or calling.`\
 bg black,23
 bg kaidan_01,23
 ld l,AYA_D2,23
 
 ;　……でも私は、死にたくないからというだけの理由で、……今日も生き延びている。@
-` ....but for me, only me reason of wanting to not die let me continue to live.`@
+` ....but for me, the only reason I'm still living today... is because I don't want to die.`@
 ;　それは、無意味で無価値な日々のはず。@
-` Those were meaningless, worthless days.`@
+` These should be meaningless, worthless days that I'm living.`@
 br
 ;　……なら、死なせてもらえばいいはずなのに……。@
-` ....Even if it was alright to be laid to rest...`@`
+` ....So, I should be able to let myself die....`@`
 ;　何が正しくて何が誤りなのか、……自分でもわからなくなってきた……。\
-` I myself didn't know what was correct and what was a mistake...`\
+` I have started to doubt myself... What is right? What is wrong? I'm not sure.`\
 bg black,24
 bg rouka_03,24
 ld c,IZA_D7,24
 
 ;「おらァ！@　ペースが落ちてるぞッ。@追い付かれるぞォ！！」\
-`"Hey~!`@`You've slowed down!`@`Hurry up!!"`\
+`"Hey~!`@`You've slowed down!`@`I'm gonna catch you!!"`\
 
 bg black,23
 bg kaidan_01,0
@@ -3830,57 +3841,57 @@ bg rouka_01,23
 ;　考え事をし過ぎた。@
 ` I was lost in thought.`@
 ;　いつの間にかペースが落ちていて、イザナミがすぐ近くまで迫っていた。@
-` As soon as I dropped my pace, before I knew it, Izanami had drawn close.`@
+` At some point my pace had slowed, and before I knew it, Izanami had drawn close.`@
 br
 ;　イザナミが大鎌の柄で床をどんどんと叩き、ペースを上げろと怒鳴る。\
-` My hear beat as he drew near, and I picked up my pace once again.`\
+` Izanami banged the handle of his scythe on the ground and yelled at me to speed up.`\
 bg black,24
 bg kaidan_01,24
 ld c,IZA_D7,24
 ;ld c,IZA_D8,80
 
-「走る時は頭をカラッポにしろ。@走ってれば頭がカラッポになる！@　下らねェこと考える暇があったら、ガンガン走って頭をカラッポにしろィ！@　俺のやさしいやさしい申し出を蹴りやがったんだ。@こうなりゃとことん付き合ってやらァ。@４９日間、バッチリ俺から逃げ果せてみやがれェ！！」\
-
+;「走る時は頭をカラッポにしろ。@走ってれば頭がカラッポになる！@　下らねェこと考える暇があったら、ガンガン走って頭をカラッポにしろィ！@　俺のやさしいやさしい申し出を蹴りやがったんだ。@こうなりゃとことん付き合ってやらァ。@４９日間、バッチリ俺から逃げ果せてみやがれェ！！」\
+`"If you're gonna run, empty your head. `@`Don't be thinkin' about dumb shit! `@`If you've got time to think, then start running harder! `@`You were the one who refused my generous offer. `@`So you'll have to stick it through 'til the end. `@`You've gotta run away from me for the full 49 days!!"`\
 bg black,23
 bg rouka_02,23
 
 ;　私は前を向いたまま、力強く頷いた。@
-` I nodded vigorously while facing forward.`@
+` Keeping my eyes fixed straight ahead, I nodded vigorously`@
 ;　彼の言う通りなのだ。@……余計なことは考えなくていい。@
-` It was as he said.`@`...It was okay to not think of unnecessary things.`@
+` He was right.`@`... I shouldn't be thinking about unnecessary things.`@
 br
 ;　人生の意味は何かと自問自答することそのものが、無意味で無価値なのではないのか。@
-` The meaning of life was something you had to ask yourself, about what was meaning and worthless.`@
+` What's the meaning of life? That's something that you can only answer for yourself.`@
 ;　そんな無意味なことで自分を苦しめるくらいなら、頭はカラッポの方がいい。\
-` If you tormented yourself with such meaningless things, an empty head would be fine.`\
+` What is worthless and what is meaningless? If you're going to torment yourself over such meaningless question, you're much better off just emptying your mind.`\
 　さぁ、何も考えずにカラッポになろう。@ただ、走ることに集中しよう。@
-` Without thinking, I shall empty my head.`@`We'll just concentrate on running.`@
+` So, I shall stop thinking, `@`and just concentrate on running.`@
 br
 ;　そのカラッポの時が、一番、身も心も軽くなるのだ。\
-` When empty, your body and soul became lighter.`\
+` When my mind is empty like that, that's when my body and soul feel the lightest.`\
 bg black,2
 
 ;　そんな日々が、何日も繰り返された。@
-` Days like that occurred often.`@
+` This continued on for many more days.`@
 br
 ;　カレンダーに付けた、４９日目が次第に近づいて来る。@
-` According to the calendar, day 49 was approaching.`@
+` According to my calendar, the 49th day was approaching.`@
 ;　その残り日数を数えることも、とても楽しかった。\
-` Just counting the number of days that remained was fun.`\
+` Counting how many days remained was very fun.`\
 bg air_02,22
 
 fedexx 85,0,0,0,0,0,1000
 
 ;　毎日、頭をカラッポにして走り続け。@
-` Every day, I continued to run and emptied my mind in the process.`@
+` Every day, I would empty my head and continue to run.`@
 br
 ;　汗だくで帰宅して、お風呂に入り。@
-` I would home dripping with sweat and take a bath.`@
+` I would come home drenched in sweat, and hop in the bath.`@
 ;　いっぱいごはんを食べて、ばったりと布団に倒れて、夢も見ないほどにぐっすり眠った。@
-` I ate a lot of food, and collapsed into bed, sleeping so soundly that I didn't even dream.`@
+` Then I would eat a full plate of food, collapse into bed, and sleep so soundly that I didn't even dream.`@
 br
 ;　……そして、とうとう、４９日目を迎えた。\
-` ....and, finally, I reached the 49th day.`\
+` ....and, finally, the 49th day arrived.`\
 bg black,2
 
 fede 0,2000
@@ -3891,22 +3902,22 @@ bg koutei_01,2
 me1v 24,50
 
 ;　私は自分のことに精一杯だったので、学校の行事などはすっかり忘れていた。@
-` With so much to do, I had completely forgotten about school events and the like.`@
+` I was so engrossed in my routine that I had completely forgotten about school events and the like.`@
 br
 ;　その日は、学年のマラソン大会の日だった。\
-` That was the day of the school marathon.`\
+` Today was the day of the annual school marathon.`\
 ;　かつては大嫌いだったマラソン大会。@
 ` A marathon I once loathed.`@
 ;　しかし今はまったく問題にならない。@
 ` But now, it would be no problem at all.`@
 br
 ;　ひとりで校庭を走り回るか、みんなでマラソンをするか。@それだけの差だ。\
-` The only difference was that instead of running around the schoolyard alone,`@`I'd be running with others.`\
+` The only difference was that instead of running around the schoolyard alone, `@`I'd be running with others.`\
 ;　しっかり走って、今日の最後の試練に挑もう。@
 ` I'll run my heart out, and take on this last challenge.`@
 br
 ;　イザナミとの腐れ縁も、今日でおしまいだ。\
-` My relationship with Izanami would end today.`\
+` My relationship with Izanami will end today.`\
 
 bg black,22
 bg koutei_05,0
@@ -3924,28 +3935,28 @@ ld l,ay2_D5a,23
 ld l,ay2_D8a,80
 
 ;「………ッ！！@　ど、どうしてここに……？！」\
-`".......ah?!`@`W-why are you here?!"`\
+`"......ah?! `@`W-why are you here...?"`\
 ;　それは紛れもなく、イザナミだった。@
 ` Without a doubt, it was Izanami.`@`
 ;　彼の物騒な姿はどうやら周りの人たちには見えていないらしい。@
-` His unruly appearance didn't seem visible to the people walking around.`@
+` His unruly appearance didn't seem to be visible to the people around us.`@
 ;　放課後を待たずに現れるなんて、初めてのことだった。\
-` This was the first time he had shown up without me waiting after school.`\
+` This was the first time he had appeared in front of me before the end of school.`\
 ld r,IZA_D3,80
 
 E_A
 bgm1 15
 
-「せっかく、マラソン大会なんて面白ェイベントがあるんだ。@そして、今日が俺とお前の長かった日々の最後だ。@……放課後に校舎をぐるぐるじゃあ、シメには面白くねェ。」\
-
+;「せっかく、マラソン大会なんて面白ェイベントがあるんだ。@そして、今日が俺とお前の長かった日々の最後だ。@……放課後に校舎をぐるぐるじゃあ、シメには面白くねェ。」\
+`"I figured that since there's a marathon going on I'd stop by. `@`Besides, today is our final day together.`@`... and running around that building every day just ain't interesting any more, ya know?"`\
 ld l,ay2_D5a,80
 
 ;「……まさか、今、………やる気なの……。」\
-`".....no way. Now, I have motivation..."`\
+`".....No way. Don't tell me... that you plan on..."`\
 ld r,IZA_D5,80
 
-「そういうこった…！@　ずっと歩いてるばかりで、俺も飽きちまったァ！@　せっかくのマラソン大会だ。@今日は俺も走らせてもらうぜェ…！！」\
-
+;「そういうこった…！@　ずっと歩いてるばかりで、俺も飽きちまったァ！@　せっかくのマラソン大会だ。@今日は俺も走らせてもらうぜェ…！！」\
+`"Correct...! `@`I'm gettin' tired of walking all the time! `@`So, since there's a marathon today, `@`I figured that I could do some runnin' too...!!"`\
 ld l,ay2_D7a,80
 
 ;「ッ……………。」@
@@ -3954,12 +3965,12 @@ br
 ;　彼がどれほどの速度で走れるのかはわからない。@
 ` I didn't know for certain how fast he was able to run.`@
 ;　でも、大柄なその体格と長い足を思えば、かなりの速度で走れるのは間違いない。\
-` But he surely would be able to run quickly, judging from that strapping physique and those long muscular legs.`\
+` But given his large build and long legs, he's got to be able to run pretty fast.`\
 ;　彼だって、毎日、１時間以上も早足で歩き続けているが、息一つ乱さないのだ。@
-` And he had walked for more than an hour every day without taking one breath.`@
+` Furthermore, `@`out of all those days that he had been chasing me for an hour or more, I had never once heard his breathing rate falter.`@
 br
 ;　……相当の体力と脚力があるに違いない。\
-` He must have considerable leg strength and stamina.`\
+` ...He must have considerable leg strength and stamina.`\
 ld r,IZA_D2,80
 
 ;「怖ェか？」@
@@ -3971,26 +3982,27 @@ ld l,ay2_D4a,80
 ld r,IZA_D4,80
 
 ;「安心しろィ。@捕まえても、安らかに死なせるって約束はきっちり守ってやるからよォ。」@
-`"Don't worry.`@`Even if you're caught, I'll still keep my promise to gently let you die."`@
+`"Don't worry. `@`Even if I catch you, I'll still keep my promise to let you die gently."`@
 ld l,ay2_D7a,80
 
 ;「………冗談じゃない。」\
-`"I'm not joking."`\
+`"...You're kidding."`\
 ld r,IZA_D6,80
 
-「なら、せいぜい気合入れて走るこったなァ。@俺に捕まらずにゴールできたら、お前の勝ちだ。@捕まったら、……安らかに眠らせてやるぜェ。@くっくくくくく！」@
+;「なら、せいぜい気合入れて走るこったなァ。@俺に捕まらずにゴールできたら、お前の勝ちだ。@捕まったら、……安らかに眠らせてやるぜェ。@くっくくくくく！」@
+`"Nope. So you better give it your all. `@`If you can reach the goal before I catch you, you win. `@`But if I get you... I'll let you gently drift to sleep. `@`Kukukuku!"`@
 br
 ;　イザナミは意地悪そうに笑い続けている。\
-` Izanami continued to laugh in a mean manner.`\
+` Izanami continued to laugh malevolently.`\
 cl l,24
 
 ;　私はそれを尻目に、少しでもスタートラインの前の方へ人ごみを掻き分けていく。\
-` I was a little skeptical as I waded my way to the start line.`\
+` Closely watching him over my shoulder, I slowly started working my way through the crowds of people to the starting line.`\
 cl r,0
 ld c,IZA_D3,24
 
 ;「２０を数えてから追っ掛けてやらァ。@その間に、せいぜい距離を稼いでおくことだぜェ。」\
-`"I'm gonna count down from 20 before I come after you.`@`I'n the meantime try to distance yourself."`\
+`"I'm gonna count to 20 before I come after you. `@`In the meantime try to distance yourself as much as possible."`\
 bg black,22
 bg koutei_04,22
 
@@ -4005,23 +4017,23 @@ fede 0,1000
 E_A
 
 ;「途中、歩いてもいいからな…！@　しっかり完走だけはしろよ！！@　よーい、」\
-`"It's alright to walk along the way!`@`All that matters is that you finish!!"`\
+`"It's alright to walk along the way! `@`All that matters is that you finish!! `@` Okay! Ready!"`\
 me1v 17,90
 
 ;　頑張って辿り着いた、今日。@
-` I had worked hard to reach this day.`@
+` I worked hard to reach this day.`@
 ;　それを絶対に無駄にしない。@
-` I wouldn't waste those efforts.`@
+` I won't let it all be for nothing.`@
 br
 ;　絶対に、……生き残ってやる。\
-` I was going to survive....definitely.`\
+` I'm going to survive.... definitely.`\
 ;　………痛いくらいの沈黙が、先生の構えるピストルの引き金に注視させる。@
-` How much longer was I going to have to stare at the pistol held up by the teacher, ready to pull the trigger?`@
+` ...I stood in utter silence, eyes fixated on the teacher's pistol for a painfully long time.`@
 br
 ;　そして、……数瞬の沈黙を、乾いた火薬音が打ち破る。@
-` The silence was broken by the sound of dry gunpowder.`@
+` Finally... the silence was broken by the sound of dry gunpowder.`@
 ;　その瞬間、数百人の生徒たちが、一斉に走り出す。\
-` At that moment, hundreds of students started running.`\
+` At that moment, hundreds of students took off all at once.`\
 E_A
 bgm1 21
 
@@ -4031,70 +4043,72 @@ mcbg 42
 ld c,IZA_D3,24
 ld c,IZA_D6,80
 
-「さァ、走れ走れ、相馬あやァ！@　今日まであれだけ走り続けたお前だ。@その成果、見せてくれやァ…！！」\
-
+;「さァ、走れ走れ、相馬あやァ！@　今日まであれだけ走り続けたお前だ。@その成果、見せてくれやァ…！！」\
+`"Get goin'! Run! Run, Aya Souma! `@`Today is the day that you've been running for. `@`Show me how far you've come...!!"`\
 bg black,22
 
 ;　イザナミの体は、見えない人間には透けるらしい。@
-` Izanami's body seemed transparent to the other humans--they didn't appear to be able to see him.`@
+` It seems that Izanami's body is intangible to those who can't see him.`@
 ;　２０を数える彼の体をすり抜け、大勢の生徒たちの波が走り出していく。\
-` I could count as many as 20 students slipping through his body as waves of hundreds of runners passed by.`\
+` While he was counting to 20, dozens of students passed right through him.`\
 ;bg black,24
 ;bg gakkou_05,22
 bg ura7,24
 
 ;　人ごみに飲み込まれたら、自分のペースで走れなくなる。@
-` I was swept up in the crowd, unable to run at my own pace.`@
+` If I was surrounded by the crowds of runners, there's no way that I could keep up my pace.`@
 br
 ;　私は先頭集団に混じって、かなり速いペースで走り出した。\
-` But since I was mixed with the leading pack of students, I felt myself running pretty fast.`\
+` So I had stood with those closest to the starting line, and took off with considerable speed.`\
 bg black,22
 bg roji_03a,22
 
 
 ;　……今日まで、持久力はかなり付けたと思う。@
-` ....I think that until today, my stamina had been fine.`@
+` ....So far, I think my stamina has been fine.`@
 ;　でも、スピードに関しては意識したことがない。@
-` But I wasn't so sure of my speed.`@
+` But I wasn't so sure about my speed.`@
 ;　だから、このスタートダッシュは、やや無理をしていた。@
-` So this starting dash was somewhat unreasonable.`@
+` So I may have forced myself to run a bit too fast in my starting dash.`@
 ;　でもいい。@とにかく、人ごみからさえ逃れられれば、あとは自分のペースで走れる。\
-` But it's okay.`@`If I can escape from the crowd, then I can run at my own pace.`\
+` But it's okay. `@`If I can escape from the mass of people at the beginning, then I can run at my own pace from then on.`\
 ;　最初くらいは一位気分を味わいたいと、@威勢良くスタートダッシュをした男子たちは、次々に体力切れで脱落していく。@
-` The men that want first place will make a spirited starting dash,`@` but then will temporarily be out of stamina.`@
+` At first, all the boys who wanted to be in first place started off running with all their strength,`@` but one by one they started to run out of stamina and fall behind.`@
 br
 ;　私は脱落しない。@……あんたたちとは鍛え方が違うんだからっ。\
-` I won't fall by the wayside.`@`...I trained differently to them.`\
+` But I won't fall behind.`@`... My discipline is different than theirs.`\
 bg black,23
 
-　やがて、運動部で鍛えられた生徒だけになって、先頭集団もまばらになると、@私は速度を落とし、いつものペースを取り戻した。\
-
+;　やがて、運動部で鍛えられた生徒だけになって、先頭集団もまばらになると、@私は速度を落とし、いつものペースを取り戻した。\
+` Finally, the pack thinned, and only those who were in sports clubs remained. `@`I dropped my speed, and brought myself back to my normal pace.`\
 ;bg black,23
 bg roji_04a,0
 ld c,IZA_D6,23
 
 ;　後を振り返ると。@…………居た。@
-` Looking back on it later,`@`....I stayed.`@
+` And when I turned my head around to look behind me.......`@` I saw him.`@
 ;　イザナミが私を追って来ているのが見えた。@
-` I saw Izanami chasing me.`@
+` I saw Izanami chasing after me.`@
 br
 ;　その速度は、決して速過ぎるものではない。@
 ` But at not too fast a rate.`@
-　私が自分のペースを守ることが出来れば、リードを守ることは充分に可能だった。\
-
+;　私が自分のペースを守ることが出来れば、リードを守ることは充分に可能だった。\
+` If I can just hold my pace, I should probably be able to keep the lead.`\
 ;　本当は、もっと早く走ることも出来るのだろう。@
-` Really, couldn't he run faster?`@
+` Honestly, that's probably not the fastest that he can run.`@
 ;　イザナミは捕まえることより、追い回すことを好む。@
 ` He preferred the chase to the catch.`@
 ;　きっと、最後の最後まで、ぎりぎりの速度で私を追い上げ続けるに違いない。\
-` He was going to play catch-up up until the last minute.`\
+` He's most likely going to gradually gain on me until the very last moment.`\
 ld c,IZA_D2,80
 
-「すっかり体力を付けたなァ。@お前が今抜いたヤツ、男子だぜェ？@　お前、その辺の部活やってる男子より体力つけてるぞォ。」@
+;「すっかり体力を付けたなァ。@お前が今抜いたヤツ、男子だぜェ？@　お前、その辺の部活やってる男子より体力つけてるぞォ。」@
+`"You've got quite a bit of strength, don't ya? `@`You see those boys you just passed? They're training all the time in their after school clubs. `@`You've got even more strength than them."`@
 br
-　……お陰様で。@皮肉を言ってやりたいが、呼吸のペースが乱れるので、口には出さなかった。@
+;　……お陰様で。@皮肉を言ってやりたいが、呼吸のペースが乱れるので、口には出さなかった。@
+` ...'Well, I have you to thank for that.' `@`I wanted to snark back at him, but that would affect my breathing rate. So I didn't open my mouth.`@
 ;　それに、どうやらイザナミは、私が口に出さなくても心の声が聞こえるらしい。\
-` And, somehow, Izanami seemed able to hear my voice from my heart, even when I didn't open my mouth.`\
+` And, somehow, It seems like even without opening my mouth, Izanami can still hear the words in my heart.`\
 ld c,IZA_D3,80
 
 ;「まだ、お前は考えてるのかァ？」@
@@ -4105,110 +4119,111 @@ br
 ld c,IZA_D5,80
 
 ;「生きることの意味だの価値だの。@そんな下らねェことをだよォ。」@
-`"The meaning of life.`@`Trivial things like that."`@
+`"The meaning of life. The value of living. `@`Stupid shit like that."`@
 br
 ;　……あんたのお陰で、それを考える暇もないのよ。\
-`....thanks to you I don't have time to think about it.`\
+`....Thanks to you I don't have time to think about that.`\
 ld c,IZA_D2,80
 
 ;「なら良かったじゃねェか。@その暇がなくてよォ。」@
-`"Well isn't that good?`@`That you don't have the time to think?"`@
+`"Well isn't that good?`@` That you ain't got time to think."`@
 br
 ;　何が良かったのよ。\
 ` What's good about that?"`\
 ld c,IZA_D3,80
 
 ;「それを毎日考えちまうから、苦しかったんだろォ？」@
-`"Isn't thinking about that every day painful?"`@
+`"Wasn't thinking about that every day painful?"`@
 br
 ;　……………………。\
 `...........`\
 ld c,IZA_D1,80
 
-「その苦しみに耐えられなくて、お前は死にたいと願ったんだろォ？@　なら、良かったじゃねェか。@俺のお陰で、お前は下らねェことを考える暇がなくなったってェわけだ。」\
-
+;「その苦しみに耐えられなくて、お前は死にたいと願ったんだろォ？@　なら、良かったじゃねェか。@俺のお陰で、お前は下らねェことを考える暇がなくなったってェわけだ。」\
+`"It was so unbearably painful that you wanted to die, right? `@`So then, it's good. `@`It's good that, because of me, you no longer have time to waste thinking about that stuff."`\
 bg black,24
 
 ;　…………そうかもね。@
-`.....maybe that's so.`@
+`.....maybe he's right.`@
 br
 ;　下手の考え、休むに似たりって諺があるもんね。@
-` There's a saying that goes 'bad thoughts are like resting'.`@
+` There's a saying that goes 'it's hard to tell a poor thinker from a sleeping one.'`@
 ;　考えても無駄なことって、世の中にはきっとある。@
-` Even if you think about it, useless things will remain in the world.`@
+` No matter how hard you think about it, pointless things will always exist in this world.`@
 ;　多分、人生の意味や価値なんて、一見高尚そうなことも、@考えるだけ無意味で無価値なことに違いない。\
-` At first glance the meaning and value of life seem like noble things to have,`@`but just thinking about it reveals how worthless and meaningless such things actually are.`\
+` At first glance, it seems like searching for the meaning or worth in life is a noble cause, `@`but if all you're doing is just thinking about it, then what you're doing is meaningless and worthless in itself.`\
 ;bg black,24
 bg air_02,24
 
 ;　そんな下らないことを考える暇があったなら。@
-` If there was time to think of such trivial things,`@
+` If you have time to think about such trivial things,`@
 br
 ;　……勉強したり、運動したり。@美味しく給食を食べてお代わりしたり。@
-`....studying, exercising,`@`Or eating delicious meals.`@
+`....then studying, or exercising, `@`or eating seconds of a delicious meal...`@
 ;　思いっきり汗を流して、シャワーを浴びてすっきりして。@
-` Sweating buckets and washing off in the shower.`@
+` Or sweating buckets and washing off in the shower...`@
 ;　夜は布団の柔らかさを全身で楽しんで、ぐっすり眠った方が、遥かにマシなのだ。\
-` And enjoying the softness of the futon in the evening.`\
-　私はかつて、@生きることの意味を考えようともしない人たちのことを、愚かだなと見下したことがある。@
+` Or enjoying the softness of a futon in the evening and falling fast asleep. Any of that would be far better.`\
+;　私はかつて、@生きることの意味を考えようともしない人たちのことを、愚かだなと見下したことがある。@
+` I used to look down on people who didn't care to know the meaning of living. `@`I used to think they were foolish.`@
 br
-　そんな哲学的なことで頭をいっぱいにする自分は、どんなに高尚かと自惚れていたかもしれない。\
-
+;　そんな哲学的なことで頭をいっぱいにする自分は、どんなに高尚かと自惚れていたかもしれない。\
+` I may have been so full of myself that I thought by being philosophical, I was somehow nobler than those around me.`\
 ;　しかし、今になると思う。@
-` However, now I think it will be.`@
+` However, I've realized my mistake.`@
 br
 ;　馬鹿馬鹿しかった。@
-` This was absurd.`@
+` I was being absurd.`@
 ;　自分の生きる意味？@　価値？@
 ` One's own meaning of life?`@` Or value?`@
 ;　そんなこと考える暇があったら、もっともっとやるべきことが、世の中にはいっぱいあった。\
-` When I have time to think of that, I realize that there's so much other work that ought to be done first`\
+` If you have the time to worry about that, then there's so many other things in the world that you should be doing instead.`\
 bg kyou_01,22
 
 ;　学校は勉強して運動して、遊んで笑うところでしょ。@
-` Like studying, exercising and laughing at school.`@
+` Like studying, exercising and laughing with friends at school.`@
 br
 ;　私は何をしてた？@　毎日ぼんやりとして、勉強もせず運動もせず、遊びもせず笑いもせず。@
-` What was I doing?`@`Every day I was daydreaming--not exercising, studying, laughing or playing.`@
-　なのに、人生の意味なんて、馬鹿馬鹿しいことで頭をいっぱいにして、@自分は高尚な人間だと自惚れていた。\
-
+` What was I doing? `@`All I ever did was daydream. I never studied, or exercised, or laughed with friends.`@
+;　なのに、人生の意味なんて、馬鹿馬鹿しいことで頭をいっぱいにして、@自分は高尚な人間だと自惚れていた。\
+` What I did do was fill my mind with foolish thoughts about the meaning in life, `@`I convince myself that I was noble for doing so.
 bg black,22
 
 ;　私、やっとわかったかもしれない。@……人生の、意味。@
-` I....I think I understand it now...`@`...that meaning of life.`@
+` I think I finally understand. `@`....the meaning of life.`@
 br
 ;　“死にたくないから生きる”で、充分なんだ。\
-` "Living because you don't want to die". That's enough of a meaning.`\
+` 'Living because you don't want to die,' That's enough of a meaning.`\
 ;　人が生きると書いて、人生。@
-` The characters for 'person' and 'living' written together make 'life'.`@
+` The two characters that make up the Japanese word for life (人生) mean 'person' and 'living.'`@ ;(?) Can this be done better in English? (?)
 br
 ;　人は、ただ生きているだけで、立派に意味と価値があるんだ。@
-` People, just by living, admirably have their own meaning of life.`@
+` People, just by living, already have a wonderful meaning and worth in life.`@
 ;　そしてさらに人生に意味や価値が求めたいなら、……さらに今を精一杯、生きればいい。\
-` And if you want more meaning in life, you just have to live it to its fullest.`\
+` And if you find yourself wanting more meaning to life... then you should try living each moment to its fullest.`\
 bg ura5,24
 
 ;　学ぶ。@遊ぶ。@笑う。@怒る。@泣く。@何でもいい。@精一杯精一杯。@
-` Learn.`@` Laugh.`@` Be angry.`@` Cry.`@` Anything is good.`@` Live life to the max.`@
+` Learn.`@` Play.`@` Laugh.`@` Be angry.`@` Cry.`@` Anything is fine.`@` Just live life with all your might.`@
 br
 ;　それを全力でやり尽くして生きることそのものが、人間の価値なのだ。\
-` The value of humans is in being able to live after exhausting all of these things.`\
+` To be able to put your heart into something, and do it until you're literally too exhausted to continue. That is the value of human life.`\
 bg black,24
 bg roji_03a,24
 
 ;「あやァ！！@　またペースが落ちてるぞォ！！@　下らねェことで頭を満たすな！！@　カラッポにしろ！@　考えるんじゃねェッ、カラッポで走れぇええ！！」@
-`"Aya!!`@`Drop your speed already!!`@`Don't fill your head with such trivial things!`@`Keep it empty!`@`Don't think, just run in emptiness!!"`@
+`"Aya!! `@`you're slowin' down again!! `@`Stop filling your head with useless thoughts!! `@`Keep it empty! `@`Don't think, just clear your mind and keep running!!"`@
 ;「…………………！！」\
 `"..........!!"`\
 ;　イザナミの声が近い。@
 ` Izanami's voice was near.`@
 ;　またぼんやりしてペースが落ちていたらしい。@
-` But it seemed that he had slowed his pace.`@
+` It seems that I had spaced out and started slowing once again.`@
 br
 ;　彼の言う通りだ。@……下らないことは頭にいらない。@全て追い出し、カラッポにしよう。@
-` But he's right.`@`...I don't need this sort of stuff filling up my head.`@`I'll cast it all away.`@
+` He's right.`@`... I don't need this sort of stuff filling up my head. `@`I'll cast it all away.`@
 ;　頭も心も、そして体もカラッポにして軽くするんだ……。\
-` I will gently clean out my head, heart and body...`\
+` I will empty my head and my heart so that my body will be lighter.`\
 bg black,24
 bg roji_04a,24
 
@@ -4217,40 +4232,42 @@ me1v 5,85
 ;　頭の中が、すぅっと澄んでいく感触……。@
 ` In my head, there was a feeling of clarity...`@
 ;　体の中が空洞になり、羽にでもなった気がする。@
-` I felt as though my body had wings.`@
-　目線は自然と遥か彼方へ。@……呼吸も穏やかなものになっていく。\
+` It felt as if my body was hollow, and was as light as a feather.`@
+;　目線は自然と遥か彼方へ。@……呼吸も穏やかなものになっていく。\
+` My gaze drift far-off place.`@`... My breathing became calm.`\
 
-
-　足はどんどん軽くなる。@行ける、行ける、……まだまだ行ける……。@
-　陸上部の男子が抜かれ、驚きの目を向ける。@
+;　足はどんどん軽くなる。@行ける、行ける、……まだまだ行ける……。@
+` My legs rapidly became lighter. `@`I can make it, I can make it.... I can still make it...`@
+;　陸上部の男子が抜かれ、驚きの目を向ける。@
+` I overtake the boys from track and field club as their eyes turn on me with amazement.`@
 br
-　でもそんなの興味ない。@全てをカラッポにして、………風になるんだ。\
-
+;　でもそんなの興味ない。@全てをカラッポにして、………風になるんだ。\
+` But none of that matters to me. `@`I am completely empty... I am the wind.`\
 bg black,24
 bg gakkou_01a,24
 
 ;　角を曲がると、再び学校が見えてくる。@
-` Once I turned the corner, the school would once again come into view.`@
+` Once I turn the corner, the school will once again come into view.`@
 br
 ;　あの校門がゴールだ。@あと、ほんの数百メートル。\
-` That gate was the goal.`@`Just a hundred meters more.`\
+` The school gate is the finish. `@`Just a few hundred meters more.`\
 bg black,1
 
 ;「あやァ！！@　ラストスパートォ！！@　最後の気合、俺に見せてみやがやれェ！！」@
-`"Aya!!`@`This is the last stretch!!`@`Show me your fighting spirit until the end!!"`@
+`"Aya!! `@`This is the last stretch!! `@`Show me your fighting spirit one last time!!"`@
 ;「………………ッッ！！！」\
 `".........!!!"`\
 ;　今日は残り時間も、イザナミの距離も、上り階段も下り階段も何も気にしなくていい。@
-` Today I don't have to worry about the time remaining, Izanami's distance, or the staircases I have the climb up and down.`@
+` Today I don't have to worry about the time remaining, Izanami's distance, or climbing up and down staircases.`@
 br
 ;　ゴールすれば全て終わりだ。@何も何も、残さなくていい。\
-` It's all over once I reach the goal.`@`It's alright if nothing is left back.`\
+` It's all over the moment I reach the finish line. `@`I don't have to hold anything back.`\
 ;　走り抜けよう。@体の中の全てを吐き出そう。@
-` Let's keep running.`@`I'll spend everything my body has.`@
+` I run. `@`I run with every last ounce of strength my body has to offer.`@
 ;　後先なんか考えなくていい。@下らない自問自答に、二度と心を満たさなくていい。@
-` It was fine to ignore the consequences.`@
+` I won't think about what comes next. `@`Never again will I fill my mind with trivial introspective questions.`@
 ;　全部全部、カラッポの境地。\
-` Everything was on the empty horizon.`\
+` Every bit of my mind is empty.`\
 
 ;bg white,2
 bg gakkou_01a,2
@@ -4260,7 +4277,7 @@ flushout 5000
 bg black,42
 
 ;　……私は、………風になった………。\
-` I became the wind.`\
+` ...I became... the wind......`\
 fede 1,4000
 E_B
 
@@ -4272,28 +4289,28 @@ bg air_02,2
 
 
 ;　最後の１００メートルは頭が真っ白で、何も記憶にない。@
-` For the last hundred meters, my head was completely blank--I didn't remember anything.`@
+` For the last hundred meters, my head went completely blank -- I don't remember a thing.`@
 br
 ;　気付いた時。@私は校庭にぶっ倒れ、大の字になって、青空を見上げていた。\
-` When I came to,`@`I was sprawled out on the ground in the schoolyard, looking up at the blue sky`\
+` When I came to, `@`I was sprawled out on the ground of the schoolyard, looking up at the blue sky.`\
 ;　全身は汗でびっしょり。@胸は激しく上下し、肺はまだまだ爆発しそうに熱かった。@
-` My whole body was drenched in sweat.`@`My chest was moving up and down with labored breath as my lungs felt on the verge of explosion.`@
+` My whole body was drenched in sweat. `@`My chest was moving up and down with labored breath. My lungs burned as if on the verge of explosion.`@
 br
 ;　でも、………目の前いっぱいに広がる青空のように、……身も心も、全てが晴れやかで、@……広大な広大な、清々しいカラッポだった。\
-` But....like the expanding sky in front my eyes,`@` my body, soul, everything was radiant, and refreshingly empty.`\
+` But.... like the great blue sky before my eyes... `@`my body, my soul, everything was magnificently and refreshingly empty.`\
 fede 0,1000
 E_A
 
 ;　そんな私の目の前に、ずいっと大きな手が突き出される。@
-` It was like a big hand was reaching out to me.`@
+` That scene was quickly obscured by a large hand reaching down to me.`@
 ;　咄嗟にそれを、握ってしまう。@
-` I grasp it for a moment.`@
+` Without thinking, I grab it.`@
 bgm1 4
 ;　大きな分厚い手だった。@
-` It's a big, thick hand.`@
+` It was a large, bulky hand.`@
 br
 ;　そして、それが死神の手であったことに気付く。@
-` And then I realize it's attached to the Shinigami.`@
+` And then I realize that the hand I'm grabbing belongs to the shinigami.`@
 br
 ;　イザナミはぐいっと引っ張り、あやの上体を起こしてくれた。\
 ` Izanami pulled, and raised my--Aya's--upper body.`\
@@ -4307,42 +4324,42 @@ ld r,IZA_D4,22
 ld l,ay2_D11,26
 
 ;「全部カラッポで、………自分が青空になったみたいな気持ち、……です。」\
-`"I feel empty.....like a blue sky..."`\
+`"I feel empty..... like a blue sky..."`\
 ld r,IZA_D1,80
 
 ;「カラッポは最高だろ。@走って走って走りまくりゃ。@誰だってカラッポになれるんだ。」@
-`"Emptiness is probably best.`@`You ran and ran and ran.`@`Anyone can become empty if they do that."`@
+`"Emptiness is the best, isn't it? `@`You ran and ran and ran. `@`Anyone can become empty if they do that."`@
 ld l,ay2_D10,80
 
 ;「……はい。@……最高です。」@
-`"Yeah, it's probably for the best."`@
+`"...Yes.... `@`It is the best."`@
 br
 ;　不思議だった。@
 ` It was strange.`@
 ;　あれだけ怯えた死神なのに、……まるで先生であるかのように、敬語で答えてしまう。\
-` Even though he was just a frightened Shinigami...he spoke politely, just like a teacher.`\
+` Even though I was so afraid of this shinigami... I answered him loudly and clearly, as if replying to a sensei.`\
 
 ld r,IZA_D3,80
 
 ;「な？@　人が生きる意味なんて、理由なんて。@そんな馬鹿馬鹿しいモン、どうでもいいだろォ？」@
-`"Right?`@`The meaning and reason for people to live.`@`You're fine with or without them, right?"`@
+`"Right? `@`The reason that people live. `@`You're fine without knowing that, aren't ya?"`@
 ld l,ay2_D9,80
 
 ;「はい。@……そんなもの、……すごくどうでもよくて、……馬鹿馬鹿しいです。」\
-`"Yes.`@`...such things are ridiculous at best."`\
+`"Yes.`@`... such things... are ridiculous at best."`\
 cl r,0
 mld c,IZA_D1,24
 
 ;「人間はなァ。@がむしゃらに走って、頭をカラッポにするくらいでちょうどいいんだよ。@お前の人生はこれからも長い。@また、おかしなことで頭をいっぱいにしちまうこともあるだろうよ。@………その時はどうすればいいか、わかってンな。」\
-`"Humans.`@`When running recklessly, it's alright to empty your head once in a while.`@`Your life is going to be long.`@`But along the way, you'll pick up so weird, useless things in that head of yours.`@`When that happens, you know what to do, right?"`\
+`"For humans, `@`it's really easy to empty their minds while running. `@`You're going to be living for a long time. `@`So, along the way, If you ever start gathering dumb thoughts in your head again... `@`I think you know what to do."`\
 mcl c,0
 bg black,22
 bg air_02,22
 
 ;「はい。@……走って走って、……また頭をカラッポにします。」@
-`"Yep!`@` I'll run and run...and empty my head of all those things!"`@
+`"Yes. `@`I'll run and run... and empty my head of all those things!"`@
 ;「そうだァ！@　いいだろ、走るってのはァ！！」@
-`"Exactly!`@`Running is good!!"`@
+`"Exactly! `@`Ain't running great?!"`@
 ;「………はいっ。」\
 `"...Yes."`\
 mov %IZA_Isyou,2
@@ -4352,39 +4369,40 @@ ld l,ay2_D11,0
 ld r,IZA_D2,22
 ld r,IZA_D6,80
 
-「それにしてもお前、なかなかいい脚をしてるじゃねェか！@　陸上部に入れッ。@俺がじきじきに、バンバンしごいてやらァ！！@　わっはははははははは！！」\
-
+;「それにしてもお前、なかなかいい脚をしてるじゃねェか！@　陸上部に入れッ。@俺がじきじきに、バンバンしごいてやらァ！！@　わっはははははははは！！」\
+`"By the way, you've got some good legs there! `@`Join the track and field team. `@`I'll be sure to personally oversee your training!! `@`Wahahahahaha!!"`\
 
 ld l,ay2_D10,80
 
 ;「……私、走るの。@………好きになりました。@……先生。」\
-`"...I`@`...grew to love running.`@`Sensei."`\
+`"...I really`@`.... grew to love running.`@`... Sensei."`\
 ;　イザナミの姿はいつの間にか、死神のマント姿ではなくなっていた。@
-` Without my noticing, Izanami had stopped wearing his Shinigami cloak.`@
+` Without my noticing, at some point Izanami's shinigami cloak had disappeared.`@
 ;　手に持っていたはずの大鎌は、竹刀に代わり。@……漆黒のマントは、ジャージに代わっていた……。\
-` Instead of a scythe, he carried a stick of bamboo.`@`...and instead of a cloak, he wore a black jersey...`\
+` Instead of a scythe, he carried a bamboo kendo sword.`@`... and in place of his jet black cloak, he was wearing a track suit...`\
 bg black,22
 bg air_02,22
 
-　担任や他の先生たちも彼女のもとへ集まり、相馬あやの意外な大健闘を絶賛してくれた。@
+;　担任や他の先生たちも彼女のもとへ集まり、相馬あやの意外な大健闘を絶賛してくれた。@
+` A group of teachers gathered around Aya, and the other runners that finished behind her were cheering for her.`@
 ;　彼女が休み時間の度に校庭を走っていたのは、すでに有名な話。@
-` The story of the girl that ran every break time was already famous.`@
+` The story of the girl who spent her free time running had already became famous around the school.`@
 ;　その成果を存分に発揮した成績は、運動部に所属する生徒たちに並ぶものであった。@
-` The results were seen in how many other students started to learn to exercise themselves.`@
+` And because of that, groups of students that participated in sports clubs had lined up around her.`@
 br
 ;　こんなにも寄って集って褒められた経験などない。\
-` No such experience gathered this much praise.`\
+` Never before had she experience such praise.`\
 ;「……ありがとう。先生。」@
-`"Thank you, Sensei"`@
+`"Thank you, sensei"`@
 ;「生きろよォ、あやァ…！！！@　立ち止まったら、そのケツ、俺の竹刀でぶっ叩いてやるからなァ！」@
-`"Live, Aya!!`@`If you stop, I'll whack your ass with my bamboo!"`@
+`"Live, Aya!! `@`If you stop, I'll whack your ass with my bamboo!"`@
 ;「はいっ。」\
 `"Yes."`\
 ;　気持ちのいい風が、彼女の火照りを冷ます。@
-` A pleasant wind cooled the girl's burning sensation.`@
+` A pleasant wind cooled the girl's burning lungs.`@
 br
 ;　あやは夢を見るような心地で、いつまでも青空を見上げているのだった……。\
-` Dream-like, Aya looked up at the blue sky forever...`\ 
+` Feeling as if she was in a dream, she stared up at the blue sky for a long, long time.`\ 
 
 mov %SIN_Isyou,2
 bg black,42
@@ -4399,39 +4417,39 @@ ld r,SIN_D1,22
 bgm1 1
 
 ;「立派な熱血教師ぶりですねぇ。」@
-`"What a good first-time teacher"`@
+`"You're quite the excellent Sensei."`@
 ;＜教頭（紅茶紳士）
 
 ld l,IZA_D1,22
 ld l,IZA_D2,80
 
 ;「何だ、教頭かよ。@人が悪ィな。@ずっと見てやがったなァ？」@
-`"What is it now, Vice Principal?`@`People are reprehensible, aren't they?`@`Have you been watching all this time?"`@
+`"Oh, it's you, Vice principal. `@`Ain't you got a sense of privacy? `@`Have you been watching all this time?"`@
 ld r,SIN_D3,80
 
 ;「くっくっくっく。@気にしないことです。@子供たちを見守るのが、私たちの仕事ですから。」\
-`"kukukuku.`@`Don't worry.`@`Watching over all you children is my job."`\
+`"kukukuku. `@`Don't worry. `@`Watching over the children is my job."`\
 ld l,IZA_D3,80
 
-「釣り逃がしちまったが、あやはもう、お前の獲物にもならねェぞ。@あいつはもう、妄想に逃げるようなクソ落ち目じゃねェ。」\
-
+;「釣り逃がしちまったが、あやはもう、お前の獲物にもならねェぞ。@あいつはもう、妄想に逃げるようなクソ落ち目じゃねェ。」\
+`"She may have gotten away from me, but don't go makin' Aya your prey. `@`She's no longer a delusional brat that runs away from reality."`\
 ld r,SIN_D2,80
 
 ;「そのようですねぇ。@……先に目を付けたのが私だったら、@彼女を素敵な夢の世界に招待できたのですが。」\
-`"That's right.`@`...If it had been me to appear before her earlier,`@`I would have taken her away to the world of her dreams."`\
+`"You're right.`@`... If only I had found her first. `@`I could have offered to take her away to the world she desired."`\
 cl l,0
 mld c,IZA_D5,23
 
-「いいか、紅茶野郎ォ。@この学校のナンバー２は俺だァ！@　狩りの邪魔はさせねェし、@仮に釣り逃しても、お前の獲物にも断じてさせねェ…！@　校長の腰巾着風情が、影の第２位なんて百年早ェんだよ！」\
-
+;「いいか、紅茶野郎ォ。@この学校のナンバー２は俺だァ！@　狩りの邪魔はさせねェし、@仮に釣り逃しても、お前の獲物にも断じてさせねェ…！@　校長の腰巾着風情が、影の第２位なんて百年早ェんだよ！」\
+`"Listen up, Black Tea Bastard. `@`I'm the one who's ranked number 2 in this school. `@`I won't allow anyone to get in the way of my hunts. `@`She may not be my prey anymore, buy I sure as hell won't let you make her yours...! `@`You may be the Headmaster's lackey, but listen up, the 2nd ranked in the shadows ain't got nothing on me!"`\
 ld r,SIN_D1,80
 
 ;「くっくっく。@私のことなど、気にしないことです。@さて。@……狙っていた相馬あやも、すっかり美味ではなくなってしまいましたからねぇ。@また、新しい獲物を探しましょう。@そして、早く夢の世界へ連れ去って、あなたの手が届かないようにしなくては。」\
-`"Kukuku.`@`Don't worry about me.`@`Well then`@`....that Aya Souma you're aiming at....she doesn't taste very good.`@`I'd recommend looking for another prey.`@`Now, quickly, reach out your hands and carry me to the world of dreams."`\
+`"Kukuku. `@`Don't worry about me. `@`You see`@`.... that Aya Souma girl you were hunting.... She no longer holds any interest to me. `@`I am going to find a new target,`@`and quickly whisk them away to my dream world so that you can't get them."`\
 mld c,IZA_D2,80
 
-「けっ。@何が夢の世界だ。@俺がケツを引っ叩いて、現実に叩き戻してやるぜェ。」\
-
+;「けっ。@何が夢の世界だ。@俺がケツを引っ叩いて、現実に叩き戻してやるぜェ。」\
+`"Geh. `@`Screw your dream world. `@`I'll just slap that kid up and bring 'em back to reality."`\
 mcl c,0
 bg black,23
 bg koutei_04,0
@@ -4439,7 +4457,7 @@ ld l,HOK_D1,23
 ld l,HOK_D3,80
 
 ;「教頭先生～。@表彰式が始まりますよ。@先生方が呼んでまーす。」\
-`"Vice Principal~!`@`The award ceremony has started.`@`They're calling for you."`\
+`"Vice Principal~! `@`The award ceremony is starting. `@`They're calling for you."`\
 ;＜保健の先生
 
 bg black,24
@@ -4450,22 +4468,22 @@ ld l,IZA_D2,24
 ld r,SIN_D2,80
 
 ;「……では失礼。@あなたとの決着はいずれ。」\
-`"Well then excuse me.`@`We'll settle this later."`\
+`"....Well then, I'll be taking my leave. `@`We'll settle this later."`\
 cl r,23
 
 ld l,IZA_D5,80
 
 ;「知るか。@紅茶でも啜ってやがれ。」\
-`"I know.`@`I'm even sipping tea"`\
+`"Piss off. `@`Go drink your damn tea."`\
 bg black,22
 bg koutei_04,0
 ld l,SIN_D2,0
 ld r,AY2_D11,2
 
 ;　上位１００人には、入賞のメダルが与えられる。@
-` The winner's medal was given to the one who beat the 100 other competitors.`@
+` Medals were being given to the first 100 kids who had placed in the marathon.`@
 ;　プラスチック製のチープなそれも、@あやにとっては、４９日間を生き抜いて生まれ変わったことを讃える、立派なメダルになるだろう。\
-` It was cheap plastic,`@`but Aya wore it as a reborn, fine medal as praise for her 49 day survival.`\
+` They were plastic, and cheap plastic at that, `@`but to Aya, it was a wonderful symbol of her 49 day survival and rebirth as a person.`\
 cl l,0
 ld c,SIN_D3,23
 wait 1000
@@ -4473,8 +4491,8 @@ ld r,AY2_D10,80
 
 se3v 54,50
 
-　このような賞をもらうことが、生まれて初めての彼女は、@教頭先生からメダルを手渡され、顔を紅潮させて微笑んでいた。\
-
+;　このような賞をもらうことが、生まれて初めての彼女は、@教頭先生からメダルを手渡され、顔を紅潮させて微笑んでいた。\
+` This was the first time in her life that she had ever received such an award. `@`She held out her hands and accepted the medal from the principal, and a bright smile spread across her face.`\
 bg black,22
 bg koutei_05,0
 ld c,IZA_D2,22
@@ -4488,7 +4506,7 @@ bg white,29
 bg air_02,29
 
 ;「けっ。@すっかり不味そうな魂になっちまいやがったァ。@……生きろよ、あやァ！！」\
-`"Tch.`@`You really have a distasteful soul.`@`Live, Aya!!"`\
+`"Tch. `@`Ya know, your soul really did get nasty as hell.`@`...Live on, Aya!!"`\
 
 
 bg black,42
