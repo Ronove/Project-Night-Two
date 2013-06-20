@@ -320,31 +320,37 @@ ld c,MIC_D5,2
 
 ;　そうして、数日ぶりに姿を見せたみちるは、@………まるで別人のように、暗く、塞ぎ込み、変わり果てていた。@
 ` Then, when she saw her body for the first time in days,`@`Michiru looked like a different, silent, changed person.`@
-　迂闊に話し掛けるべきでない気配をまとった彼女を、@クラス中の誰もが、腫れ物を扱うかのように接した。\
-
+;　迂闊に話し掛けるべきでない気配をまとった彼女を、@クラス中の誰もが、腫れ物を扱うかのように接した。\
+` Everyone in the class treated this silent girl as if she had boils or some sort of disease.`\
 cl c,22
 
-　……しかし、考えてみれば、クラスのそういう扱いは、以前のそれと大きく差はない。@
-　その内にクラスメートは親友を失った悲劇の少女のことなど忘れ、@彼女ひとりを残して、平凡な日常に帰っていった……。\
-
+;　……しかし、考えてみれば、クラスのそういう扱いは、以前のそれと大きく差はない。@
+` ...However, it wasn't actually worse treatment than what she had received from the class before.`@
+;　その内にクラスメートは親友を失った悲劇の少女のことなど忘れ、@彼女ひとりを残して、平凡な日常に帰っていった……。\
+` Her classmates quickly forgot about the tragedy of her loss,`@`and returned to their mundane lives...`\
 bg black,2
 bg kyou_03,22
 
-「……………………………………。」@
+;「……………………………………。」@
+`"..................."`@
 br
-　しかし、……みちるだけは、帰れない。@
-　親友の岡田智子との楽しい日々に帰りたいのに、帰れない。\
+;　しかし、……みちるだけは、帰れない。@
+` But Michiru couldn't go back.`@
+;　親友の岡田智子との楽しい日々に帰りたいのに、帰れない。\
+` Even though she wanted to return to those happy days with Tomoko, she couldn't.`\
 
 
-
-　授業中に、……あのノートを取り出しては、……思い出の日々に浸る。@
+;　授業中に、……あのノートを取り出しては、……思い出の日々に浸る。@ 
+` In class, she would take out the notebook and revel in the memories.`@
 br
-　零れる涙。@
-　つい昨日のことのように、智子の笑顔が浮かぶ。\
+;　零れる涙。@
+` And she would cry.`@
+;　つい昨日のことのように、智子の笑顔が浮かぶ。\
+` Just yesterday, when she thought of Tomoko's smile.`\
 
 
-
-　だから、……悲しい……。@
+;　だから、……悲しい……。@
+` That's why she was sad.`@
 br
 　彼女を置いてきぼりにしたまま、周囲の時間は、寂しく淡々と過ぎ去っていった……。\
 
@@ -355,80 +361,90 @@ bg gakkou_02,22
 
 me1v 31,50
 
-　やがて、みちるはそれまで以上に喧騒を嫌うようになった。@
+;　やがて、みちるはそれまで以上に喧騒を嫌うようになった。@
+` Eventually, it reached the point where Michiru detested the hustle and bustle.`@
 br
-　うるさいのだ。@邪魔なのだ。\
-
+;　うるさいのだ。@邪魔なのだ。\
+` It was noisy.`@`It was interfering.`\
 bg black,22
 bg gakkou_03,22
 
 
-　ノートを開き、……智子の温かな面影を思い出すのに、喧騒が邪魔なのだ。@
+;　ノートを開き、……智子の温かな面影を思い出すのに、喧騒が邪魔なのだ。@
+` Even though she was trying to remember Tomoko, the hustle and bustle kept getting in the way.`@
 br
-　そうすることで、彼女の心の傷が、癒えるわけではない。@
-　ページを開けども開けども、……涙が零れるだけだ。\
+;　そうすることで、彼女の心の傷が、癒えるわけではない。@
+` And so, the wounds in her heart did not heal.`@
+;　ページを開けども開けども、……涙が零れるだけだ。\
+` Even though she turned page after page, she still cried.`\
 
 
-
-　でも、そうせずにはいられない……。@
-　だから今日の昼休みもこうして、喧騒を嫌い、校舎裏でノートを開き、涙を零している……。\
-
+;　でも、そうせずにはいられない……。@
+` But she couldn't help but keep looking at those pages...`@
+;　だから今日の昼休みもこうして、喧騒を嫌い、校舎裏でノートを開き、涙を零している……。\
+` So today at lunch, she was behind the school, reading the notebook, and crying...`\
 fede 10,1000
 E_MA
 
 ld l,SAK_K1,2
 
-「…………うりゅー………。」@
+;「…………うりゅー………。」@
+`".................Uryuuuu!"`@
 ;＜さくのしん
 
 ld r,MIC_N1,22
 
-「……………………。@……さくのしんさま。」@
+;「……………………。@……さくのしんさま。」@
+`"...........`@`...Sakunoshin-sama."`@
 br
-　臆病なさくのしんが、同じ校舎裏とはいえ、祠から出てきて話し掛けて来るとは珍しいことだった。\
-
+;　臆病なさくのしんが、同じ校舎裏とはいえ、祠から出てきて話し掛けて来るとは珍しいことだった。\
+` It was rare for Sakunoshin, who was timid, to leave the shrine to come talk to anyone, particularly behind the school.`\
 ld l,SAK_N1,80
 
-　さくのしんは心配そうに、しゃがみ込んだみちるを覗き込んでいる。@
+;　さくのしんは心配そうに、しゃがみ込んだみちるを覗き込んでいる。@
+` Sakunoshin was worriedly looking down at the squatting Michiru.`@
 br
-　……事情を全て知っているのだろう。\
-
+;　……事情を全て知っているのだろう。\
+` .....he probably knew everything already.`\
 ld l,SAK_K3,80
 
-「みちる……。@……元気を出してね……。」@
-
+;「みちる……。@……元気を出してね……。」@
+`"Michiru...`@`...please take care..."`@
 cl r,25
 
-「………………………………。」@
+;「………………………………。」@
+`"................."`@
 br
-　みちるは無言で俯いてしまう。\
+;　みちるは無言で俯いてしまう。\
+` Michiru kept her head down, silent.`\
 
 
-
-　元気を出さなければいけないのは、……親にも先生にもさんざん言われて、飽き飽きしている。@
+;　元気を出さなければいけないのは、……親にも先生にもさんざん言われて、飽き飽きしている。@
+` Her parents and teachers were tired of her being sick.`@
 br
-　……なれるものなら、なりたいのだ。@
-　でも、もうどこにも、智子はいない……。\
-
+;　……なれるものなら、なりたいのだ。@
+` ...If she could fix that herself, she would have.`@
+;　でも、もうどこにも、智子はいない……。\
+` But Tomoko wasn't here. That couldn't be fixed...`\
 cl l,0
 ld c,SAK_N1,23
 
-「う、うりゅー……。@泣かないで、みちる。@……みちるが泣いていると、僕まで悲しくなってくるよ……。」\
-
+;「う、うりゅー……。@泣かないで、みちる。@……みちるが泣いていると、僕まで悲しくなってくるよ……。」\
+`"Uryuuuu...`@`Don't cry, Michiru.`@`...If you cry I'll be sad!"`\
 ld r,MIC_N1,26
 ld r,MIC_N2n,80
 
 
-「……さくのしんさま。@………智子は何も悪いことはしていないんだよ…？@　なのに、……ちょっと転んで頭を打っただけで死んじゃったなんて…。@………信じられない……、信じられない………。」\
-
+;「……さくのしんさま。@………智子は何も悪いことはしていないんだよ…？@　なのに、……ちょっと転んで頭を打っただけで死んじゃったなんて…。@………信じられない……、信じられない………。」\
+`"...Sakunoshin-sama.`@`...Did you know that Tomoko didn't do anything bad?`@`...but even so, she fell and died.`@`...I can't believe it...can't believe it at all..."`\
 ld c,SAK_K1,80
 
-「でも、……みちるがいつまでも泣いていたら、智子も悲しむよ……。」@
-
+;「でも、……みちるがいつまでも泣いていたら、智子も悲しむよ……。」@
+`"But, whenever Michiru is crying, you'll be mourning for Tomoko...`@
 ld r,MIC_N3n,80
 
-「なら、その悲しむ智子に会わせてよっ。@智子に会わせてくれたら、泣き止むから！！@　智子に会いたい、智子に会いたい……！！@　ぅううぅううううう！！」\
-
+;「なら、その悲しむ智子に会わせてよっ。@智子に会わせてくれたら、泣き止むから！！@　智子に会いたい、智子に会いたい……！！@　ぅううぅううううう！！」\
+`"Well then...I want to meet the Tomoko I mourn for.`@`If I meet Tomoko, I'll stop crying!!`@`I wan't to see Tomoko!`@` UuuuuuUUUuuUuu!!"`\
 ld r,MIC_N2n,80
 
 wait 1000
@@ -436,13 +452,13 @@ wait 1000
 cl r,5
 ld c,SAK_N1,80
 
-「みちる……、みちる………。」\
-
+;「みちる……、みちる………。」\
+`"Michiru....Michiru..."`\
 bg black,22
 bg Air_02,22
 
-「ううぅううぅ！！@　智子…、智子ぉ…！！@　ううぅうぅ、寂しいよ、悲しいよ、つまらないよ……。」\
-
+;「ううぅううぅ！！@　智子…、智子ぉ…！！@　ううぅうぅ、寂しいよ、悲しいよ、つまらないよ……。」\
+`"Uuuuooouhhh!!`@`Tomoko.....Tomoko!!`@` I'm lonely....I'm sad....I'm....bored...."`\
 bg black,22
 
 mono 1
@@ -452,10 +468,11 @@ ld l,MIC_D4,0
 ld r,TOM_D1,22
 
 
-　智子と一緒の、時間を忘れての楽しいお喋り。@
+;　智子と一緒の、時間を忘れての楽しいお喋り。@
+` The endless times she'd happily chat with Tomoko`@
 br
-　変わり者だと自覚する自分を互いに受け入れ合った、二度とない親友。\
-
+;　変わり者だと自覚する自分を互いに受け入れ合った、二度とない親友。\
+` Embracing their weirdness only served to underscore how there'd never be another friend as good.`\
 se1 1010
 mbg white,23
 cl l,0
@@ -469,7 +486,8 @@ ld l,MIC_D4,0
 ld c,TOM_D1,0
 mcbg 23
 
-　二人での楽しいお喋りと落書き。@
+;　二人での楽しいお喋りと落書き。@
+` Their talks and jottings....`@
 br
 　こうしてノートを開くと、……数々の落書きひとつひとつから、智子との楽しい日々が鮮明に蘇る……。\
 
