@@ -489,15 +489,17 @@ mcbg 23
 ;　二人での楽しいお喋りと落書き。@
 ` Their talks and jottings....`@
 br
-　こうしてノートを開くと、……数々の落書きひとつひとつから、智子との楽しい日々が鮮明に蘇る……。\
-
+;　こうしてノートを開くと、……数々の落書きひとつひとつから、智子との楽しい日々が鮮明に蘇る……。\
+` So when she openend the book, and looked at these jottings one by one, the day-to-day happiness she shared with Tomoko was revived..`\
 cl a,22
 
-　蘇るからこそ、苦しい……。@
-　思い出の日々が楽しければ楽しいほどに、今の自分が、……ひとりぼっちの自分が、悲しくて悲しくて……。@
+;　蘇るからこそ、苦しい……。@
+` It was revived, but was painful too...`@`
+;　思い出の日々が楽しければ楽しいほどに、今の自分が、……ひとりぼっちの自分が、悲しくて悲しくて……。@
+` For while the memories were happy--really happy--the Michiru left alone, now, was suffering...`@
 br
-　ぽたりと涙がノートに落ちる。\
-
+;　ぽたりと涙がノートに落ちる。\
+` Tears blurred the pages of the notebook.`\
 bg black,22
 
 mono 0
@@ -506,58 +508,62 @@ bg gakkou_03,0
 ld c,SAK_N1,22
 ;ld c,SAK_D1,80
 
-　みちるは慌ててそれを拭う……。@
+;　みちるは慌ててそれを拭う……。@
+` Michiru hurriedly wiped them away...`@
 br
-　さくのしんにはもう、掛ける言葉は思い付かなかった。\
-
+;　さくのしんにはもう、掛ける言葉は思い付かなかった。\
+` She couldn't think of what Sakunoshin was saying to her anymore.`\ 
 ld r,MIC_D6,26
 quakex 1,100
 
-　その時、みちるは唐突に立ち上がり、さくのしんの両肩を掴む。\
-
+;　その時、みちるは唐突に立ち上がり、さくのしんの両肩を掴む。\
+` Then, she stood, abruptly, and grabbed Sakunoshin's shoulders.`\
 ld c,SAK_K3,80
 
-「うりゅっ？！」@
-
+;「うりゅっ？！」@
+`"Uryu--?!"`@
 ld r,MIC_N3,80
 
-「さくのしんさまっ。@死んだ人を蘇らせることって、出来ないの？！」\
-
+;「さくのしんさまっ。@死んだ人を蘇らせることって、出来ないの？！」\
+`"Sakunoshin-sama,`@`can you revived a dead person?!"`\
 ld c,SAK_K1,80
 
-「え、……えぇ…？！」@
+;「え、……えぇ…？！」@
+`"Wha----?!"`@
 br
-　さくのしんは唐突な話に、目を丸くして驚く。\
-
+;　さくのしんは唐突な話に、目を丸くして驚く。\
+` Sakunoshin's eyes widened in surprise.`\
 bg black,22
 bg hokora_01,22
 
-　仮にもさくのしんは、動物霊の長。@
+;　仮にもさくのしんは、動物霊の長。@
+` Even his hair, as a temporary animal spirit.`@
 br
-　臆病ではあっても、その妖力は大きいはずだ。\
+;　臆病ではあっても、その妖力は大きいはずだ。\
+` Even if he was shy, his power was probably great.`\
 
-
-　彼にならきっとそれが出来るはず……、とみちるは期待したのだ。@
+;　彼にならきっとそれが出来るはず……、とみちるは期待したのだ。@
+` Michiru expected that he surely should be able to do it.`@
 br
-　しかし、さくのしんが目を丸くした、ということは、……少なくとも、それは彼には不可能なことなのだ。\
-
+;　しかし、さくのしんが目を丸くした、ということは、……少なくとも、それは彼には不可能なことなのだ。\
+` But for him, it was impossible.`\
 bg black,22
 bg gakkou_03,0
 ld r,SAK_K3,22
 ld r,SAK_K1,80
 
-「む、……無理だよ……。@死んだ人を蘇らせるなんて…、とても、とても……。@でも、……その人の魂とお話するくらいだったら、……出来るかも……。」\
-
+;「む、……無理だよ……。@死んだ人を蘇らせるなんて…、とても、とても……。@でも、……その人の魂とお話するくらいだったら、……出来るかも……。」\
+`"It's u-useless...`@`Reviving dead people is impossible...`@`But, if you want to talk with them, maybe I could do that...."`\
 ld l,MIC_N3,23
 ld l,MIC_N3n,80
 quakey 1,100
 
-「お話だけじゃ駄目…！@　蘇らなきゃ意味がないっ。」\
-
+;「お話だけじゃ駄目…！@　蘇らなきゃ意味がないっ。」\
+`"Speaking isn't good enough!`@`She needs to be revived."`\
 ld r,SAK_N1,80
 
-「………………………。」\
-
+;「………………………。」\
+`"................"`\
 me1v 16,50
 
 fede 1,2000
@@ -565,12 +571,13 @@ E_B
 
 ld l,MIC_N1,80
 
-　オカルトに精通しているみちるなら、知らないわけがない。@
-　死者を蘇らせることは、あまりに膨大な妖力を必要とする、大秘術なのだ。\
+;　オカルトに精通しているみちるなら、知らないわけがない。@
+` For Michiru, so familiar with the occult, there was no way she didn't know.`@
+;　死者を蘇らせることは、あまりに膨大な妖力を必要とする、大秘術なのだ。\
+` Revival as an arcane art required enormous amounts of energy.`\
 
-
-　仮に、その秘術を行なうにしても、それは死後の早い内でなければならない。\
-
+;　仮に、その秘術を行なうにしても、それは死後の早い内でなければならない。\
+` And even then, the person had to have just died.`\
 ld l,MIC_D6,80
 
 E_A
@@ -581,34 +588,41 @@ bg black,22
 
 bgm1 26
 
-　……あぁ、自分は何をぼんやりとしていたのだろう。@
-　私はオカルトの専門家じゃないか！@
+;　……あぁ、自分は何をぼんやりとしていたのだろう。@
+` ...ah, what am I dreaming about.`@
+;　私はオカルトの専門家じゃないか！@
+` Aren't I an Occult specialist?!`@
 br
-　智子ちゃんを蘇らせる秘術を探すんだ。\
-
+;　智子ちゃんを蘇らせる秘術を探すんだ。\
+` I'll find a way to revive her myself.`\
 mono 2
 bg Different_spiral_1a,22
 
 me1v 5,70
 
-　死者の蘇生。@
+;　死者の蘇生。@
+` Resurrection of the deceased.`@
 br
-　それは人類が太古の昔から求め、憧れ続けてきた秘術。@
-　並の人間には、もちろん不可能な話だ。\
-
+;　それは人類が太古の昔から求め、憧れ続けてきた秘術。@
+` That was an art that humanity had sought after for time immemorial.`@
+;　並の人間には、もちろん不可能な話だ。\
+` For mankind, it was an impossible quest.`\
 ;bg Different_spiral_1b,22
 
-　しかし、私は違う。@
-　ただオカルトに精通しているだけじゃない。@
+;　しかし、私は違う。@
+` But not for me.`@
+;　ただオカルトに精通しているだけじゃない。@
+` I'm not just familiar with the Occult.`@
 br
-　霊の世界を見て、触れて、話すことが出来る、特別な体質。\
-
+;　霊の世界を見て、触れて、話すことが出来る、特別な体質。\
+` I can see, feel, touch and talk to the world of spirits.`\
 bg black,22
 
-　私になら出来るはずだ。@……絶対っ。@
+;　私になら出来るはずだ。@……絶対っ。@
+` I can do it.`@`Definitely.`@`
 br
-　私には智子ちゃんを蘇らせることが出来る…！\
-
+;　私には智子ちゃんを蘇らせることが出来る…！\
+` I can revive Tomoko.`\
 mono 0
 bg gakkou_03,22
 ;ld r,SAK_D1,22
