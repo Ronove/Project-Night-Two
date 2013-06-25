@@ -634,26 +634,29 @@ ld l,MIC_D3,26
 
 ld r,SAK_K1,24
 
-「よ、よしなよ、みちるっ。@死者蘇生なんて、大それた秘術だよ…！@　そんな大秘術を執り行おうとしたら、とても大きなものを失うことになるっ。@きっとそれは、みちるも智子も不幸にするよっ。」\
-
+;「よ、よしなよ、みちるっ。@死者蘇生なんて、大それた秘術だよ…！@　そんな大秘術を執り行おうとしたら、とても大きなものを失うことになるっ。@きっとそれは、みちるも智子も不幸にするよっ。」\
+`"O-Okay, Michiru.`@`But Revival is a very great, dangerous art!`@`If you use such a spell, you'll lose something great too.`@`And both you and Tomoko will be unhappy."`\
 ld l,MIC_D4,80
 
-「さくのしんさまには聞いてないです。@……私はもう、決めたんですから。」@
+;「さくのしんさまには聞いてないです。@……私はもう、決めたんですから。」@
+`"I'm not listening to you anymore.`@`...I've already made up my mind."`@
 br
-　みちるは決意を浮かべ、立ち上がる。@
-　泣き腫らして真っ赤になった目だったが、……その涙は止まっていた。\
-
+;　みちるは決意を浮かべ、立ち上がる。@
+` Smiling with resolve, Michiru stood.`@
+;　泣き腫らして真っ赤になった目だったが、……その涙は止まっていた。\
+` Her eyes were blood red, but her tears had stopped.`\
 cl l,22
 
-　みちるはさくのしんに背を向け、足早に立ち去る。@
+;　みちるはさくのしんに背を向け、足早に立ち去る。@
+` She turned her back to Sakunoshin, and walked away, quickly.`@
 br
-　その背中を、……さくのしんは心配そうに見送る……。\
-
+;　その背中を、……さくのしんは心配そうに見送る……。\
+` Sakunoshin watched her back and she walked away, nervously...`\
 cl r,0
 ld c,SAK_N1,24
 
-「………みちる…………。」\
-
+;「………みちる…………。」\
+`"....Michiru...."`\
 bg black,22
 
 fede 0,1000
@@ -661,69 +664,78 @@ E_A
 
 me1v 16,50
 
-「……お友達を生き返らせたいという気持ち、……わからなくないです。」\
+;「……お友達を生き返らせたいという気持ち、……わからなくないです。」\
+`".....You don't understand the feeling of wanting to revive a friend."`\
 ;＜毬枝
 
 bg gakkou_02,22
 ld r,MAR_d3,22
 
-　いつの間にか、毬枝もいた。@
+;　いつの間にか、毬枝もいた。@
+` Imperceptibly, Marie appeared.`@
 br
-　めそめそさんである彼女が、みちるの悲痛な泣き声を聞き逃すわけもない。\
-
+;　めそめそさんである彼女が、みちるの悲痛な泣き声を聞き逃すわけもない。\
+` There was no way that Mesomeso-san missed Michiru's cried.`\
 ld r,MAR_D2,80
 
-「私は死んで妖怪になったけれど。@……やっぱり、人間を蘇らせるのって、大変なんですか？」@
-
+;「私は死んで妖怪になったけれど。@……やっぱり、人間を蘇らせるのって、大変なんですか？」@
+`"I'm a dead Monster,`@`but is reviving humans really that difficult?"`@
 ld l,SAK_K1,23
 ld l,SAK_N3,80
 
-「大変だよ、すごーく大変だよっ。@……なのに、大昔から人間たちがそれを望むから。@……それを叶えることと引き換えに、ひどい狩りをする大妖怪もたくさんいるんだよ。」\
-
+;「大変だよ、すごーく大変だよっ。@……なのに、大昔から人間たちがそれを望むから。@……それを叶えることと引き換えに、ひどい狩りをする大妖怪もたくさんいるんだよ。」\
+`"It's dangerous, really dangerous.`@`From ages ago, humans have wanted this power...`@`and in exchange for granting it, there were many hunting monsters."`\
 bg black,22
 
 bgm1 6
 
-　死者蘇生の秘術。@
+;　死者蘇生の秘術。@
+` Revival magic.`@
 br
-　その奇跡への対価が、安いものであるわけもない。\
-
+;　その奇跡への対価が、安いものであるわけもない。\
+` The compensation for such a miracle wouldn't be any small thing, of course.`\
 bg aka1,22
 
-　しかし人は、太古の昔からそれを求め続けてきた。@
-　そして、それと引き換えならば、何を失うことも恐れない。@
+;　しかし人は、太古の昔からそれを求め続けてきた。@
+` But man has continued to seek it.`@
+;　そして、それと引き換えならば、何を失うことも恐れない。@
+` No matter the cost, they didn't fear any loss in exchange for it.`@
 br
-　そんな、盲目なる人間は、……妖怪たちからすれば、あまりに美味で大物な獲物なのだ。\
-
+;　そんな、盲目なる人間は、……妖怪たちからすれば、あまりに美味で大物な獲物なのだ。\
+` Such blind people were delicious prey for monsters.`\
 bg aka2,22
 
-　もっとも、死者蘇生が出来る大妖怪と普通の人間は、滅多なことでは交流できない。@
+;　もっとも、死者蘇生が出来る大妖怪と普通の人間は、滅多なことでは交流できない。@
+` Furthermore, monters that could revive others, and normal people couldn't engage in such exchanges by pure thoughtlessness.`@
 br
-　そのチャンネルが、あまりに違い過ぎるのだから。\
-
+;　そのチャンネルが、あまりに違い過ぎるのだから。\
+` Those channels were too different.`\
 ;bg white,28
 bg black,22
 
 fede 10,1000
 E_MA
 
-　……しかし、時に、そのチャンネルが、普通の人間より遥かに人ならざる世界に近い者がいる。@
+;　……しかし、時に、そのチャンネルが、普通の人間より遥かに人ならざる世界に近い者がいる。@
+` However, sometimes there is a channel that persons more than normal human beings can use.`@
 br
-　そういう者たちが時折、霊能者を名乗り、交霊の儀式を見せたりもするのだ。\
+;　そういう者たちが時折、霊能者を名乗り、交霊の儀式を見せたりもするのだ。\
+` Occasionally such a person would introduce themselves as a psychic and demonstrate communication with the dead and such.`\ 
 
 
-
-　しかし、彼らは死者蘇生が危険な領域であることを知っているから、そこへは決して踏み込まない。@
+;　しかし、彼らは死者蘇生が危険な領域であることを知っているから、そこへは決して踏み込まない。@
+` But they knew the dangers of Revival, and so would never once step into that area.`@
 br
-　あくまでも、霊との交信までに留めるのだ。\
-
+;　あくまでも、霊との交信までに留めるのだ。\
+` And would stop at communicating with spirits and demons.`\
 bg Different_spiral_1b,0
 ld c,MIC_D5,22
 
-　みちるは、人ならざる存在に近いチャンネルを持ち、@……のみならず、親友を蘇らせるためならば、何を失うことも恐れない無鉄砲さも持ち合わせている。@
+;　みちるは、人ならざる存在に近いチャンネルを持ち、@……のみならず、親友を蘇らせるためならば、何を失うことも恐れない無鉄砲さも持ち合わせている。@
+` Michiru was held such a channel close,`@`...but for the sake of reviving her best friend, she was unafraid to pay whatever price, and was reckless in that regard.`@
 br
-　その意味では、……今の彼女は、非常に危険な状態だった。\
-
+;　その意味では、……今の彼女は、非常に危険な状態だった。\
+` That idea, was, in a sense, unusually dangerous, like Daniel in the Lions' den.`\
 bg black,22
 bg gakkou_02,0
 ld r,MAR_D3a,0
@@ -731,12 +743,14 @@ ld l,SAK_N1,22
 
 ld l,SAK_K1,80
 
-「……おかしな霊や妖怪に、唆されないといいんだけれど………。」@
+;「……おかしな霊や妖怪に、唆されないといいんだけれど………。」@
+`"...being seduced by Spirits and Monsters is alright....I guess"`@
 ;＜さくのしん
 
 ld r,MAR_D2a,80
 
-「みちるちゃん…………。」\
+;「みちるちゃん…………。」\
+`"Michiru-chan...."`\
 ;＜毬枝
 
 bg black,2
@@ -748,45 +762,52 @@ bg ie_06,22
 
 me1v 16,50
 
-　………私は、これまでに集めた魔導書を読み耽り、死者蘇生の術を探した。@
+;　………私は、これまでに集めた魔導書を読み耽り、死者蘇生の術を探した。@
+` I have been absorbed in reading all the Grimoires I have gathered, and have searched for the Revival magic.`@
 br
-　わかってる。@それが大それた恐ろしい秘術であることはわかってる。\
+;　わかってる。@それが大それた恐ろしい秘術であることはわかってる。\
+` I know it.`@`I understand this great, dangerous arcane spell.`\
 
 
-
-　この世の理に反する術は、神々への反逆。@
+;　この世の理に反する術は、神々への反逆。@
+` This art which operated contrary to the logic of the world, was, in a way, an act of rebellion unto God.`@
 br
-　それを成そうとすれば、………相応しい支払を求められることになる。\
-
+;　それを成そうとすれば、………相応しい支払を求められることになる。\
+` That in itself was an appropriate price to pay.`\
 bg black,22
 mono 1
 ld c,TOM_D1,22
 
-　……私には、……智子ちゃんしかいないんだ。@
+;　……私には、……智子ちゃんしかいないんだ。@
+` Tomoko-chan's just not here, anyway.`@
 br
-　智子ちゃんだけが、私の唯一の理解者。@
-　そして生涯、二度と現れるわけもない、無二の親友。\
-
+;　智子ちゃんだけが、私の唯一の理解者。@
+` Tomoko-chan, the only one who understands me.`@
+;　そして生涯、二度と現れるわけもない、無二の親友。\
+` And there was no reason my best friend to come alive again of.`\
 bg black,22
 mono 0
 bg ie_06,22
 ld r,MIC_D3,24
 ld r,MIC_D5,80
 
-「…………………難しい……。@どの秘術も、……無理……。」\
-
-　死者蘇生の秘術は、幸いにもいくつかが現代にも伝えられている。@
+;「…………………難しい……。@どの秘術も、……無理……。」\
+`".....It's difficult.`@`Whatever the spell, it's difficult..."`\
+;　死者蘇生の秘術は、幸いにもいくつかが現代にも伝えられている。@
+` Fortunately, Revival had been recorded in several modern tomes.`@
 br
 　しかし、@……人の世の理を捻じ曲げようとするその秘術が求める準備は、あまりに現実離れしたものばかりだ。@
-　みちるにとっては、事実上、不可能だった。\
-
+;　みちるにとっては、事実上、不可能だった。\
+` For Michiru, it was impossible.`\
 
 bg black,22
 bg book1,22
 
-　となると、……残る死者蘇生の方法は一つしかない。@
+;　となると、……残る死者蘇生の方法は一つしかない。@
+` There was just one way of performing the revival herself.`@
 br
-　偉大なる力を持った存在を呼び出し、それに叶えてもらうことだ。@
+;　偉大なる力を持った存在を呼び出し、それに叶えてもらうことだ。@
+` She would summon that which had greater power, and have that grant her wish.`@
 　現実的にはありえないその方法も、みちるにとっては現実味を帯びる。\
 
 ld r,MIC_D3,22
