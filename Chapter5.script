@@ -808,53 +808,61 @@ bg book1,22
 br
 ;　偉大なる力を持った存在を呼び出し、それに叶えてもらうことだ。@
 ` She would summon that which had greater power, and have that grant her wish.`@
-　現実的にはありえないその方法も、みちるにとっては現実味を帯びる。\
-
+;　現実的にはありえないその方法も、みちるにとっては現実味を帯びる。\
+` In reality, this too was impossible, but Michiru would take it on anyway.`\
 ld r,MIC_D3,22
 ;ld r,MIC_D1,80
 
-「………そんな強い力を持った存在が、……やすやすと召喚に応じてくれるかな。」\
-
-　低級霊ならば、少し意識すれば簡単に見ることが出来る。@
-　しかし、死者蘇生を叶えられる強力な存在は、……呼び出すことさえ、初めての経験だ。\
-
+;「………そんな強い力を持った存在が、……やすやすと召喚に応じてくれるかな。」\
+`"I wonder if something that has such power will be willingly summoned."`\
+;　低級霊ならば、少し意識すれば簡単に見ることが出来る。@
+` If it was a lower level spirit, Michiru could see it easily.`@
+;　しかし、死者蘇生を叶えられる強力な存在は、……呼び出すことさえ、初めての経験だ。\
+` However, this was her first experience summoning something capable of granting revival.`\
 ld r,MIC_D5,80
 
-「でも、………やらなくちゃ。」@
+;「でも、………やらなくちゃ。」@
+`"But....I have to do it."`@
 br
-　死者の霊は、死後、時間を経過すればするほど、現世からの呼び出しに応じ難くなる。@
-　躊躇する時間はないのだ。\
-
+;　死者の霊は、死後、時間を経過すればするほど、現世からの呼び出しに応じ難くなる。@
+` For dead spirits, the longer the time after their death, the more difficult it was to summon them forth.`@
+;　躊躇する時間はないのだ。\
+` There was no time to hesitate.`\
 bg black,22
 mono 1
 bg ie_04,22
 
-　みちるは、部屋を暗くし、@知り得る限りで、もっとも力ある存在を呼び出すことの出来る魔法陣を構築する………。@
+;　みちるは、部屋を暗くし、@知り得る限りで、もっとも力ある存在を呼び出すことの出来る魔法陣を構築する………。@
+` Michiru darkened the room,`@` and prepared to generate a magic so great it could call forth the strongest powers....`@
 br
-　……召喚術の挑戦は何度かやったが、一度も成功したことはない。\
-
+;　……召喚術の挑戦は何度かやったが、一度も成功したことはない。\
+`...She had tried conjuration many times, but had yet to succeed.`\
 me2v 17,0
 
 fedexx 0,50,70,0,0,0,3000
 
-「……………………っ。」@
+;「……………………っ。」@
+`"............tch."`@
 br
-　儀式に集中した時。@室内に異音を聞いた。@
-　よく乾いた細い小枝が折れるような、……そんな音。\
-
+;　儀式に集中した時。@室内に異音を聞いた。@
+` While she was focusing on the ritual,`@`she heard a sound in the room.`@
+;　よく乾いた細い小枝が折れるような、……そんな音。\
+` A sound like that of fine, dry twigs snapping....`\
 bg black,22
 mono 0
 
-　天井か柱が軋む音…？@
+;　天井か柱が軋む音…？@
+` Were the pillars or the ceiling cracking?`@
 br
-　違う。@
-　……それは、人ならざる存在の気配だ。\
-
+;　違う。@
+` No.`@
+;　……それは、人ならざる存在の気配だ。\
+`....It was a sign of the presence of a human.`\
 ld c,MIC_D3,22
 ;ld c,MIC_D1,80
 
-　みちるはなおも集中力を高め、@その存在を魔法陣に呼び込もうと、精神を集中する。\
-
+;　みちるはなおも集中力を高め、@その存在を魔法陣に呼び込もうと、精神を集中する。\
+` Michiru concentrated still,`@`in an attempt to call in that existence, she focused her mind.`\
 bg black,22
 bg mahou_01,0
 
@@ -862,24 +870,29 @@ se1 66
 
 print 99,2000,"whirl.dll/r"
 
-　やがて。@
+;　やがて。@
+` Before long,`@
 br
-　………魔法陣の中央に、黒い炎が吹き上げるイメージが、頭の中にどっと流れ込んできた。@
-　その脳内イメージを、……視覚でも得ようと、さらにさらに集中する。\
+;　………魔法陣の中央に、黒い炎が吹き上げるイメージが、頭の中にどっと流れ込んできた。@
+`.....an image of a black flame rushed into her head, while performing the magic.`@
+;　その脳内イメージを、……視覚でも得ようと、さらにさらに集中する。\
+` In an attempt to maintain that image she focused even more.`\
 
 
-
-　合わせるんだ。@チャンネルを合わせるんだ。@
-　今、確かに力ある存在がそこに現れている。@
+;　合わせるんだ。@チャンネルを合わせるんだ。@
+` It fit.`@`She had fit with the channel.`@
+;　今、確かに力ある存在がそこに現れている。@
+` Now, power had appeared there.`@
 br
-　それを信じるんだ、受け入れるんだ。\
-
+;　それを信じるんだ、受け入れるんだ。\
+` She believed it, and accepted it.`\
 me3v 5,70
 
-　小さな文字が霞んで読めない時、目を細めてピントを合わせるかのように。@
+;　小さな文字が霞んで読めない時、目を細めてピントを合わせるかのように。@
+` Narrowing her eyes, as if to focus and read smaller characters,`@
 br
-　心を集中させて、……チャンネルを合わせるんだ………。\
-
+;　心を集中させて、……チャンネルを合わせるんだ………。\
+` she had focused her heart and opened the channel...`\
 se1 55
 
 bg white,28
@@ -887,10 +900,11 @@ bg black,8
 
 me4v 28,90
 
-　そしてそれは、…………成功する。@
+;　そしてそれは、…………成功する。@
+` That was....success.`@
 br
-　ついにみちるは、黒い炎のような姿をした、力ある何者かの召喚に成功する……。\
-
+;　ついにみちるは、黒い炎のような姿をした、力ある何者かの召喚に成功する……。\
+` Michiru had been successful in summoning something with power, with a form like a black flame...`\
 bg ie_04,6
 
 bgm1 26
@@ -898,47 +912,54 @@ bgm1 26
 fede 10,2000
 E_MA
 
-「………よくぞ、吾輩を呼び出した……。@吾輩こそは大悪魔、○＊％＋×なるぞ……。」@
+;「………よくぞ、吾輩を呼び出した……。@吾輩こそは大悪魔、○＊％＋×なるぞ……。」@
+`"How skillfully you call us.....`@`....We are a great demon called ○＊％＋×"`@
 br
-　人ならざる存在は名乗るのだが、それは人の世の言葉ではないため、聞き取れない。\
+;　人ならざる存在は名乗るのだが、それは人の世の言葉ではないため、聞き取れない。\
+` It announced its presence, but the name was inaudible because it was not in the language of people.`\
 
 
-
-　当然のことだ。@力ある者たちの世界では、相手の名前を知ることは、@そのまま、相手を支配することに通じる。@
+;　当然のことだ。@力ある者たちの世界では、相手の名前を知ることは、@そのまま、相手を支配することに通じる。@
+` It's to be expected.`@`In the realm of those with power,`@` knowing one's name is a sure way to dominate them.`@
 br
-　相手を支配できる力を持たない者には、その名が聞き取れないのは当然なのだ。\
+;　相手を支配できる力を持たない者には、その名が聞き取れないのは当然なのだ。\
+` It's obvious then that those without the power to dominate others would not hear the name.`\
 
 
-
-「……吾輩を呼び出したのは、そなたであるか。@……名を聞かせるが良い……。」@
+;「……吾輩を呼び出したのは、そなたであるか。@……名を聞かせるが良い……。」@
+`"Are you the one that called us?`@` Tell us your name...if you will."`@
 br
-　故に。@……力ある存在に名を明かすことは、@屈服とは言わないまでにも、僕になる覚悟を示すのと同じことだ。\
+;　故に。@……力ある存在に名を明かすことは、@屈服とは言わないまでにも、僕になる覚悟を示すのと同じことだ。\
+` Therefore,`@`revealing my name to this powerful being,`@`it tantamount to surrendering and allowing them to become me.`\
 
 
-
-　下手をすれば、……名を明かしただけで、………魂を抜き取られるかも……。@
+;　下手をすれば、……名を明かしただけで、………魂を抜き取られるかも……。@
+` If I was unskilled, just revealing my name would be enough for them to extract my soul...`@
 br
-　……………………………。\
+;　……………………………。\
+`............`\
 
 
+;「……なぜ名乗らぬのか。@……吾輩は、名乗りもせぬ者の願いを叶えたりはせぬぞ……。@名乗らぬならばそれでも良い。@……吾輩は元の世界へ帰るだけだ………。」\
+`"Why don't you tell us your name?`@`We won't grant wishes to people who won't even give us that....`@`...if you tell us your name, we'll do anything.`@`....else, we'll just return to our world...."`\
 
-「……なぜ名乗らぬのか。@……吾輩は、名乗りもせぬ者の願いを叶えたりはせぬぞ……。@名乗らぬならばそれでも良い。@……吾輩は元の世界へ帰るだけだ………。」\
 
-
-
-　取引の余地など、あるわけもない。@
-　みちるが宿すささやかな妖力も、この大悪魔がかなりの力を持つことを教えてくれている……。@
+;　取引の余地など、あるわけもない。@
+` There was no room for bartering.`@
+;　みちるが宿すささやかな妖力も、この大悪魔がかなりの力を持つことを教えてくれている……。@
+` Michiru's modest ability was showing her that this large demon was harboring considerable strength...`@
 br
-　悪魔は時に嘘も吐く。@しかし、契約に関わることだけは、絶対に嘘を吐けない。\
-
+;　悪魔は時に嘘も吐く。@しかし、契約に関わることだけは、絶対に嘘を吐けない。\
+` Demons would sometimes vomit vile lies,`@`but for the sanctity of a contract, they wouldn't lie in them.`\
 bg black,22
 bg ie_06,22
 ld r,MIC_D6,26
 ;ld r,MIC_D1,80
 
-「名乗る前に教えて。@……あなたには本当に、死者を蘇らせる力があるの……？」@
-「……ほう。@死者を蘇生させることが吾輩への望みなのか。」\
-
+;「名乗る前に教えて。@……あなたには本当に、死者を蘇らせる力があるの……？」@
+`"Before I tell you my name,`@`....do you really have to power to revive the dead?"`@
+;「……ほう。@死者を蘇生させることが吾輩への望みなのか。」\
+`"Oh?`@`Revival magic is the wish you have for us?"`\
 ld r,MIC_N3,80
 
 「ただ魂を呼び出すだけとか、そんなのは駄目っ。@ちゃんと蘇らせて、これまでのように生活できるようにしてあげてっ。@あなたにはそれが出来る？！」\
