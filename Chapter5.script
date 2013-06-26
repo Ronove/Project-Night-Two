@@ -962,120 +962,133 @@ ld r,MIC_D6,26
 `"Oh?`@`Revival magic is the wish you have for us?"`\
 ld r,MIC_N3,80
 
-「ただ魂を呼び出すだけとか、そんなのは駄目っ。@ちゃんと蘇らせて、これまでのように生活できるようにしてあげてっ。@あなたにはそれが出来る？！」\
+;「ただ魂を呼び出すだけとか、そんなのは駄目っ。@ちゃんと蘇らせて、これまでのように生活できるようにしてあげてっ。@あなたにはそれが出来る？！」\
+`"Just calling forth a soul isn't good enough.`@`I want you to properly revive and breath life into it.`@`Can you do that?"`\
 
 
-
-「……肉体は残っているのであろうな……？」@
-
+;「……肉体は残っているのであろうな……？」@
+`"....Is the body still here?"`@
 ld r,MIC_N1,80
 
-「それは、………火葬しちゃって、もうないけれど………。」\
+;「それは、………火葬しちゃって、もうないけれど………。」\
+`"The remains have already been cremated..."`\
 
 
-
-「霊体にして留まらせることは出来よう。@……それをそなたが身近に持つ、人型をした依り代に宿すことは出来るだろう。」@
+;「霊体にして留まらせることは出来よう。@……それをそなたが身近に持つ、人型をした依り代に宿すことは出来るだろう。」@
+`"If the body and spirit were here we could do it...`@`..even so, if it has a human form, we are familiar with this procedure."`@
 br
 
 ld r,MIC_D6,80
 
-　……それが出来るだけでも充分だ。@
-　また一緒にお喋りが出来るなら、……それで、充分。\
+;　……それが出来るだけでも充分だ。@
+`....Just that is enough.`@
+;　また一緒にお喋りが出来るなら、……それで、充分。\
+` As long as we can chat to eachother, that's enough.`\
 
 
-
-「……うむ。@……そなたの望む者の魂を蘇らせ、それを依り代に宿らせよう。@さすれば、そなたとだけは、いつでも好きな時に会話をすることが出来るだろう。@……それならば、叶えることが出来る。」\
-
+;「……うむ。@……そなたの望む者の魂を蘇らせ、それを依り代に宿らせよう。@さすれば、そなたとだけは、いつでも好きな時に会話をすることが出来るだろう。@……それならば、叶えることが出来る。」\
+`"Yes.`@`We'll resurrect the spirit you want, and put it into a object to hold the soul.`@`So, whenever you want, you can converse.`@`And so we'll grant your wish."`\ 
 cl r,0
 ld c,MIC_D4,24
 
-「例えば、……このぬいぐるみは？」@
+;「例えば、……このぬいぐるみは？」@
+`"For example...this stuffed toy?"`@
 br
-　室内にあったお気に入りのぬいぐるみを示す。\
+;　室内にあったお気に入りのぬいぐるみを示す。\
+` She showed her favorite stuffed toy in the room.`\
 
 
 
-
-「うむ。@魂を宿す器に充分であるぞ。」\
-
+;「うむ。@魂を宿す器に充分であるぞ。」\
+`"Yes,`@`that's good enough a vessel to harbor the spirit."`\
 ld c,MIC_D6,80
 
-　智子ちゃんの魂を、……このぬいぐるみに吹き込んで、……生き返らせる。@
-　智子ちゃんは私としか喋れない。@自らの意思では動けないけれど、……それでも私は、これからも智子ちゃんと一緒にいられる。\
-
-「……吾輩と契約したならば、それを叶える秘術を、そなたに教えてやろう。」@
-
+;　智子ちゃんの魂を、……このぬいぐるみに吹き込んで、……生き返らせる。@
+` By blowing Tomoko-chan's soul into this animal, she'll be allowed to live again.`@
+;　智子ちゃんは私としか喋れない。@自らの意思では動けないけれど、……それでも私は、これからも智子ちゃんと一緒にいられる。\
+` Tomoko-chan will only speak with me.`@`She won't be able to move of her own will, but she'll always be with me from now on.`\
+;「……吾輩と契約したならば、それを叶える秘術を、そなたに教えてやろう。」@
+`" If you want to form a contract with us, please tell us your name."`@
 ld c,MIC_D4,80
 
-「あなたが蘇らせてくれるわけじゃない……？」\
-
+;「あなたが蘇らせてくれるわけじゃない……？」\
+`"You can't just do it now?"`\
 bg black,22
 bg e005,22
 
 me1v 5,85
 
-「蘇らせ、留まらせたいと願うのはそなただ。@そなたの手で蘇らさねば、意味がないであろう……。」\
-
+;「蘇らせ、留まらせたいと願うのはそなただ。@そなたの手で蘇らさねば、意味がないであろう……。」\
+`"If you want her to be revived and stay so.`@`To be revived in your hands just so would be meaningless..."`\
 
 　道理だ。@
 br
-　本当は、アラジンの魔法のランプみたいに、願ったらポンと叶うのが一番嬉しい。@
-　でも、そこまでうまい話があるわけもないとわかってる。\
-
+;　本当は、アラジンの魔法のランプみたいに、願ったらポンと叶うのが一番嬉しい。@
+` Really, it was just like Aladdin and his magic lamp--if you wished hard enough, with a 'pop' they'd come true.`@
+;　でも、そこまでうまい話があるわけもないとわかってる。\
+` But she knew that there was no way this was such a good story.`\
 bg black,22
 
 bg ie_06,0
 ld c,MIC_D3,22
 ld c,MIC_D4,80
 
-「………契約には、対価がいるんでしょう。」@
+;「………契約には、対価がいるんでしょう。」@
+`"Is there a price for this contract?"`@
 「うむ。@だが、蘇生の秘術を行なうのはそなたであって、吾輩ではないからな。@……伝授の分だけの対価とし、特別に格安にしてやろうぞ。」@
 br
-　意外に気前が良い。\
+;　意外に気前が良い。\
+` This was unexpectedly generous.`\
 
 
-
-「安堵するのは早いぞ。@蘇生の秘術のために、そなたは多くのものを支払わねばならなくなるだろう。@……秘術のための対価は、決して安いものではないぞ……。」\
-
+;「安堵するのは早いぞ。@蘇生の秘術のために、そなたは多くのものを支払わねばならなくなるだろう。@……秘術のための対価は、決して安いものではないぞ……。」\
+`"Relief will come quick.`@`You'll have to pay many things for this revival.`@`Naturally, the price isn't cheap..."`\
 ld c,MIC_D3,80
 
-「………………………………。」@
-「吾輩との契約の対価は、たった一つだ。@……そなたの、挨拶をもらおう。」\
-
+;「………………………………。」@
+`"..............."`@
+;「吾輩との契約の対価は、たった一つだ。@……そなたの、挨拶をもらおう。」\
+`"The price for our contract is but one thing.`@`.....Greet us."`\
 ld c,MIC_D2,80
 
-「挨拶……？」@
-「おはよう。@こんにちは。@こんばんは。@……人の出会いには様々な挨拶を交わすであろう。@……その挨拶をもらおう。@……吾輩と契約したならば、そなたは生涯、もう二度と、挨拶をしてはならぬ。」\
-
+;「挨拶……？」@
+`"Greet you?"`@
+;「おはよう。@こんにちは。@こんばんは。@……人の出会いには様々な挨拶を交わすであろう。@……その挨拶をもらおう。@……吾輩と契約したならば、そなたは生涯、もう二度と、挨拶をしてはならぬ。」\
+`"Good morning.`@`Good day.`@`Goodnight.`@`When people meet, they exchange greetings right?`@`Let's have one of them.`@`For once in our lives, we want one from you."`\
 ;bg black,22
 bg e005,22
 
 me2v 28,90
 
-　……簡単そうに見えて、……意外に重い対価だ。@
+;　……簡単そうに見えて、……意外に重い対価だ。@
+` It seemed so easy, yet felt like a heavy price.`@
 br
-　でも、……考えてみれば、それでも安い。@
-　どうせ挨拶をするような友人なんて、智子ちゃん以外には存在しないのだから。\
-
+;　でも、……考えてみれば、それでも安い。@
+` But when she thought about it, it was a small price to pay.`@
+;　どうせ挨拶をするような友人なんて、智子ちゃん以外には存在しないのだから。\
+` It wasn't like she had anybody to greet anyway, since Tomoko-chan wasn't around.`\
 ;bg ie_04,22
 
-「……それじゃ、智子ちゃんが蘇っても、挨拶が出来ない。」@
-「むむ。@そうなってしまうな。@……それでは意地悪が過ぎよう。@特別サービスだ。@智子とやらとの挨拶は免除にしてやろう……。」\
-
+;「……それじゃ、智子ちゃんが蘇っても、挨拶が出来ない。」@
+`"Well then, even if Tomoko-chan is revived, I can't greet you."`@
+;「むむ。@そうなってしまうな。@……それでは意地悪が過ぎよう。@特別サービスだ。@智子とやらとの挨拶は免除にしてやろう……。」\
+`"Oh?`@`That's your reply?`@`How mean....`@`It's a special service we provide.`@`Think of us as the exemption from Tomoko..."`\
 bg black,22
 
-　やっぱり、意外に気前がいい。@
+;　やっぱり、意外に気前がいい。@
+` It really was a generous offer.`@
 br
-　しかし、相手は大悪魔なのだ。@偉大なる存在への敬意を欠いてはならない……。\
-
+;　しかし、相手は大悪魔なのだ。@偉大なる存在への敬意を欠いてはならない……。\
+` But her opponent was a great demon.`@`She shouldn't lack respect for their existence.`\
 bg ie_06,0
 ld l,MIC_D3,22
 ld l,MIC_D4,80
 
-「挨拶を捧げたら、……私に蘇生の秘術を教えてくれる……？@　そしてそれは、……教えてもらって、私に実行可能なもの……？」@
+;「挨拶を捧げたら、……私に蘇生の秘術を教えてくれる……？@　そしてそれは、……教えてもらって、私に実行可能なもの……？」@
+`"If I greet you, will you really teach me how to revive her?`@`And is it something I can actually do myself?"`@
 br
-　ユニコーンの角とかマンドラゴラの根っことか、とんでもないものを準備せよなんて言われたらお手上げだ。\
-
+;　ユニコーンの角とかマンドラゴラの根っことか、とんでもないものを準備せよなんて言われたらお手上げだ。\
+` They might tell her something outrageous, like using unicorn horns and mandrake roots.`\
 
 
 「そのような意地悪はせぬと言うに……。@吾輩が教える秘術は、召喚者であるそなたに実行可能なことである。@……出来もせぬことと引き換えでは、契約にならぬのでな。@最近は組合もうるさいのだ。」@
@@ -1083,20 +1096,22 @@ br
 
 ;ld l,MIC_D1,80
 
-　……ちょっといい人かもしれない。\
+;　……ちょっといい人かもしれない。\
+` They were a good person.`\
 
 
-
-「しかし、心せよ。@……そなたに教える秘術は、確かに実行可能ではあるが。@……それでも、人の世の理に反する秘術だ。@相当の覚悟が必要になるぞ。」\
-
+;「しかし、心せよ。@……そなたに教える秘術は、確かに実行可能ではあるが。@……それでも、人の世の理に反する秘術だ。@相当の覚悟が必要になるぞ。」\
+`"But, as for your heart,`@`you have to be aware that while this magic is feasible for you to do,`@`it violated the logic of the world of humans.`@`Your constitution must be prepared for such."`\
 cl l,0
 ld c,MIC_D6,23
 
-「………その覚悟は、……あるつもり。」@
+;「………その覚悟は、……あるつもり。」@
+`"....I'm prepared."`@
 br
-　智子がいてくれたからこその、楽しい世界だった。@
-　智子がいない今の世界に、失って惜しいものなんて、存在しない。\
-
+;　智子がいてくれたからこその、楽しい世界だった。@
+` With Tomoko, this will be a fun world.`@
+;　智子がいない今の世界に、失って惜しいものなんて、存在しない。\
+` In this world now, Tomoko, the only thing she feared losing, didn't exist.`\
 bg e005,0
 ld c,MIC_D6,22
 
@@ -1104,8 +1119,8 @@ ld c,MIC_D6,22
 
 ld c,MIC_D3,80
 
-「…………はい。」\
-
+;「…………はい。」\
+`"....Yes."`\
 bg black,22
 bg Different_spiral_1b,22
 
@@ -1120,10 +1135,11 @@ br
 ;ld c,MIC_D1,80
 bg black,22
 
-　つまり、……智子を蘇らせるチャンスは、これ１回のみということ。@
+;　つまり、……智子を蘇らせるチャンスは、これ１回のみということ。@
+` In other words, there was only one chance to revive Tomoko.`@
 br
-　………ラッキーじゃないか。\
-
+;　………ラッキーじゃないか。\
+` ......Aren't I lucky.`\
 
 　どんな厳しい秘術だとしても、普通なら絶対に叶えられない望みなのだ。@
 　たった１回の厳しいチャンスとはいえ、それが与えられること自体が奇跡。@
