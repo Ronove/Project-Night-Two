@@ -1141,28 +1141,31 @@ br
 ;　………ラッキーじゃないか。\
 ` ......Aren't I lucky.`\
 
-　どんな厳しい秘術だとしても、普通なら絶対に叶えられない望みなのだ。@
-　たった１回の厳しいチャンスとはいえ、それが与えられること自体が奇跡。@
+;　どんな厳しい秘術だとしても、普通なら絶対に叶えられない望みなのだ。@
+` Whatever the stringency of the rite, under normal circumstances, it could not make wishes come true.`@ 
+;　たった１回の厳しいチャンスとはいえ、それが与えられること自体が奇跡。@
+` Even if there was strictly one chance, that in itself is a miracle.`@
 br
-　みちるはそれを理解し、……大悪魔と契約することに決める。\
-
+;　みちるはそれを理解し、……大悪魔と契約することに決める。\
+` Michiru understood that and decided to make a pact with the demon.`\
 
 ;bg black,22
 bg mahou_01,22
 
 
 
-「吾輩と契約する覚悟が出来たなら。@……名乗るが良い。@そなたの名前を……。」@
-「…………私の名前は、………桜田、……みちる………。」\
-
+;「吾輩と契約する覚悟が出来たなら。@……名乗るが良い。@そなたの名前を……。」@
+`"If you're ready to make a contract,`@`then, your name....`@`tell it to us..."`@
+;「…………私の名前は、………桜田、……みちる………。」\
+`"My name....is....Sakurada...Michiru...."`\
 se1v 57,100
 se2v 2,100
 bg white,1
 bg mahou_02,8
 ;wait 1000
 
-　契約は、……成立した。\
-
+;　契約は、……成立した。\
+` The contract was established.`\
 se2 56
 bg e005,0
 print 99,2000,"whirl.dll/r"
@@ -1178,17 +1181,20 @@ bg ie_06,22
 
 me1v 16,50
 
-　大悪魔は姿を消した。@
+;　大悪魔は姿を消した。@
+` The figure of the demon disappeared.`@
 br
-　蘇生の秘術は、術者、対象の魂によって個々に違うらしい。@
-　それを調べ、明日の晩に改めて教えてくれるという。\
-
+;　蘇生の秘術は、術者、対象の魂によって個々に違うらしい。@
+` Revival magic, for the caster, seemed to vary depending on the target soul.`@
+;　それを調べ、明日の晩に改めて教えてくれるという。\
+` They'll check that, and reaffirm it tomorrow evening.`\
 ld r,MIC_D6,22
 
-　しかし、契約はもう始まっているのだ。@
+;　しかし、契約はもう始まっているのだ。@
+` But the contract had already begun.`@
 br
-　契約に従い、……生涯、私は挨拶をしない。\
-
+;　契約に従い、……生涯、私は挨拶をしない。\
+` In accordance with the contract, I will not greet anyone in my lifetime.`\
 bg black,42
 
 fede 0,1000
@@ -1205,8 +1211,8 @@ bg black,22
 bg ie_05,22
 
 
-「おはよう、みちる。@朝食できてるわよ。」\
-
+;「おはよう、みちる。@朝食できてるわよ。」\
+`"Good morning, Michiru.`@`We're having breakfast."`\
 se1 82
 
 ld l,MIC_D2,23
@@ -1214,24 +1220,28 @@ ld l,MIC_D1,80
 wait 1000
 ld l,MIC_D2,80
 
-「…………………………。」@
+;「…………………………。」@
+`"................"`@
 br
-　反射的に挨拶をしそうになってしまった。@
-　するわけにはいかない。@……もう、契約は始まっているのだから。\
+;　反射的に挨拶をしそうになってしまった。@
+` She instinctively wanted to respond.`@
+;　するわけにはいかない。@……もう、契約は始まっているのだから。\
+` But she couldn't afford to.`@`Because the contract had started.`\
 
 
-
-　幸いにも、頭が半分眠っている朝は、母親の挨拶にも無言であることが多い。@
+;　幸いにも、頭が半分眠っている朝は、母親の挨拶にも無言であることが多い。@
+` Fortunately, my silent sleepiness that morning was greeting enough to her mother.`@
 br
-　不審には思われずに済んだ。\
-
+;　不審には思われずに済んだ。\
+` She didn't seem suspicious.`\
 bg black,22
 bg ie_04,22
 
-　父親は新聞を読んでいるだけで、わざわざ挨拶をしてこない。@……好都合だった。@
+;　父親は新聞を読んでいるだけで、わざわざ挨拶をしてこない。@……好都合だった。@
+` Her father was engrossed in the newspaper,`@`so not having to respond to a greeting was convenient for him.`@
 br
-　行ってきます、……さえ言えず、私は無言で家を出た。\
-
+;　行ってきます、……さえ言えず、私は無言で家を出た。\
+` Without even saying 'I'm off', I left the house in silence.`\
 bg black,2
 
 fede 0,2000
@@ -1245,25 +1255,29 @@ wait 2000
 bg black,22
 bg kyou_04,22
 
-　学校では、朝のホームルームから、授業の始まりと終わり、@そして帰りのホームルームまで、何度も挨拶をするはめになる。\
+;　学校では、朝のホームルームから、授業の始まりと終わり、@そして帰りのホームルームまで、何度も挨拶をするはめになる。\
+` She was called upon to make greeting numerous times in the day: from the morning homeroom,`@`to hometime, and at the beginning and end of every class.`\
 
 
-
-　でも、もう私は二度と誰にも挨拶はしないんだ。@
-　そうすることで智子ちゃんが蘇るなら、……これは全然、苦にならない、簡単なことなんだ。\
-
+;　でも、もう私は二度と誰にも挨拶はしないんだ。@
+` But, I could never greet another again.`@
+;　そうすることで智子ちゃんが蘇るなら、……これは全然、苦にならない、簡単なことなんだ。\
+` But if it would bring back Tomoko-chan, this was but an easy task.`\
 bg black,22
 bg kyou_01,22
 
-　…………でも、これは悪魔に秘術を教えてもらうための対価の分だけ。@
-　今夜、教えてもらえる秘術が私にどのような対価を求めてくるかは、想像もつかない。@
+;　…………でも、これは悪魔に秘術を教えてもらうための対価の分だけ。@
+` ....And, this was the price to pay to have the Demon teach me Revival magic.`@
+;　今夜、教えてもらえる秘術が私にどのような対価を求めてくるかは、想像もつかない。@
+` I couldn't imagine the price I'd have to pay to learn the spell this evening.`@
 　安く負けておくと言われて対価にされた、挨拶禁止でさえ、@……生涯、それを貫くのはきっと大変なことだった。\
 
 bg black,24
 bg kyou_02,0
 ld l,MIC_D2,24
 
-　……今はいい。@
+;　……今はいい。@
+` Now's good.`@
 br
 　しかし、生涯、挨拶が出来ないとは、どういうことだろう。@
 　進級してクラス替えをして。@……新しいクラスで新しいクラスメートたちに出会っても、私は一切、挨拶をしないということだ。\
