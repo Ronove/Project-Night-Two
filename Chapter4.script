@@ -1,10 +1,12 @@
 ;Chapter 4
-　美術室の中は静かだった。\
+;　美術室の中は静かだった。\
+` The art room was silent.`\
 
-
-　下校時刻を過ぎて残っている生徒達は、大抵自分の教室か、校庭か、あるいは部室にいる。@
+;　下校時刻を過ぎて残っている生徒達は、大抵自分の教室か、校庭か、あるいは部室にいる。@
+` Once the final bell rings and school ends, the remaining students can usually be found either in their one classrooms, the schoolyard, or the club rooms.`@
 br
-　４階にあるこの美術室まで彼等の声が届くことはない。@まるで空間から切り取られたかの様にひっそりと静まり返っている。\
+;　４階にあるこの美術室まで彼等の声が届くことはない。@まるで空間から切り取られたかの様にひっそりと静まり返っている。\
+` Their voices hardly ever reach all the way up to the art room on the 4th floor. `@`It becomes so deathly quiet, it's as if the sound was torn from the very air itself.`\
 
 bg black,23
 bg bijutu_02,23
@@ -12,86 +14,99 @@ ld r,NOD_D1,22
 
 bgm1 8
 
-　美術室の壁に掛けられている絵は、平均的な感覚を持つ生徒にとっては薄気味悪いものが多い。@
-　そんなもので満たされている美術室に、好んで放課後に訪れようと思う生徒は、そう多くはない。\
-
+;　美術室の壁に掛けられている絵は、平均的な感覚を持つ生徒にとっては薄気味悪いものが多い。@
+` To the average student, the pieces of art adorning the art room walls emanate a sense of eeriness.`@
+;　そんなもので満たされている美術室に、好んで放課後に訪れようと思う生徒は、そう多くはない。\
+` there are very few students who would go out of their way to visit this room after school just to see these walls of art.
 
 
 ld r,NOD_D4,80
 
-　……そう言えば、@最近クラスのみんなが噂していた学校の八不思議の中に、美術室にまつわる怪談があったような。@
+;　……そう言えば、@最近クラスのみんなが噂していた学校の八不思議の中に、美術室にまつわる怪談があったような。@
+` ...On that note, `@`lately the entire student body has been talking about how the art room contains one of the school's eight mysteries.`@
 br
-　美術室にかけられた絵を見ながら、野田裕貴（のだ　ゆうき）はそんなことを思い出していた。\
-
+;　美術室にかけられた絵を見ながら、野田裕貴（のだ　ゆうき）はそんなことを思い出していた。\
+` As he stood looking at those walls of art, those rumors were at the forefront of the mind of Yuuki Noda. (野田裕貴)`\
 bg black,22
 
-　確か、放課後、一人で美術室を訪れた子供の前に、絵から抜け出した妖怪が現れて問い掛けをする、@という怪談だった気がする。\
-
+;　確か、放課後、一人で美術室を訪れた子供の前に、絵から抜け出した妖怪が現れて問い掛けをする、@という怪談だった気がする。\
+` According to those stories, `@`if a kid ventures into the art room alone after school, a youkai will come out of the paintings and ask them a question.`\
 
 ;bg black,1
 mono 2
 bg different_spiral_1a,22
 
 
-　……問い掛けってどんな問い掛けなんだろう……？@
-　「赤マント、青マント」みたいなやつかな……。\
+;　……問い掛けってどんな問い掛けなんだろう……？@
+` ...But what kind of question does he ask I wonder...?`@
+;　「赤マント、青マント」みたいなやつかな……。\
+` Maybe it's like the 'red cape or blue cape' ghost story...`\
 
-
-　それは学校の怪談としては有名なものだ。@昔からどこかしらの学校では必ず噂になっている。@
+;　それは学校の怪談としては有名なものだ。@昔からどこかしらの学校では必ず噂になっている。@
+` It's a famous ghost story, usually set in a school. `@`It must have become an urban legend at some school a long time ago and spread from there.`@
 br
-　……夜中、トイレに一人で入っていると、@赤マントという妖怪が現れて「赤マント、青マント、どっちが欲しい？」と問い掛けてくる。\
+;　……夜中、トイレに一人で入っていると、@赤マントという妖怪が現れて「赤マント、青マント、どっちが欲しい？」と問い掛けてくる。\
+` ...The story goes that if you eneter the bathroom alone late at night, `@`a youkai called The Red Cape will ask you "Do you want a red cape or a blue cape? Choose one."`\
 
-
-　「赤マントが欲しい」と言うと体中を刺され、血まみれになって死んでしまう。@
-　しかし、「青マントが欲しい」と言っても、今度は全身の血を抜かれて真っ青になって死んでしまう……。\
-
+;　「赤マントが欲しい」と言うと体中を刺され、血まみれになって死んでしまう。@
+` If you reply that you want a red cape, your body will be stabbed all over, and you will die a bloody death.`@
+;　しかし、「青マントが欲しい」と言っても、今度は全身の血を抜かれて真っ青になって死んでしまう……。\
+` And if you reply that you want a blue cape, all the blood will be sucked out of your body and you will die a cold death, leaving nothing but a blue colored corpse...`\
 bg black,22
 ;bg black,1
 mono 0
 bg bijutu_04,0
 ld c,NOD_D1,22
 
-　……そんなの、出会った時点で終わりじゃないか。@
+;　……そんなの、出会った時点で終わりじゃないか。@
+` ...There's no way to survive a story like that.`@
 br
-　この怪談を聞いたとき、裕貴はそんな風に思った。@八方塞がりで逃げ場がない。@フェアじゃない駆け引き。\
+;　この怪談を聞いたとき、裕貴はそんな風に思った。@八方塞がりで逃げ場がない。@フェアじゃない駆け引き。\
+` That is what Yuuki thought when he first heard this ghost story. `@`Both choices were bound to kill you. `@`It wasn't fair.`\
 
+;　学校によってはこの怪談にはいろいろパターンが違うらしい。@
+` Apparently, this ghost story changes depending on which school its told at.`@
+;　青マントの罰が「水責め」だったり、赤、青の他に黄色マントがあったり……。\
+` Some versions of this story have The Red Cape use water torture, and some even include a yellow cape along with the other two...`\
 
-　学校によってはこの怪談にはいろいろパターンが違うらしい。@
-　青マントの罰が「水責め」だったり、赤、青の他に黄色マントがあったり……。\
+;　ちなみに黄色を選んだ場合の罰は「感電死」らしい。@どんなパターンにせよ、「結局は殺される」と言うところは一貫している怪談なのだそうだ。\
+` Incidentally the punishment for the yellow cape is apparently death by electrocution. `@`In all variations the pattern is the same. No matter what you do, you'll die.`\
 
-
-　ちなみに黄色を選んだ場合の罰は「感電死」らしい。@どんなパターンにせよ、「結局は殺される」と言うところは一貫している怪談なのだそうだ。\
-
-
-　しかし、クラスメート達が言うには、この美術室に伝わる怪談には一応逃げ場があるらしい。@
-　いくつか存在するルールを破らず、問い掛けに正確に答えさえすれば、助かるのだそうだ。\
-
+;　しかし、クラスメート達が言うには、この美術室に伝わる怪談には一応逃げ場があるらしい。@
+` But, according to his classmates, in the ghost story associated with this school's art room, there is one way out.`@
+;　いくつか存在するルールを破らず、問い掛けに正確に答えさえすれば、助かるのだそうだ。\
+` As long as you correctly answer the question without breaking any of the rules associated with the story, you'll be able to survive.`\
 bg black,22
 ;bg black,2
 
-　……でも、もしもそんなシチュエーションが訪れたとして、@生きるも死ぬも選べるとしたら、僕は一体どっちを選ぶんだろう………？@
+;　……でも、もしもそんなシチュエーションが訪れたとして、@生きるも死ぬも選べるとしたら、僕は一体どっちを選ぶんだろう………？@
+` ...But if he was put in that situation, `@`and his choice would decide if he lived or died, which choice would he make....?`@
 br
-　裕貴にはそれが分からなかった。\
-
-　自分がいったい何を望んでいるのか。@助かるものなら助かりたいのか。@生きたいのか、それとも死にたいのか。@それがよく分からなくなっていた。\
-
+;　裕貴にはそれが分からなかった。\
+` That is what Yuuki wondered.`\
+;　自分がいったい何を望んでいるのか。@助かるものなら助かりたいのか。@生きたいのか、それとも死にたいのか。@それがよく分からなくなっていた。\
+` He wonders what he truly wants. `@`If he could survive, would he want to? `@`Would he want to live, or to die? `@`He simply does not know.`\
 bg bijutu_06,22
 ;ld c,NOD_D1,22
 ;ld c,NOD_D4,80
 
-　自分は一体何を望んでるんだろう。@
-　服の上から腕の傷をおさえる。@
+;　自分は一体何を望んでるんだろう。@
+` Just what does he want?`@
+;　服の上から腕の傷をおさえる。@
+` He rubbed a cut on his arm through his sleeve.`@
 br
-　……自分で自分が、よくわからない。@
-　わからないから、……今日もこうして、美術室にいる。\
-
+;　……自分で自分が、よくわからない。@
+` Not even he himself knows.`@
+;　わからないから、……今日もこうして、美術室にいる。\
+` He has no idea... so today he has once again come to the art room.`\
 bg black,22
 E_A
 
-　その時。@……唐突に美術室の隅から声が聞こえた。\
-
+;　その時。@……唐突に美術室の隅から声が聞こえた。\
+` At that moment.`@`... A voice echoed out from the corner of the romm.`\
 br
-「……………その絵、好き？」\
+;「……………その絵、好き？」\
+`"......Do you like those pictures?"`\
 ;■ここは野田君の立ち絵だけです
 
 
@@ -104,40 +119,44 @@ bg kaiga_02,22
 
 bgm1 27
 
-　はっと声の方を振り返った裕貴の目の前に、一人の可愛らしい女の子が立っていた。\
+;　はっと声の方を振り返った裕貴の目の前に、一人の可愛らしい女の子が立っていた。\
+` Startled, Yuuki turned around to see where the voice came from. Standing there was a cute, young girl.
 
 
 
+;　柔らかそうな長い髪、大きな瞳、鮮やかな青いスカート。@
+` She had long, soft looking hair, large eyes and a bright blue skirt.`@
+;　一瞬息をするのも忘れるほど美しい少女だった。\
+` She was so beautiful that for a moment he had forgotten to breathe.`\
 
-　柔らかそうな長い髪、大きな瞳、鮮やかな青いスカート。@
-　一瞬息をするのも忘れるほど美しい少女だった。\
-
-
-「……………その絵、好きなの？」@
+;「……………その絵、好きなの？」@
+`"......Those pictures. Do you like them?"`@
 br
-　その子がまた聞いた。@綺麗な声だった。\
-
+;　その子がまた聞いた。@綺麗な声だった。\
+` She asked again. `@`She had a lovely voice.`\
 ld r,NOD_D5a,24
 
-　裕貴はわかりやすいくらいおろおろした。@
-　今日は美術部の活動の日じゃない。@放課後、裕貴以外の人間が美術室を訪れることはほとんどなかった。\
-
+;　裕貴はわかりやすいくらいおろおろした。@
+` Yuuki was clearly nervous.`@
+;　今日は美術部の活動の日じゃない。@放課後、裕貴以外の人間が美術室を訪れることはほとんどなかった。\
+` There shouldn't be any activities in the art room today. `@`And very few people besides Yuuki would ever come all the way out to this room.`\
 
 
 ld r,NOD_D4,80
 
-「………う、うん。@好きだよ。」@
+;「………う、うん。@好きだよ。」@
+`"....Y- Yeah. `@`I like them."`@
 br
-　ようやく出た声は、少し上擦っていた。\
+;　ようやく出た声は、少し上擦っていた。\
+` He answered in a nervous voice after a long pause.`\
 
 
-
-「へぇ……。@珍しいね。@みんな、ここに飾ってある絵は怖いって言って、全然、見に来ないのに。」@
-
+;「へぇ……。@珍しいね。@みんな、ここに飾ってある絵は怖いって言って、全然、見に来ないのに。」@
+`"Really...? `@`How strange. `@`Everyone says that the pictures decorating the walls here are scary, and never come to see them."`@
 ld r,NOD_D1,80
 
-「……確かに、……ちょっと偏っているかなぁ。」\
-
+;「……確かに、……ちょっと偏っているかなぁ。」\
+`"...That does seem... a little closed-minded."`\
 
 
 ;cl a,0
@@ -148,64 +167,74 @@ bg black,24
 bg kaiga_01,24
 ;ld c,NOD_D1,22
 
-　改めて教室の壁にかけられた絵を見回す。@
-　美しい少女の絵、可愛らしい動物の絵の合間合間に、等間隔で残酷な絵画が飾られている。\
+;　改めて教室の壁にかけられた絵を見回す。@
+` He took another look around at the art on the classroom wall.`@
+;　美しい少女の絵、可愛らしい動物の絵の合間合間に、等間隔で残酷な絵画が飾られている。\
+` Among the pictures of pretty girls and cute little animals, periodically there were much darker paintings adorning the wall.`\
 
-
-　何かの本で読んだのだけど、@恐ろしいもの、怖いものを見ることは、情操教育の上でも必要らしい。@
-　綺麗なものだけを見続けることの方が、逆に精神的に良くない影響を与えるのだとか何とか。\
-
+;　何かの本で読んだのだけど、@恐ろしいもの、怖いものを見ることは、情操教育の上でも必要らしい。@
+` He had once read in a book, `@`that seeing horrible and scary things is needed to develop a sense of aesthetics.`@
+;　綺麗なものだけを見続けることの方が、逆に精神的に良くない影響を与えるのだとか何とか。\
+` If all you ever see are pleasant and pretty things, then that can have a negative influence on your mental and emotional state.`\
 
 
 ;ld c,NOD_D4,80
 
-　……でも、それにしたってこの美術室の絵は極端な気がした。@
-　どれも名画と呼ばれるものには違いないが、残酷な描写があり過ぎる。@子供が夜中一人で見たら泣き出してしまうくらい怖い。\
+;　……でも、それにしたってこの美術室の絵は極端な気がした。@
+` ...but, even so, he couldn't help but feel that some of the art on these walls were too extreme.`@
+;　どれも名画と呼ばれるものには違いないが、残酷な描写があり過ぎる。@子供が夜中一人で見たら泣き出してしまうくらい怖い。\
+` Each and every one of them was probably considered a masterpiece, but they portrayed scenes far too dark. `@`They were so scary that if a kid saw them in the middle of the night, they would probably burst into tears.`\
 
-
-「この教室を訪れる子たちは、みんなそう思っていて怖がっているよ。@……美術室はオバケ屋敷みたい、って言ってね。」@
+;「この教室を訪れる子たちは、みんなそう思っていて怖がっているよ。@……美術室はオバケ屋敷みたい、って言ってね。」@
+`"All the kids who come to this room think that they're scary.`@`... They say that they make the art room look like a haunted house."`@
 br
-　少女はそう言って笑うが、少しだけ寂しそうだった。\
-
+;　少女はそう言って笑うが、少しだけ寂しそうだった。\
+` The girl spoke with a smile, but something about it seemed lonely.`\
 
 
 ;ld c,NOD_D1,80
 ld c,NOD_D2,80
 
-「確かに、ちょっと怖い絵も多いけれど。@……でも、僕は好きだよ。@ここの絵。」@
-「………本当に…？」\
-
+;「確かに、ちょっと怖い絵も多いけれど。@……でも、僕は好きだよ。@ここの絵。」@
+`"I mean, sure, there are a bunch of scary pictures here.`@`... But I like them. `@`These pictures."`@
+;「………本当に…？」\
+`"....Really...?"`\
 
 
 ld c,NOD_D3,80
 
-「うん。@いつも見てるけど、@……やっぱり、巨匠と言われる人たちの絵は、どれもその、……迫力とかが、すごいと思う。」\
-
+;「うん。@いつも見てるけど、@……やっぱり、巨匠と言われる人たちの絵は、どれもその、……迫力とかが、すごいと思う。」\
+`"Yeah. `@`I see them all the time... `@`but it always amazes me at what an impact the art of a great artist can have."`\
 
 
 ;cl a,0
 ;bg black,22
 
-　それらの絵画を理解するには、裕貴はまだまだ幼いだろう。@
-　しかし、……彼は、それらから形容し難いインスピレーションを感じている。@
-　それがどのようなものなのか、うまく説明する言葉が思いつかないから、それを迫力と表現するのだ。\
-
+;　それらの絵画を理解するには、裕貴はまだまだ幼いだろう。@
+` Yuuki may be too young to completely grasp the meaning of these works of art.`@
+;　しかし、……彼は、それらから形容し難いインスピレーションを感じている。@
+` But... he had a hard time explaining the inspiration he felt from them.`@
+;　それがどのようなものなのか、うまく説明する言葉が思いつかないから、それを迫力と表現するのだ。\
+` He wasn't sure how exactly to put it into words, but they had a strong impact on him.`\
 
 ;ld c,NOD_D1,80
 
-　……確かに、クラスメートたちが美術室をオバケ屋敷と呼んでいるのは知っている。@
-　自分も、みんながそう思うのは無理もないと思っている。\
-
+;　……確かに、クラスメートたちが美術室をオバケ屋敷と呼んでいるのは知っている。@
+` ...He knew that his classmates called the art room a haunted house.`@
+;　自分も、みんながそう思うのは無理もないと思っている。\
+` He thinks it's natural for them to think that way.`\
 
 bg black,23
 bg bijutu_03,23
 
 
-　……でも、何となく、自分は美術室が好きだった。@
-　怖い絵がたくさんあるのは知ってる。@……確かに怖い。@
+;　……でも、何となく、自分は美術室が好きだった。@
+` ...But, for some reason, he really liked the art room.`@
+;　怖い絵がたくさんあるのは知ってる。@……確かに怖い。@
+` He knew that there were a lot of scary pictures in the room.`@`... and they scared him too.`@
 br
-　でも、そんなものも含めて、……色々なインスピレーションに満ち溢れている。\
-
+;　でも、そんなものも含めて、……色々なインスピレーションに満ち溢れている。\
+` But even those pictures... filled him with a strong sense of inspiration.`\
 
 
 ;bg bijutu_02,0
