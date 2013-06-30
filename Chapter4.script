@@ -240,149 +240,172 @@ br
 ;bg bijutu_02,0
 ;ld r,NOD_D1,22
 
-　この美術室は、単調な日常から自分を解き放ってくれる、別世界への飛行場。@
-　そんな風に感じ、……初めて知る異郷の文化のような、カルチャーショックを与えてくれるのだ。\
+;----------------------------
 
+;　この美術室は、単調な日常から自分を解き放ってくれる、別世界への飛行場。@
+` This art room frees him from the monotony of his everyday life. It is an airport to another world.`@
+;　そんな風に感じ、……初めて知る異郷の文化のような、カルチャーショックを与えてくれるのだ。\
+` That's the kind of feeling it gives him... It makes him experience a culture shock like learning about a mysterious new culture for the first time.`\
 bg black,24
 bg kaiga_02,24
 
-「…………美術室をオバケ屋敷と呼ばない子なんて、本当に珍しいね。」@
+;「…………美術室をオバケ屋敷と呼ばない子なんて、本当に珍しいね。」@
+`".....It's rare to meet someone who doesn't consider this room to be like a haunted house."`@
 br
-　少女はとても嬉しそうに笑った。@……まるで、自分のことを褒められたかのようだった。\
+;　少女はとても嬉しそうに笑った。@……まるで、自分のことを褒められたかのようだった。\
+` The girl smiled joyfully.`@`... almost as if she herself had been praised.`\
 
 
-
-「君は、どの絵が一番好き？」@
-
+;「君は、どの絵が一番好き？」@
+`"Which picture is your favorite?"`@
 ;ld r,NOD_D1,80
 ld l,NOD_D2,23
 
-「そうだなぁ………。」@
+;「そうだなぁ………。」@
+`"Hm, good question...."`@
 br
-　壁にかけられた絵を見回す。\
+;　壁にかけられた絵を見回す。\
+` He looked over the pictures hanging on the wall.`\
 
 
+;　恐怖を感じさせるピカソやゴヤの絵、それとは対照的に神々しい温かさを感じさせるダ・ヴィンチやフェルメールの絵……。\
+` There were the works of Picaso and Goya that gave off a feeling of fright, and the contrastingly sublime and warm feeling works of Da Vinci amd Vermeer...`\
 
-　恐怖を感じさせるピカソやゴヤの絵、それとは対照的に神々しい温かさを感じさせるダ・ヴィンチやフェルメールの絵……。\
-
-
-　そのどれもが名画と呼ばれるに相応しい凄みや神聖さがあった。@でも、裕貴が一番好きなのはそのどれでもなかった。\
-
+;　そのどれもが名画と呼ばれるに相応しい凄みや神聖さがあった。@でも、裕貴が一番好きなのはそのどれでもなかった。\
+` Each of them was called a masterpiece, whether it was for their sacredness or their ghastliness. `@`But Yuuki's favorite painting was not one of them.`\
 bg black,22
 
-「一番好きなのは、………この絵かな。」@
+;「一番好きなのは、………この絵かな。」@
+`"I think my favorite one... is this one..."`@
 br
-　裕貴は一枚の絵画を指した。@少女が意外そうに目を開いたのがわかった。\
-
+;　裕貴は一枚の絵画を指した。@少女が意外そうに目を開いたのがわかった。\
+` Yuuki pointed to one of the paintings. `@`The girl's eyes opened wide in surprise.`\
 bg kaiga_01,22
 
-　確かにインパクト、と言う点では他のものに比べて見劣りする、少しだけ地味な絵だ。@
-　でも、裕貴にとっては一番印象的だったし、何より、純粋に他のどの絵よりも綺麗だと思った。\
+;　確かにインパクト、と言う点では他のものに比べて見劣りする、少しだけ地味な絵だ。@
+` It was a somewhat plain painting. In terms of impact, it was hardly comparable to the others on this wall.`@
+;　でも、裕貴にとっては一番印象的だったし、何より、純粋に他のどの絵よりも綺麗だと思った。\
+` However, to Yuuki, this painting was the most impressive. He genuinely believed that it was prettier than any of the other paintings.`\
 
-
-　それは一人の少女の絵だった。@
-　短い鞭を持った英国風の美しい少女。@肩まである柔らかそうな髪。@鮮やかな青い色のスカート。@………………あれ。\
-
+;　それは一人の少女の絵だった。@
+` It was a painting of a girl.`@
+;　短い鞭を持った英国風の美しい少女。@肩まである柔らかそうな髪。@鮮やかな青い色のスカート。@………………あれ。\
+` She was a beautiful English looking girl, and was holding a riding crop. `@`She had very soft looking hair that went down to her shoulders. `@`And she wore a bright blue skirt.`@`........ Wait.`\
 
 
 ld r,NOD_D1,22
 
-「………なんだか、君、……この絵の子供によく似てるね。」@
-「………そう？」\
-
+;「………なんだか、君、……この絵の子供によく似てるね。」@
+`"....Hey, you... you look a lot like the kid in this painting."`@
+;「………そう？」\
+`".....Really?"`\
 
 
 ld r,NOD_D3,80
 
-「うん。@髪とか、服とか…。@……ほら、そっくり。」@
-
+;「うん。@髪とか、服とか…。@……ほら、そっくり。」@
+`"Yeah. `@`You hair, your clothes...`@`... they're almost exactly the same."`@
 me1v 16,50
 
 br
-　改めて見ると、彼女は本当に似ていた。@まるで絵からそのまま抜け出して来たかのようだ。\
+;　改めて見ると、彼女は本当に似ていた。@まるで絵からそのまま抜け出して来たかのようだ。\
+` Looking again, she really did bear a resemblence. `@`Almost as if she had crawled out of the very painting itself.`\
 
-
-「………自分じゃあんまり気に入ってないんだけど、ね。@この恰好。」@
+;「………自分じゃあんまり気に入ってないんだけど、ね。@この恰好。」@
+`"....I don't really like it, honestly. `@`This appearance."`@
 br
-　少女が苦笑しながら言う。@
-　おかしなことを言う子だな。@……気に入らないんだったらわざわざそんな恰好しなきゃいいのに。\
-
+;　少女が苦笑しながら言う。@
+` The girl replied with a bitter smile.`@
+;　おかしなことを言う子だな。@……気に入らないんだったらわざわざそんな恰好しなきゃいいのに。\
+` What a strange kid.`@`... If she didn't liked how she looked, then all she had to do was change it.`\
 
 
 
 ld r,NOD_D2,80
 
-「でも……、僕は女の子らしくていいと思うけどな。」@
+;「でも……、僕は女の子らしくていいと思うけどな。」@
+`"But.... I think you look good with a girly look like that."`@
 br
-　嘘ではなかった。@学校に来るにしてはちょっと派手と言うか、@華美過ぎる気はしたけど、可愛らしい彼女の顔にはとてもよく似合っている気がした。\
-
+;　嘘ではなかった。@学校に来るにしてはちょっと派手と言うか、@華美過ぎる気はしたけど、可愛らしい彼女の顔にはとてもよく似合っている気がした。\
+` He wasn't lying. `@`He thought that it was perhaps a bit to flashy for school, `@`but he also felt like it suited the way her face looked perfectly.`\
 
 
 ;cl a,0
 bg black,22
 
-　しかし、裕貴の言葉は、少女は明らかに不機嫌にしたようだった。@
-　露骨に顔をしかめ、大きな目を細めて裕貴を睨んできた。\
-
+;　しかし、裕貴の言葉は、少女は明らかに不機嫌にしたようだった。@
+` But, Yuuki's words had obviously displeased the girl.`@
+;　露骨に顔をしかめ、大きな目を細めて裕貴を睨んできた。\
+` She was obviously scowling. Her large eyes were now narrow and glaring at Yuuki.`\
 
 
 bg bijutu_04,0
 ld c,NOD_D5a,22
 ld c,NOD_D4,80
 
-「…………え、あ……ごめん。」@
+;「…………え、あ……ごめん。」@
+`".....oh, um... I'm sorry."`@
 br
-　慌てて謝る。@………何かまずいこと言ったかな…？\
-
+;　慌てて謝る。@………何かまずいこと言ったかな…？\
+` He frantically apologized.`@`... Did he say something bad...?`\
 
 
 ld c,NOD_D5a,80
 
-「えっと……、もし本当に気に入らないんだったら、服とか変えてみたらどうかな？@　それか、少し髪を切ってみるとか……。」\
+;「えっと……、もし本当に気に入らないんだったら、服とか変えてみたらどうかな？@　それか、少し髪を切ってみるとか……。」\
+`"Umm... if you really don't like how you look, why not try changing your clothes? `@`Or maybe cut your hair shorter..."`\
 
+;　そう言ってから、また「しまった」と思った。@
+` Once again, he immediately regreted opening his mouth.`@
+;　もしかしたら彼女は厳しい家の子で、@着る服や髪型にいたるまで親に決められているのかもしれない。\
+` It's possible that her parents may be strict, `@`and they won't let her choose her own clothes or hairstyle, or something like that.`\
 
-　そう言ってから、また「しまった」と思った。@
-　もしかしたら彼女は厳しい家の子で、@着る服や髪型にいたるまで親に決められているのかもしれない。\
+;　だが、予想に反し、今度は少女は微笑んでくれた。@パッと花が咲いた様な可愛らしい笑顔だった。\
+` But this time, unexpectedly, she smiled at him. `@`Like a a little flower opening up its petals, a cute smile spread across her face.`\
 
-
-　だが、予想に反し、今度は少女は微笑んでくれた。@パッと花が咲いた様な可愛らしい笑顔だった。\
-
-
-「そっか……。@そうだよね。@たまには変えてみるのもいいかも、ね。@ふふふふふ……、そんなこと考えたことなかったな。」@
+;「そっか……。@そうだよね。@たまには変えてみるのもいいかも、ね。@ふふふふふ……、そんなこと考えたことなかったな。」@
+`"I see... `@`You're right. `@`It might be a nice to change things up every once in a while. `@`Fufufufu... I've never thought of it that way before."`@
 br
-　やっぱりおかしなことを言う。@まさかいつも同じ服を着ているわけでもないだろうに。\
-
+;　やっぱりおかしなことを言う。@まさかいつも同じ服を着ているわけでもないだろうに。\
+` She really does say some strange things. `@`There's no way that she would wear the exact same outfit every day.`\
 
 
 bg black,22
 ;ld c,NOD_D1,80
 
-　それでも、少女が機嫌を直してくれたことに内心で、ホッと胸を撫で下ろす。@
-　だが、気持ちが落ち着いてくると、心に小さな焦りが生まれた。\
-
+;　それでも、少女が機嫌を直してくれたことに内心で、ホッと胸を撫で下ろす。@
+` Still, he was relieved that she was in a good mood again.`@
+;　だが、気持ちが落ち着いてくると、心に小さな焦りが生まれた。\
+` But, once he calmed down, a slight impatience crept into his heart.`\
 me2v 11,90
 
 ;bg black,22
 bg bijutu_07,22
 
-　………どうやって彼女を美術室から追い出そう。@
+;　………どうやって彼女を美術室から追い出そう。@
+` ...How was he going to get her to leave the art room?`@
 br
-　この場に、このまま彼女に居続けられては困ったことになる。@
-　裕貴には、この後この美術室でしなければならないことがあるのだ。\
-
+;　この場に、このまま彼女に居続けられては困ったことになる。@
+` If she sticks around this place for much longer, it'll become a problem.`@
+;　裕貴には、この後この美術室でしなければならないことがあるのだ。\
+` Because what Yuuki came to the art room to do, he needed to be alone for.`\
 bg black,22
 ;bg Different_spiral_1b,22
 
-　いや、それを果たして自分が望んでいるのかどうか……、裕貴にはわからなかった。@
-　どうしてこうやって毎日美術室に来てしまうのか。@
-　この行き場のない気持ちから、助かるものなら助かりたいのか。@
+;　いや、それを果たして自分が望んでいるのかどうか……、裕貴にはわからなかった。@
+` No, actually, Yuuki still wasn't sure whether or not he wanted to do it.`@
+;　どうしてこうやって毎日美術室に来てしまうのか。@
+` Why was he coming to this room every single day?`@
+;　この行き場のない気持ちから、助かるものなら助かりたいのか。@
+` He feels like he has nowhere to go, but if someone could save him from that feeling, would he want to be saved?`@
 br
-　……自分の感情のすべてが、淡い絵の具に塗り込められたように曖昧だった。\
-
-　こんな、良く分からない気持ちや苦しみを抱えたままでも生きたいのか、@それともいっそのこと死んで楽になりたいのか。@
+;　……自分の感情のすべてが、淡い絵の具に塗り込められたように曖昧だった。\
+` ...His own feelings felt unclear to him, as if they were covered over with layer of pale paint.`\
+;　こんな、良く分からない気持ちや苦しみを抱えたままでも生きたいのか、@それともいっそのこと死んで楽になりたいのか。@
+` Does he really want to keep living with the pain of having these vague feelings, `@`or would he rather just make it easy on himself and just die.`@
 br
-　………いや、もしかしたら僕は……。\
-
+;　………いや、もしかしたら僕は……。\
+` .....No, perhaps, I....`\
 bg black,22
 
 fedexx 0,50,0,0,0,0,2000
@@ -391,50 +414,57 @@ E_M2
 
 bg bijutu_06,22
 
-　そんなことを考えていると、少女は裕貴から遠ざかる様に扉に向かって歩いていった。@
+;　そんなことを考えていると、少女は裕貴から遠ざかる様に扉に向かって歩いていった。@
+` As he was thinking about this, the girl turned and started walking towards the door, as if she was about to part ways with him.`@
 br
-　もしかして、出て行ってほしい、という自分の気持ちが伝わったのだろうか……？@
-　そんな都合のいいことを考えたが、もちろん言葉にもしないで気持ちなんて伝わるはずもない。\
+;　もしかして、出て行ってほしい、という自分の気持ちが伝わったのだろうか……？@
+` Maybe she picked up on the fact that he wanted her to leave...?`@
+;　そんな都合のいいことを考えたが、もちろん言葉にもしないで気持ちなんて伝わるはずもない。\
+` That what he had hoped, but of course, there's no way that she would have guess that without him telling her.`\
 
 
 
-
-　少女は入り口の近くにかけられた、一枚の絵の前でピタリと歩みを止めた。@
+;　少女は入り口の近くにかけられた、一枚の絵の前でピタリと歩みを止めた。@
+` The girl stooped directly in front of a picture hanging right next to the exit.`@
 br
-　それは油彩画だった。\
-
+;　それは油彩画だった。\
+` It was an oil painting.`\
 bg black,22
 bg kaiga_02,22
 
-　巨大な黒い胸像が、人間の形をした黒い影を押し潰している様子が描かれている。@
-　絵の下には『つぶれた太陽』と題名が書かれた札が貼られている。\
+;　巨大な黒い胸像が、人間の形をした黒い影を押し潰している様子が描かれている。@
+` The painting featured a dark human outline bring crushed by a gigantic black bust.`@
+;　絵の下には『つぶれた太陽』と題名が書かれた札が貼られている。\
+` There was a small piece of paper placed beneath the paiting that titled the work "The Setting Sun."`\
 
-
-　この絵の作者は、かつてこの学校に通っていたらしく、@画家として有名になってから、母校であるこの学校に絵を寄贈したらしい。\
-
+;　この絵の作者は、かつてこの学校に通っていたらしく、@画家として有名になってから、母校であるこの学校に絵を寄贈したらしい。\
+` Apparently the artist of this paiting had once gone to this school. `@`Later in life that person had become a famous artist and donated this painting to his old school.`\
 
 
 ;bg black,1
 ;mono 1
 ;ld c,NOD_D1,22
 
-　………作者の名前は何だったっけ。@
+;　………作者の名前は何だったっけ。@
+` ....What the name of that person again?`@
 br
-　裕貴は、そのことを新谷先生に教えてもらった時のことを思い出した。\
+;　裕貴は、そのことを新谷先生に教えてもらった時のことを思い出した。\
+` Yuuki remembered that Shintani-sensei had told him at one point.`\
 
 
-
-　男子生徒からすごく人気のある、綺麗で優しい美術の先生。@
-　その先生のことを思い浮かべるだけで胸が痛んだ。@切ないような苦しい様な胸の痛み。\
-
+;　男子生徒からすごく人気のある、綺麗で優しい美術の先生。@
+` She was the kind and beautiful art teacher, who happened to be very popular with the boys.`@
+;　その先生のことを思い浮かべるだけで胸が痛んだ。@切ないような苦しい様な胸の痛み。\
+` Just thinking about that teacher caused a pain in his chest. `@`A heartrending and agonizing pain.`\
 
 bg black,22
 ;ld c,NOD_D1,80
 
-　その時、不意に自分の望みが少しだけわかったような気がした。@
+;　その時、不意に自分の望みが少しだけわかったような気がした。@
+` At that moment, he suddenly felt like he understood a little better what his wish was.`@
 br
-　もしかしたら僕は………。\
-
+;　もしかしたら僕は………。\
+` Perhaps, if I could...`\
 
 
 ;bg black,2
@@ -444,7 +474,8 @@ br
 bg kaiga_02,22
 
 
-「………ねぇ、野田裕貴くん。」@
+;「………ねぇ、野田裕貴くん。」@
+`"....Hey, Yuuki Noda."`@
 br
 　絵を見つめたまま、少女が呼びかける。\
 
