@@ -240,7 +240,6 @@ br
 ;bg bijutu_02,0
 ;ld r,NOD_D1,22
 
-;----------------------------
 
 ;　この美術室は、単調な日常から自分を解き放ってくれる、別世界への飛行場。@
 ` This art room frees him from the monotony of his everyday life. It is an airport to another world.`@
@@ -477,28 +476,32 @@ bg kaiga_02,22
 ;「………ねぇ、野田裕貴くん。」@
 `"....Hey, Yuuki Noda."`@
 br
-　絵を見つめたまま、少女が呼びかける。\
-
+;　絵を見つめたまま、少女が呼びかける。\
+` Still looking at the painting, the girl called his name.`\
 
 ld r,NOD_D4,24
 ld r,NOD_D5a,80
 
 
-　裕貴は違和感を覚えた。@自分は少女に名前を名乗っただろうか。@
-　その違和感に付随するように、クラスメート達が噂していた怪談が思い出される。\
-
+;　裕貴は違和感を覚えた。@自分は少女に名前を名乗っただろうか。@
+` Yuuki felt like something was out of place. `@`Had he given the girl his name?`@
+;　その違和感に付随するように、クラスメート達が噂していた怪談が思い出される。\
+` On top of that unease, he remembered the ghost story his classmates had been talking about.`\
 bg black,22
 mono 1
 bg bijutu_01,22
 
 me2v 17,50
 
-　この学校で囁かれる八不思議の中の一つ。@
-　絵の中から抜け出した妖怪が、放課後に美術室を訪れた子供に問い掛けをする。@
-　その問い掛けに正しく答えられなかったものは、……祟られる。@
+;　この学校で囁かれる八不思議の中の一つ。@
+` Whispers about one of the eight mysteries of this school.`@
+;　絵の中から抜け出した妖怪が、放課後に美術室を訪れた子供に問い掛けをする。@
+` About the youkai that would crawl out of a painting after school in the art room, and ask a question.`@
+;　その問い掛けに正しく答えられなかったものは、……祟られる。@
+` If you couldn't answer that question correctly... then you would be cursed.`@
 br
-　その妖怪の名前は……、“美術室のルノワール”。\
-
+;　その妖怪の名前は……、“美術室のルノワール”。\
+` The name of that youkai was... "Renoir of the Art Room."`\
 
 
 ;cl a,0
@@ -510,10 +513,11 @@ bg kaiga_02,22
 
 me3v 5,50
 
-「………この絵の作者、誰だか知ってる？」@
+;「………この絵の作者、誰だか知ってる？」@
+`"....Do you know who made this painting?"`@
 br
-　少女はぞっとするほど綺麗な顔で微笑んだ。\
-
+;　少女はぞっとするほど綺麗な顔で微笑んだ。\
+` A smile crept across her beautiful face that made Yuuki shiver.`\
 bg black,2
 
 fedexx 0,100,100,100,0,0,2000
@@ -525,38 +529,41 @@ E_A
 wait 1000
 
 
-「新谷先生、今日って何か予定ありますか？」\
-
+;「新谷先生、今日って何か予定ありますか？」\
+`"Shintani-sensei, do you have any plans today?"`\
 bg shokuin_03,0
 ld c,NAF_D4,22
 ld c,NAF_D1,80
 
 me1v 24,50
 
-　新谷ナフミ（しんたに　なふみ）がトントン、と机の上で書類を整えていると、頭上に声が落ちて来た。\
+;　新谷ナフミ（しんたに　なふみ）がトントン、と机の上で書類を整えていると、頭上に声が落ちて来た。\
+` Nafumi Shintani (新谷ナフミ) was straightening out a stack of documents on her desk when a voice called out from above her.`\
 
+;　新谷の席は、背中のすぐ後ろにコーヒーメーカーが置かれているため、@職員の大半がコーヒーを注ぎがてら、気軽に声をかけてくる。\
+` Because the coffee maker was located directly behind her seat in the staff room, `@`so it was not uncommon for other staff to make small talk with her while pouring their coffee.`\
 
-　新谷の席は、背中のすぐ後ろにコーヒーメーカーが置かれているため、@職員の大半がコーヒーを注ぎがてら、気軽に声をかけてくる。\
+;　書類を引き出しにしまいながら振り返ると、井俣先生だった。@
+` While putting the papers into a drawer, she turned her head around to see that it was Imata-sensei who was standing behind her.`@
+;　年齢が近いこともあって、彼とは気軽に話せる仲だ。@飲みにでも誘ってくる気かな、と思ったら案の定誘って来た。\
+` The two of them were close in age, so they would often make small talk. `@`Just as she was wondering if he was going to invite her out for drinks like usual, he did just that.`\
 
-
-　書類を引き出しにしまいながら振り返ると、井俣先生だった。@
-　年齢が近いこともあって、彼とは気軽に話せる仲だ。@飲みにでも誘ってくる気かな、と思ったら案の定誘って来た。\
-
-
-「良かったらこの後飲みにでも行きませんか？@　駅前に良い雰囲気のお店、見つけたんですよ。」@
+;「良かったらこの後飲みにでも行きませんか？@　駅前に良い雰囲気のお店、見つけたんですよ。」@
+`"Would you like to go out for drinks after this? `@`I found a pretty nice place right by the train station."`@
 br
-　新谷はすまなそうに顔を歪ませて、その前で手を合わせる。\
-
+;　新谷はすまなそうに顔を歪ませて、その前で手を合わせる。\
+` Shintani made an apologetic face and replied.`\
 
 ld c,NAF_D3,80
 
-「ごめんなさい、今日はこれから美術室で作業があるんですよねー。」\
+;「ごめんなさい、今日はこれから美術室で作業があるんですよねー。」\
+`"I'm sorry, when I'm done here I've got some work to do in the art room today."`\
 
 
-
-　井俣先生の誘いをかわすのはこれで何度目だろう。@
-　毎回理由を付けて断ることに少しだけ罪悪感を感じるが、@懲りずに誘ってくる井俣先生もどうかと思う。\
-
+;　井俣先生の誘いをかわすのはこれで何度目だろう。@
+` Imata-sensei had invited her out many times before.`@
+;　毎回理由を付けて断ることに少しだけ罪悪感を感じるが、@懲りずに誘ってくる井俣先生もどうかと思う。\
+` She was beginning to feel a little guilty always giving an excuse and turning him down, `@`but she was also wondering what he was thinking asking her out so often even though she was turning him down.`\
 
 
 ;cl a,0
@@ -564,65 +571,75 @@ ld c,NAF_D3,80
 bg black,22
 bg shokuin_04,22
 
-　今年で３３歳の彼は、別に恰好悪いわけではない。@清潔感があって保護者からの評判も良かった。@
+;　今年で３３歳の彼は、別に恰好悪いわけではない。@清潔感があって保護者からの評判も良かった。@
+` He turned 33 this year, and it wasn't exactly that he was uncool. `@`He had a good sense of cleanliness, and was popular among parents and other guardians.`@
 br
-　生徒達に「熱血先生」と揶揄されるだけあって、@新谷から見ても単純な人だなぁとは思うけど、裏表のないさっぱりした性格は好感が持てた。\
+;　生徒達に「熱血先生」と揶揄されるだけあって、@新谷から見ても単純な人だなぁとは思うけど、裏表のないさっぱりした性格は好感が持てた。\
+` The students always tease him by calling him Hot-blooded-sensei. `@`Shintani sees him as a relatively plain person, but in truth, his refreshingly simple and honest personality held some appeal.`\
 
-
-　しかし申し訳ないが、新谷は年上の男には余り興味がないのだ。@
-　子供の頃から好きになるのはみんな自分より年下の子たちばかりだった。@それは、四捨五入をすれば３０歳にもなる今に至っても全然変わっていない。@
+;　しかし申し訳ないが、新谷は年上の男には余り興味がないのだ。@
+` But unfortunately, Shintani was not interested in older men.`@
+;　子供の頃から好きになるのはみんな自分より年下の子たちばかりだった。@それは、四捨五入をすれば３０歳にもなる今に至っても全然変わっていない。@
+` Since she was a kid, the only people she was ever attracted to were younger than herself. `@`Even now, at nearly the age of 30, that has not changed.`@
 br
-　井俣先生は露骨に残念そうな顔をする。\
-
+;　井俣先生は露骨に残念そうな顔をする。\
+` Imata-sensei made an obviously disappointed face.`\
 
 bg black,23
 bg shokuin_02,0
 ;ld r,NAF_D1,22
 ;ld r,NAF_D1,23
 
-「そっかあ……。@良かったらその作業、僕も手伝いましょうか？　@……あ、いや、別にそんな、下心とかそういうのがあるわけじゃなくて！」\
+;「そっかあ……。@良かったらその作業、僕も手伝いましょうか？　@……あ、いや、別にそんな、下心とかそういうのがあるわけじゃなくて！」\
+`"I see... `@`Would you like me to help you out with that work?`@`... Ah, I mean, I'm not saying that because of have ulterior motive or anything!"`\
 
-
-　彼が顔を真っ赤にしてそんなことを付け加えるので、私は思わず苦笑してしまった。@
+;　彼が顔を真っ赤にしてそんなことを付け加えるので、私は思わず苦笑してしまった。@
+` As he tried to explain himself, his face got all red. Without thinking, my face formed into a wry smile.`@
 br
-　本当に単純で分かり易い人だ。@これで下心がないんだとしたら、それはそれですごい。\
-
+;　本当に単純で分かり易い人だ。@これで下心がないんだとしたら、それはそれですごい。\
+` He really was a plain and easy-to-read person. `@`If he really didn't have any ulterior motives, then that was quite the reaction.`\
 ld r,NAF_D2,22
 
-「ふふふふふふ、大丈夫ですよ。@手伝ってもらうほどの量でもないんで。」@
+;「ふふふふふふ、大丈夫ですよ。@手伝ってもらうほどの量でもないんで。」@
+`"Fufufufufu, it's fine. `@`It's really not that much work."`@
 br
-　言いながら自分でも下手な言い訳だな、と思った。\
+;　言いながら自分でも下手な言い訳だな、と思った。\
+` As she spoke, she realized what a poor excuse she had given.`\
 
+;　そんなに量がないんなら、さっさと終わらせて一緒に飲みにいけばいいじゃないか、と返されるかもしれない。@
+` If it really didn't have that much work to do, then there's no reason that she couldn't get it done and go drinking with him, and she expected him to pick out that flaw.`@
+;　だが、井俣が返して来た言葉は、それとは別の角度からのものだった。\
+` But Imata's response wasn't what she had expected.`\
 
-　そんなに量がないんなら、さっさと終わらせて一緒に飲みにいけばいいじゃないか、と返されるかもしれない。@
-　だが、井俣が返して来た言葉は、それとは別の角度からのものだった。\
-
-
-「そうですかぁ。@……でもほら、あんな事故の後だし、一人で美術室にいるのは怖いんじゃないですか……？」\
-
+;「そうですかぁ。@……でもほら、あんな事故の後だし、一人で美術室にいるのは怖いんじゃないですか……？」\
+`"Ah, Okay.`@`... but, aren't you afraid to go into the art room alone after that incident...?"`\
 
 
 ld r,NAF_D4a,80
 
-　笑っていた新谷の顔が強張った。@
+;　笑っていた新谷の顔が強張った。@
+` Shintani strained to maintain her smile.`@
 br
-　『あんな事故』、@……その言葉に一人の生徒の顔が鮮明に蘇る。@
-　井俣先生がしまった、という顔を浮かべて謝った。\
+;　『あんな事故』、@……その言葉に一人の生徒の顔が鮮明に蘇る。@
+` 'that incident'`@`... Those words alone made her vividly recall one student's face.`@
+;　井俣先生がしまった、という顔を浮かべて謝った。\
+` Imata-sensei's face immediately turned to an expression of regret and he apologized.`\
 
-
-「あ、ごめんなさい！@　無神経なことを言ってしまって。」@
-
+;「あ、ごめんなさい！@　無神経なことを言ってしまって。」@
+`"Ah, I'm sorry! `@`I said something I shouldn't have."`@
 ld r,NAF_D2,80
 
-「いえ……。@……大丈夫です。」@
+;「いえ……。@……大丈夫です。」@
+`"No....`@`... It's fine."`@
 br
-　かろうじて平静を取り戻して言うと、井俣先生がわざとらしく明るい声を出した。\
+;　かろうじて平静を取り戻して言うと、井俣先生がわざとらしく明るい声を出した。\
+` She was just barely able to reply calmly. Imata-sensei replied with a force cheer in his voice.`\
 
-
-「……あんなの、ただの噂ですよね、噂。」@
+;「……あんなの、ただの噂ですよね、噂。」@
+`"...That was just a rumor, right? A rumor."`@
 br
-　噂。@……生徒たちの話題は今、その“噂”で持ち切りだ。\
-
+;　噂。@……生徒たちの話題は今、その“噂”で持ち切りだ。\
+` A rumor.`@`... Right now, that 'rumor' was the hot topic among the students.`\
 
 ;cl a,0
 bg black,22
@@ -636,7 +653,6 @@ bgm1 8
 
 「“美術室のルノワール”……ですか？」@
 「……くだらないですよね。@子供ってなんでああいう噂が好きなんでしょう。@……自分たちの友達が亡くなったって言うのに……。」\
-
 
 「……だからじゃないですか？」@
 「え？」@
