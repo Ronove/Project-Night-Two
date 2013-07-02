@@ -1279,55 +1279,68 @@ ld l,MIC_D2,24
 ;　……今はいい。@
 ` Now's good.`@
 br
-　しかし、生涯、挨拶が出来ないとは、どういうことだろう。@
-　進級してクラス替えをして。@……新しいクラスで新しいクラスメートたちに出会っても、私は一切、挨拶をしないということだ。\
-
+;　しかし、生涯、挨拶が出来ないとは、どういうことだろう。@
+` But what did they mean when they said they couldn't greet anyone?`@`
+;　進級してクラス替えをして。@……新しいクラスで新しいクラスメートたちに出会っても、私は一切、挨拶をしないということだ。\
+` Even when being moved up a year to a new class,`@`I wasn't to greet any of my new classmates.`\
 bg black,22
 
-　誰にも挨拶をしない人間とは、………どういう人間だろう。@
+;　誰にも挨拶をしない人間とは、………どういう人間だろう。@
+` What kind of human is one that doesn't greet anyone?`@
 br
-　言うまでもない。@
-　挨拶されても、返さない。@
-　こちらからも、誰にも挨拶しない。\
-
+;　言うまでもない。@
+` It goes without saying,`@
+;　挨拶されても、返さない。@
+` Even if I am greeted, I can't return the greeting.`@
+;　こちらからも、誰にも挨拶しない。\
+` From now on, I can't greet anyone.`\
 bg kyou_03,22
 
-　思えば、挨拶というのは対人関係全ての始まりみたいなものだ。@
-　それ無くして成り立つ友情なんて、皆無だろう。@
+;　思えば、挨拶というのは対人関係全ての始まりみたいなものだ。@
+` When I think about it, a greeting is the start of any interpersonal relationship.`@
+;　それ無くして成り立つ友情なんて、皆無だろう。@
+` By eliminating that, I would have no friendships.`@
 br
-　つまり、……生涯の挨拶を捧げるというのは、生涯、誰とも友人にならないということ。@
-　生涯の友人を全て捧げるというのと、同じことなのだ。\
-
+;　つまり、……生涯の挨拶を捧げるというのは、生涯、誰とも友人にならないということ。@
+` In other words, by not giving any greeting in life, one can never become friends.`@
+;　生涯の友人を全て捧げるというのと、同じことなのだ。\
+` It's tantamount to sacrificing all of one's friends.`\
 ld r,MIC_D2,22
 ;ld r,MIC_D1,80
 
-　……そうやって考えてみると、……決して侮れない、恐ろしい対価に思える。@
+;　……そうやって考えてみると、……決して侮れない、恐ろしい対価に思える。@
+` Thinking of it that way, it seems a terrible price.`@
 br
-　しかし、………さらに考えれば、……これほど安い対価もない。@
-　元々、私には智子ちゃんと出会うまでに友人なんて一人もいないし、@……これからも一人も出来ないだろう。\
-
+;　しかし、………さらに考えれば、……これほど安い対価もない。@
+` However, if you consider it further, to get this far there is no small price to pay.`@
+;　元々、私には智子ちゃんと出会うまでに友人なんて一人もいないし、@……これからも一人も出来ないだろう。\
+` In the beginning, before I met Tomoko, I had not one friend.`@`And, now I'm by myself again.`\
 ld r,MIC_D1,80
 
-　ならば挨拶なんて、出来なくなっても、何も問題ないではないか。@
+;　ならば挨拶なんて、出来なくなっても、何も問題ないではないか。@
+` So then, are there any problems with not being able to greet people?`@
 br
-　智子ちゃんにだけは、挨拶をすることが許されている。\
-
+;　智子ちゃんにだけは、挨拶をすることが許されている。\
+` I'm only allowed to greet Tomoko-chan.`\
 ;ld r,MIC_D1,80
 
-　そう。@何も問題はないのだ。@
+;　そう。@何も問題はないのだ。@
+` Yes.`@`There are no problems.`@
 br
-　私はこれまでも無口だったし、友達などいない。\
-
+;　私はこれまでも無口だったし、友達などいない。\
+` I was silent thus far, and had no friends.`\
 
 bg black,22
 se1v 69,30
 bg kyou_01,22
 
-　ほら。@……こうして一日、学校で過ごしても、何の不自由もなかった。@
+;　ほら。@……こうして一日、学校で過ごしても、何の不自由もなかった。@
+` Look,`@`...even if I spend the first day of them month in school like this, there's nothing there I need.`@
 br
-　………生涯。@友達なんているものか。@
-　智子ちゃんただ一人さえ帰ってきてくれたなら、……いらない。@生涯、友達なんて。\
-
+;　………生涯。@友達なんているものか。@
+` No lifelong friends at any rate.`@
+;　智子ちゃんただ一人さえ帰ってきてくれたなら、……いらない。@生涯、友達なんて。\
+` If Tomoko comes back to me,`@`I don't need life or other friends.`\
 bg black,2
 
 fede 0,2000
@@ -1337,49 +1350,54 @@ bg mahou_01,22
 
 bgm1 18
 
-　その晩。@再び魔法陣に、大悪魔は現れてくれた。\
-
+;　その晩。@再び魔法陣に、大悪魔は現れてくれた。\
+` That night,`@`the demon appeared again.`\
 se1 66
 bg e005,6
 
-「……さっそく、吾輩との契約を守っているようだな。@感心であるぞ……。」\
-
+;「……さっそく、吾輩との契約を守っているようだな。@感心であるぞ……。」\
+`"It looks like you've defended our contract.`@`I'm impressed..."`\
 bg black,22
 bg ie_06,0
 ld c,MIC_D2,22
 ld c,MIC_D1,80
 
-「だから、あなたも契約を守って下さい。」\
+;「だから、あなたも契約を守って下さい。」\
+`"Well then, uphold your end of the bargain."`\
 
 
-
-「うむ、わかっているぞ、桜田みちるよ。@……そなたの友人、岡田智子の魂を蘇らせる秘術、調べてきたぞ……。」@
-
+;「うむ、わかっているぞ、桜田みちるよ。@……そなたの友人、岡田智子の魂を蘇らせる秘術、調べてきたぞ……。」@
+`"Yes, we know, Sakurada Michiru.`@`....We have checked on how to revive the soul of your friend..."`@
 ld c,MIC_D3,80
 
-「ありがとうございます……。」\
+;「ありがとうございます……。」\
+`"Thank you....."`\
 
 
-
-　どんな秘術だろう。@
-　可能であるとは保証されている。@
+;　どんな秘術だろう。@
+` What type of spell could it be?`@
+;　可能であるとは保証されている。@
+` It was guaranteed to be feasible.`@
 br
-　しかし、……容易なものであるとは、到底思えない。\
-
+;　しかし、……容易なものであるとは、到底思えない。\
+` But, I didn't think it would be easy.`\
 ld c,MIC_D1,80
 
-　でも、……やるしかないんだ。@
-　私には智子ちゃんしかいない。@
+;　でも、……やるしかないんだ。@
+` But....I could do it.`@
+;　私には智子ちゃんしかいない。@
+` I would do it for her.`@
 br
-　そしてこれからも。@……智子ちゃん以外はいないんだ。\
-
+;　そしてこれからも。@……智子ちゃん以外はいないんだ。\
+` And then, from now on,`@`there'd be nobody other than Tomoko.`\
 bg black,22
 
 「死者蘇生の秘術には、まず霊力の高い場所での儀式が必要となる。@この辺り一帯では、そなたの通っている学校がちょうど良い。@……あの学校の旧校舎は、かなりの心霊スポットの様子。@……その旧校舎の、深夜の屋上で、執り行うこととなろう。」\
 
 bg okujou_01y,22
 
-　旧校舎なら、前にも忍び込んだことがある。@
+;　旧校舎なら、前にも忍び込んだことがある。@
+` If it was the Old School Building, I can crept in there before.`@
 br
 　あの旧校舎には、様々な霊が集まり、人ならざる世の濃密なエネルギーが満ちている。@
 　死者蘇生の大秘術を執り行える唯一の場所として相応しいだろう。\
