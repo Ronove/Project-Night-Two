@@ -650,38 +650,43 @@ E_A
 bg shokuin_04,22
 
 bgm1 8
+;「“美術室のルノワール”……ですか？」@
+`"You mean 'Renoir of the Art Room'?"`@
+;「……くだらないですよね。@子供ってなんでああいう噂が好きなんでしょう。@……自分たちの友達が亡くなったって言うのに……。」\
+`"...How silly. `@`Why do kids even like rumors like that?`@`... Even though one have their friends has passed away..."`\
+;「……だからじゃないですか？」@
+`"...Isn't it because of that reason?"`@
+;「え？」@
+`"Huh?"`@
+;「友達が一人死ぬって、すごく大変なことだと思うんですよ。@子供が受け入れるには重過ぎるくらい。@……だから、妖怪とか、@そういう自分たちの知らない不思議な存在のせいって考えたくなるんじゃないですかね。」\
+`"Having one of your friends die is a very serious thing to go through. `@`Maybe too serious for children to accept.`@`... So, it might be easier... `@`for them to place the blame on youkai or something else enigmatic like that."`\
 
-「“美術室のルノワール”……ですか？」@
-「……くだらないですよね。@子供ってなんでああいう噂が好きなんでしょう。@……自分たちの友達が亡くなったって言うのに……。」\
-
-「……だからじゃないですか？」@
-「え？」@
-「友達が一人死ぬって、すごく大変なことだと思うんですよ。@子供が受け入れるには重過ぎるくらい。@……だから、妖怪とか、@そういう自分たちの知らない不思議な存在のせいって考えたくなるんじゃないですかね。」\
-
-
-「……もしかして、新谷先生も信じてるんですか？」@
-「いえ。@……でも、信じたくなる時はありますよ。@私がもっとちゃんと気を配っていたら、あんなことにはならなかったんじゃないかって。@……そう思って落ち込んじゃう時もありますから。」\
-
+;「……もしかして、新谷先生も信じてるんですか？」@
+`"...Shintani-sensei, could it be that you also believe in that stuff?"`@
+;「いえ。@……でも、信じたくなる時はありますよ。@私がもっとちゃんと気を配っていたら、あんなことにはならなかったんじゃないかって。@……そう思って落ち込んじゃう時もありますから。」\
+`"No.`@`... But sometimes I want to. `@`Sometimes, when I'm feeling down I start to think... `@`If only I had paid better attention, maybe I could have prevented that from happening."`\
 bg black,22
 
-「そんな！@　……あれは事故です！@　絶対に先生のせいなんかじゃありませんよ！」@
-「ありがとうございます。」\
-
+;「そんな！@　……あれは事故です！@　絶対に先生のせいなんかじゃありませんよ！」@
+`"Don't think like that!`@`... That was just an accident! `@`There's no way at all that you were at fault!"`@
+;「ありがとうございます。」\
+`"Thank you."`\
 bg shokuin_03,22
 ld c,NAF_D4,26
 ;ld c,NAF_D3,80
 
-　無理矢理笑顔を作ると、新谷は立ち上がった。\
-
+;　無理矢理笑顔を作ると、新谷は立ち上がった。\
+` Shintani forced herself to smile and stood up.`\
 ld c,NAF_D2,80
 
-「……それじゃあ、私行きますね。@お疲れさまでした、井俣先生。」@
+;「……それじゃあ、私行きますね。@お疲れさまでした、井俣先生。」@
+`"...Well then, I'll be going now. `@`Goodbye, Imata-sensei."`@
 br
 
 cl a,23
 
-　まだ何か言いたそうな井俣先生に背を向け、足早に職員室から出た。\
-
+;　まだ何か言いたそうな井俣先生に背を向け、足早に職員室から出た。\
+` Imata-sensei looked like he had something else to say, but she pretended not to notice and quickly turned and left the staff room.`\
 se1 82
 bg black,24
 bg rouka_02,24
@@ -694,16 +699,19 @@ ld r,NAF_D4a,22
 ;se1v 7,30
 ;quakey 1,100
 
-　後ろ手で扉をピシャリと閉めて、深い溜め息を吐き、思わずその場にしゃがみこむ。@
-　膝が床にあたり、ガツッと鈍い音を立てる。@少しだけ遅れて痛みがやってきた。\
-
+;　後ろ手で扉をピシャリと閉めて、深い溜め息を吐き、思わずその場にしゃがみこむ。@
+` She shut the door behind her and let out a deep sigh, involuntarily dropping into a crouch.`@
+;　膝が床にあたり、ガツッと鈍い音を立てる。@少しだけ遅れて痛みがやってきた。\
+` Her knees struck the floor and made a dull thud. `@`A short moment later a slight pain spread through her legs.`\
 me1v 5,50
 
-　あれから数週間も経つのに、未だにあの日のことを思い出すと、心がひどく痛む。@
-　閉じかけた傷を指で無理矢理、開かれるかの様な暴力的な痛み。@
+;　あれから数週間も経つのに、未だにあの日のことを思い出すと、心がひどく痛む。@
+` It's been a few weeks since that incident, but the thought of it still brings a pain to her heart.`@
+;　閉じかけた傷を指で無理矢理、開かれるかの様な暴力的な痛み。@
+` It was a violent pain, like having a healing wound reopned by someone digging their fingers into it.`@
 br
-　再び一人の男の子の顔が思い出される。\
-
+;　再び一人の男の子の顔が思い出される。\
+` Once again, she remembered the face of that boy.`\
 
 bg black,22
 ;bg black,0
@@ -711,13 +719,14 @@ mono 1
 bg different_spiral_1a,0
 ld c,NOD_D3,22
 
-　死んでしまった男子生徒。@容赦のない息苦しさに胸が圧迫された。@
+;　死んでしまった男子生徒。@容赦のない息苦しさに胸が圧迫された。@
+` The face of that boy who had died. `@`Her chest mercilessly and suffocatingly seized up her chest.`@
 br
-　……誰に言うでもなく、新谷は呟く。\
+;　……誰に言うでもなく、新谷は呟く。\
+` ...Shintani muttered to herself, too quiet for anyone else to hear.`\
 
-
-「裕貴くん……。@……どうしてあんなことに…………。」\
-
+;「裕貴くん……。@……どうしてあんなことに…………。」\
+`"Yuuki...`@`...Why? Why did that have to happen to you..."`\
 cl c,2
 
 bg black,22
@@ -727,29 +736,31 @@ E_MA
 
 bg bijutu_01,22
 
-　野田裕貴が亡くなったのは先月のことだった。@
+;　野田裕貴が亡くなったのは先月のことだった。@
+` Yuuki Noda passed away last month.`@
 br
-　放課後、校内を見回っていた教師が、美術室で、石膏像の下敷きになっている彼の遺体を発見したのだ。\
-
+;　放課後、校内を見回っていた教師が、美術室で、石膏像の下敷きになっている彼の遺体を発見したのだ。\
+` A teacher patrolling the building after school found him crushed underneath a plaster bust in the art room.`\
 
 bg black,22
 ;bg black,1
 bg bijutu_04,22
 
-　石膏像はギリシャ彫刻を複製して作られたかなり大きなもので、デッサンの練習用にと置かれているものだった。\
+;　石膏像はギリシャ彫刻を複製して作られたかなり大きなもので、デッサンの練習用にと置かれているものだった。\
+` It was a rather large bust, and was a reproduction of a Greek sculpture that was used in class to practice sketching.`\
 
-
-　野田裕貴はそれで後頭部を強く打った。@直接の死因はそれによる失血らしいが、ほとんど即死だったろうという話だ。\
-
+;　野田裕貴はそれで後頭部を強く打った。@直接の死因はそれによる失血らしいが、ほとんど即死だったろうという話だ。\
+` It hit Yuuki Noda on the back of his head. `@`Officially, the cause of death was extensive blood loss, but he probably died instantaneously.\
 
 
 bg black,22
 mono 0
 
-　恐らくだが、放課後、美術室に来た野田裕貴は、躓くか何かして机の下に倒れ込んだ。@
+;　恐らくだが、放課後、美術室に来た野田裕貴は、躓くか何かして机の下に倒れ込んだ。@
+` Most likely, Yuuki Noda went to the art room after school and somehow tripped and fell under the desk supporting the bust.`@
 br
-　その時、彼の身体が机の支柱に当たってしまい、@上に置かれていた石膏像がバランスを崩し、裕貴の上に覆い被さるように倒れてきた……。\
-
+;　その時、彼の身体が机の支柱に当たってしまい、@上に置かれていた石膏像がバランスを崩し、裕貴の上に覆い被さるように倒れてきた……。\
+` At that point, he bumped the legs of desk, `@`and the bust resting on top of it lost its balance and came toppling onto Yuuki...`\
 bg blood_1b,4
 ;wait 1000
 
@@ -757,10 +768,11 @@ bg black,42
 mono 1
 bg bijutu_03,22
 
-　……状況から考えて、大方そんなところだろう。@彼の死は不幸な事故と判断された。@
+;　……状況から考えて、大方そんなところだろう。@彼の死は不幸な事故と判断された。@
+` ...That is nearly everything that is known regarding the circumstances of the incident. `@`It was judged that his death was just an unfortunate accident.`@
 br
-　しかし、その一方で、生徒たちの間でこんな噂が囁かれていた……。\
-
+;　しかし、その一方で、生徒たちの間でこんな噂が囁かれていた……。\
+` But in the meantime, a rumor has been spreading among the students...`\
 
 bg black,2
 ;mono 0
@@ -770,37 +782,43 @@ bg black,2
 E_A
 
 br
-　野田裕貴は、“美術室のルノワール”の祟りにあって死んでしまったのではないか……？\
-
+;　野田裕貴は、“美術室のルノワール”の祟りにあって死んでしまったのではないか……？\
+` A rumor that Yuuki Noda was cursed to his death by 'Renoir of the Art Room'...`\
 bgm1 9
 
 bg kaiga_02,22
 
-　“美術室のルノワール”と言うのはこの学校に伝わる八不思議の一つだ。@
-　普通、学校の怪談と言えば、七不思議が定番だが、@この学校ではいつの間にかそれよりも一つ多い八不思議になっていた。@
+;　“美術室のルノワール”と言うのはこの学校に伝わる八不思議の一つだ。@
+` 'Renoir of the Art Room' is one of the eight mysteries handed down from year to year in this school.`@
+;　普通、学校の怪談と言えば、七不思議が定番だが、@この学校ではいつの間にかそれよりも一つ多い八不思議になっていた。@
+` As far as school ghost stories go, normally there would only be seven mysteries, `@`but at some point this school gained an eighth mystery.`@
 br
-　まあ、これくらい大きなマンモス校なら、一つや二つ多くてもおかしくはないのかもしれないが……。\
-
+;　まあ、これくらい大きなマンモス校なら、一つや二つ多くてもおかしくはないのかもしれないが……。\
+` Well, it's not too odd for a mammoth school like this one to gain one or two more...`\
 ;bg black,22
 ;bg black,0
 ;mono 2
 ;bg different_spiral_1a,22
 
 
-　それはこんな怪談だ。@
+;　それはこんな怪談だ。@
+` This is the story.`@
 br
-　放課後、一人で美術室にいると、“ルノワール”という子供の妖怪が現れ、いくつかの問い掛けをしてくる。@
-　その問いには正しく答えなければならない。@もしも嘘をついたり、間違えたりすると、ルノワールの恐ろしい祟りにあう……。\
-
+;　放課後、一人で美術室にいると、“ルノワール”という子供の妖怪が現れ、いくつかの問い掛けをしてくる。@
+` If you go into the art room alone after school, a young youkai named 'Renoir' will appear before you and ask you a few questions.`@
+;　その問いには正しく答えなければならない。@もしも嘘をついたり、間違えたりすると、ルノワールの恐ろしい祟りにあう……。\
+` You must answer those questions correctly. `@`If you lie, or answer incorrectly, Renoir will force upon you a terrible curse...`\
 bg black,22
 ;mono 0
 bg rouka_04,22
 
-　野田裕貴が死んだのはその祟りのせいではないか……？@
-　彼は、ルノワールの問い掛けに間違って答えたために殺されたのではないか……？@
+;　野田裕貴が死んだのはその祟りのせいではないか……？@
+` Was that curse to blame for Yuuki Noda's death...?`@
+;　彼は、ルノワールの問い掛けに間違って答えたために殺されたのではないか……？@
+` Was he killed because he answered Renoir's questions incorrectly...?`@
 br
-　今、学校はそんな噂で持ち切りだった。\
-
+;　今、学校はそんな噂で持ち切りだった。\
+` That is the rumor that was being spread around the school right now.`\
 
 bg black,2
 mono 0
@@ -811,29 +829,34 @@ bg rouka_02,22
 ld r,NAF_D4a,22
 
 
-　だが、新谷はそんな噂は一切信じていなかった。@
+;　だが、新谷はそんな噂は一切信じていなかった。@
+` But Shintani doesn't believe that rumor in the slightest.`@
 br
-　彼が死んだのは、怪談のせいなんかじゃない。@“ルノワール”なんてふざけた名前の妖怪のせいじゃ、絶対にない……。\
-
+;　彼が死んだのは、怪談のせいなんかじゃない。@“ルノワール”なんてふざけた名前の妖怪のせいじゃ、絶対にない……。\
+` His death wasn't because of some ghost story. `@`He didn't die because of some silly youkai named Renoir. She was sure of that...`\
 
 
 ;ld r,NAF_D1,80
 
-　しかし、どんな原因だったにせよ、彼が死んだ事実に変わりはなかった。@
-　裕貴くんはもうこの世にいない。@彼にはもう二度と会えない。@
+;　しかし、どんな原因だったにせよ、彼が死んだ事実に変わりはなかった。@
+` But, no matter where the blame is place, that doesn't changed the reality that he is dead.`@
+;　裕貴くんはもうこの世にいない。@彼にはもう二度と会えない。@
+` Yuuki is no longer in this world. `@`She will never see him again.`@
 br
-　目を瞑ると、瞼の裏側に彼の姿が浮かび上がった。\
-
+;　目を瞑ると、瞼の裏側に彼の姿が浮かび上がった。\
+` When she closes her eyes, she can still see the way he looked on the inside of her eyelids.`\
 
 ;cl a,0
 bg black,22
 ld c,NOD_D3,22
 
-『……僕、新谷先生のファンだったんです。@』
+;『……僕、新谷先生のファンだったんです。@』
+`"...I'm your biggest fan, Shintani-sensei"`@
 br
-　俯きながら、照れ臭そうに微笑んでいた彼の顔。@
-　あの笑顔を、こうやってすぐに思い出すことが出来る。@でも実際に見ることはもう二度と出来ない。\
-
+;　俯きながら、照れ臭そうに微笑んでいた彼の顔。@
+` His smiling face, looking down at his feet bashfully.`@
+;　あの笑顔を、こうやってすぐに思い出すことが出来る。@でも実際に見ることはもう二度と出来ない。\
+` She could so easily remember his smiling face. `@`But never again could she see it with her own eyes.`\
 bg black,22
 
 fede 0,1000
@@ -843,33 +866,39 @@ bg rouka_02,22
 
 me1v 5,50
 
-　書きかけの、あの絵を完成させることも永遠に叶わないのだ……。@
-　……それを思うと、再び深い溜め息が込み上げてきた。@
+;　書きかけの、あの絵を完成させることも永遠に叶わないのだ……。@
+` Nor could she ever complete her painting she had been working on...`@
+;　……それを思うと、再び深い溜め息が込み上げてきた。@
+` ...When she realized that, she let out another deep sigh.`@
 br
-　吐き出された溜め息は身体の線をなぞるように足元に下りると、澱の様に重く重く垂れ込めた。\
+;　吐き出された溜め息は身体の線をなぞるように足元に下りると、澱の様に重く重く垂れ込めた。\
+` The sigh spread throughout her body, descending down to her feet and hanging heavily there like sediment in a glass.`\
 
-
-　そのままジッとしてると、その澱みに足をとられて一歩も動けなくなりそうだった。@
+;　そのままジッとしてると、その澱みに足をとられて一歩も動けなくなりそうだった。@
+` If she remained motionless she was afraid that she would be unable to get up and move another step.`@ 
 br
-　グッと身体に力を入れて、澱みに飲み込まれる前に、無理矢理立ち上がる。\
-
+;　グッと身体に力を入れて、澱みに飲み込まれる前に、無理矢理立ち上がる。\
+` She used all of her strength to force herself to stand before that could happen.`\
 
 ld c,NAF_D4a,6
 ;ld r,NAF_D1,26
 
-　……ふと膝を見ると血が滲んでいた。@
+;　……ふと膝を見ると血が滲んでいた。@
+` ...When she looked down, she saw that her legs were stained with blood.`@
 br
-　擦り剥いてしまったみたいだ。\
-
+;　擦り剥いてしまったみたいだ。\
+` She must have skinned her knees.`\
 
 ld c,NAF_D2,80
 ;ld r,NAF_D1,80
 
-　傷を指でそっとなぞる。@そこから漂う鉄のような匂いが微かに鼻孔をかすめた。@
+;　傷を指でそっとなぞる。@そこから漂う鉄のような匂いが微かに鼻孔をかすめた。@
+` She gently reached down and traced the cuts with her fingers. `@`A faint iron-like smell drifted up to her nose.`@
 br
-　……保健室に行って絆創膏でも貰おうか。@
-　新谷は指についた血をハンカチで拭うと、まだ脳裏をちらつく野田裕貴の残像を振り切る様に歩き出した。\
-
+;　……保健室に行って絆創膏でも貰おうか。@
+` Should she go to the infirmary and get a bandage?`@
+;　新谷は指についた血をハンカチで拭うと、まだ脳裏をちらつく野田裕貴の残像を振り切る様に歩き出した。\
+` Shintani wiped the blood from her fingers on a handkerchief and began walking, trying to get the image of Yuuki Noda to leave her mind.`\
 bg black,2
 bg gakkou_01u,22
 wait 2000
@@ -888,14 +917,16 @@ ld r,NAF_D1,22
 
 bgm1 8
 
-「また長居しちゃったな……。@早く作業終わらせないと、本当に夜になっちゃいそう。」\
+;「また長居しちゃったな……。@早く作業終わらせないと、本当に夜になっちゃいそう。」\
+`"I've stayed after too long again... `@`I need to hurry up and finish my work or it really will get dark."`\
 
+;　４階までの階段を上がりながら、新谷は時計を気にした。@
+` Shintani glanced at the time on her way up the stairs to the 4th floor.`@
+;　保健の先生も、井俣先生と同様に新谷と歳が近いので、たまに保健室に行くとついつい話し込んでしまう。\
+` The school nurse was also close in age to her and Imata-sensei, so every once in a while Shintani would end up going to the infirmary to talk to her.`\
 
-　４階までの階段を上がりながら、新谷は時計を気にした。@
-　保健の先生も、井俣先生と同様に新谷と歳が近いので、たまに保健室に行くとついつい話し込んでしまう。\
-
-
-　少し天然なところがあるが、さっぱりした性格の彼女は話し易くて好きだ。@
+;　少し天然なところがあるが、さっぱりした性格の彼女は話し易くて好きだ。@
+` She was nice. Maybe a little ditzy somtimes, but Shintani still enjoyed talking with her.`@
 　絆創膏をもらうだけのつもりだったのに、お茶までご馳走になってしまった。\
 
 
