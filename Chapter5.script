@@ -1399,9 +1399,10 @@ bg okujou_01y,22
 ;　旧校舎なら、前にも忍び込んだことがある。@
 ` If it was the Old School Building, I can crept in there before.`@
 br
-　あの旧校舎には、様々な霊が集まり、人ならざる世の濃密なエネルギーが満ちている。@
-　死者蘇生の大秘術を執り行える唯一の場所として相応しいだろう。\
-
+;　あの旧校舎には、様々な霊が集まり、人ならざる世の濃密なエネルギーが満ちている。@
+` It's full of the energies of various spirits not of the world of humans.`@
+;　死者蘇生の大秘術を執り行える唯一の場所として相応しいだろう。\
+` It would be the place most suitable for a resurrection.`\
 
 
 「その屋上にて秘術の魔法陣を描き、清めの炎を灯すことで、@岡田智子の魂を束の間、呼び戻すことが出来よう。@……そして、岡田智子の魂に呼び掛け、友情を確かめることが出来れば、@その魂を現世に留めることが出来るようになる……。」\
@@ -1411,32 +1412,37 @@ bg ie_06,0
 ld c,MIC_D1,22
 ld c,MIC_D3,80
 
-　……旧校舎の屋上で、魔法陣を描き、清めの炎で智子の魂を呼び戻す。@
+;　……旧校舎の屋上で、魔法陣を描き、清めの炎で智子の魂を呼び戻す。@
+` On the roof, I draw a magic circle and call Tomoko's soul forth from the cleansing flame.`@
 br
-　想像していたより簡単そうだ。@
-　生贄に赤子の心臓を捧げよなんて言われなくて良かった。\
-
+;　想像していたより簡単そうだ。@
+` It's easier than I had imagined.`@
+;　生贄に赤子の心臓を捧げよなんて言われなくて良かった。\
+` It was good I hadn't been told to sacrifice the heart of a baby, or something.`\
 
 
 「想像より簡単そうであるか？@　ふふふ、それは秘術を行なうその瞬間まで、わからぬというもの。@……魔法陣は紙に書き、予め用意しておけば良いだろう。@……あとは炎を灯せるように、ライターくらいは用意せよ。@それから、魂を呼び出すために、岡田智子ともっとも結びつきの強い思い出の品が必要だ。」\
 
 ld c,MIC_D4,80
 
-「智子ちゃんの依り代にするぬいぐるみは？」@
-「持ってこなくて良いぞ。@秘術を終えたら、岡田智子の魂と共に帰宅し、そのぬいぐるみを住処として与えればよいだけの話だ。」\
-
+;「智子ちゃんの依り代にするぬいぐるみは？」@
+`"Tomoko-chan's stuffed animal?"`@
+;「持ってこなくて良いぞ。@秘術を終えたら、岡田智子の魂と共に帰宅し、そのぬいぐるみを住処として与えればよいだけの話だ。」\
+`"It's alright if you didn't bring it.`@`Just so long as when you're done with the spell and return home with Tomoko's soul, you give the stuffed toy shelter."`\
 ;ld c,MIC_D1,80
 
-　何だか、ハムスターか何かを飼う話のようだ。@
-　少なくとも、現時点では何れも難しい話ではない。@
+;　何だか、ハムスターか何かを飼う話のようだ。@
+` Somehow, it was like taking care of a hamster or something.`@
+;　少なくとも、現時点では何れも難しい話ではない。@
+` At least, it wasn't something difficult.`@
 br
-　強いて言えば、旧校舎への侵入がもっとも手間だが、……過去にもやっている。@大した手間じゃない。\
-
+;　強いて言えば、旧校舎への侵入がもっとも手間だが、……過去にもやっている。@大した手間じゃない。\
+` Getting into the school building is the most difficult part..`@`after that it's not too hard.`\
 bg black,22
 bg ie_04,22
 
-　みちるは、予め画用紙に書いた魔法陣とライター。@そして智子との思い出の詰まったノートの束を鞄に詰めて、深夜を待ち、学校へ向かった………。\
-
+;　みちるは、予め画用紙に書いた魔法陣とライター。@そして智子との思い出の詰まったノートの束を鞄に詰めて、深夜を待ち、学校へ向かった………。\
+` Michiru filled her bag with magic notes, drawing paper, a cigarette lighter,`@`and the notebooks containing memories of Tomoko. She waited till midnight, then set of for school...`\
 bg black,2
 
 fede 0,2000
@@ -1447,15 +1453,17 @@ bg gakkou_07y,22
 
 me1v 35,50
 
-　……静寂をより一層感じさせる虫の声。@
+;　……静寂をより一層感じさせる虫の声。@
+` She could feel the sounds of the insects in the silence.`@
 br
-　月明かりに照らし出された旧校舎は、……ただただ静かに、その巨体を横たえている。\
+;　月明かりに照らし出された旧校舎は、……ただただ静かに、その巨体を横たえている。\
+` The large schoolhouse, lay alone, bathed in moonlight.`\
 
-
-　以前、忍び込んだ窓は、未だにガラスが割れたままになっていた。@
+;　以前、忍び込んだ窓は、未だにガラスが割れたままになっていた。@
+` The window she used before still had its glass broken.`@
 br
-　そこより、そっと校内に忍び込む。\
-
+;　そこより、そっと校内に忍び込む。\
+` And so she climbed inside.`\
 bg black,22
 bg k_rouka_03,22
 ;ld c,MIC_D1,22
