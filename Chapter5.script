@@ -1442,7 +1442,7 @@ bg black,22
 bg ie_04,22
 
 ;　みちるは、予め画用紙に書いた魔法陣とライター。@そして智子との思い出の詰まったノートの束を鞄に詰めて、深夜を待ち、学校へ向かった………。\
-` Michiru filled her bag with magic notes, drawing paper, a cigarette lighter,`@`and the notebooks containing memories of Tomoko. She waited till midnight, then set of for school...`\
+` Michiru filled her bag with a magic square, drawing paper, a cigarette lighter,`@`and the notebooks containing memories of Tomoko. She waited till midnight, then set of for school...`\
 bg black,2
 
 fede 0,2000
@@ -1468,15 +1468,17 @@ bg black,22
 bg k_rouka_03,22
 ;ld c,MIC_D1,22
 
-　普通の生徒ならば、@不気味な旧校舎に、こんな時間にひとりで入り込むなど、絶対に出来ないだろう。\
-
+;　普通の生徒ならば、@不気味な旧校舎に、こんな時間にひとりで入り込むなど、絶対に出来ないだろう。\
+` A normal student would never enter the old school building at this hour.`\
 ld c,MIC_D1,22
 
-「……………待ってて。@智子ちゃん。@……きっと、蘇らせてあげるから……。」@
+;「……………待ってて。@智子ちゃん。@……きっと、蘇らせてあげるから……。」@
+`".....Wait on me.`@`Tomoko...`@`I'll definitely bring you back..."`@
 br
-　智子との楽しかった日々を思い返すと、今でも涙が零れそうになる。@
-　彼女との落書きノートを抱き締め、涙を懸命に堪えながら、みちるは屋上を目指した。\
-
+;　智子との楽しかった日々を思い返すと、今でも涙が零れそうになる。@
+` Thinking of her days with Tomoko, even now, cause tears to stream down her face.`@
+;　彼女との落書きノートを抱き締め、涙を懸命に堪えながら、みちるは屋上を目指した。\
+` She clutched the notebook, crying.`\
 bg black,22
 bg k_kaidan_02,22
 
@@ -1493,17 +1495,19 @@ bg okujou_01y,2
 
 me1v 16,50
 
-　……屋上は、月明かりにより校舎の中より明るく感じられた。@
+;　……屋上は、月明かりにより校舎の中より明るく感じられた。@
+` The roof felt more bathed in moonlight than the inside of the building.`@
 br
-　そして、畳んでもってきた魔法陣を開き、その四隅に石をおいて固定する。\
-
+;　そして、畳んでもってきた魔法陣を開き、その四隅に石をおいて固定する。\
+` She fixed the magic square in place by putting stones at the four corners.`\
 ld c,MIC_D3,22
 ;ld c,MIC_D1,80
 
-「……現れたまえ、契約の悪魔……。@……我こそは契約者、桜田みちるなり………。」@
+;「……現れたまえ、契約の悪魔……。@……我こそは契約者、桜田みちるなり………。」@
+`"Appear, contracted Demon...`@`....It is us...holder of the contract; Sakurada Michiru...."`@
 br
-　魔法陣より黒い炎が噴き上がる。\
-
+;　魔法陣より黒い炎が噴き上がる。\
+` Black flames billowed from within the magic square.`\
 se3 66
 
 bg black,6
@@ -1519,39 +1523,44 @@ bg e005,6
 
 ;ld c,MIC_D1,22
 
-「……うむ、ご苦労であった。@やはり、ここにはかなり古い、よく練られた霊的エネルギーが集まっておるな。@……そなたの秘術に相応しい唯一の場所だ。」\
-
+;「……うむ、ご苦労であった。@やはり、ここにはかなり古い、よく練られた霊的エネルギーが集まっておるな。@……そなたの秘術に相応しい唯一の場所だ。」\
+`"Yes, I have put you through trouble.`@`This seems to be an old place, well-crafted and rich in the energies of spirits.`@`...It's an appropriate place for this kind of magic."`\
 bg black,22
 bg okujou_01y,22
 ld r,MIC_D1,24
 
-「次は清めの炎。@……この魔法陣を燃やす…？」@
-「待て待て。@この魔法陣を焼かれたら吾輩が姿を現せなくなってしまうぞ。@燃やすのはこれではない。」\
-
+;「次は清めの炎。@……この魔法陣を燃やす…？」@
+`"Next for the cleansing flame.`@`You'll burn this magic square?"`@
+;「待て待て。@この魔法陣を焼かれたら吾輩が姿を現せなくなってしまうぞ。@燃やすのはこれではない。」\
+`"Wait wait.`@`If you burn that, then our figure will disappear.`@`Don't light it yet."`\
 ld r,MIC_D6,80
 
 E_A
-「………………………っ。」@
+;「………………………っ。」@
+`"..........tch."`@
 bgm1 25
 br
-　ライターは、何かに着火するためのものだ。@
-　そして、魔法陣を燃やすのではないとしたら、………みちるはもう、燃やせるものを１つしか持っていない。\
-
+;　ライターは、何かに着火するためのものだ。@
+` The lighter was meant to be used to ignite something.`@
+;　そして、魔法陣を燃やすのではないとしたら、………みちるはもう、燃やせるものを１つしか持っていない。\
+` And, without the magic square, she just one burnable thing.`\
 cl r,0
 ld c,MIC_D6,24
 ;quake 2,200
 
-「まさか…………。」@
-「燃やすのは、そなたの持つ、その思い出の品だ。@桜田みちると岡田智子の結び付きのもっとも深い、そのノート。@……それを燃やすことで、霊界への扉が開くのだ。」\
-
+;「まさか…………。」@
+`"No way...."`@
+;「燃やすのは、そなたの持つ、その思い出の品だ。@桜田みちると岡田智子の結び付きのもっとも深い、そのノート。@……それを燃やすことで、霊界への扉が開くのだ。」\
+`"The thing to burn is what you hold now.`@`The notebook containing the deepest ties of Sakurada Michiru and Okada Tomoko.`@`Only by burning that will the door to the spirit world open."`\
 ld c,MIC_N1,80
 
-「これを、…………燃やす…………。」@
+;「これを、…………燃やす…………。」@
+`"Burn....this?"`@
 br
 se1v 13,30
 
-　茫然として、どさりとノートの束を落としてしまう。\
-
+;　茫然として、どさりとノートの束を落としてしまう。\
+` Stunned, she dropped a stack of the notes.`\
 ;me1 5
 ;fede 1,2000
 se2v 1010,30
@@ -1565,19 +1574,21 @@ se2v 1010,30
 bg note1,23
 se1v 1010,30
 
-　……風が吹き、そのページをはらりはらりと捲った。@
+;　……風が吹き、そのページをはらりはらりと捲った。@
+` The wind blew and turned the pages around.`@
 br
-　楽しかった、智子との落書きがたくさん書かれている。\
-
+;　楽しかった、智子との落書きがたくさん書かれている。\
+` There were lots of Tomoko's scribbles.`\
 mono 1
 
 ld c,TOM_D1,22
 ;ld c,TOM_D1,80
 
-　それはそのまま、楽しかった日々の思い出だ。@
+;　それはそのまま、楽しかった日々の思い出だ。@
+` They were memories of Tomoko.`@
 br
-　それを燃やすことは、………智子との唯一の繋がりを、捨てろということ。\
-
+;　それを燃やすことは、………智子との唯一の繋がりを、捨てろということ。\
+` To burn these, was to sever the only connection she had with Tomoko.`\
 bg black,22
 
 mono 0
@@ -1589,48 +1600,56 @@ wait 1000
 
 ld l,MIC_N1,80
 
-「…………これを、……燃やせと……。」@
-「うむ。」\
-
+;「…………これを、……燃やせと……。」@
+`"Burn these....."`@
+;「うむ。」\
+`"Yes."`\
 ;ld l,MIC_D1,80
 
-　……燃やせば、……智子は蘇るのだ。@
-　思い出のノートは失われるかもしれないが、ずっと彼女と一緒にいられる。@
+;　……燃やせば、……智子は蘇るのだ。@
+`.....If I burn these, Tomoko will be revived.`@
+;　思い出のノートは失われるかもしれないが、ずっと彼女と一緒にいられる。@
+` I'll probably lose the notes, but I'll always be with her.`@
 br
-　ならば燃やそう。@躊躇することなんてない。\
-
+;　ならば燃やそう。@躊躇することなんてない。\
+` Then lets burn them.`@`Hesitation was not an option.`\
 ld l,MIC_N2n,80
 
-　…………………………。@
+;　…………………………。@
+` ............`@
 br
-　本当に、……蘇るのならば…………。\
-
+;　本当に、……蘇るのならば…………。\
+` Really....would she be revived....?`\
 cl l,0
 ld c,MIC_N1,23
 
-「絶対、………蘇るんですよね…………。」@
-「それはそなたが決めることだ。」\
-
+;「絶対、………蘇るんですよね…………。」@
+`"She absolutely will be."`@
+;「それはそなたが決めることだ。」\
+`"That's what you have decided on."`\
 ld c,MIC_N2n,80
 
-「…………………………。」@
-「死者を蘇らせるのが楽なことではないことは知っていよう。@それを思えば、@挨拶と思い出のノートを捧げるだけで蘇るのが、どれほど幸運な条件か、想像も付くではないか。」\
-
+;「…………………………。」@
+`"............."`@
+;「死者を蘇らせるのが楽なことではないことは知っていよう。@それを思えば、@挨拶と思い出のノートを捧げるだけで蘇るのが、どれほど幸運な条件か、想像も付くではないか。」\
+`"It's not easy to revive the dead, I know.`@`Now that I think about it,`@`just losing the notes and ability to greet in the process is a light condition, so can't I do it?"`\
 ;ld c,MIC_D1,80
 
-　わかってる。@
+;　わかってる。@
+` I understand.`@
 br
-　奇跡の代償とし、思い出のノートを焼き、@永遠に挨拶をせず、新しい友達を作らないことを誓うなど、………容易いものだ。\
-
+;　奇跡の代償とし、思い出のノートを焼き、@永遠に挨拶をせず、新しい友達を作らないことを誓うなど、………容易いものだ。\
+` For the price of a miracle, burning these notes,`@`and never greeting, nor making a new friend for all eternity, is a piece of cake.`\
 bg black,22
 
 ;ld c,TOM_D1,22
 ;ld c,TOM_D1,80
 
-　いらない。@何もいらない。@
+;　いらない。@何もいらない。@
+` I don't need it.`@`I don't need anything.`@
 br
-　智子ちゃんが帰ってきてくれるなら、……何もいらない……。\
-
+;　智子ちゃんが帰ってきてくれるなら、……何もいらない……。\
+` If I have Tomoko, I don't need anything else...`\
 ;bg black,22
 bg note1,22
 
@@ -1643,36 +1662,40 @@ bg note1,22
 
 me1v 16,50
 
-　……みちるは、ノートの角を、……ライターの火であぶる。@
+;　……みちるは、ノートの角を、……ライターの火であぶる。@
+` Michiru held the corner of the notebook to the lighter.`@
 br
-　すると、まるで新聞紙に火をつけたかのように、……それは軽く、ぺりぺりと捲れるように青い炎で燃え出す。\
-
+;　すると、まるで新聞紙に火をつけたかのように、……それは軽く、ぺりぺりと捲れるように青い炎で燃え出す。\
+` When she did so, a blue flame caught and travelled across the book as if it were newspaper.`\
 se1 55
 bg blue1,1
 bg okujou_01y,0
 print 99,5000,"breakup.dll/llb"
 ;bg okujou_01y,22
 
-　………智子との、楽しかった日々の思い出を凝縮した、……結晶とも呼ぶべき１ページ１ページが、@……ぺりぺりと燃えて、黒い燃えカスになって、……風に飛んで消えていく……。\
+;　………智子との、楽しかった日々の思い出を凝縮した、……結晶とも呼ぶべき１ページ１ページが、@……ぺりぺりと燃えて、黒い燃えカスになって、……風に飛んで消えていく……。\
+` Memories of Tomoko condensed, and the flame licked through the book, page by page,`@`as they burned black and blew into the wind...`\
 
 
-
-　燃えながら、舞い飛び、消えていく、炎の蝶たち……。@
+;　燃えながら、舞い飛び、消えていく、炎の蝶たち……。@
+` While it was burning, a butterfly danced around the edges of the flame, disappearing.`@
 br
-　……その炎に照らし出されるみちるの顔は、……涙と煤で、汚れていた……。\
-
+;　……その炎に照らし出されるみちるの顔は、……涙と煤で、汚れていた……。\
+`....Tears were streaming down Michiru's face, bathed in the light of the fire.`\
 ld c,MIC_N1,2
 ld c,MIC_N2n,22
 
-「…………これで、…………いい………？」@
+;「…………これで、…………いい………？」@
+`"Is this alright....?"`@
 br
-　全てのノートが燃え尽き、後には、何も残らない。@
-　みちるは目もとを拭い、……黒い炎の悪魔に、自分の決意を示した。\
+;　全てのノートが燃え尽き、後には、何も残らない。@
+` Nothing was left of the notebook; it had burned completely.`@
+;　みちるは目もとを拭い、……黒い炎の悪魔に、自分の決意を示した。\
+` Michiru wiped her eyes and showed her determination to the Demon clad in black flame.`\
 
 
-
-「……うむ。@……そなたの清めの炎、それで充分であろうぞ。@……これより、その力が満ち、霊界の扉を開きて、岡田智子の霊を呼び寄せる。@………むむむ…、……来たぞ、来たぞ…………。」\
-
+;「……うむ。@……そなたの清めの炎、それで充分であろうぞ。@……これより、その力が満ち、霊界の扉を開きて、岡田智子の霊を呼び寄せる。@………むむむ…、……来たぞ、来たぞ…………。」\
+` Yes, this is enough of a purification flame.`@`Furthermore, you can feel the spirit energy gathering, the door opening, and can call forth Okada Tomoko's spirit.`@`Heheheheheh. It's coming. It's coming...."`\
 bg black,2
 
 fede 1,2000
@@ -1683,11 +1706,13 @@ se1 22
 mbg white,8
 mcbg 48
 
-　黒い炎とは別に、……白い光が、うっすらと集まり始める。@
-　黒い炎は悪魔を想像させる禍々しいものだが、……これは違う。@
+;　黒い炎とは別に、……白い光が、うっすらと集まり始める。@
+` Apart from the black flame, a white light started to creep in at the edges.`@
+;　黒い炎は悪魔を想像させる禍々しいものだが、……これは違う。@
+` Black flames were symbolic of Demons. This was different.`@
 br
-　その白い清らかな光は…………。\
-
+;　その白い清らかな光は…………。\
+` That pure white light.....`\
 bg white,48
 
 bgm1 20
@@ -1696,9 +1721,11 @@ wait 2000
 
 E_MA
 
-“…………私を呼ぶのは…………誰…………。”@
+;“…………私を呼ぶのは…………誰…………。”@
+`[Who called me]`@
 br
-　白い光から、確かにそう聞こえた。@
+;　白い光から、確かにそう聞こえた。@
+` She surely heard that from the light.`@
 　智子ちゃんの声だと思う。@……まるで、チューニングのずれたラジオから聞こえるような声。\
 
 bg okujou_01y,0
