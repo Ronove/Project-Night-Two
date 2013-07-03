@@ -851,7 +851,7 @@ bg black,22
 ld c,NOD_D3,22
 
 ;『……僕、新谷先生のファンだったんです。@』
-`"...I'm your biggest fan, Shintani-sensei"`@
+`"...I'm your biggest fan, Shintani-sensei."`@
 br
 ;　俯きながら、照れ臭そうに微笑んでいた彼の顔。@
 ` His smiling face, looking down at his feet bashfully.`@
@@ -927,58 +927,65 @@ bgm1 8
 
 ;　少し天然なところがあるが、さっぱりした性格の彼女は話し易くて好きだ。@
 ` She was nice. Maybe a little ditzy somtimes, but Shintani still enjoyed talking with her.`@
-　絆創膏をもらうだけのつもりだったのに、お茶までご馳走になってしまった。\
-
+;---------------------------------------------------------------------------------------------------------------
+;　絆創膏をもらうだけのつもりだったのに、お茶までご馳走になってしまった。\
+` She had intended to just get a bandage and get back to work, but she ended up staying for tea too.`\
 
 
 ld r,NAF_D2,80
 
-「今度は、美術室にも招待しようかしら。@……私もお茶を淹れるのは得意だし。」\
-
+;「今度は、美術室にも招待しようかしら。@……私もお茶を淹れるのは得意だし。」\
+`"I wonder if I should invite her to the art room for tea this time.`@`... I'm pretty good at making tea myself."`\
 bg black,24
 ;cl a,0
 bg rouka_04,24
 
-　新谷は、紅茶を淹れる道具を美術室の机の中に隠している。@
-　教頭が趣味のいい紅茶道具を職員室に持ち込んでいるので、@ならば遠慮はいらないとばかりに、自分もこっそり紅茶の道具を学校に持ち込んだのだ。\
+;　新谷は、紅茶を淹れる道具を美術室の机の中に隠している。@
+` Shintani hid the things necessary for brewing black tea within her desk in the art room.`@
+;　教頭が趣味のいい紅茶道具を職員室に持ち込んでいるので、@ならば遠慮はいらないとばかりに、自分もこっそり紅茶の道具を学校に持ち込んだのだ。\
+` The vice-principal brought his own set of black tea making supplies to the staff room a while back. `@`So she decided to do the same and snuck her own set into school.`\
 
-
-　豊富な種類の茶葉の缶を用意しており、@その日の気分に合わせて、様々なブレンドを楽しむことが出来る。\
-
+;　豊富な種類の茶葉の缶を用意しており、@その日の気分に合わせて、様々なブレンドを楽しむことが出来る。\
+` She kept plenty of different tea leaves in a can, `@`so that she could enjoy any number of different blends depending on how she felt on a given day.`\
 bg black,22
 
 
-　今日の作業を始める前にカモミールティーでも淹れよう。@
-　あれは気分がリラックスして心が和らぐ。@
+;　今日の作業を始める前にカモミールティーでも淹れよう。@
+` Before starting her work today, she decided to make some chamomile tea.`@
+;　あれは気分がリラックスして心が和らぐ。@
+` That should help her calm down and relax.`@
 br
-　そんなことを考えながら、美術室の扉を開ける。\
-
+;　そんなことを考えながら、美術室の扉を開ける。\
+` She opened the door to the art room as she continued to consider what type of tea to brew.`\
 se1 82
 bg bijutu_06,23
 
 fede 0,1000
 E_A
 
-　………すると、不意に違和感を感じた。@
+;　………すると、不意に違和感を感じた。@
+` ....But as she did, something suddenly felt out of place.`@
 me1v 16,50
-　教室の中に誰かがいるような気配がしたのだ。\
-
+;　教室の中に誰かがいるような気配がしたのだ。\
+` She felt like there was someone inside the room.`\
 
 
 ld r,NAF_D4,24
 
-「………………………………。」@
+;「………………………………。」@
+`"............."`@
 br
-　室内をぐるりと見回すが、飾られた彫刻やオブジェが薄暗い影を作っていて、すぐには中の様子が判断できない。\
-
+;　室内をぐるりと見回すが、飾られた彫刻やオブジェが薄暗い影を作っていて、すぐには中の様子が判断できない。\
+` She tried to survey the inside of the room, but the various sculptures and artworks cast dim shadows over everything, and she couldn't properly assess if there was someone or not.`\
 
 
 ld r,NAF_D4a,80
 
-「……誰かいるの？」@
+;「……誰かいるの？」@
+`"...Is anyone in here?"`@
 br
-　指をスイッチに伸ばして電気を付ける。\
-
+;　指をスイッチに伸ばして電気を付ける。\
+` She flipped the light switch and the lights came on.`\
 bg white,1
 bg black,22
 bg bijutu_07,2
@@ -986,154 +993,172 @@ bg bijutu_07,2
 fede 0,1000
 E_A
 
-　……すると、視界の隅に一人の小柄な少年の姿が飛び込んで来た。\
+;　……すると、視界の隅に一人の小柄な少年の姿が飛び込んで来た。\
+` ...Then, out of the corner of her eye, she saw a petite, young boy.`\
 
-
-「………！」@
-
+;「………！」@
+`".....!"`@
 bgm1 29
 
 br
-　新谷は一瞬、呼吸をするのを忘れて彼に見入ってしまった。@
-　その少年がハッとするほど美しかったからだ。\
+;　新谷は一瞬、呼吸をするのを忘れて彼に見入ってしまった。@
+` Upon seeing him, for a moment Shintani forgot to breathe.`@
+;　その少年がハッとするほど美しかったからだ。\
+` For the boy was startlingly beautiful.`\
+
+;　愛くるしい子犬や子猫を連想させるような大きな瞳。@
+` He had large eyes like that of a cute little kitty or puppy.`@
+;　透き通るほどに白い肌。\
+` And skin so white it seemed almost transparent.`\
 
 
-　愛くるしい子犬や子猫を連想させるような大きな瞳。@
-　透き通るほどに白い肌。\
+;　栗色の髪は染めたような不自然さが全然なく、@白過ぎる蛍光灯の明かりに反射して星をまぶしたかのように輝いていた。\
+` His chestnut-colored hair looked too natural to have been dyed, `@`and with the bright fluorescent light refelcting off of it, it shone like it was covered in stars.`\
 
 
 
-　栗色の髪は染めたような不自然さが全然なく、@白過ぎる蛍光灯の明かりに反射して星をまぶしたかのように輝いていた。\
-
-
-
-
-「………あ、すいません、先生。@勝手に入ったりして。」@
+;「………あ、すいません、先生。@勝手に入ったりして。」@
+`"....Ah, sorry for startling you sensei. `@`I came into the room without asking."`@
 ;■ルノワールはしばらく立ち絵不要
 br
-　変声期前の高い声だった。@繊細な楽器の様な響きは彼の容姿にとても似合っていた。\
-
+;　変声期前の高い声だった。@繊細な楽器の様な響きは彼の容姿にとても似合っていた。\
+` His voice was high pitched. Not yet changed by puberty. `@`Its delicate musical instrument-like quality fit his appearance perfectly.`\
 
 
 bg black,22
 
-　……うちの学校にこんな綺麗な少年、いたかしら？@
-　いくら生徒の数が多いって言っても、こんなに目立つ子に気付かないはずないのに……。@
+;　……うちの学校にこんな綺麗な少年、いたかしら？@
+` ...Has there really been such a pretty young boy going to our school?`@
+;　いくら生徒の数が多いって言っても、こんなに目立つ子に気付かないはずないのに……。@
+` There are a lot of students that go here, but she doubted that such a conspicuous kid would go unnoticed by her for this long...`@
 br
-　……もしかして転校生なのかしら…？\
-
+;　……もしかして転校生なのかしら…？\
+` ....Maybe he was a transfer student...?`\
 bg bijutu_03,0
 ld c,NAF_D4a,22
 
-　そんな考えを巡らしていると、少年は怒られるとでも思ったのか、申し訳なさそうな表情を浮かべて、上目遣いに新谷を見てきた。@
-　怯えた小動物の様なその仕草に、新谷は再び息を呑む。\
-
+;　そんな考えを巡らしていると、少年は怒られるとでも思ったのか、申し訳なさそうな表情を浮かべて、上目遣いに新谷を見てきた。@
+` While she was mulling this over in her head, the young boy was expecting to be scolded, and thus was looking up at her with an apologetic expression and puppy dog eyes.`@
+;　怯えた小動物の様なその仕草に、新谷は再び息を呑む。\
+` Seeing the boy acting like a small animal once again took away Shintani's breath.`\
 ld c,NAF_D2,80
 
-「……いいのよ別に。@美術室に、何か用かしら？」@
+;「……いいのよ別に。@美術室に、何か用かしら？」@
+`"...Don't worry about it. `@`Is there something you need in the art room?"`@
 br
-　動揺を隠し、少年を安心させるように笑顔を向けた。\ 
+;　動揺を隠し、少年を安心させるように笑顔を向けた。\ 
+` Hiding how shaken she was, she smiled at the boy hoping to calm him down.`\
 
 
-
-「えっと、その……。」@
-
+;「えっと、その……。」@
+`"Umm, well..."`@
 ld c,NAF_D1,80
 
-「もしかして……、美術部の入部希望者？@　残念だけど今、美術部は休部中なの。@ほら、あんな事故があったばかりだから……。」\ 
+;「もしかして……、美術部の入部希望者？@　残念だけど今、美術部は休部中なの。@ほら、あんな事故があったばかりだから……。」\ 
+`"Could it be... that you want to join the art club? `@`Unfortunately, the art club isn't active right now. `@`Since that accident just happened so recently..."`\
 
 
-
-「あ、違うんです！@　……僕、その……絵が見たくなって。@この絵、好きなんです、僕。」@
+;「あ、違うんです！@　……僕、その……絵が見たくなって。@この絵、好きなんです、僕。」@
+`"Ah, no. It's not that!`@`... I just... wanted to see this painting. `@`I really like this one"`@
 br
-　少年ははにかみながら壁を見た。\
-
+;　少年ははにかみながら壁を見た。\
+` The boy shyly looked over at the wall.`\
 bg black,23
 ;cl a,0
 bg kaiga_01,23
 
-　この美術室の壁にはピカソやフェルメール、レオナルド・ダ・ヴィンチなど無数の有名な絵がかけられている。@
+;　この美術室の壁にはピカソやフェルメール、レオナルド・ダ・ヴィンチなど無数の有名な絵がかけられている。@
+` The walls in the art room were covered with famous works by artists like Picasso, Vermeer and Leonardo da Vinci.`@
 br
-　もちろん本物ではなく、画集などからカラーコピーしただけのものだったが、@装飾の入った高価そうな額に入れられているため、それなりに見栄えはする。\
+;　もちろん本物ではなく、画集などからカラーコピーしただけのものだったが、@装飾の入った高価そうな額に入れられているため、それなりに見栄えはする。\
+` Naturally, they weren't the originals, just color copies made from a book of prints, `@`but by putting them in decorate picture frames, they managed to look rather impressive.`\
 
-
-　彼が見ていたのはエッシャーの絵だった。@
+;　彼が見ていたのはエッシャーの絵だった。@
+` The one that the boy was looking at was a work by M.C. Escher.`@
 br
-　階段の一番上の段が別の階段の一番下の段になって循環し、@無限に階段を上り下り続ける人々が描かれている。\
+;　階段の一番上の段が別の階段の一番下の段になって循環し、@無限に階段を上り下り続ける人々が描かれている。\
+` It was a drawing of a never-ending staircase in which the top step of one staircase became the bottom step of another. `@`On this staircase were a group of people, endlessly ascending and descending.`\
 
-
-　いわゆる不可能図形と言われる「ペンローズの三角形」や、@「悪魔のフォーク」などの応用で描かれた、目の錯覚を利用した有名な騙し絵だ。\
-
+;　いわゆる不可能図形と言われる「ペンローズの三角形」や、@「悪魔のフォーク」などの応用で描かれた、目の錯覚を利用した有名な騙し絵だ。\
+` It's a print that puts the so-called concept of impossible objects like the 'Penrose Triangle' `@`and 'Devil's Fork' to use, and is a famous optical illusion.`\
 ld r,NAF_D4,22
 ld r,NAF_D1,80
 
-「これ私も好きよ。@面白いわよね、騙し絵って。」@
+;「これ私も好きよ。@面白いわよね、騙し絵って。」@
+`"It like this one too. `@`Isn't it cool? It fools your eyes."`@
 br
-　新谷の笑顔を見て、少年の白い頬がみるみるうちに紅潮し、薄いピンク色に染まる。@まるで小さな桜が咲いたようだった。\
+;　新谷の笑顔を見て、少年の白い頬がみるみるうちに紅潮し、薄いピンク色に染まる。@まるで小さな桜が咲いたようだった。\
+` The boy looked at her smiling face and blushed, his cheeks turning a shade of light pink. `@`Almost as if a little cherry tree in full bloom.`\
 
-
-　その可愛らしい反応を見て、新谷は心がざわつくのを感じた。@
+;　その可愛らしい反応を見て、新谷は心がざわつくのを感じた。@
+` Seeing this reaction from him made Shintani's heart flutter.`@
 br
-　……もしかしたらこの子なら……。\
-
+;　……もしかしたらこの子なら……。\
+` ...Maybe, with this kid....`\
 
 bg black,23
 bg bijutu_06,23
 
-　チラリと窓の外を見ると、既に陽は傾きかけていた。@
-　生徒たちはとっくに帰る時刻だ。@それにあの事故が起きてからは授業以外で美術室に来る人間は滅多にいない。\
-
+;　チラリと窓の外を見ると、既に陽は傾きかけていた。@
+` Glancing out the window, she saw that the sun was already setting.`@
+;　生徒たちはとっくに帰る時刻だ。@それにあの事故が起きてからは授業以外で美術室に来る人間は滅多にいない。\
+` The students have long since gone home. `@`Furthermore, ever since the accident people seldom come to the art room for any reason other than class.`\
 bg black,22
 bg bijutu_02,22
 ;ld c,NAF_D5,22
 
-　新谷は少年の肩に手を、……そっと置く。@
-　華奢なその肩が、緊張したようにビクリと揺れた。\
-
+;　新谷は少年の肩に手を、……そっと置く。@
+` Shintani gently laid a hand... on the boy's shoulder.`@
+;　華奢なその肩が、緊張したようにビクリと揺れた。\
+` As she touched that slender shoulder, he gave a slightly startled jump.`\
 ld c,NAF_D2,22
 
-「……ねぇ君、この後って時間ある？」@
-「……え……？」\
-
+;「……ねぇ君、この後って時間ある？」@
+`"...Hey, can you spare some time?"`@
+;「……え……？」\
+`"...Huh....?`\
 
 
 ld c,NAF_D1,80
 
-「………良かったら、私の絵のモデルをやってくれないかしら？」\
+;「………良かったら、私の絵のモデルをやってくれないかしら？」\
+`"....I was wondering if you might be a model for the picture I'm drawing."`\
 
-
-　突然の申し出に、少年は驚いたように大きな目をさらに見開いた。@
-　……もしかしたらこの子なら、私の絵を完成させてくれるかもしれない。\
-
+;　突然の申し出に、少年は驚いたように大きな目をさらに見開いた。@
+` Seemingly surprised by her sudden request, the boy's eyes opened up very wide.`@
+;　……もしかしたらこの子なら、私の絵を完成させてくれるかもしれない。\
+` ...Maybe, with this kid I'll be able to finish my drawing.`\
 
 
 ld c,NAF_D3,80
 
-「ちょうど、君みたいな男の子をモデルにした絵を描きたいと思っていたの。@……お願いできないかしら？」@
+;「ちょうど、君みたいな男の子をモデルにした絵を描きたいと思っていたの。@……お願いできないかしら？」@
+`"I've been wanting to do draw a picture with a boy like you as a model.`@`... Would you mind helping me out?"`@
 br
-　胸の前で両手を合わせる。\
+;　胸の前で両手を合わせる。\
+` She brought her hands together in front of her chest.`\
+; ^^^ Note To Editor: Japanese body language for 'please'. Should this line be left out?
 
-
-
-　彼は目を何度か瞬かせると、足元に視線を落としながら小さな声で言った。\
-
+;　彼は目を何度か瞬かせると、足元に視線を落としながら小さな声で言った。\
+` He blinked a several times before dropping his eyes towards his feet and answering in a small voice.`\
 bg black,22
 
-「……本当に、僕なんかがモデルでいいんですか？」@
-
+;「……本当に、僕なんかがモデルでいいんですか？」@
+`"...Is it really okay for me to be a model?"`@
 ;ld c,NAF_D2,80
 
-「ええ。@君さえ良ければだけど。@…………嫌かな？」\
+;「ええ。@君さえ良ければだけど。@…………嫌かな？」\
+`"Yes. `@`All I need to complete it is you.`@`..... Do you not want to?"`\
 
-
-「いえ！@　……光栄です。@だって僕………。」@
+;「いえ！@　……光栄です。@だって僕………。」@
+`"No, that's not it!`@`... It would be a privilege. `@`Because I'm...."`@
 br
-　俯いたままの少年は照れ臭そうに微笑み、数ヶ月前、野田裕貴が言ったのと全く同じ台詞を口にした。\
-
+;　俯いたままの少年は照れ臭そうに微笑み、数ヶ月前、野田裕貴が言ったのと全く同じ台詞を口にした。\
+` And then, while looking down at his feet with a embarrassed smile, from his mouth came the exact same words that Yuuki Noda had said a few months before.`\
 bg bijutu_06,22
 
-「…………僕、新谷先生のファンだったんです。」\
-
+;「…………僕、新谷先生のファンだったんです。」\
+`".....I'm your biggest fan, Shintani-sensei."`\
 bg black,2
 fede 0,2000
 E_A
@@ -1145,33 +1170,37 @@ bg bijutu_03,22
 
 bgm1 8
 
-　美術室の中に、鉛筆でスケッチブックを擦るシャッシャッという音だけが響いていた。\
+;　美術室の中に、鉛筆でスケッチブックを擦るシャッシャッという音だけが響いていた。\
+` Inside the art room only the sound of a pencil writing on a sketchbook page could be heard.`\
 
-
-　まだ部活動をしている子もいる時間だが、この美術室は校庭側に面していないため、子供達の声はほとんど聞こえてこない。@
-　時折、階段を下りる足音だけが小さく響いてくるくらいだ。\
-
+;　まだ部活動をしている子もいる時間だが、この美術室は校庭側に面していないため、子供達の声はほとんど聞こえてこない。@
+` There were still kids participating in after school clubs, but because the art room doesn't face the schoolyard, their voices could barely be heard.`@
+;　時折、階段を下りる足音だけが小さく響いてくるくらいだ。\
+` And every once in a while the faint sound of someone walking down the stairs could be heard.`\
 
 ld r,NAF_D4,22
 ;ld c,NAF_D1,80
 
-「……そんなに緊張しないでいいのよ？@　自然な表情が描きたいだけだから。」\
+;「……そんなに緊張しないでいいのよ？@　自然な表情が描きたいだけだから。」\
+`"...No need to be so tense, okay? `@`I want to make sure and capture your natural facial expression."`\
 
+;　気持ちをほぐそうと、モデル用の椅子に座った少年に笑いかける。@
+` She smiled at the young boy modeling on the chair, hoping it would ease him up a bit.`@
+;　少年は口元で少しだけ微笑んだが、その表情は硬いままだった。@
+` He did have a small smile on his lips, but his expression seemed stiff.`@
+;　肩や背中には力が入り、傍目にも緊張しているのが分かる。\
+` His shoulders and back were also tense from the nerviousness of being watched by another.`\
 
-　気持ちをほぐそうと、モデル用の椅子に座った少年に笑いかける。@
-　少年は口元で少しだけ微笑んだが、その表情は硬いままだった。@
-　肩や背中には力が入り、傍目にも緊張しているのが分かる。\
-
-
-「ごめんなさい、なんか、こういうの慣れてなくて………。」@
-
+;「ごめんなさい、なんか、こういうの慣れてなくて………。」@
+`"I'm sorry, I'm not really used to doing this, so...."`@
 ld r,NAF_D2,80
 ;ld c,NAF_D1,80
 
-「無理もないわよ。@モデルをやるのなんて初めてでしょ？」@
+;「無理もないわよ。@モデルをやるのなんて初めてでしょ？」@
+`"Don't worry. `@`It's your first time being a model, right?"`@
 
-
-「あ、いえ……。@その、一度だけやったことはあるんですけど、随分前のことなんで………。」@
+;「あ、いえ……。@その、一度だけやったことはあるんですけど、随分前のことなんで………。」@
+`"Ah, no... `@`Actually, I've done it once before, but it was a long time ago..."`@
 br
 　意外な答えに思わず、へぇと声が出た。\
 
