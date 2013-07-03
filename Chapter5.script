@@ -1726,38 +1726,39 @@ E_MA
 br
 ;　白い光から、確かにそう聞こえた。@
 ` She surely heard that from the light.`@
-　智子ちゃんの声だと思う。@……まるで、チューニングのずれたラジオから聞こえるような声。\
-
+;　智子ちゃんの声だと思う。@……まるで、チューニングのずれたラジオから聞こえるような声。\
+` I think it's Tomoko's voice.`@`It's like a crackly radio in need of tuning.`\
 bg okujou_01y,0
 ld r,MIC_D6,29
 
 
-「来たぞ、桜田みちるよ。@さぁ、彼女に語り掛け、この世へ連れ戻すのだ。」@
-
+;「来たぞ、桜田みちるよ。@さぁ、彼女に語り掛け、この世へ連れ戻すのだ。」@
+`"She's coming, Sakurada Michiru.`@`Speak with her and bring her back to this world."`@
 ld r,MIC_N1,80
 
-「は、……はいっ。@………智子ちゃん、智子ちゃん……。@私の声が聞こえる……？」\
-
+;「は、……はいっ。@………智子ちゃん、智子ちゃん……。@私の声が聞こえる……？」\
+`"Y-Yes....`@`...Tomoko-chan?`@`Can you hear me...?"`\
 mbg white,2
 
-「……その声は……、………みちる？@　みちるちゃんなの……？@　……私を、……眠りから覚ましたのは、みちるなの……？」@
+;「……その声は……、………みちる？@　みちるちゃんなの……？@　……私を、……眠りから覚ましたのは、みちるなの……？」@
+`"..That voice...Michiru?`@`Michiru-chan?`@`...Did you wake me?"`@
 
-
-「そうだよ、智子ちゃん！@　私だよ、みちるだよっ……！」\
-
+;「そうだよ、智子ちゃん！@　私だよ、みちるだよっ……！」\
+`"Yes, it's me!`@`Michiru...!"`\
 se1 22
 
 mbg black,8
 mcbg 8
 
-　智子の霊が、みちるの存在を認めると、……その白い輝きが次第に大きくなる。@
+;　智子の霊が、みちるの存在を認めると、……その白い輝きが次第に大きくなる。@
+` As Tomoko's spirit recognized Michiru, that white radiance grew and grew.`@
 br
-　そして人型を形作ると、……ついに、在りし日の彼女の姿となる……。\
-
+;　そして人型を形作ると、……ついに、在りし日の彼女の姿となる……。\
+` And her human form was shaped like that of her past days.`\
 ld r,MIC_N2n,80
 
-「智子ちゃんッ…！！」\
-
+;「智子ちゃんッ…！！」\
+`"Tomoko-chan!!"`\
 se1 22
 
 mbg white,48
@@ -1769,31 +1770,36 @@ wait 1000
 ld l,TOM_D6,22
 
 
-「………………………………。」\
+;「………………………………。」\
+`"............."`\
 ;＜智子
 
 
 
-　智子はしばらくの間、自分の姿があることに驚き、放心していた。@
-　死んだはずの自分が、再び現世で誰かと言葉を交わすことが出来るなんて、信じられなかったに違いない。\
-
+;　智子はしばらくの間、自分の姿があることに驚き、放心していた。@
+` For a while, Tomoko was surprised at her own figure.`@
+;　死んだはずの自分が、再び現世で誰かと言葉を交わすことが出来るなんて、信じられなかったに違いない。\
+` For someone who ought to be dead, it was surely unbelievable that she was once again exchanging words with somebody in the living world.`\
 ld l,TOM_D3,80
 
-　智子は、自分の腕や足の様子を一通り確かめた後、……みちるの姿を見た。\
-
+;　智子は、自分の腕や足の様子を一通り確かめた後、……みちるの姿を見た。\
+` After confirming the existence of her legs and arms, Tomoko looked at Michiru's figure.`\
 ld r,MIC_D4,80
 
-「悪魔さんっ。@どうすれば智子ちゃんの魂を現世に留められるの？」@
-「うむ。@友情を確かめれば良いのだ。@……まー、定番どころでは、握手というところだ。」\
-
+;「悪魔さんっ。@どうすれば智子ちゃんの魂を現世に留められるの？」@
+`"Mr. Demon,`@`how do I tie Tomoko-chan's spirit to this world?"`@
+;「うむ。@友情を確かめれば良いのだ。@……まー、定番どころでは、握手というところだ。」\
+`"Yes.`@`It's good to confirm friendship.`@`...well, the standard procedure is a handshake."`\
 cl r,0
 ld c,MIC_D6,24
 
-「智子ちゃん、私と握手しよう…！@　そうすれば、智子ちゃんはこの世に留まることが出来るんだよ…！」@
+;「智子ちゃん、私と握手しよう…！@　そうすれば、智子ちゃんはこの世に留まることが出来るんだよ…！」@
+`"Tomoko-chan, shake my hand!`@`...That way, you can stay here!"`@
 br
-　みちるは握手を求め、手を差し出す。@
-　智子はその手を、じっと見詰めている。\
-
+;　みちるは握手を求め、手を差し出す。@
+` Michiru held out her hand.`@
+;　智子はその手を、じっと見詰めている。\
+` Tomoko just stared at it.`\
 textoff
 
 wait 2000
@@ -1809,89 +1815,95 @@ wait 2000
 
 ;ld l,TOM_D6,80
 
-「…………………………。」\
+;「…………………………。」\
+`".............."`\
 ;＜智子
 
 bg e005,0
 ld l,TOM_D3,0
 ld c,MIC_D6,22
 
-「……どうした？@　岡田智子よ。@なぜに、親友の手を取らぬのだ……？」@
+;「……どうした？@　岡田智子よ。@なぜに、親友の手を取らぬのだ……？」@
+`"What's wrong?`@`Okada Tomoko,`@`Why don't you take your friend's hand?"`@
 br
-　悪魔も、少し驚いた様子を見せる。\
-
+;　悪魔も、少し驚いた様子を見せる。\
+` The Demon was a little surprised.`\
 ;ld l,TOM_D1,80
 cl l,22
 
-「……………………………。」@
+;「……………………………。」@
+`"..............."`@
 ;＜智子
 
 ld c,MIC_D5,80
 
-「智子ちゃん……？」@
+;「智子ちゃん……？」@
+`"Tomoko-chan...?"`@
 br
-　智子はみちるの握手に応じようとせず、……なおもじっと、見詰め続けていた。\
-
+;　智子はみちるの握手に応じようとせず、……なおもじっと、見詰め続けていた。\
+` Tomoko just continued to stare at the hand.`\
 bg black,22
 bg Air_03,22
 
 ;ld l,TOM_D1,80
 
-「……これは、……どういうことなの。@だって。@……私は死んだはずだよ。」@
-
+;「……これは、……どういうことなの。@だって。@……私は死んだはずだよ。」@
+`"What....what's this supposed to mean?`@`No.......`@`....I'm meant to be dead."`@
 ;ld r,MIC_D1,80
 
-「うん。@……だから私が、死者蘇生の秘術を使ったの。@それで、智子ちゃんの魂は現世に帰ってこれたんだよ…！」\
-
+;「うん。@……だから私が、死者蘇生の秘術を使ったの。@それで、智子ちゃんの魂は現世に帰ってこれたんだよ…！」\
+`"Yes.`@` That's why I performed a revival rite.`@`That way, you could come back!"`\
 ;ld l,TOM_D1,80
 
-「………はー。@……さすがはオカルト専門家のみちるちゃんだねー。@……まさか本当に、私を蘇らせられるなんて……。」@
-
+;「………はー。@……さすがはオカルト専門家のみちるちゃんだねー。@……まさか本当に、私を蘇らせられるなんて……。」@
+`"Haaah?`@`Well, you were always quite the Occultist.`@`But going so far as to revive me?"`@
 ;ld r,MIC_D1,80
 
-「あとは、私と智子ちゃんが握手をすれば完成するの。@だからお願い、私と握手をしてっ。」\
-
+;「あとは、私と智子ちゃんが握手をすれば完成するの。@だからお願い、私と握手をしてっ。」\
+`"To complete it, we need to shake hands.`@`So please, just do it."`\
 ;ld l,TOM_D1,80
 
 bg black,22
 
-「……………私のお葬式、……したんでしょ？」@
-
+;「……………私のお葬式、……したんでしょ？」@
+`"...Did they have my funeral already?"`@
 ;ld r,MIC_D1,80
 
-「う、うん。@……私もお焼香したよ……。」\
-
+;「う、うん。@……私もお焼香したよ……。」\
+`"Yes...`@`I offered incense too."`\
 bg okujou_01y,22
 mld c,TOM_D3,22
 
-「じゃあ、私の体は？」@
-
+;「じゃあ、私の体は？」@
+`"Well...where's my body?"`@
 ld l,MIC_D5,22
 
-「……多分、……火葬場に……。」\
-
+;「……多分、……火葬場に……。」\
+`"It was...probably cremated..."`\
 mld c,TOM_D1,80
 
-「じゃあ、私の体、……ないじゃん。」@
-
+;「じゃあ、私の体、……ないじゃん。」@
+`"So I have no body...."`@
 cl l,0
 ld r,MIC_D6,23
 
-「う、うん。@でもね、依り代でもいいんだって。@私の持ってるぬいぐるみ、覚えてる？@　ほらあの！@　見せたことあるでしょっ。」\
-
+;「う、うん。@でもね、依り代でもいいんだって。@私の持ってるぬいぐるみ、覚えてる？@　ほらあの！@　見せたことあるでしょっ。」\
+`"Ye-Yes.`@`But don't worry.`@`Remember that stuffed animal I had?`@`Hey`@`I showed it to you before, right?"`\
 mcl c,0
 bg black,22
 mono 1
 bg ie_06,22
 
-「……なるほどねー。@あのぬいぐるみが、私の新しい体になると。@それで歩き回ったりとか出来るの？」@
-「そ、それは出来ないけれど。」\
+;「……なるほどねー。@あのぬいぐるみが、私の新しい体になると。@それで歩き回ったりとか出来るの？」@
+`"I see....`@`Well, when that's my new body, will I be able to walk around?"`@
+;「そ、それは出来ないけれど。」\
+`"You---you won't be able to."`\
 
 
-
-「じゃー、何が出来るの？」@
-「私とお喋りできるよ。@……それだけ、……だけど。」\
-
+;「じゃー、何が出来るの？」@
+`"Well....what *can* I do?"`@
+;「私とお喋りできるよ。@……それだけ、……だけど。」\
+`"You can talk with me.`@`...That's all..."`\
 bg black,22
 mono 0
 bg okujou_01y,22
@@ -1904,23 +1916,24 @@ ld c,TOM_D1,80
 
 E_A
 
-「やだよー、そんなの。」@
-
+;「やだよー、そんなの。」@
+`"No...I don't want that."`@
 bgm1 8
 
 br
-　智子は、けろりとそう言う。@
-　茫然とするみちるに、智子は続ける。\
-
+;　智子は、けろりとそう言う。@
+` Tomoko spoke nonchalantly.`@ 
+;　茫然とするみちるに、智子は続ける。\
+` Michiru was stunned, but Tomoko continued.`\
 ld c,TOM_D2,80
 
-「そんなんじゃ、蘇っても私、みちるとお喋りしか出来ないじゃん。@そんなの窮屈でつまんないよー。」@
-
+;「そんなんじゃ、蘇っても私、みちるとお喋りしか出来ないじゃん。@そんなの窮屈でつまんないよー。」@
+`"Even if I'm revived, I can't just talk to Michiru.`@`That's boring and cramped."`@
 ld l,MIC_N1,23
 ;ld l,MIC_D1,80
 
-「で、でも、それしか生き返る方法がないの……。」\
-
+;「で、でも、それしか生き返る方法がないの……。」\
+`"But...But that's the only way you could come back to life!!!"`\
 cl c,0
 ld r,TOM_D1,23
 
