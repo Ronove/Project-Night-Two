@@ -1941,14 +1941,15 @@ ld r,TOM_D1,23
 
 
 
-　そんなことを、あっけらかんと言う。@
+;　そんなことを、あっけらかんと言う。@
+` She spoke indifferently.`@
 br
-　みちるは戸惑わずにはいられない……。\
-
+;　みちるは戸惑わずにはいられない……。\
+` Michiru couldn't help but be puzzled...`\
 ld l,MIC_D6,80
 
-「そんな……、それじゃあ、智子ちゃんは……。」\
-
+;「そんな……、それじゃあ、智子ちゃんは……。」\
+`"But....then...Tomoko-chan....."`\
 cl r,22
 bg black,22
 
@@ -1960,117 +1961,128 @@ ld c,TOM_D1,22
 
 ;ld l,MIC_D1,80
 
-「と、……智子ちゃん………………。」\
-
+;「と、……智子ちゃん………………。」\
+`"To-Tomoko-chan......."`\
 ld c,TOM_D4,80
 
-「いつまでその手。@突き出してる気ー？@　しないよ、私ゃ。@あんたと握手なんて。@なんで、根暗なあんたと握手して、永遠にぬいぐるみなんかに閉じ込められなきゃいかんワケ。」\
-
+;「いつまでその手。@突き出してる気ー？@　しないよ、私ゃ。@あんたと握手なんて。@なんで、根暗なあんたと握手して、永遠にぬいぐるみなんかに閉じ込められなきゃいかんワケ。」\
+`"How long are you gonna hold your hand out?`@`You think I'm gonna take it?`@`Think I'm gonna shake hands with you?`@`I'm not gonna shake hands with gloomy old you when all it means is I'll be confined forever."`\
 ;ld l,MIC_D1,80
 
 bg black,22
 
-「……そ、それはごめん…、謝るよ……。@私のぬいぐるみが嫌なら、……他の依り代でも私は全然……。」\
-
+;「……そ、それはごめん…、謝るよ……。@私のぬいぐるみが嫌なら、……他の依り代でも私は全然……。」\
+`"...I'm sorry then...`@`I apologize if my stuffed animal is off-putting...I guess I can gather some other ones..."`\
 ;bg black,24
 bg okujou_02,24
 ld l,TOM_D4,23
 ld l,TOM_D5,80
 
-「私は私の体以外は絶対に嫌ー。@というか、生きてても面白いことなかったしねー。@勉強大嫌いだし、学校も大嫌いだし。@/
+;「私は私の体以外は絶対に嫌ー。@というか、生きてても面白いことなかったしねー。@勉強大嫌いだし、学校も大嫌いだし。@/
+`"Anything other than my body is useless.`@`Even if I was alive, it wouldn't be fun.`@`I hate studying, I hate school.`@/
 E_A
-……ついでに言うと、あんたも大嫌いだったし。」@
+;……ついでに言うと、あんたも大嫌いだったし。」@
+`....and I hate you most of all."`@
 br
-　その言葉に、みちるは絶句し、息を呑む。\
-
+;　その言葉に、みちるは絶句し、息を呑む。\
+` At that, Michiru was gobsmacked, lost for words.`\
 ld r,MIC_N2,22
 
 bgm1 22
 
-「…………う、……そ………。」@
-
+;「…………う、……そ………。」@
+`"You're....you're lying..."`@
 ld l,TOM_D2,80
 
-「嘘じゃないよ。@最初は面白い子かなーとか思ったけど。@……あんたほら、しつこいしー。@毎日毎日、私んとこ来ては入り浸ってさー。@かといって、あんたを邪険にすると呪われそーだしねー。@あんたと握手したら、手に不気味な痣とか浮かびそーだしー。」\
+;「嘘じゃないよ。@最初は面白い子かなーとか思ったけど。@……あんたほら、しつこいしー。@毎日毎日、私んとこ来ては入り浸ってさー。@かといって、あんたを邪険にすると呪われそーだしねー。@あんたと握手したら、手に不気味な痣とか浮かびそーだしー。」\
+`"It's no lie.`@`True, in the beginning I thought you were interesting.`@`...But really...`@`Every day you'd hang around me, pestering me.`@`On the other hand, if I was hard on you, it seemed you were gonna curse me.`@`If I were to take your hand now, I'd probably get all kinds of diseases."`\
 
 
-
-　親友と、……信じていた智子の口から、……あっけらかんと溢れ出す、辛辣な言葉の数々に、@……みちるは目の前が真っ白になるのを感じた。\
-
+;　親友と、……信じていた智子の口から、……あっけらかんと溢れ出す、辛辣な言葉の数々に、@……みちるは目の前が真っ白になるのを感じた。\
+` These harsh words came forth from Tomoko's mouth, who Michiru had believed to be her friend.`@`Michiru felt her eyes becoming white.`\
 bg black,22
 ;bg mahou_01,22
 
-「これは……、どういうこと………。@悪魔さん……。」@
-
+;「これは……、どういうこと………。@悪魔さん……。」@
+`"What is the meaning of this....`@`Mr. Demon?"`@
 ;bg e005,22
 
-「……う、うむ。@……魂は様々な束縛から放たれているので、本音を語りやすいのだ。@その結果、生前とは口調が変わることも少なくない……。」@
-「じゃあこれは、………智子ちゃんの、…………本音、………なの……。」\
-
+;「……う、うむ。@……魂は様々な束縛から放たれているので、本音を語りやすいのだ。@その結果、生前とは口調が変わることも少なくない……。」@
+`"Ye-Yes.`@`It seems the spirit has been freed from it's bonds, so it's easily talking about its true intentions.`@`As a result, it's manner may be different from when it was alive..."`@
+;「じゃあこれは、………智子ちゃんの、…………本音、………なの……。」\
+`"So...these are Tomoko-chan's true feelings?"`\
 ;bg black,23
 bg okujou_01y,0
 ld r,TOM_D1,23
 ld r,TOM_D2,80
 
-「みちるちゃんのこと、面白い子と思ってたのは最初の頃だけだよー。@その後は、しつこいあんたに振り回されてただけー。@私はすっごい迷惑してたわけ。@……で、そのあんたが、死んだ後になっても、まーだ、私にしつこく付きまとってくるなんてねー。@いやはや、正直マジ勘弁、クソウザイわ。」\
+;「みちるちゃんのこと、面白い子と思ってたのは最初の頃だけだよー。@その後は、しつこいあんたに振り回されてただけー。@私はすっごい迷惑してたわけ。@……で、そのあんたが、死んだ後になっても、まーだ、私にしつこく付きまとってくるなんてねー。@いやはや、正直マジ勘弁、クソウザイわ。」\
+`"Michiru, I really only had any interest in you in the beginning.`@`After that you were just manipulative.`@`A real bother to me.`@`And now you've come to trouble me even after I died.`@`Really, you're disgusting."`\
 
 
-
-　…………………………………。@
-　みちるの頬の煤汚れに、……涙が一筋、流れ落ちた。@
+;　…………………………………。@
+` ................`@
+;　みちるの頬の煤汚れに、……涙が一筋、流れ落ちた。@
+` Tears rolled down Michiru's cheeks.`@
 br
-　そして、俯きながら目を拭った。\
-
+;　そして、俯きながら目を拭った。\
+` And she wiped her eyes while lying face down.`\
 ld l,MIC_N2n,23
 ld l,MIC_N1,80
 
-「………ごめん、……ね……。@………せっかく眠れたのに、……迷惑をかけちゃって……。」\
-
+;「………ごめん、……ね……。@………せっかく眠れたのに、……迷惑をかけちゃって……。」\
+`"I'm sorry.....`@`...Even though you were finally asleep, I've caused you trouble.."`\
 ld r,TOM_D5,80
 
-「寝直すの結構、しんどいんだよー。@もう二度と眠りを覚まさないでよね。@それだけは約束してー？」@
-
+;「寝直すの結構、しんどいんだよー。@もう二度と眠りを覚まさないでよね。@それだけは約束してー？」@
+`"Can you send me back to sleep?`@`Once again, and just don't wake me.`@`Can you promise that?"`@
 ld l,MIC_N2n,80
 
-「…………うん。@……約束……するよ……………。」\
-
+;「…………うん。@……約束……するよ……………。」\
+`"Yes.....`@`I promise."`\
 ld r,TOM_D1,80
 cl r,23
 
-「あとさ。@あんたと一緒に落書きしたあのノート。@全部、捨てちゃってくれるー？@　あんな痛いこと書いてたの、他の人に見られたら恥ずかしーし。」\
-
+;「あとさ。@あんたと一緒に落書きしたあのノート。@全部、捨てちゃってくれるー？@　あんな痛いこと書いてたの、他の人に見られたら恥ずかしーし。」\
+`"Also,`@`can you throw away those notebooks of ours?`@`It'd be really embarrassing if other people were to see them."`\
 me1v 16,50
 
 ld l,MIC_D6,80
 wait 3000
 ld l,MIC_N2,22
 
-「………うん。@………大丈夫……。@……もう、……なくなっちゃったから。」@
+;「………うん。@………大丈夫……。@……もう、……なくなっちゃったから。」@
+`"Yes...`@`Don't worry.`@`They're all gone already."`@
 br
-　ノートは全て、智子の魂を呼び出すために燃やしてしまった。\
-
+;　ノートは全て、智子の魂を呼び出すために燃やしてしまった。\
+` They had been burnt to call forth Tomoko's soul.`\
 bg black,22
 
-　……でも、………いいのかもしれない。@
+;　……でも、………いいのかもしれない。@
+`...But, it might be okay`@
 br
-　智子は再び、眠りに戻る。@
-　彼女は、死んだのだ。\
-
+;　智子は再び、眠りに戻る。@
+` for Tomoko to go back to sleep again.`@
+;　彼女は、死んだのだ。\
+` She was dead, after all.`\
 ;bg Different_spiral_1b,22
 
 
-　それを私だけが認めず、しがみついていた。@
+;　それを私だけが認めず、しがみついていた。@
+` Without admitting it, I was still clinging to her.`@
 br
-　その、しがらみのノートが燃えてなくなってしまって、……いいのかもしれない。\
-
-　彼女の言うことは間違っていない。@
+;　その、しがらみのノートが燃えてなくなってしまって、……いいのかもしれない。\
+` It might be alright, since the notes had been burnt.`\
+;　彼女の言うことは間違っていない。@
+` What she says isn't wrong.`@
 br
-　私は、彼女の魂がぬいぐるみに宿って、毎日話し相手になってくれたら幸せだと思っているけれど。@
+;　私は、彼女の魂がぬいぐるみに宿って、毎日話し相手になってくれたら幸せだと思っているけれど。@
+` But, I think I'd really be happy if she would just stay in a stuffed animal and I could talk to her every day.`@
 br
-　……彼女からしてみれば、それは恐ろしく不自由なことで、@……死の眠りを覚ましてまで強いる境遇ではない。\
-
-　その上、………私が彼女にとっての親友でなかったというなら、……なおさらのことだ……。\
-
+;　……彼女からしてみれば、それは恐ろしく不自由なことで、@……死の眠りを覚ましてまで強いる境遇ではない。\
+` ...And from her point of view,`@`it's an inconvenience that stops her from returning to death.`\
+;　その上、………私が彼女にとっての親友でなかったというなら、……なおさらのことだ……。\
+` Moreover, if, as she says, I'm not a friend of hers, it would be even worse...`\
 ;bg black,22
 bg okujou_01y,0
 ld r,TOM_D3,0
