@@ -927,7 +927,6 @@ bgm1 8
 
 ;　少し天然なところがあるが、さっぱりした性格の彼女は話し易くて好きだ。@
 ` She was nice. Maybe a little ditzy somtimes, but Shintani still enjoyed talking with her.`@
-;---------------------------------------------------------------------------------------------------------------
 ;　絆創膏をもらうだけのつもりだったのに、お茶までご馳走になってしまった。\
 ` She had intended to just get a bandage and get back to work, but she ended up staying for tea too.`\
 
@@ -1200,19 +1199,21 @@ ld r,NAF_D2,80
 `"Don't worry. `@`It's your first time being a model, right?"`@
 
 ;「あ、いえ……。@その、一度だけやったことはあるんですけど、随分前のことなんで………。」@
-`"Ah, no... `@`Actually, I've done it once before, but it was a long time ago..."`@
+`"Ah, no... `@`Actually, I've done it once before, but that was a long time ago..."`@
 br
-　意外な答えに思わず、へぇと声が出た。\
-
+;　意外な答えに思わず、へぇと声が出た。\
+` Finding his answer rather unexpected, she couldn't help but let out an impressed 'oh?'.`\
 
 ld r,NAF_D1,80
 ;ld c,NAF_D1,80
 
-「それって絵のモデル？@　それとも写真か何か？」@
+;「それって絵のモデル？@　それとも写真か何か？」@
+`"Did you model for a painting? `@`Or was it for a photograph?"`@
 br
-　少年は困った様な顔を浮かべた。@なんと答えるべきか迷っているようだった。@
-　その表情を見て、新谷にある想像が浮かんだ。\
-
+;　少年は困った様な顔を浮かべた。@なんと答えるべきか迷っているようだった。@
+` The boy made a troubled face. `@`As if he wasn't quite sure how to answer.`@
+;　その表情を見て、新谷にある想像が浮かんだ。\
+` Seeing that expression made Shintani's imagination wander.`\
 
 
 ;cl a,0
@@ -1221,129 +1222,147 @@ bg kaiga_01,22
 
 ;ld r,NAF_D4,80
 
-　そう言えばこの学校は生徒の芸能活動を禁じている。@
-　もしかしたら学校には内緒で、何かタレント的な活動をしたことがあるのかもしれない。\
-
+;　そう言えばこの学校は生徒の芸能活動を禁じている。@
+` Come to think of it, this school prohibits its students from working as models or actors outside of school.`@
+;　もしかしたら学校には内緒で、何かタレント的な活動をしたことがあるのかもしれない。\
+` Maybe this boy had done some talent related work or something and had been keeping it a secret from the school.`\
 ;ld r,NAF_D1,80
 
-　何しろ、……これだけきれいな顔立ちだ。@
-　芸能事務所にスカウトされてもおかしくないし、@そこまでとはいかなくても、街角で声をかけられてモデルか何かのような形で雑誌に掲載されたことがあるのかもしれない。\
-
+;　何しろ、……これだけきれいな顔立ちだ。@
+` At any rate... he certainly had the looks for it.`@
+;　芸能事務所にスカウトされてもおかしくないし、@そこまでとはいかなくても、街角で声をかけられてモデルか何かのような形で雑誌に掲載されたことがあるのかもしれない。\
+` It wouldn't be odd for a talent agency to scout him out. `@`Maybe it wasn't even that much. It could have been that he did voice work, promoting a store on street corners or modeled for a magazine.`\
 ;ld r,NAF_D2,80
 
 bg black,22
 
-　……ふふふふふ。@あの小うるさい教頭じゃあるまいし、そんなの隠さなくても別に怒ったりしないのに。@
+;　……ふふふふふ。@あの小うるさい教頭じゃあるまいし、そんなの隠さなくても別に怒ったりしないのに。@
+` ...Fufufufufu. `@`But she's not as fussy as the vice-principal, if this boy did do something like that and hide it, it's not like she'd be angry at him.`@
 br
-　新谷がそれ以上問いつめずに絵に向き直ると、少年は心からホッとしたようだった。\
-
+;　新谷がそれ以上問いつめずに絵に向き直ると、少年は心からホッとしたようだった。\
+` When Shintani decided to drop the question and continue her drawing the boy looked relieved.`\
 
 bg bijutu_04,22
 
-「あの……。@この絵って、コンクールか何かに出品したりとかしないですよね……？」\
-
+;「あの……。@この絵って、コンクールか何かに出品したりとかしないですよね……？」\
+`"Um.... `@`Umm, you're not going to enter this drawing in a contest or anything like that, right...?"`\
 ld c,NAF_D4,22
 ld c,NAF_D2,80
 
-「特にどこかに出したり、展示したりするつもりはないわよ。@あくまで私の趣味で描かせてもらうだけだから。」\
+;「特にどこかに出したり、展示したりするつもりはないわよ。@あくまで私の趣味で描かせてもらうだけだから。」\
+`"No, I don't especially intend to exhibit it or anything. `@`I just want to be able to keep pursuing my hobby."`\
 
+;　昔は画家を目指したこともあったが、教師になった時にすっぱり諦めた。@
+` In the past she had wanted to be an artist, but gave up on that when she became a teacher.`@
+;　今でも絵は好きだが、それでどうこうなろうとは思っていない。\
+` She still likes art, but she's accepted how things are.`\
 
-　昔は画家を目指したこともあったが、教師になった時にすっぱり諦めた。@
-　今でも絵は好きだが、それでどうこうなろうとは思っていない。\
+;　言葉通り、これは単なる私の“趣味”だ。@
+` It's nothing more than my 'hobby'.`@
+;　飾るのはもちろん、誰にも見せるつもりなんてない……。\
+` Naturally, she doesn't intend to show anyone this drawing of hers...`\
 
-
-　言葉通り、これは単なる私の“趣味”だ。@
-　飾るのはもちろん、誰にも見せるつもりなんてない……。\
-
-
-「……良かった。@僕、目立ったりするの苦手なんで……。」@
+;「……良かった。@僕、目立ったりするの苦手なんで……。」@
+`"...That's a relief. `@`I don't really like to stand out too much..."`@
 br
-　そう言って少年は曖昧に目を伏せた。\
-
-　もしかしたら芸能活動を咎められるのが怖かったんじゃなくて、@単に恥ずかしかったのかもしれない。@
+;　そう言って少年は曖昧に目を伏せた。\
+` He said while vaguely lowering his eyes.`\
+;　もしかしたら芸能活動を咎められるのが怖かったんじゃなくて、@単に恥ずかしかったのかもしれない。@
+` Maybe he wasn't worried about getting scolded for working outside of school at all. `@`Maybe he is just shy.`@
 br
-　子供らしいその感覚を、新谷は微笑ましく思った。\
-
+;　子供らしいその感覚を、新谷は微笑ましく思った。\
+` Shintani found that sort of childish reaction charming.`\
 ld c,NAF_D1,80
 
-「そうなんだ。@……でも、君くらい可愛かったら、嫌でも目立っちゃうんじゃない？@　クラスの女の子たちが放っておかないでしょ？」\
+;「そうなんだ。@……でも、君くらい可愛かったら、嫌でも目立っちゃうんじゃない？@　クラスの女の子たちが放っておかないでしょ？」\
+`"Really?`@`... But, with how cute you are don't get a lot of attention anyway? `@`I bet the girls in your class won't leave you alone."`\
 
-
-「そんなことないですよ。@男のくせに女みたいだって、いつも馬鹿にされてますから。」@
+;「そんなことないですよ。@男のくせに女みたいだって、いつも馬鹿にされてますから。」@
+`"Not really. `@`Even though I'm a boy, I look like a girl, so I get made fun of a lot."`@
 br
-　確かに。@少年の顔は下手な女の子よりもよっぽど可愛い。@
-　女物の服でも着せて、ウィッグでも被せれば、男だと疑う者はまずいないだろう。\
-
+;　確かに。@少年の顔は下手な女の子よりもよっぽど可愛い。@
+` That would make sense. `@`This boy's face is cuter than most girls out there.`@
+;　女物の服でも着せて、ウィッグでも被せれば、男だと疑う者はまずいないだろう。\
+` If he was wearing girl's clothes and a wig then very few people would even suspect him of being a male.`\
 
 cl l,0
 ld c,NAF_D2,23
 ;ld r,NAF_D1,80
 
-「ふふふふふふ、みんな見る目がないのね。@私は好きだけどな、君の顔。」@
+;「ふふふふふふ、みんな見る目がないのね。@私は好きだけどな、君の顔。」@
+`"Fufufufufu, none of them know true good looks. `@`I, on the other hand, like how your face looks"`@
 br
-　少年が口を閉じた。@その頬がみるみる赤くなる。@
-　そんな可愛らしい反応に気付かない振りをして、新谷は鉛筆を走らせる。\
-
+;　少年が口を閉じた。@その頬がみるみる赤くなる。@
+` The boy's mouth shut. `@`His cheeks turned red before her eyes.`@
+;　そんな可愛らしい反応に気付かない振りをして、新谷は鉛筆を走らせる。\
+` She pretended not to notice his cute reaction and kept moving her pencil.`\
 
 ;cl a,0
 ;bg bijutu_07,26
 bg black,22
 bg bijutu_07,22
 
-　新谷は、自分が男子生徒達から人気があることを知っていた。@
-　このくらいの年齢の子供にとって、優しくて綺麗な先生という存在はとても大きい。@
-　ひと月に１回はラブレターをもらうし、@新谷と親しくなりたいがために美術部に入部しようとする生徒も少なくなかった。\
+;　新谷は、自分が男子生徒達から人気があることを知っていた。@
+` Shintani knew that she was popular among the male students.`@
+;　このくらいの年齢の子供にとって、優しくて綺麗な先生という存在はとても大きい。@
+` To children of this age, having a teacher as kind and pretty as her is a big deal.`@
+;　ひと月に１回はラブレターをもらうし、@新谷と親しくなりたいがために美術部に入部しようとする生徒も少なくなかった。\
+` In one month she'll receive at least one love letter, `@`and there were numerous cases of students entering the art club in hopes of getting closer to her.`\
 
+;　恥ずかしそうに新谷から視線を逸らしていた少年が、不意に口を開いた。\
+` The embarrassed looking boy, still averting his eyes from Shintani, suddenly opened his mouth to say something.`\
 
-　恥ずかしそうに新谷から視線を逸らしていた少年が、不意に口を開いた。\
+;「あの……。@……先生は油絵も描くんですか？」@
+`"Um...`@`... Sensei, are you going to do an oil painting as well?"`@
+;「あら、どうして？」\
+`"Oh, why do you ask?"`\
 
-
-「あの……。@……先生は油絵も描くんですか？」@
-「あら、どうして？」\
-
-
-「それって、油絵の道具ですよね……？」@
+;「それって、油絵の道具ですよね……？」@
+`"Isn't that a tool for oil painting over there...?"`@
 br
-　少年は机の上にあるペンティングナイフを見ていた。\
-
+;　少年は机の上にあるペンティングナイフを見ていた。\
+` The boy was looking at a palette knife placed on her desk.`\
 bg black,23
 bg bijutu_05,23
 ld c,NAF_D1,22
 ld c,NAF_D2,80
 
-「ええ、そうね。@私、水彩画よりも油彩画の方が好きなの。@あの、絵の具を上にどんどん重ねていく感じが好きで。@前は放課後に描いていたりしたんだけど。@……教頭先生にごちゃごちゃ言われたんで、やめちゃったわ。」\
+;「ええ、そうね。@私、水彩画よりも油彩画の方が好きなの。@あの、絵の具を上にどんどん重ねていく感じが好きで。@前は放課後に描いていたりしたんだけど。@……教頭先生にごちゃごちゃ言われたんで、やめちゃったわ。」\
+`"Yes, it is. `@`I enjoy doing oil paintings more watercolors. `@`I like being able to put layers of paint on top of each other. `@`I used to paint them after school... `@`but the vice principal started complaining about it, so I stopped."`\
 
-
-「怒られたって……。@どうしてですか？」@
-
+;「怒られたって……。@どうしてですか？」@
+`"Why... `@`did he get mad at you
 ld c,NAF_D4a,80
 
-「油絵の具の匂いが教室に染み付いちゃうからって。@そもそもうちの学校の授業で油絵は教えてないのに、@自分の趣味のために美術室を私物化してもらっちゃ困るって、云々……。@本当、堅物なのよねあの人。@……自分だって私物を持ち込んでるくせに、ぶつぶつ。」\
+;「油絵の具の匂いが教室に染み付いちゃうからって。@そもそもうちの学校の授業で油絵は教えてないのに、@自分の趣味のために美術室を私物化してもらっちゃ困るって、云々……。@本当、堅物なのよねあの人。@……自分だって私物を持ち込んでるくせに、ぶつぶつ。」\
+`"He complained that the smell of my oil paints would never air out of the room. `@`Besides, since I don't actually teach oil painting in my classes, `@`he said that I shouldn't use the art room for my own hobbies... `@`Really, he's such a stubborn person.`@`... Even though he always brings in his own stuff to the staff room. *mumble mumble*`\
 
-
-「ぼ、……僕も、油絵の方が好きです。@……あ、もちろん、描くんじゃなくて見る方専門ですけど。」@
+;「ぼ、……僕も、油絵の方が好きです。@……あ、もちろん、描くんじゃなくて見る方専門ですけど。」@
+`"I-... I like oil painting too.`@`... Ah, I mean, I can't really do it, but I like looking at them."`@
 br
-　少年はそう言いながら笑顔をつくった。@少しずつ緊張がほぐれてきたらしい。\
-
+;　少年はそう言いながら笑顔をつくった。@少しずつ緊張がほぐれてきたらしい。\
+` The boy spoke with a smile. `@`It looks like he's eased up a bit.`\
 ld c,NAF_D1,80
 
 
-　微笑み返しながら、新谷は少し愉快な気持ちになった。@
+;　微笑み返しながら、新谷は少し愉快な気持ちになった。@
+` Shintani smiled back at him, feeling a little happier.`@
 br
-　油彩画は描かなくなったが、……結局、今も自分は趣味のためにこの教室を私物化しているのだ。\
-
+;　油彩画は描かなくなったが、……結局、今も自分は趣味のためにこの教室を私物化しているのだ。\
+` She may not be able to do oil paintings here anymore... but that hasn't stopped her from using it for her own hobbies.`\
 ld c,NAF_D4,80
 
-　机の上に置かれたままのペンティングナイフにチラリと目をやる。\
+;　机の上に置かれたままのペンティングナイフにチラリと目をやる。\
+` She glanced over at the palette knife sitting on the desk.`\
 
-
-　ナイフとは名ばかりの切れ味の悪い刃物。@
-　確かにこれは油絵の具を混ぜたり、キャンバスに塗り付けたりする時に使う画材だ。\
-
+;　ナイフとは名ばかりの切れ味の悪い刃物。@
+` It was a knife in name only. It lacked the sharpness of a real knife.`@
+;　確かにこれは油絵の具を混ぜたり、キャンバスに塗り付けたりする時に使う画材だ。\
+` It's a tool used for mixing oil paint and applying it to the canvas.`\
 bg black,22
 
-　……だが。@新谷がこれを使うのは絵を描くためではない。@……これには、もっと素晴らしい使い道があるのだ。\
-
+;　……だが。@新谷がこれを使うのは絵を描くためではない。@……これには、もっと素晴らしい使い道があるのだ。\
+` ...However, `@`Shintani did not use it for painting.`@`...She had a much more wonderful use for it.`\
 fede 0,1000
 E_A
 
@@ -1353,22 +1372,27 @@ bg bijutu_03,22
 
 me1v 11,90
 
-　シャッ、シャッ、シャッ、シャッ、シャッ……。@
+;　シャッ、シャッ、シャッ、シャッ、シャッ……。@
+` *scritch* *scritch* *scritch*...`@
+; ^^^ Note To Editor: Sound of pencil on paper. Is there a better onomatopoeia?
 br
-　先ほどよりも明らかに筆圧が強くなっていた。@実際、新谷は自分の中にある欲望を抑えるのに必死だった。\
-
+;　先ほどよりも明らかに筆圧が強くなっていた。@実際、新谷は自分の中にある欲望を抑えるのに必死だった。\
+` The intensity of Shintani's pencil strokes had obviously gotten stronger. `@`In actuality, she was frantically holding back a certain desire building up within her.`\
 
 ld r,NAF_D4a,22
 
-　………まだ駄目。@
-　焦らないで、じっくりと時間をかけなきゃ……。@
-　そうしなきゃ私が本当に描きたいものは描けない。@最高の絵は完成しない。\
+;　………まだ駄目。@
+` ....No, I have to hold back.`@
+;　焦らないで、じっくりと時間をかけなきゃ……。@
+` I have to be patient and take my time...`@
+;　そうしなきゃ私が本当に描きたいものは描けない。@最高の絵は完成しない。\
+` If I don't I'll lose my chance to draw what I really want to draw. `@`I won't be able to draw my masterpiece.`\
 
-
-　……この子の信用を得るためには、二週間、いや、最低でも三週間は費やさないと。@
+;　……この子の信用を得るためには、二週間、いや、最低でも三週間は費やさないと。@
+` ...In order to earn this kid's trust I need to bide my time for two... no, at least three weeks.`@
 br
-　それに裕貴くんが死んでから、まだ一月も経ってない。@ほとぼりが冷めるのにもそのくらいは必要だろう………。\
-
+;　それに裕貴くんが死んでから、まだ一月も経ってない。@ほとぼりが冷めるのにもそのくらいは必要だろう………。\
+` Besides, it hasn't even been one month since Yuuki died. `@`She needed at least that long to calm down about that.....`\
 ld r,NAF_D6a,22
 bg black,2
 
@@ -1377,29 +1401,33 @@ wait 1000
 bg bijutu_02,22
 ;ld c,NAF_D2,2
 
-　スケッチを始めてどのくらい時間が経った頃だろう。@少年が不意にまた口を開いた。\
+;　スケッチを始めてどのくらい時間が経った頃だろう。@少年が不意にまた口を開いた。\
+` She wondered how long it's been since she started her sketch, `@`when suddenly, the boy opened his mouth again.`\
 E_A
-「………先生。」@
+;「………先生。」@
+`"....Sensei."`@
 br
-　それはさっきまでより一段低い声で、神妙な響きを持っていたので、@新谷は思わず鉛筆を動かす手を止めた。\
-
+;　それはさっきまでより一段低い声で、神妙な響きを持っていたので、@新谷は思わず鉛筆を動かす手を止めた。\
+` His voice was much lower and meeker than it had been before now. `@`Shintani stopped moving her hand mid-stroke.`\
 
 
 ld c,NAF_D3,80
 
-「何かしら？」@
-「……どうして裕貴くんはあんなことになってしまったんでしょうか。」@
-
+;「何かしら？」@
+`"What is it?"`@
+;「……どうして裕貴くんはあんなことになってしまったんでしょうか。」@
+`"...Why did that accident have to happen to Yuuki?"`@
 bgm1 14
 
 br
-　突然、野田裕貴の名前が出て来て、新谷は内心どきりとした。\
-
+;　突然、野田裕貴の名前が出て来て、新谷は内心どきりとした。\
+` Out of the blue, he mentioned Yuuki's name, and Shintani's heart jumped.`\
 
 
 ld c,NAF_D4a,80
 
-「…………さあ。@よく分からないわ。」@
+;「…………さあ。@よく分からないわ。」@
+`"......Who can say? `@`I'm not really sure myself."`@
 br
 　動揺を見せないように心掛け、平静を装いながら、逆に聞く。\
 
