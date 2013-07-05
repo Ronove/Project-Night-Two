@@ -2093,33 +2093,35 @@ E_B
 
 ;ld l,MIC_N2,22
 
-　みちるは、差し出していた手を、下げる。\
-
+;　みちるは、差し出していた手を、下げる。\
+` Michiru lowered her hand.`\
 ld l,MIC_N2,80
 
-「…………ごめんね。智子ちゃん。@……せっかく眠れたのに、起こしちゃって。」@
-
+;「…………ごめんね。智子ちゃん。@……せっかく眠れたのに、起こしちゃって。」@
+`"...I'm sorry, Tomoko-chan.`@`Even though you were asleep, I woke you up."`@
 ld r,TOM_D1,80
 
-「こっちこそごめんね。@寝起きだったんで、言わなくていいことまで言っちゃった気がするよ。@……ま、私のことなんか早く忘れて、本当の親友、作んなよ。」\
-
+;「こっちこそごめんね。@寝起きだったんで、言わなくていいことまで言っちゃった気がするよ。@……ま、私のことなんか早く忘れて、本当の親友、作んなよ。」\
+`"I'm sorry too.`@`I've just woken up, but I'm not able to say anything good [no idea how to translate this bit].`@`...Well, be a good friend and hurry up and forget about me."`\
 ld l,MIC_N2n,80
 
-「………………………。@………うん。@……そうだね………。@本当に……ごめんね…………。」\
-
+;「………………………。@………うん。@……そうだね………。@本当に……ごめんね…………。」\
+`"...............`@`....Yes.`@`...I'll do that.`@`I really am sorry."`\
 bg black,22
 bg mahou_01,22
 
-　黒い炎の悪魔は、それを見て気の毒そうだった。@
+;　黒い炎の悪魔は、それを見て気の毒そうだった。@
+` The Demon in the black fire, on seeing this, appeared to feel sorry for her.`@
 br
-　悪魔だって、……みちるが燃やしたノートが、どれほど大切なものだったか知っている。\
+;　悪魔だって、……みちるが燃やしたノートが、どれほど大切なものだったか知っている。\
+` Even as a Demon, he knew how important the notes he had made Michiru burn were to her.`\
 
 
-
-　しかし、……その思い出の美しさは、みちる側からのみなのだ。@
+;　しかし、……その思い出の美しさは、みちる側からのみなのだ。@
+` But, the beauty of those memories was apparent only to Michiru.`@
 br
-　智子側からは、……まったくそうではなかった。\
-
+;　智子側からは、……まったくそうではなかった。\
+` That wasn't the case for Tomoko.`\
 bg black,22
 
 fede 0,1000
@@ -2130,63 +2132,70 @@ bg okujou_01y,0
 ld c,MIC_N2,22
 
 
-「……桜田みちるよ。@……気の毒ではあるが、秘術は失敗だ。@……止むを得んな？」@
-
+;「……桜田みちるよ。@……気の毒ではあるが、秘術は失敗だ。@……止むを得んな？」@
+`"...Sakurada Michiru.`@`...As much as I feel sorry for you, the magic has been a failure.`@`..Shall we stop here?"`@
 ld c,MIC_N2n,80
 
-「…………はい……。」\
+;「…………はい……。」\
+`"...Yes."`\
 
 
-
-「そなたとの契約は白紙に戻す。@であるから、明日からは普通に挨拶をしても構わんぞ。@……まぁその、……せいぜい、新しい友達でも作れ。」@
-
+;「そなたとの契約は白紙に戻す。@であるから、明日からは普通に挨拶をしても構わんぞ。@……まぁその、……せいぜい、新しい友達でも作れ。」@
+`"The contract is henceforth nullified.`@`From tomorrow, you will be able to greet others as normal.`@`...So....please try and make some new friends."`@
 cl c,0
 ld r,MIC_N2n,23
 
-「………はい……。」\
+;「………はい……。」\
+`"Of course...."`\
 
 
-
-「では、もう帰るが良い。@……吾輩は、秘術にて開いた霊界の扉を閉め、岡田智子の霊を送り返さねばならぬ。@………気の毒とは思うが、そなたが親友にもう一度会いたいが為に、思い出のノートを焼いてみせたその信念。@吾輩は忘れぬぞ。」\
-
+;「では、もう帰るが良い。@……吾輩は、秘術にて開いた霊界の扉を閉め、岡田智子の霊を送り返さねばならぬ。@………気の毒とは思うが、そなたが親友にもう一度会いたいが為に、思い出のノートを焼いてみせたその信念。@吾輩は忘れぬぞ。」\
+`"Well, I have to get going.`@`...The door to the spirit world is closing, and I had best be off, as should Okdada Tomoko, if you want her to go.`@`I feel bad for you, but I think, for the sake of making new friends, it is for the best that you burnt those notebooks.`@`Do not forget me either."`\
 ld r,MIC_N2,80
 
-「もう……、済んだことですし……。」@
+;「もう……、済んだことですし……。」@
+`"Are you really gonna go....?"`@
 br
-　あのノートが思い出の大切なものと思っていたのは自分だけ。@
-　智子ちゃんにとっては、誰にも見られたくない恥ずかしいもの……。\
-
+;　あのノートが思い出の大切なものと思っていたのは自分だけ。@
+` She was the only one who saw any value in those notebooks.`@
+;　智子ちゃんにとっては、誰にも見られたくない恥ずかしいもの……。\
+` For Tomoko, they were just an embarrassment...`\
 cl r,22
 
 ;ld c,MIC_D1,80
 
-　全部燃えて、塵になって飛ばされて消えてしまって。@
+;　全部燃えて、塵になって飛ばされて消えてしまって。@
+` Everything was burnt, and had blown into the wind as a fine dust.`@
 br
-　これで、………いいんだ……。@
-　帰ろう。@
-　そして、……お風呂で、お布団で、……いっぱい泣こう。\
-
+;　これで、………いいんだ……。@
+` This is good.`@
+;　帰ろう。@
+` Let's go back.`@
+;　そして、……お風呂で、お布団で、……いっぱい泣こう。\
+` And have a good long cry in the bath and in bed.`\
 bg black,22
 
 ;ld c,MIC_D1,80
-　これはきっと、天罰なんだ。@
-　死者の眠りを覚ますという禁忌に、安易に触れようとした私への、天罰なんだ。\
-
+;　これはきっと、天罰なんだ。@
+` This is Divine Punishment.`@
+;　死者の眠りを覚ますという禁忌に、安易に触れようとした私への、天罰なんだ。\
+` My careless waking of the dead has earned me an eternal damnation.`\
 
 ;cl c,0
 ;ld r,MIC_D1,23
 
 bg Air_03,22
 
-「………さよなら。@…………智子ちゃん……。」@
-
+;「………さよなら。@…………智子ちゃん……。」@
+`"Goodbye....`@`..Tomoko-chan."`@
 ;ld l,TOM_D1,23
 ;ld l,TOM_D1,80
 
-「ん。@さよならね。@みちるちゃん。」@
+;「ん。@さよならね。@みちるちゃん。」@
+`"Yeah.`@`Goodbye,`@`Michiru-chan."`@
 br
-　みちるはとぼとぼと屋上を去る。\
-
+;　みちるはとぼとぼと屋上を去る。\
+` Michiru left the rooftop stumbling.`\
 bg black,23
 bg k_kaidan_01,23
 wait 300
@@ -2196,7 +2205,8 @@ wait 300
 bg black,22
 bg k_rouka_01,22
 
-　そして階段を駆け下りた。@飛び降りるように、駆け下りた。@
+;　そして階段を駆け下りた。@飛び降りるように、駆け下りた。@
+` And she ran down the stairs, as if jumping.`@
 br
 　昨日までの自分を置いてけぼりにするかのように、ひたすらに。\
 
@@ -2205,11 +2215,13 @@ bg gakkou_07y,2
 
 me1v 35,70
 
-　旧校舎を出ると、………涼しい風が吹いて、涙で濡れた頬を冷ましてくれた。@
-　屋上から駆け下りてきたので、心臓がばくばくする。@
+;　旧校舎を出ると、………涼しい風が吹いて、涙で濡れた頬を冷ましてくれた。@
+` Just as she stepped outside the old school building, a cool breeze blew, drying her cheeks wet with tears.`@
+;　屋上から駆け下りてきたので、心臓がばくばくする。@
+` She had run down the stairs so quickly her heart was pounding loudly.`@
 br
-　荒い息で俯いていると、……やさしく誰かが、背中を撫でてくれた。\
-
+;　荒い息で俯いていると、……やさしく誰かが、背中を撫でてくれた。\
+` As she breathed heavily, eyes downcast, someone gently patted her back.`\
 bg black,24
 bg gakkou_08y,0
 ld c,SAK_D1,0
@@ -2217,31 +2229,35 @@ ld r,MAR_w1,24
 
 ld c,SAK_D3,80
 
-「………うりゅー。」@
-
+;「………うりゅー。」@
+`"...Uryuu~!"`@
 ld r,MAR_w2n,80
 
-「……みちるちゃん。」\
+;「……みちるちゃん。」\
+`"Michiru-chan..."`\
 ;＜毬枝
 
 mld l,MIC_n1,23
 mld l,MIC_D5,80
 
-「さくのしんさま……。@……毬枝さんも………。」\
+;「さくのしんさま……。@……毬枝さんも………。」\
+`"Sakunoshin-sama...`@`...Oh, and Marie-san too..."`\
 
 
 
-　二人とも、今の屋上の一部始終を知っているようだった。@
+;　二人とも、今の屋上の一部始終を知っているようだった。@
+` It seemed that the two of them knew the whole story of what had just transpired on the rooftop.`@
 br
-　それ以上の言葉は掛けず、……ただ静かに、みちるを見守っている……。\
-
+;　それ以上の言葉は掛けず、……ただ静かに、みちるを見守っている……。\
+` But without using any words, they watched Michiru silently...`\
 mld l,MIC_D3,80
 
-「……智子ちゃんが、私の最高の親友だったことは、……何も変わらない。@……何も、………何も。@……生涯。」@
-
+;「……智子ちゃんが、私の最高の親友だったことは、……何も変わらない。@……何も、………何も。@……生涯。」@
+`"...Tomoko-chan was my best friend....Nothing will change that.`@`Nothing...`@`..Ever."`@
 ld r,MAR_w2,80
 
-「………うん。@……知ってるよ。」\
+;「………うん。@……知ってるよ。」\
+`"...Yes.`@`..We know."`\
 ;＜毬枝
 
 mld l,MIC_N2n,80
