@@ -289,7 +289,7 @@ bg kaiga_01,22
 ;　それは一人の少女の絵だった。@
 ` It was a painting of a girl.`@
 ;　短い鞭を持った英国風の美しい少女。@肩まである柔らかそうな髪。@鮮やかな青い色のスカート。@………………あれ。\
-` She was a beautiful English looking girl, and was holding a riding crop. `@`She had very soft looking hair that went down to her shoulders. `@`And she wore a bright blue skirt.`@`........ Wait.`\
+` She was a beautiful English looking girl, and was holding a short whip. `@`She had very soft looking hair that went down to her shoulders. `@`And she wore a bright blue skirt.`@`........ Wait.`\
 
 
 ld r,NOD_D1,22
@@ -432,7 +432,7 @@ bg black,22
 bg kaiga_02,22
 
 ;　巨大な黒い胸像が、人間の形をした黒い影を押し潰している様子が描かれている。@
-` The painting featured a dark human outline bring crushed by a gigantic black bust.`@
+` The painting featured a dark silhouette in the shape of a human being crushed by a gigantic black bust.`@
 ;　絵の下には『つぶれた太陽』と題名が書かれた札が貼られている。\
 ` There was a small piece of paper placed beneath the paiting that titled the work "The Setting Sun."`\
 
@@ -1429,134 +1429,153 @@ ld c,NAF_D4a,80
 ;「…………さあ。@よく分からないわ。」@
 `"......Who can say? `@`I'm not really sure myself."`@
 br
-　動揺を見せないように心掛け、平静を装いながら、逆に聞く。\
-
+;　動揺を見せないように心掛け、平静を装いながら、逆に聞く。\
+` Trying to hide how off guard his question caught her, she faked a calm voice and replied with her own question.`\
 
 
 ld c,NAF_D4,80
 
-「……君、裕貴くんの友達だったの？」@
-「いえ。@友達ってほど仲が良かったわけでもないんですけど……。」@
+;「……君、裕貴くんの友達だったの？」@
+`"...Were you Yuuki's friend?"`@
+;「いえ。@友達ってほど仲が良かったわけでもないんですけど……。」@
+`"No. `@`I wasn't really close enough to him to be considered his friend, but..."`@
 br
-　そうだろう。@野田裕貴は極端に内気な生徒だった。@友達らしい友達もいなかったはずだ。\
+;　そうだろう。@野田裕貴は極端に内気な生徒だった。@友達らしい友達もいなかったはずだ。\
+` That would make sense. `@`Yuuki Noda was an extremely timid student. `@`She wouldn't expect him to have had any good friends.`\
 
 
-
-「……先生は、あの噂をどう思いますか？」@
-
+;「……先生は、あの噂をどう思いますか？」@
+`"...Sensei, what do you think about that rumor?"`@
 ld c,NAF_D2,80
 
-「あぁ、あの？@　……“美術室のルノワール”のこと？」\
-
+;「あぁ、あの？@　……“美術室のルノワール”のこと？」\
+`"Ahh, that one?`@`... the story of 'Renoir of the Art Room'?"`\
 
 bg black,24
 ;cl a,0
 bg kaiga_01,24
 
-　少年は頷いて壁に視線を向ける。@そこには一枚の絵がかけられていた。@
-　花が生い茂る鮮やかな花壇の前に、英国風の青いスカートを履いた美少女が立ち、鞭を握りしめている。\
+;　少年は頷いて壁に視線を向ける。@そこには一枚の絵がかけられていた。@
+` The boy nodded his head and looked over at the wall. `@`Hanging there was a single painting.`@
+;　花が生い茂る鮮やかな花壇の前に、英国風の青いスカートを履いた美少女が立ち、鞭を握りしめている。\
+` In front of a flower bed filled with vibrantly colored flowers stood an beautiful English looking girl wearing a blue skirt and gripping a short whip.`\
 
-
-　その瞳はとても冷たく、その笑顔はひどく寂しそうだ。@
+;　その瞳はとても冷たく、その笑顔はひどく寂しそうだ。@
+` Her eyes looked awfully cold, and her smile horribly lonely.`@
 br
-　………それが、ピエール＝オーギュスト・ルノワール作『鞭を持つ子供』。\
+;　………それが、ピエール＝オーギュスト・ルノワール作『鞭を持つ子供』。\
+` .....This was Pierre-Auguste Renoir's 'Child with a Whip'.`\
+
+;　新谷は生徒達が話していた噂を、改めて思い出す。@
+` Once again, Shintani recalled the rumor that the students had been spreading.`@
+;　学校八不思議の一つ、“美術室のルノワール”の噂を。\
+` A rumor about one of the eight mysteries of the school, 'Renoir of the Art Room'.`\
 
 
-　新谷は生徒達が話していた噂を、改めて思い出す。@
-　学校八不思議の一つ、“美術室のルノワール”の噂を。\
-
-
-
-　“美術室のルノワール”の怪談には、全部で五つの項目があるらしい。\
-
+;　“美術室のルノワール”の怪談には、全部で五つの項目があるらしい。\
+` Apparently there were five main parts to the story of 'Renoir of the Art Room'.`\
 br
-　一、ルノワールに絵筆を借りてはいけない。@
-　二、ルノワールは美術室に掛けられた絵を指して、作者が誰かを尋ねてくる。@その画家の名を正確に答えなければいけない。@
-　三、ルノワールの問い掛けに嘘をついてはならない。@
-　四、上記のどれかを破れば、ルノワールの祟りによって美術室にかけられた絵のどれかと、同じ運命を追うことになる。@
+;　一、ルノワールに絵筆を借りてはいけない。@
+` One, never let Renoir borrow your paintbrush.`@
+;　二、ルノワールは美術室に掛けられた絵を指して、作者が誰かを尋ねてくる。@その画家の名を正確に答えなければいけない。@
+` Two, if Renoir points to one of the pictures in the art room and asks you who made it, `@`you have to answer the name of the artist correctly.`@
+;　三、ルノワールの問い掛けに嘘をついてはならない。@
+` Three, you can't lie when answering Renoir's questions.`@
+;　四、上記のどれかを破れば、ルノワールの祟りによって美術室にかけられた絵のどれかと、同じ運命を追うことになる。@
+` Four, if you break any of the above three rules, you'll be cursed by Renoir to befall the same fate as one of the paintings on the art room walls.`@
 br
-　そして、五。\
-
+;　そして、五。\
+` And five.`\
 br
-　……ルノワールは美術室に飾られた『鞭を持つ子供』に描かれた子供とそっくりの姿をしている。\
+;　……ルノワールは美術室に飾られた『鞭を持つ子供』に描かれた子供とそっくりの姿をしている。\
+` ...Renoir looks just like the kid in the painting 'Child with a Whip' hanging on the art room's wall.`\
 
 
-
-　新谷は少年と共に『鞭を持つ子供』の絵を眺めた。@
-　淡い色彩で描かれた、ぞっとするほど冷たい目をした美しい少女。@それを見つめたまま、新谷は彼に聞き返す。\
-
+;　新谷は少年と共に『鞭を持つ子供』の絵を眺めた。@
+` Together with the boy, Shintani stared at that painting, 'Child with a Whip'.`@
+;　淡い色彩で描かれた、ぞっとするほど冷たい目をした美しい少女。@それを見つめたまま、新谷は彼に聞き返す。\
+` At that pale hued painting of a beautiful girl with eyes so cold they could make you shiver. `@`Without looking away from that painting, Shintani asked him a question.`\
 
 bg black,22
 bg bijutu_04,0
 ld r,NAF_D2,22
 
-「…………君は、どう思うの？」@
-「僕は、違うと思います。@ルノワールの祟りで裕貴くんが死んだなんて……。」\
-
+;「…………君は、どう思うの？」@
+`"......What do you think?"`@
+;「僕は、違うと思います。@ルノワールの祟りで裕貴くんが死んだなんて……。」\
+`"I don't think it's true. `@`I don't think that it was Renoir's curse that killed Yuuki..."`\
 
 
 ld r,NAF_D1,80
 
-「そうね。@私もそう思うわ。@あんなのはただの根も葉もない噂よ。@……警察は、彼はひとりで美術室で遊んでて、事故に遭ったんじゃないかって言ってたわ。@それで何かの拍子につまずいて、そこに運悪く石膏像が倒れて来て……。」@
+;「そうね。@私もそう思うわ。@あんなのはただの根も葉もない噂よ。@……警察は、彼はひとりで美術室で遊んでて、事故に遭ったんじゃないかって言ってたわ。@それで何かの拍子につまずいて、そこに運悪く石膏像が倒れて来て……。」@
+`"Yeah. `@`I agree. `@`It was just a rumor, nothing more.`@`... The police said that he was probably just playing alone in the art room and an accident happened. `@`He probably just tripped at some point and unfortunately that bust fell on him..."`@
 br
-　新谷は視線を動かした。\
-
+;　新谷は視線を動かした。\
+` Shintani shifted her gaze away from the painting.`\
 
 bg black,23
 ;cl a,0
 bg kaiga_02,23
 
-　……『鞭を持つ子供』の右側にかけられた少し大きめの絵。@
-　他の絵の様に額に入れられたカラーコピーとは違い、@この一枚だけはキャンバスに描かれた本物の油彩画だった。\
+;　……『鞭を持つ子供』の右側にかけられた少し大きめの絵。@
+` ...To the right of 'Child with a Whip' there was a slightly larger painting.`@
+;　他の絵の様に額に入れられたカラーコピーとは違い、@この一枚だけはキャンバスに描かれた本物の油彩画だった。\
+` This picture wasn't a color copy placed in a frame like the others. `@`It was the real thing. An oil painting done on a canvas. Unlike any other in the room.`\
 
 
-
-　……桜坂陽助作、『つぶれた太陽』。@
+;　……桜坂陽助作、『つぶれた太陽』。@
+` ...'The Setting Sun' by Yousuke Sakurazaka.`@
 br
-　新谷が聞いた話では、「挫折と再生」をテーマに絵を書き続けるこの桜坂と言う作者は、@昔この学校を卒業した生徒だったらしい。\
+;　新谷が聞いた話では、「挫折と再生」をテーマに絵を書き続けるこの桜坂と言う作者は、@昔この学校を卒業した生徒だったらしい。\
+` Shintani heard that Sakurazka was a student that graduated from this school a long time ago. `@`Apparently the theme of 'failure and rebirth' was prevalent in many of his works.`\
 
 
-
-　若手画家として一躍注目を浴びるようになったのをきっかけに、@その転機ともなったこの作品を母校であるこの学校に寄付したそうだ。@
+;　若手画家として一躍注目を浴びるようになったのをきっかけに、@その転機ともなったこの作品を母校であるこの学校に寄付したそうだ。@
+` When he was still a young he suddenly happened to hit it big. `@`When that happened he decided to donate this piece of art to the school he graduated from.`@
 br
-　そして、野田裕貴の死が“美術室のルノワール”の祟りだと噂になったのは、@そもそもこの絵こそが原因だった。\
-
+;　そして、野田裕貴の死が“美術室のルノワール”の祟りだと噂になったのは、@そもそもこの絵こそが原因だった。\
+` And this painting was originally what started that rumor. `@`The rumor that Yuuki Noda's death was the curse of 'Renoir of the Art Room'.`\
 
 bg black,22
 ;bg bijutu_07,26
 
-　『つぶれた太陽』は、いわゆる抽象画だった。@
+;　『つぶれた太陽』は、いわゆる抽象画だった。@
+` 'The Setting Sun' was an abstract painting.`@
 br
-　巨大な胸像のような黒い影が、人の形をした淡い光を無慈悲に押しつぶしている。\
-
+;　巨大な胸像のような黒い影が、人の形をした淡い光を無慈悲に押しつぶしている。\
+` A giant black bust was mercilessly crushing the pale silhouette of a human.`\
 
 mono 2
 bg Different_spiral_1b,22
 
-　……それは、野田裕貴の死んだ状況そのものだったのだ。@
+;　……それは、野田裕貴の死んだ状況そのものだったのだ。@
+` ...And that was the very same end that Yuuki Noda met.`@
 br
-　あちこち汚れて黒ずんだ石膏像。@極端に色が白かった野田裕貴の小さな身体。\
-
+;　あちこち汚れて黒ずんだ石膏像。@極端に色が白かった野田裕貴の小さな身体。\
+` A blackened plaster bust. `@`And the small, deathly pale body of Yuuki Noda.`\
 
 
 ;bg black,22
 
 
-　“美術室のルノワール”、五つの項目のうちの一つ。@
+;　“美術室のルノワール”、五つの項目のうちの一つ。@
+` That was one of the main parts of the story of 'Renoir of the Art Room'.`@
 br
-　……ルールを破った者は、ルノワールの祟りによって美術室にかけられた絵のどれかと、同じ運命を追うことになる。\
-
+;　……ルールを破った者は、ルノワールの祟りによって美術室にかけられた絵のどれかと、同じ運命を追うことになる。\
+` ...Whoever breaks the rules of the story will be cursed by Renoir and will meet the same fate as one of the paintings on the art room walls.`\
 bg black,22
 mono 1
 bg bijutu_01,22
 
-　放課後、美術室にいた野田裕貴はルノワールと遭遇し、彼女から問い掛けをされた。@
+;　放課後、美術室にいた野田裕貴はルノワールと遭遇し、彼女から問い掛けをされた。@
+` Yuuki Noda had an encounter with Renoir in the art room after school, and had to answer her questions.`@
 br
-　……そして彼は、それに答えられなかった、もしくは偽りを述べたため、@裕貴は『つぶれた太陽』になぞらえて殺されたのではないだろうか……。\
+;　……そして彼は、それに答えられなかった、もしくは偽りを述べたため、@裕貴は『つぶれた太陽』になぞらえて殺されたのではないだろうか……。\
+` ...He was then either unable to answer a question or told a lie, `@`and was killed in the same manner as 'The Setting Sun'...`\
 
-
-　それが今、学校中で蔓延している噂だった……。\
-
+;　それが今、学校中で蔓延している噂だった……。\
+` That is the rumor that has been spreading around the school...`\
 
 bg black,22
 mono 0
