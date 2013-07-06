@@ -2262,40 +2262,47 @@ ld r,MAR_w2,80
 
 mld l,MIC_N2n,80
 
-「でも、……智子ちゃんは死んじゃった。@………死んだ人の面影を、……いつまでもいつまでも追っていたら、………眠れないよね……。@………眠らせてあげなくちゃ……。@……親友の眠りを、………静かに、……見守ってあげなくちゃ………。@……ぅぅうぅぅ……。」\
-
+;「でも、……智子ちゃんは死んじゃった。@………死んだ人の面影を、……いつまでもいつまでも追っていたら、………眠れないよね……。@………眠らせてあげなくちゃ……。@……親友の眠りを、………静かに、……見守ってあげなくちゃ………。@……ぅぅうぅぅ……。」\
+`"But...Tomoko-chan died.`@`..If I always chase after people who have died, they wont sleep.`@`I have to let them rest...`@`..I have to let them sleep.`@`...UuuuUuuuuu..."`\
 ld c,SAK_D2,80
 
-「うりゅー……。@……みちるは偉いよ。@……よく、……がんばったね。」@
+;「うりゅー……。@……みちるは偉いよ。@……よく、……がんばったね。」@
+`"Uryuu~!`@`....You're great Michiru.`@`...Keep doing your best."`@
 ;＜さくのしん
 
 ld r,MAR_w1,80
 
-「誰も悪くないよ……。@みちるちゃんは、最後の最後まで、お友達のことを想ってたよ……。」\
+;「誰も悪くないよ……。@みちるちゃんは、最後の最後まで、お友達のことを想ってたよ……。」\
+`"Nobody is bead.`@`Until the very end, Michiru, you were thinking about your friend..."`\
 ;＜毬枝
 
 ld c,SAK_D3,80
 
-「……智子のためにも……。@……みちるも、がんばろ……。@そして智子の分も、……笑って、遊んで……、新しいお友達を作らなきゃ……。」\
+;「……智子のためにも……。@……みちるも、がんばろ……。@そして智子の分も、……笑って、遊んで……、新しいお友達を作らなきゃ……。」\
+`"You have to strive on...`@`for Tomoko's sake.`@`You have to play, laugh and make friends enough for the two of you."`\
 ;＜さくのしん
 
 mcl l,0
 bg black,22
 bg gakkou_07y,22
 
-　もう、秘術も契約も何もない。@
-　明日からは普通に、挨拶をしていい。\
+;　もう、秘術も契約も何もない。@
+` There was no spell or contract anymore.`@
+;　明日からは普通に、挨拶をしていい。\
+` She would greet people like normal from tomorrow.`\
 
 
-
-　……挨拶を出来るからといって、……したい相手がいるわけじゃない。@
+;　……挨拶を出来るからといって、……したい相手がいるわけじゃない。@
+`...Just because she could greet people, didn't mean that people would accept her though.`@
 br
-　智子を蘇らせるために、一度は捨てた挨拶だけれど。@
-　彼女を忘れるためにも、………明日からは、挨拶をした方が、……良いのかもしれない。\
-
-　……確かに、智子に冷たい言葉を掛けられた。@
-　でも、……あの楽しかった日々は、それでも色褪せない。\
-
+;　智子を蘇らせるために、一度は捨てた挨拶だけれど。@
+` She had lost her greetings once, when she tried to revive Tomoko.`@
+;　彼女を忘れるためにも、………明日からは、挨拶をした方が、……良いのかもしれない。\
+` In order to forget her it'd be best if she greeted people tomorrow.`\
+;　……確かに、智子に冷たい言葉を掛けられた。@
+` Indeed, Tomoko had said as much.`@
+;　でも、……あの楽しかった日々は、それでも色褪せない。\
+` But the fun times they had shared would endure.`\
 ;bg white,22
 bg black,22
 mono 1
@@ -2303,8 +2310,8 @@ bg mansion_03,0
 ld l,MIC_D2,0
 mld r,TOM_D1,22
 
-　唐突な別れで、私たちの最後の言葉は「じゃあね、学校でね。」だった。\
-
+;　唐突な別れで、私たちの最後の言葉は「じゃあね、学校でね。」だった。\
+` In a sudden farewell, their last words had been "See you at school!"`\
 ;bg white,22
 ;mono 0
 
@@ -2313,10 +2320,11 @@ bg black,22
 ;bg okujou_01y,0
 ;ld c,TOM_D1,22
 
-　でも、こうしてもう一度会えて、ちゃんと、さようならと言い合えた。@
+;　でも、こうしてもう一度会えて、ちゃんと、さようならと言い合えた。@
+` But, they had met again, and properly said goodbye.`@
 br
-　それだけで、………満足なんだ…………。\
-
+;　それだけで、………満足なんだ…………。\
+` That was good enough.`\
 mcl r,0
 bg black,2
 
@@ -2326,15 +2334,16 @@ bg gakkou_08y,0
 ld c,MIC_D3,22
 ld c,MIC_D6,80
 
-「さよならって。@……その一言を交わせたんだから。@………素敵な、……夜だった……。」@
+;「さよならって。@……その一言を交わせたんだから。@………素敵な、……夜だった……。」@
+`"'Goodbye'`@`...Tonight was a good night,`@`for those words to be said."`@
 br
-　みちるはそう言い、……真っ赤になった目で月を見上げる。\
-
+;　みちるはそう言い、……真っ赤になった目で月を見上げる。\
+` As she said this, Michiru looked up at the moon with her bloodshot eyes.`\
 bg black,22
 bg Air_03,26
 
-「智子ちゃんのことは忘れない。@……でももう、智子ちゃんだけに囚われたりもしない。@……私は桜田みちる。@……明日からを、また新しく生きていくよ……。」\
-
+;「智子ちゃんのことは忘れない。@……でももう、智子ちゃんだけに囚われたりもしない。@……私は桜田みちる。@……明日からを、また新しく生きていくよ……。」\
+`"I won't forget you, Tomoko.`@`..But I won't keep you captive.`@`I'm Sakurada Michiru.`@`...And I'll live on tomorrow..."`\
 bg black,22
 bg gakkou_08y,0
 ld r,SAK_k2,0
@@ -2342,28 +2351,34 @@ ld c,MAR_w1,22
 
 ld r,SAK_D1,80
 
-「………みちる………。」@
+;「………みちる………。」@
+`"....Michiru..."`@
 ;＜さくのしん
 
 ld c,MAR_w2n,80
 
-「……………………。」\
+;「……………………。」\
+`"................"`\
 ;＜笑顔で見守る毬枝
 
 
 
-　……人間は、……弱くない。@
+;　……人間は、……弱くない。@
+` ...Humans....humans aren't weak.`@
 br
-　いくつもの出会いと別れ、死別を乗り越えても、……力強く生きていく。@
-　それを、まだ幼いみちるに期待するのは、確かに酷かもしれない。\
-
+;　いくつもの出会いと別れ、死別を乗り越えても、……力強く生きていく。@
+` They have the strength to meet and part, and overcome mourning.`@
+;　それを、まだ幼いみちるに期待するのは、確かに酷かもしれない。\
+` It's a cruel expectation for such a young Michiru.`\
 ld c,MAR_w2,80
 
-　でも、……生きていれば、癒えぬ悲しみはない。@
-　生きてさえいれば。@
+;　でも、……生きていれば、癒えぬ悲しみはない。@
+` But, just living on won't heal that sadness.`@
+;　生きてさえいれば。@
+` For as long as she lives.`@
 br
-　……人間という存在の強さを、改めて知る毬枝だった………。\
-
+;　……人間という存在の強さを、改めて知る毬枝だった………。\
+` Marie once again knew the strength of human existence.`\
 bg black,42
 wait 2000
 
@@ -2379,12 +2394,14 @@ wait 1000
 ld r,HIG_w3,22
 ld r,HIG_D2,80
 
-「………だいぶ泣いてたけれど。@きっと立ち直るわ。@人間だもの。」@
+;「………だいぶ泣いてたけれど。@きっと立ち直るわ。@人間だもの。」@
+`"...I was crying.`@`But I'll bounce back.`@`A human, of course."`@
 ;＜彼岸花
 br
-　旧校舎の屋上に、ふわりと姿を現したのは彼岸花だった。@
-　黒い炎の悪魔も、智子の魂も、まだ屋上にいた。\
-
+;　旧校舎の屋上に、ふわりと姿を現したのは彼岸花だった。@
+` Higanbana appeared gracefully on the old school building rooftop.`@
+;　黒い炎の悪魔も、智子の魂も、まだ屋上にいた。\
+` The Demon clad in black flames, and Tomoko's soul, were still both on the rooftop.`\
 
 
 「………吾輩の力で、依り代とはいえ、蘇らせてやろうとしたのに。@……自ら蹴るとは、勿体ない娘よ。」@
@@ -2394,10 +2411,11 @@ ld l,TOM_D1,80
 
 E_A
 
-「はん。@/
+;「はん。@/
+`"Hm.`@/
 bgm1 24
-冗談じゃないねー。@誰が悪魔なんかと契約するかってーの。」\
-
+;冗談じゃないねー。@誰が悪魔なんかと契約するかってーの。」\
+`You're joking right?`@`Who on earth would make a contract with a Demon."`\
 ld r,HIG_D1,80
 
 「くすくす。@……死後の世界の寂しさを知って、なおもそう言えるのは大したものだわ。@……どんな形であれ、現世に留まりたいと願うのが普通でしょうに。」\
@@ -2405,39 +2423,45 @@ ld r,HIG_D1,80
 
 ld l,TOM_D2,80
 
-「この岡田智子っ。@こー見えても、親友に迷惑かけてまで生き返りたいほど、腐っちゃいないよー！」@
+;「この岡田智子っ。@こー見えても、親友に迷惑かけてまで生き返りたいほど、腐っちゃいないよー！」@
+`"This Okada Tomoko.`@`She's rotten so much that she's a bother to her best friend, and tries to return them to life."`@
 br
 ;ld l,TOM_D1,80
 
-　エヘンと胸を張る智子。@その様子を見て、彼岸花もくすりと笑う。\
-
+;　エヘンと胸を張る智子。@その様子を見て、彼岸花もくすりと笑う。\
+` Tomoko cleared her throat and stuck out her chest.`@`On seeing this, Higanbana giggled.`\
 ld r,HIG_D4,80
 
-「……というわけで。@あんたの負けね？」@
+;「……というわけで。@あんたの負けね？」@
+`"...By which you mean,`@`you lost, right?"`@
 ;＜彼岸花
-「うむ。@吾輩の負けのようであるな。@……若い娘の挨拶を、ぼりぼり貪れると思ったら。@……やれやれ、残念であるわ。」\
-
+;「うむ。@吾輩の負けのようであるな。@……若い娘の挨拶を、ぼりぼり貪れると思ったら。@……やれやれ、残念であるわ。」\
+`"Yes.`@`It is as if we lost.`@`...We were coveting too much the greeting of a young girl.`@`..It's really a shame."`\
 cl l,0
 mld c,TOM_D2,23
 
-「私ゃーね。@死んだって、あの子の親友だよ？@　死んだ後まであの子に迷惑かけるなんて、さらっさら御免だね！」\
-
+;「私ゃーね。@死んだって、あの子の親友だよ？@　死んだ後まであの子に迷惑かけるなんて、さらっさら御免だね！」\
+`"So,`@`even though I'm dead, I'm still that girl's best friend?`@`I'm really causing her so much trouble. I'm sorry about that!"`\
 mcl c,0
 bg black,22
 bg note1,22
 
-　……智子は、辛かったのだ。@
+;　……智子は、辛かったのだ。@
+` ....Tomoko was pained.`@
 br
-　生前の、楽しかった日々の証である落書きノートが、@……今のみちるを苦しめる元凶となっていることが、辛かったのだ。\
+;　生前の、楽しかった日々の証である落書きノートが、@……今のみちるを苦しめる元凶となっていることが、辛かったのだ。\
+` It pained her that the notebook they had kept,`@`had become a like a curse, wounding Michiru even now.`\
 
 
-
-　だから、……焼いてもらった。@
-　思い出は心の中だけで充分。@……読み返して悲しい気持ちがぶり返すなら、なくなった方が良い。@
+;　だから、……焼いてもらった。@
+` That's why she burned it.`@
+;　思い出は心の中だけで充分。@……読み返して悲しい気持ちがぶり返すなら、なくなった方が良い。@
+` Memories were sufficient in the mind.`@`...If the sad feelings had been taken care of, then the person who had died was fine.`@
 br
-　その上、みちるは自分を蘇らせるために、永遠に挨拶をしないなどと誓った。@
-　それはつまり。@自分の親友に、生涯、他の誰とも仲良くなるなと呪いを掛けるようなものだ。\
-
+;　その上、みちるは自分を蘇らせるために、永遠に挨拶をしないなどと誓った。@
+` Furthermore, Michiru had vowed to never greet anyone in order to revive her.`@
+;　それはつまり。@自分の親友に、生涯、他の誰とも仲良くなるなと呪いを掛けるようなものだ。\
+` In other words,`@`she was going to live a cursed life, being unable to ever befriend anyone else.`\
 bg black,22
 bg okujou_01y,0
 ld c,TOM_D3,22
