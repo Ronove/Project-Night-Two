@@ -2467,8 +2467,8 @@ bg okujou_01y,0
 ld c,TOM_D3,22
 ld c,TOM_D1,80
 
-「みちるはね。@……暗そーにしてるけど。@笑えば、すっごい可愛い、面白い子なんだよ。@あの子が心さえ開けば、これからもっともっと友達が作れるよ。@……それを、死んだ私とお喋りが出来るなんてことと引き換えに、生涯、失うなんて。@……冗談じゃないねー！@　私はね、みちるちゃんにいつまでも笑っていてほしい。@幸せになってほしいの！」\
-
+;「みちるはね。@……暗そーにしてるけど。@笑えば、すっごい可愛い、面白い子なんだよ。@あの子が心さえ開けば、これからもっともっと友達が作れるよ。@……それを、死んだ私とお喋りが出来るなんてことと引き換えに、生涯、失うなんて。@……冗談じゃないねー！@　私はね、みちるちゃんにいつまでも笑っていてほしい。@幸せになってほしいの！」\
+`"Michuru....`@`...She seems like the silent type,`@`but when she laughs she's really cute and and funny.`@`If she'd just open her heart more, she could make so many friends.`@`In exchange for that, she could talk to dead old me!`@`I'm not joking--I want Michiru to keep on laughing.`@`I want her to be happy!"`\
 cl c,0
 ld r,TOM_D7,23
 
@@ -2476,65 +2476,69 @@ ld r,TOM_D7,23
 
 ld r,TOM_D2,80
 
-「人間は強いもの。@生きてさえいれば、親友の死だって、乗り越えてくれるよねー。」\
-
+;「人間は強いもの。@生きてさえいれば、親友の死だって、乗り越えてくれるよねー。」\
+`"It's the strength of humans.`@`The ability to overcome a death of a close friend."`\
 ld l,HIG_D2,22
 ld l,HIG_w3,80
 
-「……あんたが望むなら、校長先生に紹介してあげてもいいのだけれど？」@
+;「……あんたが望むなら、校長先生に紹介してあげてもいいのだけれど？」@
+`"If it's okay with you, can I introduce you to the Principal?"`@
 ;＜彼岸花
 
 ;cl c,0
 ;ld r,TOM_D1,23
 ld r,TOM_D3,80
 
-「それは嫌かなー。@みちるちゃんに、本当に忘れ去られたらそれはそれで悲しーし。@それに、私はみちるちゃんの強さを信じてる。@…………みちるちゃんが、……私の気持ちをわかってくれたって、信じてる。」\
-
+;「それは嫌かなー。@みちるちゃんに、本当に忘れ去られたらそれはそれで悲しーし。@それに、私はみちるちゃんの強さを信じてる。@…………みちるちゃんが、……私の気持ちをわかってくれたって、信じてる。」\
+`"No thanks.`@`It'll be sad to be forgotten by Michiru-cha,`@`but moreover, I believe in her.`@`I believe that Michiru-chan understands my feelings."`\
 bg black,22
 
-「………伝わったなら良いのだがな。@しかし、大泣きしておったからのぅ。」@
-
+;「………伝わったなら良いのだがな。@しかし、大泣きしておったからのぅ。」@
+`"...It would be good if you were introduced.`@`But...I guess that would only lead to more tears."`@
 ;ld l,HIG_D1,80
 
-「男は駄目ね。@……大丈夫よ、智子。@伝わってるわよ。」\
-
+;「男は駄目ね。@……大丈夫よ、智子。@伝わってるわよ。」\
+`"Men are useless.`@`..It's okay, Tomoko.`@`I'll introduce."`\
 ;ld r,TOM_D1,80
 
-「当然ですって。@私たち、親友同士なんだからねー！」@
+;「当然ですって。@私たち、親友同士なんだからねー！」@
+`"Naturally, of course.`@`We're best friends!"`@
 br
-　智子は、屋上の手すりから眼下を見下ろす。@
-　暗闇の校庭を横切って、みちるが帰るのが見えた。\
-
+;　智子は、屋上の手すりから眼下を見下ろす。@
+` Tomoko looked out over the rooftop railing.`@
+;　暗闇の校庭を横切って、みちるが帰るのが見えた。\
+` She was Michiru walking away across the darkened schoolyard.`\
 bg black,22
 bg okujou_03u,22
 
-「……………さよなら、みちる。@……私たち、ずっとずっと最高の親友同士だよ。@……でも明日からは。@………そんなの忘れて、私よりずっと素敵な親友を見つけて、……楽しく過ごしてね。@　……死んでみてわかったんだけれど。@……死者ってね。@自分を思い出してくれて涙を流されるよりも。@……自分が生前、大好きだった人が、……ずっと笑顔でいてくれる方が嬉しいんだよー……。」\
-
+;「……………さよなら、みちる。@……私たち、ずっとずっと最高の親友同士だよ。@……でも明日からは。@………そんなの忘れて、私よりずっと素敵な親友を見つけて、……楽しく過ごしてね。@　……死んでみてわかったんだけれど。@……死者ってね。@自分を思い出してくれて涙を流されるよりも。@……自分が生前、大好きだった人が、……ずっと笑顔でいてくれる方が嬉しいんだよー……。」\
+`"...Goodbye, Michiru.`@`We always were best friends.`@`But, tomorrow,`@`forget all about that and make friends with people better than me.`@`Enjoy your time with them.`@`I know you tried to die,`@`to be a dead person.`@` That you cried tears to remind yourself.`@`But you'll be happy if you can laugh with people you really like."`\
 ;bg black,22
 
-　その声が、みちるに届くわけもないのに。@
+;　その声が、みちるに届くわけもないのに。@
+` Even though that voice couldn't reach Michiru,`@
 br
-　みちるは校門で振り返る。\
-
+;　みちるは校門で振り返る。\
+` She looked back at the school gate.`\
 bg black,22
 bg okujou_01y,0
 ld r,TOM_D3,22
 ;ld c,TOM_D1,80
 
-「……………………みちるちゃん。」\
-
+;「……………………みちるちゃん。」\
+`"....Michiru-chan"`\
 bg black,23
 bg gakkou_01y,23
 ;ld c,MIC_D1,22
 ld c,MIC_N4,22
 
-「…………………。@さよなら、智子ちゃん。@……私たち、……一生、親友だよ。@私、……もう泣かないからね。@………安らかに、眠ってね。」\
-
+;「…………………。@さよなら、智子ちゃん。@……私たち、……一生、親友だよ。@私、……もう泣かないからね。@………安らかに、眠ってね。」\
+`"..........`@`Goodbye, Tomoko-chan.`@`...We'll always be friends.`@`I....I'm not gonna cry over you anymore..`@`..so...so rest peacefully, okay?"`\
 bg black,22
 bg Air_03,22
 
-「……………っ。@…………うんっ。」\
-
+;「……………っ。@…………うんっ。」\
+`"......Heh.`@`....Sure thing."`\
 
 ;＜おしまい＞
 
