@@ -1583,18 +1583,21 @@ bg bijutu_03,0
 ;ld r,NAF_D1,22
 ld l,NAF_D1,22
 
-　ジッと絵を見つめていた少年が、不意に顔を歪めながら口を噤んだ。@
-　絵を見ているうちに、裕貴が死ぬところを想像してしまったのかもしれない。\
-
+;　ジッと絵を見つめていた少年が、不意に顔を歪めながら口を噤んだ。@
+` Still staring at the painting, the boy's face distorted, mouth shut tight.`@
+;　絵を見ているうちに、裕貴が死ぬところを想像してしまったのかもしれない。\
+` He may have been imagining the scene of Yuuki's death.`\
 
 ld l,NAF_D3,80
 ;ld r,NAF_D1,80
 
-「ごめんなさい。@やめましょうね、こんな話。」@
+;「ごめんなさい。@やめましょうね、こんな話。」@
+`"Sorry. `@`Let's drop this conversation here."`@
 br
-　新谷は笑顔を向けたが、今度は少年の頬は赤くならなかった。@
-　眉根を寄せ、泣き出しそうな表情のまま、何かにじっと耐えているようだった。\
-
+;　新谷は笑顔を向けたが、今度は少年の頬は赤くならなかった。@
+` Shintani smiled at him, but this time the boy's cheeks didn't turn red.`@
+;　眉根を寄せ、泣き出しそうな表情のまま、何かにじっと耐えているようだった。\
+` His brow was furrowed and he looked like he deperately trying not to cry.`\
 
 
 ;bg black,2
@@ -1604,45 +1607,52 @@ br
 
 ld l,NAF_D5,80
 
-　……きっと感受性の強い子なのだろう。@
-　同じ学校の生徒とは言え、友達でもなかった少年の死を、彼は心から哀しんでいるように見えた。@
+;　……きっと感受性の強い子なのだろう。@
+` ...He must have been a very sensitive kid.`@
+;　同じ学校の生徒とは言え、友達でもなかった少年の死を、彼は心から哀しんでいるように見えた。@
+` Even though they weren't friends, just fellow students at the same school, it looked like he was genuinely grieving the boy's death from the bottom of his heart.`@
 br
-　不謹慎この上ないが、新谷はその表情に見惚れてしまった。\
-
+;　不謹慎この上ないが、新谷はその表情に見惚れてしまった。\
+` With the utmost discretion Shintani admired that face of his.`\
 me1v 17,50
 
 bg black,0
 ld l,NAF_D6a,22
 
-　……切なげで、苦しそうなその顔。@
-　悲哀が滲んだことで、彼の美しい顔はより完璧になった気がした。@
-　背筋にゾクゾクと、快感にも似た震えが走る……。\
-
+;　……切なげで、苦しそうなその顔。@
+` ...Such a heartrending and pained expression.`@
+;　悲哀が滲んだことで、彼の美しい顔はより完璧になった気がした。@
+` She found his beautiful face racked with sorrow to be beyond perfection.`@
+;　背筋にゾクゾクと、快感にも似た震えが走る……。\
+` A shiver ran down her spine...`\
 
 bg black,22
 
 ;ld c,NAF_D1,80
 
-　………なんて、……綺麗なのかしら。@
+;　………なんて、……綺麗なのかしら。@
+` ...How ...beautiful.`@
 br
 
 
 ;ld c,NAF_D1,80
 
-　…………限界だった。@
-　心の中のそわそわが、うずうずが、……とてもじゃないけれど、これ以上、抑えつけることが出来ない。\
-
+;　…………限界だった。@
+` ......I'm at my limit.`@
+;　心の中のそわそわが、うずうずが、……とてもじゃないけれど、これ以上、抑えつけることが出来ない。\
+` A temptation was rising in her heart... it wasn't much, but it was still too much for her to hold back any longer.`\
 
 
 ;ld c,NAF_D1,80
 
-　はぁ……。@
+;　はぁ……。@
+` Haaa....`@
 br
 
 ;bg black,1
 ;mono 0
-　……っ……。@………………………………。\
-
+;　……っ……。@………………………………。\
+`...ah...`@`............`\
 bg bijutu_02,22
 ;ld r,NAF_D2,22
 
@@ -1651,90 +1661,103 @@ E_B
 wait 1000
 E_A
 
-　新谷の鉛筆を持つ手が止まる。@
-　その手は、わずかに震えていたが、@彼女の薄っすらとした笑みを浮かべるその表情には、それはおくびも出ていなかった。\
-
+;　新谷の鉛筆を持つ手が止まる。@
+` Shintani's hand stopped drawing.`@
+;　その手は、わずかに震えていたが、@彼女の薄っすらとした笑みを浮かべるその表情には、それはおくびも出ていなかった。\
+` Her hand was slightly shaking, `@`and she couldn't hide the slight smile that had spread across her lips.`\
 
 
 ld r,NAF_D1,22
 
 me1v 16,50
 
-「…………………お茶、飲む？」@
-「え？」\
+;「…………………お茶、飲む？」@
+`"..........Do you want some tea?"`@
+;「え？」\
+`"Huh?"`\
 
-
-　新谷にとっては、それはとてもさりげない言葉だった。@
-　しかし、少年にとっては、……何だか場違いな、唐突な言葉のように思えた。\
-
+;　新谷にとっては、それはとてもさりげない言葉だった。@
+` To Shintani it seemed like a very nonchalant question.`@
+;　しかし、少年にとっては、……何だか場違いな、唐突な言葉のように思えた。\
+` But to the boy... it seemed entirely out of place and sudden.`\
 
 
 ld r,NAF_D4,80
 
-「私、ここに自分用のハーブティーを淹れる道具を置いてあるの。@……ちょっと待っててね。@すぐ淹れてあげるから。」\
-
+;「私、ここに自分用のハーブティーを淹れる道具を置いてあるの。@……ちょっと待っててね。@すぐ淹れてあげるから。」\
+`"I have the things here for brewing herbal tea.`@`... Wait here a second. `@`I'll make you some."`\
 bg black,23
 bg bijutu_05,23
 
-　新谷は少年の返事も聞かずに立ち上がり、教師用の机に向かう。@
-　その引き出しの中から湯沸かし用のケトルとティーカップを取り出した。\
-
+;　新谷は少年の返事も聞かずに立ち上がり、教師用の机に向かう。@
+` Without waiting for his answer, Shintani stood up and walked towards her desk.`@
+;　その引き出しの中から湯沸かし用のケトルとティーカップを取り出した。\
+` Out of the drawer she took out her tea kettle and cups.`\
 
 ;cl a,0
 ;bg bijutu_05,23
 
-　ケトルをコンセントに差し込むと、５分も待たずにお湯が沸く。@
+;　ケトルをコンセントに差し込むと、５分も待たずにお湯が沸く。@
+` Once she plugged the kettle in to the power outlet, it would take less than five minutes to bring the water to a boil.`@
 br
-　……その間。@新谷にとっては、不思議な緊張感の沈黙で美術室内は張り詰めているように感じられた。@
-　この感情は、……怯えでもなければ、緊張でもない……。\
+;　……その間。@新谷にとっては、不思議な緊張感の沈黙で美術室内は張り詰めているように感じられた。@
+` ...In that time, `@`Shintani felt a strange feeling of tension in the silence of the art room.`@
+;　この感情は、……怯えでもなければ、緊張でもない……。\
+` But that feeling... was neither fear nor nervousness...`\
 
-
-　瓶詰めにされた茶葉をいくつか取り出し、慣れた手つきで混ぜ合わせる。@
+;　瓶詰めにされた茶葉をいくつか取り出し、慣れた手つきで混ぜ合わせる。@
+` She takes the bottled tea leaves out and quickly mixes them with a deft hand.`@
 br
-　ハーブティーの爽やかな香りが、ふわりと美術室を満たした。\
-
+;　ハーブティーの爽やかな香りが、ふわりと美術室を満たした。\
+` The refreshing smell of herbal tea gently filled the art room.`\
 
 bg black,22
 ;bg bijutu_03,0
 
-「……すごくいい匂いですね。」@
-
+;「……すごくいい匂いですね。」@
+`"...Doesn't it smell so nice?"`@
 ;ld r,NAF_D3,24
 
-「このハーブ、私がブレンドしたオリジナルなの。@すごくリラックスできるのよ。」\
+;「このハーブ、私がブレンドしたオリジナルなの。@すごくリラックスできるのよ。」\
+`"This tea is my original blend. `@`It'll really help you relax."`\
 
+;　……すごく、という部分を無意識に強調してしまう。@
+` ...Unconciously she put much more emphasis the world 'really' than she had meant to.`@
+;　ティーカップの中は毒々しいまでの赤い色の液体で満たされている。\
+` She poured a bright red, almost poisonous looking liquid into their cups.`\
 
-　……すごく、という部分を無意識に強調してしまう。@
-　ティーカップの中は毒々しいまでの赤い色の液体で満たされている。\
-
-
-　少年にティーカップを渡すと、彼は掌を暖める様に両手で持った。@
+;　少年にティーカップを渡すと、彼は掌を暖める様に両手で持った。@
+` She passed the boy his cup and he took it with both hands, as if to warm them.`@
 br
-　手を伸ばし……、その白くて長い指に触れたくなるのを懸命に堪える……。\
-
+;　手を伸ばし……、その白くて長い指に触れたくなるのを懸命に堪える……。\
+` She supressed her desire to reach out her hands... and touch those long white fingers...`\
 me2v 28,50
 
 ld r,NAF_D5,2
 
-　……あぁ……、この子ったら爪の形まで本当に綺麗…………。@
+;　……あぁ……、この子ったら爪の形まで本当に綺麗…………。@
+` ...Ahh.... this kid. Even the shape of his fingernails were pretty......`@
 br
-　新谷は、自らの眼差しで少年を舐め上げるが、……それに彼が気付く様子はない。\
+;　新谷は、自らの眼差しで少年を舐め上げるが、……それに彼が気付く様子はない。\
+` Shintani stared at the boy, tasting him with her eyes... and he didn't seem to notice.`\
 
-
-「……いただきます。」@
+;「……いただきます。」@
+`"...Thank you for the tea."`@
 br
-　そう言うと彼は目の高さまでカップを持ち上げ、そっと口を付けた。\
-
+;　そう言うと彼は目の高さまでカップを持ち上げ、そっと口を付けた。\
+` The boy said, as he rose the cup to eye level and gentle placed it up to his lips.`\
 ld r,NAF_D6a,22
 
-　………ゴクリ、……ゴクリ。@
+;　………ゴクリ、……ゴクリ。@
+` .....Gulp.... Gulp.`@
 br
 
 ;ld c,NAF_D1,22
 
-　飲み込むたびに微かに動く細い喉を見つめながら。@……新谷は心の中で「めしあがれ」と呟く。@
-　白雪姫に毒リンゴを食べさせる女王になった気分だった。\
-
+;　飲み込むたびに微かに動く細い喉を見つめながら。@……新谷は心の中で「めしあがれ」と呟く。@
+` Shintani watched the muscles in his little throat move as he swallowed his tea.`@`... 'Drink up' she thought to herself.`@
+;　白雪姫に毒リンゴを食べさせる女王になった気分だった。\
+` She felt like The Queen giving a poison apple to Snow White.`\
 bg black,2
 
 fede 0,2000
@@ -1745,31 +1768,36 @@ bg bijutu_07,2
 
 bgm1 30
 
-「……………ふぅ…。」@
+;「……………ふぅ…。」@
+`".......Hah..."`@
 br
-　口から濃い紫煙を吐き出して、新谷は吸っていた煙草を空き缶のふちで消した。\
+;　口から濃い紫煙を吐き出して、新谷は吸っていた煙草を空き缶のふちで消した。\
+` A dark gray smoke escaped from Shintani's mouth as she extinguised the cigarette she had been smoking on the edge of an empty can.`\
 
+;　新谷が煙草を吸うのは、この美術室だけだ。@
+` The only place that Shintani ever smoked was in this art room.`@
+;　職員室は禁煙だし、他の教員や生徒の前で喫煙する姿を見せるつもりもなかった。\
+` Smoking wasn't allowed in the staff room, and she wasn't about to let the other teachers or students see her smoking.`\
 
-　新谷が煙草を吸うのは、この美術室だけだ。@
-　職員室は禁煙だし、他の教員や生徒の前で喫煙する姿を見せるつもりもなかった。\
+;　たかだか一本煙草を吸っただけで“優しくて綺麗な先生”という男どもの幻想は簡単に崩れる。@
+` If she was ever caught smoking, the illusion the boys have of her, being a kind and beautiful teacher, would be crushed instantly.`@
+;　くだらないとは思いながらも、新谷はその幻想に合わせる不自由さを受け入れていた。@その方がいろいろと都合が良いからだ。\
+` As stupid as she thought it was, Shintani still forced herself to maintain that illusion. `@`It was more beneficial that way after all.`\
 
-
-　たかだか一本煙草を吸っただけで“優しくて綺麗な先生”という男どもの幻想は簡単に崩れる。@
-　くだらないとは思いながらも、新谷はその幻想に合わせる不自由さを受け入れていた。@その方がいろいろと都合が良いからだ。\
-
-
-　可愛らしい笑顔で頼めば男性職員は当番を変わってくれたし、@ミスをして教頭に叱られていても、泣きそうな顔をすれば大抵、誰かが庇ってくれた。@
-　あの井俣のようにあからさまな好意を抱かれるのだって悪い気はしなかった。@（かといって誘いに応じる気はなかったが……）\
-
+;　可愛らしい笑顔で頼めば男性職員は当番を変わってくれたし、@ミスをして教頭に叱られていても、泣きそうな顔をすれば大抵、誰かが庇ってくれた。@
+` If she put on a cute smiling face, at her behest she could make a male staff member switch watch duty shifts with her. `@`And if she was being scolded by the vice-principal, if she started to look like she was about to cry, she could usually make someone stand up for her.`@
+;　あの井俣のようにあからさまな好意を抱かれるのだって悪い気はしなかった。@（かといって誘いに応じる気はなかったが……）\
+` She didn't really mind the blatant moves made on her by men like Imata. `@`(But on the other hand, she had no intention of accepting their invitations either...)`\
 
 bg black,22
 bg bijutu_03,22
 
-　そして何より、………その幻想に魅せられた男子生徒を、こうやって虜にすることができる……。\
-
-　教室の奥にある古びたソファーの上で、少年は無防備に寝息を立てていた。@
-　……よほどのことがない限り、あと２、３時間は目が覚めないだろう。\
-
+;　そして何より、………その幻想に魅せられた男子生徒を、こうやって虜にすることができる……。\
+` But above all.... she could make those boys her were enchanted by her illusion into her captives. Just like this....`\
+;　教室の奥にある古びたソファーの上で、少年は無防備に寝息を立てていた。@
+` In the back of the classroom, on an old sofa, there sat the boy, defenseless and asleep. Breathing softly.`@
+;　……よほどのことがない限り、あと２、３時間は目が覚めないだろう。\
+` ...If everything goes as expected, he should awake 2 or 3 hours after the medicine took effect.`\
 
 ;bg black,0
 ;bg bijutu_05,0
@@ -1779,19 +1807,22 @@ bg bijutu_03,22
 ld l,NAF_D2,22
 ld l,NAF_D6,80
 
-「ごめんなさいね。@……でも、それ。@身体には害がないから安心してちょうだい。」@
+;「ごめんなさいね。@……でも、それ。@身体には害がないから安心してちょうだい。」@
+`"I do apologize.`@`...however, `@`this drug should not do any damage to your body, so rest easy."`@
 br
-　新谷は空になったティーカップを見ながら、そう呟く。@
-　あどけない寝顔を見つめて、新谷はうっとりと目を細めた。\
+;　新谷は空になったティーカップを見ながら、そう呟く。@
+` Shintani muttered as she looked over at his empty teacup.`@
+;　あどけない寝顔を見つめて、新谷はうっとりと目を細めた。\
+` She then looked over at his innocent sleeping face, and narrowed her eyes.`\
+
+;　……窓からは夕陽が差し込んでいる。@
+` ...The light from the evening sun shone through the window.`@
+;　部活動をしていた運動部の生徒たちもそろそろ帰っただろうか。@廊下や他の教室からも誰の声も聞こえない。\
+` By now most of the students participating in sports clubs have most likely gone home. `@`Not a single voice could be heard coming from the other classrooms or halls.`\
 
 
-　……窓からは夕陽が差し込んでいる。@
-　部活動をしていた運動部の生徒たちもそろそろ帰っただろうか。@廊下や他の教室からも誰の声も聞こえない。\
-
-
-
-　こうして静寂に包まれた教室にいると、@この学校の中で生きているのは自分とこの美しい少年だけのような気がしてくる。\
-
+;　こうして静寂に包まれた教室にいると、@この学校の中で生きているのは自分とこの美しい少年だけのような気がしてくる。\
+` Being in this classroom wrapped in silence, `@`it made her feel like they were the only living things left inside this entire school. Her and this lovely young boy.`\
 cl l,0
 ld c,NAF_D5,3
 
