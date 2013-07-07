@@ -1,23 +1,27 @@
 ;Chapter 7
-　その日、かつての学び舎は、旧校舎という名前になった。@
+;　その日、かつての学び舎は、旧校舎という名前になった。@
+` That day, the former schoolhouse was renamed as the Old School Building.`@
 br
-　町の合併と大規模な再開発に伴い、@いくつもの学校が統合され、巨大な新校舎が誕生したのである。\
-
+;　町の合併と大規模な再開発に伴い、@いくつもの学校が統合され、巨大な新校舎が誕生したのである。\
+` As a result of large scale re-development in the surrounding town,`@`many new schools were integrated in the construction of a huge New School Building.`\
 bg black,22
 bg kyou_01,22
 
-　いくつもの学校出身の生徒たちが一つの教室に入り混じり、@そこには新しいカオスと、新しい社会が誕生した。@
+;　いくつもの学校出身の生徒たちが一つの教室に入り混じり、@そこには新しいカオスと、新しい社会が誕生した。@
+` With so many students meeting and mingling in one building,`@`a new kind of chaotic society developed within those walls.`@
 br
-　新しい学校には、まだ秩序もルールもない。@
-　恐れるべき怪談も七不思議も、まだ誕生していない……。\
-
+;　新しい学校には、まだ秩序もルールもない。@
+` This new School had yet to gain order and rules.`@
+;　恐れるべき怪談も七不思議も、まだ誕生していない……。\
+` The ghost stories that struck fear into the students, and the Seven Wonders had yet to be born...`\
 bg black,22
 bg rouka_04,22
 
-　それまでに類を見ないほど大勢の子供たちが集う、その学校には、@……方々からあらゆる妖怪や悪霊が集まってきた。@
+;　それまでに類を見ないほど大勢の子供たちが集う、その学校には、@……方々からあらゆる妖怪や悪霊が集まってきた。@
+` An unprecedented number of children gathered there,`@`and so did a similar number of evil spirits, demons and ghosts.`@
 br
-　この生まれたばかりのカオスを、自分の縄張りにしようと、狩場にしようと、@無数の妖怪たちが集まってきた……。\
-
+;　この生まれたばかりのカオスを、自分の縄張りにしようと、狩場にしようと、@無数の妖怪たちが集まってきた……。\
+` Out of this chaos, and as children competed to mark their turf in this veritable hunting ground,`@`so too did monsters gather...`\
 bg black,22
 
 me1v 16,50
@@ -26,36 +30,43 @@ mono 2
 bg Different_spiral_1b,22
 
 
-　今、学校には、名も無き無数の妖怪たちが跋扈している。@
+;　今、学校には、名も無き無数の妖怪たちが跋扈している。@
+` Now, the school is overrun by nameless monsters.`@
 br
-　もちろん、無慈悲な妖怪たちに、妖怪同士、仲良くしようなどという気持ちがあるわけもない。\
-
-　この巨大な狩場に自分の縄張りを広げようと、妖怪同士が殺し合い、喰らい合う。@
+;　もちろん、無慈悲な妖怪たちに、妖怪同士、仲良くしようなどという気持ちがあるわけもない。\
+` Of course, there is no reason why such ruthless monsters would ever try to cooperate with one another or get along well.`\
+;　この巨大な狩場に自分の縄張りを広げようと、妖怪同士が殺し合い、喰らい合う。@
+` In this school, when they try and extend their turf in the hunting ground, they kill each other and cry.`@
 br
-　新しき生徒たちだけでなく、……妖怪たちにとっても、そこはカオスのるつぼなのだった。\
-
+;　新しき生徒たちだけでなく、……妖怪たちにとっても、そこはカオスのるつぼなのだった。\
+` For new students and monsters alike, this chaos was a sort of melting pot.`\
 bg black,22
 mono 0
 bg hoken_05,22
 
-　……彼女は、そんな学校に生まれた妖怪のひとりだった。@
+;　……彼女は、そんな学校に生まれた妖怪のひとりだった。@
+` ...She was one of the monsters born into this school.`@
 br
-　依り代は、西洋人形。@
-　今では旧校舎と呼ばれる校舎の保健室の薬品棚の上に、長年飾られていた人形だ。@
+;　依り代は、西洋人形。@
+` Her form was that of a Western doll.`@
+;　今では旧校舎と呼ばれる校舎の保健室の薬品棚の上に、長年飾られていた人形だ。@
+` She had now, for many years, occupied a spot on one of the shelves in the old school building infirmary.`@
 br
-　それが新校舎の保健室に移され、……妖怪たちのカオスの中で、意思を持った。\
-
+;　それが新校舎の保健室に移され、……妖怪たちのカオスの中で、意思を持った。\
+` It was moved to the new school building infirmary in the chaos of the monsters with intention [TL?]`\
 bg black,22
 bg hoken_01,22
 
-　……彼女は、踊り出した。@夜の保健室でひとり。@
+;　……彼女は、踊り出した。@夜の保健室でひとり。@
+` Alone, in the night,`@`she began to dance.`@
 br
-　そして、自分が妖怪であることを理解し、自分の成すべきことを、本能的に悟った。\
-
-　妖怪として、生きるために、人間の魂を獲物とすること。@
+;　そして、自分が妖怪であることを理解し、自分の成すべきことを、本能的に悟った。\
+` And then, she realized instinctively that she herself was a monster and knew what she had to do.`\
+;　妖怪として、生きるために、人間の魂を獲物とすること。@
+` As a monster, in order to live, she had to consume human souls.`@
 br
-　そして、その獲物を奪われないために、他の妖怪たちと戦うこと。\
-
+;　そして、その獲物を奪われないために、他の妖怪たちと戦うこと。\
+` And so that she would not be deprived of her prey, she fought against other monsters.`\
 ;mcl r,0
 bg black,25
 ;bg white,1
@@ -65,11 +76,14 @@ se1 66
 bg bite,26
 
 
-　この巨大な狩場を独占しようと、妖怪たちは互いが互いを憎み合い、殺し合っている。@
-　生まれたばかりの彼女とて、それは例外ではない。@
-　より恐ろしい妖怪に見つかれば、問答無用で殺される。@
-　百鬼夜行の校内で彼女が生き残るためには、戦わなければならなかった。\
-
+;　この巨大な狩場を独占しようと、妖怪たちは互いが互いを憎み合い、殺し合っている。@
+` If one tried to monopolize this hunting ground, the monsters would killed each other out of mutual hatred.`@
+;　生まれたばかりの彼女とて、それは例外ではない。@
+` She, as a newborn, was no exception.`@
+;　より恐ろしい妖怪に見つかれば、問答無用で殺される。@
+` If she found a more fearsome monster, she would be killed with no questions asked.`@
+;　百鬼夜行の校内で彼女が生き残るためには、戦わなければならなかった。\
+` In order for her to survive in this monster-infested school, she had to fight.`\
 bg black,2
 
 fede 0,2000
