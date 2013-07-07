@@ -1828,56 +1828,64 @@ ld c,NAF_D5,3
 
 ;ld r,NAF_D1,80
 
-「本当に、なんて綺麗なのかしら……。」\
-
+;「本当に、なんて綺麗なのかしら……。」\
+`"He really is so beautiful..."`\
 
 
 ;cl a,0
 bg black,2
 
-　……いつからだったろう。@自分が幼い少年たちに心魅かれるようになったのは。@
+;　……いつからだったろう。@自分が幼い少年たちに心魅かれるようになったのは。@
+` ...I wonder how long I've been like this. `@`I wonder when I first started being attracted to young boys.`@
 br
-　元から年下が好みではあった。@高校の時も大学の時も後輩と付き合っていた。\
-
+;　元から年下が好みではあった。@高校の時も大学の時も後輩と付き合っていた。\
+` I've always liked younger men. `@`I used to date those in lower grades than me in both high school and college.`\
 mono 2
 bg Different_spiral_1b,22
 
-　だが、その恋人達も、当然時間が経つにつれて大人になっていく。@
-　子供のような感性をもった者も、@成長するにつれて、そんなものは最初からなかったかのように現実主義者になっていく。\
+;　だが、その恋人達も、当然時間が経つにつれて大人になっていく。@
+` But without fail each of her lovers would get older and become an adult.`@
+;　子供のような感性をもった者も、@成長するにつれて、そんなものは最初からなかったかのように現実主義者になっていく。\
+` Even if they childish and idealistic to start, `@`they would eventually grow past that and begin to look at the world from a more realistic point of view.`\
 
-
-　それはさながら、美しい花々が、永遠にその姿を留めておくのは不可能であるかのよう。@
-　どんな花々も、必ず散って、萎んでしまう……。@
+;　それはさながら、美しい花々が、永遠にその姿を留めておくのは不可能であるかのよう。@
+` And just like that, the beautiful little flowers she knew would cease to be that way ever again.`@
+;　どんな花々も、必ず散って、萎んでしまう……。@
+` No matter the flower, it would eventually wilt and fade away...`@
 br
-　だから。@……彼らの成長を知ると、途端に興味が失せてしまった。\
-
+;　だから。@……彼らの成長を知ると、途端に興味が失せてしまった。\
+` So`@`.... just as they would inevitably grow up, she would inevitably lose interest in them`\
 
 
 ;bg bijutu_07,26
 
-　新谷は彼等の少年性を愛していたのであり、@男らしさやたくましさ、人間性などどうでも良かった。@
+;　新谷は彼等の少年性を愛していたのであり、@男らしさやたくましさ、人間性などどうでも良かった。@
+` Shintani loved those boy-like characteristics, `@`and couldn't care less about things like manliness or physical strength.`@
 br
-　その極端な嗜好は、画家を諦め、教師になってからは、ますますに歯止めが効かなくなった……。\
-
+;　その極端な嗜好は、画家を諦め、教師になってからは、ますますに歯止めが効かなくなった……。\
+` Once she gave up on being an artist and became a teacher, before long she could no longer repress her extreme preferences...`\
 bg black,22
 mono 0
 bg bijutu_03,0
 ld r,NAF_D6,22
 
-　目の前には、……本物の少年たちがいるのだ。@
+;　目の前には、……本物の少年たちがいるのだ。@
+` In front of her... were real young boys.`@
 br
-　これまでに自分に縁のあった、@大人になりきれない、中途半端な少年性を持った男たちなど比べ物にならなかった。\
+;　これまでに自分に縁のあった、@大人になりきれない、中途半端な少年性を持った男たちなど比べ物にならなかった。\
+` Real boys were all around her, `@`and not a single one of those somewhat childlike men she dated before this could possibly compare.`\
 
-
-　新谷は美しき彼らを描き残したいと思った。@
+;　新谷は美しき彼らを描き残したいと思った。@
+` Shintani wanted to draw these beautiful boys.`@
 br
-　ほんの一瞬、@あっという間に終わってしまう「少年」という時間を、永遠のものにしたかった。\
+;　ほんの一瞬、@あっという間に終わってしまう「少年」という時間を、永遠のものにしたかった。\
+` She wanted to make that single moment, `@`that brief instant called 'boyhood' and capture it for an eternity.`\
 
-
-　しかし、描いても描いても、納得できる絵にはならなかった。@
+;　しかし、描いても描いても、納得できる絵にはならなかった。@
+` But, no matter how much she drew, she just wasn't satisfied.
 br
-　やがて新谷は気が付く。\
-
+;　やがて新谷は気が付く。\
+` Until finally, she realized why.`\
 ;bg black,22
 ;mono 2
 ;bg different_spiral_1b,0
@@ -1885,95 +1893,107 @@ br
 cl r,0
 ld c,NAF_D6,4
 
-　自分が少年たちの“健全な姿”になど興味がないということに。@
+;　自分が少年たちの“健全な姿”になど興味がないということに。@
+` What she wanted to capture was not the wholesomeness and modesty of boys.`@
 br
-　求めていたのは不健全な、……いや、……不道徳な姿。\
-
+;　求めていたのは不健全な、……いや、……不道徳な姿。\
+` What she wanted was much more immodest.... no.... downright immoral.`\
 ld c,NAF_D6a,22
 cl c,4
 ;ld c,NAF_D8,80
 
-　……自分の手により、汚され、乱れていく……。@そんな背徳的であさましい姿……。@それこそが、自分が描きたい唯一のものだったのだ。@
+;　……自分の手により、汚され、乱れていく……。@そんな背徳的であさましい姿……。@それこそが、自分が描きたい唯一のものだったのだ。@
+` ...To see them disgraced and corrupted by her own hand... `@`A corrupted and miserable appearance... `@`That was all that she wanted to draw.`@
 br
-　その願望を理解して初めて。@……新谷は自分という存在を、心底に理解できたのだ。\
-
+;　その願望を理解して初めて。@……新谷は自分という存在を、心底に理解できたのだ。\
+` She started to understand her own desires.`@`... And by doing so she could understand herself.`\
 bg black,22
 bg bijutu_04,22
 ld r,NAF_D2,4
 
-　新谷は少年の傍らに座る。@
-　白い首筋にそっと指を這わせ、陶器の様な滑らかな肌の感触を、指先いっぱいに味わう。@
-　その滑らかな首には、不潔な大人を意味する無粋なる徴、……喉仏は、まだ出ていない。\
-
+;　新谷は少年の傍らに座る。@
+` Shintani sat beside the boy.`@
+;　白い首筋にそっと指を這わせ、陶器の様な滑らかな肌の感触を、指先いっぱいに味わう。@
+` She gently crept her fingers down the pale white skin on the nape of his neck, savoring the smooth ceramic like texture of his skin with her fingertips.`@
+;　その滑らかな首には、不潔な大人を意味する無粋なる徴、……喉仏は、まだ出ていない。\
+` His smooth throat didn't yet have that impure and inelegant indicator of adulthood... he was still without an Adam's apple.`\
 
 
 ld r,NAF_D5,80
 
-　その指を背中に移し、今度は薄いシャツの上から肩甲骨を撫でる。@
+;　その指を背中に移し、今度は薄いシャツの上から肩甲骨を撫でる。@
+` She lowered her fingers down to his back, caressing his shoulder blade through his thin shirt.`@
 br
-　……翼の名残とは良く言ったものだ。@この子は本当に天使のようだ。\
+;　……翼の名残とは良く言ったものだ。@この子は本当に天使のようだ。\
+` ...Some people say that our shoulder blades are the remnants of wings. `@`This child really seemed like an angel.`\
 
 
-
-　襟の間からチラリと見える鎖骨に触れたくてたまらなくなり、@新谷は彼のシャツのボタンに指をかける……。\
-
+;　襟の間からチラリと見える鎖骨に触れたくてたまらなくなり、@新谷は彼のシャツのボタンに指をかける……。\
+` Glancing down the collar of his shirt, she saw his collarbone and couldn't help but want to touch it. `@`Shintani reached down to undo the buttons on his shirt...`\
 bg black,22
 
 ;ld r,NAF_D6,80
 
-「裕貴くんも可愛かったけど。@……この子はそれ以上だわ。@………ふふふふふふ。」@
+;「裕貴くんも可愛かったけど。@……この子はそれ以上だわ。@………ふふふふふふ。」@
+`"Yuuki was cute.`@`... but this kid is so much more.`@`.... Fufufufufu."`@
 br
-　新谷は野田裕貴の小さくて美しかった肉体を思い出した。\
-
+;　新谷は野田裕貴の小さくて美しかった肉体を思い出した。\
+` Shintani recalled the beautiful little body of Yuuki Noda.`\
 bg black,22
 
 me1v 28,50
 
-　白く無垢で、……甘く蕩ける、まるで穢れを知らぬ蜂蜜のよう。@
+;　白く無垢で、……甘く蕩ける、まるで穢れを知らぬ蜂蜜のよう。@
+` Pure white... and so sweet, like a honey that knows no impurities.`@
 br
-　しかし、この名も知らぬ少年のそれは、……まさに絶品、極上だった。\
-
+;　しかし、この名も知らぬ少年のそれは、……まさに絶品、極上だった。\
+` But, this boy who's name she did not know... his was unique, and of the finest quality.`\
 ;bg black,22
 mono 2
 bg bijutu_01,22
 
 
-　そう。@この学校の生徒たちは、みんな蜜を持っている。@
-　蜜を持つ生徒たちがぎっしりとひしめくこの学校は、まさに蜂の巣だ。@
+;　そう。@この学校の生徒たちは、みんな蜜を持っている。@
+` Yes. `@`All of the students at this school had their own nectar.`@
+;　蜜を持つ生徒たちがぎっしりとひしめくこの学校は、まさに蜂の巣だ。@
+` The students were just like bees, hurriedly carrying nectar around day after day, and this school was their behive.`@
 br
 
 ;cl a,0
 ;bg bijutu_06,0
 
-　そして、……その甘い蜜を、蜂たちは自ら美術室にやってきて、私に献上してくれる。\
+;　そして、……その甘い蜜を、蜂たちは自ら美術室にやってきて、私に献上してくれる。\
+` And... the bees bring their sweet nectar to this art room, and present it to me.`\
 
 
-
-　そう。@私は女王蜂。@
+;　そう。@私は女王蜂。@
+` Yes. `@`I am the queen bee.`@
 br
-　この美術室に君臨して、……美しい子たちの甘い蜜を堪能する女王なのだ。\
-
+;　この美術室に君臨して、……美しい子たちの甘い蜜を堪能する女王なのだ。\
+` I am the queen who reigns over this art room... and satisfies myself with the beautiful children's sweet honey.`\
 
 
 bg black,2
 
 
-　……くすくす。@それにしても馬鹿な話だ。\
-
+;　……くすくす。@それにしても馬鹿な話だ。\
+` ....Hehehe. `@`Still, what a dumb story that was.`\
 
 
 mono 1
 bg kaiga_01,0
 ld r,NOD_D1,22
 
-　“野田裕貴は、“美術室のルノワール”の祟りにあって殺されたのではないか。”@
+;　“野田裕貴は、“美術室のルノワール”の祟りにあって殺されたのではないか。”@
+` 'Yuuki Noda was killed by the curse of Renoir of the Art Room.'`@
 br
-　生徒達の間で囁かれるその噂を、新谷は全く信じていなかった。\
+;　生徒達の間で囁かれるその噂を、新谷は全く信じていなかった。\
+` Shintani never once believed that ridiculous rumor passed around by the students.`\
 
-
-　裕貴が死んだのは祟りでもなんでもない。@
-　だって裕貴が死んだ理由を、新谷はこの学校の誰よりも知っていたのだから……。\
-
+;　裕貴が死んだのは祟りでもなんでもない。@
+` Yuuki didn't die because of some curse.`@
+;　だって裕貴が死んだ理由を、新谷はこの学校の誰よりも知っていたのだから……。\
+` After all, Shintani knew what really killed Yuuki better than anyone else in this school did...`\
 bg black,2
 mono 0
 
@@ -1983,32 +2003,35 @@ bg black,22
 
 E_A
 
-「…………何をしているんですか、新谷先生？」\
+;「…………何をしているんですか、新谷先生？」\
+`".....What are you doing, Shintani-sensei?"`\
 ;■↑ルノワールの立ち絵で進めて下さい
 
 bg bijutu_06,23
 
 me1v 16,50
 
-　突然、背後からかけられた声に、新谷は心の底から驚いた。@
+;　突然、背後からかけられた声に、新谷は心の底から驚いた。@
+` Suddenly, a voice rang out from behind, and Shintani's heart jumped in surprise.`@
 br
-　弾かれたように振り返ると、そこには一人の女生徒が立っていた。\
-
+;　弾かれたように振り返ると、そこには一人の女生徒が立っていた。\
+` She whipped her head around in a flash, and standing there was a single girl.`\
 mld c,RUN_D7,2
 
 wait 1000
 
 mld c,RUN_D1,22
 
-　……それは透き通るような美しさを持ち、@……人間なら誰しもが最低限持っているはずの生臭ささえない、透明感を感じさせた。@
+;　……それは透き通るような美しさを持ち、@……人間なら誰しもが最低限持っているはずの生臭ささえない、透明感を感じさせた。@
+` ...She had a transparent feeling of beauty to her.`@`... Every single human should have at least a faint smell of flesh or skin to them, but this girl had none of that. She felt transparent.`@
 br
-　しかし、今はその容姿の端麗さより、何の気配も物音もせずそこにいたことを驚くべきだった。\
-
+;　しかし、今はその容姿の端麗さより、何の気配も物音もせずそこにいたことを驚くべきだった。\
+` But, more so than her elegant appearance, what truly astonished Shintani was the girl's uncanny lack of presence or sound.`\
 ld l,NAF_D5,23
 ld l,NAF_D7a,80
 
-「………誰……！？」\
-
+;「………誰……！？」\
+`"....Who are you...!?"`\
 textoff
 fede 0,1000
 E_A
@@ -2017,57 +2040,63 @@ mld c,RUN_D5,80
 
 bgm1 7
 
-「……くすくす。@先生が私のことを知らなくても。@私は先生のことをよく知っているわ。」@
-
+;「……くすくす。@先生が私のことを知らなくても。@私は先生のことをよく知っているわ。」@
+`"...Hehehe. `@`Even if you don't know who I am. `@`I know who you are, sensei."`@
 ld l,NAF_D6a,80
 
-「え…？@　……それは、どういう……。」\
-
+;「え…？@　……それは、どういう……。」\
+`"Wha-...? `@`.... What do you mean by that...?"`\
 bg black,22
 
-　新谷は、人の顔を覚えるのは得意な方だと思っている。@
-　一度でも、美術室を訪れたことのある子なら、絶対に記憶してるはずなのに……。@
-　しかし、彼女の記憶に、その女生徒の顔はまったくなかった。\
-
+;　新谷は、人の顔を覚えるのは得意な方だと思っている。@
+` Shintani considered herself to be pretty good at remembering people's faces.`@
+;　一度でも、美術室を訪れたことのある子なら、絶対に記憶してるはずなのに……。@
+` If a kid has been in her art room, even only once, she should definitely be able to recall their face...`@
+;　しかし、彼女の記憶に、その女生徒の顔はまったくなかった。\
+` But this girl's face wasn't in her memory at all.`\
 mld c,RUN_D1,80
 
-「いいじゃない。@私が、誰かなんて。」@
+;「いいじゃない。@私が、誰かなんて。」@
+`"That's fine. `@`You don't need to remember who I am."`@
 br
-　新谷の胸中に対して応えるかのように、女生徒は薄く笑う。\
-
+;　新谷の胸中に対して応えるかのように、女生徒は薄く笑う。\
+` The girl gave a slight smile. It was as if she was responding to the voice in Shintani's mind.`\
 bg bijutu_03,22
 mcl c,0
 ld l,RUN_D2,4
 
-「…………それより先生。@その子に一体何をしていたの？」@
+;「…………それより先生。@その子に一体何をしていたの？」@
+`".....By the way, Sensei. `@`What are you doing to that kid there?"`@
 br
-　女生徒は視線を、新谷の傍らで眠る少年に向けた。@
-　新谷は慌てて立ち上がり、誤摩化すように少年から離れる。\
-
+;　女生徒は視線を、新谷の傍らで眠る少年に向けた。@
+` The girl moved her gaze over to the boy sleeping next to Shintani.`@
+;　新谷は慌てて立ち上がり、誤摩化すように少年から離れる。\
+` Shintani stood up in a panic, as if trying to avoid the question by seperating herself from him.`\
 bg black,24
 bg bijutu_03,0
 ld r,NAF_D2,24
 ld r,NAF_D4a,80
 
 
-「あ、あぁ……。@この子は、その、絵のモデルをお願いしてたんだけど、急に具合が悪くなったみたいだったから。@……ソファーに寝かせていたの。」\
-
+;「あ、あぁ……。@この子は、その、絵のモデルをお願いしてたんだけど、急に具合が悪くなったみたいだったから。@……ソファーに寝かせていたの。」\
+`"Ah, uhh... `@`I asked this kid to help me out by modeling for a picture, but he suddenly started feeling sick.`@`... So I had him lay down on the sofa."`\
 ld l,RUN_D1,23
 ld l,RUN_D5,80
 
 
-「へぇ……？@　でも具合が悪いんだったらここじゃなくて、@保健室に連れて行った方がいいんじゃないかしら…？」@
-
+;「へぇ……？@　でも具合が悪いんだったらここじゃなくて、@保健室に連れて行った方がいいんじゃないかしら…？」@
+`"Oh...? `@`But if he's feeling sick why keep him here? `@`Wouldn't it be better to take him to the infirmary?"`@
 ld r,NAF_D6a,80
 
-「……私もそう思ったんだけどね。@本人が、少し横になれば大丈夫だからって言うものだから。」\
-
+;「……私もそう思ったんだけどね。@本人が、少し横になれば大丈夫だからって言うものだから。」\
+`"...That's what I said. `@`But he kept insisting that he'd be fine and all he needed to do was lay down for a bit."`\
 ld l,RUN_D8,80
 
-「……ふうん。」@
+;「……ふうん。」@
+`"...Hmmm."`@
 br
-　女生徒は一応、納得したようだった。\
-
+;　女生徒は一応、納得したようだった。\
+` It looked like the girl accepted that answer for the time being.`\
 bg black,22
 
 　……別に嘘はついていない。@
