@@ -215,14 +215,15 @@ bg black,24
 bg bijutu_01,0
 ld l,KYO_D6a,24
 
-　………よくわかんねぇが、ろくな漫画じゃない気がするぜ。@
+;　………よくわかんねぇが、ろくな漫画じゃない気がするぜ。@
+` ....I'm not sure, but I feel that it's not a manga not worth mentioning.`@
 　少しはマシな連中はいねぇのか。@
 br
 
 ld l,KYO_D5,80
 
-　お、こっちはマシそうだな。@まったりとしたガールズトークが聞こえてきやがる……。\
-
+;　お、こっちはマシそうだな。@まったりとしたガールズトークが聞こえてきやがる……。\
+` Ah, that's better.`@`I could hear you being laid back and chatting with girls...`\
 se1 56
 bg white,0
 print 99,2000,"trvswave.dll/"
@@ -235,12 +236,14 @@ ld r,NON_D3a,24
 
 bgm1 2
 
-「まぁ、確かにたまに、心霊写真なんて呼ばれるものもありはするけど……。」@
+;「まぁ、確かにたまに、心霊写真なんて呼ばれるものもありはするけど……。」@
+`"Well, for certain it's sometimes called a Spirit Photo too...."`@
 ;＜野々宮
 
 ld l,YO2_D1,23
 
-「えー。@心霊写真なんて、ほとんどはインチキなんでしょう…？」\
+;「えー。@心霊写真なんて、ほとんどはインチキなんでしょう…？」\
+`"What?`@`Aren't most Spirit Photos fake?"`\
 ;＜沼田陽子
 
 bg black,23
