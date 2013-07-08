@@ -98,26 +98,29 @@ ld l,MAR_D4a,23
 
 bgm1 29
 
-「さくのしんちゃんも、……その戦いに巻き込まれたの？」@
+;「さくのしんちゃんも、……その戦いに巻き込まれたの？」@
+`"Did Sakunoshin-chan get caught up in that too?"`@
 ;＜毬枝
 
 ld r,SAK_D1,24
 ld r,SAK_D2,80
 
 
-「僕は違うよ。@僕は学校妖怪じゃないもの。@僕の祠は、新校舎が出来るよりずっと前からここにあって、@僕もずっとここに住んでたのだから。」\
+;「僕は違うよ。@僕は学校妖怪じゃないもの。@僕の祠は、新校舎が出来るよりずっと前からここにあって、@僕もずっとここに住んでたのだから。」\
+`"Not me.`@`I'm not a school monster.`@`My shrine and I have both been here for a long time.`@`Before this school building, in fact."`\
 ;＜さくのしん
 
 ;ld r,SAK_D4,80
 
-　さくのしんは、その幼そうな外見に似合わず、@この巨大マンモス校が誕生する以前からこの土地にいる長老格なのだ。\
-
+;　さくのしんは、その幼そうな外見に似合わず、@この巨大マンモス校が誕生する以前からこの土地にいる長老格なのだ。\
+` Despite his youthful appearance,`@`Sakunoshin had been one of the Elders, long since before this mammoth of a school was constructed.`\
 bg black,23
 bg kouchou_02,0
 ld c,KOU_D2,23
 ;ld r,KOU_D1,80
 
-「懐かしいね。@……混沌とした時代だったよ。」\
+;「懐かしいね。@……混沌とした時代だったよ。」\
+`"I miss it.`@`...It was a chaotic time."`\
 ;＜校長
 
 ;mov %iza_Isyou,2
@@ -130,12 +133,14 @@ ld l,IZA_D3,23
 ;ld r,SIN_D2,22
 ld r,SIN_D3,22
 
-「あなたもその中のひとりだったわけですがねぇ。」@
+;「あなたもその中のひとりだったわけですがねぇ。」@
+`"Were you all alone then?"`@
 ;＜紅茶
 
 ld l,IZA_D7,80
 
-「テメェもその中の１匹だろーがッ。」\
+;「テメェもその中の１匹だろーがッ。」\
+`"You were the only animal there too."`\
 ;＜イザナミ
 
 mov %SMI_Isyou,2
@@ -145,7 +150,8 @@ ld l,AZA_D4,23
 ld l,AZA_D2,80
 
 
-「うふふふふふ……。@今では懐かしき、まさに混沌のるつぼ。」@
+;「うふふふふふ……。@今では懐かしき、まさに混沌のるつぼ。」@
+`"Ufufufufufufu...`@`Now it's somewhat nostalgic, that chaotic melting pot."`@
 ;＜アザミ
 
 ld c,SMI_w5,22
@@ -159,40 +165,46 @@ bg kouchou_01,0
 ld r,MAR_D2a,22
 ld r,MAR_D4,80
 
-「……そ、そうだったんですか……。@じゃあ、皆さんは全員、その時代を勝ち残ったわけですね……。」\
+;「……そ、そうだったんですか……。@じゃあ、皆さんは全員、その時代を勝ち残ったわけですね……。」\
+`"....Ah, is that so?....`@`Well, then didn't everyone survive that era, right?"`\
 ;＜毬枝
 
 ld l,KYO_D2,24
 ld l,KYO_D1,80
 
-「俺様やルノは、ぼんやり傍観してただけさ。」@
+;「俺様やルノは、ぼんやり傍観してただけさ。」@
+`"Runo, I and some others just stood at the sidelines idly."`@
 ;＜キョウ
 
 ld c,RUN_D3,22
 ;ld c,RUN_D1,80
 
-「……物騒だったからね。@僕は絵の中に隠れてたよ。」\
+;「……物騒だったからね。@僕は絵の中に隠れてたよ。」\
+`"Because it was dangerous you know.`@`I was hidden in the paintings."`\
 ;＜ルノワール
 
 cl r,22
 ld r,AZA_D1,24
 ld r,AZA_D4,80
 
-「あの時代。@隠れ果せるだけでも、なかなか出来ることではありませんでした。」@
+;「あの時代。@隠れ果せるだけでも、なかなか出来ることではありませんでした。」@
+`"At that time,`@`even if all you did was hide, there wasn't much else you could do."`@
 ;＜アザミ
 
 cl c,22
 ld c,KOU_D3,22
 ld c,KOU_D1,80
 
-「そうだね。@……考えようによっては、戦って生き残る以上に、困難な生き残り方だったかもしれんね。」\
+;「そうだね。@……考えようによっては、戦って生き残る以上に、困難な生き残り方だったかもしれんね。」\
+`"Yeah.`@`...Now that we can think about it, the warring at that time was more than just for survival--it had become its own difficult way of life."`\
 ;＜校長
 
 cl r,22
 ld r,SIN_D4,24
 ;ld r,SIN_D1,80
 
-「そして、大勢の妖怪たちが淘汰されていき、力の優劣が次第に序列化していき。@……混乱していた子供たちも落ち着きを取り戻し。」\
+;「そして、大勢の妖怪たちが淘汰されていき、力の優劣が次第に序列化していき。@……混乱していた子供たちも落ち着きを取り戻し。」\
+`"And then, large numbers of monsters were weeded out based on their strengths and weaknesses.`@`Eventually they arranged into a hierarchy.`@`So too did the rabble of children regain order."`\
 ;＜紅茶
 
 cl l,24
@@ -207,13 +219,15 @@ bg kouchou_02,0
 ld l,RUN_D1,23
 ld l,RUN_D5,80
 
-「……妖怪はやっぱり、静けさの中に潜む方が素敵だと思うね。」@
+;「……妖怪はやっぱり、静けさの中に潜む方が素敵だと思うね。」@
+`"The best monsters really are those ones that hide in tranquility."`@
 ;＜ルノワール
 
 ld r,KOU_D3,24
 ;ld r,KOU_D1,80
 
-「同感だね。@老いると、あの過酷な混沌は二度と御免というものだよ。」\
+;「同感だね。@老いると、あの過酷な混沌は二度と御免というものだよ。」\
+`"I agree.`@`When they grow old, I want to say sorry to them again for that chaos."`\
 ;＜校長
 
 mld c,KYO_D2,22
@@ -227,13 +241,15 @@ bg black,22
 bg kouchou_01,0
 ld c,MAR_D4a,22
 
-「………そんな時代も……、あったんですね……。」\
+;「………そんな時代も……、あったんですね……。」\
+`"...There's that time...."`\
 ;＜毬枝
 
-　かつて、弱肉強食の恐ろしい時代があったという話は、彼岸花から少し聞いたことがある。@
+;　かつて、弱肉強食の恐ろしい時代があったという話は、彼岸花から少し聞いたことがある。@
+` I had heard a few stories about how awful that survival of the fittest contest was from Higanbana.`@
 br
-　大勢の妖怪たちが、食い合い、殺し合い。@……その結果、生き残って学校妖怪として君臨したのが、……今の彼らなのだ。\
-
+;　大勢の妖怪たちが、食い合い、殺し合い。@……その結果、生き残って学校妖怪として君臨したのが、……今の彼らなのだ。\
+` A large number of monsters had fought and killed one another.`@`...As a result, the ones that continued to live reigned even now.`\
 bg black,22
 ld c,KOU_D1,22
 wait 300
@@ -272,25 +288,28 @@ wait 300
 ld c,SMI_w6,80
 cl c,2
 
-　学校に七不思議が定着し、彼らに学校妖怪七席としての序列が出来て、@ようやく殺し合いの恐ろしい時代は幕を下ろしたのだ……。\
-
+;　学校に七不思議が定着し、彼らに学校妖怪七席としての序列が出来て、@ようやく殺し合いの恐ろしい時代は幕を下ろしたのだ……。\
+` The Seven Wonders of the school had formed a ranking of Seven seats for the school monsters, and so the age of murders had come to a close...`\
 bg kouchou_02,22
 ld c,SAK_k3,22
 ld c,SAK_k1,80
 
-「彼岸花は、……ものすごく強くて残酷で、特に恐れられていたんだよ。」\
+;「彼岸花は、……ものすごく強くて残酷で、特に恐れられていたんだよ。」\
+`"Higanbana, who was terribly cruel and strong, was particularly feared by all of them."`\
 ;＜さくのしん
 
 ld l,SMI_D4,23
 ;ld l,SMI_D1,80
 
-「うむ。@昔の彼岸花は、実に恐ろしい残酷妖怪だったのじゃ。」@
+;「うむ。@昔の彼岸花は、実に恐ろしい残酷妖怪だったのじゃ。」@
+`"Yep.`@`The Old Higanbana was a terribly feared monster."`@
 ;＜スミレ
 
 ld r,IZA_D3,24
 ;ld r,IZA_D1,80
 
-「……だなァ。@アレでもあいつ、だいぶ丸くなったんだぜ。」\
+;「……だなァ。@アレでもあいつ、だいぶ丸くなったんだぜ。」\
+`"...Huh.`@`Just like those guys."`\
 ;＜イザナミ
 
 bg black,23
@@ -298,19 +317,22 @@ bg kouchou_04,0
 ld l,AZA_D4,23
 ld l,AZA_D3,80
 
-「うふふふふふ……。@当時の彼女を覚えている者ならば。@……今なお、彼女を前にして、震えを抑えることは難しいでしょう。」@
+;「うふふふふふ……。@当時の彼女を覚えている者ならば。@……今なお、彼女を前にして、震えを抑えることは難しいでしょう。」@
+`"Ufufufufufu....`@`If you remember her from that time,`@`when she's in front of you, it's difficult to stop yourself from shaking in your boots."`@
 ;＜アザミ
 
 ld c,KYO_D3,23
 ;ld c,KYO_D1,80
 
-「この俺様でさえ、あいつが眉を歪めると今でもブルっちまわぁ。」\
+;「この俺様でさえ、あいつが眉を歪めると今でもブルっちまわぁ。」\
+`"Even for someone like me, when she raised her eyebrows, my heart skips a beat."`\
 ;＜キョウ
 
 ld r,RUN_D7,24
 ld r,RUN_D6a,80
 
-「……さっき毬枝は彼岸花のこと、本人が言うほど残酷じゃないと言ったけれど。@……そう言えるのは、あの時代を知らないからこそなのかもしれないね。」\
+;「……さっき毬枝は彼岸花のこと、本人が言うほど残酷じゃないと言ったけれど。@……そう言えるのは、あの時代を知らないからこそなのかもしれないね。」\
+`"Marie said earlier that Higanbana wasn't really that cruel of a person.`@`Maybe she just didn't know her back then."`\
 ;＜ルノワール
 
 bg black,22
