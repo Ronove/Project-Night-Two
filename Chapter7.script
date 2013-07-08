@@ -339,19 +339,22 @@ bg black,22
 bg kouchou_01,0
 ld l,MAR_D4a,22
 
-「………………………………。」\
+;「………………………………。」\
+`"..............."`\
 ;＜毬枝
 
 ld r,SIN_D1,24
 ld r,SIN_D2,80
 
-「くっくっく。@まぁ、気にしないことです。@子供たちも成長し、やがて大人になるように。@私たち妖怪とて、月日と共に変化することを避けられぬのですから。」\
+;「くっくっく。@まぁ、気にしないことです。@子供たちも成長し、やがて大人になるように。@私たち妖怪とて、月日と共に変化することを避けられぬのですから。」\
+`"Kukuku.`@`Well, it's nothing to worry about.`@`Like how children grow into adults,`@`We monsters avoid changing with the passage of time."`\ 
 ;＜紅茶
 
 ld c,IZA_D4,22
 ;ld c,IZA_D1,80
 
-「毬枝の存在が、あいつをさらに丸くしているのかもしれねぇなァ。」\
+;「毬枝の存在が、あいつをさらに丸くしているのかもしれねぇなァ。」\
+`"Marie's presence might have made her a bit calmer, I guess."`\
 ;＜イザナミ
 
 cl c,0
@@ -359,12 +362,14 @@ cl r,22
 ld r,KOU_D4,22
 ;ld r,KOU_D1,80
 
-「ほっほっほ……。@かもしれんねぇ。@毬枝くん。@これからも彼女の友人でいてやってくれたまえ。」@
+;「ほっほっほ……。@かもしれんねぇ。@毬枝くん。@これからも彼女の友人でいてやってくれたまえ。」@
+`"Hohoho....`@`Maybe.`@`Marie-kun`@`is even now Higanbana's friend?"`@
 ;＜校長
 
 ld l,MAR_w1,80
 
-「は、はい。」\
+;「は、はい。」\
+`"Y-Yes..."`\
 ;＜毬枝
 
 cl r,22
@@ -373,17 +378,20 @@ ld c,SMI_w1,22
 
 ld c,SMI_w4,80
 
-「あの、恐ろしい彼岸花も、変われば変わるものよのぅ。」@
+;「あの、恐ろしい彼岸花も、変われば変わるものよのぅ。」@
+`"Then that fearsome Higanbana is something that can change..."`@
 ;＜スミレ
 
 ld r,SAK_D4,80
 
-「うりゅー。@彼岸花だって、色々な出会いで成長もするし、心だって変化するんだよ。@妖怪だって、そういうところは人間と変わらないよ。」\
+;「うりゅー。@彼岸花だって、色々な出会いで成長もするし、心だって変化するんだよ。@妖怪だって、そういうところは人間と変わらないよ。」\
+`"Uryuu.`@`Even Higanbana's heart can't help but change a bit through her various encounters.`@`In that sense, humans and monsters are alike."`\
 ;＜さくのしん
 
 ld l,MAR_D1,80
 
-「………………………。」\
+;「………………………。」\
+`"..............."`\
 ;＜毬枝
 
 bg black,24
@@ -396,10 +404,11 @@ ld l,KOU_D1,0
 ld c,SIN_D1,0
 ld r,IZA_D3,80
 
-　彼岸花を除く妖怪たちが、ぎっしりと校長室に集まり、お茶会を開いていた。@
+;　彼岸花を除く妖怪たちが、ぎっしりと校長室に集まり、お茶会を開いていた。@
+` All the monsters other than Higanbana were gathered in the Principal's office and had started having a tea party.`@
 br
-　全員参加必須のお月見会ならばともかく、@このような気紛れな催しにこれだけの妖怪が集まるなんて珍しい。\
-
+;　全員参加必須のお月見会ならばともかく、@このような気紛れな催しにこれだけの妖怪が集まるなんて珍しい。\
+` As a moon-viewing party, this required the attendance of all the monsters.`@`Seeing so many in one place would be rare otherwise.`\
 bg black,22
 bg kouchou_04,0
 ld l,SMI_w5,0
@@ -410,10 +419,11 @@ cl r,0
 ld c,AZA_D3,24
 quakey 1,100
 
-　呼べば集まらないくせに、@気紛れなお茶会には、どやどやとこれだけの人数が集まってくる。@
+;　呼べば集まらないくせに、@気紛れなお茶会には、どやどやとこれだけの人数が集まってくる。@
+` Even though they hadn't been called together,`@`the sounds of many footsteps had flocked to this place.`@
 br
-　天邪鬼なのは、どうやら彼岸花だけではないようだった。\
-
+;　天邪鬼なのは、どうやら彼岸花だけではないようだった。\
+` Almost perversely, the one monster that wasn't present was Higanbana.`\
 bg black,23
 bg kouchou_03,0
 ld l,SAK_D3,0
@@ -424,33 +434,39 @@ ld r,RUN_D5,23
 ;ld c,KYO_D1,0
 ;ld r,RUN_D1,80
 
-　……彼岸花不在であるのをいいことに、彼らが語る彼女の昔話は興味深かった。\
+;　……彼岸花不在であるのをいいことに、彼らが語る彼女の昔話は興味深かった。\
+` Her absence was perhaps fortuitous, as tales of her past were being shared and were quite interesting.`\
 
-
-　自分のことを、誰よりも残酷なと吹聴する彼岸花。@
-　しかし毬枝は、自称するほど残酷な人ではないと感じていた。@
-（気紛れで天邪鬼な、実に面倒臭い性格である点はもちろん譲れないのだが）\
-
+;　自分のことを、誰よりも残酷なと吹聴する彼岸花。@
+` Everyone was spreading rumors about how cruel she was.`@
+;　しかし毬枝は、自称するほど残酷な人ではないと感じていた。@
+` However, Marie didn't feel that she was so cruel.`@
+;（気紛れで天邪鬼な、実に面倒臭い性格である点はもちろん譲れないのだが）\
+`(Of course, she conceded that Higanbana was at times perverse, capricious, and often bothersome.)`\
 bg black,22
 ld c,HIG_D4,22
 ;ld c,HIG_D1,80
 
-　そんな彼女が、いつの頃からか、丸くなり。@
+;　そんな彼女が、いつの頃からか、丸くなり。@
+` But somewhere down the line, she had become more harmonious.`@
 br
-　やがては、毬枝という友人を作り、@……少なくとも、友人をからかって笑えるような、血の通った存在に生まれ変わった。\
-
+;　やがては、毬枝という友人を作り、@……少なくとも、友人をからかって笑えるような、血の通った存在に生まれ変わった。\
+` She had made friends with Marie,`@`...Well, they were friends in that they could make fun of one another.`\
 bg black,22
 bg kouchou_02,0
 ld c,MAR_D1,22
 ;ld c,MAR_D1,80
 
-　毬枝には興味があった。@
+;　毬枝には興味があった。@
+` She had some interest in Marie.`@
 br
-　かつて、本人の自称と寸分違わず、残酷の化身であった彼女が。@
-　何をきっかけに、今日のようになったのか。@
+;　かつて、本人の自称と寸分違わず、残酷の化身であった彼女が。@
+` Her past self truly was an un-self-proclaimed version of cruelty incarnate.`@
+;　何をきっかけに、今日のようになったのか。@
+` What an opportunity today was.`@
 br
-　彼女を変えた何かに、毬枝は関心を持った……。\
-
+;　彼女を変えた何かに、毬枝は関心を持った……。\
+` Marie was curious as to what could have changed her....`\
 bg black,2
 
 fede 0,1000
@@ -467,14 +483,16 @@ bg black,22
 bg okujou_02,0
 ld c,HIG_D9,22
 
-　その頃、彼岸花の姿は、……屋上にあった。@
+;　その頃、彼岸花の姿は、……屋上にあった。@
+` At that time, Higanbana was on the rooftop.`@
 br
-　その縁に腰掛け、長い髪やスカートを風に任せ、……眼下をぼんやりと眺めていた。\
-
-　眼下を、……二人の人影が歩いている。@
+;　その縁に腰掛け、長い髪やスカートを風に任せ、……眼下をぼんやりと眺めていた。\
+` She was perched on the edge, hair and skirt swaying in the wind, and looking blankly downwards.`\
+;　眼下を、……二人の人影が歩いている。@
+` Two people were walking below.`@
 br
-　大人の男性の手を引いて、生徒が敷地内を案内しているように見えた。\
-
+;　大人の男性の手を引いて、生徒が敷地内を案内しているように見えた。\
+` A student was holding the hand of a grown man, who appeared to be giving a tour of the site.`\
 bg black,22
 
 fede 0,1000
@@ -486,20 +504,23 @@ ld r,NON_D6,24
 
 bgm1 1
 
-「こっちが第２校舎で……。@あ、足元、段差があります。」\
+;「こっちが第２校舎で……。@あ、足元、段差があります。」\
+`"This is the second school building....`@`Oh, watch your step."`\
 ;＜野々宮
 
 ;ld l,SH2_D1,2
 ;wait 1000
 ;ld l,SH2_D2,80
 
-「……ありがとう。@助かるよ、野々宮くん。」\
+;「……ありがとう。@助かるよ、野々宮くん。」\
+`"Ah, thank you.`@`You save me again, Nonomiya-kun."`\
 ;＜大人秋一
 
-　胸元には、来校者であることを示す名札が付けられている。@
+;　胸元には、来校者であることを示す名札が付けられている。@
+` A name tag affixed to the person's chest indicated that they were a visitor to the school.`@
 br
-　少なくとも、彼がこの学校の生徒でもなければ先生でもないことは確かだった。\
-
+;　少なくとも、彼がこの学校の生徒でもなければ先生でもないことは確かだった。\
+` At the very least, this person was neither a student nor a teacher of this school.`\
 ;ld l,SH2_D3,80
 
 「……………この場所が、どんな光景かはよく覚えているよ。@僕にとってここは、思い出深い場所だからね。@……この学校がどんな光景なのか、今も瞼の裏に焼き付いているよ。」@
@@ -507,7 +528,8 @@ br
 
 ld r,NON_D2,80
 
-「それは、楽しい光景ですか…？」\
+;「それは、楽しい光景ですか…？」\
+`"Is it a fun sight..?"`\
 ;＜野々宮
 
 ;ld l,SH2_D2,80
