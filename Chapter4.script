@@ -2099,57 +2099,69 @@ br
 ` It looked like the girl accepted that answer for the time being.`\
 bg black,22
 
-　……別に嘘はついていない。@
-　ハーブティーを飲んだ後、急に眠気に襲われた彼は確かにそう言ったのだから。@
+;　……別に嘘はついていない。@
+` ...She wasn't exactly lying.`@
+;　ハーブティーを飲んだ後、急に眠気に襲われた彼は確かにそう言ったのだから。@
+` He did say that he wasn't feeling so well right after drinking the herbal tea and starting to fall asleep.`@
 br
-　……まあ、眠気を誘発するお茶を飲ませたのは、他ならぬ自分なのだが。\
-
+;　……まあ、眠気を誘発するお茶を飲ませたのは、他ならぬ自分なのだが。\
+` ...But, the one who made him drink that tea was none other than her.`\
 bg bijutu_07,22
 
-　新谷は動悸を落ち着けようと、すうっと、長い息を吐いた。@
-　………誰だか知らないけれど、これ以上ここで長話を続けて得をすることはない。@
+;　新谷は動悸を落ち着けようと、すうっと、長い息を吐いた。@
+` Shintani took a deep breath to try and slow her heartbeat down.`@
+;　………誰だか知らないけれど、これ以上ここで長話を続けて得をすることはない。@
+` ....She had no idea who this person was, but Shintani had nothing to gain from continuing their conversation in this room.`@
 br
-　新谷は、わずかに口調を強め、少し咎めるように言った。\
-
-「あなたこそ、美術室に何か用？@　もうとっくに下校時刻のはずでしょう？」@
+;　新谷は、わずかに口調を強め、少し咎めるように言った。\
+` Shintani lowered the tone of her voice and moved to shift the blame onto the girl.`\
+;「あなたこそ、美術室に何か用？@　もうとっくに下校時刻のはずでしょう？」@
+`"And what are you doing in the art room? `@`School got out hours ago."`@
 br
-　言いながら、改めて彼女の顔を見る。\
-
+;　言いながら、改めて彼女の顔を見る。\
+` She spoke while looking over the girl's face one more time.`\
 
 bg bijutu_04,0
 ld c,RUN_D1,22
 
-　……顔は、確かに美しい。@……まるで、中世の彫像を見るかのように、美しい。@
+;　……顔は、確かに美しい。@……まるで、中世の彫像を見るかのように、美しい。@
+` ...Her face certainly was beautiful.`@`... Almost like the beauty of a statue from Middle Ages.`@
 br
-　しかし、……それはまさに彫像そのまま。@
-　冷たく、血の通った温かさを感じさせない、……まるで蝋人形のように冷え切った顔だった。\
-
+;　しかし、……それはまさに彫像そのまま。@
+` But... it wasn't just that. It was like she really WAS a statue.`@
+;　冷たく、血の通った温かさを感じさせない、……まるで蝋人形のように冷え切った顔だった。\
+` She was cold, and didn't appear to have any warm blood flowing through her veins... It was almost as if her face was that of a wax figure, frozen in time.`\
 ld c,RUN_D5,80
 
 me1v 16,50
 
-「くすくす……。@私には下校時刻なんて関係ないんですよ、先生。@だって、私には帰るところなんてないんだから。」\
-
-　……この町では、共働きの家庭はとても多い。@
-　帰っても家に家族のいない生徒の一部が、@時にそう称して、家へ直帰せずに放課後を遊び歩くことがあるのを、新谷も知っていた。@
+;「くすくす……。@私には下校時刻なんて関係ないんですよ、先生。@だって、私には帰るところなんてないんだから。」\
+`"Hehehe... `@`What time school ends bears no significance to me, sensei. `@`After all, I have nowhere to go home to."`\
+;　……この町では、共働きの家庭はとても多い。@
+` ...In this town there were many households that had parents who both worked full-time.`@
+;　帰っても家に家族のいない生徒の一部が、@時にそう称して、家へ直帰せずに放課後を遊び歩くことがあるのを、新谷も知っていた。@
+` There are some students that will go home to an empty house, `@`but others will sometimes choose to loiter around school after-hours. Shintani knew this.`@
 br
-　しかし、……彼女の言うそれは、それとは何か違うように感じられた。\
-
+;　しかし、……彼女の言うそれは、それとは何か違うように感じられた。\
+` However... with the way this girl worded it, that didn't seem to be what she was talking about.`\
 bg black,22
 
-　……それにしても。@
+;　……それにしても。@
+` ....Still.`@
 br
-　何て美しい少女だろう。\
-
+;　何て美しい少女だろう。\
+` She was such a beautiful girl.`\
 ld_p RUN_D1
 lsp2 4,$ld_pass,400,400,200,200,0
 lsp2 5,$ld_pass2,400,400,200,200,0
 print 22
 
-　それは「可愛い」とか「綺麗」と言ったありきたりな形容では収まらない。@
-　女の新谷でさえ、見入ってしまうほどに求心力に満ちた魔性の笑みだった。@
-　……まるで背中に氷の爪を立てられたように、ぞわりと総毛立つ。\
-
+;　それは「可愛い」とか「綺麗」と言ったありきたりな形容では収まらない。@
+` Describing her with such ordinary words as 'cute' or 'pretty' just doesn't do her any justice.`@
+;　女の新谷でさえ、見入ってしまうほどに求心力に満ちた魔性の笑みだった。@
+` Her devilish smile held such powerful gravitational pull, that even a woman like Shintani couldn't take her eyes of it.`@
+;　……まるで背中に氷の爪を立てられたように、ぞわりと総毛立つ。\
+` ...It made her hair stand on end, as if claws of ice were running down her back.`\
 csp2 -1
 print 0
 bg black,2
@@ -2160,138 +2172,160 @@ E_MA
 bg bijutu_02,22
 ld r,RUN_D1,22
 
-「あら。@……これが新谷先生の絵？」@
+;「あら。@……これが新谷先生の絵？」@
+`"Oh, what's this?`@`... Did you draw this, Shintani-sensei?"`@
 br
-　いつの間にか女生徒の手には、新谷のスケッチブックがあった。@
-　その中の一枚のページを開き、興味深げに眺めている。\
-
-　……それは先ほどまで新谷が描いていた少年の絵だった。@
-　まだ、顔しか描かれていない。@
+;　いつの間にか女生徒の手には、新谷のスケッチブックがあった。@
+` At some point the girl had picked up Shintani's sketchbook.`@
+;　その中の一枚のページを開き、興味深げに眺めている。\
+` She had it open to a page that she was looking intently at.`\
+;　……それは先ほどまで新谷が描いていた少年の絵だった。@
+` ...It was the picture of this boy that she had been drawing before this.`@
+;　まだ、顔しか描かれていない。@
+` The only part she hadn't drawn of him was the face.`@
 br
-　……首から下を描く前で本当に良かった。@新谷はホッと胸を撫で下ろす。\
-
+;　……首から下を描く前で本当に良かった。@新谷はホッと胸を撫で下ろす。\
+` ...Luckily she drew everything beneath the neck first. `@`Shintani heaved a sigh of relief.`\
 ld r,RUN_D8,80
 
-「ふうん……。@まだ書き掛けなんですね。」@
-
+;「ふうん……。@まだ書き掛けなんですね。」@
+`"Hmm.... `@`It's not finished yet."`@
 ld l,NAF_D4a,23
 ;ld l,NAF_D3,80
 
-「……えぇ。@ほら、彼が眠っちゃったから。」@
+;「……えぇ。@ほら、彼が眠っちゃったから。」@
+`"...Yeah. `@`Since, as you can see, he fell asleep."`@
 ld r,RUN_D2,80
 
-「そうなんですか。@/
-
+;「そうなんですか。@/
+`"Ah, I see.`@/
 cl r,0
 ld c,RUN_D5,24
 
-……ねぇ、新谷先生。」@
+;……ねぇ、新谷先生。」@
+`....Hey, Shintani-sensei."`@
 br
-　女生徒が上目遣いに新谷の目を覗き込んでくる。\
-
+;　女生徒が上目遣いに新谷の目を覗き込んでくる。\
+` The girl peered into Shintani's eyes.`\
 ;ld l,NAF_D4a,80
 
 　ぞくりとする、……こちらの魂の奥底を覗き込んでくるような瞳だった。\
-
+` Shintani shivered... it was as if her eyes were looking directly into her soul.`\
 ld c,RUN_D1,80
 
-「……良かったら。@……彼の代わりに私を描いてくれません？」\
-
+;「……良かったら。@……彼の代わりに私を描いてくれません？」\
+`"...If you want to`@`... why don't you use me as a model in his place?"`\
 fede 0,1000
 E_A
 
 ld l,NAF_D7a,22
 bgm1 30
-「…………………え？」@
+;「…………………え？」@
+`".......Huh?"`@
 br
-　突然の彼女の言葉に私は目を丸くした。\
+;　突然の彼女の言葉に私は目を丸くした。\
+` Upon hearing her sudden question, my eyes widdened.`\
 ;sss
 ld c,RUN_D5,80
 
-「どうせ彼の目が覚めるまで先生はここにいるんでしょう？@　だったらその間に私の絵を描いてくれませんか…？」@
-
+;「どうせ彼の目が覚めるまで先生はここにいるんでしょう？@　だったらその間に私の絵を描いてくれませんか…？」@
+`"You're going to have to stay here until he wakes up, right? `@`So why don't you draw me in the meantime...?"`@
 ld l,NAF_D6a,80
 
-「……………。」\
-
+;「……………。」\
+`"......."`\
 
 ld c,RUN_D1,80
 
-「いいでしょ、先生。@……お願い。」@
+;「いいでしょ、先生。@……お願い。」@
+`"It'll be fine, sensei.`@`... Please?"`@
 br
-　………新谷は断れなかった。@
-　覗き込んでくる女生徒の目が、@新谷がしようとしていたことを全て見透かしているように見えたからだ。\
-
+;　………新谷は断れなかった。@
+` ....Shintani had no choice.`@
+;　覗き込んでくる女生徒の目が、@新谷がしようとしていたことを全て見透かしているように見えたからだ。\
+` The eyes of this girl, `@`they look like she could see through everything Shintani was trying to do.`\
 ;csp2 -1
 ;print 0
 bg black,22
 bg kaiga_02,22
 
-　仮にやましいことが一切なかったとしても、@放課後の美術室に女教師が生徒を私的目的で連れ込んだ、などという言われ方をしたら。@……痛くもない腹を探られかねない。@
-　この美術室という聖域を、壊されたくない。@
+;　仮にやましいことが一切なかったとしても、@放課後の美術室に女教師が生徒を私的目的で連れ込んだ、などという言われ方をしたら。@……痛くもない腹を探られかねない。@
+` Even if she wasn't doing anything wrong, `@`if that someone started going around saying that a teacher was bringing students to the art room after school for her own personal goals.`@`... It's entirely possible that she could be falsely accused of something.`@
+;　この美術室という聖域を、壊されたくない。@
+` She didn't want anyone to ruin the sanctuary that is her art room.`@
 br
-　面倒事を避けたい新谷は、首を縦に振る他なかった……。\
-
+;　面倒事を避けたい新谷は、首を縦に振る他なかった……。\
+` Wanting to avoid any trouble, Shintani could do nothing but nod her head in agreement...`\
 bg black,22
 bg bijutu_03,22
 
 
-　新谷は無言で彼女からスケッチブックを受け取り、新しいページを開く。\
-
+;　新谷は無言で彼女からスケッチブックを受け取り、新しいページを開く。\
+` She silently took the sketchbook from the girl and turned to a new page.`\
 ld c,RUN_D5,22
 
-「うふふふふふふふふ……。@ありがとう、新谷先生。」@
+;「うふふふふふふふふ……。@ありがとう、新谷先生。」@
+`"Ufufufufufu...`@` Thank you, Shintani-sensei."`@
 br
-　女生徒は無邪気に笑うと、勧められてもいないのに、自らモデル用の椅子に座る。\
-
+;　女生徒は無邪気に笑うと、勧められてもいないのに、自らモデル用の椅子に座る。\
+` The girl laughed innocently and, without any instruction from Shintani, went over and sat on the modeling chair.`\
 ld c,RUN_D1,80
 
-「あら、この椅子、ソファーみたいにフカフカしてるのね。@座り心地が良いわ。」@
-「………あんまり動かないでね。@うまく描けないから。」\
-
+;「あら、この椅子、ソファーみたいにフカフカしてるのね。@座り心地が良いわ。」@
+`"Oh my, this chair is really soft, just like a sofa. `@`It feels good to sit on."`@
+;「………あんまり動かないでね。@うまく描けないから。」\
+`"...Don't move around too much. `@`It makes it hard to draw."`\
 ld c,RUN_D5,80
 
-「もちろん、大人しくしているわ。@………だけど、おしゃべりくらいはいいかしら？」@
-「………少しくらいならね。」\
-
+;「もちろん、大人しくしているわ。@………だけど、おしゃべりくらいはいいかしら？」@
+`"Don't worry, I'll sit still.`@`... But can I at least move my mouth to talk?"`@
+;「………少しくらいならね。」\
+`"....If it's just a little."`\
 ld c,RUN_D1,80
 
-「そうね。@……じゃあ、あの話はどうかしら？@　最近生徒の間でもちきりの、あの噂。@……“美術室のルノワール”。」@
+;「そうね。@……じゃあ、あの話はどうかしら？@　最近生徒の間でもちきりの、あの噂。@……“美術室のルノワール”。」@
+`"Okay.`@`... So, what do you think of that story? `@`The one that the students have been talking about recently.`@`... 'Renoir of the Art Room'."`@
 br
-　筆入れから鉛筆を取り出そうとしていた新谷の手が止まった。\
-
+;　筆入れから鉛筆を取り出そうとしていた新谷の手が止まった。\
+` Shintani's hand stopped right in the middle of getting a pencil out from her pencil case.`\
 ;ld c,RUN_D3,80
 
 bg black,22
 
-「ぴったりの話題よね。@だってここは美術室なんだし。」@
-「………不謹慎じゃない？@　あんな事故があったって言うのに。」@
+;「ぴったりの話題よね。@だってここは美術室なんだし。」@
+`"I thought it would make for a good topic. `@`Since this is the art room and all."`@
+;「………不謹慎じゃない？@　あんな事故があったって言うのに。」@
+`"....Isn't that a bit rude? `@`Talking about that rumor so soon after the accident happened."`@
 br
-　喉の奥に声が絡む。\
-
+;　喉の奥に声が絡む。\
+` Her voice got caught up in the back of her throat.`\
 ;ld c,RUN_D6,80
 
-「あら……。@じゃあ、先生は彼……、@野田裕貴くんが死んだのは事故だと思っているんですね？@　“美術室のルノワール”の祟りじゃなくて。」@
-「……当たり前じゃない。@祟りなんて持ち出す方がどうかしてるわ。」\
-
+;「あら……。@じゃあ、先生は彼……、@野田裕貴くんが死んだのは事故だと思っているんですね？@　“美術室のルノワール”の祟りじゃなくて。」@
+`"Oh....?`@` Then you think his.... `@`Yuuki Noda's death was an accident, then? `@`Not the curse of 'Renoir of the Art Room'."`@
+;「……当たり前じゃない。@祟りなんて持ち出す方がどうかしてるわ。」\
+`"...Obviously. `@`There's no such thing as curses."`\
 ;ld c,RUN_D1,80
 
-「ふぅん……。」@
+;「ふぅん……。」@
+`"Hmm...."`@
 br
-　女生徒は愉快そうに微笑んだ。\
-
+;　女生徒は愉快そうに微笑んだ。\
+` The girl smiled pleasantly.`\
 bg bijutu_02,22
 
 ;ld c,RUN_D3,80
 
-「じゃあ、もう一つの噂は聞きました？」@
-「もう一つの噂？」\
-
+;「じゃあ、もう一つの噂は聞きました？」@
+`"Well then, have you heard the other rumor?"`@
+;「もう一つの噂？」\
+`"Other rumor?"`\
 ;ld c,RUN_D2,80
 
-「ええ。@野田裕貴くんがいじめを受けていた、という噂です。」@
-「…………。」\
-
+;「ええ。@野田裕貴くんがいじめを受けていた、という噂です。」@
+`"Yeah. `@`The one that Yuuki Noda was being bullied."`@
+;「…………。」\
+`"......"`\
 bg black,22
 
 fede 0,1000
@@ -2302,57 +2336,62 @@ bg shokuin_01,22
 
 bgm1 18
 
-　それは生徒たちだけではなく、教員や保護者の間でも話題になったことだった。\
-
-　美術室で発見された野田裕貴の遺体には、@生前から日常的につけられたたくさんの傷跡があったのだ。@
+;　それは生徒たちだけではなく、教員や保護者の間でも話題になったことだった。\
+` It wasn't just the students that were talking about that, it was a hot topic among the staff and parents of other students as well.`\
+;　美術室で発見された野田裕貴の遺体には、@生前から日常的につけられたたくさんの傷跡があったのだ。@
+` When they found Yuuki Noda's body in the art room, `@`they discovered a lot of scars that were made when he was still alive.`@
 br
-　裕貴の両親はクラス内でいじめがあったのではないか、と学校側を問い詰めた。\
-
-「……あれだって、ただの噂でしょ？@　担任の先生もクラスメートの子たちも、いじめの事実はなかったと否定したはずよ。」@
-「ええ。@実際、いじめの証拠のようなものは何も見つからなかったそうですね。」\
-
+;　裕貴の両親はクラス内でいじめがあったのではないか、と学校側を問い詰めた。\
+` Yuuki's parents question the school on whether he may have been bullied by someone in his class.`\
+;「……あれだって、ただの噂でしょ？@　担任の先生もクラスメートの子たちも、いじめの事実はなかったと否定したはずよ。」@
+`"...Wasn't that just a rumor? `@`His homeroom teacher and fellow classmates all said that he wasn't being bullied."`@
+;「ええ。@実際、いじめの証拠のようなものは何も見つからなかったそうですね。」\
+`"Yeah. `@`It's true that they never found any evidence that he was being bullies."`\
 bg black,22
 
-「そうよ。@……学校内の誰一人として、裕貴くんがいじめられている姿を見た人間はいなかったんだから。」\
-
-「でも、目撃者がいないからと言って、@いじめがなかったとは限らないんじゃないかしら……？@　人目につかないような場所で暴力を振るわれていたかもしれないですよね？@　……例えば、ほら。」\
-
+;「そうよ。@……学校内の誰一人として、裕貴くんがいじめられている姿を見た人間はいなかったんだから。」\
+`"Exactly.`@`... Not a single person in this entire school said they had ever seen him being bullied."`\
+;「でも、目撃者がいないからと言って、@いじめがなかったとは限らないんじゃないかしら……？@　人目につかないような場所で暴力を振るわれていたかもしれないですよね？@　……例えば、ほら。」\
+`"But, `@`does the absence of evidence really prove that he was never bullied....? `@`Aren't there still places that he could come into contact with violence without any of those people seeing?`@`... For example."`\
 mono 0
 bg bijutu_01,22
 
-　女生徒はそこで言葉を区切ると、首だけ回して美術室の扉を見た。\
-
-「ここみたいに、内側から鍵がかけられる特別教室とか……。」@
+;　女生徒はそこで言葉を区切ると、首だけ回して美術室の扉を見た。\
+` The girl paused in the middle of her sentence and turned only her head to look over at the door to the art room.`\
+;「ここみたいに、内側から鍵がかけられる特別教室とか……。」@
+`"A unique sort of classroom that can be looked from the inside, just like this one..."`@
 br
-　新谷の前髪に隠れた額と握り込んだ掌から、嫌な汗がじわりと滲み出る……。\
-
-「先生はご存知でした？@　裕貴くんの身体にあった傷は、殴られたり蹴られたりした様な単純なものじゃなくて、@変わった傷が多かったみたいですよ？@　まるで、切れ味の悪い刃物を肌に押し当てられたみたいな…………。」\
-
+;　新谷の前髪に隠れた額と握り込んだ掌から、嫌な汗がじわりと滲み出る……。\
+` On her brow hidden beneath her bangs and in her clenched hands, Shintani started to sweat...`\
+;「先生はご存知でした？@　裕貴くんの身体にあった傷は、殴られたり蹴られたりした様な単純なものじゃなくて、@変わった傷が多かったみたいですよ？@　まるで、切れ味の悪い刃物を肌に押し当てられたみたいな…………。」\
+`"Have you heard this, sensei? `@`Apparently the marks on Yuuki's body didn't look like they were simply from him being punched or kicked. `@`He had a bunch of unusual marks on him. `@`Almost like a dull knife had been pressed against his skin....."`\
 bg black,23
 bg bijutu_02,0
 ld c,NAF_D5,23
 
-「………………。」@
+;「………………。」@
+`"........"`@
 br
-　新谷は、手元のスケッチブックに視線を落としたまま、@机の上に置きっぱなしにしたままのペンティングナイフを、目の端で捉える。\
-
+;　新谷は、手元のスケッチブックに視線を落としたまま、@机の上に置きっぱなしにしたままのペンティングナイフを、目の端で捉える。\
+` Still staring down at the sketchbook in her hands, `@`out of the corner of her eyes, Shintani saw the palette knife sitting on top of the desk.`\
 bg black,23
 bg bijutu_04,23
 
 
-　不自然に見えないよう、一間置いてからスケッチブックを持ったまま立ち上がり、@別の角度から女生徒を描くかのように机の方に移動する。@
+;　不自然に見えないよう、一間置いてからスケッチブックを持ったまま立ち上がり、@別の角度から女生徒を描くかのように机の方に移動する。@
+` She waited a moment not to seem suspicious, then stood up holding her sketchbook. `@`Under the guise of getting a different angle of the girl, she moved toward the desk with the knife sitting on it.`@
 br
-　そして女生徒の目を盗んでナイフを取ると、音を立てない様に注意して引き出しの中にしまった。\
-
+;　そして女生徒の目を盗んでナイフを取ると、音を立てない様に注意して引き出しの中にしまった。\
+` She stole the knife out from under the girl's eyes and, being careful not to make a sound, put it into the drawer in her desk.`\
 bg black,22
 
-　……大丈夫。@彼女には気付かれていない。@ほっと胸を撫で下ろす。\
-
+;　……大丈夫。@彼女には気付かれていない。@ほっと胸を撫で下ろす。\
+` ...It's okay. `@`She didn't notice. `@`Shintani let out a sigh of relief.`\
 bg bijutu_03,0
 ld r,RUN_D1,24
 
-　その場で立ったまま適当にスケッチブックに筆を走らせると、自分の椅子にゆっくりと戻った。\
-
+;　その場で立ったまま適当にスケッチブックに筆を走らせると、自分の椅子にゆっくりと戻った。\
+` While still standing there she made a few strokes in the sketchbook with her pencil before slowly returning to her own chair.`\
 ld r,RUN_D8,80
 
 「……私、思ったんですよ。@もしかして裕貴くんは、@いじめじゃなくて誰か大人の人に虐待されてたんじゃないかって……。」\
