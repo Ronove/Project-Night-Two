@@ -523,63 +523,69 @@ br
 ` At the very least, this person was neither a student nor a teacher of this school.`\
 ;ld l,SH2_D3,80
 
-「……………この場所が、どんな光景かはよく覚えているよ。@僕にとってここは、思い出深い場所だからね。@……この学校がどんな光景なのか、今も瞼の裏に焼き付いているよ。」@
+;「……………この場所が、どんな光景かはよく覚えているよ。@僕にとってここは、思い出深い場所だからね。@……この学校がどんな光景なのか、今も瞼の裏に焼き付いているよ。」@
+`"....I remember this sight well.`@`It's unforgettable for me.`@`This scenery of this school is veritably burned into my retinas"`@
 ;＜大人秋一
 
 ld r,NON_D2,80
 
 ;「それは、楽しい光景ですか…？」\
-`"Is it a fun sight..?"`\
+`"Is it an enjoyable sight..?"`\
 ;＜野々宮
 
 ;ld l,SH2_D2,80
 
-「……はは。@それはどうかな。@……僕のいた当時は、いじめや乱暴がとても多い荒れた時代でね。」@
+;「……はは。@それはどうかな。@……僕のいた当時は、いじめや乱暴がとても多い荒れた時代でね。」@
+`"...Hahaha...`@`I wonder....`@`Y'know, in my time bullying and violence were commonplace."`@
 ;＜大人秋一
 br
-　男性は軽やかに笑う。@
-　その様子を見る限り、彼の在校時、あまり穏やかな生活が出来たようには思えない。\
-
-　しかし、あれから長い時間が経っている。@
+;　男性は軽やかに笑う。@
+` The man laughed.`@
+;　その様子を見る限り、彼の在校時、あまり穏やかな生活が出来たようには思えない。\
+` As far as one could see from this discussion, the man's school days didn't seem to be all that calm and tranquil.`\
+;　しかし、あれから長い時間が経っている。@
+` However, a long time had passed since then.`@
 br
-　仮にいじめられていたにしても、その痛みはすでに癒され、思い出と忘却の彼方のようだった。\
-
+;　仮にいじめられていたにしても、その痛みはすでに癒され、思い出と忘却の彼方のようだった。\
+` Even if he had been bullied, evidently that pain had long since healed, like the memories in oblivion.`\
 ;ld l,SH2_D1,80
 
-「……僕は当時。@……この校舎裏がお気に入りでね。@休み時間は必ずここで過ごしていたよ。」@
-
+;「……僕は当時。@……この校舎裏がお気に入りでね。@休み時間は必ずここで過ごしていたよ。」@
+`"In my time,`@` I think the back of the schoolhouse was my favorite spot.`@`I used to be able to spend time relaxing there."`@
 ld r,NON_D1,80
 
-「涼しいですよね、ここ……。」@
-
+;「涼しいですよね、ここ……。」@
+`"It must have been refreshing, here...."`@
 ;ld l,SH2_D2,80
 
-「うん。@ひと気もないしね。@お気に入りだったんだ。」@
+;「うん。@ひと気もないしね。@お気に入りだったんだ。」@
+`"Yes.`@`I didn't have to care about other people.`@`It was my favorite place."`@
 br
-　男性は木の幹を撫でながら、当時を振り返る。\
-
+;　男性は木の幹を撫でながら、当時を振り返る。\
+` The man was reminiscing while stroking the trunk of a tree.`\
 bg black,22
 bg gakkou_02,22
 
 ;ld l,SH2_D1,80
 
-「僕は、将来は画家になりたいと思っていたんだ。」@
-
+;「僕は、将来は画家になりたいと思っていたんだ。」@
+`"I had thought I wanted to become a painter in the future."`@
 ;ld r,NON_D6,80
 
-「画家、ですか……。」\
-
+;「画家、ですか……。」\
+`"A painter?"`\
 ;ld l,SH2_D3,80
 
-「そう。@感動や感情を、スケッチブックに書き留めることに面白さを覚えていてね。@……毎日、ここでひとり、喧騒を逃れ、目に付いた何かをスケッチブックに書き留めていたんだ……。」\
-
+;「そう。@感動や感情を、スケッチブックに書き留めることに面白さを覚えていてね。@……毎日、ここでひとり、喧騒を逃れ、目に付いた何かをスケッチブックに書き留めていたんだ……。」\
+`"Yeah.`@`I remember the fun of recording down all my inspirations and emotions in a sketchbook.`@`Every morning I'd flee the hustle and bustle, and sketch whatever I saw..."`\ 
 bg black,22
 ;bg gakkou_02,22
 
-　それはとてもとても昔の話……。@
+;　それはとてもとても昔の話……。@
+` That was a really old story....`@
 br
-　まだ、この校舎が新校舎と呼ばれ、誕生したばかりの昔の話………。\
-
+;　まだ、この校舎が新校舎と呼ばれ、誕生したばかりの昔の話………。\
+` A story from when this building had just been built and was still called the new school building...`\
 bg black,2
 
 fede 0,2000
@@ -594,20 +600,23 @@ me1v 16,50
 mono 0
 print 2
 
-　いくつもの学校が統合されたマンモス校の誕生。@
+;　いくつもの学校が統合されたマンモス校の誕生。@
+` The birth of a mammoth school through the integration of many others.`@
 br
-　それは通う生徒たちに動揺と混乱をもたらした。\
-
-　そして彼らの混乱はそのまま、人ならざる者たちの世界にももたらされる。@
+;　それは通う生徒たちに動揺と混乱をもたらした。\
+` It led to confusion and upset amongst the students.`\
+;　そして彼らの混乱はそのまま、人ならざる者たちの世界にももたらされる。@
+` And their upset was also brought the the world that was not of humans.`@
 br
-　混乱した魂たちのひしめき合う新たなカオスの誕生に、@有象無象の妖怪たちが群れに群れ、狂乱し、跋扈していた……。\
-
+;　混乱した魂たちのひしめき合う新たなカオスの誕生に、@有象無象の妖怪たちが群れに群れ、狂乱し、跋扈していた……。\
+` Waves of small-fry monsters flocked and frenzied to dominate the birth of the confused crowd of upset spirits...`\
 bg black,22
 bg rouka_04,22
 
 bgm1 10
 
-「ギャギャギャギャア！！@　人間どもがイッパイだぜ！@　喰らい放題だぜ！！」@
+;「ギャギャギャギャア！！@　人間どもがイッパイだぜ！@　喰らい放題だぜ！！」@
+`"Kyahahahaha!!`@`Man, this place is just PACKED with humans!!`@`Eat your fill everyone!!"`@
 「何てデケェ学校だぁ！@　クソガキどもの魂でギュウギュウだぜぇ！！」@
 「集るんじゃねえや、クソ妖怪ども！！@　こいつらの魂は全部、俺ンだ！！」@
 「邪魔すんじゃねぇ、俺はハラペコなんだ！！@　殺す殺す殺ーすッ！！」\
