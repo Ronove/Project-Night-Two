@@ -1476,7 +1476,7 @@ br
 ` Apparently there were five main parts to the story of 'Renoir of the Art Room'.`\
 br
 ;　一、ルノワールに絵筆を借りてはいけない。@
-` One, never let Renoir borrow your paintbrush.`@
+` One, never let Renoir lend you a paintbrush.`@
 ;　二、ルノワールは美術室に掛けられた絵を指して、作者が誰かを尋ねてくる。@その画家の名を正確に答えなければいけない。@
 ` Two, if Renoir points to one of the pictures in the art room and asks you who made it, `@`you have to answer the name of the artist correctly.`@
 ;　三、ルノワールの問い掛けに嘘をついてはならない。@
@@ -2394,95 +2394,104 @@ ld r,RUN_D1,24
 ` While still standing there she made a few strokes in the sketchbook with her pencil before slowly returning to her own chair.`\
 ld r,RUN_D8,80
 
-「……私、思ったんですよ。@もしかして裕貴くんは、@いじめじゃなくて誰か大人の人に虐待されてたんじゃないかって……。」\
-
+;「……私、思ったんですよ。@もしかして裕貴くんは、@いじめじゃなくて誰か大人の人に虐待されてたんじゃないかって……。」\
+`"...I've been thinking. `@`Maybe Yuuki was being bullied at all. `@`Maybe he was being abused by an adult..."`\
 ld l,NAF_D6a,23
 
 wait 1000
 
 ld l,NAF_D4a,80
 
-「………どうしてそんな風に思うの？」@
-
+;「………どうしてそんな風に思うの？」@
+`"....Why do you think that?"`@
 ld r,RUN_D6,80
 
-「火傷の痕です。」@
+;「火傷の痕です。」@
+`"The burn scars."`@
 br
-　新谷の喉から、ひゅっ、と息を吸い込む変な音が出た。\
-
+;　新谷の喉から、ひゅっ、と息を吸い込む変な音が出た。\
+` Shintani swallowed a breath and let a strange sound out of her throat.`\
 ;ld r,RUN_D3,80
 
 bg black,22
 
-「裕貴くんの身体には、@小さくて丸い、火ぶくれみたいな火傷の痕がたくさんあったらしいんですよ。@まるで、煙草を押し付けられたみたいな。」\
-
+;「裕貴くんの身体には、@小さくて丸い、火ぶくれみたいな火傷の痕がたくさんあったらしいんですよ。@まるで、煙草を押し付けられたみたいな。」\
+`"On Yuuki's body, `@`there were multiple little, round scars from burn marks that looked like blisters. `@`Almost like someone had been burning him with the end of a cigarette."`\
 ;bg black,23
 bg bijutu_04,22
 
-　新谷は再び机の上に目を向ける。@もう一度立ち上がってあそこまで行くのは不自然過ぎるだろうか……。\
-
-　しかし、その心配は杞憂だった。@煙草はさっきしっかりと引き出しの中にしまった。@
+;　新谷は再び机の上に目を向ける。@もう一度立ち上がってあそこまで行くのは不自然過ぎるだろうか……。\
+` Shintani once again looked over at her desk. `@`She would draw too much attention to herself if she walked over to it again...`\
+;　しかし、その心配は杞憂だった。@煙草はさっきしっかりと引き出しの中にしまった。@
+` However, there was no real reason for her to worry. `@`She made sure to put her cigarettes into the drawer earlier.`@
 br
-　それにこの部屋には灰皿がない。@机の上の空き缶も、パッと見には吸い殻が入っているとは分からないはずだ。@
-　臭いだって、……様々な塗料の臭いがごちゃ混ぜになってて、わかるはずがない……。\
-
+;　それにこの部屋には灰皿がない。@机の上の空き缶も、パッと見には吸い殻が入っているとは分からないはずだ。@
+` Besides, there isn't an ashtray in this room. `@`Even if you looked into the can sitting on her desk, at a glance you wouldn't be able to tell that there was a cigarette butt inside.`@
+;　臭いだって、……様々な塗料の臭いがごちゃ混ぜになってて、わかるはずがない……。\
+` As for the smell... there were so many different smells in an art room from the paint and materials that it shouldn't be noticable...`\
 bg black,22
 bg bijutu_07,22
 
-「………あら。」@
+;「………あら。」@
+`"....Hmm?"`@
 br
-　女生徒は首を傾げ、新谷の腰の辺りに視線を向けた。\
-
-「先生のそのポケットに入ってるのって、もしかしてライターですか？」@
-
+;　女生徒は首を傾げ、新谷の腰の辺りに視線を向けた。\
+` The girl tilted her head and shifted her gaze to Shintani's waist area.`\
+;「先生のそのポケットに入ってるのって、もしかしてライターですか？」@
+`"Sensei, is that a lighter in your pocket?"`@
 me1v 16,50
 
 br
-　今度こそどきりと、新谷の心臓が跳ね上がった。\
-
+;　今度こそどきりと、新谷の心臓が跳ね上がった。\
+` This time, Shintani's heart really did jump with fright.`\
 bg black,22
 
-　慌ててジャケットのポケットを見る。@
+;　慌ててジャケットのポケットを見る。@
+` In a panic she looked down at her jacket's pocket.`@
 br
-　……ぴったりとしたポケットの一部分だけが、@露骨にライターを想起させる小さな長方形の形に膨らんでいた……。\
-
+;　……ぴったりとしたポケットの一部分だけが、@露骨にライターを想起させる小さな長方形の形に膨らんでいた……。\
+` ...It was just a small portion of it, `@`but you could clearly see the small rectangular shape indicative of snugly tucked in her pocket...`\
 bg bijutu_03,0
 ld l,RUN_D7,22
 ld l,RUN_D1,80
 
-「意外です。@先生、煙草を吸われるんですね。」@
-
+;「意外です。@先生、煙草を吸われるんですね。」@
+`"That's surprising. `@`Sensei, do you smoke?"`@
 ld r,NAF_D6a,22
 
-「……………………。」\
-
+;「……………………。」\
+`".........."`\
 ld l,RUN_D5,80
 
-「普段は隠してるんですか？@　まぁ、先生みたいなタイプだと、堂々と吸うのは肩身が狭いですよね。@今は男性の先生方でも吸わない人の方が多いですもんね。@くすくすくすくすくす。」\
-
+;「普段は隠してるんですか？@　まぁ、先生みたいなタイプだと、堂々と吸うのは肩身が狭いですよね。@今は男性の先生方でも吸わない人の方が多いですもんね。@くすくすくすくすくす。」\
+`"Do you usual try to hide it? `@`Well, for a teacher like you, it must feel pretty shameful to smoke out in the open. `@`Especially since even the male teachers don't smoke as much any more. `@`Hehehehe."`\
 ld r,NAF_D8a,80
 
-　ボキリ。@
+;　ボキリ。@
+` SNAP.`@
 br
-　鉛筆を持つ手に思わず力が入ってしまったのだろう。@……ぽっきりと芯が折れていた。\
-
+;　鉛筆を持つ手に思わず力が入ってしまったのだろう。@……ぽっきりと芯が折れていた。\
+` Shintani must have put too much strength behind the pencil she was drawing with.`@`... and broke the lead right off the tip.`\
 ld l,RUN_D3,80
 
-「あらあら、大丈夫ですか…？」@
+;「あらあら、大丈夫ですか…？」@
+`"Oh, what's wrong? Are you okay...?"`@
 br
-　椅子に座ったままの体勢で、女生徒が手を差し出してきた。@
-　その手には一本の鉛筆が握られている。\
-
+;　椅子に座ったままの体勢で、女生徒が手を差し出してきた。@
+` Still sitting posed in her chair the girl extended a hand out towards Shintani.`@
+;　その手には一本の鉛筆が握られている。\
+` In that hand she held a pencil.`\
 ld l,RUN_D1,80
 
-「良かったらどうぞ。@私のを使ってください。」@
-
+;「良かったらどうぞ。@私のを使ってください。」@
+`"If it's okay with you, `@`please use mine."`@
 ld r,NAF_D6a,80
 
-「…………結構よ。」@
+;「…………結構よ。」@
+`"......No, it's fine."`@
 br
-　新谷は筆入れからカッターを取り出し、折れた鉛筆を削りだした。\
-
+;　新谷は筆入れからカッターを取り出し、折れた鉛筆を削りだした。\
+` Shintani reached into her pencil case, got out a boxcutter and started to sharpen her broken pencil.`\
 bg black,22
 
 fede 1,1000
@@ -2490,48 +2499,56 @@ E_B
 
 bg kaiga_02,22
 
-　削られていく鉛筆を見ながら、自分は一体何をしているんだろう、と思う。\
-
-　この子さえ来なければ今頃は……。@
+;　削られていく鉛筆を見ながら、自分は一体何をしているんだろう、と思う。\
+` Staring down at the pencil she was whittling away at, Shintani thought to her herself 'what the hell am I doing?'`\
+;　この子さえ来なければ今頃は……。@
+` If only this kid wasn't here, right now I'd be...`@
 br
-　いや、まだチャンスがなくなったわけじゃない。@もともと今回は時間をかけるつもりだったのだ。@日を改めて、ゆっくりと…………。\
-
+;　いや、まだチャンスがなくなったわけじゃない。@もともと今回は時間をかけるつもりだったのだ。@日を改めて、ゆっくりと…………。\
+` No, it's not like her chances were ruined. `@`She just has to bide her time, like she intended to do before. `@`Be patient and wait for another day......`\
 bg black,22
 
-　………………………。@……………。@
+;　………………………。@……………。@
+` ...........`@......`@
 br
-　唐突に新谷は違和感を覚えた。@
-　……今、この子はどこからさっきの鉛筆を出したのだろう……？\
-
+;　唐突に新谷は違和感を覚えた。@
+` Suddenly, Shintani felt that something was out of place.`@
+;　……今、この子はどこからさっきの鉛筆を出したのだろう……？\
+` ....Where did that girl get that pencil from just now...?`\
 bg Different_spiral_1a,22
 
-　彼女は筆箱はおろか、鞄のようなものも持っていない。@
+;　彼女は筆箱はおろか、鞄のようなものも持っていない。@
+` The girl wasn't carrying a bag with her, nevermind a pencil case.`@
 br
-　差し出された鉛筆は、削りたてのように鋭く尖っていた。@黒光りした芯は鋭利な針のようですらあった。\
-
-　ポケットにでも入れていた？@　いやいや、……剥き出しの鉛筆を、そのままポケットに収めて持ち歩くわけもない。\
-
+;　差し出された鉛筆は、削りたてのように鋭く尖っていた。@黒光りした芯は鋭利な針のようですらあった。\
+` The pencil that she had held out looked like it had just been sharpened. `@`The newly polished lead looked just as sharp as a needle.`\
+;　ポケットにでも入れていた？@　いやいや、……剥き出しの鉛筆を、そのままポケットに収めて持ち歩くわけもない。\
+` Did she have it in her pocket? `@`No... she probably wouldn't be able to carry around that pencil in her pocket without ruining the sharpness of the lead at least a little.`\
 me2v 28,50
 
 bg Different_spiral_1b,22
 
-　………唐突に取り出し、差し出してきた、一本の鉛筆。@
-　ただそれだけのことのはずなのに、……どうしても違和感を拭えない。@
+;　………唐突に取り出し、差し出してきた、一本の鉛筆。@
+` .....She suddenly pulled out a pencil and handed it to Shintani.`@
+;　ただそれだけのことのはずなのに、……どうしても違和感を拭えない。@
+` That's all that happened... but no matter what Shintani couldn't shake her sense that something was out of place.`@
 br
-　違和感？@　何の？\
+;　違和感？@　何の？\
+` Out of place? `@`But what?`\
 
-
-　…………………………。@
+;　…………………………。@
+` .............`@
 br
-　新谷の脳裏を、ぼんやりと過ぎる、あの、怪談。@
-　美術室のルノワールの怪談が語る、最初の禁忌……。\
-
+;　新谷の脳裏を、ぼんやりと過ぎる、あの、怪談。@
+` It had compltely slipped her mind. That ghost story.`@
+;　美術室のルノワールの怪談が語る、最初の禁忌……。\
+` The first of rule of the story of Renoir of the Art Room...`\
 bg black,22
 
 locate 1,5
 
-“ルノワールに絵筆を借りてはいけない。”\
-
+;“ルノワールに絵筆を借りてはいけない。”\
+`'Never let Renoir lend you a paintbrush.'`\
 E_A
 
 
@@ -2540,59 +2557,68 @@ ld r,NAF_D6a,22
 
 bgm1 16
 
-　背筋につーっと冷たい汗が流れる。@
+;　背筋につーっと冷たい汗が流れる。@
+` A cold sweat ran down Shintani's back.`@
 br
-　鉛筆も絵筆ということになるのだろうか？@　もしも、あれを受け取っていたらどうなっていた？\
-
+;　鉛筆も絵筆ということになるのだろうか？@　もしも、あれを受け取っていたらどうなっていた？\
+` Would a pencil count just the same as a paintbrush? `@`What would have happened if she had accepted that pencil?`\
 ;ld c,NAF_D7a,80
 
-　…………ど、……どうにもなるものか。@
+;　…………ど、……どうにもなるものか。@
+` ......Wh- ...Would she have broken the rule?`@
 br
-　あれはルノワールという妖怪の話だ。@
-　妖怪から借りてはいけないのであって、@……見ず知らずとはいえ、女生徒から借りてはならないわけではない……。\
-
+;　あれはルノワールという妖怪の話だ。@
+` It was a story about a youkai named Renoir.`@
+;　妖怪から借りてはいけないのであって、@……見ず知らずとはいえ、女生徒から借りてはならないわけではない……。\
+` So obviously she's not supposed to let that youkai lend her anything.`@`... But what about a random girl she doesn't even know the name of? That's not breaking the rules, right...?`\
 bg black,0
 ld c,RUN_D1,2
 
-　…………………………。@
+;　…………………………。@
+` ............`@
 br
-　………彼女は、……本当は、…………誰。\
+;　………彼女は、……本当は、…………誰。\
+` ....Just... who is....... this girl?`\
 
 
-
-　新谷は、目の前のモデルが、本当にただの女生徒で人間なのか、@………そんな当り前のことが、わからなくなりかけていた……。\
-
+;　新谷は、目の前のモデルが、本当にただの女生徒で人間なのか、@………そんな当り前のことが、わからなくなりかけていた……。\
+` Was the girl modeling in front of Shintani really just a normal human being?`@`.... She suddenly began to doubt something that she had never doubted before...`\
 bg bijutu_03,0
 ld c,RUN_D1,2
 
 ld c,RUN_D5,80
 
-「どうしたんですか、先生？@　顔色が悪いですよ。」@
-「………………。」\
-
-　私は何だって、……放課後の美術室で、名も知らぬ少女の絵を描かされているのか。@
-　そもそも彼女は誰なのか。@……名前さえ知らない。@
-　いや、……そもそも、……何者かさえ、わかっちゃいない。\
-
+;「どうしたんですか、先生？@　顔色が悪いですよ。」@
+`"What's wrong, sensei? `@`You're looking a little pale."`@
+;「………………。」\
+`"........"`\
+;　私は何だって、……放課後の美術室で、名も知らぬ少女の絵を描かされているのか。@
+` Why am I doing this?.... Sitting in the art room after school being made to draw a picture of a girl who's name I don't know.`@
+;　そもそも彼女は誰なのか。@……名前さえ知らない。@
+` Who even is she?`@`... I don't even know her name.`@
+;　いや、……そもそも、……何者かさえ、わかっちゃいない。\
+` No... I don't even know... what she is.`\
 ld c,RUN_D2,80
 
-「ああ、そう言えば、発見された時の裕貴くん。@………着ていたシャツのボタンを掛け違えてたみたいですね。」@
-「……え？」\
-
+;「ああ、そう言えば、発見された時の裕貴くん。@………着ていたシャツのボタンを掛け違えてたみたいですね。」@
+`"Oh, by the way, you know when they found Yuuki....`@` apparently the buttons on his shirt were mixed up."`@
+;「……え？」\
+`"...Huh?"`\
 bg black,22
 
 me1v 17,50
 
-　ボタン？@　掛け違えてた？\
-
+;　ボタン？@　掛け違えてた？\
+` Buttons? `@`Mixed up?`\
 
 ;mono 1
 ;bg bijutu_03,22
 
-　新谷は記憶を呼び覚まそうとする。@だが、駄目だった。@
+;　新谷は記憶を呼び覚まそうとする。@だが、駄目だった。@
+` Shintani tried to jog her memory. `@`But it was no good.`@
 br
-　……あの時のことは、……ほとんど覚えていない。@それほどに慌てていた。\
-
+;　……あの時のことは、……ほとんど覚えていない。@それほどに慌てていた。\
+` ...She couldn't remember... much of what happened then. `@`She was in too much of a panic.`\
 ;bg black,22
 ;mono 0
 bg bijutu_02,22
