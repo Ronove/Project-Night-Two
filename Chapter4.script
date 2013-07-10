@@ -2625,30 +2625,34 @@ bg bijutu_02,22
 ld l,RUN_D7,22
 ld l,RUN_D3,80
 
-「私、不思議に思ったんですよ。@ほら、彼って随分と几帳面な性格だったじゃないですか。@いつも一番上のボタンまできちんと止めていたし。@……だから、もしかしたら、死んだ後に誰かが服を着せたのかもしれないなぁって……。」\
-
+;「私、不思議に思ったんですよ。@ほら、彼って随分と几帳面な性格だったじゃないですか。@いつも一番上のボタンまできちんと止めていたし。@……だから、もしかしたら、死んだ後に誰かが服を着せたのかもしれないなぁって……。」\
+`"I thought it was really odd. `@`After all, he seemed to have a really orderly personality. `@`He always buttoned them up to the very top button.`@`... So, I was thinking, what is someone changed his clothes after death...."`\
 ld r,NAF_D6a,24
 ld r,NAF_D7a,80
 
-「……バカバカしい。@何？@　彼は死んだ時、裸だったとでも言うの？」@
+;「……バカバカしい。@何？@　彼は死んだ時、裸だったとでも言うの？」@
+`"...How absurd. `@`What? `@`Are you suggesting that was naked at the time of his death?"`@
 br
-　言いながら、新谷はあることに気づく。\
-
-　火傷の痕、掛け違えたシャツのボタン。@……何でそんなことまで彼女は知っているのだ？@
+;　言いながら、新谷はあることに気づく。\
+` As she spoke, Shintani noticed something.`\
+;　火傷の痕、掛け違えたシャツのボタン。@……何でそんなことまで彼女は知っているのだ？@
+` The burn marks, the messed up buttons on the shirt.`@`... Why did this girl know all of these things?`@
 br
-　実際に裕貴の遺体を見たのは放課後に見回りをした先生だけだ。\
-
+;　実際に裕貴の遺体を見たのは放課後に見回りをした先生だけだ。\
+` Practically the only person who actually saw Yuuki's body was the teacher who found it after school.`\
 bg black,22
 mono 1
 bg bijutu_01,22
 
-　その後すぐに警察が呼ばれ、この教室は立ち入り禁止になったはずだ。@一般の生徒が彼の死体を見る様なタイミングはなかったはずだ。\
-
-　もしも見たとしたら……。@
+;　その後すぐに警察が呼ばれ、この教室は立ち入り禁止になったはずだ。@一般の生徒が彼の死体を見る様なタイミングはなかったはずだ。\
+` Immediately after that the police were called, and at that point entering the classroom should have been off-limits. `@`There shouldn't have been any opportunity for a student to get a look at his corpse.`\
+;　もしも見たとしたら……。@
+` Assuming she saw the body...`@
 br
-　……彼女はその時この美術室に“いた”ことになる。@
-　…………新谷と裕貴の２人しかいないはずなのに、“いた”ことに、なる。\
-
+;　……彼女はその時この美術室に“いた”ことになる。@
+` ...Then that would mean that she was 'there' in the art room when it happened.`@
+;　…………新谷と裕貴の２人しかいないはずなのに、“いた”ことに、なる。\
+` ......Shintani and Yuuki should have been the only 2 people in the room, but she was 'there'.`\
 
 bg black,23
 mono 0
@@ -2656,94 +2660,110 @@ bg bijutu_03,0
 ld c,RUN_D6,23
 ld c,RUN_D3,80
 
-「彼が裸だったらおかしいですか？@　だってここは美術室じゃないですか。@何かの本で読んだんですけど、@デッサンの練習には人間の裸が一番良いんですよね？@　……ああ、そう言えば先生……、」@
+;「彼が裸だったらおかしいですか？@　だってここは美術室じゃないですか。@何かの本で読んだんですけど、@デッサンの練習には人間の裸が一番良いんですよね？@　……ああ、そう言えば先生……、」@
+`"Would it have been so odd for him to be naked? `@`After all, this is the art room. `@`I read in a book once, `@`that drawing the naked human form is the best way to practice sketching.`@`... Ah, by the way, sensei...."`@
 br
-　女生徒が大きな瞳で新谷の目を覗き込む。\
-
+;　女生徒が大きな瞳で新谷の目を覗き込む。\
+` The girl's large eyes looked directly into Shintani's.`\
 ld c,RUN_D5,80
 me2v 16,50
-「……先生はヌードって、描かないんですか？」\
-
+;「……先生はヌードって、描かないんですか？」\
+`"...Sensei, don't you do nude drawings?"`\
 quakey 1,100
 
-　……ガタリ。@
+;　……ガタリ。@
+` ....Bang.`@
 br
-　椅子に座ったまま、新谷は後退る。\
-
-　背中は嫌な汗でべっとりだった。@
+;　椅子に座ったまま、新谷は後退る。\
+` Shintani sank down into her chair.`\
+;　背中は嫌な汗でべっとりだった。@
+` Her back was covered in sticky sweat.`@
 br
-　生唾を、ごくり、と飲み込みながら、………新谷は確信した。\
-
+;　生唾を、ごくり、と飲み込みながら、………新谷は確信した。\
+` She gulped down her saliva.... Shintani was now positive.`\
 bg black,0
 mld c,RUN_D5,2
 
-　………彼女は、知っている。@
+;　………彼女は、知っている。@
+` .....This girl knew.`@
 br
-　この美術室で新谷がしてきたことを、彼女は全部見ていたのだ。\
-
-　誰が見ていた？@　誰もいなかった。@なのに、いた。@
+;　この美術室で新谷がしてきたことを、彼女は全部見ていたのだ。\
+` She saw everything that Shintani had done in this room.`\
+;　誰が見ていた？@　誰もいなかった。@なのに、いた。@
+` Who was watching? `@`There shouldn't have been anyone. `@`And yet, she was there.`@
 br
-　……だとしたら。@それはもう、美術室に存在する、人ならざる存在しかありえない。\
-
-　この女生徒こそ、“美術室のルノワール”だ。@それはもう疑いようがなかった。\
-
+;　……だとしたら。@それはもう、美術室に存在する、人ならざる存在しかありえない。\
+` ....In that case, `@`she must have been there all along. The only possibility is that she is not human.`\
+;　この女生徒こそ、“美術室のルノワール”だ。@それはもう疑いようがなかった。\
+` This girl is 'Renoir of the Art Room.' `@`Of that she was sure.`\
 
 bg bijutu_03,22
 mcl c,0
 ld c,RUN_D1,80
 
-「どうなんですか、先生？@　ヌードは描かないんですか？」@
-「……まさか、そんなわけ………。」\
-
-　そんなわけない、と言おうとして新谷は再び思い出す。@
-　美術室のルノワールのもう一つの禁忌を。\
-
+;「どうなんですか、先生？@　ヌードは描かないんですか？」@
+`"Well, sensei? `@`Do you do nude drawings?"`@
+;「……まさか、そんなわけ………。」\
+`"...What are you talking about, of course I d-....."`\
+;　そんなわけない、と言おうとして新谷は再び思い出す。@
+` Shintani was about to say that she didn't, but once again she remembered something.`@
+;　美術室のルノワールのもう一つの禁忌を。\
+` Another of the rules of Renoir of the Art Room.`\
 bg black,22
 locate 0,5
 
-　……“ルノワールの問い掛けに嘘をついてはならない。”\
-
+;　……“ルノワールの問い掛けに嘘をついてはならない。”\
+` ....'You can't lie when answering Renoir's questions.'`\
 bg bijutu_03,0
 ld c,RUN_D1,22
 ld c,RUN_D5,80
 
 me3v 28,70
 
-「“そんなわけ”？@　ふふふふふふ……“そんなわけ”何なのかしら？」@
+;「“そんなわけ”？@　ふふふふふふ……“そんなわけ”何なのかしら？」@
+`"'Of course I d-'? `@`Fufufufu... Of course you what?"`@
 br
-　女生徒は、……いや、ルノワールは意地悪そうに笑う。\
-
-　“そんなわけない”なら、それは嘘を吐いたということになる。@
+;　女生徒は、……いや、ルノワールは意地悪そうに笑う。\
+` The girl... no, Renoir put on a sinister smile.`\
+;　“そんなわけない”なら、それは嘘を吐いたということになる。@
+` If she said 'of course I don't' then that would have been a lie.`@
 br
-　……だったら何だと言うのか。@だったら、私をその祟りで飲み込んでしまおうと言うのか。\
-
-　もう、間違いない。@……この眼前の少女は、人間ではないのだ。@
-　……それを理解して初めて。@……新谷は目の前の存在が、明らかに人間とは異なる気配を放っていることを理解する。@
-　……………………。\
-
+;　……だったら何だと言うのか。@だったら、私をその祟りで飲み込んでしまおうと言うのか。\
+` ...If she did, what would that mean for her? `@`If she did, would she have been caught in a curse?`\
+;　もう、間違いない。@……この眼前の少女は、人間ではないのだ。@
+` There was no doubt of it now.`@`... This girl before her was not human.`@
+;　……それを理解して初めて。@……新谷は目の前の存在が、明らかに人間とは異なる気配を放っていることを理解する。@
+` ...Shintani began to understand.`@`... Understand that the being in front of her eyes obviously lacked even a hint of humanity.`@
+;　……………………。\
+` ..........`\
 bg black,22
 
-　そのルノワールからの、……ヌードは描かないのかという、問い掛け。@
-　嘘は吐けない。@それはルノワールの禁忌だ。@
+;　そのルノワールからの、……ヌードは描かないのかという、問い掛け。@
+` Renoir had asked if she drew nude picture.`@
+;　嘘は吐けない。@それはルノワールの禁忌だ。@
+` She can't lie. `@`That was one of the rules.`@
 br
-　……………………………。\
-
+;　……………………………。\
+` .............`\
 bg bijutu_02,22
 ;ld r,RUN_D5,22
 ld l,NAF_D4a,23
 ld l,NAF_D6a,80
 
-「………描くわよ。」@
+;「………描くわよ。」@
+`"....I do."`@
 br
-　声が震える。@
-　人ならざる者の問いに答えるということは、@それだけで恐ろしいことなのだと、彼女は初めて知る。\
-
+;　声が震える。@
+` Her voice trembled.`@
+;　人ならざる者の問いに答えるということは、@それだけで恐ろしいことなのだと、彼女は初めて知る。\
+` For the first time in her life, she felt how terrifying it was. `@`How terrifying it was to answer the question of something inhuman.`\
 ld l,NAF_D7a,80
 
-「貴方の言う通り、人間の身体を描くのは難しいから。@……いい練習になるわ。」@
+;「貴方の言う通り、人間の身体を描くのは難しいから。@……いい練習になるわ。」@
+`"Just like you said, it's difficult to draw the human body.`@`... so it's good practice."`@
 br
-　無意識のうちに、机の引き出しに視線が動く。\
-
+;　無意識のうちに、机の引き出しに視線が動く。\
+` Unconsciously she shifted her gaze over to her desk drawer.`\
 
 
 
@@ -2755,24 +2775,27 @@ br
 
 ld r,RUN_D1,22
 
-「へえ……。@じゃあ、もしかしてこの美術室でも描いたこともあるのかしら……？」@
-
+;「へえ……。@じゃあ、もしかしてこの美術室でも描いたこともあるのかしら……？」@
+`"Oh?.... `@`Well then, have you ever drawn one in this art room...?"`@
 ld l,NAF_D6a,80
 
-「……………。」\
-
-　新谷は口を閉じた。@
-　答えないことは嘘にはならないはずだ。@
+;「……………。」\
+`"......."`\
+;　新谷は口を閉じた。@
+` Shintani closed her mouth.`@
+;　答えないことは嘘にはならないはずだ。@
+` She couldn't answer with a lie.`@
 br
-　沈黙を守る間、……新谷は野田裕貴の美しい裸を思い出した。\
-
+;　沈黙を守る間、……新谷は野田裕貴の美しい裸を思い出した。\
+` While keeping silent... Shintani recalled Yuuki Noda's beautiful naked body.`\
 bg black,5
 mono 1
 bg bijutu_03,0
 ld c,NOD_D4,22
 ld c,NOD_D5n,80
 
-　……未成熟な少年の身体。@
+;　……未成熟な少年の身体。@
+` ...His immature male body.`@
 br
 
 mono 0
@@ -2784,8 +2807,8 @@ mcbg 22
 
 ld c,NOD_D6,80
 
-　ペンティングナイフを振るたびについていく赤い線。@白くて美しい肌に、煙草の火で醜い焦げ痕をつける瞬間の、……ぞくぞくするほどの快感。\
-
+;　ペンティングナイフを振るたびについていく赤い線。@白くて美しい肌に、煙草の火で醜い焦げ痕をつける瞬間の、……ぞくぞくするほどの快感。\
+` Whenever she moved the palette knife, a red line would follow. `@`And when her cigarette caused an unsightly burn mark on that beautiful white skin... she shivered with pleasure.`\
 ;bg black,22
 
 cl c,22
@@ -2797,76 +2820,86 @@ wait 1000
 ld c,RUN_D1,22
 ld c,RUN_D5,80
 
-「ふふふふふふふふ。@……黙るなんてずるいわ。@暇潰しのお喋りくらい、付き合ってくれてもいいでしょう？@　モデルは動けなくて退屈なんだから。」@
+;「ふふふふふふふふ。@……黙るなんてずるいわ。@暇潰しのお喋りくらい、付き合ってくれてもいいでしょう？@　モデルは動けなくて退屈なんだから。」@
+`"Fufufufufufufu.`@`... Not answering? That's no fair. `@`You could at least let me kill some time by chatting. `@`It gets boring as a model, not being able to move."`@
 br
-　そう言いながら、彼女は立ち上がる。\
-
-　少女が立ち上がっただけなのに、……まるで巨人に見下ろされるかのような気持ちになり、@新谷はビクリと震えて気圧された。\
-
+;　そう言いながら、彼女は立ち上がる。\
+` As she said that, the girl stood up.`\
+;　少女が立ち上がっただけなのに、……まるで巨人に見下ろされるかのような気持ちになり、@新谷はビクリと震えて気圧された。\
+` All she did was stand... but it almost felt like Shintani was being looked down on by a giant. `@`Shintani was overwhelmed and started to tremble.`\
 cl c,0
 mld c,RUN_D1,80
 
-「やめましょうか、もう茶番は。」@
-
+;「やめましょうか、もう茶番は。」@
+`"Let's cut the nonsense."`@
 ld r,NAF_D4a,24
 ;ld r,NAF_D4a,80
 
-「………茶番って、……どういう意味かしら……。」\
-
+;「………茶番って、……どういう意味かしら……。」\
+`"....Nonsense?... What do you mean....?"`\
 mcl c,0
 ld l,RUN_D5,24
 
-「くすくす、くすくすくすくす……。@わかっているくせに……。」\
-
-　少女は笑う。@
+;「くすくす、くすくすくすくす……。@わかっているくせに……。」\
+`"Hehe, hehehehe.... `@`I already know..."`\
+;　少女は笑う。@
+`The girl laughed.`@
 br
-　わかっているくせにと、笑う。@
+;　わかっているくせにと、笑う。@
+` She laughed because she knew.`@
 br
-　もう私の正体がわかっているくせにと、笑う……。\
-
+;　もう私の正体がわかっているくせにと、笑う……。\
+` She laughed because she already knew what I had done...`\
 ld r,NAF_D6a,80
 
-「…………そうね。@……やっぱり、……そうなのね……。」@
-
+;「…………そうね。@……やっぱり、……そうなのね……。」@
+`"......Yeah.`@`... you do... I thought so...."`@
 ld l,RUN_D1,80
 
-「くすくすくすくす………。」\
-
+;「くすくすくすくす………。」\
+`"Hehehehe...."`\
 ld r,NAF_D7a,80
 
-「貴方が噂の、………“美術室のルノワール”なのね………。」@
+;「貴方が噂の、………“美術室のルノワール”なのね………。」@
+`"You are... 'Renoir of the Art Room' from the rumor, aren't you.....?"`@
 br
-　精一杯強がって、そう口にするだけでも、新谷の全身には汗の玉が次から次へと浮かび上がった。\
-
+;　精一杯強がって、そう口にするだけでも、新谷の全身には汗の玉が次から次へと浮かび上がった。\
+` She spoke with all the courage she could muster, but in reality, Shintani's body was covered in beads of sweat.`\
 bg black,23
 bg bijutu_02,23
 ld r,RUN_D2,22
 ld r,RUN_D1,80
 
-「ご明察のとおり。@……学校妖怪序列第６位。@美術室のルノワールとは、私のこと。」@
+;「ご明察のとおり。@……学校妖怪序列第６位。@美術室のルノワールとは、私のこと。」@
+`"How perceptive of you.`@`... Yes, I am the 6th Ranked among the School Youkai. `@`Renoir of the Art Room."`@
 br
-　とうとう、……少女は名乗る。@
-　人ならざる者だと、自ら名乗る。\
-
+;　とうとう、……少女は名乗る。@
+` At last... the girl gave her name.`@
+;　人ならざる者だと、自ら名乗る。\
+` An inhuman being willingly gave its name.`\
 bg black,22
 fede 1,1000
 E_B
 
-　しかし不思議なもので、そうだと名乗られた方が、わずかに恐怖は和らいだ。@
+;　しかし不思議なもので、そうだと名乗られた方が、わずかに恐怖は和らいだ。@
+` But, oddly enough, by hearing her name the fear that Shintani felt slightly lessened.
 br
-　……新谷は目の前の存在を認め、……覚悟を決める。\
-
+;　……新谷は目の前の存在を認め、……覚悟を決める。\
+` ...By knowing who was standing in front of her... she gained the ability to prepare herself for what was coming.`\
 bg bijutu_06,22
 
 ;ld l,NAF_D7a,23
 ld l,NAF_D6a,23
 
-「自己紹介をありがとう。@なら私もしなくっちゃ。@……美術部顧問。@美術室の管理責任者の、新谷ナフミよ。」@
+;「自己紹介をありがとう。@なら私もしなくっちゃ。@……美術部顧問。@美術室の管理責任者の、新谷ナフミよ。」@
+`"Thank you for your self-introduction. `@`I suppose I should do the same.`@`... I am the Advisor of the Art Club. `@`As well as the Manager of the Art Room. Nafumi Shintani."`@
 br
-　声の震えが少しずつ治まる。\
-
-　人は、相手が何者かを量りかねている時が一番恐ろしい。@
-　たとえ人ならざる者であったとしても、……正体がわかれば、腹も括れる。@
+;　声の震えが少しずつ治まる。\
+` The trembling in her voice had lessened a bit.`\
+;　人は、相手が何者かを量りかねている時が一番恐ろしい。@
+` The most frightening thing for a person to face is something that can't gauge the danger of.`@
+;　たとえ人ならざる者であったとしても、……正体がわかれば、腹も括れる。@
+` Even if she is facing an inhuman monster.... as long as she knows what she's facing, she can brace herself for the worst.`@
 br
 　玉のような汗で顔はびっしょりだが、……それでも、恐怖心は抑えられつつあった。\
 
