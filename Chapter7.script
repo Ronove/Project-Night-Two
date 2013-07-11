@@ -617,29 +617,36 @@ bgm1 10
 
 ;「ギャギャギャギャア！！@　人間どもがイッパイだぜ！@　喰らい放題だぜ！！」@
 `"Kyahahahaha!!`@`Man, this place is just PACKED with humans!!`@`Eat your fill everyone!!"`@
-「何てデケェ学校だぁ！@　クソガキどもの魂でギュウギュウだぜぇ！！」@
-「集るんじゃねえや、クソ妖怪ども！！@　こいつらの魂は全部、俺ンだ！！」@
-「邪魔すんじゃねぇ、俺はハラペコなんだ！！@　殺す殺す殺ーすッ！！」\
-
+;「何てデケェ学校だぁ！@　クソガキどもの魂でギュウギュウだぜぇ！！」@
+`"This school is huuuuuuge!`@`It's just crammed to the brim with these little shits' souls!!"`@
+;「集るんじゃねえや、クソ妖怪ども！！@　こいつらの魂は全部、俺ンだ！！」@
+`"Hey, stop gahering around ya dumb monsters!!`@`All these souls are mine, ya hear!?"`@
+;「邪魔すんじゃねぇ、俺はハラペコなんだ！！@　殺す殺す殺ーすッ！！」\
+`"Don't jet in my way! I'm starving!!`@`Killkillkillkillkillllll!!"`\
 me2v 17,50
 
-　教室にも、校庭にも廊下にも体育館にも。@
+;　教室にも、校庭にも廊下にも体育館にも。@
+` In the classroom, hallways, gymnasium and schoolyard...`@
 br
-　まるで小魚の大群が渦を巻くかのように、無数の妖怪や悪霊がひしめき、互いを喰らい合っていた。\
-
+;　まるで小魚の大群が渦を巻くかのように、無数の妖怪や悪霊がひしめき、互いを喰らい合っていた。\
+` Countless monsters clamored and swirled like school of writhing fish.`\
 bg black,22
 bg rouka_03,22
 
-　この学校にひしめく子供たちの魂。@
-　存分に食い荒らせるのは、生き残った、強い妖怪だけだ。@
+;　この学校にひしめく子供たちの魂。@
+` The souls of the students croweded into this school...`@
+;　存分に食い荒らせるのは、生き残った、強い妖怪だけだ。@
+` The strong monsters wolfed down their souls.`@
 br
-　生き残るには、他の妖怪たちを喰らい、誰よりも早く強くなるしかない。\
-
-　子供たちは学校から逃げない。@
-　ならば、先に喰らうべきは子供たちじゃない。@邪魔になる他の妖怪たちだ。@
+;　生き残るには、他の妖怪たちを喰らい、誰よりも早く強くなるしかない。\
+` To survive you had to become stronger than any other monster and faster then anyone else.`\
+;　子供たちは学校から逃げない。@
+` The children couldn't escape from the school.`@
+;　ならば、先に喰らうべきは子供たちじゃない。@邪魔になる他の妖怪たちだ。@
+` They shouldn't have been the ones to been eaten,`@`but rather the monsters that got in the way.`@
 br
-　人ならざる者にしか見ることの出来ぬ、@……弱肉強食の、恐ろしい生存競争が、学校中で繰り広げられていた。\
-
+;　人ならざる者にしか見ることの出来ぬ、@……弱肉強食の、恐ろしい生存競争が、学校中で繰り広げられていた。\
+` Amongst the inhuman,`@`...this survival contest unfolded throughout the whole school.`\
 bg black,22
 ;bg white,1
 
@@ -649,71 +656,85 @@ bg bite,22
 se1 36
 quakey 6,700
 
-「俺サマが最強だァ！！@　俺サマの邪魔をするヤツはみんな食い殺してやらァ！！」@
-「食って強くなるんだ、食って強くなるんだ！@　フヒヒッ、弱そうな妖怪はいねぇかぁ！！」@
-「強ぇ妖怪を喰らえば、たくさんの妖力が蓄えられるゾ！！@　俺たちクズ妖怪でも、群で襲えば勝てるゾ勝てるゾ！！」\
-
+;「俺サマが最強だァ！！@　俺サマの邪魔をするヤツはみんな食い殺してやらァ！！」@
+`"I'm the strongest!!`@`I'll kill all o' you bastards that get in my way!!"`@
+;「食って強くなるんだ、食って強くなるんだ！@　フヒヒッ、弱そうな妖怪はいねぇかぁ！！」@
+`"Eat and get strong! Eat and get strong!`@` Fuhihihihi...soon there'll be no weak monsters!!"`@
+;「強ぇ妖怪を喰らえば、たくさんの妖力が蓄えられるゾ！！@　俺たちクズ妖怪でも、群で襲えば勝てるゾ勝てるゾ！！」\
+`"If you eat a strong monster, you'll get a lot of strength!!`@`In groups, even us weak monsters can win!!"`\
 se3 66
 bg white,1
 bg bite,22
 se1 36
 quakex 5,600
 
-　弱い妖怪たちも、巨大な大群となれば、それは恐ろしい力を持つ。@
+;　弱い妖怪たちも、巨大な大群となれば、それは恐ろしい力を持つ。@
+` The weak monsters formed a horde and amassed a great power.`@
 br
-　そのうねる巨体が、いくつもの教室を巡っては、そこを根城にしようとしていた妖怪たちを食い殺していく。\
-
+;　そのうねる巨体が、いくつもの教室を巡っては、そこを根城にしようとしていた妖怪たちを食い殺していく。\
+` The undulating mass swarmed the entrances of the classroom and consumed the monsters holding out there.`\
 bg black,22
 bg rouka_01,22
 
 me3v 28,70
 
-「ギャッハー！！！@　俺たちはクズじゃねぇ！！@　群れれば最強ダァ！！」@
-「もう職員室も俺たちのものだゼ！！@　次だ次だ、次だ次だッ！！」\
-
-「次はどこだ？」@
-「保健室ダァ！！」@
-「保健室は、変な人形に取り憑いたヤツが根城にしているらしいゾ！！」\
-
-「その肥えた妖力、俺らで食い尽くしてパワーアップだぁああぁあああ！！」@
+;「ギャッハー！！！@　俺たちはクズじゃねぇ！！@　群れれば最強ダァ！！」@
+`"Kyaahahahahaaa!!`@`We're not worthless!!`@`In numbers we're the best!!"`@
+;「もう職員室も俺たちのものだゼ！！@　次だ次だ、次だ次だッ！！」\
+`"The staff room is already ours!!`@`On to the next room!!"`\
+;「次はどこだ？」@
+`"What's next?"`@
+;「保健室ダァ！！」@
+`"The Infirmary!!"`@
+;「保健室は、変な人形に取り憑いたヤツが根城にしているらしいゾ！！」\
+`"The Infirmary seems to be held by a strange doll..."`\
+;「その肥えた妖力、俺らで食い尽くしてパワーアップだぁああぁあああ！！」@
+`"That power will be devoured by us!!"`@
 br
-　大蛇のようなうねりが職員室を飛び出し、廊下で螺旋を描きながら保健室の扉を破って飛び込む。\
-
+;　大蛇のようなうねりが職員室を飛び出し、廊下で螺旋を描きながら保健室の扉を破って飛び込む。\
+` The swarm gathered like a snake, and leapt out the staff room, describing a spiral in the hallway, before smashing into the infirmary door.`\
 mov %HIG_Isyou,2
 bg white,23
 bg hoken_01,23
 
 ld c,HIG_D9,2
 
-「………………………………。」@
+;「………………………………。」@
+`"................."`@
 ;＜彼岸花
 br
-　保健室の妖怪、踊る彼岸花は、ぐるぐると渦巻く妖怪たちの群の中心で、@漂うかのように宙に浮かんでいる。@
-　その表情は、まだまどろみの中にいるかのよう……。\
+;　保健室の妖怪、踊る彼岸花は、ぐるぐると渦巻く妖怪たちの群の中心で、@漂うかのように宙に浮かんでいる。@
+` The Infirmary monster, the Dancing Higanbana floated lazily,`@`in the centre of the swarm of monsters.`@
+;　その表情は、まだまどろみの中にいるかのよう……。\
+` Her face looked sleepy...`\
 
-
-「ギャギャア！！@　旨そうだぜ、この人形！@　かなり妖力を溜め込んでやがるッ！！」@
-「その妖力、いただきだぁああぁあああぁッ！！！」@
-「食わせろッ、食わせろ食わせろ食わせろッ！！」\
-
-「んんん？@　ビビってんのかァ、この人形ぉおおぉ！！」@
-「何か言ってやがんゾ！@　小さい声で聞こえねぇヤ！！@　おいお前ェら、静かにしろ！！@　俺たちに食い尽くされる前に、最期に一言くらい言わせてヤレ！！」\
-
+;「ギャギャア！！@　旨そうだぜ、この人形！@　かなり妖力を溜め込んでやがるッ！！」@
+` "Gyaaahaha!!`@`She looks delicious!`@`...C'mon, take all her spirit energy!!"`@
+;「その妖力、いただきだぁああぁあああぁッ！！！」@
+`"Consume that strengthhhhhhhhhhhh!!"`@
+;「食わせろッ、食わせろ食わせろ食わせろッ！！」\
+`"Eat it, eat it, eat it!!!"`\
+;「んんん？@　ビビってんのかァ、この人形ぉおおぉ！！」@
+`"Oh??`@`Is this doll scared??"`@
+;「何か言ってやがんゾ！@　小さい声で聞こえねぇヤ！！@　おいお前ェら、静かにしろ！！@　俺たちに食い尽くされる前に、最期に一言くらい言わせてヤレ！！」\
+`"What are you saying?!`@`I can't hear your tiny little voice!`@`Hey shut up you all!`@`Let's listen to her last words before we gobble her up!"`\
 fedexx 0,50,0,0,0,0,1000
 E_B
 E_M2
 E_M3
 
-　ぐるぐると渦を巻く妖怪たちの群が、びたっと止まり、台風の目の中のような静寂が訪れる。@
+;　ぐるぐると渦を巻く妖怪たちの群が、びたっと止まり、台風の目の中のような静寂が訪れる。@
+` The swarm of monsters silenced, like the eye of a hurricane.`@
 br
-　……だからようやく、……彼岸花が口にした言葉が聞き取れる。\
-
+;　……だからようやく、……彼岸花が口にした言葉が聞き取れる。\
+` ...So, finally, they were able to hear the words coming out of Higanbana's mouth.`\
 ld c,HIG_D8,80
 
-「…………食わせて………。」@
+;「…………食わせて………。」@
+`"....Feed me...."`@
 br
-　その表情は淡白なまま。@……眼差しは透明で遠く、心ここにあらずという感じだった。\
-
+;　その表情は淡白なまま。@……眼差しは透明で遠く、心ここにあらずという感じだった。\
+` Her facial expression didn't change.`@`...her gaze was empty and her feelings transparent.`\
 　それは死を前に達観しているのとは少し違う。@
 br
 　目の前の妖怪たちの暴風がまるで、……数枚の木の葉が舞う、つむじ風程度にしか見えていないかのよう……。\
