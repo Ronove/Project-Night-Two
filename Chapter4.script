@@ -2901,8 +2901,8 @@ br
 ;　たとえ人ならざる者であったとしても、……正体がわかれば、腹も括れる。@
 ` Even if she is facing an inhuman monster.... as long as she knows what she's facing, she can brace herself for the worst.`@
 br
-　玉のような汗で顔はびっしょりだが、……それでも、恐怖心は抑えられつつあった。\
-
+;　玉のような汗で顔はびっしょりだが、……それでも、恐怖心は抑えられつつあった。\
+` Her face was drenched with droplets of sweat... but she was still holding her fear back.`\
 textoff
 
 fede 0,1000
@@ -2912,64 +2912,64 @@ ld l,NAF_D7a,80
 
 bgm1 13
 
-「……唐突に現れて、私に何の御用なのかしら？」\
-
+;「……唐突に現れて、私に何の御用なのかしら？」\
+`"...To suddenly appear before me like this, what business do you have with me?"`\
 ld r,RUN_D5,80
 
-「バカなことを聞く女ね。@妖怪が人間を相手にして、考えることなんて一つしかないのに。@くすくすくす……。」\
-
+;「バカなことを聞く女ね。@妖怪が人間を相手にして、考えることなんて一つしかないのに。@くすくすくす……。」\
+`"You sure ask some stupid questions. `@`There's really only one reason for a youkai to appear before a human. `@`hehehe...."`\
 ld l,NAF_D6a,80
 
-「怪談が伝えるとおりなら。@……私を絵の中に引き摺り込んでしまおうと言うのかしら？」@
-
+;「怪談が伝えるとおりなら。@……私を絵の中に引き摺り込んでしまおうと言うのかしら？」@
+`"Going by the ghost story.... `@`You must be here to drag me into a painting."`@
 ld r,RUN_D2,80
 
-「それがルノワールの狩り。@絵の中は私の口の中。@永遠にその魂は、私の舌の上で転がり続けるの。」\
-
+;「それがルノワールの狩り。@絵の中は私の口の中。@永遠にその魂は、私の舌の上で転がり続けるの。」\
+`"That is how Renoir hunts. `@`These paintings are my mouth. `@`And the souls that I've swallowed are endlessly tossed about on my tongue."`\
 ld l,NAF_D2,80
 
-「悪いけれど。@そうそう簡単に貴方の思い通りにはならないわよ？@　……だって。@貴方にはルールがあるんでしょう？」@
-
+;「悪いけれど。@そうそう簡単に貴方の思い通りにはならないわよ？@　……だって。@貴方にはルールがあるんでしょう？」@
+`"Sorry. `@`But I don't intend to be eaten by you so easily.`@`... After all. `@`Even you have rules you have to abide by, right?"`@
 ld r,RUN_D1,80
 
-「うふふふふふふふふふ……。」\
-
+;「うふふふふふふふふふ……。」\
+`"Ufufufufufufu...."`\
 bg black,22
 
 ;ld l,NAF_D6,80
 
-「ルノワールに絵筆を借りてはいけない。@……さっきの鉛筆はそのつもりだったんでしょう？」@
-
+;「ルノワールに絵筆を借りてはいけない。@……さっきの鉛筆はそのつもりだったんでしょう？」@
+`"You can't let Renoir lend you a paintbrush.`@`... Isn't that what you were trying to do by lending me a pencil earlier?"`@
 ;ld r,RUN_D5,80
 
-「良い勘をしていたわね。@受け取っていれば、今頃、絵の中の世界だったのに。@……くすくすくす。」\
-
+;「良い勘をしていたわね。@受け取っていれば、今頃、絵の中の世界だったのに。@……くすくすくす。」\
+`"Not bad. `@`You're right, if you had taken that pencil, right about now you would be inside a painting.`@`... Hehehe."`\
 ;ld l,NAF_D5,80
 
-「そして、あなたの問い掛けに嘘を吐いてもならない。@……言いたくないことなら黙秘すればいいんだし。@嘘にならない範囲で言い回すことだって難しいことじゃない。@それを守ることも簡単だわ。」@
-
+;「そして、あなたの問い掛けに嘘を吐いてもならない。@……言いたくないことなら黙秘すればいいんだし。@嘘にならない範囲で言い回すことだって難しいことじゃない。@それを守ることも簡単だわ。」@
+`"Also, I'm not supposed to lie when answering your questions.`@`... If there's something that I don't want to answer though, I can just stay silent. `@`It's not that hard to not lie if I look at it like that. `@`It's a pretty easy rule to follow, really."`@
 ;ld r,RUN_D1,80
 
-「ふふふふふ……。」\
-
+;「ふふふふふ……。」\
+`"Fufufufu...."`\
 
 ;bg black,22
 bg kaiga_02,22
 
-「となると。@……私をどうにかしようとしたら、貴方には１つしか方法がない。」\
-
+;「となると。@……私をどうにかしようとしたら、貴方には１つしか方法がない。」\
+`"And thus.... `@`There is only one more way for you to manage to take me."`\
 
 locate 0,5
 
-“ルノワールは美術室に掛けられた絵を指して、作者が誰かを尋ねてくる。@その画家の名を正確に答えなければいけない。”\
-
+;“ルノワールは美術室に掛けられた絵を指して、作者が誰かを尋ねてくる。@その画家の名を正確に答えなければいけない。”\
+`'If Renoir points to one of the pictures in the art room and asks you who made it, `@`you have to answer the name of the artist correctly.'`\
 bg black,23
 bg kaiga_01,0
 ld l,RUN_D2,23
 ld l,RUN_D3,80
 
-「そういうことだわ。@……うふふふふふ。@あなたは、これほどたくさん掛けられた絵画の作者を、@澱みなく正確に答えることが出来るかしら？」\
-
+;「そういうことだわ。@……うふふふふふ。@あなたは、これほどたくさん掛けられた絵画の作者を、@澱みなく正確に答えることが出来るかしら？」\
+`"You're right.`@`... Ufufufu. `@`But, with this many pictures on the walls, `@`will you really be able to name the artist for all of them?"`\
 ld r,NAF_D2,24
 
 se1v 2,30
@@ -2977,43 +2977,49 @@ wait 1000
 
 ld r,NAF_D6,80
 
-「私を誰だと思っているの？@　美術部顧問の新谷ナフミよ？@　その挑戦、受けてあげようじゃない。」\
-
+;「私を誰だと思っているの？@　美術部顧問の新谷ナフミよ？@　その挑戦、受けてあげようじゃない。」\
+`"Who do you take me for? `@`I'm the advisor of the art club, Nafumi Shintani. `@`Of course I'm up to that challenge."`\
 ld l,RUN_D5,80
 
-「くすくす。@素敵だわ。@……なら、決めようじゃない。@この美術室の本当の主は、私なのか、あなたなのかね。」@
+;「くすくす。@素敵だわ。@……なら、決めようじゃない。@この美術室の本当の主は、私なのか、あなたなのかね。」@
+`"Hehe. `@`Perfect.`@`... Let's decide once and for all then. `@`Who is the true master of the art room, me or you?"`@
 br
-　……ようやく、新谷は何かを理解する。\
-
-　さっき自分を、人間ではなく、女王蜂に例えた。@
-　女王に蜜を献上する美しく幼い働き蜂たちが集う、蜂の巣だとこの学校を例えた。@
+;　……ようやく、新谷は何かを理解する。\
+` ...Shintani finally understood.`\
+;　さっき自分を、人間ではなく、女王蜂に例えた。@
+` Earlier she compared herself to a queen bee.`@
+;　女王に蜜を献上する美しく幼い働き蜂たちが集う、蜂の巣だとこの学校を例えた。@
+` And this school that the beautiful little bees gather in to bring her honey, she compared it to a beehive.`@
 br
-　……なら、この学校は女王蜂にとって宮殿であり、その主は自分なのだ。\
-
+;　……なら、この学校は女王蜂にとって宮殿であり、その主は自分なのだ。\
+` ...Then, as the queen bee, this school would be a palace, and she was its master.`\
 ld r,NAF_D5,80
 
-「面白くないわけね。@この美術室の主を名乗る妖怪としては。」@
-
+;「面白くないわけね。@この美術室の主を名乗る妖怪としては。」@
+`"As a youkai who calls itself the master of the art room, `@`you're pretty boring."`@
 ld l,RUN_D3,80
 
-「そういうことよ。@……人間が、昼間の学校でお勉強をしているだけなら私たちはどうでもいい。@でも、……夜の領域にまで踏み入ってくるなら、見過ごすわけにはいかないの。」\
-
+;「そういうことよ。@……人間が、昼間の学校でお勉強をしているだけなら私たちはどうでもいい。@でも、……夜の領域にまで踏み入ってくるなら、見過ごすわけにはいかないの。」\
+`"That's just it.`@`... We couldn't care less if you humans use this school to study during the day. `@`But... we're not about to let any of you trespass on our nighttime domain."`\
 bg black,22
 
-　そういうことだ。@
+;　そういうことだ。@
+` Exactly.`@
 br
-　……私が女王蜂を自覚した時点で、私は“彼ら”の領域に足を踏み入れていたのだ。\
-
-　そうとも、夜の美術室は私の世界。@
+;　……私が女王蜂を自覚した時点で、私は“彼ら”の領域に足を踏み入れていたのだ。\
+` ...As a queen bee I have set foot into 'their' domain.`\
+;　そうとも、夜の美術室は私の世界。@
+` And the art room at night is my world.`@
 br
-　学校の怪談風情に、譲り渡したりはしない……。\
-
+;　学校の怪談風情に、譲り渡したりはしない……。\
+` I won't hand it over to the likes of some ghost story...`\
 ld_p RUN_D1
 lsp2 4,$ld_pass,130,450,-200,200,0
 lsp2 5,$ld_pass2,130,450,-200,200,0
 print 22
 
-　美術室の妖怪、ルノワールと。@
+;　美術室の妖怪、ルノワールと。@
+` Renoir, the youkai of the art room.`@
 br
 
 ld_p NAF_D6
@@ -3021,10 +3027,11 @@ lsp2 2,$ld_pass,480,480,200,200,0
 lsp2 3,$ld_pass2,480,480,200,200,0
 print 22
 
-　美術室の女王蜂、新谷ナフミと。@
+;　美術室の女王蜂、新谷ナフミと。@
+` And Nafumi Shintani, the queen bee of the art room.`@
 br
-　両者が対峙し、睨み合い、……乾いた空気に火薬の臭いを香らせる。\
-
+;　両者が対峙し、睨み合い、……乾いた空気に火薬の臭いを香らせる。\
+` They stood face to face, glaring into each other's eyes... The dry air between them smelled like gunpowder.`\
 csp2 -1
 print 0
 bg black,23
@@ -3032,146 +3039,167 @@ bg bijutu_07,23
 
 me1v 16,50
 
-　新谷は、ごくりと喉を鳴らしてから、ぐるりと美術室内の絵画を見渡す。@
+;　新谷は、ごくりと喉を鳴らしてから、ぐるりと美術室内の絵画を見渡す。@
+` Shintani gulped and looked around at the artworks surrounding her.`@
 br
-　……大丈夫。@どれも知ってる。@知っているはず……。\
-
+;　……大丈夫。@どれも知ってる。@知っているはず……。\
+` ...It'll be fine. `@`I know all of these. `@`I should know all of them...`\
 bg black,23
 bg bijutu_02,0
 ld c,RUN_D8,23
 
-　ルノワールは私の瞳と絵画の一つ一つを見比べる。@
-　どの絵画に自信がないのか、私の瞳の奥をうかがうかのように……。@
-　そして、一枚の絵画の前で歩みを止める。\
-
+;　ルノワールは私の瞳と絵画の一つ一つを見比べる。@
+` Renoir examined my eyes as I looked at the pictures.`@
+;　どの絵画に自信がないのか、私の瞳の奥をうかがうかのように……。@
+` Carefully watching for one I looked uncertain about...`@
+;　そして、一枚の絵画の前で歩みを止める。\
+` And then, he stopped in front of a painting.`\
 bg black,23
 bg kaiga_02,23
 
-　それは一般的な感覚で言えば、とても不気味な絵画。@
-　……裸の男が、子供を頭から喰らっているという、おぞましいもの。@
-　美術室を訪れる子供たちが、真っ先に目を反らす絵画だ。\
-
-「恐ろしい絵よね。@……将来、自分の子供に殺されるという予言に取り憑かれた男が、@５人もの子供を次々に食い殺す。」@
-「………『我が子を食らうサトゥルヌス』ね。」\
-
-　額縁の下には、『我が子を食らうサトゥルヌス』という題名が記されているが、@作者の名はない。@
+;　それは一般的な感覚で言えば、とても不気味な絵画。@
+` Overall it was a very eerie painting.`@
+;　……裸の男が、子供を頭から喰らっているという、おぞましいもの。@
+` It was horrible scene of a naked man eating off the head of a child.`@
+;　美術室を訪れる子供たちが、真っ先に目を反らす絵画だ。\
+` Nearly all of the kids who come to the art room will avert their eyes from it at first.`\
+;「恐ろしい絵よね。@……将来、自分の子供に殺されるという予言に取り憑かれた男が、@５人もの子供を次々に食い殺す。」@
+`"Frightening, isn't it?`@`... Obsessed with defying the prophecy that he would be killed by one of his own children, `@`this man ate each one of them, one after another."`@
+;「………『我が子を食らうサトゥルヌス』ね。」\
+`"....'Saturn Devouring His Son'."`\
+;　額縁の下には、『我が子を食らうサトゥルヌス』という題名が記されているが、@作者の名はない。@
+` The name of the painting, 'Saturn Devouring His Son', was written beneath the frame, `@`but the name of the artist wasn't.`@
 br
-　……前任者の方針なのかどうかは知らないが、@美術室の絵画には皆、題名は記されていても作者の名は記されていないのだ。\
-
+;　……前任者の方針なのかどうかは知らないが、@美術室の絵画には皆、題名は記されていても作者の名は記されていないのだ。\
+` ...She's not sure what reason the previous art teacher had for doing so, `@`but even though every picture hanging in the art room was labeled with its title, the artists' names were all left out.`\
 bg black,22
 bg bijutu_03,22
 ld r,RUN_D7,24
 ld r,RUN_D6,80
 
-「では、………答えてもらおうかしら。@この絵の作者の名前は？」\
-
+;「では、………答えてもらおうかしら。@この絵の作者の名前は？」\
+"So... can you tell me? `@`Who did this painting?"`\
 me2v 17,50
 
-　……さぁ、来た。@
+;　……さぁ、来た。@
+` ....Okay, there's the question.`@
 br
-　これが美術のテストか何かだったら、新谷は冷静にその答えを記憶から引き出し、鉛筆でそれを記せるだろう。@
-　しかし、……間違えたら殺されてしまうかもしれないというプレッシャーが、@思考を鈍らせる……。\
-
+;　これが美術のテストか何かだったら、新谷は冷静にその答えを記憶から引き出し、鉛筆でそれを記せるだろう。@
+` If this was just some art test or something Shintani would just calmly pull the answer from her memory and jot it down with her pencil.`@
+;　しかし、……間違えたら殺されてしまうかもしれないというプレッシャーが、@思考を鈍らせる……。\
+` But... if she gets the question wrong now, it could mean her death. `@`That pressure made it hard for her to think...`\
 ld l,NAF_D2,23
 ld l,NAF_D6a,80
 
-「………ゴヤ、……ね。」@
-
+;「………ゴヤ、……ね。」@
+`".....It's... Goya."`@
 ld r,RUN_D1,80
 
-「正確にお願いできるかしら？」@
-
+;「正確にお願いできるかしら？」@
+`"Can you tell me the full name?"`@
 ld l,NAF_D4a,80
 
-「……フランシスコ・デ・ゴヤよ。@……如何かしら……？」\
-
-　正解のはずだ。@間違ってるわけがない。@
+;「……フランシスコ・デ・ゴヤよ。@……如何かしら……？」\
+`"...Francisco de Goya.`@`... Right....?"`\
+;　正解のはずだ。@間違ってるわけがない。@
+` That should be right. `@`It has to be.`@
 br
-　……なら、正解と即座に答えてくれればいいのに、@……ルノワールはもったいぶるように含み笑う。\
-
+;　……なら、正解と即座に答えてくれればいいのに、@……ルノワールはもったいぶるように含み笑う。\
+` ...She gave the answer quickly and correctly.`@`... So why was Renoir giggling like she had gotten it wrong.`\
 ld r,RUN_D5,80
 
-「……くすくす。@そんなにも自信がないのかしら？」@
-
+;「……くすくす。@そんなにも自信がないのかしら？」@
+`"...Hehehe. `@`Do you really have so little confidence?"`@
 ld l,NAF_D7a,80
 
-「この歳になって、美術のテストを受けることになるとは、思わなかったからね。@……それで？@　正解なの？@　どうなの？！」\
-
+;「この歳になって、美術のテストを受けることになるとは、思わなかったからね。@……それで？@　正解なの？@　どうなの？！」\
+`"I wasn't expecting to be taking an art test at this age.`@`... So? `@`Was I correct? `@`What's the answer?!"`\
 ld r,RUN_D3,80
 
-「あなたはテストの時、生徒が一問を解く毎に採点をしているの？」@
+;「あなたはテストの時、生徒が一問を解く毎に採点をしているの？」@
+`"When taking a test don't the students have to wait until the end to figure out what they got right?"`@
 br
-　テストを終えるまで、正解不正解は言わないつもりらしい。\
-
-　しかし、一問でも間違えれば向こうの勝ちなのだから、テストを続行する理由がない。@
+;　テストを終えるまで、正解不正解は言わないつもりらしい。\
+` So, apparently she didn't intend to tell the results until the test is finished.`\
+;　しかし、一問でも間違えれば向こうの勝ちなのだから、テストを続行する理由がない。@
+` But, if she gets even one question wrong she'll fail, so there would be no reason to continue the test anyway.`@
 br
-　次の問題へ進むということは、正解していると考えても良いだろう……。\
-
+;　次の問題へ進むということは、正解していると考えても良いだろう……。\
+` In that case, it wouldn't be wrong to assume that moving on to the next question means that she got the previous one right...`\
 bg black,23
 bg kaiga_02,23
 
-「なら、これは？」@
-「……ピカソよ。@……パブロ・ピカソ。」\
-
-　彼女が指したのは、『ゲルニカ』だった。@
+;「なら、これは？」@
+`"Well, what about this one?"`@
+;「……ピカソよ。@……パブロ・ピカソ。」\
+`"...Picasso.`@`... Pablo Picasso."`\
+;　彼女が指したのは、『ゲルニカ』だった。@
+` The picture she was pointing at was called 'Guernica'.`@
 br
-　スペイン内戦の最中、ナチスによって無差別空爆を受けた都市ゲルニカを描いた大作。\
-
-　死んだ子を抱き泣き叫ぶ母親、天を仰いで絶望する女、狂ったようにいななく不気味な馬……。@
+;　スペイン内戦の最中、ナチスによって無差別空爆を受けた都市ゲルニカを描いた大作。\
+` It's an epic work created during the Spanish civil war in response to the Nazi's indiscriminate bombing of the city of Guernica.`\
+;　死んだ子を抱き泣き叫ぶ母親、天を仰いで絶望する女、狂ったようにいななく不気味な馬……。@
+` There's a mother crying out in grief at the loss of her child, a woman staring up at the sky in despair, and a ghastly horse neighing out in mad confusion....`@
 br
-　戦争の悲惨さを描いた力作だが、@そんな背景を理解できない一般生徒にとっては、奇怪で薄気味悪い抽象画でしかないだろう。\
-
-「じゃあ、これは？@………『残酷の四段階』。」@
+;　戦争の悲惨さを描いた力作だが、@そんな背景を理解できない一般生徒にとっては、奇怪で薄気味悪い抽象画でしかないだろう。\
+` It's supposed to be masterpiece that tells of the horrors of war, `@`but unfortunately most of the students that see it don't know the context, so they just think it's a bizarre abstract painting.`\
+;「じゃあ、これは？@………『残酷の四段階』。」@
+`"Okay, and this one?`@`....`The Four Stages of Cruelty'."`@
 br
-　それは題名どおりの４枚の連続作品だ。\
-
-　残忍な性格の主人公の少年時代から末路までを描いたもので、@最後の１枚では、絞首刑で殺された後、@そのまま解剖学の授業に回されて腹を割かれるという、@ショッキングなもので締めくくられている。\
-
+;　それは題名どおりの４枚の連続作品だ。\
+` As the name suggests, it's a series of four prints.`\
+;　残忍な性格の主人公の少年時代から末路までを描いたもので、@最後の１枚では、絞首刑で殺された後、@そのまま解剖学の授業に回されて腹を割かれるという、@ショッキングなもので締めくくられている。\
+` They follow the life of a one cruel man from the time he was a boy up until his death. `@`And, as a shocking conclusion, `@`In the final print he has been hanged to death, `@`and his body is disected during an anatomy class.`\
 bg black,22
 
-　残忍なる者には、残忍なる結末が待つ。@
+;　残忍なる者には、残忍なる結末が待つ。@
+` A cruel person will meet a cruel end.`@
 br
-　そういう教育的なメッセージが込められているのだが、@それを理解できずに見せ付けられる子供たちにとっては、これはグロテスクな作品以上でも以下でもない。\
-
+;　そういう教育的なメッセージが込められているのだが、@それを理解できずに見せ付けられる子供たちにとっては、これはグロテスクな作品以上でも以下でもない。\
+` That is the message that the series conveys. `@`But the kids who see this one can't understand that, and more or less think that it's just a gory picture.`\
 bg kaiga_01,0
 ld r,NAF_D2,24
 ld r,NAF_D6,80
 
-「……趣味のいい絵ばかり選ぶのね。」@
-
+;「……趣味のいい絵ばかり選ぶのね。」@
+`"...You choose such great pictures."`@
 
 ld l,RUN_D7,23
 ld l,RUN_D1,80
 
-「ありがとう。@私の気に入っている絵ばかりなの。」@
+;「ありがとう。@私の気に入っている絵ばかりなの。」@
+`"Thank you. `@`I'm only choosing the ones I like."`@
 br
-　ルノワールはにやりと笑う。\
-
-　……ルノワールはその祟りで、犠牲者を絵の中に引き摺り込むという。@
+;　ルノワールはにやりと笑う。\
+` Renoir grinned.`\
+;　……ルノワールはその祟りで、犠牲者を絵の中に引き摺り込むという。@
+` ...Renoir's curse causes the victim to be dragged into the painting.`@
 br
-　愉快な絵なら、それは笑い事で済むが、@……先ほどから出題されるものは、どれも、実体験は遠慮したいものばかりだ。\
-
+;　愉快な絵なら、それは笑い事で済むが、@……先ほどから出題されるものは、どれも、実体験は遠慮したいものばかりだ。\
+` Getting dragged into a pleasant or peaceful painting would just be laughable.`@`... So naturally, every picture that Renoir chooses is going to contain something that she wants to happen.`\
 ld l,RUN_D3,80
 
-「それで？@　この作品の作者は？」@
-
+;「それで？@　この作品の作者は？」@
+`"And? `@`Who did this one?"`@
 ld r,NAF_D5,80
 
-「……ホガース。@……ウィリアム・ホガースよ。」\
-
+;「……ホガース。@……ウィリアム・ホガースよ。」\
+`"...Hogarth.`@`... William Hogarth."`\
 cl l,24
 
-「ではこれは？@　そしてあれは？@　そしてそれは？」\
-
+;「ではこれは？@　そしてあれは？@　そしてそれは？」\
+`"What about this one? `@`And that one? `@`And that one?"`\
 
 cl r,24
 
-　新谷の博識に、ルノワールは焦りを覚えたに違いない。@
+;　新谷の博識に、ルノワールは焦りを覚えたに違いない。@
+` Renoir was obviously growing impatient with Shintani's extensive knowledge.`@
 br
-　舌打ちしながら、次々に出題し、そのペースを速めていく。@
+;　舌打ちしながら、次々に出題し、そのペースを速めていく。@
+` She clicked her tongue and sped up the pace, choosing one after another.`@
 br
-　新谷も負けてはいない。@次々に作者名を当て、勢いに乗っていく。\
-
+;　新谷も負けてはいない。@次々に作者名を当て、勢いに乗っていく。\
+` Shintani wasn't going to lose. `@`She gave the names just as quickly, using Renoir's impatience against her.`\
 bg black,22
 
 fede 1,1000
@@ -3180,10 +3208,11 @@ E_B
 bg bijutu_03,0
 ld c,RUN_D9,22
 
-　……やがて、新谷は気付く。@
+;　……やがて、新谷は気付く。@
+` ...Eventually, Shintani realized something.`@
 br
-　彼女が正解を重ねれば重ねるほどに、……ルノワールが呼吸を荒げていくのだ。\
-
+;　彼女が正解を重ねれば重ねるほどに、……ルノワールが呼吸を荒げていくのだ。\
+` The more questions she answered correctly... the quicker Renoir's breathing became.`\
 　気付けば、まるで全力疾走を終えたかのように、ぜいぜいと肩で息をしているのだ。@
 br
 　……どうやら、正解をされればされるほどに、妖怪の存在が追い詰められていくらしい。\
