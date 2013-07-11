@@ -11,7 +11,7 @@ br
 `　And so the school youkai are soothed when the full moon is out.`@
 br
 ;　時に、殺伐とした魂のやり取りを休み、お月見会などという、風流な催しを開いてみたりもする……。\
-`　Sometimes they even take a break from stealing brutally-murdered souls and hold an elegant event known as the Lunar Festival...`\
+`　Sometimes they even take a break from stealing brutally murdered souls and hold an elegant event known as the Lunar Festival...`\
 
 bg black,22
 bg gakkou_07y,22
@@ -139,7 +139,7 @@ br
 ;ld r,HIG_D1,80
 
 ;　待っててあげるから、少しはマシな格好に着替えてらっしゃい。@要領は今、教えてあげた通り。@大丈夫、慣れれば自由自在よ。@
-`　We'll wait for you, so go ahead and change into some better clothes. `@`Just do as I taught you. `@`You'll be fine, when you get used to it you can do it whenever!`@
+`　We'll wait for you, so go ahead and change into some better clothes. `@`Just do as I taught you. `@`You'll be fine, when you get used to it you'll be able to do it whenever you want!`@
 br
 ;　………最初の内は彼岸花も廊下で待っててくれたのだが。@あまりに毬枝の要領が悪いので、とうとう愛想を尽かし、先に行ってるわと行ってしまったのだ。\
 `　...At first, Higanbana waited on her in the hall, `@`but Marie wasn't very good at the basics, so eventually she got impatient and said, "Kay, I'm going on ahead~."`\
@@ -352,7 +352,7 @@ ld r,HIG_D1,22
 mld c,ma2_D3a,80
 
 ;「素敵なドレスなんて思い付かないし……。@なら、少し真面目な服にならないかなと思ったらこんな服に……。」\
-`"I couldn't really think of a pretty dress... `@`And after thinking I had to wear something more cordial, it turned out like this..."`\ 
+`"I couldn't really think of a pretty dress... `@`And after deciding I had to wear something more cordial, it turned out like this..."`\ 
 ;＜毬枝
 
 ld r,HIG_D3,80
@@ -768,7 +768,7 @@ ld r,KOU_D1,22
 ;　だからこそ彼らは生きるために、……人間たちに忘れられたくないと願うのだ。\
 `　That is precisely why they wish that humans do not forget about them...so they can live on.`\
 ;　それを思った時、……妖怪も人間と同じで、@……本質的には寂しがり屋なのかもしれないと、毬枝は思った。\
-`　When thinking that...humans and Youkai are alike,`@` ...Marie thought that maybe they all were essentially just lonely.`\
+`　Contemplating the thought that humans and Youkai are alike,`@` Maria considered that maybe they were all essentially just lonely.`\
 
 bg black,22
 
@@ -845,7 +845,7 @@ quakex 2,200
 ld l,SIN_D1,80
 
 ;「横取りとは心外です。@私は、辛い現実に打ちのめされた少年少女たちに、ただ夢を見せてあげているだけだというのに。」\
-`"Stealing is such an upsetting way to put it.`@` All that I do is simply show the boys and girls who have been battered and beaten down by their harsh realities a lovely dream."`\
+`"Stealing is such an upsetting way to put it.`@` All that I do is simply show a lovely dream to the boys and girls who have been battered and beaten down by their harsh realities."`\
 
 ld c,IZA_D6,80
 
@@ -862,7 +862,7 @@ ld l,SIN_D2,80
 ld c,IZA_D5,80
 
 ;「ケッ。@なァに甘っちょろいこと言ってやがんだか。@学校はな！@　荒野なんだよ、ジャングルなんだよッ。@ひとりで歩くことも出来ねぇ、貧弱なクソガキがのうのうと生き残れるところじゃねぇんだ！@　俺ァ、それを教えてやってるだけよ。@テメェなんざ、反吐が出る。@/
-`"Tch.`@` The hell're talkin' all high 'n mighty for.`@` School!`@` It's a wasteland, a goddamn JUNGLE.`@` It ain't no place where any sad, sorry, piece of shit who can't even walk on their own can just wander on through!`@` What I'm doin' is teaching the little bastards.`@` You're just spewing horseshit.`@`/
+`"Tch.`@` The hell're you talkin' all high 'n mighty for.`@` School!`@` It's a wasteland, a goddamn JUNGLE.`@` It ain't no place where any sad, sorry, piece of shit who can't even walk on their own can just wander on through!`@` What I'm doin' is teaching the little bastards.`@` You're just spewing horseshit.`@`/
 
 se1v 12,30
 quakey 2,200
@@ -1060,7 +1060,7 @@ ld r,SMI_w4,24
 ld r,SMI_w3,80
 
 ;「お前のような、嫌われ者のひとりぼっちとは違うのじゃ！@　私と姉者は大の仲良しなのじゃー！」@
-`"I'm different from you -- you loathesome and bitter creature!`@` My sister and I are very close, indeed!"`@`
+`"I'm different from you -- you loathsome and bitter creature!`@` My sister and I are very close, indeed!"`@`
 ;＜スミレ
 
 ld l,AZA_D4,23
@@ -1325,7 +1325,7 @@ br
 
 br
 ;　とはいえ、ダメダメッ、お酒は大人になってからっ。\
-`　Nevermind that, I can't! I can't! Sake is for adults.`\
+`　Never mind that, I can't! I can't! Sake is for adults.`\
 
 bg white,23
 bg okujou_02,0
@@ -1480,7 +1480,7 @@ br
 ;　………こんにちは、旧校舎さん。@
 ` ...Hello there, School Building-san.`@
 ;　めそめその毬枝と申します。@
-` My name is Meso-meso Marie.`@`
+` My name is Mesomeso Marie.`@`
 br
 ;　どうかこれからも、よろしくお願いしますね………。@
 ` Nice to meet you. `@`Whatever happens in the future, I look forward to it...`@`
@@ -1699,7 +1699,7 @@ bgm1 1003
 ld r,HIG_D2,80
 
 ;「妖力もお酒に似てて、古く長く寝かせたものは、より強い力を宿すの。@……だから、もしもこの旧校舎に奇跡的に黄泉桜が生えて、そこから作られた桜酒だったなら。@……恐らくそれは、この世のものとは思えぬほどに、美味なものだったはず。」\
-"That rice wine is like magic power in the sense that it was laid to rest long ago in favor of conceiving a greater power.`@`...That's why, if this old school building had miraculous produced the sakura of the underworld, if it had produced the sakura wine... `@`then it must have tasted like something unimaginable and uncomparable to anything in this world."`\
+"That rice wine is like magic power in the sense that it was laid to rest long ago in favor of conceiving a greater power.`@`...That's why, if this old school building had miraculous produced the sakura of the underworld, if it had produced the sakura wine... `@`then it must have tasted like something unimaginable and incomparable to anything in this world."`\
 ;ld l,MAR_D1,80
 
 ;　……そうだ。@毬枝は昨夜、確かにそんなことを言われた。\
@@ -1707,7 +1707,7 @@ ld r,HIG_D2,80
 ld r,HIG_w2,80
 
 ;「だとしたら、羨ましいわ。@……新校舎の黄泉桜は、まだまだ若い。@美味しいには美味しいけれど、あんたが味わったそれには、足元にも及ばないはず。@……存在しないはずの旧校舎の黄泉桜に、最高のお月見日和の満月の晩に出会えて、@最高の桜酒を味わえたなんて。@毬枝は本当に幸運だわ。」\
-`"If that's so, then I'm jealous. `@`...The underworld sakura of the new school building is still fairly young. `@`You could say it's tasty as tasty comes, but it's nothing compared to what you tasted. `@`...Meeting on the greatest night for viewing the full moon, `@`and tasting the finest sakura wine from the old scool building underworld sakura that shouldn't even exist.... `@`Marie, you are truly fortunate."`\
+`"If that's so, then I'm jealous. `@`...The underworld sakura of the new school building is still fairly young. `@`You could say it's tasty as tasty comes, but it's nothing compared to what you tasted. `@`...Meeting on the greatest night for viewing the full moon, `@`and tasting the finest sakura wine from the old school building underworld sakura that shouldn't even exist.... `@`Marie, you are truly fortunate."`\
 
 ld l,MAR_D4a,80
 
