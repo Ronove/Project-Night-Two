@@ -840,51 +840,64 @@ wait 1000
 
 bg okujou_01,2
 
-　……時に、静寂が訪れる。@
+;　……時に、静寂が訪れる。@
+` ...Sometimes, she was visited by silence.`@
 br
-　そんな時、彼女は屋上を好む。@
-　そして強い風に長い髪を散らし、……感情なき一輪の花のように、そこにたたずむのだ。\
-
+;　そんな時、彼女は屋上を好む。@
+` She'd prefer the rooftop at those times.`@
+;　そして強い風に長い髪を散らし、……感情なき一輪の花のように、そこにたたずむのだ。\
+` She'd stand there, hair rustling in the strong breezes, emotionless, like a solitary flower.`\
 ld c,HIG_D9,22
 
-「…………………………………。」\
+;「…………………………………。」\
+`".................."`\
 
-
-　今日も、生きている。@
+;　今日も、生きている。@
+` She was alive today, as well.`@
 br
-　生きていると、考えることが出来る。\
-
-　生きるために、生きる日々。@
-　傷つけ、傷つけられ、殺し、殺され。@
+;　生きていると、考えることが出来る。\
+` When she was alive, she could think.`\
+;　生きるために、生きる日々。@
+` In order to live, she lived day-to-day.`@
+;　傷つけ、傷つけられ、殺し、殺され。@
+` Hurting others and being hurt; killing others and being killed.`@
 br
-　それが延々と、……尾を呑み込んだ蛇のように、繰り返される日々。\
-
+;　それが延々と、……尾を呑み込んだ蛇のように、繰り返される日々。\
+` These days repeated endlessly like a mandala: that continuous snake swallowing it's own tail.`\ 
 ;ld c,HIG_D10,80
 
-　それをいつまで続ければいいのか。@
+;　それをいつまで続ければいいのか。@
+` How long was it alright for this to continue?`@
 br
-　……彼岸花には、自分という存在が、わからなくなっていた。\
-
+;　……彼岸花には、自分という存在が、わからなくなっていた。\
+` Higanbana no longer understood her own existence.`\
 bg black,22
 
-　いや、それは正しい表現ではない。@
-　なぜなら彼女は一度だって、自分という存在が、@何のために在るのかを理解したことなど、ないのだから。@
+;　いや、それは正しい表現ではない。@
+` No, that wasn't quite right.`@
+;　なぜなら彼女は一度だって、自分という存在が、@何のために在るのかを理解したことなど、ないのだから。@
+` Because, for once,`@`she didn't know for what reason she existed.`@
 br
-　わかることはひとつだけ。@
-　死にたくないこと。\
-
+;　わかることはひとつだけ。@
+` There was only one thing of which she was certain:`@
+;　死にたくないこと。\
+` She didn't want to die.`\
 bg Air_02,22
 
-　だけれども、生き続けるには、日々、傷つけ、傷つけられ、苦痛に呻き合う。@
-　死なないためだけに、……毎日を苦しむ。@
+;　だけれども、生き続けるには、日々、傷つけ、傷つけられ、苦痛に呻き合う。@
+` Though, in staying alive, every day she would hurt and be hurt, and moan in pain.`@
+;　死なないためだけに、……毎日を苦しむ。@
+` She would be pained every day that she didn't die.`@
 br
-　自分がなぜここに在るのか。@
-　……わかるわけもなかった。\
-
+;　自分がなぜここに在るのか。@
+` Why was she here?`@
+;　……わかるわけもなかった。\
+` There was no way should could know.`\
 bg black,22
 bg okujou_02,22
 
-　今は、静寂。@
+;　今は、静寂。@
+` Now was silent.`@
 br
 　誰も襲ってこない、黄昏時のわずかの空白。\
 
