@@ -735,20 +735,22 @@ ld c,HIG_D8,80
 br
 ;　その表情は淡白なまま。@……眼差しは透明で遠く、心ここにあらずという感じだった。\
 ` Her facial expression didn't change.`@`...her gaze was empty and her feelings transparent.`\
-　それは死を前に達観しているのとは少し違う。@
+;　それは死を前に達観しているのとは少し違う。@
+` A little different from the expression of someone philosophizing before death.`@
 br
-　目の前の妖怪たちの暴風がまるで、……数枚の木の葉が舞う、つむじ風程度にしか見えていないかのよう……。\
-
+;　目の前の妖怪たちの暴風がまるで、……数枚の木の葉が舞う、つむじ風程度にしか見えていないかのよう……。\
+` The storm of monsters in front of her fluttered like a whirlwind...`\
 textoff
 fede 0,1000
 E_A
 
 ld c,HIG_D9,80
 
-「……お前たちをみんな。@……私に、……食わせてちょうだい。」@
+;「……お前たちをみんな。@……私に、……食わせてちょうだい。」@
+`"...All of you....`@`...Feed me."`@
 br
-　西洋人形が、……ひらりと舞った。\
-
+;　西洋人形が、……ひらりと舞った。\
+` The Western doll danced nimbly.`\
 se1 66
 bg white,8
 bg aka3,1
@@ -761,11 +763,12 @@ bg rouka_04,2
 
 bgm1 27
 
-　保健室に、彼岸花と名乗る恐ろしい妖怪が住み着いている。@
+;　保健室に、彼岸花と名乗る恐ろしい妖怪が住み着いている。@
+` The fearsome monster called Higanbana settled in the Infirmary.`@
 　その噂はやがて、学校に跋扈する妖怪たちで知らぬ者はないほどになった。@
 br
-　強い妖怪を喰らえば、それだけ大きな妖力を得られる。@だから、強さが知れ渡ることはさらなる死闘を呼び寄せることとなった。\
-
+;　強い妖怪を喰らえば、それだけ大きな妖力を得られる。@だから、強さが知れ渡ることはさらなる死闘を呼び寄せることとなった。\
+` If one consumed a strong monster, they could obtain a large amount of spirit energy.`@`So, one's strength becoming well known was in itself asking for more combat.`\
 bg black,22
 se1 36
 bg BLADE2W,1
@@ -774,52 +777,61 @@ bg black,22
 bg hoken_01,0
 ld c,HIG_D9,22
 
-　彼岸花は敵を屠る時、……楽しくもなければ、悲しくもなかった。@
+;　彼岸花は敵を屠る時、……楽しくもなければ、悲しくもなかった。@
+` When she slew her enemies, Higanbana was neither happy nor sad.`@
 br
-　彼女にとって、自分の存在する目的はひとつだけ。\
-
+;　彼女にとって、自分の存在する目的はひとつだけ。\
+` She only aimed to preserve her own existence.`\
 ;ld c,HIG_D9,80
 
-　ただ、生きること。@
+;　ただ、生きること。@
+` Her life.`@
 br
-　そして生きるためには、誰よりも多くの妖力を得て、強さを身に付けなければならない。\
-
-　だから日々、常に何者かと殺し合い、あるいは騙し合い。@
-　時には姿を隠して逃れ、裏をかいたり、あるいはかかれたり。@
+;　そして生きるためには、誰よりも多くの妖力を得て、強さを身に付けなければならない。\
+` To that end, she had to become more powerful than anyone else, and gather more strength.`\
+;　だから日々、常に何者かと殺し合い、あるいは騙し合い。@
+` That's why every day she would deceive and kill.`@
+;　時には姿を隠して逃れ、裏をかいたり、あるいはかかれたり。@
+` Sometimes she would flee by concealing her form, or outwitting the opponent.`@
 br
-　彼女の毎日は、殺すか殺されるかの二つだけで全て表現できた。\
-
+;　彼女の毎日は、殺すか殺されるかの二つだけで全て表現できた。\
+` All her days were expressed by the notion "kill or be killed".`\
 bg hoken_05,22
 
-　……彼女はとりあえずのところ、まだ生きている。@
-　まだ生きているということは、……生き残れる程度の妖力を身に付けたということ。@
+;　……彼女はとりあえずのところ、まだ生きている。@
+` ....For the time being, she was alive.`@
+;　まだ生きているということは、……生き残れる程度の妖力を身に付けたということ。@
+` The fact that she was still alive meant that she had gathered enough strength to continue living.`@
 br
-　そしてそれは、さらなる強さを求める妖怪たちを、さらにさらに呼び寄せる……。\
-
+;　そしてそれは、さらなる強さを求める妖怪たちを、さらにさらに呼び寄せる……。\
+` And that strength drew other monsters to her like a beacon...`\
 bg black,22
 
 　迂闊に傷付き弱れば、好機とばかりに弱い妖怪たちが群れてくる。@
 br
-　しかし力を付ければ付けるほどに、破格の獲物とばかりに強い妖怪たちが群れてくる。\
-
+;　しかし力を付ければ付けるほどに、破格の獲物とばかりに強い妖怪たちが群れてくる。\
+` But the more power she gathered, the stronger the monsters that would pursue her.`\
 　彼岸花にとって、今日、まだ命があるのは、己が強いからではない。@
 　彼女が強いのは、今日まで生き残ったことに対する結果でしかない。@
 br
-　彼女にとって、まだ命があるのは、………ただ、幸運だったに過ぎないと思っていた。\
-
+;　彼女にとって、まだ命があるのは、………ただ、幸運だったに過ぎないと思っていた。\
+` She didn't think she was that lucky to still be alive.`\
 bg Different_spiral_1b,22
 
 me1v 5,50
 
-　今日を生き残れたとて、明日も生き残れる保証はない。@
+;　今日を生き残れたとて、明日も生き残れる保証はない。@
+` There was no guarantee that she would survive today and tomorrow.`@
 br
-　自分が今日を生き残ることと引き換えに、誰かを殺して喰らったように。@明日は誰かが私を殺して喰らうかもしれない。\
-
-　………そんな、死線を潜り続ける日々に、@……彼女の表情は、喜びはおろか、怒りや悲しみさえ浮かぶことはない。@
-　ただただ、………今日を生きるためだけに、誰かを喰らい続ける。@
+;　自分が今日を生き残ることと引き換えに、誰かを殺して喰らったように。@明日は誰かが私を殺して喰らうかもしれない。\
+` In exchange for surviving today by killing someone,`@`she could easily be killed by someone else tomorrow.`\
+;　………そんな、死線を潜り続ける日々に、@……彼女の表情は、喜びはおろか、怒りや悲しみさえ浮かぶことはない。@
+` ....In those days, when she continually dived in and out of danger,`@`...neither joy sadness, nor anger floated amidst her expressions.`@
+;　ただただ、………今日を生きるためだけに、誰かを喰らい続ける。@
+` Nothing to do but keep living by killing.`@
 br
-　そんな、……感情なき、肉食植物のような日々。\
-
+;　そんな、……感情なき、肉食植物のような日々。\
+` Without any emotion, those days were like those in the life of a carnivorous plant.`\
 bg black,2
 
 fede 1,1000
