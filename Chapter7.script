@@ -975,15 +975,17 @@ br
 ;　集団で個人を攻撃して、その魂を刈り取る、いじめという名の狩り……。@
 ` Bullying was a form of hunting where a group would attack an individual and reap their soul...`@
 br
-　それがひと段落し、彼らはその場に犠牲者を残し、立ち去っていく。\
-
-「………食いカス、……か。」@
+;　それがひと段落し、彼らはその場に犠牲者を残し、立ち去っていく。\
+` When that was done, they would leave the victim by themselves.`\
+;「………食いカス、……か。」@
+`"....Eat shit...."`@
 br
 　どこの誰だか知らないけれど。@
-　ふと見下ろしたら、目に付いた。@……狩りの動機はその程度でいい。@
+;　ふと見下ろしたら、目に付いた。@……狩りの動機はその程度でいい。@
+` When she looked down suddenly, it was in her eyes...`@`motivation for hunting.`@
 br
-　彼岸花は屋上より、ふわりと飛び降りる。\
-
+;　彼岸花は屋上より、ふわりと飛び降りる。\
+` Higanbana jumped from the rooftop gently.`\
 bg black,25
 wait 500
 bg gakkou_03,25
@@ -991,22 +993,27 @@ bg gakkou_03,25
 
 wait 500
 
-　いじめられていた少年は、よろりと起き上がり、木陰にしゃがみ込んでいた。@
+;　いじめられていた少年は、よろりと起き上がり、木陰にしゃがみ込んでいた。@
+` The bullied boy had got up gingerly and was now squatting in the shade of a tree.`@
 br
-　そして、大事そうに抱えていたスケッチブックを広げ、鉛筆を走らせ始める。\
-
-「……………変な子。」@
+;　そして、大事そうに抱えていたスケッチブックを広げ、鉛筆を走らせ始める。\
+` Then, he opened the sketchbook he'd been clutching, and began to run a pencil over its paper.`\
+;「……………変な子。」@
+`"....What a strange child..."`@
 br
-　ついさっきまでいじめられていたのだ。@
+;　ついさっきまでいじめられていたのだ。@
+` He had been bullied until a moment ago.`@
 　それから解放されて最初にやることが、@涙を拭うことでもなければ地団太を踏むことでもなく、スケッチブックを広げることなんて。\
 
 ld c,HIG_D9,5
 
-　彼岸花は、ふわりと少年の前に降り立つ。@
+;　彼岸花は、ふわりと少年の前に降り立つ。@
+` Higanbana approached the boy silently.`@
 br
-　人ならざる者の姿は、人間には見えない。@稀な例外を除いて。@
-　だから、少年の目が確かに自分の姿を追って、彼岸花はわずかに驚いた。\
-
+;　人ならざる者の姿は、人間には見えない。@稀な例外を除いて。@
+` The bodies of those not from the human world couldn't be seen by humans.`@`Well, with some rare exceptions.`@
+;　だから、少年の目が確かに自分の姿を追って、彼岸花はわずかに驚いた。\
+` So Higanbana was slightly taken aback when she noticed that his eyes were following her.`\
 textoff
 
 fede 0,1000
@@ -1015,7 +1022,8 @@ E_A
 ld l,SHU_D6,26
 ;ld l,SHU_D1,80
 
-「………君、………今、空から降りてきたよね……？」@
+;「………君、………今、空から降りてきたよね……？」@
+`"....Did....Did you fall from the sky just now?"`@
 ;＜秋一
 
 bgm1 33
@@ -1023,26 +1031,33 @@ bgm1 33
 cl c,0
 ld r,HIG_D9,23
 
-「……あなた、……私の姿が見えるの……？」@
+;「……あなた、……私の姿が見えるの……？」@
+`"....You can see me?"`@
 br
-　それが彼岸花にとって、初めての人間との会話だった。\
-
+;　それが彼岸花にとって、初めての人間との会話だった。\
+` That was the first conversations Higanbana had with a human.`\
 bg black,2
 wait 1000
 bg gakkou_02,2
 
-「……何をやってんの。」@
-「絵を描いてるんだよ。」@
-「……何の絵……？」@
+;「……何をやってんの。」@
+`"What're you up to?"`@
+;「絵を描いてるんだよ。」@
+`"Sketching."`@
+;「……何の絵……？」@
+`"Sketching what?"`@
 br
-　少年はさっきからスケッチブックに絵を描いている。@
-　しかし、何を描いているのか、よくわからなかった。\
-
-　目の前の草木を描いているようにも見えるのだが、決して写実的ではない。@
-　鋭く誇張され、毛羽立ったライン。@
+;　少年はさっきからスケッチブックに絵を描いている。@
+` The boy had been drawing pictures in his sketchbook for quite a while.`@
+;　しかし、何を描いているのか、よくわからなかった。\
+` But, she didn't understand what he had drawn.`\
+;　目の前の草木を描いているようにも見えるのだが、決して写実的ではない。@
+` He was looking as if to draw the leaves in front of him, but not with any realism.`@
+;　鋭く誇張され、毛羽立ったライン。@
+` The lines were fuzzy and sharply exaggerated.`@
 br
-　まるで抽象画のように見えた。\
-
+;　まるで抽象画のように見えた。\
+` Like an abstract painting.`\
 bg black,22
 bg gakkou_03,0
 ld r,SHU_D1,0
@@ -1050,43 +1065,44 @@ ld l,HIG_D10,22
 
 ld r,SHU_D2,80
 
-「これは、今の僕の感情。」@
-
+;「これは、今の僕の感情。」@
+`"These are my feelings, right now."`@
 ld l,HIG_D9,80
 
-「…………感情？」@
-
+"「…………感情？」@
+`"....Feelings?"`@
 ld r,SHU_D4,80
 
-「そう。@……いじめられて、悔しかったという、今の僕の感情だよ。」\
-
-　そう言われてスケッチブックを見直すと、……確かに何となくわかる。@
+;「そう。@……いじめられて、悔しかったという、今の僕の感情だよ。」\
+`"Yes.`@`These are my feelings of frustration at having been bullied."`\
+;　そう言われてスケッチブックを見直すと、……確かに何となくわかる。@
+` When she looked at the sketchbook bearing this in mind, it made sense in some small way.`@
 br
-　目の前の校舎裏の景色が、@心情というフィルターを通して、悔しさに歪んで描かれていることが理解できる。\
-
+;　目の前の校舎裏の景色が、@心情というフィルターを通して、悔しさに歪んで描かれていることが理解できる。\
+` It would explain why he was drawing such distorted pictures.`@`He viewed the scenery behind the schoolhouse through a filter of emotions.`\
 ld l,HIG_D10,80
 
-「何でそんなことを？」\
-
+;「何でそんなことを？」\
+`"Why do you feel that?"`\
 ld r,SHU_D1,80
 
-「嫌な感情は、こうしてスケッチブックに吐き出して閉じ込めるんだ。@……絵になれば、それはもうただの感情じゃない。@今日、僕が確かに経験した、生きた証になるんだよ。」\
-
+;「嫌な感情は、こうしてスケッチブックに吐き出して閉じ込めるんだ。@……絵になれば、それはもうただの感情じゃない。@今日、僕が確かに経験した、生きた証になるんだよ。」\
+`"I fill this book with my bad feelings.`@`...The pictures aren't just any normal emotions.`@`Today, I surely experienced proof of living."`\
 ld l,HIG_D9,80
 
-「…………………？」\
-
+;「…………………？」\
+`"............?"`\
 　やはり、人ならざる存在の自分が見えてしまうだけあって、@どこか普通の人間とずれているようだった。@
 br
-　しかし、彼岸花は、彼が言った一言に、なぜかとても興味を覚えた。\
-
+;　しかし、彼岸花は、彼が言った一言に、なぜかとても興味を覚えた。\
+` But, why was Higanbana so intrigued by what he said?`\
 ;cl l,0
 ;ld c,HIG_D10,23
 
 bg black,22
 
-「生きた証って、……何よ。」@
-
+;「生きた証って、……何よ。」@
+`"Proof of having lived--what was that?"`@
 ;cl r,0
 ;ld l,SHU_D4,24
 
