@@ -899,35 +899,39 @@ bg okujou_02,22
 ;　今は、静寂。@
 ` Now was silent.`@
 br
-　誰も襲ってこない、黄昏時のわずかの空白。\
-
-　頭を空にして、……殺し合いの熱を、わずかでも冷ます。@
+;　誰も襲ってこない、黄昏時のわずかの空白。\
+` No one came to attack in the dusky twilight.`\
+;　頭を空にして、……殺し合いの熱を、わずかでも冷ます。@
+` With an empty head, the heat of battle subsided a little.`@
 br
-　それだけが出来ることで、……多分、それだけが、彼女の感じられるわずかの愉悦だった。\
-
+;　それだけが出来ることで、……多分、それだけが、彼女の感じられるわずかの愉悦だった。\
+` That was only possible,`@`maybe, because she felt a little joy.`\
 ld r,HIG_D8,22
 
-「……………………………。」@
+;「……………………………。」@
+`"..............."`@
 br
-　今日は危なかった。\
-
+;　今日は危なかった。\
+` Today was dangerous`\
 bg black,0
 ld l,AZA_D2,0
 ld c,SMI_w5,22
 
 me2v 17,50
 
-　アザミとスミレの姉妹に執拗に狙われ、あとわずかで殺されるところだった。@
+;　アザミとスミレの姉妹に執拗に狙われ、あとわずかで殺されるところだった。@
+` She had been targeted relentlessly by the sisters, Azami and Sumire, and would surely be killed soon.`@
 br
 　あの二人、取るに足らない弱小妖怪だと思っていたら。@……いじめを狩場に、子供たちの魂をたくさん喰らい、いつの間にか侮れない妖力を蓄えた。\
 
 ld l,AZA_D3,0
 ld c,SMI_w6,80
 
-　……生き延びたければ、強くなるしかない。@
+;　……生き延びたければ、強くなるしかない。@
+` If she wanted to survive, she had no choice but to become stronger.`@
 br
-　それが弱肉強食の人ならざる世界の、唯一の処世術。\
-
+;　それが弱肉強食の人ならざる世界の、唯一の処世術。\
+` That was the social order of such a Darwinian society.`\ 
 bg black,22
 fede 12,1000
 E_M2
@@ -935,32 +939,41 @@ E_M2
 bg okujou_02,0
 ld r,HIG_D8,22
 
-「………私も、……生きるために、狩りをしないとね………。」@
+;「………私も、……生きるために、狩りをしないとね………。」@
+`"....In order to live...I don't hunt...."`@
 br
-　今日まで彼岸花は、人間の魂を狩りの対象としたことはない。@
-　生き残るために、襲い来る無数の妖怪たちを殺し、喰らい、それによって妖力を蓄えてきただけだ。\
-
-　しかし、それだけでは足るまい。@
-　積極的に狩りをし、より多くの妖力を蓄えなければ。@
+;　今日まで彼岸花は、人間の魂を狩りの対象としたことはない。@
+` Until today, Higanbana had never hunted the souls of humans.`@
+;　生き残るために、襲い来る無数の妖怪たちを殺し、喰らい、それによって妖力を蓄えてきただけだ。\
+` To live, she had just hunted countless monsters, and depending on that, her spirit energy would increase.`\
+;　しかし、それだけでは足るまい。@
+` However, that was not enough.`@
+;　積極的に狩りをし、より多くの妖力を蓄えなければ。@
+` If she hunted more actively, she'd gain more power.
 br
-　それが、生き延びるために出来る、唯一の努力。\
-
+;　それが、生き延びるために出来る、唯一の努力。\
+` That was all she could do to survive.`\
 ld r,HIG_D9,80
 
-　……人間の、獲物。@
+;　……人間の、獲物。@
+` ...Human prey.`@
 br
-　誰でもいい。@どこかに、適当な誰かがいないものか……。\
-
+;　誰でもいい。@どこかに、適当な誰かがいないものか……。\
+` Anyone would be fine.`@`Surely, there'd be someone appropriate somewhere...`\
 bg black,25
 bg gakkou_02,22
 
-　ふと眼下を見下ろすと、……そこは校舎裏。@
+;　ふと眼下を見下ろすと、……そこは校舎裏。@
+` Then, when she looked down below, she saw the back of the schoolhouse.`@
 br
-　数人の男子の人だかりがある。@
-　……どうやら、彼らの狩りらしい。\
-
-　人間もまた、狩りをする。@
-　集団で個人を攻撃して、その魂を刈り取る、いじめという名の狩り……。@
+;　数人の男子の人だかりがある。@
+` There was a crowd of men.`@
+;　……どうやら、彼らの狩りらしい。\
+` ...Apparently, they were hunting.`\
+;　人間もまた、狩りをする。@
+` Humans hunted too.`@
+;　集団で個人を攻撃して、その魂を刈り取る、いじめという名の狩り……。@
+` Bullying was a form of hunting where a group would attack an individual and reap their soul...`@
 br
 　それがひと段落し、彼らはその場に犠牲者を残し、立ち去っていく。\
 
