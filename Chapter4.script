@@ -3213,55 +3213,61 @@ ld c,RUN_D9,22
 br
 ;　彼女が正解を重ねれば重ねるほどに、……ルノワールが呼吸を荒げていくのだ。\
 ` The more questions she answered correctly... the quicker Renoir's breathing became.`\
-　気付けば、まるで全力疾走を終えたかのように、ぜいぜいと肩で息をしているのだ。@
+;　気付けば、まるで全力疾走を終えたかのように、ぜいぜいと肩で息をしているのだ。@
+` If she looked closesly she could see that Renoir was breathing so heavily it was almost like she had just finished running a marathon.`@
 br
-　……どうやら、正解をされればされるほどに、妖怪の存在が追い詰められていくらしい。\
-
-　なるほど、納得する。@
+;　……どうやら、正解をされればされるほどに、妖怪の存在が追い詰められていくらしい。\
+` ...It appears that the more question she gets right, the more cornered the youkai becomes.`\
+;　なるほど、納得する。@
+` I see, I understand.`@
 br
-　これは私にとってだけの、一方的な戦いではないのだ。\
-
-　私が負ければ、絵の中に引き摺り込まれて殺されてしまうように。@
+;　これは私にとってだけの、一方的な戦いではないのだ。\
+` This isn't just a one-sided fight.`\
+;　私が負ければ、絵の中に引き摺り込まれて殺されてしまうように。@
+` If I lose I will be pulled into a painting and killed.`@
 br
-　彼女も負ければ、その姿を二度と現すことが出来なくなるに違いない。\
-
+;　彼女も負ければ、その姿を二度と現すことが出来なくなるに違いない。\
+` But if she loses, she will never again be able to show herself here.`\
 ld c,RUN_D6a,80
 
-「………やるわね……。@……ぜぇ………ぜぇ………。」\
+;「………やるわね……。@……ぜぇ………ぜぇ………。」\
+`".....Not bad....`@`...Haa........ haa....."`\
 ;＜ルノワ
 
 ld r,NAF_D6,24
 ld r,NAF_D5,80
 
-「本当にバカな子だわ。@相手を選ばないからそういうことになるのよ。」@
-
+;「本当にバカな子だわ。@相手を選ばないからそういうことになるのよ。」@
+`"You really are a foolish child. `@`This is what you get for not choosing your enemies carefully."`@
 cl c,0
 ld l,RUN_D7a,24
 
-「……そのようね。@……あんたを、どうやら侮っていたみたい……。」\
-
+;「……そのようね。@……あんたを、どうやら侮っていたみたい……。」\
+`"....You're right.`@`...It seems that I've underestimated you..."`\
 ld r,NAF_D2,80
 
-「仮にも美術部顧問なのよ？@　この部屋に存在する絵画で、私に答えられないものは存在しないわ。」@
+;「仮にも美術部顧問なのよ？@　この部屋に存在する絵画で、私に答えられないものは存在しないわ。」@
+`"Did you think me saying I was the advisor of the art club was a joke? `@`There's not a picture in here that I can't name the artist of."`@
 br
-　きっぱりと断言する。\
-
-　精神的優位に立ち、記憶の引き出しが自在に開けられるようになった彼女には、@もはや恐れるものなど存在しなかった。\
-
+;　きっぱりと断言する。\
+` Shintani asserted that she had the upper hand.`\
+;　精神的優位に立ち、記憶の引き出しが自在に開けられるようになった彼女には、@もはや恐れるものなど存在しなかった。\
+` With her mental superiority she could freely pull the answer to any of Renoir's question out of her memory. `@`There was no longer anything she was afraid of.`\
 ld l,RUN_D6a,80
 
-「………ぜぇ………ぜぇ……。」@
-
+;「………ぜぇ………ぜぇ……。」@
+`".....Haa...... haa......"`@
 ld r,NAF_D6,80
 
-「もうおしまいかしら？@　それとも少し休憩しないと、出題も出来ないくらいに疲れちゃったかしら？」\
-
+;「もうおしまいかしら？@　それとも少し休憩しないと、出題も出来ないくらいに疲れちゃったかしら？」\
+`"Are we finished already? `@`Or are you so worn out that you need to take a break?"`\
 ld l,RUN_D7a,80
 
-「……そうね。@お言葉に甘えようかしら……。」@
+;「……そうね。@お言葉に甘えようかしら……。」@
+`"...Yeah. `@`It looks like I may need to do just that..."`@
 br
-　汗を浮かせながらも、わずかに微笑み、ルノワールは再び、モデルの椅子に腰を下ろす。\
-
+;　汗を浮かせながらも、わずかに微笑み、ルノワールは再び、モデルの椅子に腰を下ろす。\
+` Dripping with sweat, and slightly smiling, Renoir once sat down on the modeling chair.`\
 bg black,22
 
 fede 0,1000
@@ -3271,73 +3277,85 @@ bg kaiga_02,22
 
 bgm1 14
 
-「………ねぇ、先生。@さっきの質問なんだけど。@……やっぱり答えてはくれないのかしら？」@
-「質問？@　全て答えているつもりだけれど？」\
-「……この美術室で。@……誰かの裸を描いたことは、……本当にないの……？」@
-「………………。」\
-
-　答えるつもりはなかった。@
+;「………ねぇ、先生。@さっきの質問なんだけど。@……やっぱり答えてはくれないのかしら？」@
+`"....Hey, sensei. `@`What about my question from earlier?`@`... Are you not going to give me an answer?"`@
+;「質問？@　全て答えているつもりだけれど？」\
+`"Question? `@`Didn't I answer all of them?"`\
+;「……この美術室で。@……誰かの裸を描いたことは、……本当にないの……？」@
+`"...In this art room....`@`Have you really never... done a nude drawing of something in here....?"`@
+;「………………。」\
+`"........."`\
+;　答えるつもりはなかった。@
+` She had no intention of answering.`@
 br
-　“美術室のルノワール”のルールでは、その問い掛けに嘘を吐いてはならないことになっている。\
-
-　絵画の作者名については解答を求められるが、@それ以外については、嘘さえ吐かなければ回答の義務はないのだ。@
+;　“美術室のルノワール”のルールでは、その問い掛けに嘘を吐いてはならないことになっている。\
+` According the rules of 'Renoir of the Art Room' she couldn't lie while answering that question.`\
+;　絵画の作者名については解答を求められるが、@それ以外については、嘘さえ吐かなければ回答の義務はないのだ。@
+` If Renoir asked for the name of an artist she had to answer, `@`but any question other than that she was not obligated to answer in any way.`@
 br
-　だからこそ、新谷は余裕の表情で、その問いに無言を返すのだ。\
-
+;　だからこそ、新谷は余裕の表情で、その問いに無言を返すのだ。\
+` And so Shintani calmly replied to that question with silence.`\
 ld r,NAF_D5,24
 
-「もう、何を企もうとも無駄よ。@この美術室の主は私。@……でも、真夜中の美術室に妖怪が住み着いてるのを許せないほど、私も心が狭くないつもりよ？@　これくらいにして、すごすごと引き上げたら？@　私の前に二度と姿を現わさないと誓えるなら、@私が下校した後の無人の美術室は、あなたの自由にすればいい。@……素敵なルームシェアリングでしょう？」\
-
+;「もう、何を企もうとも無駄よ。@この美術室の主は私。@……でも、真夜中の美術室に妖怪が住み着いてるのを許せないほど、私も心が狭くないつもりよ？@　これくらいにして、すごすごと引き上げたら？@　私の前に二度と姿を現わさないと誓えるなら、@私が下校した後の無人の美術室は、あなたの自由にすればいい。@……素敵なルームシェアリングでしょう？」\
+`"Whatever scheme you're trying pull, it's not going to work. `@`I am the master of this srt room.`@`... But do you really rhinkg that I'm so close-minded as to not let a youkai take up residence in it during the middle of the night? `@`How's this for a deal? `@`If you vow to never show yourself before me again, `@`then after school is over and I've left the art room, you're free to do as you please.`@`... We'll be like the perfect roommates."`\
 bg black,22
 bg bijutu_04,0
 ld c,RUN_D2,22
 ld c,RUN_D6,80
 
-「………私の質問への返事はなし？」@
-「私がヌード画を描いたことがあるか否かなんて、どうでもいいことでしょう？@　下らない。」\
-
+;「………私の質問への返事はなし？」@
+`"....You're not going to answer my question?"`@
+;「私がヌード画を描いたことがあるか否かなんて、どうでもいいことでしょう？@　下らない。」\
+`"Who cares if I've done a nude drawing or not? `@`It doesn't matter."`\
 ld c,RUN_D5,80
 
-「ふふふふふ……。@本当に下らない、どうでもいいことなのかしら…？@　……どうでもいいことの割にはあなた、……動揺しているんじゃない……？」\
-
-「………………………。」@
+;「ふふふふふ……。@本当に下らない、どうでもいいことなのかしら…？@　……どうでもいいことの割にはあなた、……動揺しているんじゃない……？」\
+`"Fufufufu... `@`Are you sure it really doesn't matter...? `@`...You seem... pretty shaken up over something that apparently doesn't matter..."`\
+;「………………………。」@
+`"............"`@
 br
-　追い詰められているのはルノワールのはずなのに。@
-　……新谷は心の中を見透かされているような不気味さを味わう。\
-
+;　追い詰められているのはルノワールのはずなのに。@
+` Renoir should be the one who's corner right now.`@
+;　……新谷は心の中を見透かされているような不気味さを味わう。\
+` ...So why was Shintani the one who felt like she was being seen through.`\
 ld c,RUN_D3,80
 
-「それじゃあ、質問を変えるわね。@きっとこれにも答えてはくれないんでしょうけど。」@
-「……もちろん、答えないわよ。@だから言うだけ無駄よ。」\
-
+;「それじゃあ、質問を変えるわね。@きっとこれにも答えてはくれないんでしょうけど。」@
+`"Alright then, I'll change the question. `@`Even though you probably won't answer this one either."`@
+;「……もちろん、答えないわよ。@だから言うだけ無駄よ。」\
+`"...Of course I won't. `@`After all, there's no reason to."`\
 ;ld c,RUN_D1,80
 
 bg black,22
 
-「裕貴くんが死んだ時、先生は一体どこで何をしてたの…？」\
-
+;「裕貴くんが死んだ時、先生は一体どこで何をしてたの…？」\
+`"Where were you when Yuuki died...?"`\
 ;mbg red1,1
 ;mcbg 22
 
-「………………………。」@
+;「………………………。」@
+`"............"`@
 br
-　新谷のこめかみが引き攣った。@
-　眼球の奥が、ちりっと痛み、その焦点がわずかに歪んだ。\
-
+;　新谷のこめかみが引き攣った。@
+` Pressure spread through Shintani's temples.`@
+;　眼球の奥が、ちりっと痛み、その焦点がわずかに歪んだ。\
+` A pain hit the back of her eyeballs, and blurred her vision a little.`\
 bg bijutu_06,22
 ;ld c,RUN_D5,80
 
-「くすくすくすくす……。@やっぱり答えてはもらえないかしら？@　じゃあこちらで勝手に想像するしかないわね。@……もう家に帰っていたのかしら？@　それとも職員室でお仕事かしら？@　それとももしかして………。@……まさか、この美術室に…？」@
-
-「……………………。」\
-
+;「くすくすくすくす……。@やっぱり答えてはもらえないかしら？@　じゃあこちらで勝手に想像するしかないわね。@……もう家に帰っていたのかしら？@　それとも職員室でお仕事かしら？@　それとももしかして………。@……まさか、この美術室に…？」@
+`"Hehehehehe.... `@`You're not going to answer are you? `@`Well then, guess I'm just gonna have to make my best guess.`@`... Were you already safe at home? `@`Or maybe you were still doing work in the staff room? `@`Or maybe......`@`...Maybe you were in this very art room...?"`@
+;「……………………。」\
+`".........."\
 ld r,RUN_D1,22
 ld r,RUN_D5,80
 
-「先生はこの美術室にいたんじゃない？@　野田裕貴くんと一緒に。」@
+;「先生はこの美術室にいたんじゃない？@　野田裕貴くんと一緒に。」@
+`"Were you here in this art room, sensei? `@`Were you with Yuuki when he died?"`@
 br
-　その瞬間、フラッシュバックのようにあの日の出来事が思い出される……。\
-
+;　その瞬間、フラッシュバックのようにあの日の出来事が思い出される……。\
+` For an instant she had a flashback like memory to that day...`\
 bg white,28
 bg black,8
 mono 1
@@ -3346,20 +3364,23 @@ ld c,NOD_D6,22
 
 me1v 16,50
 
-　最初に脳裏に映像として浮かんだのは右手だった。@
-　突き出された自分の右手。@その手が裕貴の背中を押す。\
-
+;　最初に脳裏に映像として浮かんだのは右手だった。@
+` The first image that appeared in her mind was that of a right hand.`@
+;　突き出された自分の右手。@その手が裕貴の背中を押す。\
+` Her right hand to be specific. `@`Reaching out and pushing on Yuuki's back.`\
 ;se1 10
 cl c,25
 ;se2 13
 quakey 2,200
 
-　テーブルの下に勢い良く倒れ込む裕貴。@
+;　テーブルの下に勢い良く倒れ込む裕貴。@
+` Yuuki falling underneath the table.`@
 br
-　ぐらりと大きく揺れるテーブルの支柱。@
+;　ぐらりと大きく揺れるテーブルの支柱。@
+` The legs shaking beneath the table.`@
 br
-　彼に覆いかぶさる様に倒れていく石膏像。\
-
+;　彼に覆いかぶさる様に倒れていく石膏像。\
+` The plaster figure falling down onto him.`\
 bg black,29
 mono 0
 
@@ -3370,55 +3391,69 @@ mono 0
 ;wait 500
 bg blood_1aR,2
 
-　………広がっていく赤い染み………。@
+;　………広がっていく赤い染み………。@
+` .....An expanding red stain....`@
 br
-　その真っ赤な染みの上で、まるで眠っているような野田裕貴……。@
+;　その真っ赤な染みの上で、まるで眠っているような野田裕貴……。@
+` And lying on that stain, almost as if sleeping, Yuuki Noda...`@
 br
-　それらが質の悪いスライドショーのように浮かび上がる。\
-
+;　それらが質の悪いスライドショーのように浮かび上がる。\
+` It played out in her memory like a bad quality slideshow.`\
 bg black,22
 mono 1
 bg bijutu_03,22
 
 
-「………どうして。」@
+;「………どうして。」@
+`"....Why?"`@
 br
-　言葉が思わず漏れる。\
+;　言葉が思わず漏れる。\
+` The words unconsciously escaped her mouth.`\
 
-「…………どうして、……あんなことに………。」@
+;「…………どうして、……あんなことに………。」@
+`".....Why... Why did you....."`@
 br
-　裕貴くん、と呻くように彼の名を呼ぶ。\
-
-　……そんなつもりはなかった。@
-　あの日私が彼に右手を伸ばしたのは、突き飛ばすためなんかじゃない。@
+;　裕貴くん、と呻くように彼の名を呼ぶ。\
+` She called out Yuuki's name with a groan.`\
+;　……そんなつもりはなかった。@
+` ....I didn't mean for that to happen.`@
+;　あの日私が彼に右手を伸ばしたのは、突き飛ばすためなんかじゃない。@
+` When I reached out my hand, I didn't mean to shove you away.`@
 br
-　むしろ逆。@
-　彼を手放したくなかったからだ。@それなのに、どうして………。\
-
+;　むしろ逆。@
+` It was the opposite.`@
+;　彼を手放したくなかったからだ。@それなのに、どうして………。\
+` I didn't want to let you go. `@`Why? Why did that happen....?`\
 
 bg black,22
 mono 0
 
 me2v 28,50
 
-　その、心のわずかの隙間から、……ぬるりとルノワールが入り込む。\
-
-　くす、くすくすくすくすくす……。@
-　いいわ、すごくいい。@
-　その身勝手な後悔、独りよがりの罪悪感。@
+;　その、心のわずかの隙間から、……ぬるりとルノワールが入り込む。\
+` Renoir slipped in.... through that small gap in her heart.`\
+;　くす、くすくすくすくすくす……。@
+` Hehe, hehehehe....`@
+;　いいわ、すごくいい。@
+` Good, very good.`@
+;　その身勝手な後悔、独りよがりの罪悪感。@
+` Selfish regret, conceited guilt.`@
 br
-　……素敵よ、今のあなたの魂。@
-　どんどん素敵な味付けになって、本当にとっても美味しそう。@
+;　……素敵よ、今のあなたの魂。@
+` ....Your soul is so wonderful right now.`@
+;　どんどん素敵な味付けになって、本当にとっても美味しそう。@
+` It's getting seasoned with such a delightful flavor, and it looks so tasty.`@
 br
-　くすくす、くすくすくすくすくすくすくすくす…！！\
-
+;　くすくす、くすくすくすくすくすくすくすくす…！！\
+` Hehehe, hehehehehehehe...!!`\
 bg bijutu_03,0
 ld c,RUN_D10,22
 
-　ルノワールがパチリと指を鳴らす。@
+;　ルノワールがパチリと指を鳴らす。@
+` Suddenly, Renoir snapped her fingers.`@
 br
-　すると机の引き出しがガタガタッと手品のようにひとりでに開いた。\
-
+;　すると机の引き出しがガタガタッと手品のようにひとりでに開いた。\
+` And like magic the desk's drawer opened on its on.`\
 E_A
 
 se1 1010
@@ -3434,28 +3469,32 @@ bg white,23
 
 me1v 17,50
 
-　あっと声を上げる間もなく、その中に入っていた大量の紙が生き物の様に舞い上がる。@
+;　あっと声を上げる間もなく、その中に入っていた大量の紙が生き物の様に舞い上がる。@
+` Before Shintani could even say a word, dozens of papers came dancing out of that drawer as if they were alive.`@
 br
-　美術室を覆い隠すかのように散らばるたくさんの紙。@紙、紙、紙……。\
-
+;　美術室を覆い隠すかのように散らばるたくさんの紙。@紙、紙、紙……。\
+` Papers scattered about everywhere, covering the art room. `@`Papers, papers, papers....`\
 ;se1 34
 se1 1010
 bg aka1,23
 
 bgm1 30
 
-　それは絵だった。@
+;　それは絵だった。@
+` They were drawings.`@
 br
-　裸の少年が描かれた無数のスケッチだった。\
-
-　眠っている少年、縛られている少年。@
+;　裸の少年が描かれた無数のスケッチだった。\
+` Countless sketches of naked boys.`\
+;　眠っている少年、縛られている少年。@
+` Sleeping boys, bound boys.`@
 br
-　ペンティングナイフによって赤い筋を浮かび上がらせる少年。@
+;　ペンティングナイフによって赤い筋を浮かび上がらせる少年。@
+` Boys covered in red steaks from a palette knife.`@
 br
-　火のついた煙草を押し付けられ、熱さと痛みに必死に耐える少年、蹂躙され泣きわめく少年……。\
-
-　余りにも背徳的なそのスケッチは、@唖然とする新谷の目の前に、スライドショーの様に次々と突きつけられる。\
-
+;　火のついた煙草を押し付けられ、熱さと痛みに必死に耐える少年、蹂躙され泣きわめく少年……。\
+` Boys frantically enduring the pain and heat of being burned by a cigarette. Boys crying out from being trampled on....`\
+;　余りにも背徳的なそのスケッチは、@唖然とする新谷の目の前に、スライドショーの様に次々と突きつけられる。\
+` These excessively immoral sketches, `@`flew one after another past a Shintani's dumbfounded face like a slideshow.`\
 bg black,23
 bg bijutu_02,23
 
@@ -3463,11 +3502,13 @@ mld c,RUN_D1,6
 lsp bgsp2,":a;bmp\background\efe\black1.bmp",0,0,255
 print 6
 
-　ゆらりと……、ルノワールは立ち上がる。@
-　その表情は暗く陰り、見えない。@
+;　ゆらりと……、ルノワールは立ち上がる。@
+` Slowly... Renoir stood up.`@
+;　その表情は暗く陰り、見えない。@
+` Her face was shrouded in darkness, her expression could not be seen.`@
 br
-　しかし、不気味でおぞましい、赤黒い妖気のようなものが全身から立ち上っていた。\
-
+;　しかし、不気味でおぞましい、赤黒い妖気のようなものが全身から立ち上っていた。\
+` But, an oddly horrifying red and black energy surrounded her whole body.`\
 csp -1
 print 0
 mcl c,0
@@ -3478,11 +3519,13 @@ bg white,23
 se3 1010
 bg aka3,23
 
-　舞い飛ぶ無数のスケッチの中から数枚が飛び出て、新谷の眼前に突き付けられる。@
+;　舞い飛ぶ無数のスケッチの中から数枚が飛び出て、新谷の眼前に突き付けられる。@
+` Among the countless sketches dancing around the room, there were a few pages that stood out to Shintani as her eyes passed over them.`@
 br
-　それはあの日、最後に描いた野田裕貴のスケッチだった。@
-　傷だらけの身体。@やつれた顔。@憂いを帯び、必死に何かに耐えるようなその表情……。\
-
+;　それはあの日、最後に描いた野田裕貴のスケッチだった。@
+` They were the unfinished sketches of Yuuki Noda from that day.`@
+;　傷だらけの身体。@やつれた顔。@憂いを帯び、必死に何かに耐えるようなその表情……。\
+` His body covered in cuts and bruises. `@`His face looking worn out. `@`His expression of desperate perseverance, with a hint of sadness...`\
 ld c,RUN_D1,22
 ld c,RUN_D10,80
 
