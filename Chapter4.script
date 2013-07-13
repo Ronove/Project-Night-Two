@@ -3528,78 +3528,86 @@ br
 ` His body covered in cuts and bruises. `@`His face looking worn out. `@`His expression of desperate perseverance, with a hint of sadness...`\
 ld c,RUN_D1,22
 ld c,RUN_D10,80
-
-「ふふふふふ、……うふふふふふふふふふ……。@さぁ、これが、美術室のルノワールの最後の問題。@……さぁ、新谷先生、答えてちょうだい。@……この絵を描いたのは、一体、だぁれ……？」\
-
+;「ふふふふふ、……うふふふふふふふふふ……。@さぁ、これが、美術室のルノワールの最後の問題。@……さぁ、新谷先生、答えてちょうだい。@……この絵を描いたのは、一体、だぁれ……？」\
+`"Fufufufu... Ufufufufufufu.... `@`Now, this is the final question of Renoir of the Art Room.`@`... Answer this for me, Shintani-sensei.`@`... Who drew all these pictures...?"`\
 bg black,22
 mono 1
 bg e020,22
 
-　これらのスケッチは、……証だ。@
+;　これらのスケッチは、……証だ。@
+` These sketches are... proof.`@
 br
-　新谷ナフミが、野田裕貴の白くて幼い体を……、欲望の限り陵辱したことを示す、証だ。\
-
-　そしてそれを、認めなければならない。@
+;　新谷ナフミが、野田裕貴の白くて幼い体を……、欲望の限り陵辱したことを示す、証だ。\
+` Indisputable proof.... that Nafumi Shintani lustfully assaulted the young, pale body of Yuuki Noda.`\
+;　そしてそれを、認めなければならない。@
+` And now she had to admit it.`@
 br
-　ルノワールが指した絵の作者を、偽りなく答えなければならない。\
-
+;　ルノワールが指した絵の作者を、偽りなく答えなければならない。\
+` She had to truthfully answer the name of the artist of the pictures that Renoir was pointing to.`\
 bg black,22
 locate 0,5
 
-「さぁ、教えてちょうだい、新谷先生っ…！！@　この絵の作者は誰かしら…！！」\
-
+;「さぁ、教えてちょうだい、新谷先生っ…！！@　この絵の作者は誰かしら…！！」\
+`"Come on, answer me, Shintani-sensei...!! `@`Who drew these pictures...?!"`\
 me2v 28,50
 
 mono 2
 print 0
 bg Different_spiral_1b,22
 
-　認めろということ。@
+;　認めろということ。@
+` And by admitting to them...`@
 br
-　スケッチには日付と時間までも記されている。@
-　それを認めれば、野田裕貴が死ぬ直前に、誰が一緒にいて何をしていたのかをも認めることになる。\
-
-　あれは事故ということになったんだ。@それもただの事故じゃない。@
+;　スケッチには日付と時間までも記されている。@
+` The date and time are written on those sketches.`@
+;　それを認めれば、野田裕貴が死ぬ直前に、誰が一緒にいて何をしていたのかをも認めることになる。\
+` By admitting to them, she is admitting what she was doing and who she was with just before the death of Yuuki Noda.`\
+;　あれは事故ということになったんだ。@それもただの事故じゃない。@
+` It was an accident. `@`But it wasn't just any old accident.`@
 br
-　彼がひとりで美術室に入り込んで、ひとりで事故に遭ったという、単独事故ということに…！！\
-
-　なのにそれを認めろと？@　嫌だ、嫌だ、冗談じゃないッ！\
-
+;　彼がひとりで美術室に入り込んで、ひとりで事故に遭ったという、単独事故ということに…！！\
+` He went into the art room alone, and had a horrible accident all by himself...!!`\
+;　なのにそれを認めろと？@　嫌だ、嫌だ、冗談じゃないッ！\
+` What was there for her to admit? `@`No, no, this isn't funny!`\
 ld c,NAF_D9a,22
 
-　美術室は私の巣！@　ここは女王蜂の玉座の間！@
+;　美術室は私の巣！@　ここは女王蜂の玉座の間！@
+` The art room is my hive! `@`This is the royal throne of the queen bee!`@
 br
-　私はここに美しい、蜜の滴る子たちを連れ込んで、その白い肌を存分に貪るの…！！\
-
-　野田裕貴の件が公になれば、……私の理想郷が壊れてしまう。@
+;　私はここに美しい、蜜の滴る子たちを連れ込んで、その白い肌を存分に貪るの…！！\
+` This is where all the beautiful little bees bring me their honey, and I can covet their pale white skin as much as I want...!!`\
+;　野田裕貴の件が公になれば、……私の理想郷が壊れてしまう。@
+` If the case of Yuuki Noda's death goes public... my paradise will be ruined.`@
 br
-　私の巣が、壊されてしまう……！！\
-
+;　私の巣が、壊されてしまう……！！\
+` My hive will be broken....!!`\
 bg black,22
 mono 0
 bg bijutu_03,0
 ld c,RUN_D5,22
 ld c,RUN_D10,80
 
-「うふふふふふッ、うっふふふふふふふふふふふ！！@　さぁさぁ！！@　答えてちょうだい、教えてちょうだい！！@　これらの絵の作者は誰だと言うのかしら…？！」\
-
-「……………………。@/
+;「うふふふふふッ、うっふふふふふふふふふふふ！！@　さぁさぁ！！@　答えてちょうだい、教えてちょうだい！！@　これらの絵の作者は誰だと言うのかしら…？！」\
+"Ufufufufufu! Ufufufufufufufufu!! `@`Come on!! `@`Answer me, tell me!! `@`Tell me who drew these pictures...!!"`\
+;「……………………。@/
+`".........`@/
 E_A
-……新谷ナフミ。@……私よ。」\
-
+;……新谷ナフミ。@……私よ。」\
+`....Nafumi Shintani.`@`.... I did."`\
 se1v 1006,50
 mbg white,1
 ld c,RUN_D6a,0
 mcbg 22
 
-　新谷が、冷酷にそう答えた時。@……びしりとガラスにひびが入るような音がして、@……ルノワールの動きが止まった。\
-
+;　新谷が、冷酷にそう答えた時。@……びしりとガラスにひびが入るような音がして、@……ルノワールの動きが止まった。\
+` Shintani replied coldly.`@`... and suddenly the sound of glass being broken echoed through the room.`@`... and Renoir stopped moving.`\
 me1v 16,50
 
-　……ルノワールの胸に、大きなひびが入っているのがわかる。@
+;　……ルノワールの胸に、大きなひびが入っているのがわかる。@
+` ...A huge crack streaked across Renoir's chest.`@
 br
-　そして、ぶるりと震えた後、……それは木っ端微塵になって砕け散った。\
-
+;　そして、ぶるりと震えた後、……それは木っ端微塵になって砕け散った。\
+` And then, after suddenly shaking... she broke into a million pieces.`\
 E_A
 se1v 1006,100
 mbg white,1
@@ -3619,14 +3627,15 @@ bgm1 27
 
 ;■これ以降、立ち絵は彼岸花に。@
 
-　その後には、……先ほどまでの姿とはまったく異なる、黒髪の女生徒の姿があった。@
+;　その後には、……先ほどまでの姿とはまったく異なる、黒髪の女生徒の姿があった。@
+` Then... standing there was an entirely different black haired girl.`@
 br
-　……なるほど。@どうやらこれが、この妖怪の真の姿らしい。\
-
+;　……なるほど。@どうやらこれが、この妖怪の真の姿らしい。\
+` ...I see. `@`This must be the youkai's true form.`\
 ld c,HIG_W6,80
 
-「へ……ぇ……。@……まさか、……堂々と答える……、なんてね………。」\
-
+;「へ……ぇ……。@……まさか、……堂々と答える……、なんてね………。」\
+`"O...h....`@`... I didn't.... think.... you would answer.... so confidently......`\
 bg black,24
 bg bijutu_04,24
 mld c,NAF_D2,6
@@ -3636,51 +3645,55 @@ mld c,NAF_D7,80
 
 me1v 17,50
 
-「そうよ。@その絵は私が描いた。@……だから何……？」@
+;「そうよ。@その絵は私が描いた。@……だから何……？」@
+`"It's true. `@`I drew those pictures.`@`... So what....?"`@
 br
-　新谷の表情は、妖怪のルノワールでさえ、@ごくりと唾を飲み込まずにはいられない不気味な迫力を湛えていた。\
-
+;　新谷の表情は、妖怪のルノワールでさえ、@ごくりと唾を飲み込まずにはいられない不気味な迫力を湛えていた。\
+` Shintani had such an eerie expression on her face, `@`that even the youkai Renoir had to gulp.`\
 mld c,NAF_D5,80
 
-「ふっふふふふふ。@……そうよ、そういう絵を描くのが、私の趣味なの、欲望なの、願望なの。@ごめんなさいねぇ、そういう人間で……。」\
-
-　新谷には見えていないだろう。@しかし、ルノワールには見えている。@
+;「ふっふふふふふ。@……そうよ、そういう絵を描くのが、私の趣味なの、欲望なの、願望なの。@ごめんなさいねぇ、そういう人間で……。」\
+`"Fufufufufu.`@`... That's right, doing these drawings is my hobby, my desire, my aspiration. `@`Sorry, but that's just who I am..."`\
+;　新谷には見えていないだろう。@しかし、ルノワールには見えている。@
+` Shintani probably hadn't noticed it, `@`but Renoir had.`@
 br
-　自らの邪悪な欲望を明け透けに認めた彼女の全身からは、@妖怪でさえ気圧されるような妖気が噴き出しているのだ。\
-
-　それは、新谷ナフミという人間が、人ならざる欲望を持つことを認めたということ。@
+;　自らの邪悪な欲望を明け透けに認めた彼女の全身からは、@妖怪でさえ気圧されるような妖気が噴き出しているのだ。\
+` Emanating from the body of this woman who was so bluntly professing her evil desires, `@`was a powerful energy that normally only poured from the body of a youkai.`\
+;　それは、新谷ナフミという人間が、人ならざる欲望を持つことを認めたということ。@
+` This was because the human Nafumi Shintani was admitting to such an inhuman lust.`@
 br
-　即ち、人ならざる者の世界に足を踏み入れていることを認めたということだ。\
-
-　……だから今。@新谷ナフミは、人ならざる世界の住人として、ルノワールを威圧しているのだ。@
+;　即ち、人ならざる者の世界に足を踏み入れていることを認めたということだ。\
+` In other words, she was admitting to stepping foot into the world of those that are not human at all.`\
+;　……だから今。@新谷ナフミは、人ならざる世界の住人として、ルノワールを威圧しているのだ。@
+` ...So now, `@`as a denizen of the inhuman world, Nafumi Shintani was overpowering Renoir.`@
 br
-　“美術室のルノワール”などという、か弱い怪談は今日を境に消え去る。\
-
+;　“美術室のルノワール”などという、か弱い怪談は今日を境に消え去る。\
+` Today, the pathetic ghost story of 'Renoir of the Art Room' will cease to exist.`\
 ;mcl c,0
 mld c,NAF_D6,80
 
-「そうね。@私は今日から、美術室の女王蜂を名乗ろうかしら？@　昼は可憐な教師として。@……そして夜は女王蜂として、この学校という名の巣に君臨するの。@幼く無垢で美しい働き蜂たちは、若き日の一瞬にしか持ち得ない蜜を私に捧げ、楽しませるの。」\
-
+;「そうね。@私は今日から、美術室の女王蜂を名乗ろうかしら？@　昼は可憐な教師として。@……そして夜は女王蜂として、この学校という名の巣に君臨するの。@幼く無垢で美しい働き蜂たちは、若き日の一瞬にしか持ち得ない蜜を私に捧げ、楽しませるの。」\
+`"Yes. `@`From this day forward I will be known as the Queen Bee of the Art Room. `@`During the daytime as a sweet teacher.... `@`and during the nighttime as a queen bee, I will reign over this hive called a school. `@`And the beautiful, young and pure worker bees will being to me the momentary nectar called youth so that I may satisfy myself with it."`\
 mld l,HIG_W5,22
 ;mld l,HIG_D4,80
 
-「…………素敵な妖怪だこと。@……教師たる者が生徒を働き蜂呼ばわりだなんて。@野田裕貴くんも、あなたにとってはたくさんの働き蜂の中の１匹でしかなかったの？」\
-
+;「…………素敵な妖怪だこと。@……教師たる者が生徒を働き蜂呼ばわりだなんて。@野田裕貴くんも、あなたにとってはたくさんの働き蜂の中の１匹でしかなかったの？」\
+`"......What a great youkai.`@`... A teacher who denounces her students as nothing more than worker bees. `@`Was Yuuki Noda just be another one of those many bees to you?"`\
 mcl c,0
 mld r,NAF_D2,23
 
-「……彼は本当に素敵な蜂だったわ。@彼の蜜は、濃密で鮮烈で、全身が沸き立つほどに甘美だった。@彼は忘れ難い少年よ。@……本当に惜しい子を亡くしたわ。」\
-
+;「……彼は本当に素敵な蜂だったわ。@彼の蜜は、濃密で鮮烈で、全身が沸き立つほどに甘美だった。@彼は忘れ難い少年よ。@……本当に惜しい子を亡くしたわ。」\
+`"...He was such a wonderful bee. `@`His honey was so rich and vivid that its sweetness made my whole body boil. `@`I will never forget him.`@`... With him gone, I've lost such a valuable boy."`\
 mld l,HIG_W3,80
 
-「彼はあなたのことを好きだったわ。@……もちろん、幼い彼にはその感情を自覚することも難しかっただろうけれど。」\
-
+;「彼はあなたのことを好きだったわ。@……もちろん、幼い彼にはその感情を自覚することも難しかっただろうけれど。」\
+`"He liked you, you know?`@`... Although, being such a young boy, naturally he was unable to realize it for himself."`\
 mld r,NAF_D5,80
 
-「私は知ってたわ。@あの子は私のことが好きだった。@……母性を求める年頃のはずなのに、母親とは違う女性に、なぜか惹かれる甘酸っぱい感情。@それが恋というものだと気付くには、彼はまだまだ幼かったわね。@……でも、それでいいの。@私にとって、恋なんて概念を理解してしまうほどの年齢は、賞味期限切れなのだから。」\
-
-　新谷は挑発的に、小指の先を、淫らにべろりと舐めて見せる……。\
-
+;「私は知ってたわ。@あの子は私のことが好きだった。@……母性を求める年頃のはずなのに、母親とは違う女性に、なぜか惹かれる甘酸っぱい感情。@それが恋というものだと気付くには、彼はまだまだ幼かったわね。@……でも、それでいいの。@私にとって、恋なんて概念を理解してしまうほどの年齢は、賞味期限切れなのだから。」\
+`"I know he did. `@`He liked me.`@`... He was at an age where he should be wanting his mother's affection, but for some reason he was longing for another woman. It was a bittersweet feeling. `@`He was too young too realize that what he felt was love.`@`... But, that was fine. `@`Because I'm too old to feel such young love."`\
+;　新谷は挑発的に、小指の先を、淫らにべろりと舐めて見せる……。\
+` Shintani provocatively licked the end of her little finger in an obscene manner...`\
 csp -1
 print 0
 mcl a,0
@@ -3691,29 +3704,36 @@ mono 1
 bg bijutu_03,0
 ld c,NOD_D3,22
 
-　確かに野田裕貴は魅力的な子だった。@
+;　確かに野田裕貴は魅力的な子だった。@
+` Yuuki Noda certainly was a charming young boy.`@
 br
-　白く無垢な肌だけではない。@
-　私への恋心を逆手に取り、獣欲の全てを受け止めさせることが出来た。\
-
-　女王蜂は、かしずかれなくては君臨できない。@
-　女王蜂に心から心酔し、敬服する働き蜂でなくては、仕える資格がないのだ。@
+;　白く無垢な肌だけではない。@
+` And not just because of his pure white skin.`@
+;　私への恋心を逆手に取り、獣欲の全てを受け止めさせることが出来た。\
+` By falling in love with me he was able to turn the tables and accept all of my lust.`\
+;　女王蜂は、かしずかれなくては君臨できない。@
+` If no one serves the queen bee she cannot reign.`@
+;　女王蜂に心から心酔し、敬服する働き蜂でなくては、仕える資格がないのだ。@
+` If a worker bee does not have the admiration and adoration of their queen, they are not qualified to serve.
 br
-　野田裕貴はその資格があった。@だから私に仕えることが許された。\
-
+;　野田裕貴はその資格があった。@だから私に仕えることが許された。\
+` Yuuki Noda had those qualifications. `@`So I allowed him to serve me.`\
 bg black,22
 
 mono 0
 
 bg aka3,22
 
-　でも、ここは蜂の巣。@無数の働き蜂たちがひしめいている。@
-　私に蜜を運んでくれる働き蜂は、彼だけじゃない。@
-　彼には私に仕える資格があっただけ。\
-
+;　でも、ここは蜂の巣。@無数の働き蜂たちがひしめいている。@
+` But this is a bee's hive. `@`And countless worker bees are busting in it.`@
+;　私に蜜を運んでくれる働き蜂は、彼だけじゃない。@
+` He isn't the only worker bee that brings me his honey.`@
+;　彼には私に仕える資格があっただけ。\
+` It's just that he was qualified to serve me.`\
 bg black,22
 
-　失った今だから傲慢に言い切ろう。@彼が、最高の美の結晶だったわけじゃない。@
+;　失った今だから傲慢に言い切ろう。@彼が、最高の美の結晶だったわけじゃない。@
+` Now that he is gone I will declare it with great pride. `@`He was not the most beautiful gem around.`@
 br
 　彼よりも美しい子は他にもいる。@私に気がある子は他にもいる。\
 
