@@ -1087,7 +1087,7 @@ ld l,HIG_D10,80
 ld r,SHU_D1,80
 
 ;「嫌な感情は、こうしてスケッチブックに吐き出して閉じ込めるんだ。@……絵になれば、それはもうただの感情じゃない。@今日、僕が確かに経験した、生きた証になるんだよ。」\
-`"I fill this book with my bad feelings.`@`...The pictures aren't just any normal emotions.`@`Today, I surely experienced proof of living."`\
+`"I fill this book with my bad feelings.`@`...The pictures aren't just any normal emotions.`@`Today, it's a proof of living."`\
 ld l,HIG_D9,80
 
 ;「…………………？」\
@@ -1106,37 +1106,40 @@ bg black,22
 ;cl r,0
 ;ld l,SHU_D4,24
 
-「簡単に言えば、今日を生きた記録。@……日記みたいなものかなぁ。」\
-
+;「簡単に言えば、今日を生きた記録。@……日記みたいなものかなぁ。」\
+`"In a nutshell, it's a record of my life.`@`...like a diary, I guess."`\
 bg gakkou_02,22
 ld r,HIG_D8,22
 
-「形ある者は、ただ在り続けるために生きているんでしょう？@　それを記録することに、価値なんてあるの…？」\
-
+;「形ある者は、ただ在り続けるために生きているんでしょう？@　それを記録することに、価値なんてあるの…？」\
+`"Do people with form live just to continue existing?`@`Is there any value in that?"`\
 ld l,SHU_D1,23
 
-「それって、生きるために生きることが、ただ生きるための目的、ってこと？」@
-
+;「それって、生きるために生きることが、ただ生きるための目的、ってこと？」@
+`"You mean, life's objective is just to live?"`@
 ld r,HIG_D10,80
 
-「……そうじゃないの？」\
-
+;「……そうじゃないの？」\
+`"...Isn't it?"`\
 ld l,SHU_D3,80
 
-「それだけじゃ、面白くないんじゃないかなぁ。」@
-
+;「それだけじゃ、面白くないんじゃないかなぁ。」@
+`"I wonder it's just for fun...."`@
 ld r,HIG_D9,80
 
-「…………………………。」\
-
-　面白く、ない。@
+;「…………………………。」\
+`"................."`\
+;　面白く、ない。@
+`"It's not fun.`@
 br
 　……………その一言は、彼女を毎日苛む、不思議な感情を、短く正確に捉えていた。\
 
 bg black,22
 
-　そうだ。@私は今日まで、生きていて楽しいと思ったことはない。@
-　ただ死にたくないから生きてきただけだ。@
+;　そうだ。@私は今日まで、生きていて楽しいと思ったことはない。@
+` Yes.`@`I never thought of living just for fun.`@
+;　ただ死にたくないから生きてきただけだ。@
+` I just lived because I didn't want to die.`@
 br
 　生きることで何かを得られるから生きているわけじゃない。\
 
@@ -1146,39 +1149,45 @@ bg usagi_01,22
 
 ;ld l,HIG_D10,80
 
-「じゃあ。@……あなたは日々、何が面白いって言うの。」\
-
+;「じゃあ。@……あなたは日々、何が面白いって言うの。」\
+`"Well...`@`What do you say is fun every day?"`\
 ld c,SHU_D3,22
 
-「感情だよ。@喜怒哀楽。@色んなことを日々、感じるでしょ？」@
-
+;「感情だよ。@喜怒哀楽。@色んなことを日々、感じるでしょ？」@
+`"Feelings.`@`Emotions.`@`Don't you feel many of them daily?"`@
 ;ld l,HIG_D9,80
 
-「…………………………。」\
-
+;「…………………………。」\
+`"..............."`\
 ld c,SHU_D1,80
 
-「それを率直に楽しむんだよ。@それを、僕はスケッチブックに描いてるんだ。@……見て。@ほら。」@
+;「それを率直に楽しむんだよ。@それを、僕はスケッチブックに描いてるんだ。@……見て。@ほら。」@
+`"To be quite frank, I'm drawn to these feeling.`@`I put them all into my sketchbook.`@`Here,`@`look."`@
 br
-　少年はスケッチブックを捲り、過去のページのいくつかを私に見せる。\
-
+;　少年はスケッチブックを捲り、過去のページのいくつかを私に見せる。\
+` The boy flipped through some of the previous pages to show me what he had drawn in the past.`\
 se1v 1010,30
 
 bg white,22
 bg Air_02,22
 
-「この日の気持ち、わかるかなぁ。」@
-「…………………………。」@
+;「この日の気持ち、わかるかなぁ。」@
+`"I wonder if I can understand the feelings of those days."`@
+;「…………………………。」@
+`".............."`@
 br
-　柔らかな線、躍動する線が、何か豊かな感情を示してる。\
-
-「これは、とても嬉しいことがあった日の感情。@じゃあ、これはわかる？」@
+;　柔らかな線、躍動する線が、何か豊かな感情を示してる。\
+` The soft yet vivacious lines described something emotional.`\
+;「これは、とても嬉しいことがあった日の感情。@じゃあ、これはわかる？」@
+`"Something was happy on this day.`@`Do you understand this?"`@
 se1v 1010,30
-「…………………………。」@
+;「…………………………。」@
+`".............."`@
 br
-　少し深くて、わずかに重い線。@何かの失敗か後悔を感じさせる。\
-
-「これは、友達との約束をうっかり忘れて、失敗してしまった時の感情。@じゃあ、これは？」\
+;　少し深くて、わずかに重い線。@何かの失敗か後悔を感じさせる。\
+` These lines were deep, and heavy.`@`Regret or failure or something.`\
+;「これは、友達との約束をうっかり忘れて、失敗してしまった時の感情。@じゃあ、これは？」\
+`"This is when I felt sad at forgetting an appointment with a friend.`@`And this?"`\
 se1v 1010,30
 
 bg black,22
