@@ -1193,63 +1193,77 @@ se1v 1010,30
 bg black,22
 ;bg Different_spiral_1b,22
 
-　暖かさを感じさせる豊かな線が描く絵。@
+;　暖かさを感じさせる豊かな線が描く絵。@
+` It was a picture drawn with warm, rich lines.`@
 br
-　逆に、殺伐とした荒涼感を覚えさせる絵。@
+;　逆に、殺伐とした荒涼感を覚えさせる絵。@
+` On the contrary though, the picture made one remember savage thoughts and feelings.`@
 br
-　ほとばしる稲妻のような線が描く絵に、柔らかな春の芽吹きのような線が描く絵。\
+;　ほとばしる稲妻のような線が描く絵に、柔らかな春の芽吹きのような線が描く絵。\
+` The lines were drawn like an discharge of lightning, and like the soft buds of spring.`\
 
 
 
-
-　それらは、日記としては確かに未熟だろう。@
-　その絵だけを見て、その日に何があったのか、想像することは難しい。@
+;　それらは、日記としては確かに未熟だろう。@
+` They certainly weren't yet a diary.`@
+;　その絵だけを見て、その日に何があったのか、想像することは難しい。@
+` If you only looked at the pictures, it was still difficult to imagine what happened on those days.`@
 br
-　……しかし、感情だけはわかる。@
-　その絵を描いた時、彼がどんな感情を持っていたか。@それを読み取ることだけは出来るのだ。\
-
+;　……しかし、感情だけはわかる。@
+` ....However, the emotions behind them were understood.`@
+;　その絵を描いた時、彼がどんな感情を持っていたか。@それを読み取ることだけは出来るのだ。\
+` 'What feelings did he have on the day he drew that picture?'`@`You could gather that from his sketches.`\
 ;bg black,22
 mld r,HIG_D9,22
 ;mld r,HIG_D1,80
 
-　だから。@彼のスケッチブックは、ページを捲るごとに様々な感情が、まるで玉手箱のように飛び出した。@
+;　だから。@彼のスケッチブックは、ページを捲るごとに様々な感情が、まるで玉手箱のように飛び出した。@
+` That why,`@`as he turned each page, various emotions jumped out like a Jack-in-the-Box.`@
 br
-　それは、……私にとってあまりに斬新で新鮮な驚きだった……。\
-
-　感情。@
-　理念はわかる。@
-　自分の状況に対する、心が示す色だ。@
+;　それは、……私にとってあまりに斬新で新鮮な驚きだった……。\
+` It was a fresh and novel surprise for me.`\
+;　感情。@
+` Emotions.`@
+;　理念はわかる。@
+` I understand the notion of 'emotions'.`@
+;　自分の状況に対する、心が示す色だ。@
+` It's the color of your heart, indicative of your situation.`@
 br
-　色？@　……私の、ただ生きる日々に、色などあっただろうか？\
-
+;　色？@　……私の、ただ生きる日々に、色などあっただろうか？\
+` Color?`@`...The days I was alive had color?`\
 ;mld r,HIG_D10,80
 
-　ただ、生きるだけ。@
+;　ただ、生きるだけ。@
+` I was just living.`@
 br
-　何も面白くない、ただ生きるためだけに生きる日々に、色など、あるわけもない。\
-
+;　何も面白くない、ただ生きるためだけに生きる日々に、色など、あるわけもない。\
+` Nothing was interesting or colorful about those days I was just living for the sake of living.`\
 ;mld r,HIG_D1,80
 
-　しかし、このスケッチブックにはそれがある。@
-　愉快な感情だけじゃない。@不愉快な感情の数々さえ、それらはまるでハーモニーのよう。@
+;　しかし、このスケッチブックにはそれがある。@
+` But they were in this sketchbook.`@
+;　愉快な感情だけじゃない。@不愉快な感情の数々さえ、それらはまるでハーモニーのよう。@
+` Not just pleasant feelings.`@`Unpleasant ones were numerous, but both seemed to exist in perfect harmony.`@
 br
-　ページを捲る度に、数々の感情が歌い出す驚きに、@……私は、ただただ、茫然とするしかなかった……。\
-
+;　ページを捲る度に、数々の感情が歌い出す驚きに、@……私は、ただただ、茫然とするしかなかった……。\
+` Every time he turned a page, I was stunned.`@`The many feelings seemed to just sing from the paper...`\
 bg gakkou_03,0
 ld l,SHU_D1,22
 ld l,SHU_D4,80
 
-「彼岸花さんって、妖怪なんでしょ？@　妖怪って、日々、どんな感情で生活しているの？」@
-
+;「彼岸花さんって、妖怪なんでしょ？@　妖怪って、日々、どんな感情で生活しているの？」@
+`"You're a monster, right Higanbana-san?`@`What feelings do monsters have day-to-day?"`@
 mld r,HIG_D9,80
 
-「………………………………。」\
-
-　何も、答えることなど思いつかない。@
-　ただ、生きるためだけに生きる日々。@そこに感情など存在しない。@
+;「………………………………。」\
+`"................."`\
+;　何も、答えることなど思いつかない。@
+`"She couldn't think of an answer.`@
+;　ただ、生きるためだけに生きる日々。@そこに感情など存在しない。@
+` Emotions didn't exist.`@`Not in those days she lived just for the sake of living.`@
 br
-　だからつまり。@……自分の存在など、@このスケッチブックの前には、消しゴムのカスほどの存在価値もなかった。\
-
+;　だからつまり。@……自分の存在など、@このスケッチブックの前には、消しゴムのカスほどの存在価値もなかった。\
+` In other words,`@`her existence,`@`wasn't present even in the eraser dregs used for these sketches.`\
 mcl r,0
 bg black,22
 
