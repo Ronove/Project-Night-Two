@@ -1272,17 +1272,22 @@ me1v 5,50
 bg Air_02,22
 
 
-　だから、私は初めて思った。@
-　自分を、………不憫な存在だと思った。@
+;　だから、私は初めて思った。@
+` So for the first time I thought.`@
+;　自分を、………不憫な存在だと思った。@
+` I thought of my own pitiful existence.`@
 br
 　何も口に出来ず、俯く私に、……気付けば彼は、スケッチブックを向けていた。\
 
-「…………何を……？」@
-「今日。@……学校に住む妖怪と出会えたという驚きの感情を書き留めてるんだよ。@ほら。」@
+;「…………何を……？」@
+`"....What?"`@
+;「今日。@……学校に住む妖怪と出会えたという驚きの感情を書き留めてるんだよ。@ほら。」@
+`"Today,`@`I'm drawing the feelings of having met a monster that lives in the school.`@`Look."`@
 br
-　彼が、ほらと見せるスケッチブックのそこには。@
-　……茫然と立ち尽くす自分の姿が、新鮮な驚きに満ちた線で、描き出されていた……。\
-
+;　彼が、ほらと見せるスケッチブックのそこには。@
+` There, in his sketchbook...`@
+;　……茫然と立ち尽くす自分の姿が、新鮮な驚きに満ちた線で、描き出されていた……。\
+` my appearance was portrayed, standing motionless and surprised...`\
 bg black,22
 bg gakkou_08,0
 ld r,SHU_D4,0
@@ -1290,12 +1295,12 @@ ld l,HIG_D10,22
 
 ld l,HIG_D9,80
 
-「…………あなた。@……何者……？」@
-
+;「…………あなた。@……何者……？」@
+`"...Who are you...?"`@
 ld r,SHU_D1,80
 
-「ただの人間だよ。@名前は、有森秋一（ありもり　しゅういち）。」\
-
+;「ただの人間だよ。@名前は、有森秋一（ありもり　しゅういち）。」\
+`"Just a human.`@`My name is Arimori Shuuichi (有森秋一)"`\
 bg white,42
 bg black,2
 
@@ -1310,15 +1315,18 @@ bg rouka_04,22
 
 bgm1 10
 
-「ギャアギャア！！@　恐ろしや恐ろしや！！@　保健室には近寄るな、近寄るな！！」@
-「保健室には恐ろしい妖怪が住み着いているゾ！！」@
-「そやつの名は、踊る彼岸花！@　残酷な残酷な妖怪だぞ！！」\
-
+;「ギャアギャア！！@　恐ろしや恐ろしや！！@　保健室には近寄るな、近寄るな！！」@
+`"Gyagyaaaaa!!`@`The horror! The horror!`@`Keep away from the Infirmary!! Keep away!!"`@
+;「保健室には恐ろしい妖怪が住み着いているゾ！！」@
+`"A horrible monster is living in there!!"`@
+;「そやつの名は、踊る彼岸花！@　残酷な残酷な妖怪だぞ！！」\
+`"The Dancing Higanbana!`@`A monster cruel beyond measure!!"`\
 bg rouka_03,22
 
-「ならばきっと、たっぷりの妖力を蓄えているはず！@　喰らえば、それは全て我らのものよ！！」@
-「喰わせろ、彼岸花ぁああぁあ！！@　お前の手を足を、頭を肝を心の臓を食い千切らせろぉおお！！」\
-
+;「ならばきっと、たっぷりの妖力を蓄えているはず！@　喰らえば、それは全て我らのものよ！！」@
+`"But then she's packed to the brim with energy!`@`If we consume her, it'll all be ours!"`@
+;「喰わせろ、彼岸花ぁああぁあ！！@　お前の手を足を、頭を肝を心の臓を食い千切らせろぉおお！！」\
+`"We'll eat you, Higanbanaaaaa!!`@`Your head, hands, heart and liver--we'll cut them up into a thousand pieces!!"`\
 
 bg black,0
 ld c,HIG_D8,22
@@ -1336,7 +1344,8 @@ E_MA
 se2 36
 quakey 5,600
 
-「「「キシャアアアアアアァアァッ！！」」」/
+;「「「キシャアアアアアアァアァッ！！」」」/
+`"""Gyaaaaahaaaaaaaaaaaaa!!"""`\
 quakey 2,300\
 
 bg black,28
@@ -1349,8 +1358,10 @@ se2v 36,100
 bg aka3,1
 quake 7,800
 
-　引き裂き、食い千切り。@
-　ぶちまけ、引き抜き、噛み潰す。@
+;　引き裂き、食い千切り。@
+` Shredding and eating..`@
+;　ぶちまけ、引き抜き、噛み潰す。@
+` Ripping out, throwing away and chewed up.`@
 br
 
 se3v 36,100
@@ -1358,20 +1369,22 @@ bg white,23
 bg blood_1aR,1
 quakex 2,300
 
-　壁にはべっとりと、怨嗟の内臓をぶちまけた妖怪たちの骸がはりつき、どろどろの血を滴らせる。@
-　まだ死にきれない、臓物を噴き出した妖怪たちが、苦悶に呻き、彼岸花を呪う……。\
-
+;　壁にはべっとりと、怨嗟の内臓をぶちまけた妖怪たちの骸がはりつき、どろどろの血を滴らせる。@
+` The corpses of the monsters who had ripped out guts lay slumped against the wall, in a pool of blood.`@
+;　まだ死にきれない、臓物を噴き出した妖怪たちが、苦悶に呻き、彼岸花を呪う……。\
+` They were not fully dead yet, and cursed Higanbana while still spewing entrails...`\
 bg black,22
 
 me1v 16,50
 
 bg hoken_04,22
 
-　人ならざる者たちにとって、……保健室は、異形の屍で埋め尽くされていた。@
+;　人ならざる者たちにとって、……保健室は、異形の屍で埋め尽くされていた。@
+` The Infirmary walls were plastered with the organs of those who were not human.`@
 br
 　その、内臓と血しぶきのべっとりとした部屋の中でも、……彼岸花にそれが赤く見えることはない。@
-　ただ、退屈で荒涼とした、灰色に見えるだけだった。\
-
+;　ただ、退屈で荒涼とした、灰色に見えるだけだった。\
+` It was just bleak, boring and looked gray.`\
 mbg black,22
 
 fede 1,1000
