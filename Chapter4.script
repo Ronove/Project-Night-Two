@@ -3735,109 +3735,124 @@ bg black,22
 ;　失った今だから傲慢に言い切ろう。@彼が、最高の美の結晶だったわけじゃない。@
 ` Now that he is gone I will declare it with great pride. `@`He was not the most beautiful gem around.`@
 br
-　彼よりも美しい子は他にもいる。@私に気がある子は他にもいる。\
-
+;　彼よりも美しい子は他にもいる。@私に気がある子は他にもいる。\
+` There are other kids more beautiful than he was. `@`There are other kids that I'm interested in.`\
 bg bijutu_04,22
 ld r,HIG_W3,24
 ld r,HIG_W4,80
 
-「……なんて酷い先生なのかしら。@あなたの邪まな欲望を、その身で健気に受け止めてくれたのに。@そんな彼を気の毒に思うどころか、“彼が、最高の美の結晶だったわけじゃない”？」\
-
+;「……なんて酷い先生なのかしら。@あなたの邪まな欲望を、その身で健気に受け止めてくれたのに。@そんな彼を気の毒に思うどころか、“彼が、最高の美の結晶だったわけじゃない”？」\
+`"...You're such an awful teacher. `@`He bravely accepted your wicked desires with his own body. `@`But instead of feeling sorry for him, you say 'he was not the most beautiful gem around'?"`\
 
 ld l,NAF_D6,23
 ld l,NAF_D7,80
 
-「えぇ。@彼は素晴らしかったけれども、最高ではなかったわ。@いやむしろ、その賞味期限は尽き掛けてさえいた。@……あの子は私から逃げようとしたのよ。@私にただ仕えていれば良いものを！」\
-
+;「えぇ。@彼は素晴らしかったけれども、最高ではなかったわ。@いやむしろ、その賞味期限は尽き掛けてさえいた。@……あの子は私から逃げようとしたのよ。@私にただ仕えていれば良いものを！」\
+`"Yeah. `@`He was great, but he was not the best. `@`Or rather, his usefulness just ran out.`@`... He tried to run away from me. `@`He should have just continued to serve me!"`\
 ld r,HIG_W3,80
 
-「……欲望剥き出しのあんたの戯れに、これ以上、付き合い切れなかったんでしょうよ。」@
-
+;「……欲望剥き出しのあんたの戯れに、これ以上、付き合い切れなかったんでしょうよ。」@
+`"...He played along with your shameless desires, isn't that enough?"`@
 ld l,NAF_D8,80
 
-「そういうことね。@あの時、あの瞬間、裕貴くんは私に仕える資格を失ったのよ。@……バカな子、そうしなければ、きっと死なずに済んだのに…！」\
-
+;「そういうことね。@あの時、あの瞬間、裕貴くんは私に仕える資格を失ったのよ。@……バカな子、そうしなければ、きっと死なずに済んだのに…！」\
+`"That's just the thing. `@`At that time, at that moment, he lost the qualifications to serve me.`@`... What a stupid kid, if he hadn't of done that then he wouldn't be dead right now...!"`\
 ld r,HIG_D5,80
 
-「……さんざん慰み者にしておいて、掛ける言葉が“バカな子”なの？」\
-
+;「……さんざん慰み者にしておいて、掛ける言葉が“バカな子”なの？」\
+`"...You're going to call that boy who you treated so horribly as your plaything a 'stupid kid'?"`\
 cl l,0
 mld c,NAF_D7,23
 
-「えぇ、そうよ、バカな子よ。@私のことだけを見て、私のことだけを受け入れるお人形でさえいれば良かったものを…！」\
-
+;「えぇ、そうよ、バカな子よ。@私のことだけを見て、私のことだけを受け入れるお人形でさえいれば良かったものを…！」\
+`"Yes, I will. He was a stupid kid. `@`He should have been a doll. A doll that only I could look at, and only I could play with...!"`\
 ld r,HIG_W3,80
 
-「身勝手、ここに極まれりね。@……あなたに好意を持ち、堪えられなくなる最後の一瞬まで、あなたを受け止めようとその身を捧げ続けた彼に、@……謝りたいという気持ちはわずかほどもないのね？」\
-
+;「身勝手、ここに極まれりね。@……あなたに好意を持ち、堪えられなくなる最後の一瞬まで、あなたを受け止めようとその身を捧げ続けた彼に、@……謝りたいという気持ちはわずかほどもないのね？」\
+`"You are the epitome of selfishness.`@`... He showed his affection for you and sacrificed his body for your desires until he couldn't take it anymore.`@`... and you're not even the least bit sorry?"`\
 mld c,NAF_D8,80
 
 
 se1 84
-「うふふふふ、うっふっふっふっふ！！@　そんなもの、あるわけがないでしょう！！@　私は女王蜂！@　私に好意を持つ蜂たちにかしずかれ、私は彼らの献上する蜜を楽しむの！@　私こそは美術室の女王！@　私に仕えられただけでも光栄なことなのよ？@　それを投げ出すなんて、身の程知らずの愚か者…！！@　裕貴くんに謝りたいという気持ち？@　そんなもの、これっぽっちもあるわけがない…！！@　だって私は、女王なのだから！！」\
-
+;「うふふふふ、うっふっふっふっふ！！@　そんなもの、あるわけがないでしょう！！@　私は女王蜂！@　私に好意を持つ蜂たちにかしずかれ、私は彼らの献上する蜜を楽しむの！@　私こそは美術室の女王！@　私に仕えられただけでも光栄なことなのよ？@　それを投げ出すなんて、身の程知らずの愚か者…！！@　裕貴くんに謝りたいという気持ち？@　そんなもの、これっぽっちもあるわけがない…！！@　だって私は、女王なのだから！！」\
+`"Ufufufu, UFUFUFUFU!! `@`Of course I'm not!! `@`I'm the queen bee! `@`The other bees show their affection to me and I will enjoy their honey! `@`I AM the queen of this art room! `@`It should be an honor to serve me! `@`Those who don't feel honored to are fools who need to know their place...!! `@`Am I sorry for Yuuki? `@`Not even in the slightest...!! `@`After all, I am the queen!!"`\
 mcl c,0
 bg black,22
 E_B
 
-　その時だった。@……美術室に、別の声が響いた。\
-
+;　その時だった。@……美術室に、別の声が響いた。\
+` It was at that moment.`@`.... That a different voice echoed through the art room.`\
 fede 0,1000
 E_A
 
-「…………ないんだね。@………裕貴くんに、……謝ろうという気は。」@
+;「…………ないんだね。@………裕貴くんに、……謝ろうという気は。」@
+`".....You really aren't going to.`@`..... apologize..... to Yuuki, are you?"`@
 br
-　この美術室に、自分とルノワール以外の誰がいたっけ…？！@
-　新谷は驚き、反射的に声がした方を見る。\
-
+;　この美術室に、自分とルノワール以外の誰がいたっけ…？！@
+` There's someone else in this room besides me and Renoir...?!`@
+;　新谷は驚き、反射的に声がした方を見る。\
+` Stunned, Shintani reflexively turned towards where the voice came from.`\
 bg bijutu_07,22
 
 bgm1 7
 
-　そこには、いつの間にか一人の少年が立っていた。@
+;　そこには、いつの間にか一人の少年が立っていた。@
+` A young boy was standing there.`@
 br
-　……ソファーで眠っていたはずの、……あの名も知らぬ少年だ。\
-
-「……あ、……ら……。@……目が覚めたの……？」@
-「ないんだね……。@裕貴くんに、謝ろうという気は……。」@
+;　……ソファーで眠っていたはずの、……あの名も知らぬ少年だ。\
+` ....It was that nameless boy... who should have been sleeping on the sofa.`\
+;「……あ、……ら……。@……目が覚めたの……？」@
+`"...H.... uh... `@`.... You're awake....?"`@
+;「ないんだね……。@裕貴くんに、謝ろうという気は……。」@
+`"You really aren't.... `@`going to apologize to Yuuki, are you....?"`@
 br
-　同じ言葉を、もう一度繰り返す。\
-
-　……何なの、この子……。@
-　……………………。@
+;　同じ言葉を、もう一度繰り返す。\
+` He repeated himself.`\
+;　……何なの、この子……。@
+` ...What is up with this kid...`@
+;　……………………。@
+` ..........`@
 br
-　私は何故、彼に名前を聞かなかったんだろう……？@
-　いくら、唐突に現れた上玉の獲物とは言え、@名前も聞かずにモデルを頼んでしまったりするだろうか。\
-
+;　私は何故、彼に名前を聞かなかったんだろう……？@
+` Why did I ask him his name...?`@
+;　いくら、唐突に現れた上玉の獲物とは言え、@名前も聞かずにモデルを頼んでしまったりするだろうか。\
+` How many times had she suddenly met such beautiful pray, `@`but hadn't asked their name before asking them to model?`\
 bg black,22
 mono 1
 bg bijutu_01,22
 
-　新谷は美術室に入って初めて彼を見た時の感覚を思い出そうとする。@
-　だが、それはまるで忘れかけた夢を思い出すかのような曖昧さで、つい先ほどのことのはずなのに、まるで思い出せない。\
-
-　……あの時、自分には、彼の名前を知ろうという考えが全くなかった。@まるでその考えだけを、あらかじめ誰かにごっそりと抜かれたように。@
+;　新谷は美術室に入って初めて彼を見た時の感覚を思い出そうとする。@
+` Shintani can remember the feeling she had when she first entered the art room and saw him.`@
+;　だが、それはまるで忘れかけた夢を思い出すかのような曖昧さで、つい先ほどのことのはずなのに、まるで思い出せない。\
+` But, the memory's so fuzzy, it's almost like a dream she forgot after waking up. Even though it just happened, she can barely remember it.`\
+;　……あの時、自分には、彼の名前を知ろうという考えが全くなかった。@まるでその考えだけを、あらかじめ誰かにごっそりと抜かれたように。@
+` ...I never once wondered to myself what his name was. `@`It's almost like someone else took control of her thoughts.`@
 br
-　私は一体、何に声を掛けてしまったのだろうか。@誰を描いてしまったのだろうか。\
-
+;　私は一体、何に声を掛けてしまったのだろうか。@誰を描いてしまったのだろうか。\
+` Who was I talking to again? `@`Who was I drawing?`\
 bg black,22
 mono 0
 bg kaiga_01,22
 
-　その姿が、……その後ろの絵画と重なる。@
+;　その姿が、……その後ろの絵画と重なる。@
+` The boy's visage... overlapped with that of a painting.`@
 br
-　その絵画の名は、『鞭を持つ子供』。@
-　ルノワールの作品だ。\
-
-　……描かれている少女は髪が長く、スカートを履いている。@
+;　その絵画の名は、『鞭を持つ子供』。@
+` Specifically, the painting known as 'Child with a Whip.'`@
+;　ルノワールの作品だ。\
+` The piece of art by Renoir.`\
+;　……描かれている少女は髪が長く、スカートを履いている。@
+` ...The girl in that painting has long hair and is wearing a skirt.`@
 br
-　少年の髪は短く、スカートではないけれど、………顔が、……目が、……………。\
-
-　……あぁ、今こそずっと覚えていた違和感に気付く。@
-　私はこの少年の顔をどこかで見たことがあるような気がすると、ずっと思っていたのだ。@
+;　少年の髪は短く、スカートではないけれど、………顔が、……目が、……………。\
+` This boy's hair is long, he doesn't have a skirt but..... His face... and his eyes......`\
+;　……あぁ、今こそずっと覚えていた違和感に気付く。@
+` ...Ah, I just realized what felt so out of place.`@
+;　私はこの少年の顔をどこかで見たことがあるような気がすると、ずっと思っていたのだ。@
+` I feel like I've seen that boy's face somewhere before, that's what has been bugging me.`@
 br
-　この少年は………………、\
-
+;　この少年は………………、\
+` This boy is........`\
 ;■ここで改めてルノワールの立ち絵登場。@
 
 me1v 16,50
@@ -3848,61 +3863,70 @@ wait 1000
 
 ld c,RUN_D7,80
 
-「……よく、間違われたんだ。@……僕のことを、女の子って……。」@
+;「……よく、間違われたんだ。@……僕のことを、女の子って……。」@
+`"...People make that mistake a lot.`@`.... Confusing me for a girl...."`@
 ;＜ルノワール
 
 ld l,HIG_W3,22
 ;ld l,HIG_D3,80
 
-「ルノワールの『鞭を持つ子供』は、女の子を描いた絵だとよく間違われるけれど。@本当は少年なのよね。」\
+;「ルノワールの『鞭を持つ子供』は、女の子を描いた絵だとよく間違われるけれど。@本当は少年なのよね。」\
+`"People often make the mistake of thinking that Renoir's painting, 'Child with a Whip' is a portrait of a girl. `@`Actually, it's a boy."`\
 ;＜彼岸花
 
-　この絵が描かれた当時のフランスでは。@上流階級の家では、男の子にもスカートを履かせるのが流行っていたという。@
+;　この絵が描かれた当時のフランスでは。@上流階級の家では、男の子にもスカートを履かせるのが流行っていたという。@
+` In France, at the time this painting was done, `@`it was common for upperclass families to dress their boys in skirts.`@
 br
-　……髪が長いから少女だと思い込んできたが、@……その髪をもし短くしたなら、……それはまさに、……この少年に瓜二つだった。\
-
-　ルノワールの怪談は、その容姿についても語っている。@
+;　……髪が長いから少女だと思い込んできたが、@……その髪をもし短くしたなら、……それはまさに、……この少年に瓜二つだった。\
+` ...Because the hair was so long, I assumed it was a girl....`@` but if the hair was shorter.... that kid really would... look just like this boy here.`\
+;　ルノワールの怪談は、その容姿についても語っている。@
+` That similarity was also mentioned in Renoir's ghost story.`@
 br
-“五、ルノワールは美術室に飾られた『鞭を持つ子供』に描かれた子供とそっくりの姿をしている。”\
-
-　……彼は、髪を切ったのだ。@だから、わからなかった。@
+;“五、ルノワールは美術室に飾られた『鞭を持つ子供』に描かれた子供とそっくりの姿をしている。”\
+`'Five, Renoir looks just like the kid in the painting 'Child with a Whip' hanging on the art room's wall.'`\
+;　……彼は、髪を切ったのだ。@だから、わからなかった。@
+` ...He cut his hair. `@`So I didn't realize it.`@
 br
-　それに、思い返せば彼はこうも言っているのだ。@
-　さっき、少年をモデルに絵を描いていた時の会話……。\
-
+;　それに、思い返せば彼はこうも言っているのだ。@
+` Besides, thinking back on it, he said something earlier.`@
+;　さっき、少年をモデルに絵を描いていた時の会話……。\
+` During our conversation when I was drawing him modeling...`\
 bg black,22
 mono 1
 bg bijutu_02,0
 ld r,NAF_D1,22
 
 
-『ごめんなさい、なんか、こういうの慣れてなくて………。』@
-
+;『ごめんなさい、なんか、こういうの慣れてなくて………。』@
+`"I'm sorry, I'm not really used to doing this, so...."`@
 ld r,NAF_D2,80
 
-『無理もないわよ。@モデルをやるのなんて初めてでしょ？』@
-『あ、いえ……。@その、一度だけやったことはあるんですけど、随分前のことなんで………。』\
-
-　前。@前とはいつのことだろう。@
+;『無理もないわよ。@モデルをやるのなんて初めてでしょ？』@
+`"Don't worry. `@`It's your first time being a model, right?"`@
+;『あ、いえ……。@その、一度だけやったことはあるんですけど、随分前のことなんで………。』\
+`"Ah, no... `@`Actually, I've done it once before, but that was a long time ago..."`@
+;　前。@前とはいつのことだろう。@
+` Before? `@`How long before was that?`@
 br
-　それは一月前、とか、半年前、といった程度ではなく、@もっとずっとずっと“前”だったのではないだろうか。@昔、と言い換えてもよいほどの。\
-
+;　それは一月前、とか、半年前、といった程度ではなく、@もっとずっとずっと“前”だったのではないだろうか。@昔、と言い換えてもよいほどの。\
+` He didn't mean it was a month or half a year before. `@`He must have meant much, much longer 'before.' `@`In other words, during another era.`\
 bg black,22
 
-　新谷が生まれるよりも、この学校が建てられるよりも。@
+;　新谷が生まれるよりも、この学校が建てられるよりも。@
+` From a time long before Shintani was even born, before this school was even built.`@
 br
-　例えば、そう、百年以上とか………。\
-
+;　例えば、そう、百年以上とか………。\
+` Basically, over a hundred years ago.....`\
 bg kaiga_02,22
 
-　そして、新谷は絵を描きながらこうも思った。@この少年の顔は下手な女の子よりもよっぽど可愛い、と。@女物の服でも着せて、ウィッグでも被せれば、男だと疑う者はまずいないだろう、と。\
-
-　つまり……、もしも少年の髪が長くて、女の子の服……、@例えばスカートなんかを履いていたら、きっと少年を少女と間違えてしまうだろう、ということだ。\
-
+;　そして、新谷は絵を描きながらこうも思った。@この少年の顔は下手な女の子よりもよっぽど可愛い、と。@女物の服でも着せて、ウィッグでも被せれば、男だと疑う者はまずいないだろう、と。\
+` Also, there was something else she thought to herself when she was drawing. `@`That this boy's face was cuter than most girls out there, `@`and that if he was wearing girl's clothes and a wig then very few people would even suspect him of being a male.`\
+;　つまり……、もしも少年の髪が長くて、女の子の服……、@例えばスカートなんかを履いていたら、きっと少年を少女と間違えてしまうだろう、ということだ。\
+` That is to say... if his hair was longer, and he was wearing girl's clothes.... `@`like a skirt, then he could be mistaken for a girl.`\
 bg black,22
 
-　新谷は想像する。@少年の髪が伸びて、スカートを履かされた姿を。@スカートの色は………例えば、そう、青とか………。\
-
+;　新谷は想像する。@少年の髪が伸びて、スカートを履かされた姿を。@スカートの色は………例えば、そう、青とか………。\
+` Shintani imagined what he would look like. `@`If he had longer hair, and was wearing a skirt. `@`And if the skirt was colored.... a bluish color....`\
 
 mono 0
 bg kaiga_01,22
@@ -3912,28 +3936,30 @@ bg kaiga_01,22
 ;cl c,0
 ld r,RUN_D2,22
 
-「僕が、ルノワールだよ。@……学校妖怪序列第６位“美術室のルノワール”。」@
-
+;「僕が、ルノワールだよ。@……学校妖怪序列第６位“美術室のルノワール”。」@
+`"I am Renoir.`@`... 6th Ranked among the School Youkai, 'Renoir of the Art Room'."`@
 ld l,HIG_D4,22
 
-「私は彼岸花。@学校妖怪序列第３位“踊る彼岸花”とは私のこと。」@
+;「私は彼岸花。@学校妖怪序列第３位“踊る彼岸花”とは私のこと。」@
+`"And I am Higanbana. `@`The 3rd Ranked among the School Youkai, 'The Dancing Higanbana'."`@
 br
-　わけが、……わからない。@二人とも妖怪だったのだ。\
-
+;　わけが、……わからない。@二人とも妖怪だったのだ。\
+` That... makes no sense. `@`They were both youkai?`\
 ld r,RUN_D3,80
 
-「……僕は、長いこと眠っていた妖怪でね。@……ずいぶん長いこと眠っていたから、……まだ力が全然蘇らないんだ。@……たまに姿を現すのがやっと。@それくらいの妖力しかない。@………だから、彼岸花に助けてもらったんだ。」\
-
+;「……僕は、長いこと眠っていた妖怪でね。@……ずいぶん長いこと眠っていたから、……まだ力が全然蘇らないんだ。@……たまに姿を現すのがやっと。@それくらいの妖力しかない。@………だから、彼岸花に助けてもらったんだ。」\
+`"...As a youkai, I've been asleep for a very long time.`@`... and because I was asleep for so long.... I've yet to recover all of my power.`@`... I've can only occasionally make my presense known. `@`That is how far my power has fallen.`@`... So, Higanban is helping me."`\
 ld l,HIG_W3,80
 
-「私好みの魂ではないけれど。@狩りを少し手伝うだけで分け前がもらえるなら、まぁ、引き受けないこともないわ。@くすくすくす………。」\
-
+;「私好みの魂ではないけれど。@狩りを少し手伝うだけで分け前がもらえるなら、まぁ、引き受けないこともないわ。@くすくすくす………。」\
+`"Her soul doesn't really fit my tastes. `@`But as long as I'm getting my share of it just by helping in your hunt a little, well, I guess I can't complain. `@`Teeheehee...."`\
 ld r,RUN_D1,80
 
-「ありがとう。@……あとは、……僕だけでも出来るから。」@
+;「ありがとう。@……あとは、……僕だけでも出来るから。」@
+`"Thanks.`@`... I will... handle the rest from here."`@
 br
-　そう言い、本当のルノワールが、ゆらりと歩み出る。\
-
+;　そう言い、本当のルノワールが、ゆらりと歩み出る。\
+` The real Renoir spoke and started to slowly walk.`\
 ;bg black,24
 ;bg bijutu_04,24
 
@@ -3945,17 +3971,18 @@ cl l,2
 
 me2v 28,50
 
-　華奢そうな容姿は先ほどと何も変わりないのに、……なぜか気圧され、新谷は後退ってしまう……。\
-
+;　華奢そうな容姿は先ほどと何も変わりないのに、……なぜか気圧され、新谷は後退ってしまう……。\
+` He had the same delicate appearance that he had before.... but for some reason Shintani felt small compared to him, and started backing up...`\
 ld c,RUN_D2,80
 
-「……裕貴くんは、本当にあなたのことが好きだった。@……その気持ちは、あなたなんかが思っているよりも、はるかに無垢で美しいくらいに。」@
+;「……裕貴くんは、本当にあなたのことが好きだった。@……その気持ちは、あなたなんかが思っているよりも、はるかに無垢で美しいくらいに。」@
+`"...Yuuki really did love you.`@`... It was a feeling much more innocent and beautiful than you imagined."`@
 br
 
 cl c,5
 
-　ルノワールは屈み、床に落ちているスケッチを拾い上げる。\
-
+;　ルノワールは屈み、床に落ちているスケッチを拾い上げる。\
+` Renoir bent over and picked up one of the sketches from the floor.`\
 se1v 1010,30
 ld c,RUN_D8,6
 
