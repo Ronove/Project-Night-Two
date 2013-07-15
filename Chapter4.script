@@ -1427,7 +1427,7 @@ br
 ld c,NAF_D4a,80
 
 ;「…………さあ。@よく分からないわ。」@
-`"......Who can say? `@`I'm not really sure myself."`@
+`"......Who can say? `@`I don't really know."`@
 br
 ;　動揺を見せないように心掛け、平静を装いながら、逆に聞く。\
 ` Trying to hide how off guard his question caught her, she faked a calm voice and replied with her own question.`\
@@ -3986,30 +3986,32 @@ cl c,5
 se1v 1010,30
 ld c,RUN_D8,6
 
-「……だから。@……裕貴くんは、あなたに個人的な絵のモデルになってほしいって言われた時、@……とても嬉しかった。@自分の存在を、先生が必要としてくれたって思って。@……本当に嬉しかった。」\
-
-　そのスケッチには、……痛々しい、陵辱の痕を晒す少年の裸体が、@記すことでさらに辱しめるかのように、克明に描かれている。\
-
+;「……だから。@……裕貴くんは、あなたに個人的な絵のモデルになってほしいって言われた時、@……とても嬉しかった。@自分の存在を、先生が必要としてくれたって思って。@……本当に嬉しかった。」\
+`"...So.....`@` When you asked him to be your personal model... `@`he was very happy. `@`He thought that he could finally be of use to you.`@`... He was really happy."`\
+;　そのスケッチには、……痛々しい、陵辱の痕を晒す少年の裸体が、@記すことでさらに辱しめるかのように、克明に描かれている。\
+` Within those sketches is a detailed record... of the pitiful, abused, naked body of a boy, `@`and by drawing them, she has only disgraced him further.`\
 ld c,RUN_D6,80
 
-「……たとえこのような形であれ。@……それを受け止めることで、自分の気持ちも受け止めてくれるかもしれない。@……裕貴くんはそう信じて、あなたのどんな命令にも、黙々と従った……。」\
-
-「そうよ。@それが臣従というものよ。@私の美貌の虜となった彼の、それは当然の使命。」@
-
+;「……たとえこのような形であれ。@……それを受け止めることで、自分の気持ちも受け止めてくれるかもしれない。@……裕貴くんはそう信じて、あなたのどんな命令にも、黙々と従った……。」\
+`"...Basically, he thought like this.`@`... If I accept her desires, maybe she'll accept my feelings.`@`... and so he quietly obeyed your every order..."`\
+;「そうよ。@それが臣従というものよ。@私の美貌の虜となった彼の、それは当然の使命。」@
+`"Exactly. `@`That's called a servant. `@`He's my beautiful slave, and obeying my orders is his purpose."`@
 cl c,0
 mld c,RUN_D7,80
 
-「……そう。@あなたは彼の好意を、一方的に貪り続けたんだ。@……裕貴くんだって、それがわからなかったわけじゃない。」\
+;「……そう。@あなたは彼の好意を、一方的に貪り続けたんだ。@……裕貴くんだって、それがわからなかったわけじゃない。」\
+`"...Yes. `@`All you did was one-sidedly devour his kindness.`@`... There's no way that Yuuki didn't realize what you were doing."`\
 ld r,HIG_W1,22
 ld r,HIG_W3,80
 
-「恋は盲目……。@裕貴は本当に好きだったのね。@こんな欲望の塊の女を。」@
+;「恋は盲目……。@裕貴は本当に好きだったのね。@こんな欲望の塊の女を。」@
+`"Love is blind... `@`Yuuki really did love her, didn't he? `@`This lustfull woman."`@
 ;＜彼岸花
 
 mld c,RUN_D2,80
 
-「そしてあの日。@……裕貴くんは初めて、……あなたに反抗したんだ。」\
-
+;「そしてあの日。@……裕貴くんは初めて、……あなたに反抗したんだ。」\
+`"And on that day.`@`... For the first time... Yuuki resisted you."`\
 mcl c,0
 bg black,2
 se1v 11,40
@@ -4017,20 +4019,23 @@ bg white,23
 bg bijutu_03,0
 ld c,NOD_D4,22
 
-　あの日。@裕貴は初めて、……ボタンを外そうとする新谷の手を、払った。\
-
+;　あの日。@裕貴は初めて、……ボタンを外そうとする新谷の手を、払った。\
+` On that day. `@`For the first time.... Yuuki pushed away Shintani's hand when she tried to undo his shirt's buttons.`\
 ld c,NOD_D5a,80
 
 
-『……先生、もう、やめて下さい……。』@
+;『……先生、もう、やめて下さい……。』@
+`"...Sensei, please stop...."`@
 br
-　彼はかすれた声でそう言って、初めて私を拒んだのだ。\
-
-　私は、それが許せなかった。@
-　私は女王なのに。@お前は私のものなのに。@私を、拒むなんて。@
+;　彼はかすれた声でそう言って、初めて私を拒んだのだ。\
+` He spoke in a hoarse voice, refusing me for the first time.`\
+;　私は、それが許せなかった。@
+` I couldn't forgive that.`@
+;　私は女王なのに。@お前は私のものなのに。@私を、拒むなんて。@
+` I'm a queen. `@`I own you. `@`And yet you resist me?`@
 br
-　それが許せなくて、頭に血が上って……、私は乱暴に、無理やり服を脱がせようとした。\
-
+;　それが許せなくて、頭に血が上って……、私は乱暴に、無理やり服を脱がせようとした。\
+` I wouldn't forgive that, I was furious... I violently tried to remove his clothes from him.`\
 se1 10
 quakex 2,200
 cl c,25
@@ -4050,10 +4055,11 @@ quake 5,500
 wait 500
 bg blood_1aR,8
 
-「裕貴は怖くなって、美術室から逃げ出そうとしたわ。@……あなたはその背中を、突き飛ばしたの。」@
+;「裕貴は怖くなって、美術室から逃げ出そうとしたわ。@……あなたはその背中を、突き飛ばしたの。」@
+`"Yuuki got scared, and tried to run out of the art room.`@`... and you pushed him on the back."`@
 ;＜彼岸花
-「………そして、裕貴くんは机にぶつかって倒れた。@……そこに、バランスを崩した石膏像が……。」\
-
+;「………そして、裕貴くんは机にぶつかって倒れた。@……そこに、バランスを崩した石膏像が……。」\
+`".....And he fell into the legs of the desk.`@`... and that's when the plaster bust lost its balance, and..."`\
 bg black,22
 
 me3v 5,70
@@ -4062,101 +4068,107 @@ bg bijutu_02,0
 ld c,NAF_D7a,22
 ld c,NAF_D8a,80
 
-「じ、……事故よ。@……私は突き飛ばそうとしたんじゃない。@その肩を掴もうとしただけ。@……彼はひとりで転んで、ひとりで机にぶつかって。@……運悪く石膏像が倒れてきて、……当たり所が悪かっただけ。@……あれは全部、事故よ。@私は悪くなんかないわ…！！」\
-
+;「じ、……事故よ。@……私は突き飛ばそうとしたんじゃない。@その肩を掴もうとしただけ。@……彼はひとりで転んで、ひとりで机にぶつかって。@……運悪く石膏像が倒れてきて、……当たり所が悪かっただけ。@……あれは全部、事故よ。@私は悪くなんかないわ…！！」\
+`"It... it was an accident.`@`... I didn't mean to push him. `@`I was just trying to grab his shoulder.`@`... He fell down on his own, and rolled into the desk on his own.`@`... It was just bad lucky that the bust fell... and hit him in a vital spot.`@`... It was all an accident. `@`It wasn't my fault...!!"`\
 
 bg black,24
 bg bijutu_03,0
 ld r,HIG_W3,24
 
-「だそうよ…？」@
+;「だそうよ…？」@
+`"So she says..."`@
 ;＜彼岸花
 
 ld l,RUN_D8,23
 ld l,RUN_D2,80
 
-「………そうだね。@……確かに、……事故かもしれないよ。@でも、僕が知りたかったのは、そんなことじゃない。@……そんなことじゃないんだ。」\
-
+;「………そうだね。@……確かに、……事故かもしれないよ。@でも、僕が知りたかったのは、そんなことじゃない。@……そんなことじゃないんだ。」\
+`".....You're right.`@`... It may have... just been an accident. `@`But, that wasn't what I wanted to know.`@`... That wasn't it at all."`\
 bg black,23
 bg bijutu_04,0
 ld r,NAF_D6a,23
 ;cl c,0
 ld r,NAF_D7a,80
 
-「……へぇ……。@……じゃあ、……何………。」@
+;「……へぇ……。@……じゃあ、……何………。」@
+`"...Oh....? `@`...Okay then... what do you........"`@
 br
-　ルノワールの表情は、先ほどから淡白なままのはずなのに。@
-　目を逸らさずにはいられない凄みに気圧され、新谷はなおも後退る……。\
-
+;　ルノワールの表情は、先ほどから淡白なままのはずなのに。@
+` Renoir's face still had the same indifferent expression as before.`@
+;　目を逸らさずにはいられない凄みに気圧され、新谷はなおも後退る……。\
+` But he was so dreafully overpowering that she couldn't help but avert her eyes and retreat even further...`\
 ld l,RUN_D7,23
 ld l,RUN_D3,80
 
-「僕は、……彼に代わって聞きたかったんだ。@………先生にとっては彼が玩具でしかないことは知ってたし。@……先生が殺したわけじゃないことも知っていた。@……だからその上で、……今となってはもう、聞くことの出来ない彼に代わって、……聞きたかったんだ。」\
-
+;「僕は、……彼に代わって聞きたかったんだ。@………先生にとっては彼が玩具でしかないことは知ってたし。@……先生が殺したわけじゃないことも知っていた。@……だからその上で、……今となってはもう、聞くことの出来ない彼に代わって、……聞きたかったんだ。」\
+`"I... wanted to ask you for him.`@`... I know you thought of him as nothing more than a toy.`@`... and I know that you didn't purposefully kill him.`@`... So... I wanted to ask you what he couldn't... in his stead."`\
 ld r,NAF_D6a,80
 
-「………それは、………何よ……。」@
-
+;「………それは、………何よ……。」@
+`".....So.... what is it....?"`@
 ld l,RUN_D6,80
 
-「そしてそれは、……もう聞けたよ。@……そして、とても残念だった。」@
-
+;「そしてそれは、……もう聞けたよ。@……そして、とても残念だった。」@
+`"And... you've already told me.`@`... It was such an unfortunate answer."`@
 ld r,NAF_D7a,80
 
-「何をよ…！@　私が何を答えたのよ…！！」\
-
+;「何をよ…！@　私が何を答えたのよ…！！」\
+`"What was it....?! `@`What did I answer...!!"`\
 
 ld l,RUN_D9,80
 
-「裕貴くんに対して、申し訳ないという気持ちを、微塵も持っていないということだよ。」@
+;「裕貴くんに対して、申し訳ないという気持ちを、微塵も持っていないということだよ。」@
+`"Your answer was that you're not even the least bit sorry for Yuuki."`@
 br
-　無表情なルノワールが、その瞬間だけ歪む。\
-
+;　無表情なルノワールが、その瞬間だけ歪む。\
+` For that one instant, Renoir's expressionless face became twisted.`\
 ld l,RUN_D8,80
 
-「あなたはあれだけ裕貴くんを慰み者にしたのに。@そして、その死の一端に関わったはずなのに。@……彼に対して申し訳ないという気持ちを、抱いてはくれなかった…。@それが、………僕には許せない。@……だから、狩る。@……裕貴くんの無念を晴らすために、@……僕は彼岸花の助けを借りて、……ここへこうして、現れたんだ……。」\
-
+;「あなたはあれだけ裕貴くんを慰み者にしたのに。@そして、その死の一端に関わったはずなのに。@……彼に対して申し訳ないという気持ちを、抱いてはくれなかった…。@それが、………僕には許せない。@……だから、狩る。@……裕貴くんの無念を晴らすために、@……僕は彼岸花の助けを借りて、……ここへこうして、現れたんだ……。」\
+`"You made Yuuki into your plaything. `@`And were at least somewhat responsible for his death.`@`... and yet you won't embrace any apologetic feelings for him...`@` I... cannot forgive that.`@`... So I will hunt you.`@`... so that Yuuki can rest without regrets....`@` I borrowed assistance from Higanbana.... and appeared before you here..."`\
 ld r,NAF_D8a,80
 
-「は、……はは……！@　つまり、こういうことね。@……裕貴くんの魂が、あなたという妖怪になって、化けて出てきたというわけね。@はは、ははははは…！@/
-
+;「は、……はは……！@　つまり、こういうことね。@……裕貴くんの魂が、あなたという妖怪になって、化けて出てきたというわけね。@はは、ははははは…！@/
+`"Ha... haha...! `@`So that's how it is.`@`... Yuuki's soul was able to disguise itself as you and become a youkai.`@` Haha, hahahaha...!`@/
 se1 84
 
-　はっははははははははははははは！！」\
-
+;　はっははははははははははははは！！」\
+` Haahahahahahahaha!!"`\
 ld l,RUN_D6,80
 
-「……何が、おかしいの。」@
-
+;「……何が、おかしいの。」@
+`"...What's so funny?"`@
 ld r,NAF_D7,80
 
-「おかしいわよ。@だって、あなたは“美術室のルノワール”なんでしょう？」@
-
+;「おかしいわよ。@だって、あなたは“美術室のルノワール”なんでしょう？」@
+`"It's just funny. `@`Because you're 'Renoir of the Art Room' right?"`@
 ld l,RUN_D2,80
 
-「それが何…？」\
-
+;「それが何…？」\
+`"Yes, and...?"`\
 ld r,NAF_D8,80
 
-「なら、あなただって同じだわ。@裕貴くんの仇が討ちたいなら、私に怪談のルールで挑まなくてはならない！」@
-
+;「なら、あなただって同じだわ。@裕貴くんの仇が討ちたいなら、私に怪談のルールで挑まなくてはならない！」@
+`"Then you have the same problem. `@`In order to avenge Yuuki you have to challenge me by the rules of the ghost story!"`@
 ld l,RUN_D6,80
 
-「……そうだね。@……僕の、ルノワールの怪談のルールに則って、……あなたを、狩る。」\
-
+;「……そうだね。@……僕の、ルノワールの怪談のルールに則って、……あなたを、狩る。」\
+`"...That's right.`@`... I will follow the rules of the ghost story of Renoir... and make you my prey."`\
 ld r,NAF_D7,80
 
-「ならば、どうやって？！@　さっき、そこの黒い髪の子が私に挑んで返り討ちにされたのを見ていなかったの？！@　私はどの絵画の作者も正確に答えることが出来るわ！@　そしてあんたの正体がわかった今、@あんたから絵筆を借りるなんてことはしないし、あんたの問い掛けに嘘を吐くなんてミスも犯さない！@　あんたがどれだけ私を憎もうとも！@　あんたは絶対に私に勝てないのよ！！」\
-
+;「ならば、どうやって？！@　さっき、そこの黒い髪の子が私に挑んで返り討ちにされたのを見ていなかったの？！@　私はどの絵画の作者も正確に答えることが出来るわ！@　そしてあんたの正体がわかった今、@あんたから絵筆を借りるなんてことはしないし、あんたの問い掛けに嘘を吐くなんてミスも犯さない！@　あんたがどれだけ私を憎もうとも！@　あんたは絶対に私に勝てないのよ！！」\
+`"And how will you do that?!" `@`Didn't you see me turn the tables on this black haired girl who was trying to challenge me earlier?! `@`I was able to answer the names of each and every artist correctly! `@`And now that I know your true identity, `@`I won't let you lend me a paintbrush, and I won't mess up and tell a lie while answering you! `@`Now matter how much you despise me, `@`you won't be able to beat me!!"`\
 ld c,HIG_w3,22
 ;ld c,HIG_W4,80
 
-「…………だそうよ。@くすくすくす。」@
+;「…………だそうよ。@くすくすくす。」@
+`"......So she says. `@`Teeheehee"`@
 ;＜彼岸花
 
 ld l,RUN_D2,80
 
-「………………………。」\
+;「………………………。」\
+`".............."`\
 ;＜ルノワール
 
 textoff
@@ -4165,12 +4177,12 @@ E_B
 
 ld r,NAF_D2,80
 
-「……何がおかしいのよ。@私に勝てないのは、すでにあんたが立証済みでしょうが。」@
-
+;「……何がおかしいのよ。@私に勝てないのは、すでにあんたが立証済みでしょうが。」@
+`"...What's so funny? `@`You can't beat me, I already established that."`@
 ld c,HIG_D2,80
 
-「勝てないも何も。@……ルノワールはもう、勝ち終わっているのよ？」\
-
+;「勝てないも何も。@……ルノワールはもう、勝ち終わっているのよ？」\
+`"Whether you think he can beat you or not.`@`... Renoir has already won"`\
 textoff
 fede 0,1000
 E_A
@@ -4180,37 +4192,42 @@ mld l,RUN_D3,80
 
 bgm1 6
 
-「先生。@……もう忘れちゃいました？」@
+;「先生。@……もう忘れちゃいました？」@
+`"Sensei.`@`... Have you already forgotten?"`@
 ;＜ルノワール
 
 ld r,NAF_D6a,80
 
-「……な、……何をよ……。」@
+;「……な、……何をよ……。」@
+`"...Wha-... What...?"`@
 br
-　黒髪の少女が、バカにするようにくすくすと笑う。@
-　私ひとりだけが、まだ状況を理解していないとでも言うかのように、くすくすと笑う。\
-
+;　黒髪の少女が、バカにするようにくすくすと笑う。@
+` The blacked haired girl giggled like she was looking down on me.`@
+;　私ひとりだけが、まだ状況を理解していないとでも言うかのように、くすくすと笑う。\
+` Giggling like I was the only one who didn't realize the circumstances of the situation.`\
 mld l,RUN_D6,80
 
-「僕がモデルになって。@……先生に絵を描いてもらってる時。@……僕は先生に聞きましたよね。」\
-
+;「僕がモデルになって。@……先生に絵を描いてもらってる時。@……僕は先生に聞きましたよね。」\
+`"When I was modeling....`@` and you were drawing me.... `@`I asked you a question, sensei."`\
 mcl l,0
 bg black,22
 mono 1
 bg bijutu_02,0
 ld c,NAF_D1,22
 
-『……どうして裕貴くんはあんなことになってしまったんでしょうか。』@
-
+;『……どうして裕貴くんはあんなことになってしまったんでしょうか。』@
+`"...Why did that accident have to happen to Yuuki?"`@
 ld c,NAF_D4,80
 
-『…………さあ。@よく分からないわ。』\
-
-　どうして裕貴くんは、あんなことになってしまったのか？@
-　知っている。@だって、私の目の前で死んだのだから。@
+;『…………さあ。@よく分からないわ。』\
+`"......Who can say? `@`I don't really know."`@
+;　どうして裕貴くんは、あんなことになってしまったのか？@
+` Why did that accident happen to Yuuki?`@
+;　知っている。@だって、私の目の前で死んだのだから。@
+` I knew. `@`After all, he died right in front of me.`@
 br
-　そう。@私は、知　ッ　テ　イ　ル…！\
-
+;　そう。@私は、知　ッ　テ　イ　ル…！\
+` That's right. `@`I  K N E W...!`\
 bg black,22
 mono 0
 bg kaiga_01,0
@@ -4220,13 +4237,14 @@ ld r,RUN_D7,22
 
 ld r,RUN_D6,80
 
-「でも、あなたは言った。@……わからないと。」@
-
+;「でも、あなたは言った。@……わからないと。」@
+`"But you said otherwise.`@`... You said you didn't know."`@
 ld l,HIG_W4,22
 
 me1v 16,50
 
-「知っているのに、わからないと“偽った”わ。@……それが意味するところが、わかるかしら？@　……くすくすくすくす。」\
+;「知っているのに、わからないと“偽った”わ。@……それが意味するところが、わかるかしら？@　……くすくすくすくす。」\
+`"Even though you knew, you 'lied' and said you didn't.`@`... Do you know what that means?`@`.... Teeheehee."`\
 ;＜彼岸花
 
 bg black,23
@@ -4235,15 +4253,17 @@ ld c,NAF_D9a,23
 
 me2v 17,50
 
-　新谷の顔から、……音を立てて血の気が引いていく。@
+;　新谷の顔から、……音を立てて血の気が引いていく。@
+` The color drained from Shintani's face... and a sound followed.`@
 br
-　その音はまさに、潮のようだった。\
-
+;　その音はまさに、潮のようだった。\
+` It sounded like the the ocean tide going out.`\
 bg black,22
 
-“ルノワールの問い掛けに嘘をついてはならない。”@
-“上記を破れば、絵のどれかと、同じ運命を追うことになる。”\
-
+;“ルノワールの問い掛けに嘘をついてはならない。”@
+`'you can't lie when answering Renoir's questions.'`@
+;“上記を破れば、絵のどれかと、同じ運命を追うことになる。”\
+`'If you break the rules, you'll befall the same fate as one of the paintings on the art room walls."`\
 me3v 3,50
 
 bg white,23
@@ -4254,19 +4274,19 @@ bg white,23
 se2 20
 bg kaiga_02,23
 
-　美術室中に掛けられた、@……おぞましい絵画の数々が、ぐるぐると新谷の回りを取り囲みながら渦を巻き出す。\
-
+;　美術室中に掛けられた、@……おぞましい絵画の数々が、ぐるぐると新谷の回りを取り囲みながら渦を巻き出す。\
+` The many repulsive paintings and drawings on the art room walls began to suround Shintani.... `@`They circled around Shintani like a whirlpool.`\
 bg black,22
 mono 2
 bg Different_spiral_1b,22
 
 me4v 28,70
 
-　『サトゥルヌス』の世界で、生きながら貪り喰われる運命を？@　あるいは『ゲルニカ』の世界で、逃げ惑いながら戦火に巻き込まれる運命を？@　さもなくば『残酷の四段階』のような、死後にも腹を割かれて臓物を引き摺り出される無残な運命を？\
+;　『サトゥルヌス』の世界で、生きながら貪り喰われる運命を？@　あるいは『ゲルニカ』の世界で、逃げ惑いながら戦火に巻き込まれる運命を？@　さもなくば『残酷の四段階』のような、死後にも腹を割かれて臓物を引き摺り出される無残な運命を？\
+` Would she be doomed to the world of 'Saturn' and be eaten alive? `@`Or would she be fated to the world of 'Guernica' where she would be enveloped by the fires of way? `@`If not that, would she meet the tradgedy of being killed and disected, her entrails pulled out of her stomach, like in 'The Four Stages of Cruelty'?`\
 
-
-　嫌だ、嫌、嫌、嫌…！！@　どれも嫌、嫌、嫌、嫌ッ！！！\
-
+;　嫌だ、嫌、嫌、嫌…！！@　どれも嫌、嫌、嫌、嫌ッ！！！\
+` No, no no no...!! `@`They're all horrible, no no no-!!!
 bg black,22
 mono 0
 bg kaiga_01,0
@@ -4275,12 +4295,12 @@ ld c,RUN_D8,22
 
 ld c,RUN_D6,80
 
-「あなたに、裕貴くんへの謝罪の気持ちがあったなら、@……僕はあれが事故ということでも仕方がないと思った。@……だって、彼はそれでも最後まで、あなたのことが好きだったのだから。」\
-
+;「あなたに、裕貴くんへの謝罪の気持ちがあったなら、@……僕はあれが事故ということでも仕方がないと思った。@……だって、彼はそれでも最後まで、あなたのことが好きだったのだから。」\
+`"If you would have apologized to Yuuki.... `@`I would have just left it as being an unfortunate accident.`@`... Because he loved you to the very end."`\
 quake 5,500
 
-「やめてッ、嫌ッ、嫌ぁああああああぁああぁ！！」\
-
+;「やめてッ、嫌ッ、嫌ぁああああああぁああぁ！！」\
+`"Stop- No- NOOOOooOOOOoO!!"`\
 textoff
 
 bg black,0
@@ -4291,27 +4311,29 @@ fedexx 70,90,90,90,90,0,2000
 
 ld c,RUN_D9,80
 
-「でも、あなたにはそのような気持ちは微塵もないとわかった。@……だから、あなたを罰することにした。@……さぁ。@あなたの運命は、あなたが決めるといいよ。@どの運命であっても、……それは彼の魂が救われるまで、永遠にあなたを苛むものとなる。」\
-
+;「でも、あなたにはそのような気持ちは微塵もないとわかった。@……だから、あなたを罰することにした。@……さぁ。@あなたの運命は、あなたが決めるといいよ。@どの運命であっても、……それは彼の魂が救われるまで、永遠にあなたを苛むものとなる。」\
+`"But you didn't have even an ounce of apologetic feelings within you.`@`... So, you will be punished.`@`... Now then. `@`I'll let you choose the fate you want to befall. `@`Whichever you choose... you will be endlessly tormented with until his soul can be saved."`\
 bg black,23
 bg bijutu_02,0
 ld c,NAF_D9a,23
 ;ld c,NAF_D9a,80
 quakex 2,300
 
-「やめてッ、助けてッ！！@　誰かッ、誰かぁああぁああぁぁ！！！」@
+;「やめてッ、助けてッ！！@　誰かッ、誰かぁああぁああぁぁ！！！」@
+`"Stop- Help!! `@`Someone- SomeoOOone HeeEEelp!!!"`@
 br
 
 cl c,23
 
-　新谷は絶叫し、美術室を飛び出す。@……その後姿は、裕貴が彼女から逃げ出そうとした時のものにそっくりだった。\
-
+;　新谷は絶叫し、美術室を飛び出す。@……その後姿は、裕貴が彼女から逃げ出そうとした時のものにそっくりだった。\
+` Shintani screamed and ran out of the art room.`@`... and in doing so, she looked exactly the same as Yuuki did when he tried to escape from her.`\
 bg black,24
 bg bijutu_03,24
 ;se1 10
 quakex 1,100
 
-　美術室を飛び出す時、机にぶつかる。@
+;　美術室を飛び出す時、机にぶつかる。@
+` As she ran, she bumped into the art room desk.`@
 br
 　かつてはそこに石膏像があった。@しかし、「事故」のあと、そこからは撤去されたので、彼女を罰する存在とはならなかった。\
 
