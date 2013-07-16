@@ -1392,16 +1392,18 @@ E_B
 
 mbg hoken_05,22
 
-　……それでも、それを退屈なことだと認識できただけ、彼岸花は少し変わったのかもしれない。@
+;　……それでも、それを退屈なことだと認識できただけ、彼岸花は少し変わったのかもしれない。@
+` ...But, just because she was able to see it as boring, Higanbana might have changed a little.`@
 br
 　苔やカビは、自分の日々を退屈だなどと思いもしないはず。@
-　それを認識できたということは、彼岸花がそれらとは異なる存在に成長したことを示すのだから。\
-
+;　それを認識できたということは、彼岸花がそれらとは異なる存在に成長したことを示すのだから。\
+` The fact that she recognized this was indicative that she was growing differently.`\
 mbg black,22
 mcbg 22
 ld c,HIG_D8,2
 
-「…………………………………。」@
+;「…………………………………。」@
+`".................."`@
 br
 　全身に浴びた、魑魅魍魎たちの返り血は、しばらくの間、雑魚どもの群を遠ざけてくれるだろう。\
 
@@ -1410,18 +1412,20 @@ bg black,22
 bg okujou_01u,22
 ld c,HIG_D9,22
 
-　彼岸花はふわりと屋上へ上がり、眼下を探す。@
+;　彼岸花はふわりと屋上へ上がり、眼下を探す。@
+` Higanbana gently rose from the rooftop and looked below.`@
 br
-　そして秋一の姿を見つけ、ふわりと飛び降りる。\
-
+;　そして秋一の姿を見つけ、ふわりと飛び降りる。\
+` And, seeing Shuuichi's figure, she jumped gracefully down.`\
 bg black,22
 
 bg gakkou_02,22
 
-　……秋一の魂を、魅力的だとは思っていない。@
+;　……秋一の魂を、魅力的だとは思っていない。@
+` She didn't think that Shuuichi's soul was particularly attractive.`@
 br
-　しかし、彼のスケッチブックと、そこに描かれている何かは、@………自分に、何かを教えてくれるような予感をさせるのだ。\
-
+;　しかし、彼のスケッチブックと、そこに描かれている何かは、@………自分に、何かを教えてくれるような予感をさせるのだ。\
+` But she felt that the contents of his sketchbook,`@`...could teach her something.`\
 bg black,22
 
 fede 0,1000
@@ -1431,37 +1435,43 @@ bg gakkou_03,22
 
 bgm1 14
 
-　その日も、秋一は何人かの男子生徒達に殴られていた。@
+;　その日も、秋一は何人かの男子生徒達に殴られていた。@
+` And that day, Shuuichi had been beaten by a group of people.`@
 br
-　秋一は無抵抗主義らしく、彼らは秋一をサンドバッグと呼んで、連日、好き放題にしていく。\
-
+;　秋一は無抵抗主義らしく、彼らは秋一をサンドバッグと呼んで、連日、好き放題にしていく。\
+` Shuuichi was passive, and the others continually called him a punching bag.`\
 
 ld r,HIG_D9,22
 
-「………今日も随分やられたわね。」@
+;「………今日も随分やられたわね。」@
+`"You were hit quite a bit today, huh?"`@
 br
-　声を掛けると、地面にうつぶせに倒れていた秋一が、ゆっくりと顔を上げる。\
-
+;　声を掛けると、地面にうつぶせに倒れていた秋一が、ゆっくりと顔を上げる。\
+` When she called out, Shuuichi, with his face buried in the ground, looked up slowly.`\
 ld l,SHU_D5,6
 ld l,SHU_D4,80
 
-「あぁ、彼岸花さん。@こんにちは。」@
+;「あぁ、彼岸花さん。@こんにちは。」@
+`"Ah...Higanbana-san.`@`Hello."`@
 br
-　たった今、酷いいじめを受けていたはずなのに、けろりとした様子で挨拶する。\
-
-　もちろん、悔しい感情はあるだろう。@
-　しかし、その感情の揺らめきさえも、彼には今日という日を生きた証。@
+;　たった今、酷いいじめを受けていたはずなのに、けろりとした様子で挨拶する。\
+` Even though he was just beaten, he managed a nonchalant greeting.`\
+;　もちろん、悔しい感情はあるだろう。@
+` Of course, there were some regrettable feelings.`@
+;　しかし、その感情の揺らめきさえも、彼には今日という日を生きた証。@
+` However, even that little flicker of emotion was proof that he was living today too.`@
 br
-　いつものように、大事に抱えていじめっこたちから守っていたスケッチブックを開き、@その感情を描き始める。\
-
-　理不尽ないじめに対する胸中を現すように、その絵は悲壮感に満ちている。@
+;　いつものように、大事に抱えていじめっこたちから守っていたスケッチブックを開き、@その感情を描き始める。\
+` As usual, he opened the sketchbook he had defended from the bullies,`@`and began recording these feelings.`\
+;　理不尽ないじめに対する胸中を現すように、その絵は悲壮感に満ちている。@
+` To express his unreasonable bullying, this picture was filled with tragic emotions.`@
 br
-　決して、幸せな経験ではない。\
-
-　しかし彼は、そのようなことすらも、@いくつもの感情を描いたこのスケッチブックの中に混じってしまえば、@色とりどりの万華鏡のように見えるという……。\
-
-　その精神的なしぶとさに、彼岸花は尊敬と呆れの入り混じった感情を覚え、肩を竦めるのだった。\
-
+;　決して、幸せな経験ではない。\
+` It was never a happy experience.`\
+;　しかし彼は、そのようなことすらも、@いくつもの感情を描いたこのスケッチブックの中に混じってしまえば、@色とりどりの万華鏡のように見えるという……。\
+` But when he did this,`@`a number of various emotions were inscribed in his sketchbook,`@`so that the whole experience was a kaleidoscope of color...`\
+;　その精神的なしぶとさに、彼岸花は尊敬と呆れの入り混じった感情を覚え、肩を竦めるのだった。\
+` Higanbana shrugged her shoulders, remembering mingled amazement and respect for his spiritual tenacity.`\
 textoff
 fede 0,1000
 E_A
