@@ -3,7 +3,7 @@
 ` The art room was silent.`\
 
 ;　下校時刻を過ぎて残っている生徒達は、大抵自分の教室か、校庭か、あるいは部室にいる。@
-` Once the final bell rings and school ends, the remaining students can usually be found either in their one classrooms, the schoolyard, or the club rooms.`@
+` Once the final bell rings and school ends, the remaining students can usually be found either in their own classrooms, the schoolyard, or the club rooms.`@
 br
 ;　４階にあるこの美術室まで彼等の声が届くことはない。@まるで空間から切り取られたかの様にひっそりと静まり返っている。\
 ` Their voices hardly ever reach all the way up to the art room on the 4th floor. `@`It becomes so deathly quiet, it's as if the sound was torn from the very air itself.`\
@@ -1977,7 +1977,7 @@ bg black,2
 
 
 ;　……くすくす。@それにしても馬鹿な話だ。\
-` ....Hehehe. `@`Still, what a dumb story that was.`\
+` ....Teehee. `@`Still, what a dumb story that was.`\
 
 
 mono 1
@@ -2041,7 +2041,7 @@ mld c,RUN_D5,80
 bgm1 7
 
 ;「……くすくす。@先生が私のことを知らなくても。@私は先生のことをよく知っているわ。」@
-`"...Hehehe. `@`Even if you don't know who I am. `@`I know who you are, sensei."`@
+`"...Teehee. `@`Even if you don't know who I am. `@`I know who you are, sensei."`@
 ld l,NAF_D6a,80
 
 ;「え…？@　……それは、どういう……。」\
@@ -2136,7 +2136,7 @@ ld c,RUN_D5,80
 me1v 16,50
 
 ;「くすくす……。@私には下校時刻なんて関係ないんですよ、先生。@だって、私には帰るところなんてないんだから。」\
-`"Hehehe... `@`What time school ends bears no significance to me, sensei. `@`After all, I have nowhere to go home to."`\
+`"Teehee... `@`What time school ends bears no significance to me, sensei. `@`After all, I have nowhere to go home to."`\
 ;　……この町では、共働きの家庭はとても多い。@
 ` ...In this town there were many households that had parents who both worked full-time.`@
 ;　帰っても家に家族のいない生徒の一部が、@時にそう称して、家へ直帰せずに放課後を遊び歩くことがあるのを、新谷も知っていた。@
@@ -2464,7 +2464,7 @@ ld r,NAF_D6a,22
 ld l,RUN_D5,80
 
 ;「普段は隠してるんですか？@　まぁ、先生みたいなタイプだと、堂々と吸うのは肩身が狭いですよね。@今は男性の先生方でも吸わない人の方が多いですもんね。@くすくすくすくすくす。」\
-`"Do you usual try to hide it? `@`Well, for a teacher like you, it must feel pretty shameful to smoke out in the open. `@`Especially since even the male teachers don't smoke as much any more. `@`Hehehehe."`\
+`"Do you usual try to hide it? `@`Well, for a teacher like you, it must feel pretty shameful to smoke out in the open. `@`Especially since even the male teachers don't smoke as much any more. `@`Teeheeheehee."`\
 ld r,NAF_D8a,80
 
 ;　ボキリ。@
@@ -2841,7 +2841,7 @@ mcl c,0
 ld l,RUN_D5,24
 
 ;「くすくす、くすくすくすくす……。@わかっているくせに……。」\
-`"Hehe, hehehehe.... `@`I already know..."`\
+`"Teehee, Teehehehe.... `@`I already know..."`\
 ;　少女は笑う。@
 `The girl laughed.`@
 br
@@ -2857,7 +2857,7 @@ ld r,NAF_D6a,80
 ld l,RUN_D1,80
 
 ;「くすくすくすくす………。」\
-`"Hehehehe...."`\
+`"Teeheehehe...."`\
 ld r,NAF_D7a,80
 
 ;「貴方が噂の、………“美術室のルノワール”なのね………。」@
@@ -2917,7 +2917,7 @@ bgm1 13
 ld r,RUN_D5,80
 
 ;「バカなことを聞く女ね。@妖怪が人間を相手にして、考えることなんて一つしかないのに。@くすくすくす……。」\
-`"You sure ask some stupid questions. `@`There's really only one reason for a youkai to appear before a human. `@`hehehe...."`\
+`"You sure ask some stupid questions. `@`There's really only one reason for a youkai to appear before a human. `@`Teeheehee...."`\
 ld l,NAF_D6a,80
 
 ;「怪談が伝えるとおりなら。@……私を絵の中に引き摺り込んでしまおうと言うのかしら？」@
@@ -2943,7 +2943,7 @@ bg black,22
 ;ld r,RUN_D5,80
 
 ;「良い勘をしていたわね。@受け取っていれば、今頃、絵の中の世界だったのに。@……くすくすくす。」\
-`"Not bad. `@`You're right, if you had taken that pencil, right about now you would be inside a painting.`@`... Hehehe."`\
+`"Not bad. `@`You're right, if you had taken that pencil, right about now you would be inside a painting.`@`... Teeheehee."`\
 ;ld l,NAF_D5,80
 
 ;「そして、あなたの問い掛けに嘘を吐いてもならない。@……言いたくないことなら黙秘すればいいんだし。@嘘にならない範囲で言い回すことだって難しいことじゃない。@それを守ることも簡単だわ。」@
@@ -2982,7 +2982,7 @@ ld r,NAF_D6,80
 ld l,RUN_D5,80
 
 ;「くすくす。@素敵だわ。@……なら、決めようじゃない。@この美術室の本当の主は、私なのか、あなたなのかね。」@
-`"Hehe. `@`Perfect.`@`... Let's decide once and for all then. `@`Who is the true master of the art room, me or you?"`@
+`"Teehee. `@`Perfect.`@`... Let's decide once and for all then. `@`Who is the true master of the art room, me or you?"`@
 br
 ;　……ようやく、新谷は何かを理解する。\
 ` ...Shintani finally understood.`\
@@ -3109,7 +3109,7 @@ br
 ld r,RUN_D5,80
 
 ;「……くすくす。@そんなにも自信がないのかしら？」@
-`"...Hehehe. `@`Do you really have so little confidence?"`@
+`"...Teehee. `@`Do you really have so little confidence?"`@
 ld l,NAF_D7a,80
 
 ;「この歳になって、美術のテストを受けることになるとは、思わなかったからね。@……それで？@　正解なの？@　どうなの？！」\
@@ -3345,7 +3345,7 @@ bg bijutu_06,22
 ;ld c,RUN_D5,80
 
 ;「くすくすくすくす……。@やっぱり答えてはもらえないかしら？@　じゃあこちらで勝手に想像するしかないわね。@……もう家に帰っていたのかしら？@　それとも職員室でお仕事かしら？@　それとももしかして………。@……まさか、この美術室に…？」@
-`"Hehehehehe.... `@`You're not going to answer are you? `@`Well then, guess I'm just gonna have to make my best guess.`@`... Were you already safe at home? `@`Or maybe you were still doing work in the staff room? `@`Or maybe......`@`...Maybe you were in this very art room...?"`@
+`"Teeheehee.... `@`You're not going to answer are you? `@`Well then, guess I'm just gonna have to make my best guess.`@`... Were you already safe at home? `@`Or maybe you were still doing work in the staff room? `@`Or maybe......`@`...Maybe you were in this very art room...?"`@
 ;「……………………。」\
 `".........."\
 ld r,RUN_D1,22
@@ -3433,7 +3433,7 @@ me2v 28,50
 ;　その、心のわずかの隙間から、……ぬるりとルノワールが入り込む。\
 ` Renoir slipped in.... through that small gap in her heart.`\
 ;　くす、くすくすくすくすくす……。@
-` Hehe, hehehehe....`@
+` Tehe, Teeheehehe....`@
 ;　いいわ、すごくいい。@
 ` Good, very good.`@
 ;　その身勝手な後悔、独りよがりの罪悪感。@
@@ -3445,7 +3445,7 @@ br
 ` It's getting seasoned with such a delightful flavor, and it looks so tasty.`@
 br
 ;　くすくす、くすくすくすくすくすくすくすくす…！！\
-` Hehehe, hehehehehehehe...!!`\
+` Teehee, Teeheeheehehehe...!!`\
 bg bijutu_03,0
 ld c,RUN_D10,22
 
@@ -4335,8 +4335,8 @@ quakex 1,100
 ;　美術室を飛び出す時、机にぶつかる。@
 ` As she ran, she bumped into the art room desk.`@
 br
-　かつてはそこに石膏像があった。@しかし、「事故」のあと、そこからは撤去されたので、彼女を罰する存在とはならなかった。\
-
+;　かつてはそこに石膏像があった。@しかし、「事故」のあと、そこからは撤去されたので、彼女を罰する存在とはならなかった。\
+` There used to be a plaster bust there. `@`But ever since the 'accident' it had been removed, so it could not be her punishment.`\
 bg black,24
 bg bijutu_01,24
 wait 500
@@ -4351,77 +4351,88 @@ bg kaidan_02,24
 
 
 
-　彼女は美術室を飛び出す。@そして金切り声で絶叫しながら、廊下を駆け抜け、階段を飛び降りるように駆け下りていく……。\
-
+;　彼女は美術室を飛び出す。@そして金切り声で絶叫しながら、廊下を駆け抜け、階段を飛び降りるように駆け下りていく……。\
+` She ran out of the art room. `@`And with a shrill scream she dashed down the hall and practically leaped down a flight of stairs...`\
 bg black,22
 bg kaiga_01,0
 ;ld l,RUN_D7,0
 ld r,HIG_W3,22
 ld r,HIG_d3,80
 
-「………転ばせて、保健室送りにでもしてやろうかしら？」@
-
+;「………転ばせて、保健室送りにでもしてやろうかしら？」@
+`"....Shall I make her trip and fall and send her to the infirmary??"`@
 mld c,RUN_D2,22
 
-「その必要はないよ。@……彼女は自らの運命を選んだよ。@ここに飾られた絵の運命を、ね……。」@
+;「その必要はないよ。@……彼女は自らの運命を選んだよ。@ここに飾られた絵の運命を、ね……。」@
+`"There's no need.`@`... She has chosen her own fate. `@`A fate from one of these pictures...."`@
 br
-　ルノワールは、壁に掛けられた絵画の一枚を見る。@
-　彼岸花もそれに気付き、その題名を読み上げる。\
-
+;　ルノワールは、壁に掛けられた絵画の一枚を見る。@
+` Renoir looked at one of the pictures hanging on the wall.`@
+;　彼岸花もそれに気付き、その題名を読み上げる。\
+` Higanbana noticed the painting as well, and read the name card.`\
 ld r,HIG_D4,80
 
-「……なるほど。@『上昇と下降』ね。@……ちなみに作者はだぁれ？」\
-
+;「……なるほど。@『上昇と下降』ね。@……ちなみに作者はだぁれ？」\
+`"...I see. `@`'Ascending and Descending'.`@`... By the way, who drew that one~?"`\
 mld c,RUN_D6,80
 
-「マウリッツ・コルネリス・、@エッシャー。」\
-
+;「マウリッツ・コルネリス・、@エッシャー。」\
+`"Maurits Cornelis `@`Escher."`\
 mcl c,0
 
 bg black,2
 wait 2000
 bg mugen_01,22
 
-　新谷は荒く息を吐き、吸い、狂いそうな頭に無理矢理酸素を送り込みながら、必死に階段を駆け下りていた。@
-　少しでもあの美術室から、いや、この学校から遠ざかりたかった。\
-
-　極度の恐怖と緊張で、足の感覚は既にない。@限界の力のみで強引に動かしているに過ぎない。\
-
-　それでも、動かさないと！　ここから逃げないと！@　走れ！　もっと走れ！@　動け左足！　右足！@　もっと！！　もっとッ！！！\
-
+;　新谷は荒く息を吐き、吸い、狂いそうな頭に無理矢理酸素を送り込みながら、必死に階段を駆け下りていた。@
+` Shintani violently forced air out of her lungs, and then sucked it back in, confusedly forcing herself to swallow oxygen as she frantically ran down the stairs.`@
+;　少しでもあの美術室から、いや、この学校から遠ざかりたかった。\
+` She wanted to get as far away from the art room, no, as far away from the school as possible.`\
+;　極度の恐怖と緊張で、足の感覚は既にない。@限界の力のみで強引に動かしているに過ぎない。\
+` She was so extremely afraid and anxious that she could no longer feel her legs. `@`Having used up her strength, all she could do to keep moving was to force herself to.`\
+;　それでも、動かさないと！　ここから逃げないと！@　走れ！　もっと走れ！@　動け左足！　右足！@　もっと！！　もっとッ！！！\
+` I can't stop moving! I have to run away! `@`Run! Run faster! `@`Have to move my left foot! Right foot! `@`Faster!! More-!!!`\
 ;bg black,22
 bg mugen_02,2
 
-　恐怖に駆られた彼女は、……いつまでも気付けない。@
+;　恐怖に駆られた彼女は、……いつまでも気付けない。@
+` Driven by fear... she will never notice.`@
 br
-　階段を降りても降りても、……降りても降りても、次の階に辿り着けない。@
-　延々と踊り場が繰り返されるだけだ。\
-
-　まるで、ハムスターが滑車の中でぐるぐると、何かに急き立てられるかのように走り続けるように。@……いつまでもぐるぐると、無限の階段を駆け下り続ける。\
-
-　やがて彼女も、いつかは気付くだろう。@
+;　階段を降りても降りても、……降りても降りても、次の階に辿り着けない。@
+` No matter how many stairs she goes down, and down... and down, and down, she will never reach the next floor.`@
+;　延々と踊り場が繰り返されるだけだ。\
+` She'll just keep winding down the same stairway landings over and over again.`\
+;　まるで、ハムスターが滑車の中でぐるぐると、何かに急き立てられるかのように走り続けるように。@……いつまでもぐるぐると、無限の階段を駆け下り続ける。\
+` Like a hamster in a wheel, she will continue running as if something was chasing her.`@`... Running in circles forever, down an endless staircase.`\
+;　やがて彼女も、いつかは気付くだろう。@
+` Eventually she may realize.`@
 br
-　終わりなき無限の階段に、辿り着く先など存在しないということを。\
-
+;　終わりなき無限の階段に、辿り着く先など存在しないということを。\
+` That she's on an endless staircase that doesn't go anywhere.`\
 ;bg black,22
 bg mugen_03,2
 
-　しかしそれでも、新谷の足は止まらなかった。@
-　止まれば、あの美術室の恐ろしい絵画の何れかに飲み込まれてしまう。@
-　その恐怖が、彼女を永遠に駆り立て続けるのだ。\
-
-　それでもいつか気付くだろう。@……ここがすでに、絵画の中の世界なのだと。\
-
+;　しかしそれでも、新谷の足は止まらなかった。@
+` But she will never stop running.`@
+;　止まれば、あの美術室の恐ろしい絵画の何れかに飲み込まれてしまう。@
+` For if she does, she will be dragged into one of those terrible pictures in the art room.`@
+;　その恐怖が、彼女を永遠に駆り立て続けるのだ。\
+` And that fear will spur her on for all eternity.`\
+;　それでもいつか気付くだろう。@……ここがすでに、絵画の中の世界なのだと。\
+` But eventually she may realize.`@`... That she's already in one of those pictures.`\
 bg black,22
 
-　何故か涙が止まらなかった。@それがどんな感情に起因するものなのかは分からなかった。@
-　恐怖か、絶望か。@それとも、この期に及んでようやく、悔悟の念が湧いたのか。@
-　涙と一緒に鼻水や涎までもが溢れ出した。\
-
-　体中の水分をぼたぼたと垂れ流しながら、新谷は無限に階段を駆け下り続ける。@
+;　何故か涙が止まらなかった。@それがどんな感情に起因するものなのかは分からなかった。@
+` For some reason, she couldn't stop crying. `@`But she didn't know what emotion was causing it.`@
+;　恐怖か、絶望か。@それとも、この期に及んでようやく、悔悟の念が湧いたのか。@
+` Was it dread, or despair? `@`Or perhaps she was finally feeling remorse for her actions.`@
+;　涙と一緒に鼻水や涎までもが溢れ出した。\
+` Tears flowed from her eyes, snot from her nose and drool from her mouth.`\
+;　体中の水分をぼたぼたと垂れ流しながら、新谷は無限に階段を駆け下り続ける。@
+` Liquid dripped from her whole body, as she ran down that endless staircase.`@
 br
-　……地獄があるなら、ここだと思った。\
-
+;　……地獄があるなら、ここだと思った。\
+` ...If there is a hell, this would be it.`\
 wait 2000
 
 fede 0,2000
@@ -4437,128 +4448,148 @@ ld c,HIG_w3,22
 
 bgm1 5
 
-「私の狩りとは趣きが違うけれど。@……あんたの狩りも、なかなかに残酷ね。」@
-
+;「私の狩りとは趣きが違うけれど。@……あんたの狩りも、なかなかに残酷ね。」@
+`"It lacks the grace of my hunts.... `@`but your hunts are pretty cruel too."`@
 ld r,RUN_D2,22
 
-「………彼女を殺しはしないよ。@……永遠の時間の中で、彼女が考えを改めてくれるよう、檻に閉じ込めただけだから。」\
-
+;「………彼女を殺しはしないよ。@……永遠の時間の中で、彼女が考えを改めてくれるよう、檻に閉じ込めただけだから。」\
+`".....I will not kill her.`@`... I've just trapped her in a jail cell to think about what she's done, for all eternity."`\
 cl c,0
 ld l,HIG_d2,24
 
-「じゃあ、私はこれで。@……ご馳走様。@あんな女の魂でも、たまには珍味でおいしいわ。@くすくすくすくすくす………。」\
-
+;「じゃあ、私はこれで。@……ご馳走様。@あんな女の魂でも、たまには珍味でおいしいわ。@くすくすくすくすくす………。」\
+`"Well then, I'll be taking my leave.`@`... Thanks for the food. `@`Every once in a while a soul like hers makes for a rare treat. `@`Teeheeheehee...."`\
 bg black,24
 bg kaiga_02,24
 
-　彼岸花は姿を消そうとして、ふと気が付き、@もう一度、新谷の閉じ込められた『上昇と下降』という名の、無限階段の絵画を見る。\
-
-「これ。@誰か気付くんじゃない？」@
-「……さぁね。@……気付いて、本物のエッシャーの絵に興味を持ってもらえるなら、美術室の妖怪として嬉しいね。」\
-
-　絵には、無限階段をぐるぐると回り続ける人々が描かれている。@
+;　彼岸花は姿を消そうとして、ふと気が付き、@もう一度、新谷の閉じ込められた『上昇と下降』という名の、無限階段の絵画を見る。\
+` Just as Higanbana was about to disappear, she happened to notice something. `@`She looked again at the picture of endless staircases that Shintani had been pulled into, 'Ascending and Descending.'`\
+;「これ。@誰か気付くんじゃない？」@
+`"Hey. `@`Won't someone notice that?"`@
+;「……さぁね。@……気付いて、本物のエッシャーの絵に興味を持ってもらえるなら、美術室の妖怪として嬉しいね。」\
+`"...Who knows.`@`... But if they do know the Escher original well enough to notice, then as a youkai of the art room, I'll be quite happy."`\
+;　絵には、無限階段をぐるぐると回り続ける人々が描かれている。@
+` In the picture, there are numerous people drawn walking around that endless staircase.`@
 br
-　その中に、………１人だけ女が描き足されているのだ。\
-
-　疲れ切ってやつれ果て、顔は涙で化粧をぐちゃぐちゃにしている、哀れな女。@
+;　その中に、………１人だけ女が描き足されているのだ。\
+` And among them..... a single woman was added.`\
+;　疲れ切ってやつれ果て、顔は涙で化粧をぐちゃぐちゃにしている、哀れな女。@
+` A pitiful, exhausted woman, with tears smearing her makeup down her face.`@
 br
-　……足は擦り切れそうなほどにボロボロなのに、@……それでもなお、階段を下り続けることを永遠に強要されている……。\
-
+;　……足は擦り切れそうなほどにボロボロなのに、@……それでもなお、階段を下り続けることを永遠に強要されている……。\
+` ...And even though her legs are worn out.... `@`She will continue to be forced to run down those stairs for all eternity...`\
 bg black,22
 bg bijutu_03,22
 ;ld l,HIG_D3,24
 ld l,HIG_D5,22
 
-「じゃあね。@いずれ、また。@……あんたももう少し狩りをして力を蓄えないと。@今回みたいに、いざって時に力が出せないわよ？@　スミレなんか、健気にずいぶん頑張っているというのに。」\
-
+;「じゃあね。@いずれ、また。@……あんたももう少し狩りをして力を蓄えないと。@今回みたいに、いざって時に力が出せないわよ？@　スミレなんか、健気にずいぶん頑張っているというのに。」\
+`"Alright. `@`See you some other time.`@`... Try to save up some strength for your next hunt. `@`Otherwise you'll be worthless next time you're in a pinch. `@`Sumire's been working pretty hard too, you know?"`\
 ld r,RUN_D8,24
 ld r,RUN_D1,80
 
-「そうだね。@……美術室で不真面目をする悪い子には、@たまには少しお仕置きをしてあげるのもいいかもしれない。」@
-
+;「そうだね。@……美術室で不真面目をする悪い子には、@たまには少しお仕置きをしてあげるのもいいかもしれない。」@
+`"Yeah.`@`... There are some bad kids that good around in the art room every once in a while. `@`It might be a good idea to give them a little punishment."`@
 ld l,HIG_W3,80
 
-「くすくすくす。@……じゃあね、ルノワール。@またいつか。@１３組のホームルームの時にでも。」\
-
+;「くすくすくす。@……じゃあね、ルノワール。@またいつか。@１３組のホームルームの時にでも。」\
+`"Teeheehee`@`... Bye, Renoir. `@`See you later. `@`Probably at one of class 13's homerooms."`\
 cl l,42
 
-　彼岸花は姿を消す。@
+;　彼岸花は姿を消す。@
+` Higanbana disappeared.`@
 br
-　後には、ルノワールと静寂を取り戻した美術室があるだけだった。\
-
+;　後には、ルノワールと静寂を取り戻した美術室があるだけだった。\
+` And thus, there was nothing left in the art room with Renoir but silence.`\
 cl r,0
 ld c,RUN_D7,24
 
-「……そうだね。@……彼岸花の言う通りかもしれない。@………僕にもっと力があれば。@……君を守ってあげることも出来たんだ……。」@
+;「……そうだね。@……彼岸花の言う通りかもしれない。@………僕にもっと力があれば。@……君を守ってあげることも出来たんだ……。」@
+`"...Yeah.`@`... She may be right.`@`... If I had more power... `@`I might have been able to protect you..."`@
 br
-　ルノワールは、床に散っているスケッチの一枚を拾い上げる。\
-
-　その一枚に描かれている裕貴は、……静かに柔らかく微笑んでいた。\
-
+;　ルノワールは、床に散っているスケッチの一枚を拾い上げる。\
+` Renoir picked up one of the sketches that had fallen to the floor.`\
+;　その一枚に描かれている裕貴は、……静かに柔らかく微笑んでいた。\
+` In that picture... Yuuki had a quiet and soft smile on his face.`\
 ld c,RUN_D2,80
 
-「…………………。」@
+;「…………………。」@
+`".........."`@
 br
-　ルノワールが久々に出会った人間が、彼だった。@
-　彼は自分と対話が出来る、貴重な波長の持ち主だった。\
-
+;　ルノワールが久々に出会った人間が、彼だった。@
+` He was the first human that Renoir had talked to in a long time.`@
+;　彼は自分と対話が出来る、貴重な波長の持ち主だった。\
+` He was able to converse with me, he has such a valuable wavelength.`\
 bg black,22
 
-　彼は美術に関心があり、短い時間とはいえ、素晴らしい話し相手になってくれた。@
+;　彼は美術に関心があり、短い時間とはいえ、素晴らしい話し相手になってくれた。@
+` He showed a great interest in the arts, and although the time we had together was short, he made for a wonderful person to talk to.`@
 br
-　自分の髪が長く、スカートを履いているせいで、女の子に見られるのが悩みだと打ち明けたら。@……彼は言ったんだ。\
-
+;　自分の髪が長く、スカートを履いているせいで、女の子に見られるのが悩みだと打ち明けたら。@……彼は言ったんだ。\
+` When I was troubled with how much I looked like a girl because of my long hair and skirt.`@`... he told me this.`\
 mono 1
 
 bg bijutu_02,0
 ld c,NOD_D2,22
 ld c,NOD_D3,80
 
-『……もし本当に気に入らないんだったら、服とか変えてみたらどうかな？@　それとも少し髪を切ってみるとか……。』@
+;『……もし本当に気に入らないんだったら、服とか変えてみたらどうかな？@　それとも少し髪を切ってみるとか……。』@
+`"...If you really don't like how you look, why not try changing your clothes? `@`Or maybe cut your hair shorter..."`@
 br
-　髪を切り、服を変えた。@
-　その姿をもう一度、彼に見せたかった。\
-
+;　髪を切り、服を変えた。@
+` I cut my hair, and changed my clothes.`@
+;　その姿をもう一度、彼に見せたかった。\
+` I wish I could show him how I look now on more time.`\
 bg black,22
 
 mono 0
 
 bg kaiga_02,22
 
-「……裕貴くん。@………せめて、君の気に入ってくれた美術室がわずかでも美しくなるように。@………この部屋の新しい主となる先生に働きかけて、@……怖い絵だけじゃなく、楽しい絵も入れてもらおうと思うんだ。」\
-
-　あの日、彼とこの部屋でした、様々な絵の議論が思い返される。\
-
-　この絵はなんだか子供の落書きみたい。@
-　この絵は怖いけど、色彩がすごく綺麗。@
+;「……裕貴くん。@………せめて、君の気に入ってくれた美術室がわずかでも美しくなるように。@………この部屋の新しい主となる先生に働きかけて、@……怖い絵だけじゃなく、楽しい絵も入れてもらおうと思うんだ。」\
+`"...Yuuki.`@`.... At least I could make the art room the you liked a little better looking.`@`.... This room will get a new teacher as its master.`@`... and they won't just put up scary pictures, they'll put up fun pictures as well."`\
+;　あの日、彼とこの部屋でした、様々な絵の議論が思い返される。\
+` I thought back on the various pictures we discussed that day.`\
+;　この絵はなんだか子供の落書きみたい。@
+` This picture looks like a little kid's scribbles.`@
+;　この絵は怖いけど、色彩がすごく綺麗。@
+` This picture is scary, but the colors are really pretty.`@
 br
-　僕はこの絵が一番好き。@
-　いや、僕はこっちの方が。@
+;　僕はこの絵が一番好き。@
+` I like this one best.`@
+;　いや、僕はこっちの方が。@
+` No wait, I like this one more.`@
 br
-　短かったけど、とても楽しい時間だった。@
-　学校妖怪になってから、人間とこんなにも楽しく交流できるなんて、思ったこともなかった。\
-
-　……人間はただのエサ。@彼らを怖がらせて生きるのが、自分たちの役目。@
+;　短かったけど、とても楽しい時間だった。@
+` Our time was short, but it was so fun.`@
+;　学校妖怪になってから、人間とこんなにも楽しく交流できるなんて、思ったこともなかった。\
+` Since I became a school youkai, I never thought that I would have such a fun conversation with a human.`\
+;　……人間はただのエサ。@彼らを怖がらせて生きるのが、自分たちの役目。@
+` ...Humans are just prey. `@`It's our job to make them live in fear.`@
 br
-　そう思い込んできたのに。@
-　……………………。\
-
+;　そう思い込んできたのに。@
+` That's what I thought, but...`@
+;　……………………。\
+` ...........`\
 bg black,22
 bg kaiga_01,0
 ld c,RUN_D2,22
 ld c,RUN_D8,80
 
-「……そう言えば。@……彼岸花も、人間に興味を持ったことがあったって言ってたっけ。@………８位の子も、元は人間だそうだし。」@
+;「……そう言えば。@……彼岸花も、人間に興味を持ったことがあったって言ってたっけ。@………８位の子も、元は人間だそうだし。」@
+`:...That's right.`@`... Higanbana said that she too once had interest in a human.`@`... Apparently the 8th ranked girl used to be a human too."`@
 br
-　新谷のような、欲望の塊のような人間がいる一方で。@
-　……時に、自分が妖怪であることさえ忘れさせてくれるような、……彼のような人間もいる。\
-
+;　新谷のような、欲望の塊のような人間がいる一方で。@
+` While, on one hand, there are humans with lust-filled souls like Shintani...`@
+;　……時に、自分が妖怪であることさえ忘れさせてくれるような、……彼のような人間もいる。\
+` ...Sometimes there are humans that make use want to forget we are youkai... like him.`\
 ld c,RUN_D1,80
 
-「……面白いな。@人間は。」@
+;「……面白いな。@人間は。」@
+`"...They're so interesting. `@`Those humans."`@
 br
-　だから絵画のモチーフに、人間はこれほど多く選ばれるのだ。\
-
+;　だから絵画のモチーフに、人間はこれほど多く選ばれるのだ。\
+` There are as many different kinds of humans as there are motifs in artwork.`\
 cl c,2
 
 bg black,2
@@ -4572,22 +4603,26 @@ bg bijutu_01,2
 
 bgm1 29
 
-　“美術室のルノワール”の怪談は、その後も時折、囁かれる。@
+;　“美術室のルノワール”の怪談は、その後も時折、囁かれる。@
+` After that, every once in a while, there were whispers of the story of 'Renoir of the Art Room.'`@
 br
-　放課後に、誰もいないはずの美術室で、不思議な少年に話し掛けられたという話が。\
-
-　しかし、美術を愛する子と楽しく議論にふけるだけで、@恐ろしい目に遭わせようとしたという話は聞かない。@
+;　放課後に、誰もいないはずの美術室で、不思議な少年に話し掛けられたという話が。\
+` The story about a strange boy that will talk to you if you go into the art room after school when nobody should be there.`\
+;　しかし、美術を愛する子と楽しく議論にふけるだけで、@恐ろしい目に遭わせようとしたという話は聞かない。@
+` But, because he will get absorbed in a discussion with kids who love art, `@`it doesn't sound like that scary of a story.`@
 br
-　美術部員の間では、彼に出会えれば画力が上がるなどと言われ、崇められつつもあるようだ。\
-
+;　美術部員の間では、彼に出会えれば画力が上がるなどと言われ、崇められつつもあるようだ。\
+` The students in the art club even sing his praises, saying that if you meet him your skill at art will increase.`\
 bg black,22
 bg kaiga_02,22
 
-　……しかし、敬いを忘れてはならない。@
-　妖怪は、敬う者には寛大だが、そうでない者には、……………。@
+;　……しかし、敬いを忘れてはならない。@
+` ...But, you mustn't forget to show respect.`@
+;　妖怪は、敬う者には寛大だが、そうでない者には、……………。@
+` Youkai will tolerate those who show respect, but those who don't.......`@
 br
-　美術室に飾られたエッシャーの絵に、女の姿が増えていることに気付く生徒は、まだいない。\
-
+;　美術室に飾られたエッシャーの絵に、女の姿が増えていることに気付く生徒は、まだいない。\
+` There still hasn't been a single student who has noticed the extra woman in the Escher print on the art room wall.`\
 
 ;＜おしまい＞
 
