@@ -73,7 +73,7 @@ br
 ;　それは、足音。@
 `　And that was footsteps.`@`
 ;　踵でごつごつと踏み鳴らす荒々しい足音が、足早に近付いてくるのだ。\
-`　The sound of heels, rough footsteps, trodding across the floor, were closing fast.`\
+`　The sound of heels, rough footsteps, tredding across the floor, were closing fast.`\
 
 ;「……嫌……、嫌…………。」@
 `"...No... No......"`@
@@ -146,7 +146,7 @@ br
 ld c,AYA_D3,6
 
 ;　クラス全体が、がたがたと立ち上がる中、……私は少し遅れでのっそりと立ち上がる。@
-`　While everyone else in class clammored to stand up... I lagged behind and sluggishly rose from my seat.`@ 
+`　While everyone else in class clamored to stand up... I lagged behind and sluggishly rose from my seat.`@ 
 br
 ;　気付けば、黒板は文字でいっぱいだ。@
 `　I noticed the chalk board was covered in writing.`@
@@ -343,7 +343,7 @@ ld r,AYA_D4,22
 `　I've also heard the story of the 13th step.`@
 br
 ;　ぴったり１３段の階段なんて学校には存在しないはずなのに。@唐突に階段が１３段になってしまうらしいという怪異。@
-`　Even though the school shouldn't have a 13 steps on a flight of stairs. `@`There's now this strange phenomenom that has just developed about a 13th step.`@
+`　Even though the school shouldn't have a 13 steps on a flight of stairs. `@`There's now this strange phenomenon that has just developed about a 13th step.`@
 ;　そして、それを踏んだ者には、恐ろしいことが起こるとか何とか……。\
 `　And they say that horrors await those who stumble upon it, or some such...`\
 
@@ -429,7 +429,7 @@ br
 `　However, the steps end at the 12th step, and beyond the 12th step I'd arrive on the second floor.`\
 
 ;　……当然のことながら、@何度上り下りを試しても、１２段で踊り場で、さらに１２段で２階だった。@
-`　...Like the most natrual thing in the world, `@`no matter how many times I'd try going up and down the stairs, I'd get off at the 12th step and arrive on the second floor.`@
+`　...Like the most natural thing in the world, `@`no matter how many times I'd try going up and down the stairs, I'd get off at the 12th step and arrive on the second floor.`@
 br
 ;　その１２段が、……ある日、唐突に１３段になって、……死神が現れてくれないだろうか。\
 `　I thought maybe that some day... suddenly a 13th step would appear... and a god of death would come for me.`\
@@ -513,7 +513,7 @@ br
 `　.........`@
 br
 ;　私は階段を上る時、無意識だが常に右足から上るのだ。@
-`　When I went up the stairs, I unconciously always went up with the right foot.`@
+`　When I went up the stairs, I unconsciously always went up with the right foot.`@
 ;　だから、偶数である１２段を上れば、それは左足で至ることになる。\
 `　And so, coincidentally my left foot would reach the 12th step.`\
 
@@ -558,7 +558,7 @@ br
 ;　……そんなものだ。@
 `　...That's how it is.`@
 ;　私は、安堵とも落胆ともつかない溜息を漏らし、@……もう二度と、階段を数えながら上り下りすることはないだろうと思うのだった。\
-`　I let loose a sigh of releif and disappointment. `@`...I thought I didn't need to go up and down the stairs to count again.`\
+`　I let loose a sigh of relief and disappointment. `@`...I thought I didn't need to go up and down the stairs to count again.`\
 
 ld r,AYA_D3,80
 
@@ -679,17 +679,17 @@ br
 ` At school and at home, `@`...mixed with her sloth and dozing, she'd lay still and become a rotting corpse.`\
 
 ;　それで、せめて無心だったなら、彼女もさぞや気楽だったろう。@
-` One would think because she was unconcious she would have been comfortable.`@
+` One would think because she was unconscious she would have been comfortable.`@
 br
 ;　しかし、彼女は生きている。@
 ` However, she is still living.`@
 ;　だから、死体になりながらも延々と、@自分の意味や価値、生きることの意味や価値への自問自答を繰り返しているのだ。\
 ` So each time she would become a corpse,`@` she would repeatedly ask herself the meaning and value in her life.`\
 ;　それに窒息し掛けながら、希薄な意識のまま、緩い頭痛に彼女はずっとずっと苛まれ続けている……。@
-` As she suffocates in this manner, in her dull conciousness she continues to be endlessly tormented by a throbbing headache...`@
+` As she suffocates in this manner, in her dull consciousness she continues to be endlessly tormented by a throbbing headache...`@
 br
 ;　だから、ふと意識が途切れて、わずかにでも眠り側に入った時だけが、@彼女の唯一の解放された時間だったに違いない………。@
-` Thus, when her conciousness is suddenly cut and she can cross into sleep,`@` without a doubt that is her only release from the pain...`@
+` Thus, when her consciousness is suddenly cut and she can cross into sleep,`@` without a doubt that is her only release from the pain...`@
 br
 ;　それが、相馬あやの、繰り返される死体のような日々だった……。\
 ` These were the repeating days of the corpse-like Aya Souma...`\
@@ -785,7 +785,7 @@ br
 me1v 17,70
 
 ;　少女にも、その禍々しい姿が近付いてくるのが見えているはず。@
-` That must be be aparent to the girl as well as his ominous shadow drew closer.`@
+` That must be be apparent to the girl as well as his ominous shadow drew closer.`@
 br
 ;　しかし、もう立ち上がる気力はおろか、振り返る気力さえもないようだった。\
 ` However, she didn't have the energy to look over her shoulder or even stand.`\
@@ -904,9 +904,9 @@ me2v 28,100
 ` The soul of the completely burnt girl fell into the depths of abyss.`@
 br
 ;　無我の境地などとんでもない。@
-` There was no unconciousness or loss of self.`@
+` There was no unconsciousness or loss of self.`@
 ;　全身は焼ける痛みと凍える痛みではちきれそうで。@どこまでも無限に落下していく恐怖で心も破裂しそうだった。\
-` Her whole body burst with the pain of burning and freezing.`@` Her heart was full to burst from the plumetting endless horror.`\ 
+` Her whole body burst with the pain of burning and freezing.`@` Her heart was full to burst from the plummeting endless horror.`\ 
 se1 24
 se2v 66,100
 bg aka2,8
@@ -1064,7 +1064,7 @@ bg k_rouka_03,0
 ld c,IZA_D5,22
 
 ;　……あの死神の男の眼光。@笑い声。@……あの胃袋のようなおぞましい世界で、@死ぬことも出来ず、哀れに蠢く犠牲者たちの苦悶の声。@
-` ...That shinigami. `@`His laughter. `@`...the voices of those poor, undying, writhing victims in that world not unike a hideous monster's stomach.`@
+` ...That shinigami. `@`His laughter. `@`...the voices of those poor, undying, writhing victims in that world not unlike a hideous monster's stomach.`@
 br
 ;　全てがありありと思い出せる。\
 ` I could remember it all.`\
@@ -1263,7 +1263,7 @@ br
 ;　しかし、消えたのだ。@
 ` But it was gone.`@
 ;　この世界から、教室から、……私、相馬あやを除く、全ての人間が、@まるで蛍光灯がぽんと消えるかのように、……唐突に消え去ったのだ。\
-` Like the pop of a flourescent light going out, `@`everyone in the world and in the classroom disappeared... except for me... Aya Souma.`\
+` Like the pop of a fluorescent light going out, `@`everyone in the world and in the classroom disappeared... except for me... Aya Souma.`\
 bg black,23
 bg kyou_02u,23
 ld r,AYA_D9,24
@@ -1322,7 +1322,7 @@ br
 ld c,AYA_D7a,22
 
 ;　………この、嫌な橙色に染まった校内を、……私は覚えている。@
-`　...I remembered seeing this detestibly orange colored school interior before.`@
+`　...I remembered seeing this detestably orange colored school interior before.`@
 br
 ;　あの、悪夢の中の光景だ。@
 `　It was the background from my nightmare.`@
@@ -1412,7 +1412,7 @@ br
 `　Then... donning that jet black cloak across his back... a man with a large build slid open the door from the hallway.`@
 br
 ;　それは、紛れもなく、………あの、………死神………。\
-`　Tht was without a doubt... that... shinigami.`\
+`　That was without a doubt... that... shinigami.`\
 
 silent 3,1
 se2v 82,100
@@ -1455,7 +1455,7 @@ br
 ;　とにかく、目の前に、あの恐ろしい死神が実在することが現実であり。@
 `　Regardless, the reality is that standing before my very eyes is that terrifying shinigami.`@
 ;　そして、逃げなければ殺されて、@あの恐ろしい肉色の、胃袋の地獄に落ちて永遠にもがき苦しむことになるのだ。\
-`　Therefore if I can't run away I'll be killed, `@`and be plumeted into that horrific organ-colored hell stomach to writhe in agony for eternity.`\
+`　Therefore if I can't run away I'll be killed, `@`and be plummeted into that horrific organ-colored hell stomach to writhe in agony for eternity.`\
 
 ld l,AYA_D8a,80
 
@@ -1473,7 +1473,7 @@ ld r,IZA_D5,80
 `　As he said that, the shinigami directed with his chin for me to get out of the classroom.`@
 br
 ;　……もしそれを断れば、……この教室という袋小路で、即座に死神に捕まって、……地獄行きだ。\
-`　...And if I refused to do that, ...he would catch me right away in this deadend classroom, ...and to hell I would go.`\
+`　...And if I refused to do that, ...he would catch me right away in this dead-end classroom, ...and to hell I would go.`\
 
 ld l,AYA_D5a,80
 
@@ -1597,7 +1597,7 @@ ld c,IZA_D3,22
 ld c,IZA_D6,80
 
 ;「俺に本来、名前はねェ。@ただの１３階段の死神だった。@それを、どっかの誰かが、黄泉津大神のイザナミの名を与えてくれた、ってわけだ。@気に入ったから、それ以来、俺の名前にさせてもらってるがなァ。@……しかしよ、イザナミってのは本来、女の名前だぜ？@　何とも間抜けな話だぜェ、くっはっはっは…！！」\
-`"Until recently, I had no name. `@`I was just the Reaper of the 13th Step. `@`And then somebody somewhere told me the name of Izanami, Lord of the Underworld. `@`I liked it, so from that day forth I made that name mine. `@`...Although Izanami was apparantly originally a woman's name? `@`Can you believe it? Ku hah hah hah!!"`\
+`"Until recently, I had no name. `@`I was just the Reaper of the 13th Step. `@`And then somebody somewhere told me the name of Izanami, Lord of the Underworld. `@`I liked it, so from that day forth I made that name mine. `@`...Although Izanami was apparently originally a woman's name? `@`Can you believe it? Ku hah hah hah!!"`\
 
 ;　イザナミはそう話しながらも、決して、足を止めることはない。@
 `　Even while Izanami carried on this conversation, his legs didn't stop.`@
@@ -1690,7 +1690,7 @@ bg white,48
 `　What? `@`What's happening?!`@
 br
 ;　目がぐるぐると回り、気持ち悪くなって、立っていられない。@
-`　I felt dizzy, queezy, and I couldn't remain standing.`@
+`　I felt dizzy, queasy, and I couldn't remain standing.`@
 ;　遊園地のメリーゴーランドやコーヒーカップで感じるような眩暈。\
 `　It was vertigo like going on the merry-go-round or coffee cup rides at an amusement park.`\
 
@@ -1710,10 +1710,10 @@ me1v 5,50
 bg mansion_01,42
 
 ;　遠くから聞こえてくる風の音が、……町の喧騒であると気付くまでの間、@私はずっと頭を抱えてしゃがみ込んでいた。\
-`　While I began to hear the sound of wind in the distance, ...seemingly amonst the clamor of the middle of town, `@`I had been crouched and holding my head for the longest time.`\
+`　While I began to hear the sound of wind in the distance, ...seemingly amongst the clamor of the middle of town, `@`I had been crouched and holding my head for the longest time.`\
 
 ;　遠くで車の走る音。@どこかの家の換気扇の音。@自転車のベルの音や、走り回る子供の笑い声。@
-`　The sound of cars in the distance. `@`The hum of a ventalation fan from someone's house. `@`The sound of bicycle bells and the laughter of children playing.`@
+`　The sound of cars in the distance. `@`The hum of a ventilation fan from someone's house. `@`The sound of bicycle bells and the laughter of children playing.`@
 br
 ;　……恐る恐る目を開くと……。\
 `　...Fearfully, carefully, I open my eyes and...`\
@@ -2081,7 +2081,7 @@ br
 ;　しかし、イザナミが夢の中で言ったように。@……これは現実なのだ。@
 ` However, just as Izanami said in the dream, `@`...this is reality.`@
 ;　恐らくは、明日も明後日も、帰りのホームルームが終わる度に、@あの異世界で死神と命懸けの鬼ごっこをすることになるのだ。\
-` Tomorrow, and probably the day after that, each time class ends, `@`in that seperate dimension, with my life at stake, that's when my game of demon tag against that shinigami begins.`\
+` Tomorrow, and probably the day after that, each time class ends, `@`in that separate dimension, with my life at stake, that's when my game of demon tag against that shinigami begins.`\
 fede 0,1000
 E_A
 
@@ -2111,7 +2111,7 @@ bg rouka_03,0
 ld c,IZA_D6,22
 
 ;　ほんの数分間とはいえ、死神との死闘を生き延びて得た、……生の一瞬。@
-` Although it only lasted a few minutes, that life or death struggle with the Shinigami made me feel, for a moment... alive.`@ 
+` Although it only lasted a few minutes, that life or death struggle with the shinigami made me feel, for a moment... alive.`@ 
 br
 ;　しかし、その一瞬には、何の意味もない。\
 ` But that moment had no meaning.`\
@@ -2206,7 +2206,7 @@ bg rouka_04,22
 bgm1 15
 
 ;　それから、放課後のゲームは学校がある限り、毎日続いた。@
-`　From then on, as long as I had school those afterschool games continued every day.`@
+`　From then on, as long as I had school, those after-school games continued every day.`@
 ;　毎日、少しずつ、逃げ延びるための時間は増えていった。@
 `　Every day, little by little, the time I needed to keep running away increased.`@
 br
@@ -2237,7 +2237,7 @@ br
 `　After one week had passed, I had to run around almost as long as my P.E. period.`\
 
 ;　……もう、体がぎりぎりの限界だった。@
-`　...Unfortuantely, my body was just about at its limit.`@
+`　...Unfortunately, my body was just about at its limit.`@
 br
 ;　全身、汗だくで、肺も心臓も爆発しそう。@
 `　My whole body covers in sweat, my lungs and heart seem full to burst.`@ 
@@ -2338,7 +2338,7 @@ ld r,MIC_D1,23
 `"............"`@
 br
 ;　桜田みちるは、……眼帯の向こうに隠されているという霊眼で、私をじっと見ているようだった。\
-`　It seemed like.... Michiru Sakurada was staring a me intently... with her spirit eye hidden on the otherside of her eyepatch.`\
+`　It seemed like.... Michiru Sakurada was staring a me intently... with her spirit eye hidden on the other side of her eyepatch.`\
 
 ld l,AYA_D4a,80
 
@@ -2427,12 +2427,12 @@ ld l,MIC_D3,22
 ld l,MIC_D4,80
 
 ;「………イザナミの呪いは、四十九日、続くんだって。」@
-`"...Izanami's curse lasts for fourty-nine days."`@
+`"...Izanami's curse lasts for forty-nine days."`@
 
 ld r,AYA_D5a,80
 
 ;「し、四十九日って、４９日間？！@　……って、な、７週間……？！」@
-`"F- Fourty nine?! 49 days?! `@`...That means, s- seven weeks...?!"`@
+`"F- Forty-nine?! 49 days?! `@`...That means, s- seven weeks...?!"`@
 br
 ;　私は仰天する。@いや、頭が真っ白になるのを感じた。\
 `　The thought horrified me. `@`My mind went blank.`\
@@ -2541,7 +2541,7 @@ ld c,MIC_D1,80
 `　I wonder who that person is.`@
 br
 ;　数時間を見事に走りきった、強健なアスリートなのだろうか。@
-`　Perhaps they were some kind of extremely healthy athelete to be able to perform such a feat like running for so long.`@ 
+`　Perhaps they were some kind of extremely healthy athlete to be able to perform such a feat like running for so long.`@ 
 ;　……だとしたらお手上げだ。@私如き、ひ弱な小娘には、逆立ちしたって真似が出来ない。\
 `　...If that's the case, it's just skill. `@`For a delicate little girl like myself, I can't even do a handstand.`\
 
@@ -2704,7 +2704,7 @@ ld c,AYA_D7a,80
 ;「い、……生き延びることが出来るよ。」\
 `Y-... You can survive.`\
 ;「だから！@　生き延びて、俺の人生に何の意味があるって言うんだよぉ？！@　勉強も出来ない、運動も出来ない！@　友達もいない、趣味なんか何もない！！@　毎日毎日、退屈で死にそうだった。@いやむしろ、死にたいとさえ思ってたさ…！！」\
-`"I'm asking you! `@`What's the point of me suriving?! `@`I can't study, I can't exercise! `@`I have no friends, I have no hobbies! `@`Every day I felt like I'd die from boredom.`@`No, I wanted to die..!!"`\
+`"I'm asking you! `@`What's the point of me surviving?! `@`I can't study, I can't exercise! `@`I have no friends, I have no hobbies! `@`Every day I felt like I'd die from boredom.`@`No, I wanted to die..!!"`\
 bg black,22
 
 ;　雪が解けるように、眠るように死にたい。@
@@ -2839,7 +2839,7 @@ bgm1 14
 `... you mentioned that since it's Wednesday, somehow you'll manage, right...?"`@
 br
 ;　確かに言った。@今日は水曜日だしな、今日は何とかなるだろうがと、確かに言った。\
-` I'm that's what I heard him say. `@`That since today is Wednesday he would somehow manage to surive. That's definitely what he said. `\
+` I'm that's what I heard him say. `@`That since today is Wednesday he would somehow manage to survive. That's definitely what he said. `\
 ;「あ、……あぁ。@……理由はわからねぇが。@……どういうわけか、月曜と水曜と土曜は、少しだけ時間が短いんだ。@……逆に、火曜と木曜と金曜は長い。@昨日は火曜だから最悪だった。@……今日は水曜だから多少マシだが、……その次は木曜だ。@……もう、俺は助からねぇ……。」\
 `"Ah... yeah.`@`... I don't know why... `@`but for some reason, on Mondays, Wednesdays and Saturdays, the amount of time I have to run is shorter.`@`.. but on the other hand, Tuesdays, Thursdays and Fridays are longer. `@`Yesterday was Tuesday, so it was the worst.`@`... Today is Wednesday so it's not as bad... but then it's going to be Thursday.`@`.... I'm not going to make it..."`\
 ;cl r,0
@@ -2965,7 +2965,7 @@ br
 ;　……今日も１時間たっぷり、校内を駆け回ることになる。\
 ` ...Today I will be racing around the school halls for a full hour.`\
 ;　生き延びて何かをしたいなんて、前向きな気持ちは何もない。@
-` I wasn't looking forward to survivng at all.`@
+` I wasn't looking forward to surviving at all.`@
 br
 ;　あるのは、あの地獄だけはごめんだという、後ろ向きな気持ちだけ。\
 ` All I wanted was to be spared a trip to hell.`\
@@ -2978,7 +2978,7 @@ br
 ;　イザナミの言う通り、……頭をカラッポにして、ひたすらに走り続けるのが最善なのだ。\
 ` It was just like Izanami said... The best things I can do is just empty my mind and run.`\
 ;　１時間は、運動の苦手な私には、すでに限界にも等しい時間だ。@
-` For someone as unathletic as me, one hour was already my limit.`@
+` For someone as non-athletic as me, one hour was already my limit.`@
 br
 ;　昨日までの私ならば、絶望に潰されそうになっていただろう。\
 ` If the events of today had no happened, I would probably be giving into despair right now.`\
@@ -3319,7 +3319,7 @@ bg black,22
 ` That is the way to survive Izanami's game.`@
 br
 ;　間違いない。@過去の生還者は、この秘密に気付いたのだ。\
-` Without a doubt, `@`the previous survivor must have discoved this secret too.`\
+` Without a doubt, `@`the previous survivor must have discovered this secret too.`\
 bg koutei_05,22
 
 ;　元気な子供たちがボール遊びに夢中になる中。@私はひとり、黙々と校庭を走り続けた。@
@@ -3417,7 +3417,7 @@ br
 ld r,IZA_D6,80
 
 ;「しかし、その努力。@いつまで続けられるかなァ？@　根気も気力もからっきしのお前によォ…！@　時間もまだまだこれから、ガンガン延ばしていくんだからなァ？！@　くっくくくくく！！@　まぁ、いいさァ。@今日も始めようじゃねぇか。@さァ、楽しい放課後の始まりだァ…！！」\
-`"But, `@`how long can you keep up that routine I wonder? `@`After all, you ain't got any patience or willpower...! `@`And it's not like I'm just gonna stop incresing the time. In fact, I intend to lengthen it much more! `@`Kukukuku!! `@`Oh well, it don't matter to me. `@`What do you say we start now? `@`Now then, let's start our after school game...!!"`\
+`"But, `@`how long can you keep up that routine I wonder? `@`After all, you ain't got any patience or willpower...! `@`And it's not like I'm just gonna stop increasing the time. In fact, I intend to lengthen it much more! `@`Kukukuku!! `@`Oh well, it don't matter to me. `@`What do you say we start now? `@`Now then, let's start our after school game...!!"`\
 cl l,24
 
 wait 1000
@@ -3444,7 +3444,7 @@ br
 ;　休み時間の度に走り、走り走り走りまくった。\
 ` Every break time I ran my heart out.`\
 ;　どうやら、予め走った時間は、イザナミの世界ではそれ以上にカウントされているらしい。@
-` And it seemed that whatever amount of time I ran in advance, that counted for even more time in Inzanami's world.`@
+` And it seemed that whatever amount of time I ran in advance, that counted for even more time in Izanami's world.`@
 ;　つまり、予め、走っておけば走っておくほど、有利だということだ。@
 ` Thus, the more I ran in advance the more of an an advantage I had.`@
 br
@@ -3581,7 +3581,7 @@ me1v 5,50
 me2v 16,50
 
 ;「俺ァ、死神だ。@人間の魂を、死後のあらゆる世界に好きに連れて行ける。@あんな酷ェ地獄じゃなくて。@お前の望むような、眠るように消えられる世界に連れて行ってやってもいいんだぜ？」\
-`"I'm a shinigami, ya know? `@`I can ferry the souls of the dead to a myriad of different afterlifes. `@`What if instead of that brutal hell, `@`I brought you to a world where you could vanish away as if falling asleep, like you wanted?"`\
+`"I'm a shinigami, ya know? `@`I can ferry the souls of the dead to a myriad of different afterlives. `@`What if instead of that brutal hell, `@`I brought you to a world where you could vanish away as if falling asleep, like you wanted?"`\
 bg black,24
 bg kaidan_02,0
 ld l,AYA_D2,24
@@ -3590,7 +3590,7 @@ ld l,AYA_D2,24
 `"...........`@/
 ld l,AYA_D3,80
 ;……冗談じゃないわ。」\
-`....Don't mess wih me."`\
+`....Don't mess with me."`\
 
 ld r,IZA_D1,24
 ;ld r,IZA_D3,80
@@ -3655,7 +3655,7 @@ ld l,IZA_D4,23
 ld l,IZA_D2,80
 
 ;「くっくっくっく！@　まァ、待て。@話は最後まで聞けって。@……俺は捕まえたヤツを、あの胃袋の地獄へ放り込む。@だが、お前みてェなマズい魂はいらねェ。@しかし、俺は死神だ。@捕まえた以上、死後の世界に連れて行かねェわけにはいかねェ。」\
-`"Kukuku! `@`Don't be so hasty. `@`Hear me out.`@`... I usually take those I catch to that stomach-like hell. `@`But, I don't have any use for bad tasing souls like yourself. `@`However, I am still a shinigami. `@`Once I catch someone, I have to bring them to an afterlife."`\
+`"Kukuku! `@`Don't be so hasty. `@`Hear me out.`@`... I usually take those I catch to that stomach-like hell. `@`But, I don't have any use for bad tasting souls like yourself. `@`However, I am still a shinigami. `@`Once I catch someone, I have to bring them to an afterlife."`\
 ld r,AYA_D7a,80
 
 ;「……私に、あんたに捕まる利点がさっぱりないんですけど。」\
@@ -3708,7 +3708,7 @@ br
 ld c,IZA_D3,80
 
 ;「俺はお前との放課後をとっとと終えて、新しい狩りを始めたい。@お前は、望みの死を手に入れて、安らかに眠ることが出来る。@どうだよ。@お互いに損がねェ話だとは思わねェか……？」@
-`"Since I want to put an end to our after-school game and start hunting a new victim, `@`and you want to be able to rest peacefullly... `@`What do you think? `@`It's a win-win situation, right...?"`@
+`"Since I want to put an end to our after-school game and start hunting a new victim, `@`and you want to be able to rest peacefully... `@`What do you think? `@`It's a win-win situation, right...?"`@
 br
 ;　いつも、私を早足で追い立てていた死神が、……初めて足を止めた。@
 ` For the first time since he started chasing me... the shinigami stood still.`@
