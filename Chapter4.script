@@ -67,7 +67,7 @@ br
 ;　学校によってはこの怪談にはいろいろパターンが違うらしい。@
 ` Apparently, this ghost story changes depending on which school its told at.`@
 ;　青マントの罰が「水責め」だったり、赤、青の他に黄色マントがあったり……。\
-` Some versions of this story have The Red Cape use water torture, and some even include a yellow cape along with the other two...`\
+` Some versions of this story have The Blue Cape use water torture, and some even include a yellow cape along with the other two...`\
 
 ;　ちなみに黄色を選んだ場合の罰は「感電死」らしい。@どんなパターンにせよ、「結局は殺される」と言うところは一貫している怪談なのだそうだ。\
 ` Incidentally the punishment for the yellow cape is apparently death by electrocution. `@`In all variations the pattern is the same. No matter what you do, you'll die.`\
@@ -85,7 +85,7 @@ br
 ;　裕貴にはそれが分からなかった。\
 ` That is what Yuuki wondered.`\
 ;　自分がいったい何を望んでいるのか。@助かるものなら助かりたいのか。@生きたいのか、それとも死にたいのか。@それがよく分からなくなっていた。\
-` He wonders what he truly wants. `@`If he could survive, would he want to? `@`Would he want to live, or to die? `@`He simply does not know.`\
+` He is wondering what he really wants. `@`If he could survive, would he want to? `@`Would he want to live, or to die? `@`He simply does not know.`\
 bg bijutu_06,22
 ;ld c,NOD_D1,22
 ;ld c,NOD_D4,80
@@ -93,7 +93,7 @@ bg bijutu_06,22
 ;　自分は一体何を望んでるんだろう。@
 ` Just what does he want?`@
 ;　服の上から腕の傷をおさえる。@
-` He rubbed a cut on his arm through his sleeve.`@
+` He rubbed a sore on his arm through his sleeve.`@
 br
 ;　……自分で自分が、よくわからない。@
 ` Not even he himself knows.`@
@@ -220,7 +220,7 @@ ld c,NOD_D3,80
 ;ld c,NOD_D1,80
 
 ;　……確かに、クラスメートたちが美術室をオバケ屋敷と呼んでいるのは知っている。@
-` ...He knew that his classmates called the art room a haunted house.`@
+` ...He knew that his classmates called the art room haunted.`@
 ;　自分も、みんながそう思うのは無理もないと思っている。\
 ` He thinks it's natural for them to think that way.`\
 
@@ -268,7 +268,7 @@ br
 
 
 ;　恐怖を感じさせるピカソやゴヤの絵、それとは対照的に神々しい温かさを感じさせるダ・ヴィンチやフェルメールの絵……。\
-` There were the works of Picaso and Goya that gave off a feeling of fright, and the contrastingly sublime and warm feeling works of Da Vinci amd Vermeer...`\
+` There were the works of Picasso and Goya that gave off a feeling of fright, and the contrastingly sublime and warm feeling works of Da Vinci amd Vermeer...`\
 
 ;　そのどれもが名画と呼ばれるに相応しい凄みや神聖さがあった。@でも、裕貴が一番好きなのはそのどれでもなかった。\
 ` Each of them was called a masterpiece, whether it was for their sacredness or their ghastliness. `@`But Yuuki's favorite painting was not one of them.`\
@@ -303,7 +303,7 @@ ld r,NOD_D1,22
 ld r,NOD_D3,80
 
 ;「うん。@髪とか、服とか…。@……ほら、そっくり。」@
-`"Yeah. `@`You hair, your clothes...`@`... they're almost exactly the same."`@
+`"Yeah. `@`Your hair, your clothes...`@`... they're almost exactly the same."`@
 me1v 16,50
 
 br
@@ -323,7 +323,7 @@ br
 ld r,NOD_D2,80
 
 ;「でも……、僕は女の子らしくていいと思うけどな。」@
-`"But.... I think you look good with a girly look like that."`@
+`"But.... You look really girly, I think it looks good."`@
 br
 ;　嘘ではなかった。@学校に来るにしてはちょっと派手と言うか、@華美過ぎる気はしたけど、可愛らしい彼女の顔にはとてもよく似合っている気がした。\
 ` He wasn't lying. `@`He thought that it was perhaps a bit to flashy for school, `@`but he also felt like it suited the way her face looked perfectly.`\
@@ -343,7 +343,7 @@ ld c,NOD_D5a,22
 ld c,NOD_D4,80
 
 ;「…………え、あ……ごめん。」@
-`".....oh, um... I'm sorry."`@
+`".....oh! um... I'm sorry."`@
 br
 ;　慌てて謝る。@………何かまずいこと言ったかな…？\
 ` He frantically apologized.`@`... Did he say something bad...?`\
@@ -387,7 +387,7 @@ br
 ;　この場に、このまま彼女に居続けられては困ったことになる。@
 ` If she sticks around this place for much longer, it'll become a problem.`@
 ;　裕貴には、この後この美術室でしなければならないことがあるのだ。\
-` Because what Yuuki came to the art room to do, he needed to be alone for.`\
+` Because what Yuuki came to the art room to do, there couldn't be anyone else here for.`\
 bg black,22
 ;bg Different_spiral_1b,22
 
@@ -399,7 +399,7 @@ bg black,22
 ` He feels like he has nowhere to go, but if someone could save him from that feeling, would he want to be saved?`@
 br
 ;　……自分の感情のすべてが、淡い絵の具に塗り込められたように曖昧だった。\
-` ...His own feelings felt unclear to him, as if they were covered over with layer of pale paint.`\
+` ...His own feelings felt unclear to him, as if they were covered over with layer of beige paint.`\
 ;　こんな、良く分からない気持ちや苦しみを抱えたままでも生きたいのか、@それともいっそのこと死んで楽になりたいのか。@
 ` Does he really want to keep living with the pain of having these vague feelings, `@`or would he rather just make it easy on himself and just die.`@
 br
@@ -514,7 +514,7 @@ bg kaiga_02,22
 me3v 5,50
 
 ;「………この絵の作者、誰だか知ってる？」@
-`"....Do you know who made this painting?"`@
+`"....Do you know who did this painting?"`@
 br
 ;　少女はぞっとするほど綺麗な顔で微笑んだ。\
 ` A smile crept across her beautiful face that made Yuuki shiver.`\
@@ -538,10 +538,10 @@ ld c,NAF_D1,80
 me1v 24,50
 
 ;　新谷ナフミ（しんたに　なふみ）がトントン、と机の上で書類を整えていると、頭上に声が落ちて来た。\
-` Nafumi Shintani (新谷ナフミ) was straightening out a stack of documents on her desk when a voice called out from above her.`\
+` Nafumi Shintani (新谷ナフミ) was straightening out a stack of documents on her desk when a voice called out from behind her.`\
 
 ;　新谷の席は、背中のすぐ後ろにコーヒーメーカーが置かれているため、@職員の大半がコーヒーを注ぎがてら、気軽に声をかけてくる。\
-` Because the coffee maker was located directly behind her seat in the staff room, `@`so it was not uncommon for other staff to make small talk with her while pouring their coffee.`\
+` The coffee maker was located directly behind her seat in the staff room, `@`so it was not uncommon for other staff to make small talk with her while pouring their coffee.`\
 
 ;　書類を引き出しにしまいながら振り返ると、井俣先生だった。@
 ` While putting the papers into a drawer, she turned her head around to see that it was Imata-sensei who was standing behind her.`@
@@ -572,13 +572,13 @@ bg black,22
 bg shokuin_04,22
 
 ;　今年で３３歳の彼は、別に恰好悪いわけではない。@清潔感があって保護者からの評判も良かった。@
-` He turned 33 this year, and it wasn't exactly that he was uncool. `@`He had a good sense of cleanliness, and was popular among parents and other guardians.`@
+` He turned 33 this year, and it wasn't exactly that he was uncool. `@`He had a good sense of uprightness, and was popular among parents and other guardians.`@
 br
 ;　生徒達に「熱血先生」と揶揄されるだけあって、@新谷から見ても単純な人だなぁとは思うけど、裏表のないさっぱりした性格は好感が持てた。\
 ` The students always tease him by calling him Hot-blooded-sensei. `@`Shintani sees him as a relatively plain person, but in truth, his refreshingly simple and honest personality held some appeal.`\
 
 ;　しかし申し訳ないが、新谷は年上の男には余り興味がないのだ。@
-` But unfortunately, Shintani was not interested in older men.`@
+` But sorry, Shintani isn't interested in older men.`@
 ;　子供の頃から好きになるのはみんな自分より年下の子たちばかりだった。@それは、四捨五入をすれば３０歳にもなる今に至っても全然変わっていない。@
 ` Since she was a kid, the only people she was ever attracted to were younger than herself. `@`Even now, at nearly the age of 30, that has not changed.`@
 br
@@ -830,7 +830,7 @@ ld r,NAF_D4a,22
 
 
 ;　だが、新谷はそんな噂は一切信じていなかった。@
-` But Shintani doesn't believe that rumor in the slightest.`@
+` But Shintani didn't believe that rumor in the slightest.`@
 br
 ;　彼が死んだのは、怪談のせいなんかじゃない。@“ルノワール”なんてふざけた名前の妖怪のせいじゃ、絶対にない……。\
 ` His death wasn't because of some ghost story. `@`He didn't die because of some silly youkai named Renoir. She was sure of that...`\
@@ -1307,7 +1307,7 @@ bg bijutu_07,22
 ;　このくらいの年齢の子供にとって、優しくて綺麗な先生という存在はとても大きい。@
 ` To children of this age, having a teacher as kind and pretty as her is a big deal.`@
 ;　ひと月に１回はラブレターをもらうし、@新谷と親しくなりたいがために美術部に入部しようとする生徒も少なくなかった。\
-` In one month she'll receive at least one love letter, `@`and there were numerous cases of students entering the art club in hopes of getting closer to her.`\
+` In a month she'll usually receive at least one love letter, `@`and there were numerous cases of students entering the art club in hopes of getting closer to her.`\
 
 ;　恥ずかしそうに新谷から視線を逸らしていた少年が、不意に口を開いた。\
 ` The embarrassed looking boy, still averting his eyes from Shintani, suddenly opened his mouth to say something.`\
@@ -1362,7 +1362,7 @@ ld c,NAF_D4,80
 bg black,22
 
 ;　……だが。@新谷がこれを使うのは絵を描くためではない。@……これには、もっと素晴らしい使い道があるのだ。\
-` ...However, `@`Shintani did not use it for painting.`@`...She had a much more wonderful use for it.`\
+` ...However, `@`Shintani did not use it for painting.`@`... She had a much more wonderful use for it.`\
 fede 0,1000
 E_A
 
@@ -1956,7 +1956,7 @@ bg bijutu_01,22
 ;　そう。@この学校の生徒たちは、みんな蜜を持っている。@
 ` Yes. `@`All of the students at this school had their own nectar.`@
 ;　蜜を持つ生徒たちがぎっしりとひしめくこの学校は、まさに蜂の巣だ。@
-` The students were just like bees, hurriedly carrying nectar around day after day, and this school was their behive.`@
+` The students were just like bees, hurriedly carrying nectar around day after day, and this school was their beehive.`@
 br
 
 ;cl a,0
@@ -1977,7 +1977,7 @@ bg black,2
 
 
 ;　……くすくす。@それにしても馬鹿な話だ。\
-` ....Teehee. `@`Still, what a dumb story that was.`\
+` ....Hehe. `@`Still, what a dumb story that was.`\
 
 
 mono 1
@@ -2395,7 +2395,7 @@ ld r,RUN_D1,24
 ld r,RUN_D8,80
 
 ;「……私、思ったんですよ。@もしかして裕貴くんは、@いじめじゃなくて誰か大人の人に虐待されてたんじゃないかって……。」\
-`"...I've been thinking. `@`Maybe Yuuki was being bullied at all. `@`Maybe he was being abused by an adult..."`\
+`"...I've been thinking. `@`Maybe Yuuki wasn't being bullied at all. `@`Maybe he was being abused by an adult..."`\
 ld l,NAF_D6a,23
 
 wait 1000
@@ -2464,7 +2464,7 @@ ld r,NAF_D6a,22
 ld l,RUN_D5,80
 
 ;「普段は隠してるんですか？@　まぁ、先生みたいなタイプだと、堂々と吸うのは肩身が狭いですよね。@今は男性の先生方でも吸わない人の方が多いですもんね。@くすくすくすくすくす。」\
-`"Do you usual try to hide it? `@`Well, for a teacher like you, it must feel pretty shameful to smoke out in the open. `@`Especially since even the male teachers don't smoke as much any more. `@`Teeheeheehee."`\
+`"Do you usually try to hide it? `@`Well, for a teacher like you, it must feel pretty shameful to smoke out in the open. `@`Especially since even the male teachers don't smoke as much any more. `@`Teeheeheehee."`\
 ld r,NAF_D8a,80
 
 ;　ボキリ。@
@@ -2668,7 +2668,7 @@ br
 ld c,RUN_D5,80
 me2v 16,50
 ;「……先生はヌードって、描かないんですか？」\
-`"...Sensei, don't you do nude drawings?"`\
+`"...Sensei, do you do nude drawings?"`\
 quakey 1,100
 
 ;　……ガタリ。@
@@ -2739,7 +2739,7 @@ br
 bg black,22
 
 ;　そのルノワールからの、……ヌードは描かないのかという、問い掛け。@
-` Renoir had asked if she drew nude picture.`@
+` Renoir had asked if she drew nude pictures.`@
 ;　嘘は吐けない。@それはルノワールの禁忌だ。@
 ` She can't lie. `@`That was one of the rules.`@
 br
@@ -2831,7 +2831,7 @@ cl c,0
 mld c,RUN_D1,80
 
 ;「やめましょうか、もう茶番は。」@
-`"Let's cut the nonsense."`@
+`"Time to cut the nonsense."`@
 ld r,NAF_D4a,24
 ;ld r,NAF_D4a,80
 
@@ -3105,7 +3105,7 @@ ld l,NAF_D4a,80
 ` That should be right. `@`It has to be.`@
 br
 ;　……なら、正解と即座に答えてくれればいいのに、@……ルノワールはもったいぶるように含み笑う。\
-` ...She gave the answer quickly and correctly.`@`... So why was Renoir giggling like she had gotten it wrong.`\
+` ...She gave the answer quickly and correctly.`@`... So why was Renoir smirking like she had gotten it wrong.`\
 ld r,RUN_D5,80
 
 ;「……くすくす。@そんなにも自信がないのかしら？」@
@@ -3489,7 +3489,7 @@ br
 ` Sleeping boys, bound boys.`@
 br
 ;　ペンティングナイフによって赤い筋を浮かび上がらせる少年。@
-` Boys covered in red steaks from a palette knife.`@
+` Boys covered in red streaks from a palette knife.`@
 br
 ;　火のついた煙草を押し付けられ、熱さと痛みに必死に耐える少年、蹂躙され泣きわめく少年……。\
 ` Boys frantically enduring the pain and heat of being burned by a cigarette. Boys crying out from being trampled on....`\
@@ -4589,7 +4589,7 @@ ld c,RUN_D1,80
 `"...They're so interesting. `@`Those humans."`@
 br
 ;　だから絵画のモチーフに、人間はこれほど多く選ばれるのだ。\
-` There are as many different kinds of humans as there are motifs in artwork.`\
+` There are as many different kinds of humans as there are motifs in art.`\
 cl c,2
 
 bg black,2
