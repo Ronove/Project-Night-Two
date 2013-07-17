@@ -1471,97 +1471,110 @@ br
 ;　しかし彼は、そのようなことすらも、@いくつもの感情を描いたこのスケッチブックの中に混じってしまえば、@色とりどりの万華鏡のように見えるという……。\
 ` But when he did this,`@`a number of various emotions were inscribed in his sketchbook,`@`so that the whole experience was a kaleidoscope of color...`\
 ;　その精神的なしぶとさに、彼岸花は尊敬と呆れの入り混じった感情を覚え、肩を竦めるのだった。\
-` Higanbana shrugged her shoulders, remembering mingled amazement and respect for his spiritual tenacity.`\
+` Higanbana shrugged her shoulders, with mingled amazement and respect for his spiritual tenacity.`\
 textoff
 fede 0,1000
 E_A
 
 ld l,SHU_D1,80
 
-「彼岸花さんは、今日はどういう日だったの。」\
-
+;「彼岸花さんは、今日はどういう日だったの。」\
+`"Higanbana-san, what was today like for you?"`\
 ld r,HIG_D8,80
 
-「……今日も、性質の悪い雑魚妖怪どもの群に襲われたわ。@……噛まれたり、引っ掛かれたり、呪われたり嘲笑われたり。@……楽しいことなんて一つもないわよ。」\
-
+;「……今日も、性質の悪い雑魚妖怪どもの群に襲われたわ。@……噛まれたり、引っ掛かれたり、呪われたり嘲笑われたり。@……楽しいことなんて一つもないわよ。」\
+`"...Today I was attacked by a group of nasty small-fry monsters.`@`...I was bitten, trapped and cursed.`@`...Nothing fun at all."`\
 ld l,SHU_D4,80
 
 bgm1 33
 
-「あはは。@今日も随分やられたのは、僕だけじゃないみたいだね。」\
-
-　秋一は笑う。@
+;「あはは。@今日も随分やられたのは、僕だけじゃないみたいだね。」\
+`"Ahaha.`@`I seems I wasn't the only one who had a rough time today."`\
+;　秋一は笑う。@
+`"Shuuichi laughed.`@
 br
 　どんな死闘を潜り抜けたのか、知りもしないくせに、……という気持ちもあるが。@
-　自分が今日一日を生き抜けたことを、笑いの感情で祝福してくれたことが、また新鮮だった。\
-
+;　自分が今日一日を生き抜けたことを、笑いの感情で祝福してくれたことが、また新鮮だった。\
+` Surviving the day and having these blessings and feelings of laughter a still fresh.`\
 ld r,HIG_D9,80
 
-　……そうか。@生き抜けたことは、……笑うべきことなのか。\
-
+;　……そうか。@生き抜けたことは、……笑うべきことなのか。\
+` ...That's right.`@`Surviving is something that be laughed at.`\
 bg black,22
 bg Air_01,22
 
-「そうだね。@生きるってことはそれだけで、笑うべきことなのかもしれないよ。」@
-「………………………。」\
-
+;「そうだね。@生きるってことはそれだけで、笑うべきことなのかもしれないよ。」@
+`"Yes.`@`Living in itself is worthy of laughter."`@
+;「………………………。」\
+`"............."`\
 「だって。@……貧しい国では、食べる物もなくて。@飢えで死んでいる人たちが、地球上には何人もいるはず。@そんな中で僕は、今日も家族と笑顔で挨拶して、おいしく給食を食べて、@ここでのんびりとお喋りを楽しんでるんだ。@それってすごく幸せで、笑顔になってもいいことなんじゃないかなぁ。」@
-「………………………。」\
-
+;「………………………。」\
+`"............."`\
 bg black,22
 
-　同意したい気持ちはない。@
+;　同意したい気持ちはない。@
+` There was no feeling of wanting to agree.`@
 br
-　しかし、ただ生きるだけの昨日と同じ今日に、@秋一は何かを見て、感情を揺らめかせ、それを楽しんで生きている。@……それが、率直に羨ましかった。\
-
+;　しかし、ただ生きるだけの昨日と同じ今日に、@秋一は何かを見て、感情を揺らめかせ、それを楽しんで生きている。@……それが、率直に羨ましかった。\
+` But today, just like the yesterday he had lived,`@`Shuuchi would look at something, be jolted by emotions, and enjoy life.`@`...She was quite frankly envious of that.`\
 bg gakkou_03,22
 ld r,SHU_D2,24
 ld r,SHU_D1,80
 
 
-「彼岸花さんには、ないの？@　……何か、嬉しいとか悲しいとか。@あるいは悔しいとか怒ったとか、そういう感情。」@
-
+;「彼岸花さんには、ないの？@　……何か、嬉しいとか悲しいとか。@あるいは悔しいとか怒ったとか、そういう感情。」@
+`"You don't, Higanbana-san?`@`..No feelings of happiness or sadness?`@`Nor of regret or anger?"`@
 ld l,HIG_D10,23
 ;ld l,HIG_D1,80
 
-「………………そういう、……感情。」\
-
-　その日、彼岸花はようやく理解した。@
-　自分には、感情というものがないのだ。@
+;「………………そういう、……感情。」\
+`".......That kind of feeling..."`\
+;　その日、彼岸花はようやく理解した。@
+` That day, Higanbana finally understood.`@
+;　自分には、感情というものがないのだ。@
+` She herself had no capacity for emotion.`@ 
 br
-　だから、………日々が何も揺らめかない。@
-　昨日と同じ今日になる。@今日と同じ明日になる。@それが全て同じ灰色になってしまう。\
-
+;　だから、………日々が何も揺らめかない。@
+` That's why she was never jolted by anything day-to-day.`@
+;　昨日と同じ今日になる。@今日と同じ明日になる。@それが全て同じ灰色になってしまう。\
+` Yesterday was like today.`@`Today would be like tomorrow.`@`Everything would be the same, bland ashen color.`\
 
 bg Air_01,2
 
-　彼の言う、感情を理解したら、………私の毎日も、彩りを帯びるだろうか。@
+;　彼の言う、感情を理解したら、………私の毎日も、彩りを帯びるだろうか。@
+` Now that she understood the feelings he talked about, she wondered if her days would take on a bit more color.`@
 br
-　彼が見ている、スケッチブックの世界のような何かを、……私にも見ることが出来るだろうか。\
-
+;　彼が見ている、スケッチブックの世界のような何かを、……私にも見ることが出来るだろうか。\
+` I wonder if I could see things like he portrayed in that world of his sketchbook.`\
 bg black,0
 ld c,HIG_D9,2
 
-「感情。@…………………………。」@
+;「感情。@…………………………。」@
+`"Feelings.`@`.........."`@
 br
-　私にはそれが、欠けている。@
-　幾千の妖怪を喰らい、魂を呑み込もうとも。@……それがなければ、自分は人形でしかないのだ。\
-
+;　私にはそれが、欠けている。@
+` I lacked those.`@
+;　幾千の妖怪を喰らい、魂を呑み込もうとも。@……それがなければ、自分は人形でしかないのだ。\
+` It was a good idea to eat thousands of monsters.`@`....If I didn't I was nothing by a doll.`\
 ;ld c,HIG_D1,80
 
-　私は彼岸花だ。@彼岸花という、意思。@
+;　私は彼岸花だ。@彼岸花という、意思。@
+` I am Higanbana.`@`An intention called Higanbana.`@
 br
-　意思とは、……感情から生まれる？\
-
+;　意思とは、……感情から生まれる？\
+` Is intention born from emotion?`\
 bg Air_01,0
 ld c,HIG_D9,2
 
-　私はようやく理解した。@
+;　私はようやく理解した。@
+` I finally understood.`@
 br
-　私はまだ、妖怪でさえない。@
-　ただ魂を喰らうだけの、西洋人形。@
-　感情を得て私は初めて、私たりえるのだ。\
-
+;　私はまだ、妖怪でさえない。@
+` Still, I'm not even a monster.`@
+;　ただ魂を喰らうだけの、西洋人形。@
+` I'm just a western doll that eats souls.`@
+;　感情を得て私は初めて、私たりえるのだ。\
+` For the first time I felt I had a feeling.`\
 bg black,2
 
 fede 0,2000
@@ -1584,14 +1597,16 @@ quakey 3,300
 
 bgm1 23
 
-「おっとォ。@………おかしなところで出くわしたなァ。@踊る彼岸花ァ！」@
+;「おっとォ。@………おかしなところで出くわしたなァ。@踊る彼岸花ァ！」@
+`"Ah...`@`You seem to have some across a strange place,`@`Higanbana!"`@
 ;＜イザナミ
 
 ld r,HIG_D9a,22
 
-「……………………………。」\
-
-　運がなかった。@
+;「……………………………。」\
+`"............."`\
+;　運がなかった。@
+` There was no such luck.`@
 br
 　彼岸花の姿を求めて回遊する、雑魚妖怪どもの群を嫌って、おかしな廊下に身を潜めていたら、@そこには先客がいたのだ。\
 
