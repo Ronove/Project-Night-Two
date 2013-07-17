@@ -1612,34 +1612,40 @@ br
 
 bg black,22
 
-　死神、イザナミ。@
-　好戦的な性格で大量の妖力を蓄える、大妖怪だ。@
+;　死神、イザナミ。@
+` The Shinigami, Izanami.`@
+;　好戦的な性格で大量の妖力を蓄える、大妖怪だ。@
+` He was a large, aggressive monster that amassed large amounts of spirit energy.`@
 br
-　かつては実力も伯仲し、互いに戦いを避け合う関係だった。\
-
+;　かつては実力も伯仲し、互いに戦いを避け合う関係だった。\
+` In the past, she had been nearly equal to him, and the two had a relationship of mutual combat.`\
 mcl l,0
 ld c,IZA_D2,3
 
-　しかし、最近は違う。@
+;　しかし、最近は違う。@
+` However, it had been different recently.`@
 br
-　感情などというあやふやなものを求め、積極的な狩りをしない自分と、@……ますますに好戦的な狩りを繰り返すイザナミとでは、もう格が違う。\
-
+;　感情などというあやふやなものを求め、積極的な狩りをしない自分と、@……ますますに好戦的な狩りを繰り返すイザナミとでは、もう格が違う。\
+` Since she had started to have these dubious 'feelings' and resolved to avoid hunting,`@`she was no longer in the same league as him.`\
 bg black,22
 bg rouka_03,0
 ld c,HIG_D9,23
 
-「………何よ。@…………やる気……？」@
+;「………何よ。@…………やる気……？」@
+`"....What...`@`is this motivation?"`@
 br
-　だからといって、怯えを見せれば、即、喰われる……。@
-　妖力が劣ることを悟らせるわけにはいかない。@……今でも実力が伯仲しているよう、装わねばならない。\
-
+;　だからといって、怯えを見せれば、即、喰われる……。@
+` While it may be true that if I showed fear I'd be eaten immediately...`@
+;　妖力が劣ることを悟らせるわけにはいかない。@……今でも実力が伯仲しているよう、装わねばならない。\
+` I couldn't afford to show that my strength was inferior.`@`...Even now, I had to appear as if my strength was equal.`\
 ;ld c,HIG_D1,80
 
 　自分の妖力が染みついた、巣とも呼べる保健室でなら、何とか追い返すことも出来るだろう。@
 br
-　しかし、こんな冷え切った廊下では無理だ。@
-　保健室へ逃げ込む前に、食い千切られてしまう。\
-
+;　しかし、こんな冷え切った廊下では無理だ。@
+` But in a cold corridor like this, that was impossible.`@
+;　保健室へ逃げ込む前に、食い千切られてしまう。\
+` Before escaping the Infirmary, I'd be cut to shreds by thousands of monsters.`@
 ld c,HIG_D8,80
 
 me1v 16,50
