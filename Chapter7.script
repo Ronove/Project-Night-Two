@@ -1650,15 +1650,16 @@ ld c,HIG_D8,80
 
 me1v 16,50
 
-　……踊る彼岸花と呼ばれるようになって、だいぶ久しく、………彼岸花は死を覚悟する。@
+;　……踊る彼岸花と呼ばれるようになって、だいぶ久しく、………彼岸花は死を覚悟する。@
+` ...In reaching the point where she could be called The Dancing Higanbana, she was prepared for death for a long time.`@
 br
 　ぞくりとした感触の滴りが、胸の内側をゆっくりと垂れ落ちるのを感じた。\
 
 
 ld c,HIG_D10,22
 
-「…………………………………。」\
-
+;「…………………………………。」\
+`"................."`\
 bg black,24
 bg rouka_02,0
 ld c,IZA_D4,24
@@ -1666,78 +1667,98 @@ ld c,IZA_D5,80
 
 me2v 28,70
 
-「お前とはそろそろ決着をつけてもいい頃だと思ってたぜェ。@……どうする？@　今、ここでやっちまってもいいんだぜ……？」\
-
-　イザナミは校内では最強クラスの大妖怪だ。@その頂点を「校長先生」と争っている。@
+;「お前とはそろそろ決着をつけてもいい頃だと思ってたぜェ。@……どうする？@　今、ここでやっちまってもいいんだぜ……？」\
+`"I thought it might be time that we put an end to you.`@`...How about it?`@`Shall we do it now?"`\
+;　イザナミは校内では最強クラスの大妖怪だ。@その頂点を「校長先生」と争っている。@
+` Izanami was a monster from the strongest class in the school.`@`He was fighting for the top with the Principal.`@
 br
-　彼が校長を超える妖力を蓄えようとしたら。@………自分のような、喰らい応えのある獲物を狙うのが手っ取り早い。\
-
-　イザナミの性格から考えて、@………少しでも隙を見せれば、今この場で戦わざるを得なくなるだろう。@
+;　彼が校長を超える妖力を蓄えようとしたら。@………自分のような、喰らい応えのある獲物を狙うのが手っ取り早い。\
+` If he was trying to surpass the Principal in strength,`@`that he had to quickly target monsters that hunted like himself.`\
+;　イザナミの性格から考えて、@………少しでも隙を見せれば、今この場で戦わざるを得なくなるだろう。@
+` Thinking of Izanami's personality,`@`...if he were shown the smallest of opportunities, he would try and force a fight.`@
 br
-　………それは、……避けたい。\
-
-　イザナミと戦えば、十中八九は殺されるだろう。@
-　奇跡的に勝てたとしても、満身創痍。@
+;　………それは、……避けたい。\
+` ....I wanted to avoid that.`\
+;　イザナミと戦えば、十中八九は殺されるだろう。@
+` If I fought with Izanami, I would be killed nine times out of ten.`@
+;　奇跡的に勝てたとしても、満身創痍。@
+` Even if by some miracle I were to win, I'd be gravely wounded in the process.`@
 br
-　そんな弱り切った彼岸花という美味しい獲物を、雑魚妖怪どもが見逃すわけもない。\
-
+;　そんな弱り切った彼岸花という美味しい獲物を、雑魚妖怪どもが見逃すわけもない。\
+` There is no chance that the small fry monsters would overlook a delicious prey of crippled Higanbana.`\
 bg black,22
 
-　勝っても負けても。@……生き残れる可能性はない。@
-　死の予感に、……心が震えるのを覚える。@
+;　勝っても負けても。@……生き残れる可能性はない。@
+` Win or lose,`@`there's no way that I would survive.`@
+;　死の予感に、……心が震えるのを覚える。@
+` I remember my heart trembling at the thought of death.`@
 br
-　死にたいわけもない。@
-　死を怯えるのは、生きる者に課せられた唯一の義務だ。\
-
+;　死にたいわけもない。@
+` I didn't want to die.`@
+;　死を怯えるのは、生きる者に課せられた唯一の義務だ。\
+` Fear of death was an obligation imposed only on those who are alive.`\
 me3v 17,70
 
 mono 2
 bg Different_spiral_1b,22
 
-　心臓が早鐘のように鳴る。@心の中でぐるぐると、冷たいスープが渦を巻く。@
+;　心臓が早鐘のように鳴る。@心の中でぐるぐると、冷たいスープが渦を巻く。@
+` My heart was pounding like an alarm bell.`@`And the blood felt like it was swirling around like a cold soup.`@
 br
-　これほど冷たく凍った汗を浮かべるのは、これが初めての経験だった。\
-
-　自分には幸運なことに、これまで力があった。@
-　だから、どれほどの死闘であろうとも、……死を予感することはなかったのだ。@
+;　これほど冷たく凍った汗を浮かべるのは、これが初めての経験だった。\
+` This was the first time I felt so cold that my sweat had frozen.`\
+;　自分には幸運なことに、これまで力があった。@
+` Fortunately, I still had some strength left.`@
+;　だから、どれほどの死闘であろうとも、……死を予感することはなかったのだ。@
+` So, even if I were to struggle, I couldn't foresee death.`@
 br
-　そして今日、……初めてそれを知る。\
-
-　私に引き裂かれる瞬間に、雑魚どもが浮かべる、……あの表情。@
+;　そして今日、……初めてそれを知る。\
+` And today, for the first time I understood that.`\
+;　私に引き裂かれる瞬間に、雑魚どもが浮かべる、……あの表情。@
+` In the moment I was torn by the monsters, that expression....`@
 br
-　わずかでも気を許せば、それは私の顔にも浮かぶに違いない。\
-
+;　わずかでも気を許せば、それは私の顔にも浮かぶに違いない。\
+` Even yielding my spirit in the slightest, that must have shown up on my face.`\
 ld c,HIG_D9a,22
 
-　生きたい。@
-　死にたくない。@
-　そのための努力。@
-　何かないか、何かないか。@
+;　生きたい。@
+` That I wanted to live.`@
+;　死にたくない。@
+` That I didn't want to die.`@
+;　そのための努力。@
+` The effort I had put in for that sake.`@
+;　何かないか、何かないか。@
+` Something, anything.`@
 br
-　気を許せば死ぬ。@何かを誤れば死ぬ。\
-
+;　気を許せば死ぬ。@何かを誤れば死ぬ。\
+` If I yielded my spirit I would die.`@`If I made a mistake I would die.`\
 ld c,HIG_D9,80
 
-　なぜ死にたくない？@　生きたいから。@
-　なぜ生きたい？@
+;　なぜ死にたくない？@　生きたいから。@
+` Why do I not want to die?`@`Because I want to live.`@
+;　なぜ生きたい？@
+` Why do I want to live?`@
 br
-　……わからない。@
-　でも、それを秋一が教えてくれそうな気がするのだ。\
-
+;　……わからない。@
+` ....I don't know the answer to that question.`@
+;　でも、それを秋一が教えてくれそうな気がするのだ。\
+` But I would make Shuuichi teach me.`\
 
 bg white,1
 mono 0
 bg rouka_03,0
 ld c,HIG_D10,22
 
-　この場をやり過ごせば、生き延びることが出来る。@また秋一に会うことが出来る。@
+;　この場をやり過ごせば、生き延びることが出来る。@また秋一に会うことが出来る。@
+` If I grasped this opportunity, I could survive.`@`I could meet Shuuichi again.`@
 br
 
 se1 66
 
-　ごとりと。@
-　心の中の、重い重い石臼が、初めて音を立てて回ったのを聞いた。\
-
+;　ごとりと。@
+` With a clang,`@
+;　心の中の、重い重い石臼が、初めて音を立てて回ったのを聞いた。\
+` The millstone of my heart made its first sound.`\ 
 
 se2 84
 ld c,HIG_D5,80
@@ -1754,12 +1775,15 @@ bg gakkou_02,22
 
 bgm1 4
 
-「それで、無事に逃げ切ることが出来たの？」@
-「出来なかったら、私はここにいないわ。」@
-「あはは、それもそうだね。」@
+;「それで、無事に逃げ切ることが出来たの？」@
+`"So were you able to get away safely?"`@
+;「出来なかったら、私はここにいないわ。」@
+`"If I didn't, would I still be here?"`@
+;「あはは、それもそうだね。」@
+`"Ahaha...stupid question."`@
 br
-　秋一は、命懸けだった今日一日を軽く笑って聞き、スケッチブックに鉛筆を走らせていた。\
-
+;　秋一は、命懸けだった今日一日を軽く笑って聞き、スケッチブックに鉛筆を走らせていた。\
+` Shuuichi laughed lightly at my episode, and ran a pencil over his sketchbook.`\
 bg black,22
 bg gakkou_03,0
 ld r,SHU_D4,0
@@ -1767,33 +1791,35 @@ ld l,HIG_D8,22
 
 ld r,SHU_D1,80
 
-「それで？@　今はどんな気持ちなの？」@
-
+;「それで？@　今はどんな気持ちなの？」@
+`"And?`@`What kind of feelings do you have today?"`@
 ld l,HIG_D10,80
 
-「…………気持ちって？」\
-
+;「…………気持ちって？」\
+`".......Feelings?"`\
 ld r,SHU_D4,80
 
-「無事に大妖怪から逃れることが出来た、今の彼岸花さんの気持ち。」@
+;「無事に大妖怪から逃れることが出来た、今の彼岸花さんの気持ち。」@
+`"The feelings of having escaped from a large monster--what are they?"`@
 
 ld l,HIG_D9a,80
 
-「……………………………。」\
-
+;「……………………………。」\
+`"................"`\
 ld r,SHU_D1,80
 
-「殺されるって思ったんでしょ？@　策がうまくいって、何とかやり過ごせたんでしょ？@　その時は、どんな感情だったの？」\
-
+;「殺されるって思ったんでしょ？@　策がうまくいって、何とかやり過ごせたんでしょ？@　その時は、どんな感情だったの？」\
+`"You thought you were going to be killed.`@`But you made a plan and carried it out easily right?`@`What feelings did you have then?"`\
 bg black,22
 mono 1
 bg rouka_02,0
 ld c,IZA_D8,22
 
-　………イザナミに出くわした時。@……死を覚悟した。@
+;　………イザナミに出くわした時。@……死を覚悟した。@
+` .....When I encountered Izanami, I was prepared for death.`@
 br
-　その時の心の中の、どきどきやばくばくは、感情と呼んでもいいのだろうか。\
-
+;　その時の心の中の、どきどきやばくばくは、感情と呼んでもいいのだろうか。\
+` I suppose it was alright then that at the time, my heart had been pounding such that if felt as if it were going to explode.`\
 bg black,0
 mono 0
 bg white,23
@@ -1804,7 +1830,8 @@ quakex 1,100
 
 bg black,22
 
-「………わからない、………けれど……。」@
+;「………わからない、………けれど……。」@
+`".......I don't understand....but..."`@
 br
 　今日という一日が、……昨日までの淡白な灰色の一日とはまったく違う色に感じたのは確かだ。@
 　灰色なのは同じだけど、………昨日までのは、ぼんやりと曇った灰色。\
