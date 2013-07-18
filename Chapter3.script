@@ -3,13 +3,13 @@
 `"Marieee. `@`I feel like eating chestnut cake today. `@`Go and find one for me. You've got 5 minutes. `@`Oh, and I want some roasted tea too. `@`Go get those for me, won't you?"`@
 br
 ;　彼岸花は、保健室のベッドの上で、実にだらしない格好でくつろぎながら、ぞんざいに言う。\
-` Higanbana was making offhanded demands while lounging on the bed in the infirmary with her dress immodestly hanging off of her.`\
+`　Higanbana was making offhanded demands while lounging on the bed in the infirmary with her dress immodestly hanging off of her.`\
 
 
 ld l,MAR_D3a,23
 
 ;「も、もー、彼岸花さんっ……。@女の子なのに、そんな格好、はしたないですよっ。」\
-`"Ah, Come on, Higanbana-san... `@`You're being unladylike. It's digraceful."`\
+`"Ah, Come on, Higanbana-san... `@`You're being unladylike. It's disgraceful."`\
 ld r,HIG_w5,80
 
 ;「……何よ。@毬枝の分際で、この踊る彼岸花に口答えする気ィ？@/
@@ -20,7 +20,7 @@ ld c,HIG_W5,24
 quakex 2,200
 
 ;　……わ・た・し・はッ、栗饅頭が食べたいって言ってんのよぉおおぉおおぉおッ。」\
-` I. Said. I. Want. Chestnut Cake. GooOOOt iiIIIIt?"`\
+`　I. Said. I. Want. Chestnut Cake. GooOOOt iiIIIIt?"`\
 
 
 ld l,MAR_N1,80
@@ -43,49 +43,49 @@ ld l,MAR_D2a,80
 
 
 ;　彼岸花がぞんざいで態度がデカイのはいつものことだ。@
-` Higanbana has always had a rude, disrespectful attitude.`@
+`　Higanbana has always had a rude, disrespectful attitude.`@
 br
 ;　お菓子を持って来いというと、すぐに毬枝が持って来てくれるのが気分がいいらしい。\
-` So she enjoyed it when she could tell Marie to find her some sweets, and the girl would go off and find some.`\
+`　So she enjoyed it when she could tell Marie to find her some sweets, and the girl would go off and find some.`\
 
 
 ld c,HIG_W4,0
 ld l,MAR_D3a,80
 
 ;　しかし最近、少々、それに溺れ過ぎている様子。@ますますぞんざいになっていく。@
-` But recently, it appears that she's getting addicted to it, `@`and she's becoming more and more demanding about it.`@
+`　But recently, it appears that she's getting addicted to it, `@`and she's becoming more and more demanding about it.`@
 ;　逆らうと意地悪になるので、毬枝も逆らえない。@
-` Marie didn't dare disobey, for if she did, she'd only be bullied.`@
+`　Marie didn't dare disobey, for if she did, she'd only be bullied.`@
 br
 
 se1 3
 cl l,24
 
 ;　ぴゅーっと保健室を飛び出していく。\
-` So she dashed out of the infirmary.`\
+`　So she dashed out of the infirmary.`\
 
 bg hoken_04,26
 
 ;　それを見送りもせず、彼岸花はベッドの上で、だらしない格好で、う～んと伸びをするのだった。\
-` Without bothering to see her off, Higanbana let out a yawn and stretched, her clothing still disheveled.`\
+`　Without bothering to see her off, Higanbana let out a yawn and stretched, her clothing still disheveled.`\
 
 
 quakey 1,200
 
 ;　その彼岸花が、突然、起き上がり、しゃきりと背筋を伸ばす。@
-` Then, all of a sudden, she sat straight up.`@
+`　Then, all of a sudden, she sat straight up.`@
 br
 ;　やや遅れて、保健室に足音、……いや、人ならざる者の気配が近付いてくるのが感じられた。@
-` A moment later, the sound of footsteps... no, the presence of something inhuman could be felt approaching the infirmary.`@  
+`　A moment later, the sound of footsteps... no, the presence of something inhuman could be felt approaching the infirmary.`@  
 ;　少なくとも、毬枝以外の前では、威厳を保つ努力はしているらしい。\
-` It seemed like, at the very least, Higanbana was still trying to preserve her dignity in front of those other than Marie.`\
+`　It seemed like, at the very least, Higanbana was still trying to preserve her dignity in front of those other than Marie.`\
 ;「………いるか。」@
 `"...You in there?"`@
 br
 ;　ノックと共に、そう呼び掛けてくる。@
-` Someone called out while knocking on the door.`@
+`　Someone called out while knocking on the door.`@
 ;　その声だけで、訪ねてきたのが誰か、彼岸花にはわかったようだった。\
-` From that voice alone, it seemed Higanbana knew who had come to visit.`\
+`　From that voice alone, it seemed Higanbana knew who had come to visit.`\
 
 bg black,22
 bg hoken_02,22
@@ -98,7 +98,7 @@ se1v 82,100
 ld l,KYO_D1,23
 
 ;　ガラリと引き戸が開き、……和服を着た青年を模した妖怪が姿を現す。\
-` The sliding door opened... and in its frame stood a Youkai, with the appearance of a young man dressed in a kimono.`\ 
+`　The sliding door opened... and in its frame stood a Youkai, with the appearance of a young man dressed in a kimono.`\ 
 
 
 ld l,KYO_D3,80
@@ -110,41 +110,42 @@ ld r,HIG_D3,80
 ;「珍しいわね。@あんたが私の保健室に来るなんて。@まさか転んで怪我して、絆創膏が欲しいなんて言い出さないわよねぇ？@　くすくすくすくす……。」\
 `"What a rare occasion. `@`You hardly ever come to my infirmary. `@`Don't tell me that you fell down, scraped yourself up and now you're here for a bandage?`@` Teehee..."`\
 ; ^^^ Note To Editor: Bandage vs. Plaster? American English vs. British English? We also use the British spelling of theatre later on in this chapter. ~Jorwil
+; ^^^ Editor's Note: We try to avoid using region-specific terms, but American English is preferred. 'Bandage' should be fine. 'Theatre' is acceptable in American English and is the spelling preferred by America's performing arts industry. ~Yirba
 
 bg black,0
 ld c,KYO_D1,2
 
 ;　鏡のキョウ。@
-` Kyou of the Mirror.`@
+`　Kyou of the Mirror.`@
 br
 ;　学校妖怪序列第５位。@
-` The fifth-ranked of the school youkai.`@
+`　The fifth-ranked of the school youkai.`@
 ;　通り名が示すとおり、鏡を司る妖怪だ。@いや、本人は鏡を守る番人だと称している。\
-` As the name suggests, he's a youkai that rules over mirrors. `@` Or rather, he's the self-proclaimed protector of all mirrors.`\
+`　As the name suggests, he's a youkai that rules over mirrors. `@` Or rather, he's the self-proclaimed protector of all mirrors.`\
 
 
 ;　鏡を覗いたことのある人間なら、誰でも一度は、@鏡の向こうにも、こちら側同様に広大な世界が広がっているように妄想したことがあるだろう。@
-` Most likely every human who has ever gazed into a mirror, `@`has imagined that there might be a world just as large as our own on the other side.`@
+`　Most likely every human who has ever gazed into a mirror, `@`has imagined that there might be a world just as large as our own on the other side.`@
 br
 ;　それは間違いではない。@
-` And they would not be mistaken.`@
+`　And they would not be mistaken.`@
 ;　鏡の向こうには、確かに異界が広がっている。\
-` For there really is another world that lies on the other side of the mirror.`\
+`　For there really is another world that lies on the other side of the mirror.`\
 bg black,22
 ;bg e005,26
 ;bg Different_spiral_1a,22
 
 ;　人間たちは、鏡に自分が映っていると信じているが。@……時に鏡の向こうには、自分に瓜二つの何者かが姿を現し、あなたをじっと見据えているのだ。\
-` Humans believe that what they see in the mirror is just a reflection of themselves.`@`... But sometimes a being that looks exactly like you will appear on the other side of that mirror and watch your every move.`\
+`　Humans believe that what they see in the mirror is just a reflection of themselves.`@`... But sometimes a being that looks exactly like you will appear on the other side of that mirror and watch your every move.`\
 
 
 ;bg black,22
 
 ;　つまり、鏡とは異界の入口なのだ。@
-` In other words, the mirror was an entrance to another world.`@
+`　In other words, the mirror was an entrance to another world.`@
 br
 ;　キョウはその入口を守り、司る番人なのだ。\
-` Kyou was the guardian and keeper of that gateway.`\
+`　Kyou was the guardian and keeper of that gateway.`\
 
 
 bg hoken_01,22
@@ -152,9 +153,9 @@ bg hoken_01,22
 ;ld l,KYO_D1,22
 
 ;　彼自身は彼岸花のような残忍な力を持つ妖怪ではない。@しかし、鏡の向こうに広がる無数の異界をも司る彼は、@不吉なる存在の召喚など、決して侮れない力を持つ。\
-` Unlike Higanbana, Kyou is not a cruel and ruthless youkai. `@`But, he does rule over countless worlds just beyond the other side of the mirror. `@`And thus, his ability to summon ominous beings is nothing to laugh at.`\
+`　Unlike Higanbana, Kyou is not a cruel and ruthless youkai. `@`But, he does rule over countless worlds just beyond the other side of the mirror. `@`And thus, his ability to summon ominous beings is nothing to laugh at.`\
 ;　鏡に映る姿を不吉だとする話や、自分に瓜二つの存在に出会ってしまうと死期が近いなど、@彼が司る怪談は非常に多い。\
-` Between the stories about ominous shapes being reflected in the mirror, or bumping into your doppleganger and meeting an early demise, `@`the number of ghost stories he presides over is alramingly high.
+`　Between the stories about ominous shapes being reflected in the mirror, or bumping into your doppelganger and meeting an early demise, `@`the number of ghost stories he presides over is alarmingly high.
 ld c,KYO_D3,22
 
 ;「お前に用があるわけじゃねぇ。@……めそめその毬枝に用があんだ。」@
@@ -178,10 +179,10 @@ bg black,2
 bg rouka_04,2
 
 ;　毬枝は給食センターの近くを、お菓子アンテナを働かせながら歩いているところだった。@
-` Marie was drawing near to the school cafeteria, walking while using her Sweets Antenna.`@
+`　Marie was drawing near to the school cafeteria, walking while using her Sweets Antenna.`@
 br
 ;　そこにキョウがやってきて、同じことをもう一度言う。\
-` Kyou followed her there and repeated what he had to said to Higanbana.`\
+`　Kyou followed her there and repeated what he had to said to Higanbana.`\
 
 bg rouka_02,0
 ld r,MAR_D1,0
@@ -205,33 +206,33 @@ ld r,MAR_D4,80
 `"Oh, um....`@` Thanks, I guess..."`@
 br
 ;　住処と言われるとどうかと思うが。@めそめそさんの怪談では、その所在地は、旧校舎の女子トイレということになっている。\
-` Whether or not it can truly be called a living quarters, `@`Mesomeso-san's ghost story takes place within the girl's restroom in the old school building.`\
+`　Whether or not it can truly be called a living quarters, `@`Mesomeso-san's ghost story takes place within the girl's restroom in the old school building.`\
 
 bg black,22
 bg toire_05,2
 
 ;　妖怪にとって、もっとも妖力を回復させやすいのは、自分の怪談の所在地だ。@
-` For youkai, it's easiest to recover magical strength at the locations mentioned in their ghost stories.`@
+`　For youkai, it's easiest to recover magical strength at the locations mentioned in their ghost stories.`@
 br
 ;　その為、妖力を減らして疲労した毬枝は、旧校舎のトイレに帰ると回復が早い。\
-` Thus, whenever Marie's power was waning, the quickest way for her to recover was to return to the old school's toilet.`\
+`　Thus, whenever Marie's power was waning, the quickest way for her to recover was to return to the old school's toilet.`\
 
 
 bg toire_07,22
 
 ;　かつては色々と酷い目に遭わされた、嫌な思い出も多いトイレだが、@最近は、ほっと一息つける、自分だけの隠れ家のような気持ちにもなっていた。\
-` It had once been a place of many bad memories, `@`but recently, it began to feel like a place to take a breath, a special retreat for herself alone.`\
+`　It had once been a place of many bad memories, `@`but recently, it began to feel like a place to take a breath, a special retreat for herself alone.`\
 
 bg black,24
 bg toire_08,0
 ld c,MAR_W1,24
 
 ;　そんなわけで。@ならばピカピカにお掃除して、居心地のいい場所にしようと奮起し、毬枝はトイレをまめに掃除していたのだ。@
-` In fact, `@`she was sure that if she cleaned it till it sparkled, it would be quite a cozy place.`@` That's why she diligently cleaned the room.`@
+`　In fact, `@`she was sure that if she cleaned it till it sparkled, it would be quite a cozy place.`@` That's why she diligently cleaned the room.`@
 ;（誰も掃除していないはずなのに、なぜか塵一つない旧校舎のトイレ…、@というのも新しい怪談なのだが、それは別の話……）\
 `(That being said, there shouldn't have been anyone cleaning that restroom, `@`so when people started finding it completely cleaned, without even a speck of dust in sight, that started to become a ghost story in itself. But that's a story for another time...)`\
 ;　そのトイレの、鏡の見事な磨きっぷりに、どうもキョウは感動したらしいのだ……。\
-` It seemed that Kyou had been very impressed by the wonderful work she had done on the toilet's mirror...`\
+`　It seemed that Kyou had been very impressed by the wonderful work she had done on the toilet's mirror...`\
 bg black,22
 bg rouka_03,0
 ;ld r,MAR_D3a,0
@@ -247,7 +248,7 @@ mld c,KYO_D2,80
 `....his expressions were painful to listen to, but he didn't seem to be a bad person.`@
 br
 ;　毬枝はとりあえず、わざわざ自分を訪ねてくれた理由を聞いてみることにする……。\
-` So for the time being, Marie decided to ask him why he went out of his way to come meet her...`\
+`　So for the time being, Marie decided to ask him why he went out of his way to come meet her...`\
 ld r,MAR_D4a,22
 
 ;「なるほど……。@キョウさんは、鏡の番人さんなんですか……。」\
@@ -258,7 +259,7 @@ mld c,KYO_D3,80
 `"Yeah. `@`The mirror with the strongest magical power is the big one on the landing of the staircase right outside the staff room. `@`But there are many other mirrors within the school that hold some magical power. `@`The mirror that is in your living quarters is one of them."`@
 br
 ;　キョウは鏡の番人として、鏡を定期的に磨いているらしい。\
-` As keeper of the mirrors, it seems that Kyou had been polishing them on a regular basis.`\
+`　As keeper of the mirrors, it seems that Kyou had been polishing them on a regular basis.`\
 
 
 ld r,MAR_D1,80
@@ -288,7 +289,7 @@ ld r,MAR_D4a,80
 `"Ah...`@`.. is that so..."`@
 br
 ;　ここまで話が及べば、キョウが何を頼もうとしているのかは明白だ。\
-` By now it was obvious was Kyou was trying to do.`\
+`　By now it was obvious was Kyou was trying to do.`\
 
 
 ld r,MAR_D4,80
@@ -317,10 +318,10 @@ bg k_kaidan_02,22
 bgm1 5
 
 ;　キョウに連れられ、階段踊り場にある大鏡にやってくる。@
-` Kyou brought me to the large mirror on the staircase landing.`@
+`　Kyou brought me to the large mirror on the staircase landing.`@
 br
 ;　この学校でもっとも霊力が強い鏡で、鏡の向こうに広がる異界との門にもなっている。\
-` This is the most magically powerful mirror in the school, and it acts as a portal to the world behind it.`\
+`　This is the most magically powerful mirror in the school, and it acts as a portal to the world behind it.`\
 
 
 ld r,MAR_I3a,22
@@ -333,7 +334,7 @@ ld c,KYO_D1,22
 `"Occasionally, you'll hear stories about this. `@`A story about a mirror that doesn't reflect the image of those who stand in front of it.`@`... The truth is, at those times, it's not a mirror at all. `@`It's an entrance."`@
 br
 ;　キョウはそう言い、手をすぅっと、……鏡に近付け、……その向こうに突っ込む。\
-` Kyou said that... then put his hand up to the mirror... and thrust it inwards.`\
+`　Kyou said that... then put his hand up to the mirror... and thrust it inwards.`\
 
 textoff
 se1 22
@@ -346,9 +347,9 @@ ld r,MAR_I1a,80
 `"Wha--? `@` Hah?!"`@
 br
 ;　鏡があるべき場所を突き抜けて、キョウの手はその向こうにまで差し出されている。@
-` Kyou's hand pierced where the mirror should have been and sank through to the other side.`@
+`　Kyou's hand pierced where the mirror should have been and sank through to the other side.`@
 ;　驚いて毬枝も手を伸ばす。\
-` Astonished, Marie reached out her hand and did the same.`\
+`　Astonished, Marie reached out her hand and did the same.`\
 
 
 ;cl c,0
@@ -370,10 +371,10 @@ ld l,KYO_D5,80
 
 
 ;　今や大鏡は、物を反射して映す「鏡」ではない。@
-` Right now this big mirror is no longer a mirror that reflects objects.`@
+`　Right now this big mirror is no longer a mirror that reflects objects.`@
 br
 ;　こちら側と左右反転した、瓜二つの別世界への、……入口なのだ。\
-` It's an entrance... to an exact duplicate world where left and right are reversed.`\
+`　It's an entrance... to an exact duplicate world where left and right are reversed.`\
 
 cl l,0
 mld l,KYO_D2,80
@@ -393,12 +394,12 @@ mcl l,0
 bg black,22
 
 ;　ようやく話が見えてくる。@
-` Marie was finally beginning to understand the situation.`@
+`　Marie was finally beginning to understand the situation.`@
 br
 ;　ようするに、鏡の中の世界に入り、そちらの世界での鏡を全て磨こうというのだ。@
-` In short, someone had to enter into the world in the mirror and polish all of the mirrors in there.`@
+`　In short, someone had to enter into the world in the mirror and polish all of the mirrors in there.`@
 ;　だとすると４０枚。@確かに、キョウ一人では持て余す数だ。\
-` Assuming there were 40 of them, `@`it was surely too many for Kyou's capabilities alone.`\
+`　Assuming there were 40 of them, `@`it was surely too many for Kyou's capabilities alone.`\
 
 
 bg k_kaidan_03,22
@@ -438,7 +439,7 @@ bg k_kaidan_01,22
 ;ld l,MAR_D1,80
 
 ;　はぁっと二人でため息を吐き合う。\
-` The two of them sighed in unison.`\
+`　The two of them sighed in unison.`\
 
 
 ;ld r,KYO_D1,80
@@ -447,19 +448,19 @@ bg k_kaidan_01,22
 `"The mirror world is interesting. `@`Well, `@`if you're feeling adventurous that is."`@
 br
 ;　拝む仕草をされる。@
-` He put the palms of his hands together as if praying at a shrine.`@
+`　He put the palms of his hands together as if praying at a shrine.`@
 ;　……人間に対してはどうか知らないが、少なくとも、妖怪同士には悪い人ではなさそうだ。\
-` ...You never know what to expect from humans, but youkai at least seem to look after their own.
+`　...You never know what to expect from humans, but youkai at least seem to look after their own.
 
 
 bg black,22
 ;ld c,MAR_W1,22
 
 ;　毬枝は申し出を引き受けることにする。@
-` Marie decided to take him up on his offer.`@
+`　Marie decided to take him up on his offer.`@
 br
 ;　鏡の中の世界にも、ちょっと興味はあった。\
-` She was, in fact, a little interested by the prospect of seeing another world in the mirror.`\
+`　She was, in fact, a little interested by the prospect of seeing another world in the mirror.`\
 ;bg black,22
 ;cl c,1
 wait 1000
@@ -468,10 +469,10 @@ ld c,KYO_D1,0
 ld l,MAR_D4a,23
 
 ;　清掃道具をバケツに詰め、キョウと毬枝は大鏡の前に再集合する。@
-` She gathered some cleaning supplies, put them in a bucket and reassembled in front of the large mirror with Kyou.`@
+`　She gathered some cleaning supplies, put them in a bucket and reassembled in front of the large mirror with Kyou.`@
 br
 ;　そしてキョウについて、大鏡の中に、するりと入る……。\
-` And she and Kyou slipped into the mirror...`\
+`　And she and Kyou slipped into the mirror...`\
 textoff
 
 fede 0,1000
@@ -502,10 +503,10 @@ ld r,KYO_D2,22
 
 
 ;　壁の掲示物を見ると、全ての文字が左右に反転している。@
-` By looking at the bulletins posted on the walls, it became apparent that the letters were all flipped horizontally.`@
+`　By looking at the bulletins posted on the walls, it became apparent that the letters were all flipped horizontally.`@
 br
 ;　うわ……。@想像以上に、なんというのかその、……酔うというか、気持ち悪い。\
-` Wow... `@`this drunk feeling is worse than you'd think.`\
+`　Wow... `@`this drunk feeling is worse than you'd think.`\
 
 cl c,0
 ld l,MAR_D2a,24
@@ -515,14 +516,14 @@ ld l,MAR_D2a,24
 ld r,KYO_D3,80
 
 「それ以外にも、何かが反転してるかもな。@……何しろ、鏡は森羅万象、あらゆるものの対を司る。@鏡の向こうの異界は無数だから、俺様にも全ては把握しきれねぇ。」\
-`"And there may be even more things reversed than we realize.`@`... Mirrors govern the opposites of anything and everything. `@`Because the mirrors can lead to an infinite number of worlds, not even I can grasp all the possibilties."`\
+`"And there may be even more things reversed than we realize.`@`... Mirrors govern the opposites of anything and everything. `@`Because the mirrors can lead to an infinite number of worlds, not even I can grasp all the possibilities."`\
 
 
 ;　何だかよくわからないが、ちょっぴり面白そうだ。@
-` Even though Marie didn't really understand, it seemed pretty interesting."`@
+`　Even though Marie didn't really understand, it seemed pretty interesting."`@
 br
 ;　生前に大好きだった、不思議の国のアリスになれた気分だ。\
-` It reminded her of Alice in Wonderland, which she had loved very much back when she was alive.`\
+`　It reminded her of Alice in Wonderland, which she had loved very much back when she was alive.`\
 
 
 ld l,MAR_D4a,80
@@ -539,19 +540,19 @@ bg black,22
 ld c,MAR_D4,22
 
 ;　ということは、……私ももう一人いるということか。@
-` Which means that... there should be another me as well.`@
+`　Which means that... there should be another me as well.`@
 ld c,MAR_W2,80
 
 br
 ;　……わー。@何だか面白そう。@
-` Wow. `@`That sounds kind of cool.`@
+`　Wow. `@`That sounds kind of cool.`@
 br
 
 
 ;ld c,MAR_D3a,80
 ;quakex 2,100
 ;　いやいや、相手がびっくり仰天して腰を抜かすんじゃないかな……。\
-` Actually, if they meet, her other self will probably be completely taken aback by surprise...`\
+`　Actually, if they meet, her other self will probably be completely taken aback by surprise...`\
 
 cl c,22
 bg k_kaidan_03,0
@@ -577,7 +578,7 @@ ld r,KYO_D2,80
 cl r,23
 br
 ;　二人は、それぞれの清掃道具を手に、それぞれの担当の鏡へ散っていく。\
-` The two of them, each with cleaning materials in hand, dispersed to clean the mirrors to which they were assigned.`\
+`　The two of them, each with cleaning materials in hand, dispersed to clean the mirrors to which they were assigned.`\
 cl l,24
 
 
@@ -591,19 +592,19 @@ ld c,MAR_D4a,22
 
 
 ;　目に見える物全てを、頭の中で左右反転して考え直す。@
-` She had to rethink everything she saw, inverting it in her head.`@
+`　She had to rethink everything she saw, inverting it in her head.`@
 ;ld c,MAR_D4,80
 
 br
 ;　とにかく、担当個所を端から順に片付けていこう。\
-` Anyway, let's head to our assigned areas and clean up all of our mirrors in order.`\
+`　Anyway, let's head to our assigned areas and clean up all of our mirrors in order.`\
 cl c,24
 
 ;　まず最初は、……演劇部の部室。@
-` First... the drama club room.`@
+`　First... the drama club room.`@
 br
 ;　そこにある、衣装合わせ用の姿見だった。\
-` In there was a full-length mirror used for costume fitting.`\
+`　In there was a full-length mirror used for costume fitting.`\
 
 
 bg black,24
@@ -617,23 +618,23 @@ bg engeki_01,22
 bgm1 1
 
 ;　部室に入ると、少女がひとり、熱心に稽古をしているところだった。@
-` When she entered the room a girl was there, enthusiastically practicing all by herself.`@
+`　When she entered the room a girl was there, enthusiastically practicing all by herself.`@
 br
 ;　毬枝は妖怪だから、望まなければ人間に姿を見られることはない。@
-` Because Marie was a youkai, she could conceal herself from the eyes of humans if she so desired.`@
+`　Because Marie was a youkai, she could conceal herself from the eyes of humans if she so desired.`@
 ;　だから稽古の邪魔をせずに、鏡を磨いてしまうことが出来る。\
-` So she should be able to polish the mirror without interrupting the rehearsal.`\
+`　So she should be able to polish the mirror without interrupting the rehearsal.`\
 
 bg engeki_04,0
 ld c,MAR_W1,22
 
 ;　それにしても、誰もいない、放課後の教室でひとり、稽古をしているとは感心な子だ。@
-` Anyway, it was impressive that a child was so diligent as to practice alone in a classroom after school`@
+`　Anyway, it was impressive that a child was so diligent as to practice alone in a classroom after school`@
 br
 ;　……と思ったら、見覚えのある子だった。@
-` ...As she thought this, she realized that the girl looked somewhat familiar.`@
+`　...As she thought this, she realized that the girl looked somewhat familiar.`@
 ;　みどりだ。\
-` It was Midori.`\
+`　It was Midori.`\
 
 
 bg black,22
@@ -643,10 +644,10 @@ ld r,MID_D3,22
 se1 54
 
 ;　楠木みどり。@演劇の世界に魂を住まわせ、現実を捨て去ることを選んだ少女。@
-` Midori Kusunoki. `@`A girl who, having chosen to abandon reality, allowed her soul to dwell in a world of acting.`@
+`　Midori Kusunoki. `@`A girl who, having chosen to abandon reality, allowed her soul to dwell in a world of acting.`@
 br
 ;　すっかり奇人の扱いだが、演劇にかけるその凄まじい執念に、@最近、見方を改めている者も少なくないと聞く……。\
-` She wasn't treated well by her classmates, but she was extemely persistent in her pursuit of performing arts. `@`Marie had even heard that lately quite a few people had started to change their opinions about the girl...`\
+`　She wasn't treated well by her classmates, but she was extremely persistent in her pursuit of performing arts. `@`Marie had even heard that lately quite a few people had started to change their opinions about the girl...`\
 bg black,2
 mono 0
 
@@ -659,10 +660,10 @@ ld c,MAR_W1,80
 
 
 ;　みどりはお姫様の衣装を身に付け、台本を見ながらイメージトレーニングをしているようだった。@
-` Midori was in costume and appeared to be going through a mental rehearsal while reading a script.`@
+`　Midori was in costume and appeared to be going through a mental rehearsal while reading a script.`@
 br
 ;　毬枝も、姿見の前に清掃道具を置き、ごしごしと心を込めて磨き始める。\
-` Marie put her tools down in front of the girl and began earnestly scrubbing the mirror from top to bottom.`\
+`　Marie put her tools down in front of the girl and began earnestly scrubbing the mirror from top to bottom.`\
 bg black,22
 bg engeki_02,22
 ld r,MID_D1,26
@@ -671,7 +672,7 @@ ld r,MID_D1,26
 `"I've just about got it down. `@`It's quite a nice role, `@`almost as if it was made for me."`@
 br
 ;　みどりは台本を置き、満面の笑顔でそう言う。\
-` Midori said as she put down her script, her face lit up in a bright smile.`\
+`　Midori said as she put down her script, her face lit up in a bright smile.`\
 
 
 ld r,MID_D5,80
@@ -684,9 +685,9 @@ ld l,SIN_D3,22
 `"...Hm, I wonder."`@
 br
 ;　紅茶の香りがふわりと漂ったかと思うと、紅茶紳士が姿を現す。@
-` Just as she thought that she could smell the faint scent of tea, the Black Tea Gentleman had appeared.`@
+`　Just as she thought that she could smell the faint scent of tea, the Black Tea Gentleman had appeared.`@
 ;　みどりにしか関心がないのか、毬枝には気付いていない様子だった。\
-` He was interested only in Midori, and wasn't aware of Marie's presence.`\
+`　He was interested only in Midori, and wasn't aware of Marie's presence.`\
 ld r,MID_D4,80
 
 E_A
@@ -700,17 +701,17 @@ se2 3
 ld r,MID_U2,80
 
 ;　あっははははははは！！」\
-` Ahahahahahaha!!"`\
+`　Ahahahahahaha!!"`\
 
 
 bg engeki_04,0
 ld c,MAR_I1a,22
 
 ;　う、うわー……。@
-` Ah, whoa...`@
+`　Ah, whoa...`@
 br
 ;　演劇に一途な情熱を傾けると評判の彼女が、こんな性格だったなんてショックだ……。\
-` For a girl with a reputation of having such an heartfelt passion for drama, this personality was quite a shock...`\
+`　For a girl with a reputation of having such an heartfelt passion for drama, this personality was quite a shock...`\
 
 
 bg black,22
@@ -744,14 +745,14 @@ se1 47
 `"Aah! A dainty princess am I!!`@/
 se2 48
 ;　どこかに素敵な王子はいないかしら～ン！！」\
-` I wonder if there is a great prince somewhere out there for meee!!"`\
+`　I wonder if there is a great prince somewhere out there for meee!!"`\
 
 
 bg engeki_02,0
 ld c,MAR_D3a,22
 
 ;　ぇ、……えー……。@
-` ah.....Ah....`@
+`　ah.....Ah....`@
 br
 
 ;ld c,MAR_D3a,80
@@ -759,7 +760,7 @@ br
 ;　……何この演技、学芸会レベルとか言ったら学芸会に失礼なレベルだ。@
 `...What is this acting? It's got all the depth of a kindergarden play.`@
 ;　本人は実に楽しそうに演じているのだが、演技力はカケラほども感じられない。\
-` The actor seems to be having fun playing the role, but her acting ability is in shambles.`\
+`　The actor seems to be having fun playing the role, but her acting ability is in shambles.`\
 
 
 bg engeki_01,0
@@ -772,7 +773,7 @@ se1 47
 `"Even though my acting is this good, why can't the teacher see it?!`@/
 se2 48
 ;　きっと育ちが貧しくて卑しいせいね！」@
-` Because I'm poor and of low birth, of course!"`@
+`　Because I'm poor and of low birth, of course!"`@
 ld l,SIN_D2,80
 
 ;「………少しはご自身の演技力を疑われた方が。」\
@@ -804,15 +805,15 @@ bg engeki_04,0
 ld c,MAR_D4a,22
 
 ;　みどりちゃんって、何だか面白い子だなー……。@
-` Midori-chan is such an interesting girl....`@
+`　Midori-chan is such an interesting girl....`@
 br
 
 ;ld c,MAR_D1,80
 
 ;　まぁ、本人は楽しそうにやってるし、邪魔しちゃ悪い。@
-` Well, since it seemed like she was having fun, it would be bad to get in her way.`@
+`　Well, since it seemed like she was having fun, it would be bad to get in her way.`@
 ;　毬枝は姿見を磨き上げると、みどりたちを残し、そっと立ち去るのだった。\
-` After Marie finished polishing the mirror, she left Midori and the Black Tea Gentleman, and departed from the room.`\
+`　After Marie finished polishing the mirror, she left Midori and the Black Tea Gentleman, and departed from the room.`\
 bg black,23
 
 fede 0,1000
@@ -823,20 +824,20 @@ bg toire_05,22
 bgm1 32
 
 ;　次は校舎内の各トイレに散っている霊鏡だ。@
-` Next were the spirit mirrors scattered among the school bathrooms.`@
+`　Next were the spirit mirrors scattered among the school bathrooms.`@
 ;　どのトイレにも１枚くらいは霊鏡があるらしい。@
-` Apparently each bathroom had at least one magic mirror.`@
+`　Apparently each bathroom had at least one magic mirror.`@
 ;　確かに、薄暗い日にひとりでトイレに入ると、鏡の中に薄気味悪さを感じることはあったけれど。@……納得、納得。\
-` Whenver she went into the bathrooms on gloomy day she would get an eerie feeling looking into the mirrors.`@`... That all makes sense now.`\
+`　Whenever she went into the bathrooms on gloomy day she would get an eerie feeling looking into the mirrors.`@`... That all makes sense now.`\
 
 
 bg toire_07,0
 ld c,MAR_D1,22
 
 ;　きゅっきゅと磨いていると、……のっそりと巨体がやってくる。@
-` As she was squeakily polishing a mirror... a sluggish, large figure approached.`@
+`　As she was squeakily polishing a mirror... a sluggish, large figure approached.`@
 ;　誰かと思えば、……何と、校長先生ではないか。\
-` Just as she was wondering who it could be... Oh, what's this? It's the Headmaster?`\
+`　Just as she was wondering who it could be... Oh, what's this? It's the Headmaster?`\
 cl c,0
 ld l,MAR_D4,24
 ld r,KOU_D2,24
@@ -846,21 +847,21 @@ ld r,KOU_D3,80
 `"Well well... if it isn't Marie-san... `@`What could it be that you are doing in a place like this?"`@
 br
 ;　好々爺のような、やさしさを感じる言葉で話し掛けてくる。\
-` He spoke to her in a polite manner like a nice old man.`\
+`　He spoke to her in a polite manner like a nice old man.`\
 
 
 bg black,0
 ld c,KOU_D1,22
 
 ;　校長先生は敬意を持って接すればやさしいけれど、@/
-` The Headmaster was always kind as long as you showed him proper respect.`@/
+`　The Headmaster was always kind as long as you showed him proper respect.`@/
 bg aka2,0
 ld c,kou_u1,22
 
 ;……本当はすごく怖い人だって、彼岸花さんに聞かされてる。@
 `....But according to Higanbana, he was actually a very scary individual.`@
 ;　鏡の世界の校長先生であっても、敬意を忘れないようにしなくちゃ。\
-` So even in the Mirror World, she didn't forget to show respect.`\
+`　So even in the Mirror World, she didn't forget to show respect.`\
 
 
 bg black,22
@@ -893,9 +894,9 @@ ld c,KOU_D3,80
 
 
 ;　仮にも学校妖怪の序列第１位に君臨するお人なのだ。@トイレで鏡磨きなんてこと、手伝わせちゃ申し訳ない。@
-` Even though the position is often fought over, in the school youkai hierarchy, the highest ranked youkai is one who governs the rest. `@`To have him helping scrub down mirrors in the bathroom, such a thing should be inexcusable.`@
+`　Even though the position is often fought over, in the school youkai hierarchy, the highest ranked youkai is one who governs the rest. `@`To have him helping scrub down mirrors in the bathroom, such a thing should be inexcusable.`@
 ;　自分ひとりでやるから大丈夫と手伝いを固辞するのだが、校長先生は、いえいえいえいえ……と、拝み倒すように手伝ってくれてしまう。\
-` She had even insisted that she could do it on my own, and he didn't need to bother, but the Headmaster practically begged to help.`\
+`　She had even insisted that she could do it on my own, and he didn't need to bother, but the Headmaster practically begged to help.`\
 
 
 bg black,22
@@ -903,19 +904,19 @@ bg black,22
 ;ld c,KOU_D3,22
 
 ;　鏡の世界の校長先生は、確かによく見ると、色々と左右が反転している。@
-` In fact, the more she looked at the mirror world Headmaster, the more she realized that he was reversed in more ways than one.`@
+`　In fact, the more she looked at the mirror world Headmaster, the more she realized that he was reversed in more ways than one.`@
 br
 ;　スーツの合わせが左右逆だし、装飾も逆。@モノクルも左右逆だ。\
-` His suit was reversed, as well as his adornments and monocle.`\
+`　His suit was reversed, as well as his adornments and monocle.`\
 
 
 ;ld c,KOU_D1,80
 
 ;　でも、右と左は入れ替わっても、心までは変わらないようだ。@
-` But even though the left and right were changed, it seemed that his heart was still the same.`@
+`　But even though the left and right were changed, it seemed that his heart was still the same.`@
 br
 ;　校長先生の、貫禄の中にも忘れない、やさしい心を感じる。\
-` Marie could feel the Headmaster's kind heart amongst an air of dignity.`\
+`　Marie could feel the Headmaster's kind heart amongst an air of dignity.`\
 
 
 ;bg black,22
@@ -925,10 +926,10 @@ ld r,MAR_W2,0
 ld l,KOU_D1,22
 
 ;　せっかくの貴重な機会だ。@一緒にお掃除をしよう。@
-` This was an invaluable opportunity. `@`They could clean together.`@
+`　This was an invaluable opportunity. `@`They could clean together.`@
 br
 ;　毬枝は校長先生と一緒に、鏡をきゅっきゅと磨き上げるのだった。\
-` Together, Marie and the Headmaster cleaned the mirror until it was sparkling clean.`\
+`　Together, Marie and the Headmaster cleaned the mirror until it was sparkling clean.`\
 
 
 ld l,KOU_D3,80
@@ -949,19 +950,20 @@ quakex 1,100
 ;「お、……おぉ、何と畏れ多い……！！@　鏡のキョウの分際で、毬枝さんにお掃除の手伝いをさせるとは……、恐ろしや恐ろしや……。」\
 `"Oh-... Ohh, How dreadful...!! `@`For Marie-san to be forced to help someone in Kyou's position... how awful, how very awful."`\
 ; ^^^ Note To Editor: literally "For Marie-san to be forced to help someone in Kyou's social standing." Does this sound better or worse in English? Will people understand social standing? ~Jorwil
+; ^^^ Editor's Note: It's probably best to leave it as 'position'. ~Yirba
 
 ;　初めて会った時には、何だかものすごい威圧感で、体が大きく見えたけれど。@
-` The first time she met the Headmaster, his large stature had been very intimidating.`@
+`　The first time she met the Headmaster, his large stature had been very intimidating.`@
 ;　こうして一緒に掃除をする校長先生は、何だかとても小さく見える。@
-` But when he was cleaning like this, he looked quite small.`@
+`　But when he was cleaning like this, he looked quite small.`@
 ;　ぼんやりしていると、ただのお年寄りだなんて思ってしまいそう。\
-` And with his slight absent-mindedness, she though he seemed just like an ordinary elderly man.`\
+`　And with his slight absent-mindedness, she though he seemed just like an ordinary elderly man.`\
 
 
 ld r,MAR_I4a,80
 
 ;　いけないいけない、敬意を失ってはいけない。@この方は学校妖怪のトップなのだから。\
-` No, no. she mustn't lose respect for him. `@`After all, he was the top school youkai.`\
+`　No, no. she mustn't lose respect for him. `@`After all, he was the top school youkai.`\
 
 
 bg black,22
@@ -1013,10 +1015,10 @@ quakey 2,200
 ;ld r,MAR_I3a,80
 
 ;　両目からだばだばと涙を零しながら、手伝いたいとしがみついてくる。@
-` Tears were falling from both of his eyes as he clung to me, begging to help.`@
+`　Tears were falling from both of his eyes as he clung to me, begging to help.`@
 br
 ;　な、何だろう、嬉しいやらキモチ悪いやら！\
-` Wha-what is this? I don't know if I should be happy or disgusted!`\
+`　Wha-what is this? I don't know if I should be happy or disgusted!`\
 
 
 bg toire_05,23
@@ -1024,7 +1026,7 @@ ld r,MAR_d2a,0
 ld c,KOU_D7,23
 
 ;　本当に大丈夫です、結構ですからと説き伏せ、毬枝は逃げるように飛び出す。\
-` Marie tried to persuade the Principal that he had already done enough, and turned to leave the room and get away from him.`\
+`　Marie tried to persuade the Principal that he had already done enough, and turned to leave the room and get away from him.`\
 se1 3
 cl r,23
 
@@ -1046,20 +1048,20 @@ bg black,2
 `"...As I thought. Everything is a little off.`@`... It looks like everyone in this mirror world is going to be a little different from how I know them."`@
 br
 ;　まぁ、手伝ってもらえたから悪い気はしないけれど……。\
-` Well, I guess it wouldn't have hurt if I let him help me...`\
+`　Well, I guess it wouldn't have hurt if I let him help me...`\
 
 
 ;　こうなると、こっちの世界の彼岸花や自分は、一体、どんな性格なのだろうと興味が出てしまう。\
-` Come to think of it, I'm quite interested in what kind of personality Higanbana or I could have in this world.`\
+`　Come to think of it, I'm quite interested in what kind of personality Higanbana or I could have in this world.`\
 
 
 bg rouka_04,24
 
 ;　家庭科室の鏡を磨き終わり、廊下に出ると、みちると数人の女の子たちが話しているのに出くわした。@
-` After she had polished the mirror in the Home Economics room, she went down the stairs and stumbled across a bunch of girls chatting with Michiru.`@
+`　After she had polished the mirror in the Home Economics room, she went down the stairs and stumbled across a bunch of girls chatting with Michiru.`@
 br
 ;　みちるを取り囲み、女の子たちが口々に騒いでいる。\
-` The girls were surrounding Michiru, and all of them were making quite a racket.`\
+`　The girls were surrounding Michiru, and all of them were making quite a racket.`\
 
 
 bg rouka_02,0
@@ -1072,7 +1074,7 @@ ld c,MIC_D1,22
 
 
 ;　どうやら、オカルト話のようだ。@
-` It seems they were talking about the occult.`@
+`　It seems they were talking about the occult.`@
 br
 ;　見たところ、少女たちは何か不思議な体験をしたのだが、@それを誰も信じてくれないので、オカルト専門家のみちるに相談しに来た、という感じだろうか……。\
 Apparently, the girls had some sort of strange experience, `@`but no one would believe them. Thus, they came to consult Occult Expert Michiru...`\
@@ -1085,12 +1087,12 @@ ld c,MIC_D3,80
 E_A
 se1 47
 ;　……ばかじゃない？」@
-` ...Are you all idiots?"`@
+`　...Are you all idiots?"`@
 bgm1 3
 
 br
 ;　みちるは肩を竦めながら、少女たちを冷笑する。\
-` Michiru shrugged and laughed at the girls.`\
+`　Michiru shrugged and laughed at the girls.`\
 
 
 ld c,MIC_D4,80
@@ -1106,19 +1108,19 @@ me1v 28,50
 ld c,MIC_D3,80
 
 ;「錯覚、静電気、気の迷いに思い込み。@全て科学的に説明できるもの。@オカルト信じてるなんて、ばっかじゃない？」@
-` Static electricity, illusions, or your own foolish delusions. `@`Everything can be explained scientifically. `@`Yet you're insistent on this being the work of the occult? Idiots."`@
+`　Static electricity, illusions, or your own foolish delusions. `@`Everything can be explained scientifically. `@`Yet you're insistent on this being the work of the occult? Idiots."`@
 br
 ;　彼女らが何を訴えたのか知らないが、みちるはにべもなくバッサリだ。\
-` Marie didn't know what exactly the girls were going on about, but Michiru wasn't having any of it.`\
+`　Marie didn't know what exactly the girls were going on about, but Michiru wasn't having any of it.`\
 
 
 cl c,24
 
 ;　みちるは、すたすたと立ち去るのだが、少女たちはそれを追い掛け、いいや心霊だ祟りだ悪霊だと騒ぎ立てている。@
-` Michiru turned and briskly walked away, but the girls followed after her, making a fuss about how curses and ghosts exist.`@
+`　Michiru turned and briskly walked away, but the girls followed after her, making a fuss about how curses and ghosts exist.`@
 br
 ;　それを見て、ぽかんとする毬枝だった……。\
-` Marie, who watched this scene unfold in front of her, was absolutely stunned...`\
+`　Marie, who watched this scene unfold in front of her, was absolutely stunned...`\
 
 
 bg rouka_03,0
@@ -1155,14 +1157,14 @@ ld l,KYO_D5,80
 `"The same as you. The original world's Kyou. `@`Here, can't you tell from the way my clothes look? They're not flipped."`@
 br
 ;　本当だ。@服装をよく見たら、間違いなく自分と同じ世界のキョウだった。\
-` It was true. `@`When she looked at his clothes, without a doubt, it was the Kyou from her world.`\
+`　It was true. `@`When she looked at his clothes, without a doubt, it was the Kyou from her world.`\
 
 
 ;　次の鏡へ向かう途中の廊下でばったりと出くわす。@
-` On her way to the next mirror she happened to run into Kyou.`@
+`　On her way to the next mirror she happened to run into Kyou.`@
 br
 ;　キョウの方も順調なようだ。@さすが鏡の番人。@そのお手入れはばっちりなようだ。\
-` Kyou hadn't had any problems so far either. `@`Just as you would expect from the keeper of the Mirrors. `@`Apparently his maintenance had been going perfectly.`\
+`　Kyou hadn't had any problems so far either. `@`Just as you would expect from the keeper of the Mirrors. `@`Apparently his maintenance had been going perfectly.`\
 
 
 ld c,MAR_D3a,80
@@ -1191,36 +1193,36 @@ ld c,MAR_I4a,80
 `"Ah... I see now....."`@
 br
 ;　ポンと手を打たずにはいられない。\
-` She couldn't help but audibly clap her hands together as she realized it.`\
+`　She couldn't help but audibly clap her hands together as she realized it.`\
 
 
 bg black,22
 ld r,MID_D1,22
 
 ;　楠木みどりは、本当はお金持ち自慢などしない、慎ましやかで演劇に情熱を傾ける人のはず。@
-` Midori Kusunoki shouln't be boasting about her wealth, she should be humbly showing her passion for theatre.`@
+`　Midori Kusunoki shouldn't be boasting about her wealth, she should be humbly showing her passion for theatre.`@
 ld r,MID_U2,80
 
 br
 ;　それが反転して、お金持ち自慢で、演劇にいい加減な人になり。\
-` But that was inverted. Instead, she was bragged about being rich, and carried out here theatre duties lazily.`\
+`　But that was inverted. Instead, she was bragged about being rich, and carried out here theatre duties lazily.`\
 
 
 ld c,KOU_D4,22
 
 ;　そういえば、校長先生も変だった。@
-` Now that she thought about it, the Headmaster was also acting strange.`@
+`　Now that she thought about it, the Headmaster was also acting strange.`@
 ld c,KOU_D7,80
 
 br
 ;　あの貫禄があり、威圧感さえあった校長先生が、@この世界では好々爺どころか、弱々しくさえ感じられた。\
-` He should be dignified and somewhat intimidating, `@`but in this world he was nice, but felt fragile.`\
+`　He should be dignified and somewhat intimidating, `@`but in this world he was nice, but felt fragile.`\
 
 
 mld l,MIC_D3,22
 
 ;　桜田みちるなど最たるもの。@オカルトマニアのはずの彼女が、オカルトを全否定なのだから。\
-` Sakurada Michiru was a prime example. `@`A girl who should be an occult fanatic, was instead utterly denying its existence.`\
+`　Sakurada Michiru was a prime example. `@`A girl who should be an occult fanatic, was instead utterly denying its existence.`\
 
 
 mcl a,0
@@ -1252,7 +1254,7 @@ br
 ;cl l,24
 
 ;　毬枝たちは別れ、残りの鏡のところへ向かう。\
-` They split up again and went off towards their remaining mirror locations.`\
+`　They split up again and went off towards their remaining mirror locations.`\
 bg black,24
 
 bg rouka_02,24
@@ -1264,12 +1266,12 @@ ld c,MAR_D4,24
 
 
 ;　向こうから、お喋りをしながら、彼岸花とスミレが歩いてくるのが見える。@
-` Down the hall she could see Higanbana and Sumire approaching while chatting.`@
+`　Down the hall she could see Higanbana and Sumire approaching while chatting.`@
 br
 ;　二人の服装は左右が逆だ。@鏡の世界の二人に違いない。@
-` The two of them had mirrored clothes. `@`They were surely the mirror world counterparts.`@
+`　The two of them had mirrored clothes. `@`They were surely the mirror world counterparts.`@
 ;　二人はどんな風に性格が変わっているのだろう。@ちょっとわくわくする。\
-` In what way have their personalities changed though? `@`Marie was a bit excited to find out.`\
+`　In what way have their personalities changed though? `@`Marie was a bit excited to find out.`\
 
 mov %SMI_Isyou,2
 
@@ -1305,10 +1307,10 @@ quake 4,500
 mld l,MAR_D4a,80
 
 ;　気さくに声を掛けたつもりなのに、二人は仰け反って驚いて答える。@
-` Even though she intended to greet them in a friendly manner, the two of them gave her nervous, and somewhat startled replies.`@
+`　Even though she intended to greet them in a friendly manner, the two of them gave her nervous, and somewhat startled replies.`@
 br
 ;　そうか、なるほど。@元の世界では態度の大きい二人が、こっちの世界では逆に態度が小さくなるわけだ。\
-` I see. `@`In the real world, these two have inflated egos and attitudes, so they're downplayed in this world.`\
+`　I see. `@`In the real world, these two have inflated egos and attitudes, so they're downplayed in this world.`\
 
 
 ld c,SMI_D3a,80
@@ -1320,7 +1322,7 @@ ld c,SMI_D3a,80
 ld r,HIG_W4a,80
 
 ;「お掃除…！@　お掃除ですよね？！@　どちらをお掃除なさるのですか…？！」\
-`"Cleaning..! `@`It's for cleaning, right?! `@`What is it that you are cleanng...?!"`\
+`"Cleaning..! `@`It's for cleaning, right?! `@`What is it that you are cleaning...?!"`\
 ;＜彼岸花
 
 
@@ -1346,10 +1348,10 @@ ld r,SMI_I3a,23
 mld l,MAR_d4,80
 
 ;　彼岸花とスミレが、争うように毬枝の持つ清掃道具を奪ってくる。@
-` Higanbana and Sumire fought over who would take Marie's cleaning tools from her.`@
+`　Higanbana and Sumire fought over who would take Marie's cleaning tools from her.`@
 br
 ;　……どっちかというと意地悪なはずの二人に、こんなに低姿勢に出られると、これはこれで新鮮だ。\
-` ...They should both be rather ill-tempered people, so seeing them this low key, it's a little refreshing.
+`　...They should both be rather ill-tempered people, so seeing them this low key, it's a little refreshing.
 
 
 mld l,MAR_D4a,80
@@ -1365,17 +1367,17 @@ mld c,HIG_W4a,80
 ;＜彼岸花
 
 ;　何だか卑屈っぽくてちょっぴり嫌だが、@最近のぞんざい過ぎる彼岸花には、ぜひ爪垢を持ち帰って飲ませたいものだ。\
-` It is a bit unsettling seeing her being this helpful, `@`but the Higanbana in my world has been so rude lately, I'd love to take this Higanbana back and show it to our world's as an example of how to act.`\
+`　It is a bit unsettling seeing her being this helpful, `@`but the Higanbana in my world has been so rude lately, I'd love to take this Higanbana back and show it to our world's as an example of how to act.`\
 
 mcl a,0
 bg black,22
 bg rouka_02,24
 
 ;　次の鏡は、そこの廊下の窓ガラス。@
-` The next mirror is the windowpane in that hallway.`@
+`　The next mirror is the windowpane in that hallway.`@
 br
 ;　キョウが言うには、夜、外が真っ暗になると、窓も鏡のようによく姿を映すようになる。@そこに、霊鏡としての妖力が宿るのだという。\
-` According to Kyou, at night, when it gets pitch black outside, windows can reflect things just like mirrors do. `@`When that happens, this particular window gathers enough spiritual power to act as a magic mirror.`\
+`　According to Kyou, at night, when it gets pitch black outside, windows can reflect things just like mirrors do. `@`When that happens, this particular window gathers enough spiritual power to act as a magic mirror.`\
 
 
 bg rouka_04,22
@@ -1405,17 +1407,17 @@ ld l,HIG_W4a,0
 ld c,SMI_D5a,24
 
 ;　二人は愛想笑いを浮かべながら、勝手に窓拭きを始める。@
-` With fake smiles, the two of them started wiping down the window.`@
+`　With fake smiles, the two of them started wiping down the window.`@
 br
 ;　普段、尊大で自信たっぷりな性格だから、@それが反転して、この世界では卑屈で臆病になっているわけだ。\
-` Normally the two of them were overconfident and arrogant, `@`so conversely, in this world, they were timid and subservient.`\
+`　Normally the two of them were overconfident and arrogant, `@`so conversely, in this world, they were timid and subservient.`\
 
 
 ;　二人とも、時折、ちらちらと毬枝の表情を盗み見ては、びくびくと愛想笑いを浮かべる。@
-` Occasionally, they would glance up at Marie's facial expressions, and then timidly put on more fake smiles.`@
+`　Occasionally, they would glance up at Marie's facial expressions, and then timidly put on more fake smiles.`@
 br
 ;　何だか、私が意地悪をして二人をいじめてるみたいな気分だ。\
-` Somehow, I feel like I'm being the one who's mean and bullying them.`\
+`　Somehow, I feel like I'm being the one who's mean and bullying them.`\
 
 
 bg rouka_03,0
@@ -1425,7 +1427,7 @@ ld r,MAR_I4a,22
 `...but, come to think of it, I'm not really doing anything bad at all.`@
 br
 ;　この二人が元の世界で、色々と問題があるから、@この世界でもそれが裏返って、さらに面倒な性格になるわけだ。\
-` Back in our world, these two were always causing me problems. `@`But after seeing their personalities reversed in this world, it just makes me realize how troublesome their personalities really are.`\
+`　Back in our world, these two were always causing me problems. `@`But after seeing their personalities reversed in this world, it just makes me realize how troublesome their personalities really are.`\
 
 
 ;bg black,22
@@ -1453,15 +1455,15 @@ bg black,22
 ;ld c,MAR_D2a,22
 
 ;　いけないいけない、この世界の彼岸花さんは臆病なのだから。@
-` Oh no, this isn't good. This world's Higanbana is too timid. She'll take it personally.`@
+`　Oh no, this isn't good. This world's Higanbana is too timid. She'll take it personally.`@
 br
 
 ;ld c,MAR_D3a,80
 
 ;　それにしても、本当に不思議な世界。@
-` This really is a strange world though.`@
+`　This really is a strange world though.`@
 ;　ならば、この世界の私はどんななんだろう？\
-` I seriously wonder what the me of this wolrd is like.`\
+`　I seriously wonder what the me of this world is like.`\
 ;bg black,22
 bg rouka_03,0
 ld c,MAR_W1,22
@@ -1478,10 +1480,10 @@ quakey 3,200
 ld c,MAR_I1a,80
 
 ;　その時、唐突に彼岸花とスミレが短い悲鳴を上げて飛び上がった。@
-` Just then, Higanbana and Sumire let out a short shriek and jumped up.`@
+`　Just then, Higanbana and Sumire let out a short shriek and jumped up.`@
 br
 ;　何事かと思って振り返ると……。\
-` Wondering what had happened, I turned to look...`\
+`　Wondering what had happened, I turned to look...`\
 
 
 bg black,24
@@ -1518,9 +1520,9 @@ me1v 16,50
 
 br
 ;　さくのしんが、一升瓶を手に、ふらふらしながらやって来る。@
-` Sakunoshin was staggeredly walking towards us, a bottle of sake in hand.`@
+`　Sakunoshin was staggering towards us, a bottle of sake in hand.`@
 ;　明らかに千鳥足。@というか、毬枝のよく知るさくのしんの雰囲気じゃない。\
-` It was obvious from his gait that he had been drinking. `@`Marie saw at once this was not the Sakunoshin she knew.`\
+`　It was obvious from his gait that he had been drinking. `@`Marie saw at once this was not the Sakunoshin she knew.`\
 
 
 ld r,MAR_D4a,24
@@ -1539,9 +1541,9 @@ quakex 5,600
 bgm1 28
 
 ;　唐突にさくのしんは飛び上がると、今、拭いたばかりの窓ガラスを、バーンと蹴る！@
-` Suddenly, Sakunoshin ran, jumped, and kicked the windowpane that had just done drying!`@
+`　Suddenly, Sakunoshin ran, jumped, and kicked the windowpane that had just done drying!`@
 ;　せっかく磨いたのに、足跡の汚れが付いてしまう。\
-` Even though it had just been so stringently polished, a dirty footprint now sullied it.`\
+`　Even though it had just been so stringently polished, a dirty footprint now sullied it.`\
 
 
 ld r,MAR_N1,80
@@ -1560,29 +1562,29 @@ se2 12
 quakey 3,200
 
 ;　うりゅう！@/
-` Uryuu!`@/
+`　Uryuu!`@/
 se3 12
 quakex 4,500
 
 ;　うりゅううううう！！」\
-` Uryuuuuuuu!!"`\
+`　Uryuuuuuuu!!"`\
 
 
 quakex 2,200
 se1 12
 ;　バーン！@/
-` BAM!`@/
+`　BAM!`@/
 quakex 2,200
 se2 12
 ;　ビターン！@/
-` BA-DUM!`@/
+`　BA-DUM!`@/
 quakex 2,300
 se3 12
 ;　バシーン！！@
-` CRASH!!`@
+`　CRASH!!`@
 br
 ;　次々に窓ガラスに足跡を付けていく。\
-` He puts footprints on the window one after the other.`\
+`　He puts footprints on the window one after the other.`\
 
 mcl c,0
 ld l,SAK_W2,24
@@ -1592,10 +1594,10 @@ ld l,SAK_W2,24
 se1 12
 quakex 4,300
 ;　バシーン！@
-` BAM!`@
+`　BAM!`@
 br
 ;　彼岸花たちは跳び上がり、大慌てで窓を拭き始める。\
-` Higanbana and Sumire jumped up and started polishing the windows as fast as they could.`\
+`　Higanbana and Sumire jumped up and started polishing the windows as fast as they could.`\
 
 
 
@@ -1611,29 +1613,29 @@ ld l,SAK_D5,80
 `".....Uryuuuu. `@`Man, this sake sucks."`@
 br
 ;　さくのしんは、ぷいっとそっぽを向く。\
-` Sakunoshin brushed off Marie's question and swung his body around towards the window.`\
+`　Sakunoshin brushed off Marie's question and swung his body around towards the window.`\
 cl l,24
 
 ;　そして、もっと腰を入れて磨けーと、彼岸花たちをいびっている。\
-` And then yelled at Higanbana and Sumire to put their backs into it when they polished.`\
+`　And then yelled at Higanbana and Sumire to put their backs into it when they polished.`\
 
 
 ld r,MAR_I4a,80
 
 ;「な、なるほど……。@あの臆病だけれど、心のやさしいさくのしんちゃんは、反転するとこうなるわけね……。@…………………………。」\
-`"I- I see... `@`This is what happens when that timid yet kind-hearted Sakunoshin-chan has his personalitiy flipped....`@`........."`\
+`"I- I see... `@`This is what happens when that timid yet kind-hearted Sakunoshin-chan has his personality flipped....`@`........."`\
 
 
 
 bg black,22
 
 ;　何だか不安になってくる。@
-` It made Marie uneasy.`@
+`　It made Marie uneasy.`@
 ;　この世界の私って、……どうなってるんだろう。@
-` What.... would this world's version of her be like?`@
+`　What.... would this world's version of her be like?`@
 br
 ;　まさか、さくのしんちゃんみたいに………。\
-` Surely she wouldn't be the same as Sakunoshin-chan....`\
+`　Surely she wouldn't be the same as Sakunoshin-chan....`\
 fede 0,1000
 E_A
 
@@ -1644,17 +1646,17 @@ E_A
 me1v 5,50
 
 ;　鏡の世界の毬枝はその頃、どこにいただろう？@
-` But where is the mirror world's Marie right now?`@
+`　But where is the mirror world's Marie right now?`@
 br
 ;　その世界にはいなかった。\
-` In truth, she's not in that mirror world at all.`\
+`　In truth, she's not in that mirror world at all.`\
 bg k_kaidan_02,22
 
 ;　何と、鏡を通り抜けて、毬枝たちの元の世界側にいた。@
-` The mirror Marie has actually passed through the mirror back into the world that this Marie originally came from.`@
+`　The mirror Marie has actually passed through the mirror back into the world that this Marie originally came from.`@
 br
 ;　毬枝の想像通り、……その雰囲気は、本来のそれとは１８０度違う。\
-` And just as the original Marie had guessed ... the other Marie's personality is 180 degrees different from the original.`\
+`　And just as the original Marie had guessed ... the other Marie's personality is 180 degrees different from the original.`\
 
 se1 22
 bg k_kaidan_04,0
@@ -1676,7 +1678,7 @@ bgm1 19
 `"...So, this is the mirror world... `@`Tch. `@`All the letters and stuff are flipped around. `@`It makes me feel damn near sick. `@`Eh, what the hell. `@`After I've taken over this world, I'll just make 'em flip their letters the right way!"`@
 br
 ;　そう言って、げらげらと笑うその姿は、確かに外見だけは毬枝のそれだ。\
-` She said. And as she burst into laughter. It was obvious that she was similar to Marie in appearance only.`\
+`　She said. And as she burst into laughter. It was obvious that she was similar to Marie in appearance only.`\
 
 
 ld r,MAR_W3,80
@@ -1690,25 +1692,25 @@ mono 2
 ld c,MAR_W3,22
 
 ;　全て、鏡の世界の毬枝が仕組んだことだったのだ。@
-` Everything had been planned by the mirror world Marie.`@
+`　Everything had been planned by the mirror world Marie.`@
 br
 ;　彼女は自分の世界のキョウを縛り上げ、鏡の掃除を出来ないようにした。\
-` She had tied up her own world's Kyou so that he would be unable to clean his mirrors.`\
+`　She had tied up her own world's Kyou so that he would be unable to clean his mirrors.`\
 
 
 ;　その結果、彼女の世界の鏡は汚れる。@
-` As a result, her world's mirrors got dirty.`@
+`　As a result, her world's mirrors got dirty.`@
 br
 ;　そして、他の世界のキョウが、こちら側の鏡の汚れに気付き、それを掃除するためにやって来る。\
-` Eventually, a Kyou from a different world would notice the mirrors getting dirtier, and would be forced to come into her world to clean them.`\
+`　Eventually, a Kyou from a different world would notice the mirrors getting dirtier, and would be forced to come into her world to clean them.`\
 
 ld c,MAR_W4,80
 
 ;　その間に相手の世界へ踏み込み、全てをブチのめして支配しようという算段なのだ。@
-` This would give her the time to break into the other's world and take it over by force.`@
+`　This would give her the time to break into the other's world and take it over by force.`@
 br
 ;　鏡の世界の毬枝は、……元の世界の毬枝の想像をはるかに超える……、超々暴君だったのだ。\
-` The mirror world's Marie... was much worse than the original Marie could ever imagine... She was a ruthless tyrant.`\
+`　The mirror world's Marie... was much worse than the original Marie could ever imagine... She was a ruthless tyrant.`\
 
 
 
@@ -1730,10 +1732,10 @@ bg hoken_01,23
 ;mld l,MAR_I2,23
 
 ;　ガラリと引き戸を開け、毬枝が保健室に入る。@
-` Marie violently threw open the sliding door and entered the infirmary.`@
+`　Marie violently threw open the sliding door and entered the infirmary.`@
 br
 ;　それはよく見れば、服装が左右逆になっている別世界の毬枝なのだが、@ベッドの上でだらしなくくつろぐ彼岸花は気付かないようだった。\
-` If you looked closely, you could tell that this Marie from another world was wearing horizontally flipped clothing, `@` but Higanbana, who was still lounging about lazily on the bed, didn't appear to notice that.`\
+`　If you looked closely, you could tell that this Marie from another world was wearing horizontally flipped clothing, `@` but Higanbana, who was still lounging about lazily on the bed, didn't appear to notice that.`\
 
 ld r,HIG_d5,22
 
@@ -1782,10 +1784,10 @@ me3v 5,50
 
 
 ;　保健室内でバチバチと両者の妖気が火花を散らす。@
-` The air in the infirmary crackled as sparks of spiritual power emanated from the two youkai.`@
+`　The air in the infirmary crackled as sparks of spiritual power emanated from the two youkai.`@
 br
 ;　彼岸花の長い髪は、燃え上がる炎のように、めらめらと吹き上げる。\
-` Like fire Higanbana's long hair flared up, burning like an inferno.`\
+`　Like fire Higanbana's long hair flared up, burning like an inferno.`\
 textoff
 
 fedexx 0,90,90,90,0,0,1000
@@ -1806,11 +1808,12 @@ quakey 3,200
 `"3rd ranked? Don't make me laugh!!`@/
 bgm1 21
 ;　私は学校妖怪序列第１位、げらげらさんだぁああぁあぁあああ！！！@　テメェに靴を舐めさせてやらぁあッ、/
-` I am the 1st Ranked School Youkai, Geragera-san!!! `@`And I'm going to make you lick my shoooOOOeeEs!!`/
+`　I am the 1st Ranked School Youkai, Geragera-san!!! `@`And I'm going to make you lick my shoooOOOeeEs!!`/
 se1v 84,100
 ;げらげらげらげらげら！！！」\
 `Gera gera gera!!!"`\
 ; ^^^ Note To Editor: Like mesomeso is the sound of sobbing, geragera is the sound of a guffawing or cackling laugh. Does this warrant a tip? ~Jorwil
+; ^^^ Editor's Note: It hasn't been decided whether we'll include a glossary feature in The Second Night. If we do, we should create an entry, but I'll put in an inline translation note for now. ~Yirba
 
 mcl a,0
 bg black,22
@@ -1821,18 +1824,18 @@ print 0
 ld r,MAR_D1,22
 
 ;　鏡の世界の毬枝は、めそめそさんではない。@
-` The Marie from the mirror world wasn't called Mesomeso-san. She wasn't tearful at all.`@
+`　The Marie from the mirror world wasn't called Mesomeso-san. She wasn't tearful at all.`@
 ld_p MAR_D3
 lsp2 4,$ld_pass,130,263,-100,100,0
 lsp2 5,$ld_pass2,130,263,-100,100,0
 print 80
 br
 ;　臆病で引っ込み思案でか弱い毬枝の正反対。@
-` She was the complete opposite of that cowardly, introverted and weak Marie.`@
+`　She was the complete opposite of that cowardly, introverted and weak Marie.`@
 ld r,MAR_W4,80
 
 ;　短気でおっかない、恐るべき暴君。@げらげらの毬枝なのだ…！\
-` She was a short-tempered, terrifying and dreadful tyrant. `@`She was Geragera Marie...!`\
+`　She was a short-tempered, terrifying and dreadful tyrant. `@`She was Geragera Marie...!`\
 
 
 csp2 -1
@@ -1850,10 +1853,10 @@ print 24
 ld c,MAR_I5,0
 
 ;　学校妖怪としての実力や序列も、ビリの第８位が反転して、第１位の力となっている。@
-` Furthermore, her power and ranking as the lowest ranked among the 8 school youkai had been reversed. Instead, her power was that of the top ranked.`@
+`　Furthermore, her power and ranking as the lowest ranked among the 8 school youkai had been reversed. Instead, her power was that of the top ranked.`@
 br
 ;　鏡の向こうの世界で、彼岸花たちが毬枝にぺこぺこしていたのは、@単に彼らの性格が反転したからだけではない。@毬枝が暴君として君臨していたからなのだ…！\
-` The reason that Higanbana and the other youkai in the mirror world were so submissive, `@`was not just because their personalities were reversed, `@`but because this Marie had ruled over them as a tyrant...!`\
+`　The reason that Higanbana and the other youkai in the mirror world were so submissive, `@`was not just because their personalities were reversed, `@`but because this Marie had ruled over them as a tyrant...!`\
 se1v 66,100
 
 bg black,2
@@ -1864,11 +1867,11 @@ bg hoken_04,1
 se1v 2,100
 quakey 3,200
 ;　ドッカン！　ズッガン！！@/
-` BANG! SMASH!!`@/
+`　BANG! SMASH!!`@/
 se2v 2,100
 quakex 6,500
 ;　ボコボコ、ドカーン！！\
-` BADUM-BANG, CRASH!!`\
+`　BADUM-BANG, CRASH!!`\
 textoff
 
 fede 0,1000
@@ -1884,7 +1887,7 @@ ld c,MAR_w4,6
 `"Wh-what.....what a fool....."`@
 br
 ;　頭にタンコブ三兄弟を載せ、彼岸花は床で大の字になってプスプスと煙をあげている。\
-` Higanbana lay sprawled out on the floor, with three bumps on her head, her flames sputtering out in smoke.`\
+`　Higanbana lay sprawled out on the floor, with three bumps on her head, her flames sputtering out in smoke.`\
 
 bg black,22
 bg hoken_02,22
@@ -1905,7 +1908,7 @@ se1 48
 `"Y-Yes!!!"`@
 br
 ;　毬枝が一喝すると、彼岸花はビョンっと飛び跳ねるように直立する。\
-` As Marie shouted, Higanbana jumped up and stood at attention.`\
+`　As Marie shouted, Higanbana jumped up and stood at attention.`\
 
 ld r,MAR_W3,80
 
@@ -1914,7 +1917,7 @@ ld r,MAR_W3,80
 se1 2
 quakey 3,200
 ;オラ、行けッ！！」@
-` Now GO!!"`@
+`　Now GO!!"`@
 ;ld l,HIG_D1,80
 
 quakey 1,100
@@ -1928,7 +1931,7 @@ br
 ;cl l,64
 ;se2 3
 ;　涙目の彼岸花は、再びビョンっと飛び跳ねてから、ぴゅーっと飛び出していく。\
-` Higanbana, with tears in her eyes, once again jumped up and ran off.`\
+`　Higanbana, with tears in her eyes, once again jumped up and ran off.`\
 
 
 ld r,MAR_W4,80
@@ -1953,7 +1956,7 @@ ld l,KYO_D6,22
 bgm1 15
 
 ;　ガラリと引き戸が開くと、そこには１人の毬枝と２人のキョウが。\
-` The sliding door was thrown open, and standing in the doorway was one Marie and two Kyous.`\
+`　The sliding door was thrown open, and standing in the doorway was one Marie and two Kyous.`\
 
 
 ld r,KYO_D4,80
@@ -1986,12 +1989,12 @@ mld l,KYO_D6,22
 `""Return to your world now, return now, return nooOOOOWWWww!!""`@
 br
 ;　２人のキョウが、同時に小さな霊鏡を取り出し、それを鏡の世界の毬枝に突き付ける。\
-` In the same moment, both Kyous pulled out a small magic mirror and thrust them at the mirror world Marie.`\
+`　In the same moment, both Kyous pulled out a small magic mirror and thrust them at the mirror world Marie.`\
 mcl a,0
 se1v 27,100
 bg white,30
 ;　するとそこから眩い光が噴き出した。\
-` As they did so, a dazzling light radiated forth.`\
+`　As they did so, a dazzling light radiated forth.`\
 
 bg hoken_01,0
 ld c,MAR_I6a,22
@@ -2010,10 +2013,10 @@ bg white,28
 se2 55
 
 ;　ガシャーン！！@
-` CLASH!!`@
+`　CLASH!!`@
 br
 ;　ガラスが砕け散るような音がして、真っ白な輝きが保健室中に飛び散る。\
-` With the sound of breaking glass, the Infirmary was filled with a bright white light.`\
+`　With the sound of breaking glass, the Infirmary was filled with a bright white light.`\
 bg black,22
 
 fede 0,1000
@@ -2025,7 +2028,7 @@ bg hoken_01,6
 me1v 16,50
 
 ;　……恐る恐る目を開けると、……もう、鏡の世界の毬枝はいなくなっていた。\
-` ...And when they slowly, carefully opened their eyes ...The mirror world Marie had vanished.`\
+`　...And when they slowly, carefully opened their eyes ...The mirror world Marie had vanished.`\
 
 
 bg hoken_02,0
@@ -2082,16 +2085,16 @@ bg black,0
 ld c,MAR_D2a,22
 
 ;　……なるほど。@
-` ...I see.`@
+`　...I see.`@
 br
 ;　私は自分のことを謙虚なのだと思い込んでいるけれど。@……それは卑屈なことで、余り良いことではないのだろう。\
-` Even though I'm convinced that I'm a humble person,`@`... I've never much cared for being used by others.`\
+`　Even though I'm convinced that I'm a humble person,`@`... I've never much cared for being used by others.`\
 
 
 ;ld c,MAR_D3a,80
 
 ;　鏡の世界の私は乱暴者だった。@……それはひょっとしたら、抑え込んだ、私の本心なのかもしれない。\
-` The Mirror's version of me was so violent.`@`... Maybe those are my true feelings, deep down.`\
+`　The Mirror's version of me was so violent.`@`... Maybe those are my true feelings, deep down.`\
 
 
 ld c,MAR_I4a,80
@@ -2100,7 +2103,7 @@ ld c,MAR_I4a,80
 `...I have to stop being such a pushover. `@`I need to throw out my chest with pride.`@
 br
 ;　そうすれば鏡の世界で出会う自分も、やがてはまったく同じ姿になるだろう。\
-` If I do that, maybe I can eventually can adopt characteristics of both me and the me from the mirror.`\
+`　If I do that, maybe I can eventually can adopt characteristics of both me and the me from the mirror.`\
 bg black,22
 
 fede 0,1000
@@ -2109,10 +2112,10 @@ E_A
 bg hoken_04,22
 
 ;　どたどたどたどた…！！@/
-` THUD THUD THUD!!`@/
+`　THUD THUD THUD!!`@/
 se1 82
 ;　ガラガラガラー！！@
-` RATTLE RATTLE RATTLE!!`@
+`　RATTLE RATTLE RATTLE!!`@
 br
 
 bg black,24
@@ -2122,7 +2125,7 @@ ld r,MAR_D4,22
 ;ld l,HIG_D7,23
 
 ;　その時、凄まじい勢いで彼岸花が駆け込んでくる。\
-` At that moment a very flustered Higanbana rushed into the room `\
+`　At that moment a very flustered Higanbana rushed into the room `\
 
 se1 3
 ld l,HIG_D7,23
@@ -2142,18 +2145,18 @@ wait 500
 se2 48
 
 ;　ジャンピング土下座を繰り返す彼岸花。\
-` Higanbana was repeatedly jumping up and then prostrating herself on the ground before Marie.`\
+`　Higanbana was repeatedly jumping up and then prostrating herself on the ground before Marie.`\
 
 
 ld r,MAR_D4a,80
 
 ;　一度も見たことのない、情けない顔をして、ぴょこぴょこと飛び跳ねている。@
-` Marie had never seen her making such a pitiable face before, all the while she was jumping up and down like a frog.`@
+`　Marie had never seen her making such a pitiable face before, all the while she was jumping up and down like a frog.`@
 ;ld r,MAR_D1,80
 
 br
 ;　毬枝は面食らったが、ポンと手を打つと、ちょっぴりだけ表情を険しくして言う。\
-` Marie was a bit confused, but then she clapped her hands together, made her facial expression just a little more stern and spoke.`\
+`　Marie was a bit confused, but then she clapped her hands together, made her facial expression just a little more stern and spoke.`\
 
 
 ld r,MAR_I3,80
@@ -2175,7 +2178,7 @@ wait 300
 se2 48
 
 ;　ぴょいん、ぴょいん！！\
-` Boing Boing!!`\
+`　Boing Boing!!`\
 textoff
 wait 1000
 
