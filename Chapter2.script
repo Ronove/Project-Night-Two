@@ -73,7 +73,7 @@ br
 ;　それは、足音。@
 `　And that was footsteps.`@`
 ;　踵でごつごつと踏み鳴らす荒々しい足音が、足早に近付いてくるのだ。\
-`　The sound of heels, rough footsteps, tredding across the floor, were closing fast.`\
+`　The sound of heels, rough footsteps, treading across the floor, were closing fast.`\
 
 ;「……嫌……、嫌…………。」@
 `"...No... No......"`@
@@ -156,7 +156,7 @@ br
 ;　そしてそれは、この教科だけに限らない。@
 `　And my drowsiness wasn't limited to just this subject.`@
 ;　国語も算数も、理科も社会も、何もかも。@私のノートは真っ白だった。@
-`　Language, math, science, social studies, etc, etc. `@`My class notes were completely blank.`@
+`　Language, math, science, social studies, etc., etc. `@`My class notes were completely blank.`@
 br
 ;　当然だ。@私は学校でほとんどの時間を、寝て過ごすか、@ぼんやりしながら、人生についてを自問自答しているだけなのだから。\
 `　It's not unusual. `@`I spend almost all my time at school sleeping through classes, `@`or I just daydream to myself pondering life's questions.`\
@@ -423,7 +423,7 @@ bg kaidan_01,22
 `　1. `@`2. `@`3 steps...`@\
 
 ;　私の教室は２階にある。@だから、毎日必ず上り下りがある。@
-`　My classroom is on the second floor. `@`So everyday I had to go up and down those stairs.`@
+`　My classroom is on the second floor. `@`So every day I had to go up and down those stairs.`@
 br
 ;　しかしその階段は、１２段で踊り場に達し、さらに１２段で２階に至る。\
 `　However, the steps end at the 12th step, and beyond the 12th step I'd arrive on the second floor.`\
@@ -432,7 +432,7 @@ br
 `　...Like the most natural thing in the world, `@`no matter how many times I'd try going up and down the stairs, I'd get off at the 12th step and arrive on the second floor.`@
 br
 ;　その１２段が、……ある日、唐突に１３段になって、……死神が現れてくれないだろうか。\
-`　I thought maybe that some day... suddenly a 13th step would appear... and a god of death would come for me.`\
+`　I thought maybe that someday... suddenly a 13th step would appear... and a god of death would come for me.`\
 
 ;　６段。@７段。@８段……。\
 `　6. `@`7. `@`8 steps...`\
@@ -785,7 +785,7 @@ br
 me1v 17,70
 
 ;　少女にも、その禍々しい姿が近付いてくるのが見えているはず。@
-` That must be be apparent to the girl as well as his ominous shadow drew closer.`@
+` That must be apparent to the girl as well as his ominous shadow drew closer.`@
 br
 ;　しかし、もう立ち上がる気力はおろか、振り返る気力さえもないようだった。\
 ` However, she didn't have the energy to look over her shoulder or even stand.`\
@@ -821,7 +821,7 @@ bg rouka_04,23
 ld r,IZA_D6,6
 
 ;「俺ァな。@お前みたいな。@クソ落ち目なヤツが大好物なんだよォ…！！@　うっひゃっひゃっひゃっひゃ！！」@
-`"You know what. `@`I like you. `@`Failures like you are my favourite food!! `@`Uhya hya hya hya hya!!!"`@
+`"You know what. `@`I like you. `@`Failures like you are my favorite food!! `@`Uhya hya hya hya hya!!!"`@
 ;「酷いです酷いです、あんまりですあんまりです…！！@　許して許して許して許して……！！」\
 `"You're horrible! I don't deserve this, I don't...! `@`Please please please please let me go!"`\
 ;　とうとう死神は、少女のもとに辿り着く。@
@@ -884,7 +884,7 @@ br
 ` Her whole body burned and froze in torment, while her cells were devoured one by one.`@
 br
 ;　少女はもう、身動きもしないが、@肉体の全てが焼き尽くされて消え去るまで、その意識ははっきりと残っており、@その激痛から逃れることは許されなかった。\
-` The girl didn't stir anymore. `@`However, all of her flesh was cooked until it was erased, and her consciousness, which remained,`@`could not escape that terrible pain.`\ 
+` The girl didn't stir anymore. `@`However, all of her flesh was cooked until it was erased, and her consciousness, which remained,`@` could not escape that terrible pain.`\ 
 ld c,IZA_D3,22
 ld c,IZA_D5,80
 
@@ -962,7 +962,7 @@ ld c,IZA_D6,80
 ` "No way you can die. `@`You see, you're already dead? `@`You can't die twice, see. `@`You don't die twice!! `@`You'll spend eternity being tortured in my stomach, and I will digest your soul!!"`@
 br
 ;　死神の男は眼下を見下ろし、苦悶の絶叫を抑えられない彼女を嘲笑う。\
-` The shinigami looked on, ridiculing the girl who could not surpress her cries of anguish and suffering.`\
+` The shinigami looked on, ridiculing the girl who could not supress her cries of anguish and suffering.`\
 
 ;　苦痛に喘ぐことしか出来ない少女にはわからないだろうが。@ここから見下ろせば、眼下には他にも何人もの哀れな犠牲者を見ることが出来る。\
 `　The girl probably couldn't understand as all she could feel was the grip of agonizing pain. `@`If she could look down at the scene from above, she would see the suffering of countless victims.`\
@@ -1240,7 +1240,7 @@ bgm1 16
 se2 33
 
 ;　突然に。@唐突に。@
-` Suddenly.`@`Abruptly.`@
+` Suddenly.`@` Abruptly.`@
 br
 ;　え……？@
 ` ...Eh?`@
@@ -1258,7 +1258,7 @@ br
 ;　世界が消えたのだ。\
 ` The world disappeared.`\
 ;　……いや、消えたといっても、真っ暗になったわけじゃない。@もちろん、ここが教室であることにも変わりはない。@
-` ...No, saying that it ended would be wrong--it didn't even go dark.`@`Of course, there was no change even here in the classroom.`@
+` ...No, saying that it ended would be wrong--it didn't even go dark.`@` Of course, there was no change even here in the classroom.`@
 br
 ;　しかし、消えたのだ。@
 ` But it was gone.`@
@@ -1863,7 +1863,7 @@ bg black,2
 ` It was decided that a deadly game of tag would unfold with the shinigami every day from then on.`@
 br
 ;　初日こそ、初めてということもあって混乱したが、@二日目は、多少の覚悟があったので、わずかに冷静でいられた。\
-` On the first day, since it was the first time, I was confused.`@`On the second day, I had little preparation, and kept my cool only slightly.`\
+` On the first day, since it was the first time, I was confused.`@` On the second day, I had little preparation, and kept my cool only slightly.`\
 bg kyou_02u,22
 
 wait 2000
@@ -1909,7 +1909,7 @@ br
 ;　つまり、１０分間、イザナミから逃げ延びればいいわけだ。\
 ` In other words, if I can run from Izanami for 10 minutes, I'll be okay.`\
 ;　逃げ場はないから、ゴールはない。@
-` Since there's no where to run to, there's no goal to reach.`@
+` Since there's nowhere to run to, there's no goal to reach.`@
 br
 ;　つまり、校内をぐるぐるとずっと走り回っているしかない。\
 ` Basically, the only thing I can do is run around the school in circles over and over.`\
@@ -1997,7 +1997,7 @@ ld c,IZA_D5,22
 ld c,IZA_D6,80
 
 ;　様々な感情で頭がごっちゃになる。@少しでも休み過ぎると、あっという間にイザナミは近付いてくる。\
-` My head is astir with all sorts of emotions. `@`Whenever I rest a just a little, Izanami quickly gets closer.`\
+` My head is astir with all sorts of emotions. `@`Whenever I rest just a little, Izanami quickly gets closer.`\
 bg black,23
 bg rouka_04,23
 
@@ -2021,7 +2021,7 @@ mbg black,22
 ` ...It's only five minutes. `@`Five more minutes.`@
 br
 ;　まさか、………毎日、チャイムがなるまでの時間が延びていくのではないだろうか。\
-` That couldn't mean that the time time until the bell rang would increase everyday... could it?`\
+` That couldn't mean that the time until the bell rang would increase everyday... could it?`\
 ;　ほんの１０分間、駆け回っただけで、これだけ疲れているのだ。@
 ` I just had to run around for ten minutes, but I'm this tired already.`@
 br
@@ -2306,7 +2306,7 @@ br
 `　After asking in her class, they said she's often here during lunch break...`\
 
 ;　校舎裏の、茂みの陰にひっそりとある、小さな祠。@
-`　Behind the school, hidden in the shade of the bushes, at the small shinto shrine.`@
+`　Behind the school, hidden in the shade of the bushes, at the small Shinto shrine.`@
 br
 ;　その前にしゃがみ込み、何かぶつぶつと独り言を言いながら祠を撫でている眼帯の少女こそ、@……噂の桜田みちるに違いなかった。\
 `　Crouched in front of it, that girl with an eyepatch muttered something to herself as she gently stroked the shrine. `@`...Just as the rumors had said, it was without a doubt, Michiru Sakurada.`\
@@ -2338,7 +2338,7 @@ ld r,MIC_D1,23
 `"............"`@
 br
 ;　桜田みちるは、……眼帯の向こうに隠されているという霊眼で、私をじっと見ているようだった。\
-`　It seemed like.... Michiru Sakurada was staring a me intently... with her spirit eye hidden on the other side of her eyepatch.`\
+`　It seemed like.... Michiru Sakurada was staring at me intently... with her spirit eye hidden on the other side of her eyepatch.`\
 
 ld l,AYA_D4a,80
 
@@ -2693,7 +2693,7 @@ ld c,AYA_D8a,24
 ` In this world there are many people who find themselves powerless in the face of an incurable disease. `@`Unable to save themselves, they have no choice but to let fate decide.`@
 br
 ;　それに比べたら、どんなに苦しくとも、自分の努力で何とか出来る試練など、@まだ恵まれているはず……。\
-` Compared to that, no matter how painful the trial, if you're given a a chance to overcome it by your own power, `@`that is a blessing in itself ...`\
+` Compared to that, no matter how painful the trial, if you're given a chance to overcome it by your own power, `@`that is a blessing in itself ...`\
 quakey 1,100
 
 ;「毎日、毎日、何時間も走り続けるなんて、不可能だよ…！！@　そんなの出来るわけねぇ…！！@　第一、そこまで必死に走って走って生き延びて！@　その先に何が待ってるってんだよぉ？！」\
@@ -2704,7 +2704,7 @@ ld c,AYA_D7a,80
 ;「い、……生き延びることが出来るよ。」\
 `Y-... You can survive.`\
 ;「だから！@　生き延びて、俺の人生に何の意味があるって言うんだよぉ？！@　勉強も出来ない、運動も出来ない！@　友達もいない、趣味なんか何もない！！@　毎日毎日、退屈で死にそうだった。@いやむしろ、死にたいとさえ思ってたさ…！！」\
-`"I'm asking you! `@`What's the point of me surviving?! `@`I can't study, I can't exercise! `@`I have no friends, I have no hobbies! `@`Every day I felt like I'd die from boredom.`@`No, I wanted to die..!!"`\
+`"I'm asking you! `@`What's the point of me surviving?! `@`I can't study, I can't exercise! `@`I have no friends, I have no hobbies! `@`Every day I felt like I'd die from boredom.`@` No, I wanted to die..!!"`\
 bg black,22
 
 ;　雪が解けるように、眠るように死にたい。@
@@ -3170,7 +3170,7 @@ bg black,22
 ` I complained the whole time.`@
 br
 ;　しかし、放課後を迎え、イザナミの世界で時計を見上げた時。@……はっきりと確信した。\
-` But when the end of the schoolday arrived, I looked up at the clock in Izanami's world, `@`and confirmed my suspicions..`\
+` But when the end of the school day arrived, I looked up at the clock in Izanami's world, `@`and confirmed my suspicions..`\
 fede 10,1000
 E_MA
 
@@ -3446,7 +3446,7 @@ br
 ;　どうやら、予め走った時間は、イザナミの世界ではそれ以上にカウントされているらしい。@
 ` And it seemed that whatever amount of time I ran in advance, that counted for even more time in Izanami's world.`@
 ;　つまり、予め、走っておけば走っておくほど、有利だということだ。@
-` Thus, the more I ran in advance the more of an an advantage I had.`@
+` Thus, the more I ran in advance the more of an advantage I had.`@
 br
 ;　とにかく走った。@チャイムと同時に教室を飛び出し。@給食を終えると同時に教室を飛び出した。\
 ` I was always running. `@`As soon as the bell rang, I would dash out the classroom. `@`The moment I finished eating lunch, I would start running.`\
@@ -3467,7 +3467,7 @@ E_MA
 bg ie_04,22
 
 ;　不眠気味で、何度も寝返りをうっていたはずの夜も、@最近は灯りを消すと同時に、布団に沈み込むかのように眠れるようになった。@
-` And even though I used to used to toss and turn at night, and struggle with insomnia, `@`recently, as soon as I shut off the lights I would immediately sink into my futon and fall asleep.`@
+` And even though I used to toss and turn at night, and struggle with insomnia, `@`recently, as soon as I shut off the lights I would immediately sink into my futon and fall asleep.`@
 br
 ;　何しろ、毎日毎日、走りまくっているのだから、疲れてよく眠れるのは当然だ。\
 ` After all, since I was running with all my might every day, it's obvious that I'd sleep easily from being exhausted.`@
@@ -3512,7 +3512,7 @@ bg rouka_04,23
 ` Even if I had to run more than an hour.... I had confidence that I could do it.`@
 br
 ;　そうしている内に、@……私はイザナミに追われるようになってから、すでに１ヶ月を超えるようになっていた。\
-` In the meanwhile,`@`before I knew it, I had already reached one month of running away from Izanami.`\
+` In the meanwhile,`@` before I knew it, I had already reached one month of running away from Izanami.`\
 bg black,2
 wait 1000
 bg rouka_02,23
@@ -3644,7 +3644,7 @@ br
 bg black,23
 
 ;「俺はもう、お前に興味はねェし、お前だってこんなのが延々と続くのもウンザリのはずだァ。@だからだ。@こうしよう。@俺に捕まれ。」\
-`"Honestly, I don't care for you, and I'm sure you're getting bored of doing this every day too. `@`So here's the deal.`@`You. `@`Should let me catch you."`\
+`"Honestly, I don't care for you, and I'm sure you're getting bored of doing this every day too. `@`So here's the deal.`@` You. `@`Should let me catch you."`\
 bg kyou_04,23
 ld r,AYA_D7a,23
 ld r,AYA_D8a,80
@@ -4441,11 +4441,11 @@ cl l,0
 mld c,IZA_D5,23
 
 ;「いいか、紅茶野郎ォ。@この学校のナンバー２は俺だァ！@　狩りの邪魔はさせねェし、@仮に釣り逃しても、お前の獲物にも断じてさせねェ…！@　校長の腰巾着風情が、影の第２位なんて百年早ェんだよ！」\
-`"Listen up, Black Tea Bastard. `@`I'm the one who's ranked number 2 in this school. `@`I won't allow anyone to get in the way of my hunts. `@`She may not be my prey anymore, buy I sure as hell won't let you make her yours...! `@`You may be the Headmaster's lackey, but listen up, the 2nd ranked in the shadows ain't got nothing on me!"`\
+`"Listen up, Black Tea Bastard. `@`I'm the one who's ranked number 2 in this school. `@`I won't allow anyone to get in the way of my hunts. `@`She may not be my prey anymore, but I sure as hell won't let you make her yours...! `@`You may be the Headmaster's lackey, but listen up, the 2nd ranked in the shadows ain't got nothing on me!"`\
 ld r,SIN_D1,80
 
 ;「くっくっく。@私のことなど、気にしないことです。@さて。@……狙っていた相馬あやも、すっかり美味ではなくなってしまいましたからねぇ。@また、新しい獲物を探しましょう。@そして、早く夢の世界へ連れ去って、あなたの手が届かないようにしなくては。」\
-`"Kukuku. `@`Don't worry about me. `@`You see`@`.... that Aya Souma girl you were hunting.... She no longer holds any interest to me. `@`I am going to find a new target,`@`and quickly whisk them away to my dream world so that you can't get them."`\
+`"Kukuku. `@`Don't worry about me. `@`You see`@`.... that Aya Souma girl you were hunting.... She no longer holds any interest to me. `@`I am going to find a new target,`@` and quickly whisk them away to my dream world so that you can't get them."`\
 mld c,IZA_D2,80
 
 ;「けっ。@何が夢の世界だ。@俺がケツを引っ叩いて、現実に叩き戻してやるぜェ。」\
