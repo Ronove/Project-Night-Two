@@ -1833,34 +1833,36 @@ bg black,22
 ;「………わからない、………けれど……。」@
 `".......I don't understand....but..."`@
 br
-　今日という一日が、……昨日までの淡白な灰色の一日とはまったく違う色に感じたのは確かだ。@
-　灰色なのは同じだけど、………昨日までのは、ぼんやりと曇った灰色。\
-
+;　今日という一日が、……昨日までの淡白な灰色の一日とはまったく違う色に感じたのは確かだ。@
+` On today, the first day of the month, the color was certainly different from the nondescript gray I had felt before.`@
+;　灰色なのは同じだけど、………昨日までのは、ぼんやりと曇った灰色。\
+` It was still grey....but until yesterday, it had been a cloudy, hazy sort of gray.`\
 bg gakkou_02,22
 
-　今日のは違う。@触れたら裂けてしまいそうな、@……カミソリの刃を思わせるような、鋭利な銀色のような……。@
+;　今日のは違う。@触れたら裂けてしまいそうな、@……カミソリの刃を思わせるような、鋭利な銀色のような……。@
+` Today was different.`@`It was a gray that split on making contact with it.`@`It was a gray reminiscent of the sharp silver of a razor blade...`\
 br
-　じゃあそれは灰色じゃない。@銀色だ。\
-
+;　じゃあそれは灰色じゃない。@銀色だ。\
+` Yes, it wasn't grey,`@`it was silver.`\
 bg black,22
 bg gakkou_03,0
 ld r,HIG_D9,22
 
-「………………………………。」\
-
+;「………………………………。」\
+`"................."`\
 ld l,SHU_D2,23
 ld l,SHU_D1,80
 
-「危なかったーという気持ちとか。@助かったーという気持ちとか。@……そういうものを、彼岸花さんは、もっともっと楽しんでいいと思うんだ。」@
-
+;「危なかったーという気持ちとか。@助かったーという気持ちとか。@……そういうものを、彼岸花さんは、もっともっと楽しんでいいと思うんだ。」@
+`"Feelings of danger?`@`Or feelings of being saved?`@`...I think it would be good if you were to experience emotions like that, Higanbana-san."`@
 ld r,HIG_D10,80
 
-「………あの危機を、……楽しむ。」\
-
+;「………あの危機を、……楽しむ。」\
+`"...Enjoying crises?"`\
 ld l,SHU_D3,80
 
-「ちょっと違うかな。@無事に今があることを楽しむというべきか……。@彼岸花さんだって、きっと理解しかけてるはずなんだよ。@その証拠に、…………ほら。」\
-
+;「ちょっと違うかな。@無事に今があることを楽しむというべきか……。@彼岸花さんだって、きっと理解しかけてるはずなんだよ。@その証拠に、…………ほら。」\
+`"Not quite.`@`I mean enjoying it now that you're safe....`@`Even Higanbana-san can understand that.`@`Here, this is proof of that...."`\
 se1v 1010,50
 
 bg white,22
@@ -1872,50 +1874,55 @@ bg white,22
 
 bg black,22
 
-　秋一は、たった今、描いていたものをこちらに向ける。@
+;　秋一は、たった今、描いていたものをこちらに向ける。@
+` Shuuichi turned what he had been sketching to face me.`@
 br
-　そこに描かれているのは、……なんと、彼岸花の顔、だった。\
-
-「………………私……？」@
-「うん。@……今日の彼岸花さんは、いつもと違う表情を感じるよ。」\
-
-「それは、………どんな。」@
-「笑ってると思う。」\
-
+;　そこに描かれているのは、……なんと、彼岸花の顔、だった。\
+` He had been sketching Higanbana's face.`\
+;「………………私……？」@
+`"......Me?"`@
+;「うん。@……今日の彼岸花さんは、いつもと違う表情を感じるよ。」\
+`"Yep.`@`...The Higanbana of today I fee has a different expression from usual."`\
+;「それは、………どんな。」@
+`"What's that?"`@
+;「笑ってると思う。」\
+`"You're laughing."`\
 csp2 -1
 print 0
 bg black,22
 bg gakkou_03,0
 ld c,HIG_D9,22
 
-「……笑……う……？」@
+;「……笑……う……？」@
+`"....Laughing?"`@
 br
-　笑っているつもりなどなかった。@
-　しかし、秋一の描いたスケッチブックの中では、確かに彼岸花は笑っていた。\
-
+;　笑っているつもりなどなかった。@
+` She hadn't intended to laugh or anything.`@
+;　しかし、秋一の描いたスケッチブックの中では、確かに彼岸花は笑っていた。\
+` But in Shuuichi's sketchbook, she was definitely shown as laughing.`\
 「大妖怪をうまく騙して。@まんまと逃げ延びたことに、彼岸花さんは嬉しかったという気持ちを感じてるはず。@そして、危機を無事に乗り越え、今日という日をいつものように過ごせることに、安堵を覚えているはず。@……そんな気持ちが自然と、彼岸花さんを、いつもより生気のある表情にしているんだと思うよ。」\
 
 ld c,HIG_D10,80
 
-「……………………………。」\
-
+;「……………………………。」\
+`"................"`\
 ld r,SHU_D4,24
 
-「良かったね。@無事に今日が過ごせて。@苦難を乗り越えて辿り着いた、今日の夕焼けはどう見える？」\
-
+;「良かったね。@無事に今日が過ごせて。@苦難を乗り越えて辿り着いた、今日の夕焼けはどう見える？」\
+`"That's good.`@`How does the sunset look today,`@`after you overcame hardship and returned safely?"`\
 cl c,0
 ld l,HIG_D9,24
 
-「……………いつもと同じだと思うわ。」\
-
+;「……………いつもと同じだと思うわ。」\
+`"....It looks the same as always, I think."`\
 ld r,SHU_D1,80
 
-「そんなことないよ。@もっとよく見て。@昨日よりもずっと、鮮やかな夕焼け色をしているはずだよ。」@
-
+;「そんなことないよ。@もっとよく見て。@昨日よりもずっと、鮮やかな夕焼け色をしているはずだよ。」@
+`"No way.`@`Look a little harder.`@`The colors are so much more vibrant than yesterday."`@
 ld l,HIG_D10,80
 
-「……………………………。」\
-
+;「……………………………。」\
+`"................."`\
 bg black,22
 
 me1v 5,50
@@ -1924,18 +1931,22 @@ bg Air_01,2
 
 wait 1000
 
-　秋一の、言う通りだ。@
-　今日の夕焼けは、これまでに一度も見たことのない、鮮やかな色をしていた。@
+;　秋一の、言う通りだ。@
+` It was as Shuiichi said.`@
+;　今日の夕焼けは、これまでに一度も見たことのない、鮮やかな色をしていた。@
+` Today's sunset shone with a brilliance she had not seen even once until now.`@
 br
-　それを認めた時。@……私は心の中に不思議な感触を覚えた。\
-
-　もし、心というものに容積があるならば。@
-　握り拳程度しかなかったそれが、……ぶわっと広がるような、不思議な解放感。@
+;　それを認めた時。@……私は心の中に不思議な感触を覚えた。\
+` When I admitted that,`@`I felt a strange feeling in my heart.`\
+;　もし、心というものに容積があるならば。@
+` Maybe, my heart had some capacity,`@
+;　握り拳程度しかなかったそれが、……ぶわっと広がるような、不思議な解放感。@
+` Just the volume of a clenched fist....it was a strange feeling.`@
 br
-　まるで心臓の内側の狭い狭い世界が、……体よりも広く広く広がったかのような感触を覚えた。\
-
-　そして、内より湧き出る自分の心の声を初めて聞く。\
-
+;　まるで心臓の内側の狭い狭い世界が、……体よりも広く広く広がったかのような感触を覚えた。\
+` It was a feeling as if the narrow narrow world of my heart was stretching wider than my whole body.`\
+;　そして、内より湧き出る自分の心の声を初めて聞く。\
+` And for the first time I heard the voice of my heart spring from within.`\
 bg black,22
 ;bg Different_spiral_1b,22
 
@@ -1951,7 +1962,8 @@ bg black,22
 bg Air_01,22
 
 　それを、感情と呼んでもいいのだろうか。@
-　わからない。@
+;　わからない。@
+` I don't understand.`@
 br
 　しかし、色に例えたなら、それは断じて灰色ではない。@
 　様々な色が入り混じった、理解できないけれど、複雑な色に違いなかった。\
