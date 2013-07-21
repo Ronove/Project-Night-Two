@@ -758,7 +758,7 @@ br
 ;ld c,MAR_D3a,80
 
 ;　……何この演技、学芸会レベルとか言ったら学芸会に失礼なレベルだ。@
-`...What is this acting? It's got all the depth of a kindergarden play.`@
+`...What is this acting? It's got all the depth of a kindergarten play.`@
 ;　本人は実に楽しそうに演じているのだが、演技力はカケラほども感じられない。\
 `　The actor seems to be having fun playing the role, but her acting ability is in shambles.`\
 
@@ -1796,7 +1796,7 @@ E_B
 ld r,HIG_W5a,80
 
 ;「あんた、私がやさしくしてたからって、少し付け上がっちゃったようね。@勝てると思ってんのォ？！@　この私に！@　学校妖怪序列第３位、踊る彼岸花にぃいぃい！！！」\
-`"I see now that I've been too soft on you. You've grown conceited. `@`Do you really think that you can win?!b`@`Against me? `@`3rd Ranked of the School Youkai, the Dancing HiganbanaaAAaa!!!`"\
+`"I see now that I've been too soft on you. You've grown conceited. `@`Do you really think that you can win?!`@` Against me? `@`3rd Ranked of the School Youkai, the Dancing HiganbanaaAAaa!!!`"\
 
 
 mld l,MAR_W4,80

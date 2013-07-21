@@ -46,7 +46,7 @@ bg different_spiral_1a,22
 ` It's a famous ghost story, usually set in a school. `@`It must have become an urban legend at some school a long time ago and spread from there.`@
 br
 ;　……夜中、トイレに一人で入っていると、@赤マントという妖怪が現れて「赤マント、青マント、どっちが欲しい？」と問い掛けてくる。\
-` ...The story goes that if you eneter the bathroom alone late at night, `@`a youkai called The Red Cape will ask you "Do you want a red cape or a blue cape? Choose one."`\
+` ...The story goes that if you enter the bathroom alone late at night, `@`a youkai called The Red Cape will ask you "Do you want a red cape or a blue cape? Choose one."`\
 
 ;　「赤マントが欲しい」と言うと体中を刺され、血まみれになって死んでしまう。@
 ` If you reply that you want a red cape, your body will be stabbed all over, and you will die a bloody death.`@
@@ -103,7 +103,7 @@ bg black,22
 E_A
 
 ;　その時。@……唐突に美術室の隅から声が聞こえた。\
-` At that moment.`@`... A voice echoed out from the corner of the romm.`\
+` At that moment.`@`... A voice echoed out from the corner of the room.`\
 br
 ;「……………その絵、好き？」\
 `"......Do you like those pictures?"`\
@@ -268,7 +268,7 @@ br
 
 
 ;　恐怖を感じさせるピカソやゴヤの絵、それとは対照的に神々しい温かさを感じさせるダ・ヴィンチやフェルメールの絵……。\
-` There were the works of Picasso and Goya that gave off a feeling of fright, and the contrastingly sublime and warm feeling works of Da Vinci amd Vermeer...`\
+` There were the works of Picasso and Goya that gave off a feeling of fright, and the contrastingly sublime and warm feeling works of Da Vinci and Vermeer...`\
 
 ;　そのどれもが名画と呼ばれるに相応しい凄みや神聖さがあった。@でも、裕貴が一番好きなのはそのどれでもなかった。\
 ` Each of them was called a masterpiece, whether it was for their sacredness or their ghastliness. `@`But Yuuki's favorite painting was not one of them.`\
@@ -308,7 +308,7 @@ me1v 16,50
 
 br
 ;　改めて見ると、彼女は本当に似ていた。@まるで絵からそのまま抜け出して来たかのようだ。\
-` Looking again, she really did bear a resemblence. `@`Almost as if she had crawled out of the very painting itself.`\
+` Looking again, she really did bear a resemblance. `@`Almost as if she had crawled out of the very painting itself.`\
 
 ;「………自分じゃあんまり気に入ってないんだけど、ね。@この恰好。」@
 `"....I don't really like it, honestly. `@`This appearance."`@
@@ -355,12 +355,12 @@ ld c,NOD_D5a,80
 `"Umm... if you really don't like how you look, why not try changing your clothes? `@`Or maybe cut your hair shorter..."`\
 
 ;　そう言ってから、また「しまった」と思った。@
-` Once again, he immediately regreted opening his mouth.`@
+` Once again, he immediately regretted opening his mouth.`@
 ;　もしかしたら彼女は厳しい家の子で、@着る服や髪型にいたるまで親に決められているのかもしれない。\
 ` It's possible that her parents may be strict, `@`and they won't let her choose her own clothes or hairstyle, or something like that.`\
 
 ;　だが、予想に反し、今度は少女は微笑んでくれた。@パッと花が咲いた様な可愛らしい笑顔だった。\
-` But this time, unexpectedly, she smiled at him. `@`Like a a little flower opening up its petals, a cute smile spread across her face.`\
+` But this time, unexpectedly, she smiled at him. `@`Like a little flower opening up its petals, a cute smile spread across her face.`\
 
 ;「そっか……。@そうだよね。@たまには変えてみるのもいいかも、ね。@ふふふふふ……、そんなこと考えたことなかったな。」@
 `"I see... `@`You're right. `@`It might be a nice to change things up every once in a while. `@`Fufufufu... I've never thought of it that way before."`@
@@ -434,10 +434,10 @@ bg kaiga_02,22
 ;　巨大な黒い胸像が、人間の形をした黒い影を押し潰している様子が描かれている。@
 ` The painting featured a dark silhouette in the shape of a human being crushed by a gigantic black bust.`@
 ;　絵の下には『つぶれた太陽』と題名が書かれた札が貼られている。\
-` There was a small piece of paper placed beneath the paiting that titled the work "The Setting Sun."`\
+` There was a small piece of paper placed beneath the painting that titled the work "The Setting Sun."`\
 
 ;　この絵の作者は、かつてこの学校に通っていたらしく、@画家として有名になってから、母校であるこの学校に絵を寄贈したらしい。\
-` Apparently the artist of this paiting had once gone to this school. `@`Later in life that person had become a famous artist and donated this painting to his old school.`\
+` Apparently the artist of this painting had once gone to this school. `@`Later in life that person had become a famous artist and donated this painting to his old school.`\
 
 
 ;bg black,1
@@ -708,7 +708,7 @@ me1v 5,50
 ;　あれから数週間も経つのに、未だにあの日のことを思い出すと、心がひどく痛む。@
 ` It's been a few weeks since that incident, but the thought of it still brings a pain to her heart.`@
 ;　閉じかけた傷を指で無理矢理、開かれるかの様な暴力的な痛み。@
-` It was a violent pain, like having a healing wound reopned by someone digging their fingers into it.`@
+` It was a violent pain, like having a healing wound reopened by someone digging their fingers into it.`@
 br
 ;　再び一人の男の子の顔が思い出される。\
 ` Once again, she remembered the face of that boy.`\
@@ -926,7 +926,7 @@ bgm1 8
 ` The school nurse was also close in age to her and Imata-sensei, so every once in a while Shintani would end up going to the infirmary to talk to her.`\
 
 ;　少し天然なところがあるが、さっぱりした性格の彼女は話し易くて好きだ。@
-` She was nice. Maybe a little ditzy somtimes, but Shintani still enjoyed talking with her.`@
+` She was nice. Maybe a little ditzy sometimes, but Shintani still enjoyed talking with her.`@
 ;　絆創膏をもらうだけのつもりだったのに、お茶までご馳走になってしまった。\
 ` She had intended to just get a bandage and get back to work, but she ended up staying for tea too.`\
 
@@ -1012,7 +1012,7 @@ br
 
 
 ;　栗色の髪は染めたような不自然さが全然なく、@白過ぎる蛍光灯の明かりに反射して星をまぶしたかのように輝いていた。\
-` His chestnut-colored hair looked too natural to have been dyed, `@`and with the bright fluorescent light refelcting off of it, it shone like it was covered in stars.`\
+` His chestnut-colored hair looked too natural to have been dyed, `@`and with the bright fluorescent light reflecting off of it, it shone like it was covered in stars.`\
 
 
 
@@ -1153,7 +1153,7 @@ bg black,22
 `"No, that's not it!`@`... It would be a privilege. `@`Because I'm...."`@
 br
 ;　俯いたままの少年は照れ臭そうに微笑み、数ヶ月前、野田裕貴が言ったのと全く同じ台詞を口にした。\
-` And then, while looking down at his feet with a embarrassed smile, from his mouth came the exact same words that Yuuki Noda had said a few months before.`\
+` And then, while looking down at his feet with an embarrassed smile, from his mouth came the exact same words that Yuuki Noda had said a few months before.`\
 bg bijutu_06,22
 
 ;「…………僕、新谷先生のファンだったんです。」\
@@ -1188,7 +1188,7 @@ ld r,NAF_D4,22
 ;　少年は口元で少しだけ微笑んだが、その表情は硬いままだった。@
 ` He did have a small smile on his lips, but his expression seemed stiff.`@
 ;　肩や背中には力が入り、傍目にも緊張しているのが分かる。\
-` His shoulders and back were also tense from the nerviousness of being watched by another.`\
+` His shoulders and back were also tense from the nervousness of being watched by another.`\
 
 ;「ごめんなさい、なんか、こういうの慣れてなくて………。」@
 `"I'm sorry, I'm not really used to doing this, so...."`@
@@ -1597,7 +1597,7 @@ br
 ;　新谷は笑顔を向けたが、今度は少年の頬は赤くならなかった。@
 ` Shintani smiled at him, but this time the boy's cheeks didn't turn red.`@
 ;　眉根を寄せ、泣き出しそうな表情のまま、何かにじっと耐えているようだった。\
-` His brow was furrowed and he looked like he deperately trying not to cry.`\
+` His brow was furrowed and he looked like he was desperately trying not to cry.`\
 
 
 ;bg black,2
@@ -1722,7 +1722,7 @@ bg black,22
 `"This tea is my original blend. `@`It'll really help you relax."`\
 
 ;　……すごく、という部分を無意識に強調してしまう。@
-` ...Unconciously she put much more emphasis the world 'really' than she had meant to.`@
+` ...Unconsciously she put much more emphasis the world 'really' than she had meant to.`@
 ;　ティーカップの中は毒々しいまでの赤い色の液体で満たされている。\
 ` She poured a bright red, almost poisonous looking liquid into their cups.`\
 
@@ -1730,7 +1730,7 @@ bg black,22
 ` She passed the boy his cup and he took it with both hands, as if to warm them.`@
 br
 ;　手を伸ばし……、その白くて長い指に触れたくなるのを懸命に堪える……。\
-` She supressed her desire to reach out her hands... and touch those long white fingers...`\
+` She suppressed her desire to reach out her hands... and touch those long white fingers...`\
 me2v 28,50
 
 ld r,NAF_D5,2
@@ -1772,7 +1772,7 @@ bgm1 30
 `".......Hah..."`@
 br
 ;　口から濃い紫煙を吐き出して、新谷は吸っていた煙草を空き缶のふちで消した。\
-` A dark gray smoke escaped from Shintani's mouth as she extinguised the cigarette she had been smoking on the edge of an empty can.`\
+` A dark gray smoke escaped from Shintani's mouth as she extinguished the cigarette she had been smoking on the edge of an empty can.`\
 
 ;　新谷が煙草を吸うのは、この美術室だけだ。@
 ` The only place that Shintani ever smoked was in this art room.`@
@@ -2071,7 +2071,7 @@ br
 ;　女生徒は視線を、新谷の傍らで眠る少年に向けた。@
 ` The girl moved her gaze over to the boy sleeping next to Shintani.`@
 ;　新谷は慌てて立ち上がり、誤摩化すように少年から離れる。\
-` Shintani stood up in a panic, as if trying to avoid the question by seperating herself from him.`\
+` Shintani stood up in a panic, as if trying to avoid the question by separating herself from him.`\
 bg black,24
 bg bijutu_03,0
 ld r,NAF_D2,24
@@ -2224,7 +2224,7 @@ bgm1 30
 `".......Huh?"`@
 br
 ;　突然の彼女の言葉に私は目を丸くした。\
-` Upon hearing her sudden question, my eyes widdened.`\
+` Upon hearing her sudden question, my eyes widened.`\
 ;sss
 ld c,RUN_D5,80
 
@@ -2428,7 +2428,7 @@ br
 ;　それにこの部屋には灰皿がない。@机の上の空き缶も、パッと見には吸い殻が入っているとは分からないはずだ。@
 ` Besides, there isn't an ashtray in this room. `@`Even if you looked into the can sitting on her desk, at a glance you wouldn't be able to tell that there was a cigarette butt inside.`@
 ;　臭いだって、……様々な塗料の臭いがごちゃ混ぜになってて、わかるはずがない……。\
-` As for the smell... there were so many different smells in an art room from the paint and materials that it shouldn't be noticable...`\
+` As for the smell... there were so many different smells in an art room from the paint and materials that it shouldn't be noticeable...`\
 bg black,22
 bg bijutu_07,22
 
@@ -2464,7 +2464,7 @@ ld r,NAF_D6a,22
 ld l,RUN_D5,80
 
 ;「普段は隠してるんですか？@　まぁ、先生みたいなタイプだと、堂々と吸うのは肩身が狭いですよね。@今は男性の先生方でも吸わない人の方が多いですもんね。@くすくすくすくすくす。」\
-`"Do you usually try to hide it? `@`Well, for a teacher like you, it must feel pretty shameful to smoke out in the open. `@`Especially since even the male teachers don't smoke as much any more. `@`Teeheeheehee."`\
+`"Do you usually try to hide it? `@`Well, for a teacher like you, it must feel pretty shameful to smoke out in the open. `@`Especially since even the male teachers don't smoke as much anymore. `@`Teeheeheehee."`\
 ld r,NAF_D8a,80
 
 ;　ボキリ。@
@@ -2518,7 +2518,7 @@ br
 bg Different_spiral_1a,22
 
 ;　彼女は筆箱はおろか、鞄のようなものも持っていない。@
-` The girl wasn't carrying a bag with her, nevermind a pencil case.`@
+` The girl wasn't carrying a bag with her, never mind a pencil case.`@
 br
 ;　差し出された鉛筆は、削りたてのように鋭く尖っていた。@黒光りした芯は鋭利な針のようですらあった。\
 ` The pencil that she had held out looked like it had just been sharpened. `@`The newly polished lead looked just as sharp as a needle.`\
@@ -2540,7 +2540,7 @@ br
 ` .............`@
 br
 ;　新谷の脳裏を、ぼんやりと過ぎる、あの、怪談。@
-` It had compltely slipped her mind. That ghost story.`@
+` It had completely slipped her mind. That ghost story.`@
 ;　美術室のルノワールの怪談が語る、最初の禁忌……。\
 ` The first of rule of the story of Renoir of the Art Room...`\
 bg black,22
@@ -3149,7 +3149,7 @@ br
 ;　それは題名どおりの４枚の連続作品だ。\
 ` As the name suggests, it's a series of four prints.`\
 ;　残忍な性格の主人公の少年時代から末路までを描いたもので、@最後の１枚では、絞首刑で殺された後、@そのまま解剖学の授業に回されて腹を割かれるという、@ショッキングなもので締めくくられている。\
-` They follow the life of a one cruel man from the time he was a boy up until his death. `@`And, as a shocking conclusion, `@`In the final print he has been hanged to death, `@`and his body is disected during an anatomy class.`\
+` They follow the life of a one cruel man from the time he was a boy up until his death. `@`And, as a shocking conclusion, `@`In the final print he has been hanged to death, `@`and his body is dissected during an anatomy class.`\
 bg black,22
 
 ;　残忍なる者には、残忍なる結末が待つ。@
@@ -3214,7 +3214,7 @@ br
 ;　彼女が正解を重ねれば重ねるほどに、……ルノワールが呼吸を荒げていくのだ。\
 ` The more questions she answered correctly... the quicker Renoir's breathing became.`\
 ;　気付けば、まるで全力疾走を終えたかのように、ぜいぜいと肩で息をしているのだ。@
-` If she looked closesly she could see that Renoir was breathing so heavily it was almost like she had just finished running a marathon.`@
+` If she looked closely she could see that Renoir was breathing so heavily it was almost like she had just finished running a marathon.`@
 br
 ;　……どうやら、正解をされればされるほどに、妖怪の存在が追い詰められていくらしい。\
 ` ...It appears that the more question she gets right, the more cornered the youkai becomes.`\
@@ -3298,7 +3298,7 @@ br
 ld r,NAF_D5,24
 
 ;「もう、何を企もうとも無駄よ。@この美術室の主は私。@……でも、真夜中の美術室に妖怪が住み着いてるのを許せないほど、私も心が狭くないつもりよ？@　これくらいにして、すごすごと引き上げたら？@　私の前に二度と姿を現わさないと誓えるなら、@私が下校した後の無人の美術室は、あなたの自由にすればいい。@……素敵なルームシェアリングでしょう？」\
-`"Whatever scheme you're trying pull, it's not going to work. `@`I am the master of this srt room.`@`... But do you really rhinkg that I'm so close-minded as to not let a youkai take up residence in it during the middle of the night? `@`How's this for a deal? `@`If you vow to never show yourself before me again, `@`then after school is over and I've left the art room, you're free to do as you please.`@`... We'll be like the perfect roommates."`\
+`"Whatever scheme you're trying pull, it's not going to work. `@`I am the master of this art room.`@`... But do you really think that I'm so close-minded as to not let a youkai take up residence in it during the middle of the night? `@`How's this for a deal? `@`If you vow to never show yourself before me again, `@`then after school is over and I've left the art room, you're free to do as you please.`@`... We'll be like the perfect roommates."`\
 bg black,22
 bg bijutu_04,0
 ld c,RUN_D2,22
@@ -3691,7 +3691,7 @@ mld l,HIG_W3,80
 mld r,NAF_D5,80
 
 ;「私は知ってたわ。@あの子は私のことが好きだった。@……母性を求める年頃のはずなのに、母親とは違う女性に、なぜか惹かれる甘酸っぱい感情。@それが恋というものだと気付くには、彼はまだまだ幼かったわね。@……でも、それでいいの。@私にとって、恋なんて概念を理解してしまうほどの年齢は、賞味期限切れなのだから。」\
-`"I know he did. `@`He liked me.`@`... He was at an age where he should be wanting his mother's affection, but for some reason he was longing for another woman. It was a bittersweet feeling. `@`He was too young too realize that what he felt was love.`@`... But, that was fine. `@`Because I'm too old to feel such young love."`\
+`"I know he did. `@`He liked me.`@`... He was at an age where he should be wanting his mother's affection, but for some reason he was longing for another woman. It was a bittersweet feeling. `@`He was too young to realize that what he felt was love.`@`... But, that was fine. `@`Because I'm too old to feel such young love."`\
 ;　新谷は挑発的に、小指の先を、淫らにべろりと舐めて見せる……。\
 ` Shintani provocatively licked the end of her little finger in an obscene manner...`\
 csp -1
@@ -3875,7 +3875,7 @@ ld l,HIG_W3,22
 ;＜彼岸花
 
 ;　この絵が描かれた当時のフランスでは。@上流階級の家では、男の子にもスカートを履かせるのが流行っていたという。@
-` In France, at the time this painting was done, `@`it was common for upperclass families to dress their boys in skirts.`@
+` In France, at the time this painting was done, `@`it was common for upper-class families to dress their boys in skirts.`@
 br
 ;　……髪が長いから少女だと思い込んできたが、@……その髪をもし短くしたなら、……それはまさに、……この少年に瓜二つだった。\
 ` ...Because the hair was so long, I assumed it was a girl....`@` but if the hair was shorter.... that kid really would... look just like this boy here.`\
@@ -3948,7 +3948,7 @@ br
 ld r,RUN_D3,80
 
 ;「……僕は、長いこと眠っていた妖怪でね。@……ずいぶん長いこと眠っていたから、……まだ力が全然蘇らないんだ。@……たまに姿を現すのがやっと。@それくらいの妖力しかない。@………だから、彼岸花に助けてもらったんだ。」\
-`"...As a youkai, I've been asleep for a very long time.`@`... and because I was asleep for so long.... I've yet to recover all of my power.`@`... I've can only occasionally make my presense known. `@`That is how far my power has fallen.`@`... So, Higanban is helping me."`\
+`"...As a youkai, I've been asleep for a very long time.`@`... and because I was asleep for so long.... I've yet to recover all of my power.`@`... I've can only occasionally make my presence known. `@`That is how far my power has fallen.`@`... So, Higanban is helping me."`\
 ld l,HIG_W3,80
 
 ;「私好みの魂ではないけれど。@狩りを少し手伝うだけで分け前がもらえるなら、まぁ、引き受けないこともないわ。@くすくすくす………。」\
@@ -4005,7 +4005,7 @@ ld r,HIG_W1,22
 ld r,HIG_W3,80
 
 ;「恋は盲目……。@裕貴は本当に好きだったのね。@こんな欲望の塊の女を。」@
-`"Love is blind... `@`Yuuki really did love her, didn't he? `@`This lustfull woman."`@
+`"Love is blind... `@`Yuuki really did love her, didn't he? `@`This lustful woman."`@
 ;＜彼岸花
 
 mld c,RUN_D2,80
@@ -4096,7 +4096,7 @@ br
 ;　ルノワールの表情は、先ほどから淡白なままのはずなのに。@
 ` Renoir's face still had the same indifferent expression as before.`@
 ;　目を逸らさずにはいられない凄みに気圧され、新谷はなおも後退る……。\
-` But he was so dreafully overpowering that she couldn't help but avert her eyes and retreat even further...`\
+` But he was so dreadfully overpowering that she couldn't help but avert her eyes and retreat even further...`\
 ld l,RUN_D7,23
 ld l,RUN_D3,80
 
@@ -4157,7 +4157,7 @@ ld l,RUN_D6,80
 ld r,NAF_D7,80
 
 ;「ならば、どうやって？！@　さっき、そこの黒い髪の子が私に挑んで返り討ちにされたのを見ていなかったの？！@　私はどの絵画の作者も正確に答えることが出来るわ！@　そしてあんたの正体がわかった今、@あんたから絵筆を借りるなんてことはしないし、あんたの問い掛けに嘘を吐くなんてミスも犯さない！@　あんたがどれだけ私を憎もうとも！@　あんたは絶対に私に勝てないのよ！！」\
-`"And how will you do that?!" `@`Didn't you see me turn the tables on this black haired girl who was trying to challenge me earlier?! `@`I was able to answer the names of each and every artist correctly! `@`And now that I know your true identity, `@`I won't let you lend me a paintbrush, and I won't mess up and tell a lie while answering you! `@`Now matter how much you despise me, `@`you won't be able to beat me!!"`\
+`"And how will you do that?!" `@`Didn't you see me turn the tables on this black haired girl who was trying to challenge me earlier?! `@`I was able to answer the names of each and every artist correctly! `@`And now that I know your true identity, `@`I won't let you lend me a paintbrush, and I won't mess up and tell a lie while answering you! `@`No matter how much you despise me, `@`you won't be able to beat me!!"`\
 ld c,HIG_w3,22
 ;ld c,HIG_W4,80
 
@@ -4257,7 +4257,7 @@ me2v 17,50
 ` The color drained from Shintani's face... and a sound followed.`@
 br
 ;　その音はまさに、潮のようだった。\
-` It sounded like the the ocean tide going out.`\
+` It sounded like the ocean tide going out.`\
 bg black,22
 
 ;“ルノワールの問い掛けに嘘をついてはならない。”@
@@ -4275,7 +4275,7 @@ se2 20
 bg kaiga_02,23
 
 ;　美術室中に掛けられた、@……おぞましい絵画の数々が、ぐるぐると新谷の回りを取り囲みながら渦を巻き出す。\
-` The many repulsive paintings and drawings on the art room walls began to suround Shintani.... `@`They circled around Shintani like a whirlpool.`\
+` The many repulsive paintings and drawings on the art room walls began to surround Shintani.... `@`They circled around Shintani like a whirlpool.`\
 bg black,22
 mono 2
 bg Different_spiral_1b,22
@@ -4283,7 +4283,7 @@ bg Different_spiral_1b,22
 me4v 28,70
 
 ;　『サトゥルヌス』の世界で、生きながら貪り喰われる運命を？@　あるいは『ゲルニカ』の世界で、逃げ惑いながら戦火に巻き込まれる運命を？@　さもなくば『残酷の四段階』のような、死後にも腹を割かれて臓物を引き摺り出される無残な運命を？\
-` Would she be doomed to the world of 'Saturn' and be eaten alive? `@`Or would she be fated to the world of 'Guernica' where she would be enveloped by the fires of way? `@`If not that, would she meet the tradgedy of being killed and disected, her entrails pulled out of her stomach, like in 'The Four Stages of Cruelty'?`\
+` Would she be doomed to the world of 'Saturn' and be eaten alive? `@`Or would she be fated to the world of 'Guernica' where she would be enveloped by the fires of way? `@`If not that, would she meet the tragedy of being killed and dissected, her entrails pulled out of her stomach, like in 'The Four Stages of Cruelty'?`\
 
 ;　嫌だ、嫌、嫌、嫌…！！@　どれも嫌、嫌、嫌、嫌ッ！！！\
 ` No, no no no...!! `@`They're all horrible, no no no-!!!
