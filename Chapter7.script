@@ -1953,24 +1953,30 @@ bg black,22
 fede 10,1000
 E_MA
 
-“あの雑魚妖怪ども、油断も隙もない……。@正直、侮り過ぎていたわ……。”@
-“……それにしても今日は危なかった、……イザナミめ、死ぬかと思ったわ……。”@
-“あんな嘘を信じるなんて、イザナミも馬鹿よね、愚かなヤツ。”@
-“……色々あったけど。@……とにかく今日も。@……何とか生き残れたわ。@……何とか、ね……。”\
-
+;“あの雑魚妖怪ども、油断も隙もない……。@正直、侮り過ぎていたわ……。”@
+`[Those smaller monsters weren't off guard, or offered any chances...`@`They were too honest...]`@ 
+;“……それにしても今日は危なかった、……イザナミめ、死ぬかと思ったわ……。”@
+`[Today was dangerous...I thought Izanami was gonna kill me..]`@
+;“あんな嘘を信じるなんて、イザナミも馬鹿よね、愚かなヤツ。”@
+`[He was really foolish though, to believe such a lie.]`@
+;“……色々あったけど。@……とにかく今日も。@……何とか生き残れたわ。@……何とか、ね……。”\
+`[...Lots of things happened.`@`But...somehow...`@`I was able to survive today.`@`Somehow.]`\
 bg black,22
 bg Air_01,22
 
-　それを、感情と呼んでもいいのだろうか。@
+;　それを、感情と呼んでもいいのだろうか。@
+` I think I can call those 'feelings'`@
 ;　わからない。@
 ` I don't understand.`@
 br
-　しかし、色に例えたなら、それは断じて灰色ではない。@
-　様々な色が入り混じった、理解できないけれど、複雑な色に違いなかった。\
-
-「私の目に映る、この鮮やかな夕焼けは。@………あんたにも見えているの。」@
-「もちろん。@……それは、様々な感情を楽しむことで、もっと様々な彩を見せてくれるんだよ。」\
-
+;　しかし、色に例えたなら、それは断じて灰色ではない。@
+` But, if I likened my feelings to colors, it wasn't simply gray.`@
+;　様々な色が入り混じった、理解できないけれど、複雑な色に違いなかった。\
+` Various colors mixed and blended, and though I didn't understand completely, it was undoubtedly a complex hue.`\
+;「私の目に映る、この鮮やかな夕焼けは。@………あんたにも見えているの。」@
+`"This brilliant sunset that I see,`@`...surely, you are able to see it too."`@
+;「もちろん。@……それは、様々な感情を楽しむことで、もっと様々な彩を見せてくれるんだよ。」\
+`"Of course.`@`...In enjoying these feelings, the hues I see have become more saturated."`\
 bg black,22
 bg gakkou_03,0
 ld r,SHU_D4,0
@@ -1978,34 +1984,34 @@ ld l,HIG_D8,22
 
 ld l,HIG_D10,80
 
-「……それが、生きることの楽しさ、なの……？」@
-
+;「……それが、生きることの楽しさ、なの……？」@
+`"...That's the enjoyment of living, isn't it?"`@
 ld r,SHU_D1,80
 
-「楽しさの第一歩、かな。」@
-
+;「楽しさの第一歩、かな。」@
+`"That's the first step of fun...I wonder."`@
 ld l,HIG_D9,80
 
-「秋一は、もっと進んだ楽しさを見つけている…？」\
-
+;「秋一は、もっと進んだ楽しさを見つけている…？」\
+`"Shuuichi, are you finding joy which is more advance?"`\
 ld r,SHU_D4,80
 
-「うん。@彼岸花さんは、ようやく一日を無事に終えることの喜びを覚えたんだと思う。@……僕はもっと先。@未来を眺めることを楽しんでる。」@
-
+;「うん。@彼岸花さんは、ようやく一日を無事に終えることの喜びを覚えたんだと思う。@……僕はもっと先。@未来を眺めることを楽しんでる。」@
+`"Yep.`@`I think I learnt how to enjoy ending a day safely.`@`..More than before,`@`I look forward to the future."`@
 ld l,HIG_D10,80
 
-「未来……………。」\
-
+;「未来……………。」\
+`"The future....?"`\
 ld r,SHU_D1,80
 
-「僕は将来、画家になりたいんだ。@それが僕の、夢。」@
-
+;「僕は将来、画家になりたいんだ。@それが僕の、夢。」@
+`"In the future, I want to become a painter.`@`That's my dream."`@
 bg black,22
 
 ;ld l,HIG_D9,80
 
-「……夢……………。」\
-
+;「……夢……………。」\
+`"...Dreams?"`\
 ;ld r,SHU_D2,80
 
 「その日を目指して生きることは楽しいし。@その日を想像することもとても楽しい。@……そんな日々を積み重ねると、心から楽しくて、……僕は生きてるって、実感できるんだよ。」\
@@ -2013,119 +2019,138 @@ bg black,22
 bg Air_01,22
 ;ld l,HIG_D10,80
 
-「………………………………。」@
+;「………………………………。」@
+`"................"`@
 br
-　秋一が何を言っているのか、今はわからない。@
-　でも、彼の言っていることがわずかでも理解できたなら、@……生きることにきっと、何かの楽しさを見出せるに違いない。@……そのことを、私は断じて疑わない。\
+;　秋一が何を言っているのか、今はわからない。@
+` I didn't understand what Shuuichi was saying right now.`@
+;　でも、彼の言っていることがわずかでも理解できたなら、@……生きることにきっと、何かの楽しさを見出せるに違いない。@……そのことを、私は断じて疑わない。\
+` But, if I could just grasp what he was saying, even a little bit,`@`...I could surely find something fun in living.`@`...I had no doubt of that.`\
 
-
-　今の私はまだ、ただ生きることだけで精一杯で、……それだけで頭がいっぱいだけれども。@
+;　今の私はまだ、ただ生きることだけで精一杯で、……それだけで頭がいっぱいだけれども。@
+` Even now my head was filled with thoughts of just living for the sake of it.`@
 br
-　きっといつかわかる。@理解できる気がする。@
-　秋一と一緒に過ごせば、いつか、きっと。\
-
+;　きっといつかわかる。@理解できる気がする。@
+` Someday I'll be able to understand.`@`I feel I'll understand.`@
+;　秋一と一緒に過ごせば、いつか、きっと。\
+` If I spend my days with Shuuichi, I'd surely reach that point.`\
 bg black,22
 
-　その時、不意に二人の後ろから声が聞こえた。\
-
+;　その時、不意に二人の後ろから声が聞こえた。\
+` Just then, a voice came from behind the two of them.`\
 fede 0,1000
 E_A
 
 bg gakkou_03,23
 
-「……お！@　またこんなところにいたのかよ？！」@
-
+;「……お！@　またこんなところにいたのかよ？！」@
+`"..Oi!`@`You're still here?!"`@
 me1v 5,50
 
 br
-　振り返ると、そこには三人組の少年たちが立っていた。@
-　彼岸花にも見覚えがある。@……いつもいつも、秋一をしつこくいじめている連中だ。\
-
-「お前さ、サンドバッグなんだから、勝手に歩き回るんじゃねぇよ、な？」@
-「俺たちがムシャクシャした時に殴られるのがお前の仕事だろ？@　サボんじゃねーよ。」@
+;　振り返ると、そこには三人組の少年たちが立っていた。@
+` Looking back, there stood a threesome of boys.`@
+;　彼岸花にも見覚えがある。@……いつもいつも、秋一をしつこくいじめている連中だ。\
+` Higanbana recognized them.`@`...They were the children that persistently bullied Shuuichi.`\
+;「お前さ、サンドバッグなんだから、勝手に歩き回るんじゃねぇよ、な？」@
+`"You're our punching bag, so don't walk 'round without permission, m'kay?"`@
+;「俺たちがムシャクシャした時に殴られるのがお前の仕事だろ？@　サボんじゃねーよ。」@
+`"Your job is to take punches from us when we're annoyed.`@`Don't play truant!"`@
 「それとも、俺たちが構ってあげないから、不貞腐れちゃったとか？@　あっはははは、悪ぃ悪ぃ、ちゃんと今日も遊んでやるからよー！」\
 
-　ぎゃはははは、と少年たちは下卑た声で笑った。@
-　その笑い声に、秋一が全身を強張らせるのがわかった。\
-
+;　ぎゃはははは、と少年たちは下卑た声で笑った。@
+` The boys laughed crassly.`@
+;　その笑い声に、秋一が全身を強張らせるのがわかった。\
+` In response to that laughter, I understood that Shuuichi's whole body went rigid.`\
 ld r,HIG_D10,22
 
-「………三人とも、揃いも揃って頭の悪そうな顔をしてるわね。」@
-
+;「………三人とも、揃いも揃って頭の悪そうな顔をしてるわね。」@
+`"...All three of have faces which make you look retarded."`@
 ld l,SHU_D1,23
 
-「そう見えるかい？」\
-
+;「そう見えるかい？」\
+`"Do you see that?"`\
 ld r,HIG_D9,80
 
-「私の目が節穴じゃないならね。@……逃げたら？」@
-
+;「私の目が節穴じゃないならね。@……逃げたら？」@
+`"My eyes aren't bad,`@`...so how about you run away?"`@
 ld l,SHU_D5,80
 
 「追ってくるよ。@どうせ逃げ切れないし、機嫌を損ねて、その分、打たれるだけさ。」\
 
 ld r,HIG_D10,80
 
-「……達観してんのね。@いじめられるのが苦じゃないの？」@
-
+;「……達観してんのね。@いじめられるのが苦じゃないの？」@
+`"Stop philosophizing.`@`Being bullied isn't a problem for you?"`@
 ld l,SHU_D1,80
 
-「そりゃ辛いさ。@……でも別に、殺されるわけじゃない。@ちょっと彼らの意地悪に付き合うだけさ……。」\
-
+;「そりゃ辛いさ。@……でも別に、殺されるわけじゃない。@ちょっと彼らの意地悪に付き合うだけさ……。」\
+`"It's painful.`@`..But there's no way you're gonna kill me.`@`All you do is just mingle in your malice..."`\
 ld r,HIG_D9,80
 
-「…………………………。」\
-
-　秋一は、すでに成人している兄たちの影響なのか、非常に大人っぽく、達観している少年だった。@
+;「…………………………。」\
+`"..............."`\
+;　秋一は、すでに成人している兄たちの影響なのか、非常に大人っぽく、達観している少年だった。@
+` Perhaps it was an influence that his older adult brothers had on him, but Shuuichi, like a grown-up, was a very philosophical boy.`@
 br
-　しかし、その異質さが、いじめっこたちの興味を引いてしまうのかもしれない。\
-
+;　しかし、その異質さが、いじめっこたちの興味を引いてしまうのかもしれない。\
+` That difference he had was what probably drew the bullies to him.`\
 cl a,0
 mbg black,22
 
 bgm1 7
 
-　三人組は、ねちねちと秋一に絡みつき、小突いてくる。@
+;　三人組は、ねちねちと秋一に絡みつき、小突いてくる。@
+` The tree boys circles Shuuichi and started shoving him around.`@
 br
-　秋一は曖昧に笑いながら、止してくれと言うだけだ。\
-
-「抵抗すればいいのに。」@
-
+;　秋一は曖昧に笑いながら、止してくれと言うだけだ。\
+` Shuuichi asked them to stop, but couldn't stop laughing.`\
+;「抵抗すればいいのに。」@
+`"Just resist..."`@
 ;ld c,SHU_D1,22
 ;ld c,SHU_D1,80
 
-「……彼らの怒りに油を注ぐだけだよ。@その内、飽きるさ。」@
+;「……彼らの怒りに油を注ぐだけだよ。@その内、飽きるさ。」@
+`"...Your anger is just pouring oil on the fire.`@`Then, you'll tire."`@
 br
-　秋一は、彼岸花に痛々しい苦笑いを見せる。@
-　……それを見て、……彼岸花は心の中に、初めて覚える疼きを知るのだった。\
-
+;　秋一は、彼岸花に痛々しい苦笑いを見せる。@
+` Shuuichi showed Higanbana a pained, bitter smile.`@
+;　……それを見て、……彼岸花は心の中に、初めて覚える疼きを知るのだった。\
+` ...When she saw that, Higanbana felt a slight tingling for the first time.`\
 mcbg 0
 ;bg black,22
 bg gakkou_02,22
 
-「じゃあ、投げるのはこの線からなー。」@
-「あ、俺一番でいい？」@
-「お前、野球部なんだからハンデで左手で投げろよなー。」@
-「おいおい、俺の黄金の右手を封じるつもりかよー？」\
-
-　秋一に、そこから一歩も動くなよと脅した上で、@いじめっこたちは距離を取り、地面の石を拾い始める。@
+;「じゃあ、投げるのはこの線からなー。」@
+`"Well, we'll throw from this line..."`@
+;「あ、俺一番でいい？」@
+`"Ah, is here best for me?"`@
+;「お前、野球部なんだからハンデで左手で投げろよなー。」@
+`"You're a baseball player, so handicap myself and us your left hand."`@
+;「おいおい、俺の黄金の右手を封じるつもりかよー？」\
+`"Hey, hey, are you trying to stop my from showing off my golden right hands?"`\
+;　秋一に、そこから一歩も動くなよと脅した上で、@いじめっこたちは距離を取り、地面の石を拾い始める。@
+` After threatening Shuuichi to not move a step,`@`the bullies took a step back and started to pick up rocks off the ground.`@
 br
-　何を始めようとしているか、明白だった。\
-
+;　何を始めようとしているか、明白だった。\
+` It was obvious what they were planning to do.`\
 　石は、小石と呼ぶには大きい。@当たり所が悪ければ、掠り傷程度では済まないかもしれない。@
 br
-　しかし、秋一は動くなと命令されている。@
-　秋一は固く目を瞑り、これから来る痛みに耐えようとしている……。\
-
+;　しかし、秋一は動くなと命令されている。@
+` But, Shuuichi was instructed to not move at all.`@
+;　秋一は固く目を瞑り、これから来る痛みに耐えようとしている……。\
+` Shuuchi's gaze hardened with resolve to bear the oncoming pain...`\
 ld c,HIG_D10,22
 ;ld c,HIG_D1,80
 
-「……………………………。」\
+;「……………………………。」\
+`"..............."`\
 ;＜彼岸花
 
 bg gakkou_03,22
 
-　いじめっこのひとりが、石を握りしめ、振りかぶった時。@彼岸花はその石を睨み付けた。@
+;　いじめっこのひとりが、石を握りしめ、振りかぶった時。@彼岸花はその石を睨み付けた。@
+` Higanbana glared at a stone,`@`as a bully brandished it.`@
 br
 
 se1 7
@@ -2133,25 +2158,29 @@ se1 7
 mbg white,1
 mcbg 22
 
-　その瞬間、少年の持った石がすっぽ抜け、はるか頭上へ飛び去った。\
-
+;　その瞬間、少年の持った石がすっぽ抜け、はるか頭上へ飛び去った。\
+` And then...the stone the boy held in his hand slipped out his grasp and flew over his head.`\
 mbg black,26
 
 fede 1,1000
 E_B
 
-「………な、……何だ……。」@
-「バーカ、お前どこ投げてんだよー。」@
-「いや、今、石が勝手に………。」@
-「おい……、あの石どこまで飛んでくんだよ？」\
-
+;「………な、……何だ……。」@
+`:....Wh-what?"`@
+;「バーカ、お前どこ投げてんだよー。」@
+`"Idiot. You let the stone slip out your grasp."`@
+;「いや、今、石が勝手に………。」@
+`"No...Just now...the stone...by itself...."`@
+;「おい……、あの石どこまで飛んでくんだよ？」\
+`"Hey, where did that stone go?"`\
 bgm1 15
 
 mcbg 22
 
-　まっすぐにどこまでも垂直に飛んでいく石は、一度、宙で静止する。\
-
-　石が空中に止まるわけがない。@いじめっこたちは茫然とそれを見上げ続ける。@
+;　まっすぐにどこまでも垂直に飛んでいく石は、一度、宙で静止する。\
+` The stone which had flown straight ahead, was holding still in space.`\ 
+;　石が空中に止まるわけがない。@いじめっこたちは茫然とそれを見上げ続ける。@
+` There was no way the stone could be suspended in space.`@`The bullies just looked at is, stunned.`@
 br
 
 E_MA
