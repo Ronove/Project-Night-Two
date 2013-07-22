@@ -2180,7 +2180,7 @@ mcbg 22
 ;　まっすぐにどこまでも垂直に飛んでいく石は、一度、宙で静止する。\
 ` The stone which had flown straight ahead, was holding still in space.`\ 
 ;　石が空中に止まるわけがない。@いじめっこたちは茫然とそれを見上げ続ける。@
-` There was no way the stone could be suspended in space.`@`The bullies just looked at is, stunned.`@
+` There was no way the stone could be suspended in space.`@`The bullies just looked at it, stunned.`@
 br
 
 E_MA
@@ -2191,9 +2191,10 @@ wait 500
 se2 20
 quakex 1,100
 
-　すると、ブンっと、まるで蜂が舞うかのように、石が８の字を描いた。@
-　そして、その石が、まさに蜂のように襲い掛かってくるに至って、いじめっこたちは飛び上がって驚く。\
-
+;　すると、ブンっと、まるで蜂が舞うかのように、石が８の字を描いた。@
+` And then, the stone described a figure eight in the air, like a bee dancing.`@
+;　そして、その石が、まさに蜂のように襲い掛かってくるに至って、いじめっこたちは飛び上がって驚く。\
+` Then the stone, like a bee, precisely started attacking the bullies, who jumped up, surprised.`\
 se1 66
 ld l,HIG_D10,22
 
@@ -2212,26 +2213,32 @@ bg black,1
 
 ;se2v 12,100
 
-　危ないっ。/
+;　危ないっ。/
+` This was dangerous.`/
 se1 13
 quakey 3,300
 @
 br
-　そう叫び、秋一が少年に飛びかかった。@
-　少年の身体を抱えるようにして、地面に倒れ込む。@
-　狙いの逸れた石は地面に激突し、ガッという大きな音と共に粉々に砕け散った。\
-
+;　そう叫び、秋一が少年に飛びかかった。@
+` Screaming that, Shuuichi leapt over the boys.`@
+;　少年の身体を抱えるようにして、地面に倒れ込む。@
+` Trying to hold the boy's body, he fell to the ground.`@
+;　狙いの逸れた石は地面に激突し、ガッという大きな音と共に粉々に砕け散った。\
+` The stone hit the ground with and smashed into pieces with a huge crash.`\
 fede 0,1000
 E_A
 
 me1v 16,50
 
-「…………秋一、……どうして………。」@
+;「…………秋一、……どうして………。」@
+`".....Shuuichi....why...."`@
 br
-　どうして秋一が庇うのか、彼岸花には理解できなかった。@
-　彼らは秋一の敵であるはず。@……なのに、どうして。\
-
-　秋一と共に地面に倒れた少年は、粉々になった石を見て少しの間、呆然としていた。@
+;　どうして秋一が庇うのか、彼岸花には理解できなかった。@
+` Why did Shuuichi try to protect them? Higanbana couldn't understand.`@
+;　彼らは秋一の敵であるはず。@……なのに、どうして。\
+` They were his enemies...`@`...so then why...`\
+;　秋一と共に地面に倒れた少年は、粉々になった石を見て少しの間、呆然としていた。@
+` The boy that had falled to the ground with Shuuichi was looking startled, at the shattered rock.`@
 br
 
 se1 10
