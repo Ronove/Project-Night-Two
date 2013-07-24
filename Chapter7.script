@@ -2249,31 +2249,36 @@ quakex 1,100
 ;se2 10
 ;quakey 1,100
 
-　罵声を浴びせながら立ち上がると、身体についた土を払い、倒れている秋一の足を爪先で蹴り上げた。@顔をしかめて秋一がうずくまる。@
+;　罵声を浴びせながら立ち上がると、身体についた土を払い、倒れている秋一の足を爪先で蹴り上げた。@顔をしかめて秋一がうずくまる。@
+` But then the boy stood while yelling, and stamping on the fallen Shuuichi's toes.`@`Shuuichi cringed.`@
 br
-　その行為に、……私は、全身が逆立つ感触を覚えた。\
-
+;　その行為に、……私は、全身が逆立つ感触を覚えた。\
+` At which point, I felt a feeling which made my whole body stand on end.`\
 se3 66
 ;mbg white,1
 ;mcbg 22
 
-「……………………………っ。」@
+;「……………………………っ。」@
+`"..............tch."`@
 br
-　無意識の内に、右腕が上がる。@……そこに鋭い鍵爪が伸びる。@
-　……今この場でその薄汚い魂、私が引き裂いてやる。\
-
-　まさにその瞬間、地面に伏せたままの秋一が呻くように言った。\
-
+;　無意識の内に、右腕が上がる。@……そこに鋭い鍵爪が伸びる。@
+` And, without my knowing, right arm stretched out...`@`and sharp claws sprouted.`@
+;　……今この場でその薄汚い魂、私が引き裂いてやる。\
+` ...I'll tear that snotty, dingy grubby soul to hell, right here, right now.`\
+;　まさにその瞬間、地面に伏せたままの秋一が呻くように言った。\
+` At that moment, Shuuchi, still face down in the dirt, let out a groan.`\
 bg Air_01,22
 ;E_ 3,3
 
 E_B
 
-「やめて、彼岸花さん……。」@
+;「やめて、彼岸花さん……。」@
+`"Stop it, Higanbana-san...."`@
 br
-　それは聞こえるか聞こえないかくらいの小さな声だった。@
-　しかし、それは確かに聞こえ、……彼岸花は腕を止めた。\
-
+;　それは聞こえるか聞こえないかくらいの小さな声だった。@
+` It was a small voice that could and couldn't be heard.`@
+;　しかし、それは確かに聞こえ、……彼岸花は腕を止めた。\
+` But, she surely heard it, since Higanbana stopped her arm.`\
 bg black,22
 bg gakkou_02,22
 ;se1 10
@@ -2284,29 +2289,34 @@ bg gakkou_02,22
 
 bgm1 6
 
-　庇われたはずの少年は、顔を真っ赤にしながら、秋一を執拗に蹴っていた。@
+;　庇われたはずの少年は、顔を真っ赤にしながら、秋一を執拗に蹴っていた。@
+` The boy that Shuuichi was meant to be protecting, was now kicking him relentlessly, face red.`@ 
 　カッコつけて投げたつもりの石が、真上へ暴投してしまい、@しかもその石が自分に襲い掛かってくるように思って怯えてしまうなんて。@
 br
-　それがこの上なく恥ずかしいことに思えたらしい。@それを誤魔化すかのように、秋一を何度も蹴る。\
-
+;　それがこの上なく恥ずかしいことに思えたらしい。@それを誤魔化すかのように、秋一を何度も蹴る。\
+` It seemed to be something supremely embarrassing for the boy,`@`so he continued to kick Shuuichi as if juggling.`\
 bg black,22
 bg gakkou_03,22
 
-　しかし、他の二人のいじめっこはそうではない。@
+;　しかし、他の二人のいじめっこはそうではない。@
+` But that wasn't so for the other two bullies.`@
 br
-　どう投げたって、石があんな動きをして襲い掛かってくるわけがない。@
-　すっかり興醒めしてしまい、薄気味悪そうに、砕けた石を見ている。\
-
-「……なあ、行こうぜ。@なんか気味悪いよ……。」@
-「そうだよ、そうだよ。@……行こうぜ……。」@
+;　どう投げたって、石があんな動きをして襲い掛かってくるわけがない。@
+` No matter how you throw it, there's no way a stone should make that motion.`@
+;　すっかり興醒めしてしまい、薄気味悪そうに、砕けた石を見ている。\
+` Those two boys, chilled to the bone looked at the smashed stone.`\
+;「……なあ、行こうぜ。@なんか気味悪いよ……。」@
+`"...Hey, let's go.`@`This is kinda spooky..."`@
+;「そうだよ、そうだよ。@……行こうぜ……。」@
+`"Yeah....yeah,`@`let's go...."`@
 br
-　それが、いじめっこたちの正直な気持ちだ。\
-
+;　それが、いじめっこたちの正直な気持ちだ。\
+` Those were the bullies' honest feelings.`\
 se1 10
 quakex 1,100
 
-　最後にもうひと蹴りを入れ、いじめっこたちはうずくまる秋一を残して立ち去る……。\
-
+;　最後にもうひと蹴りを入れ、いじめっこたちはうずくまる秋一を残して立ち去る……。\
+` Putting one last kick in, the bullies left Shuuichi, crouching...`\
 textoff
 
 fede 0,1000
@@ -2317,46 +2327,47 @@ ld c,HIG_D10,22
 
 me1v 5,50
 
-「……………どうして、庇ったの？」@
-
-「だって、……あんなの当たったら痛そうじゃない。」@
-
+;「……………どうして、庇ったの？」@
+`"....Why did you protect them?"`@
+;「だって、……あんなの当たったら痛そうじゃない。」@
+`"Wouldn't it be painful if they get hit like that?"`@
 ld c,HIG_D9,80
 
-「その痛そうなものをぶつけようとしたのは連中じゃないの？」\
-
+;「その痛そうなものをぶつけようとしたのは連中じゃないの？」\
+`"Aren't those guys trying to inflict pain themselves, though?"`\
 ld r,SHU_D5,6
 ld r,SHU_D4,80
 
-「まぁ、そうだろうけどね。@あははは……。」@
+;「まぁ、そうだろうけどね。@あははは……。」@
+`"Ah...I guess so.`@`Ahahaha..."`@
 br
-　秋一は服に付いた砂埃を払いながら、立ち上がる。\
-
+;　秋一は服に付いた砂埃を払いながら、立ち上がる。\
+` Shuuichi stood up, dusting the dirt off his clothes.`\
 cl c,0
 ld l,HIG_D10,24
 
-「……秋一は、どうしてそこまで達観していられるの？」@
-
+;「……秋一は、どうしてそこまで達観していられるの？」@
+`"...Shuuchi, why are you always thinking of the long term?"`@
 ld r,SHU_D1,80
 
-「そのつもりはないんだけどね。」\
-
+;「そのつもりはないんだけどね。」\
+`"I don't particularly intend to...."`\
 ld l,HIG_D9,80
 
-「あなたはあいつらと同じ年の子供には到底、見えなくてよ。@……まるであなたは人間じゃないみたい。」@
-
+;「あなたはあいつらと同じ年の子供には到底、見えなくてよ。@……まるであなたは人間じゃないみたい。」@
+`"Those guys that are in the same year as you, don't think ahead nearly as much.`@`...It's like you're not human."`@ 
 ld r,SHU_D4,80
 
-「それはひどいなぁ。@人間のつもりなんだけどなぁ。」\
-
+;「それはひどいなぁ。@人間のつもりなんだけどなぁ。」\
+`"That's cruel.`@`It's human intention, after all."`\
 ld l,HIG_D8,80
 
-「きっと。@……秋一は、あいつらのような低俗な人間とは、物の見方が違うんだわ。」@
-
+;「きっと。@……秋一は、あいつらのような低俗な人間とは、物の見方が違うんだわ。」@
+`"But surely, your way of looking at things is different to theirs."`@
 ld r,SHU_D3,80
 
-「………そうかも、しれないね。」\
-
+;「………そうかも、しれないね。」\
+`"...Probably, I guess."`\
 bg black,22
 
 fede 0,1000
@@ -2364,7 +2375,8 @@ E_A
 
 bgm1 33
 
-　私ははっきりと理解する。@
+;　私ははっきりと理解する。@
+` I understood clearly.`@
 br
 　多分、秋一は、……並の人間たちとは見えているものが違うのだ。\
 
