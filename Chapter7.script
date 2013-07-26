@@ -2378,40 +2378,44 @@ bgm1 33
 ;　私ははっきりと理解する。@
 ` I understood clearly.`@
 br
-　多分、秋一は、……並の人間たちとは見えているものが違うのだ。\
-
+;　多分、秋一は、……並の人間たちとは見えているものが違うのだ。\
+` Maybe, Shuuichi sees things differently to humans that are his peers.`\
 bg Air_01,22
 
-　こうして、人ならざる存在である私の姿が見えているように。@
+;　こうして、人ならざる存在である私の姿が見えているように。@
+` Thus, he is able to see me, who exists outside of humanity.`@
 br
-　そして、誰よりも美しく鮮やかな夕焼けが見えているように。\
-
+;　そして、誰よりも美しく鮮やかな夕焼けが見えているように。\
+` And see a sunset more beautifully than anyone else.`\
 「秋一の目は、人間には見えない何かを見ることが出来ている気がするわ。@……それがとてもとても美しいから、@……あなたは人間同士の、低俗な諍いに目を奪われないんだわ。」\
 
-　生まれながらに、人ならざる者たちの世界に近い波長を持つ者がいるように。@
+;　生まれながらに、人ならざる者たちの世界に近い波長を持つ者がいるように。@
+` From birth, maybe he had been on a similar wavelength to the world not of humans.`@
 br
-　生まれながらに、人ならざる何かを持って生まれる者もいるのかもしれない。\
-
-　秋一は多分、……人ならざる目を持っているのだ。@
-　彼はその目に、感情というものを、美しい何かとして映し出すことが出来るのだ。@
+;　生まれながらに、人ならざる何かを持って生まれる者もいるのかもしれない。\
+` From birth, maybe he had something not human in him.`\
+;　秋一は多分、……人ならざる目を持っているのだ。@
+` He had nonhuman eyes.`@
+;　彼はその目に、感情というものを、美しい何かとして映し出すことが出来るのだ。@
+` With those eyes, he was able to project emotions as beautiful things.`@
 br
-　それがあまりに美しくて、鮮やかで興味深いものだからこそ……、@彼はその感動を忘れたくなくて、スケッチブックに記す。\
-
+;　それがあまりに美しくて、鮮やかで興味深いものだからこそ……、@彼はその感動を忘れたくなくて、スケッチブックに記す。\
+` Because he saw those things as beautiful, bright and interesting...`@`he recorded them in his sketchbook because he didn't want to forget.`\
 bg black,22
 bg gakkou_03,22
 ld r,HIG_D9,24
 
-「……そのスケッチブックに描いている絵。@………抽象画じゃないんでしょう？」\
-
+;「……そのスケッチブックに描いている絵。@………抽象画じゃないんでしょう？」\
+`"...This sketch....`@`...It's abstract, right?"`\
 ld l,SHU_D2,23
 ld l,SHU_D1,80
 
-「………………うん。@……僕は、見えたままに描いているだけだよ。@幼稚園の頃に気付いたんだ。@……僕には、人とは違う世界が見えてるって。」@
-
+;「………………うん。@……僕は、見えたままに描いているだけだよ。@幼稚園の頃に気付いたんだ。@……僕には、人とは違う世界が見えてるって。」@
+`"...Yeah.`@`...I draw it just to be able to keep seeing it.`@`I realized when I was in kindergarten...`@`..I see a world different from normal people."`@
 ld r,HIG_D8,80
 
-「…………………………。」\
-
+;「…………………………。」\
+`"............."`\
 ld l,SHU_D4,80
 
 「それを家族に話したよ。@すごく驚いてた。@そしてお父さんが言ったんだ。@その目はきっと、神様からの授かりものに違いない、って。@……僕に見える世界をそのまま、絵に描きなさいって言ってくれたんだ。」\
@@ -2419,52 +2423,65 @@ ld l,SHU_D4,80
 bg black,22
 ;bg Different_spiral_1b,22
 
-　秋一は自覚したのだ。@
+;　秋一は自覚したのだ。@
+` Shuuichi was aware of that.`@
 br
-　自分には、心の揺らめきを通して、人には見えない世界を見ることが出来ると。\
-
-　そして、それを絵に描くことを覚えた。@
-　その絵から、描いた時の感情を思い起こせることを知った。@
+;　自分には、心の揺らめきを通して、人には見えない世界を見ることが出来ると。\
+` He himself, through the flickers of his mind, could see a world others couldn't.`\
+;　そして、それを絵に描くことを覚えた。@
+` And then he remembered by sketching a picture of it.`@
+;　その絵から、描いた時の感情を思い起こせることを知った。@
+` And from those pictures, he would remember emotions.`@
 br
-　絵の腕を上達させれば、その感情を、他の人たちにも共有してもらえるかもしれない。\
-
+;　絵の腕を上達させれば、その感情を、他の人たちにも共有してもらえるかもしれない。\
+` If he improved his pictures, then he could share these emotions with others.`\
 bg black,22
 bg Air_01,22
 
-　その時、思ったんだ。@……それが僕の、天職かもしれないって。@
-　……僕は感情を見ることが出来る。@それを絵に出来る。@……それを大勢に見せることで、みんなにも感じ取ってもらえる。@
+;　その時、思ったんだ。@……それが僕の、天職かもしれないって。@
+` At that time, he thought.`@`'...Perhaps this is my calling.'`@
+;　……僕は感情を見ることが出来る。@それを絵に出来る。@……それを大勢に見せることで、みんなにも感じ取ってもらえる。@
+` ...I can see feelings.`@`In pictures, I can use them,`@`..to help lots of other people feel them too.`@
 br
-　つまりそれって、僕が幸せな絵を描けば、大勢に幸せになってもらえるかもしれないってことでしょ？\
-
-　そう思った晩、興奮して眠れなかった。@
-　どうして神様が僕にこんな目を与えたのかはわからないけれど。@……きっと、それが僕の使命なんだって思った。\
-
-　だから僕は、日々の感情を全て描き、練習するんだ。@
-　……感情を絵に表すことを繰り返して、練習して、上達するんだ。\
-
-　だから毎日、僕は欠かさず絵を描くんだよ。@
-　喜怒哀楽、それだけに分類できない無数の感情の揺らめきをね。\
-
+;　つまりそれって、僕が幸せな絵を描けば、大勢に幸せになってもらえるかもしれないってことでしょ？\
+` So then, if I draw a happy picture, then I can make lots of other people feel happy?`\
+;　そう思った晩、興奮して眠れなかった。@
+` One night, he thought that, and couldn't sleep because he was so excited.`@
+;　どうして神様が僕にこんな目を与えたのかはわからないけれど。@……きっと、それが僕の使命なんだって思った。\
+` I don't know why God would give me eyes like these.`@`...But I think this is surely my mission.`\
+;　だから僕は、日々の感情を全て描き、練習するんだ。@
+` So I'll practice drawing all the emotions I see daily.`@
+;　……感情を絵に表すことを繰り返して、練習して、上達するんだ。\
+` ...I'll repeatedly express feelings in my pictures, practice and become more skilled.`@
+;　だから毎日、僕は欠かさず絵を描くんだよ。@
+` So I'll draw every single day.`@
+;　喜怒哀楽、それだけに分類できない無数の感情の揺らめきをね。\
+` Every single one of those countless undefinable feelings.`\
 bg black,22
 
-　彼岸花は思った。@
+;　彼岸花は思った。@
+` That's what Higanbana thought.`@
 br
-　天使という存在が実在するならば。@……それはきっと、彼なのだ。@
-　天よりを遣わされて、彼となって転生したのだ。\
-
+;　天使という存在が実在するならば。@……それはきっと、彼なのだ。@
+` If Angels exist,`@`surely he is one of them.`@
+;　天よりを遣わされて、彼となって転生したのだ。\
+` An Angel sent from heaven and reincarnated as him.`\
 bg usagi_01,0
 ld c,SHU_D1,22
 
-　何の為に？@
-　人に、より多彩な感情を、教えるために。@
+;　何の為に？@
+` For what purpose?`@
+;　人に、より多彩な感情を、教えるために。@
+` To show people a wider variety of feelings.`@
 br
-　そうだと断言できる。@
-　………だって。@……彼は私に、感情というものを教えてくれたのだから。\
-
+;　そうだと断言できる。@
+` I can attest to that.`@
+;　………だって。@……彼は私に、感情というものを教えてくれたのだから。\
+` Because...`@`..He even managed to show me what emotions are.`\
 ld c,SHU_D4,80
 
-「さっきは、僕を助けるために、ありがとう。」@
-
+;「さっきは、僕を助けるために、ありがとう。」@
+`"Thanks for saving me earlier."`@
 ld r,HIG_D8,22
 
 「…………咄嗟にやってしまっただけよ。」@
