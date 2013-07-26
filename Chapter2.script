@@ -19,7 +19,7 @@ se1v 13,50
 quakey 2,200
 
 ;　心臓を吐き出しそうなほどに、少女は呼吸を荒げている。@
-`　The girl was breathing so hard it seemed she was going to vomit her heart out her throat.`@
+`　The girl was breathing so hard it seemed she was going to vomit her heart out of her throat.`@
 ;　そして、廊下の途中で床にへたり込んだ。\
 `　And then she sunk to the floor midway through the hall.`\
 
@@ -73,7 +73,7 @@ br
 ;　それは、足音。@
 `　And that was footsteps.`@`
 ;　踵でごつごつと踏み鳴らす荒々しい足音が、足早に近付いてくるのだ。\
-`　The sound of heels, rough footsteps, treading across the floor, were closing fast.`\
+`　The sound of heels, rough footsteps, treading across the floor, were closing in fast.`\
 
 ;「……嫌……、嫌…………。」@
 `"...No... No......"`@
@@ -81,7 +81,7 @@ br
 ;　少女は四つん這いになっても、尚もその足音から逃れようとする。@
 `　Even though the girl had collapsed on all fours, she tried to get away from the sound of those footsteps.`@ 
 ;　しかしもう、両脚は痙攣してしまい、立ち上がることすら叶わない。\
-`　But she had already lost both her legs to cramping, and she couldn't hope to even stand up.`\
+`　But she had already lost both her legs to cramping, and it was futile to even try standing up.`\
 
 ;　足音は容赦なく近付いてくる。@無慈悲にずかずかと近付いてくる。\
 `　Relentlessly, those footsteps drew closer. `@`Mercilessly, they drew closer.`\
@@ -141,7 +141,7 @@ br
 ;　授業の終わりを告げるチャイムが鳴り響き、先生は時計を見上げる。@
 `　The teacher looked up to the clock as the bell signifying the end of class rang.`@
 ;　日直が、きりーつ、と号令をかける。\
-`　Leaving class required following a daily routine that started with standing at attention.`\
+`　Leaving class required following a daily routine that started with standing to attention.`\
 
 ld c,AYA_D3,6
 
@@ -300,7 +300,7 @@ br
 `　And like that, just as snow melts, `@`...just as I had never existed in the first place, I'd want to disappear entirely.`\
 
 ;　だからそれは、自殺願望とは異なる。@
-`　That's different than wanting to kill myself.`@
+`　That's different from wanting to kill myself.`@
 ;　無意味な自分に相応しい、自分という存在の無意味化。@
 `　I want to go to the meaningless void that so suits my meaningless self.`@
 ;　消滅願望とでも言えばいいのだろうか。@
