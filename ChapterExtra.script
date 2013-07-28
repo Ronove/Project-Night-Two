@@ -1,38 +1,38 @@
 ;Chapter Extra
 ;　俺様は学校妖怪序列第５位、鏡のキョウさまよ。@
-` I am Kyou, 5th ranked of the School Monsters.`@`
+` I am Kyou, 5th ranked among the School Youkai.`@`
 ;　異界との境を司りしガーディアンとは俺様のこと……。@
 ` Guardian that governs the border of the other world...`@`
 br
 ;　さぁて、今宵ものんびり、夢と現の境を楽しませてもらうとするか。\
-` Well, tonight I'll relax and let you enjoy the boundary between dreams and the present.`\
+` Well then, would you like to play with the border between dreams and reality this evening as well?`\
 ;ld c,KYO_D5,22
 
 cl r,0
 ld c,KYO_D2,24
 
 ;　ここにいるってことは、あんたも俺様と同じ、夢と現の境を漂う者らしいな。@
-` You, like me, float on this boundary.`@`
+` If you are here, then that means that you too float on this boundary between worlds just as I do.`@`
 br
-　なら道連れだ。@トラベルは道連れって言うもんな？@　くっくっく。\
-
+;　なら道連れだ。@トラベルは道連れって言うもんな？@　くっくっく。\
+` That makes us companions. `@`Is that not what people who travel together are called? `@`Kukuku.`\
 ld c,KYO_D4,80
 
 
 ;　ここは夢と現の境界世界。@
-` This is the boudary world of dreams and present.`@`
+` This is the boudary world between dreams and reality.`@`
 br
 ;　まぁ、平たく言えば、デイドリーム。@白昼夢の世界ってわけさ。\
-` Well, in layman's terms, a daydream.`@`This is more or less the world of daydreams.`\
+` Well, in layman's terms, this is a daydream. `@`It's a world of waking dreams.`\
 ld c,KYO_D2,80
 
 ;　多くの場合、下らねぇことしか見つからねぇが。@
-` In many cases, it's just discovering your worthlessness.`@` 
+` Most of the time, you can only find trivial interactions taking place in here.`@` 
 ;　まぁ、退屈凌ぎには充分さ……。@
-` Well, with just enough boredom...`@`
+` But it's just interesting enough to kill some time every now and again...`@`
 br
 ;　どれどれ……。@さっそく、何かおかしなものが見えてきやがった……。\
-` Well, let's see.`@`Right away, it seems like something strange...`\
+` Oh, what's this....? `@`Right away, it seems that we've found something odd going on...`\
 se1 56
 bg white,0
 print 99,2000,"trvswave.dll/"
@@ -49,39 +49,39 @@ bg shokuin_01,1
 quakey 2,300
 
 ;「まず、言おう。@君は教師として失格だ。」@
-`"First, let me try to say it.`@`You're disqualified as a teacher."`@`
+`"First, let me say this. `@`You're a failure as a teacher."`@`
 ;＜金森
 
 bgm1 19
 
 ;「あなたに言われたくないわね、金森センセ？」@
-` "Didn't you want to say it, Kanamori-sensei?"`@`
+` "I sure as hell don't want to hear that from you, Kanamori-sensei."`@`
 ;＜ナフミ
 br
 ;　失格教師同士で、何やら言い合いをしている。\
-` They were having a verbal dispute over disqualification of a teacher or something.`\
+` It semes that these two failures of teachers were having a verbal dispute of some sort.`\
 bg black,22
 bg shokuin_02,0
 ld r,NAF_D2,22
 ld r,NAF_D5,80
 
 ;「第一、金森センセ。@あなた、自分の教え子に何をしたか、お忘れなの？@　猿みたいにブッコキ過ぎて、玉袋同様、頭の中まで空っぽになっちゃったのかしらぁ？」\
-` "First of all, Kanamori-sensei.`@`Did you forget what you did to your own student?`@`Like a monkey you beat his head and testicles. Did you lose your mind and your head become empty?"`\
+` "First of all, Kanamori-sensei. `@`Did you forget what you did to your own student? `@`Or is your head as empty as your ballsack?"`\
 ld l,KAN_d3,23
 ld l,KAN_w1,80
 
 ;「ほぉう。@美少年ばかり何人も狙って！@　無垢な肉体を剥き剥きして、おにんにんばかり写生していた美術教師が言うじゃないかね。」\
-`"Hou?`@`She's just a teenager that targets anyone.`@`I peeled into her pure flesh and painted a picture from real life as an artist."`\
+`"Ohhh? `@`Says the one who's targeted so many little boys!? `@`The art teacher who stripped they're innocent bodies and drew their dicks?"`\
 ld r,NAF_D7a,80
 quakex 1,100
 
 ;「芸術行為と言ってちょうだい、変態教師！@　ならあんたがしてたことは何なのよぅ？」\
-`"Artful acts?, you perverted teacher!`@`If that's the case, what did you know?"`\
+`"It was an act of art, you perverted teacher! `@`Besides, how do you explain what you did?"`\
 ld l,KAN_I1,80
 quakex 1,100
 
-「愛情行為と言ってくれたまえ、変態教師！@　僕の行為は全てっ、愛ゆえのことなのだよ！@　君の行為に愛はあったかね？@　なかっただろう！@　君はただ、己の欲望を少年達に吐き出しただけだ！」\
-
+;「愛情行為と言ってくれたまえ、変態教師！@　僕の行為は全てっ、愛ゆえのことなのだよ！@　君の行為に愛はあったかね？@　なかっただろう！@　君はただ、己の欲望を少年達に吐き出しただけだ！」\
+`"It was an act of love, you perverted teacher! `@`Everything I did was out of love! `@`Was what you were doing for love? `@`Not at all! `@`You were just taking your lust out on those boys!"`\
 cl r,0
 ld c,NAF_D8a,24
 se1v 8,50
