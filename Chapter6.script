@@ -1,70 +1,79 @@
 ;Chapter 6
 
-　榊由香里は、現在のクラスにすっかり馴染んでいた。@
+;　榊由香里は、現在のクラスにすっかり馴染んでいた。@
+` Yukari Sakaki has been adjusting quite well to her new class.`@
 br
-　欠席した日の社会科見学で、バスが事故を起こし、@クラスメート全員を失うというショックからも、すでに立ち直っていた。\
-
+;　欠席した日の社会科見学で、バスが事故を起こし、@クラスメート全員を失うというショックからも、すでに立ち直っていた。\
+` She was already recovered from the shock. `@`The shock of losing her entire class in a bus crash on a social studies field trip on a day she was absent.`\
 
 ;ld c,YUK_D1,80
 ld c,YUK_i1,23
 ld c,YUK_I3,80
 
-　いじめを人一倍憎む彼女は、いじめを見つけては、臆すことなく叱っていた。@
-　それをうるさがる男子たちには疎まれていたが、@その正義感は誰にも認められ、クラスでの人気も上々だった。\
-
+;　いじめを人一倍憎む彼女は、いじめを見つけては、臆すことなく叱っていた。@
+` This girl, who had once been bullied especially bad, had made it her mission to seek out and prevent bullying of others.`@
+;　それをうるさがる男子たちには疎まれていたが、@その正義感は誰にも認められ、クラスでの人気も上々だった。\
+` She was shunned by the boys who she annoyed by doing this, `@`but everyone else admired her sense of justice, and she became very popular among those in her class.`\
 
 ;bg black,22
 ;ld r,YUK_D1,22
 
 
-　今の彼女を見て、かつていじめられていたことを想像できる者はいないだろう。\
-
+;　今の彼女を見て、かつていじめられていたことを想像できる者はいないだろう。\
+` Looking at her now, no one could imagine that she had once been a vitcim of bullying herself.`\
 
 bg black,22
 bg kyou_04,22
 ;ld r,MAR_D1,23
 
 
-　楽しい学校生活を取り戻せても、彼女はいじめを憎むことは止めない。@
+;　楽しい学校生活を取り戻せても、彼女はいじめを憎むことは止めない。@
+` Even though she's regained her happy schoo life, she can't help but detest bullying.`@
 br
-　いじめを注意することで男子と喧嘩になることがあろうとも、彼女が怯むことはない。\
-
+;　いじめを注意することで男子と喧嘩になることがあろうとも、彼女が怯むことはない。\
+` Even when her warnings about bullying lead to quarrels with boys, she will not back down.`\
 
 ;ld l,MAR_D1,22
 ;ld l,MAR_D1,80
 ld r,MAR_W1,22
 
 
-　そんな彼女を見て、毬枝は改めて彼女の強さを尊敬するのだった。\
-
+;　そんな彼女を見て、毬枝は改めて彼女の強さを尊敬するのだった。\
+` Seeing her now, Marie had gained a new respect for the girl's strength.`\
 
 cl r,22
 bg black,2
 bg kyou_02,22
 
-「ほらほらこっちー！！」@
-「ヘイヘイー、パスパース！！」@
-「ちょっと、……やめろよ、返せよぉッ。」\
+;「ほらほらこっちー！！」@
+`"Hey, over here!!"`@
+;「ヘイヘイー、パスパース！！」@
+`"Here, pass! Pass!!"`@
+;「ちょっと、……やめろよ、返せよぉッ。」\
+`"Wait... stop it, give it back."`\
 
-
-　数人の男子が、誰かの筆箱をキャッチボールのように投げ合っている。@
-　その持ち主の男子が、返せよと言いながら、ぐるぐると追い掛け回している……。\
-
+;　数人の男子が、誰かの筆箱をキャッチボールのように投げ合っている。@
+` A group of boys were playing catch with someone's pencil case.`@
+;　その持ち主の男子が、返せよと言いながら、ぐるぐると追い掛け回している……。\
+` The owner of the pencil case was telling them to give it back while chasing it back and forth between them...`\
 
 
 ld r,YUK_I2,24
 ld r,YUK_I3,80
 
-「こらッ、そこの男子！！@　いじめはやめてッ！」@
+;「こらッ、そこの男子！！@　いじめはやめてッ！」@
+`"Hey, you boys!! `@`Stop bullying!"`@
 ;＜由香里
 br
-　由香里が大声を張り上げる。\
-
-　悪ふざけが過ぎて、遊びといじめの境がわからなくなる男子と、それを叱る由香里。@
-　このクラスの、最近ではすっかりお馴染みの光景だった。@
+;　由香里が大声を張り上げる。\
+` Yukari yells at them.`\
+;　悪ふざけが過ぎて、遊びといじめの境がわからなくなる男子と、それを叱る由香里。@
+` She scoldd them for taking their playing too far and not knowing where to draw the line between teasing and bullying.`@
+;　このクラスの、最近ではすっかりお馴染みの光景だった。@
+` This is a scene that the students of this class have become well acquainted with.`@
 br
-　由香里は彼らから筆箱を取り上げると、持ち主の男子に返す。\
-
+;　由香里は彼らから筆箱を取り上げると、持ち主の男子に返す。\
+` Yukari takes the pencil case from them and hands it back to the owner.`\
 ;bg black,1
 ;bg kyou_01,23
 ;ld c,YOS_D1,0
@@ -77,20 +86,23 @@ mld l,YUK_w1,23
 
 mld l,YUK_W2,80
 
-「はい、吉川くん。」@
-
+;「はい、吉川くん。」@
+`"Here you go, Yoshikawa-kun."`@
 ld c,YOS_D9,22
 ld c,YOS_D3a,80
 
-「………あ、……ありがと。」@
+;「………あ、……ありがと。」@
+`"....Th-... thank you."`@
 br
-　吉川正明（よしかわ　まさあき）は、おずおずと筆箱を受け取る。@
-　するとそれを見て、さっきの男子たちが囃し立てた。\
+;　吉川正明（よしかわ　まさあき）は、おずおずと筆箱を受け取る。@
+` Masaaki Yoshikawa (吉川正明) timidly takes the case from her.`@
+;　するとそれを見て、さっきの男子たちが囃し立てた。\
+` The boys from earlier stood there jeering at the sight of that.`\
 
-
-「吉川、ダセー！@　女に助けられてんのかよー！」@
-「お前なんか、女と遊んでんのがお似合いだよ！@　うっはははは！！」\
-
+;「吉川、ダセー！@　女に助けられてんのかよー！」@
+`"Yoshikawa, you're so lame! `@`You just got saved by a girl!"`@
+;「お前なんか、女と遊んでんのがお似合いだよ！@　うっはははは！！」\
+`"I bet you play with girls all the time, you sissy! `@`Uwhahaha!!"`\
 
 ;mcl l,0
 ;bg black,22
@@ -101,16 +113,20 @@ mcl l,0
 mld c,YOS_D3a,0
 bg black,22
 
-　正明は身長が低く小柄で、成長期を迎えた他の男子たちに比べると一回り華奢に見えた。@
-　そのせいもあってか、体格のいい意地悪な男子たちに目を付けられ、よくからかわれていた。@
+;　正明は身長が低く小柄で、成長期を迎えた他の男子たちに比べると一回り華奢に見えた。@
+` Masaaki had a short, petite build. When compared to the other boy who had hit growth spurts earlier than he had, he looked very small.`@
+;　そのせいもあってか、体格のいい意地悪な男子たちに目を付けられ、よくからかわれていた。@
+` Because of that he was often poked fun at by the mean boys with better physiques.`@
 br
-　そのからかいがいじめに姿を変えるのに、そう長い時間は必要なかった。\
-
-　由香里がやって来てからは、教室で堂々といじめることも次第になくなってきた。@
-　だからといって、彼らが正明という愉快な玩具を手放すわけもない。@
+;　そのからかいがいじめに姿を変えるのに、そう長い時間は必要なかった。\
+` It didn't take long for that poking fun at to change into full-fledged bullying.`\
+;　由香里がやって来てからは、教室で堂々といじめることも次第になくなってきた。@
+` Ever since Yukari showed up, the bullying in this class has, rather impressively, gradually disappeared.`@
+;　だからといって、彼らが正明という愉快な玩具を手放すわけもない。@
+` Nevertheless, these boys had no intention of giving up Masaaki, they're newest toy.`@
 br
-　そのいじめは、水面下でしつこくと続き、悪化の一途を辿っているらしかった……。\
-
+;　そのいじめは、水面下でしつこくと続き、悪化の一途を辿っているらしかった……。\
+` They had continued their bullying behind the scenes, and it had been getting worse day after day...`\
 
 ;bg black,22
 ;mono 0
@@ -124,41 +140,44 @@ ld c,YOS_D3a,0
 mld l,YUK_w4,22
 
 
-　男子たちに囃し立てられた正明は、気まずい顔で俯きながら、由香里の手から筆箱を引っ手繰る。\
-
+;　男子たちに囃し立てられた正明は、気まずい顔で俯きながら、由香里の手から筆箱を引っ手繰る。\
+` Masaaki lowered his head with an uncomfortable expression at the sight of the boys jeering at him. He quickly snatched the pencil case from Yukari's hands.`\
 ;se1 9
 cl c,0
 ld r,YOS_D2,23
 
-「べ、……別に助けてくれなんて言ってねぇよ……。」@
-
+;「べ、……別に助けてくれなんて言ってねぇよ……。」@
+`"I... I didn't ask you to help me..."`@
 ;ld l,YUK_D1,22
 
 mcl l,0
 ld l,YUK_I1,80
 
-「でも、いじめられてたじゃない。」\
-
+;「でも、いじめられてたじゃない。」\
+`"But weren't you being bullied."`\
 
 
 ;ld r,YOS_D1,0
 
 ld r,YOS_D10a,80
 
-「い、いじめられてなんかねーよ…！！」@
+;「い、いじめられてなんかねーよ…！！」@
+`"I- I wasn't being bullied!!"`@
 br
-　心にもない言葉だ。@
-　でも、正明はつい強がってそう言ってしまった。\
-
+;　心にもない言葉だ。@
+` There was no sincerety in those words.`@
+;　でも、正明はつい強がってそう言ってしまった。\
+` But Masaaki blurted them out to seem tough.`\
 ;cl a,0
 ;bg black,22
 
-　……彼も自分がいじめられっこであることは、薄々自覚している。@
+;　……彼も自分がいじめられっこであることは、薄々自覚している。@
+` He was a bit self-concious about his being bullied.`@
 br
-　しかし、それを認めたら負けだと、自分に言い聞かせて今日まで堪えてきたのだ。\
-
-　正明の、いじめられてなんかないという言葉に、@いじめっこたちも、そうだそうだと同調する。\
-
+;　しかし、それを認めたら負けだと、自分に言い聞かせて今日まで堪えてきたのだ。\
+` But feeling like he'd lose if he admitted it, he endured it this whole time.`\
+;　正明の、いじめられてなんかないという言葉に、@いじめっこたちも、そうだそうだと同調する。\
+` The bullies too agreed with Masaaki, `@`claiming they would never bully him.`\
 
 ;bg kyou_07,2
 ;ld l,YUK_D1,22
@@ -166,25 +185,27 @@ br
 cl l,0
 ld c,YUK_D3,23
 
-「本当に、……いじめられてないの？」@
-
+;「本当に、……いじめられてないの？」@
+`"You're... really not being bullied?"`@
 ;ld r,YOS_D1,22
 
 ld r,YOS_D3a,80
 
 
-「…………い、……いじめられて……ねぇよ……。」@
+;「…………い、……いじめられて……ねぇよ……。」@
+`"......I- ...I'm not... at all...."`@
 br
-　由香里もわかって聞いている。@
-　だから、正明にしか聞こえない小声で言った。\
-
+;　由香里もわかって聞いている。@
+` Yukari was the only one who heard him.`@
+;　だから、正明にしか聞こえない小声で言った。\
+` His voice was too quiet to be heard by anyone but her.`\
 
 ;ld l,YUK_D1,80
 
 ld c,YUK_D2,80
 
-「……私で力になれることがあったら、いつでも言ってね。」\
-
+;「……私で力になれることがあったら、いつでも言ってね。」\
+`"...If you ever need me to lend you my help, let me know."`\
 ld r,YOS_D8a,80
 
 fede 1,1000
@@ -192,13 +213,14 @@ E_B
 
 ld r,YOS_D10a,80
 
-「お、女の世話になんかならねぇよ…！！」@
+;「お、女の世話になんかならねぇよ…！！」@
+`"I- I don't need to be helped by a girl...!!"`@
 ;cl r,23
 
 cl r,23
 br
-　正明はそう怒鳴りつけ、席へ戻る。\
-
+;　正明はそう怒鳴りつけ、席へ戻る。\
+` Tamaaki shouted at her and returned to his seat.`\
 
 ;bg black,1
 ;bg kyou_01,2
@@ -209,15 +231,17 @@ bg kyou_03,23
 ;ld c,YOS_D2,23
 ;ld c,YOS_D4a,80
 
-　いじめっこたちも同調して、けらけらと笑った。@
+;　いじめっこたちも同調して、けらけらと笑った。@
+` The bullies agreed with him, and cackled.`@
 br
-　正明もその笑いに同調するかのように笑ってみせるが、少しぎこちなかった。\
+;　正明もその笑いに同調するかのように笑ってみせるが、少しぎこちなかった。\
+` Masaaki laughed along with them as if in agreement, but his laugh was a bit awkward.`\
 
-
-　自分は、おちょくられやすいキャラクターだから。@……これはいじめられてるんじゃなく、みんなで悪ふざけをしているだけ。@
+;　自分は、おちょくられやすいキャラクターだから。@……これはいじめられてるんじゃなく、みんなで悪ふざけをしているだけ。@
+` He had a personality that was easy to make fun of.`@`... So this wasn't bullying, it was just teasing.`@
 br
-　そう信じなければ、やっていけないようだった……。\
-
+;　そう信じなければ、やっていけないようだった……。\
+` It was like if he had to force himself to believe that...`\
 bg black,22
 
 fede 0,1000
@@ -228,161 +252,172 @@ bg ura8,22
 
 bgm1 8
 
-「吉川、トロぇよ！！@　早く来いよ早く来いよ！！」@
-
+;「吉川、トロぇよ！！@　早く来いよ早く来いよ！！」@
+`"You're so slow, Yoshikawa!! `@`Hurry up, hurry up!"`@
 ;ld r,YOS_D1,22
 
 ;ld r,YOS_D3,24
 ld r,YOS_D4a,24
 
-「……む、……無理だよ…、……重くて……。」\
+;「……む、……無理だよ…、……重くて……。」\
+`"...I- ...I can't..... It's too heavy..."`\
 
 
-
-「お前、絶対ぇ土、付けんなよ…！！@　一個でも落としたらズボン、ドブに捨てっからな！！」@
+;「お前、絶対ぇ土、付けんなよ…！！@　一個でも落としたらズボン、ドブに捨てっからな！！」@
+`"Don't let any of them touch the ground...!! `@`If you drop even one we'll throw your pants away!!"`@
 br
-　下校中、正明はいくつものランドセルを担がされていた。@
-　後に背負い、前にも背負い、両腕に通し、肩にも担いで。\
-
+;　下校中、正明はいくつものランドセルを担がされていた。@
+` They were forcing Massaki to carry a multitude of backpacks on their way fom from school.`@
+;　後に背負い、前にも背負い、両腕に通し、肩にも担いで。\
+` He had them on his back, on his front, in both hands, and on both shoulders.`\
 
 
 ;ld r,YOS_D1,22
 
 ld r,YOS_D3a,80
 
-　重さ以上に、バランスが不安定で、今にも落としてしまいそうだった。@
-　しかも彼らは一つでも落とせば許さないと囃し立てる。\
-
+;　重さ以上に、バランスが不安定で、今にも落としてしまいそうだった。@
+` It wasn't so much the weight as his trouble at keeping balance was almost causing him to drop them.`@
+;　しかも彼らは一つでも落とせば許さないと囃し立てる。\
+` But they just kept mocking him, saying that they wouldn't let him off easy if he dropeed any.`\
 bg black,23
 bg ura7,23
 
-　彼らが手に持って振り回しているのは、正明のズボン。@……もしランドセルにわずかでも土を付けたら、ズボンをドブに捨てると言っている。\
-
+;　彼らが手に持って振り回しているのは、正明のズボン。@……もしランドセルにわずかでも土を付けたら、ズボンをドブに捨てると言っている。\
+` In their hands, they swung Masaaki's pants back and forth.`@`... If he even slightly let one of the touch the ground, they said they would throw them away.`\
 
 
 ;bg black,0
 ;bg ura7,24
 
-　……だから、正明はズボンを脱がされたみっともないパンツ姿で、@たくさんのランドセルを担がされていたのだ。@
-　重さより、そんな姿で歩かされる屈辱の方が、正明には耐え難かった。\
-
+;　……だから、正明はズボンを脱がされたみっともないパンツ姿で、@たくさんのランドセルを担がされていたのだ。@
+` ...And so Masaaki was walking pantless, his underwear shamefully displayed, `@`carrying multiple backpacks.`@
+;　重さより、そんな姿で歩かされる屈辱の方が、正明には耐え難かった。\
+` The weight of the bags was nothing next to the disgrace of being forced to walk dressed like that.`\
 me1v 30,50
 
-「ほら、早く！@　この電信柱まで来いよ！！」@
-「走れ吉川ッ、ダッシュダッシュ！！」@
-
+;「ほら、早く！@　この電信柱まで来いよ！！」@
+`"Hey, hurry up! `@`Make it to this telephone pole!!"`@
+;「走れ吉川ッ、ダッシュダッシュ！！」@
+`"Run, Yoshikawa! Sprint, sprint!!"`@
 ld c,YOS_D4a,24
 
-「そ、……そんな……無理………。」\
-
+;「そ、……そんな……無理………。」\
+`"I-... I... can't..."`\
 
 se1v 12,30
 quakex 1,100
 
-「走れ走れッ。@ズボン、ドブに漬けるぞコラ！」@
+;「走れ走れッ。@ズボン、ドブに漬けるぞコラ！」@
+`"Run, run. `@`Or we'll throw your pants in the gutter!"`@
 br
-　男子たちが、走れ走れと煽り、彼のお尻を叩く。@
-　それに急かされ、正明も逃げるように駆け出す。\
-
+;　男子たちが、走れ走れと煽り、彼のお尻を叩く。@
+`  The boys hit his butt, urging him to run,`@
+;　それに急かされ、正明も逃げるように駆け出す。\
+` That made Masaaki started speeding up.`\
 ld c,YOS_D3a,80
 
-「……や、やめてよ痛いよ…！@　あッ…、」@
-
+;「……や、やめてよ痛いよ…！@　あッ…、」@
+`"...S- stop, that hurts...! `@`Ah..."`@
 ld c,YOS_D10a,80
 
 cl c,25
 se1 13
 quakey 2,200
 br
-　わずかのバランスを崩した拍子に、ランドセルがどさどさっと落ちる。@
-　その内の一つが転げてドブに突っ込む。\
-
+;　わずかのバランスを崩した拍子に、ランドセルがどさどさっと落ちる。@
+` He slightly lost his balance for a moment, and all the backpacks came tumbling down.`@
+;　その内の一つが転げてドブに突っ込む。\
+` And one of them fell into the gutter.`\
 
 
 ;bg ura5,22
 bg black,24
 bg ura5,24
 
-「ふッ、ふざけんじゃねぇよッ！！@　俺のランドセル、ドブに落としてんじゃねーよ、このッ！！」@
-
+;「ふッ、ふざけんじゃねぇよッ！！@　俺のランドセル、ドブに落としてんじゃねーよ、このッ！！」@
+`"Wh- What the hell!! `@`Don't drop my backback in the gutter!`@
 se1 10
 quakex 1,100
 wait 300
 se2 12
 quakex 1,100
 
-「ぎゃッ！！@　い、痛いっ、……ぎゃ…！！」\
+;「ぎゃッ！！@　い、痛いっ、……ぎゃ…！！」\
+`"Ahh!! `@`Th- that hurts... aghh..!!"`\
 
-
-　そのランドセルの持ち主が、鬼のような形相で激高し、@正明のお尻をサッカーボールのように、何度も何度も本気で蹴りつける。@
+;　そのランドセルの持ち主が、鬼のような形相で激高し、@正明のお尻をサッカーボールのように、何度も何度も本気で蹴りつける。@
+` With an unbridled rage on his face, `@`the owner of that backback kicked at Masaaki's butt time after time with all his strength like it was a soccer ball.`@
 br
-　彼の白いパンツのお尻が、土汚れでみるみる汚れた。\
-
+;　彼の白いパンツのお尻が、土汚れでみるみる汚れた。\
+` His white underwear were quickly dirtied with mud.`\
 
 
 ld r,YOS_D2,26
 ld r,YOS_D4a,80
 
-「や、やめてよ……。@あはは……、痛いよ……、痛いよ……。」\
-
+;「や、やめてよ……。@あはは……、痛いよ……、痛いよ……。」\
+`"S- stop it... `@`Ahaha... that hurts... ouch..."`\
 
 se1 10
 quakex 1,100
 
-「テメェ、わざとだろッ！！@　わざとドブに落としやがっただろ！！」@
-「わざとだよ、こいつ絶対わざとだよ！」@
-
+;「テメェ、わざとだろッ！！@　わざとドブに落としやがっただろ！！」@
+`"You did that on purpose!! `@`You dropped my bag in the gutter on purpose damn it!!"`@
+;「わざとだよ、こいつ絶対わざとだよ！」@
+`"It was on purpse, he definitely did it on purpose!"`@
 se1 10
 quakey 1,100
 
-「わざとじゃねぇかよテメェ！！@　なめんなテメェ！！」\
-
+;「わざとじゃねぇかよテメェ！！@　なめんなテメェ！！」\
+`"It was on purpose wasn't it!! `@`Don't fuck around with me!!"`\
 ;se1 10
 
 bg black,22
 
 ;ld r,YOS_D3a,80
 
-「い、痛いよ、やめてよ……。@本当にわざとじゃないんだよ……、ごめんよごめんよ……。」@
-「本当にわざとじゃねぇのか？！@　絶対ぇかよ？！？！」@
-
+;「い、痛いよ、やめてよ……。@本当にわざとじゃないんだよ……、ごめんよごめんよ……。」@
+`"O, ow, stop... `@`I really didn't mean to... I'm sorry..."`@
+;「本当にわざとじゃねぇのか？！@　絶対ぇかよ？！？！」@
+`"Really?! `@`You bein' serious?!?!"`@
 ;ld r,YOS_D10a,80
 
-「ぜ、絶対だよ、絶対だよ……！！@　ごめん、ごめん、ごめん、ごめん…！！」\
+;「ぜ、絶対だよ、絶対だよ……！！@　ごめん、ごめん、ごめん、ごめん…！！」\
+`"R- really, seriously...!! `@`Sorry, sorry, sorry, sorry...!!"`\
 
 
-
-「……………そっかー。@じゃー許してやるかな。@俺たち友達だもんな。@友達は信じねーとなぁ。」@
-
+;「……………そっかー。@じゃー許してやるかな。@俺たち友達だもんな。@友達は信じねーとなぁ。」@
+`"......Okay then. `@`We'll forgive you. `@`We're friends after all, right? `@`You gotta trust your friends, right?"`@
 ;ld r,YOS_D4a,80
 
-「あ、ありがとう……。@はは、は……。」\
-
+;「あ、ありがとう……。@はは、は……。」\
+`"Th- thanks... `@`Haha, ha..."`\
 
 ;cl r,0
 bg ura7,22
 
-「でも、ランドセル落としたから罰ゲームだからな。@お前のズボン、ドブ漬けな。」@
-
+;「でも、ランドセル落としたから罰ゲームだからな。@お前のズボン、ドブ漬けな。」@
+`"But since you dropped my bag, you've gotta do a punishment game. `@`Time to dunk your pants in the gutter."`@
 
 ;ld c,YOS_D1,22
 ;cl r,0
 ;ld r,YOS_D4a,24
 ;ld c,YOS_D1,80
 
-「え、そ、そんな……、止めてよぉ……。」\
-
-「落としたら罰ゲームって約束だったろ。@俺たち友達だもんな。@友達は約束守んねぇとなー！」@
-
+;「え、そ、そんな……、止めてよぉ……。」\
+`"Huh, n-, no... stop that..."`\
+;「落としたら罰ゲームって約束だったろ。@俺たち友達だもんな。@友達は約束守んねぇとなー！」@
+`"We promised that if you dropped 'em we'd play a punishment game, right? `@`Aren't we friends? `@`Friends gotta uphold their promises!"`@
 
 
 ld r,YOS_D4a,24
 
-「そ、そんな……。」\
+;「そ、そんな……。」\
+`"Th- thats..."`\
 
-
-「え？　何？@　俺たち友達じゃねぇの？@　友達じゃねぇの？！@　え？　え？！@　俺はお前の友達じゃねぇのかよ！！@　友達だろッ、友達だろッ、ああッ？！？！」\
-
+;「え？　何？@　俺たち友達じゃねぇの？@　友達じゃねぇの？！@　え？　え？！@　俺はお前の友達じゃねぇのかよ！！@　友達だろッ、友達だろッ、ああッ？！？！」\
+`"Huh? What is it? `@`Are we not friends? `@`We're not friends?! `@`Huh? HUH?! `@`I'm your frriend, aren't I?!! `@`We're friends, friends, huh?!?!"`\
 
 
 se1 6
@@ -401,8 +436,8 @@ quakey 2,200
 
 ;ld c,YOS_D1,80
 
-　そう詰め寄りながら、正明のお尻を何度も蹴る。@友達に対してじゃれ付くように、とはお世辞にも言えないくらいの強さで、何度も何度も。\
-
+;　そう詰め寄りながら、正明のお尻を何度も蹴る。@友達に対してじゃれ付くように、とはお世辞にも言えないくらいの強さで、何度も何度も。\
+` While pressuring him for an answer, he kicked Masaaki's butt many more times. `@`Many, many times, with so much strength that it couldn't prove anything except that they weren't friends at all.`\
 
 
 se1 6
@@ -413,20 +448,23 @@ quakex 2,200
 
 ld r,YOS_D10a,80
 
-「痛いッ、とッ、友達だよ…！@　友達ッ、友達ッ……！！」@
-「……ほらな？！@　友達だろ？！@　じゃあ、約束守れるよな！@　守れるよな？！@　約束守んねぇなんて、友達じゃねぇもんな？！」\
-
+;「痛いッ、とッ、友達だよ…！@　友達ッ、友達ッ……！！」@
+`"Ouch, w-, we're friends...! `@`Friends, we're friends...!!"`@
+;「……ほらな？！@　友達だろ？！@　じゃあ、約束守れるよな！@　守れるよな？！@　約束守んねぇなんて、友達じゃねぇもんな？！」\
+`"...See?! `@`We're friends, right?! `@`Okay then, keep your promise! `@`You're gonna keep it, right?! `@`Don't friends keep promises?!"`\
 
 ld r,YOS_D12,80
 
-「う、うんッ。@ま、守れるよ、守れるよ……。」@
-「じゃあ、ほらッ。@約束守ってお前がやれよッ。」\
+;「う、うんッ。@ま、守れるよ、守れるよ……。」@
+`"Y, yeah. `@`I- I'll keep it, I'll keep it...."`@
+;「じゃあ、ほらッ。@約束守ってお前がやれよッ。」\
+`"Okay, here. `@`It's your promise, so you do it."`\
 
-
-　いじめっこは、取り上げていた彼のズボンを、ずいっと突き出す。@
+;　いじめっこは、取り上げていた彼のズボンを、ずいっと突き出す。@
+` The bully held the pants out to him.`@
 br
-　もちろん、返す為に渡すのではない。\
-
+;　もちろん、返す為に渡すのではない。\
+` He wasn't holding them out to politely return them of course.`\
 
 ;bg black,0
 ;bg ura7,22
@@ -439,22 +477,27 @@ bg black,22
 ;wait 500
 ;ld r,YOS_D1,22
 
-「約束だからなッ。@ランドセル落としたら、お前のズボンドブ漬けッ。@やるんだよ、ほら！」@
-「友達だから約束は絶対だもんなー！！」@
-「やれねーなら、お前友達じゃねぇぞ、ただの嘘吐きだぞー！！」@
-「友達じゃねぇなら、マジ手加減しねー。@嘘吐きはお仕置きしねぇとなー！」@
+;「約束だからなッ。@ランドセル落としたら、お前のズボンドブ漬けッ。@やるんだよ、ほら！」@
+`"It's a promise right? `@`If you drop our bags, your pants have gotta get dunked. `@`Do it, now!"`@
+;「友達だから約束は絶対だもんなー！！」@
+`"We're friends so you gotta keep your promise!!"`@
+;「やれねーなら、お前友達じゃねぇぞ、ただの嘘吐きだぞー！！」@
+`"If you don't do it, you're not our friend, just a liar!!"`@
+;「友達じゃねぇなら、マジ手加減しねー。@嘘吐きはお仕置きしねぇとなー！」@
+`"If you're not our friend, we're not gonna go easy on you. `@`Liars need to be punished!"`@
 br
-　いじめっこたちが、凄みながら詰め寄る。\
-
+;　いじめっこたちが、凄みながら詰め寄る。\
+` The bullies drew closer, threatening him.`\
 
 fede 1,1000
 E_B
 
 ;ld r,YOS_D1,80
 
-　……正明に、それを断ることなど、出来るはずもない。@
-　彼は結局、いじめっこたちに囃し立てられる中、自分のズボンを自らの手で、ドブの中に浸さなければならなかった……。\
-
+;　……正明に、それを断ることなど、出来るはずもない。@
+` ...There's no way Masaaki could refuse them.`@
+;　彼は結局、いじめっこたちに囃し立てられる中、自分のズボンを自らの手で、ドブの中に浸さなければならなかった……。\
+` In the end, with the accompaniment of the bully's jeers, he had to dunk his own pants in the gutter...`\
 
 
 ;bg black,22
@@ -470,14 +513,15 @@ bg ie_01u,22
 
 bgm1 14
 
-　家で母親に、どうしてそんなに汚してしまったのかと怒られた。@
+;　家で母親に、どうしてそんなに汚してしまったのかと怒られた。@
+` When he got home his mother got mad at him, adking how he got his pants so dirty.`@
 br
-　自分がいじめられていると認めたくない正明は、@友達とふざけていて、つい汚してしまったと言い訳するのだった。\
-
+;　自分がいじめられていると認めたくない正明は、@友達とふざけていて、つい汚してしまったと言い訳するのだった。\
+` Not wanting to admit that he was being bullied, `@`Masaaki said that he was messing around with his friends and he got them dirty.`\
 bg black,22
 
-　……こういうことは、これが初めてではない。\
-
+;　……こういうことは、これが初めてではない。\
+` ...This wasn't the first time this had happened.`\
 
 ;bg ie_02u,22
 ;ld r,YOS_D1,22
@@ -485,8 +529,8 @@ bg black,22
 bg ie_02u,0
 ld r,YOS_D10n,22
 
-　自分の部屋に戻り、ランドセルを下ろした彼は、惨めな気持ちでいっぱいになった。\
-
+;　自分の部屋に戻り、ランドセルを下ろした彼は、惨めな気持ちでいっぱいになった。\
+` He went up to his room, set down his backpack and sat, miserable.`\
 
 ;ld r,YOS_D1,80
 ;se1 7
@@ -499,8 +543,8 @@ wait 500
 ;ld c,YOS_D1,80
 se2 10
 
-　そして、彼らが自分にそうしたように、枕を何度も何度も蹴り付けるのだった……。\
-
+;　そして、彼らが自分にそうしたように、枕を何度も何度も蹴り付けるのだった……。\
+` And he threw down his pillow and kicked it over and over again, as if he was kicking himself...`\
 bg black,2
 fede 0,2000
 E_A
@@ -521,43 +565,48 @@ wait 1000
 ld r,YUK_D1,24
 ld r,YUK_i3,80
 
-「あんたたちっ。@また吉川くんをいじめてんじゃないでしょうねっ。」@
+;「あんたたちっ。@また吉川くんをいじめてんじゃないでしょうねっ。」@
+`"Hey! `@`You guys aren't bullying Yoshikawa-kun again, are you?"`@
 ;＜由香里
-「いじめてなんかねーよ！！@　なぁ？！」@
-
+;「いじめてなんかねーよ！！@　なぁ？！」@
+`"We're not bullying him!! `@`Right, buddy?!"`@
 ld l,YOS_D3,22
 
-「う、……うん。」\
+;「う、……うん。」\
+`"y-... yeah."`\
 ;＜正明
 
 
 ld r,YUK_i3a,80
 
-「いじめてるじゃない！@　何で、そんな何人もで寄って集って吉川くんを取り囲んでるのよ…！」@
+;「いじめてるじゃない！@　何で、そんな何人もで寄って集って吉川くんを取り囲んでるのよ…！」@
+`"If you're not bullying him! `@`Then why are so many of you crowding around him...!?"`@
 ;＜由香里
 br
-　今日も正明は、いじめっこたちに囲まれ、いじめられている。\
+;　今日も正明は、いじめっこたちに囲まれ、いじめられている。\
+` Today as well, Masaaki was being surrounded and bullied.`\
 
 
+;　彼らが言うには、遊んでいるだけ、からかっているだけらしい。@
+` According to them, they were justing hanging out and teasing him.`@
+;　しかし、正明にとっても由香里にとっても、それは明白ないじめに他ならなかった。\
+` But it was incredibly obvious to both Masaaki and Yukari that he was being outright bullied.`\
 
-　彼らが言うには、遊んでいるだけ、からかっているだけらしい。@
-　しかし、正明にとっても由香里にとっても、それは明白ないじめに他ならなかった。\
 
-
-
-「ほらッ、吉川も言ってやれよ！@　俺たちは仲良く遊んでるんだから放っとけって言ってやれよ！」@
-「俺たちは友達だもんなー！@　なあ！！」\
-
+;「ほらッ、吉川も言ってやれよ！@　俺たちは仲良く遊んでるんだから放っとけって言ってやれよ！」@
+`"Hey, Yoshikawa, you tell her too! `@`We're just good friends hanging out, and she needs to leave us alone!"`@
+;「俺たちは友達だもんなー！@　なあ！！」\
+`"We're friends! `@`Right?!!"`\
 ld l,YOS_D3a,80
 
-「……………ぅ、……うん……。」\
-
+;「……………ぅ、……うん……。」\
+`"......y-... yeah..."`\
 
 cl r,0
 ld c,YUK_i2,24
 
-「吉川くんっ、おいでっ。」\
-
+;「吉川くんっ、おいでっ。」\
+`Yoshikawa-kun, come here."`\
 ;cl l,0
 ;cl r,23
 ;bg black,23
@@ -565,10 +614,11 @@ ld c,YUK_i2,24
 
 cl a,23
 
-　由香里は強引に正明の腕を掴むと、教室の外へ連れ出す。@
+;　由香里は強引に正明の腕を掴むと、教室の外へ連れ出す。@
+` Yukari grabbed Masaaki on the arm, and forcibly pulled him outside the classroom.`@
 br
-　いじめっこたちはそれを、あの二人付き合ってるぞーヒューヒュー！@　などと言って、囃し立てていた……。\
-
+;　いじめっこたちはそれを、あの二人付き合ってるぞーヒューヒュー！@　などと言って、囃し立てていた……。\
+` The bullies poked fun at him for that.... `@`With mocking exclamations of 'they're going out!' and whistling.`\
 
 ;bg kyou_04,23
 ;ld r,YUK_D1,0
@@ -580,40 +630,42 @@ ld r,YUK_i2,0
 ld c,YOS_D3a,23
 
 
-　廊下に連れ出されると、正明は由香里の手を、少し乱暴に振り払った。\
-
+;　廊下に連れ出されると、正明は由香里の手を、少し乱暴に振り払った。\
+` Once out in the hallway, Masaaki angerly pulled his arm out of Yukari's hand.`\
 
 
 cl c,0
 ld l,YOS_D12,24
 
-「………な、何だよ、榊……。@離せよ……。」@
-
+;「………な、何だよ、榊……。@離せよ……。」@
+`"...w- what do you want, Sakaki.... `@`Let go of me..."`@
 ld r,YUK_i3a,80
 
-「何だよじゃないでしょッ。@あんな意地悪な人たちが友達なの？！@　友達ってあんな意地悪なことをする人たちなの？@　違うでしょ？！」\
-
+;「何だよじゃないでしょッ。@あんな意地悪な人たちが友達なの？！@　友達ってあんな意地悪なことをする人たちなの？@　違うでしょ？！」\
+`"Is everything really fine? `@`Are those mean kids really your friends?! `@`Would friends really do such mean things to do? `@`Of course not, right?!"`\
 
 
 ld l,YOS_D10a,80
 
-「そ、……そんなことねぇよ……。」@
-
+;「そ、……そんなことねぇよ……。」@
+`"I-... It's not like that..."`@
 ld r,YUK_i3,80
 
-「あれがいじめじゃないって言うの？！」\
-
+;「あれがいじめじゃないって言うの？！」\
+`"Are you telling me that isn't bullying?!"`\
 ld l,YOS_D10,80
 
 wait 1000
 
 ld l,YOS_D8a,80
 
-「……いじめじゃねぇよ！@　ふ、……ふざけてるだけだよ…。」@
+;「……いじめじゃねぇよ！@　ふ、……ふざけてるだけだよ…。」@
+`"...It's not bullying! `@`P-... Piss off..."`@
 br
-　自分がいじめられているなんて、認めたくない。@
-　……本当はわかっているのに、それを認めない虚勢を張ってしまう。\
-
+;　自分がいじめられているなんて、認めたくない。@
+` He didn't want to accept the fact that he was being bullied.`@
+;　……本当はわかっているのに、それを認めない虚勢を張ってしまう。\
+` ...He knew he was being bullied, but he refused to admit it.`\
 
 ;bg black,22
 ;mono 2
@@ -621,13 +673,15 @@ br
 
 bg black,22
 
-　いじめられてることを認めない限り、自分はいじめられっこじゃない。@ただのいじられキャラなんだ。@
+;　いじめられてることを認めない限り、自分はいじめられっこじゃない。@ただのいじられキャラなんだ。@
+` If he didn't admit he was being bullied then he wasn't. `@`He was just the kind of person people liked to play around with and tease.`@
 br
-　……そう信じることだけが、彼を支える最後の拠り所だった。\
-
+;　……そう信じることだけが、彼を支える最後の拠り所だった。\
+` ...Believing that was the last resort he had.`\
 ;ld r,YUK_D1,80
 
-　もちろん、由香里もわかっている。@
+;　もちろん、由香里もわかっている。@
+` Of course, Yukari knew that as well.`@
 　それこそが彼の心の強さだし、異性に対して弱みを見せたくない男心も理解できる。@
 br
 　しかし、それではいじめはますますエスカレートするだけだ。\
