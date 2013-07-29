@@ -2484,28 +2484,29 @@ ld c,SHU_D4,80
 `"Thanks for saving me earlier."`@
 ld r,HIG_D8,22
 
-「…………咄嗟にやってしまっただけよ。」@
-
+;「…………咄嗟にやってしまっただけよ。」@
+`"...It was just on a whim."`@
 ld c,SHU_D1,80
 
-「僕をいじめようとする彼らに対して。@怒りの感情を覚えてくれたんだね。」\
-
+;「僕をいじめようとする彼らに対して。@怒りの感情を覚えてくれたんだね。」\
+`"When you tried to fight off my bullies,`@`did that make you feel anger?"`\
 ;wait 500
 ld r,HIG_D9,80
 
-「………………怒……り……。」@
+;「………………怒……り……。」@
+`".....Anger?"`@
 br
-　それが、……あの時の、心がぎゅうっと締め付けられて、喉元まで這い上がってくるような感情の、名前。\
-
+;　それが、……あの時の、心がぎゅうっと締め付けられて、喉元まで這い上がってくるような感情の、名前。\
+` That was the feeling at that time of my heart tightening as if it was going to rise up out my throat.`\
 cl c,0
 ld l,SHU_D3,24
 
-「その怒りの感情の底には。@……僕のことを助けたいって感情があったんだよね。@それが、僕には見えてた。@それが嬉しかった。@……だから、ちょっといじめられかけたけれど、全然辛くなかったんだよ。」\
-
+;「その怒りの感情の底には。@……僕のことを助けたいって感情があったんだよね。@それが、僕には見えてた。@それが嬉しかった。@……だから、ちょっといじめられかけたけれど、全然辛くなかったんだよ。」\
+`"At the bottom of that feeling of anger,`@`...was a desire to help me, right?`@`I can see that.`@`That gladdens me.`@`So, I may have been bullied a bit, but it wasn't painful at all."`\
 ld r,HIG_D10,80
 
-「………………………………。」\
-
+;「………………………………。」\
+`"..............."`\
 bg black,2
 
 fede 0,2000
@@ -2516,23 +2517,27 @@ bg sadou_04,22
 
 me1v 16,50
 
-　校舎の一階。@その一番奥にある茶道室。@
+;　校舎の一階。@その一番奥にある茶道室。@
+` School building first floor.`@`The tea room at the far back .`@
 br
 　生徒の個性を重んじることを方針にしているこの学校では、部活動に特に力を入れており、@このように普通の学校では珍しい教室も多数存在している。\
 
-　だが、今この茶道室には、その厳かで静粛な雰囲気とは不釣り合いな生徒たちが座り込んでいた。@
+;　だが、今この茶道室には、その厳かで静粛な雰囲気とは不釣り合いな生徒たちが座り込んでいた。@
+` However, now this tea room was filled with students sitting in a solemn, quiet atmosphere.`@
 br
-　あの、秋一を執拗にいじめていた三人組だ。\
-
+;　あの、秋一を執拗にいじめていた三人組だ。\
+` Including the trio that had bullied Shuuichi relentlessly.`\
 bg black,22
 bg sadou_03,22
 
-「何だったんだろうな、……さっきの。」@
-「いつまでビビってんだよ。@たまたま強い風が吹いたってだけじゃん。」\
-
-「そうだよな……。@ただの風だよな。」@
-「当たり前だろ。@風じゃなきゃ何だってんだよ。@くだらねぇ。」\
-
+;「何だったんだろうな、……さっきの。」@
+`"What was that, just now?"`@
+;「いつまでビビってんだよ。@たまたま強い風が吹いたってだけじゃん。」\
+`"You're always so nervous.`@`It was just a strong breeze, that's all."`\
+;「そうだよな……。@ただの風だよな。」@
+`"Yep...`@`Just the wind."`@
+;「当たり前だろ。@風じゃなきゃ何だってんだよ。@くだらねぇ。」\
+`"Obviously.`@`What else could it be?`@`Stupid."`\
 mov %SMI_Isyou,1
 
 E_A
@@ -2544,29 +2549,33 @@ ld r,SMI_D1,2
 
 bgm1 18
 
-　その時、入口の襖がすぅっと開き、ひとりの少女が現れる……。@
+;　その時、入口の襖がすぅっと開き、ひとりの少女が現れる……。@
+` Just then, the entrance doors opened with a swish, and one girl stood in the doorway...`@
 br
-　その少女は、………人ならざる者。@
-　しかし、彼らには人間のクラスメートに見えているようだった。\
-
+;　その少女は、………人ならざる者。@
+` That girl was not a human.`@
+;　しかし、彼らには人間のクラスメートに見えているようだった。\
+` But to them she looked like one of their human classmates.`\
 ld r,SMI_D6,80
 
 「どうだったみんな？@　今日も玲子の仕返ししてくれた？」@
 ;＜スミレ私服
 br
 　清澄玲子と名乗る彼女の正体は、……夕闇のスミレ。@
-　彼女は秋一のクラスに入り込んでいたのだ。\
-
-「もちろんだよ、玲子ちゃん。@……なぁ？」@
-「ああ。@昨日よりボッコボコにしてやったよ！」@
+;　彼女は秋一のクラスに入り込んでいたのだ。\
+` She had entered Shuuichi's class.`\
+;「もちろんだよ、玲子ちゃん。@……なぁ？」@
+`"Of course, Reiko-chan.`@` Right?"`@
+;「ああ。@昨日よりボッコボコにしてやったよ！」@
+`"Yeah.`@`I'm more worn out that yesterday."`@
 「秋一の野郎、ざまぁみやがれってんだ…！」\
 
 cl r,0
 ld c,SMI_D2,24
 
 「……そう。@でも玲子、心配……。@昨日もみんなが懲らしめてくれたのに、朝来たらまた上履き隠されてたし……。」@
-「え、そうなの？！」\
-
+;「え、そうなの？！」\
+`"Ah, really?!"`\
 ld c,SMI_D1a,80
 
 「うん……。@下駄箱の中になかったから、探したんだけど見つからなくて……。@そしたら秋一くんが焼却炉の中に捨てようとしてたのを見ちゃったの……。」\
