@@ -682,21 +682,24 @@ br
 
 ;　もちろん、由香里もわかっている。@
 ` Of course, Yukari knew that as well.`@
-　それこそが彼の心の強さだし、異性に対して弱みを見せたくない男心も理解できる。@
+;　それこそが彼の心の強さだし、異性に対して弱みを見せたくない男心も理解できる。@
+` She knew it was part of his male pride to not want to let himself be seen as weak by someone of the opposite sex.`@
 br
-　しかし、それではいじめはますますエスカレートするだけだ。\
-
+;　しかし、それではいじめはますますエスカレートするだけだ。\
+` But because of that, his bullying has only gotten worse and worse.`\
 ;bg black,0
 ;mono 0
 ;bg e010,2
 
 bg rouka_03,22
 
-　今のままでは、いじめっこたちは本気で、@自分たちのしているそれをいじめじゃないなどと信じてしまう。@
-　犠牲者の彼が、いじめだと認めないのをいいことに、@これはおちょくって遊んでいるだけでいじめではないと、半ば本気で思っている。@
+;　今のままでは、いじめっこたちは本気で、@自分たちのしているそれをいじめじゃないなどと信じてしまう。@
+` As things are now, `@`the bullies really don't believe that what they're doing is bullying.`@
+;　犠牲者の彼が、いじめだと認めないのをいいことに、@これはおちょくって遊んでいるだけでいじめではないと、半ば本気で思っている。@
+` Even he as the victim, by not being able to admit he's being bullied, `@`he's halfway convinced himself that this is really just playful banter with friends.`@
 br
-　いじめに良し悪しなどないけれど、それを自覚しないいじめは陰湿だと由香里は思っていた。\
-
+;　いじめに良し悪しなどないけれど、それを自覚しないいじめは陰湿だと由香里は思っていた。\
+` There's no preferable way to be bullied, they're all equally horrid, but still, Yukari felt that being bullied like that without even realizing it is particularly awful.`\
 
 
 ;bg black,22
@@ -711,36 +714,37 @@ br
 
 ld l,YUK_i1,23
 
-「こんなので、本当に吉川くんは楽しいの？」@
-
+;「こんなので、本当に吉川くんは楽しいの？」@
+`"Are you really having fun like this, Yoshikawa-kun?"`@
 ;ld l,YOS_D1,80
 ld r,YOS_D8a,24
 
-「………た、……楽しいよ……。」\
-
+;「………た、……楽しいよ……。」\
+`"....Y-... yeah I'm having fun..."`\
 ;ld r,YUK_D1,80
 ld l,YUK_i1a,80
 
-「お願い。@本当のことを言ってよっ。」@
-
+;「お願い。@本当のことを言ってよっ。」@
+`"Please. `@`Tell me the truth"`@
 ;ld l,YOS_D1,80
 ld r,YOS_D3a,80
 
-「………………………。」\
-
+;「………………………。」\
+`"............."`\
 
 
 ;ld r,YUK_D1,80
 ld l,YUK_D1,80
 
-「私は吉川くんの味方だよ。@あなたを守ってあげるから。@……一緒にいじめを止めさせよう？」\
+;「私は吉川くんの味方だよ。@あなたを守ってあげるから。@……一緒にいじめを止めさせよう？」\
+`"I'm your ally, Yoshikawa-kun. `@`I'll protect you.`@`... so work together with me and help me stop bullying?"`\
 
 
-
-　正明にとって、自分の受けている仕打ちが「いじめ」であると自覚させられることは、@とてもナーバスなことだった。@
+;　正明にとって、自分の受けている仕打ちが「いじめ」であると自覚させられることは、@とてもナーバスなことだった。@
+` To Masaaki, the act of admitting that he was being 'bullied', `@`was the source of much nervousness for him.`@
 br
-　その一言に、逆上するかのように激高する。\
-
+;　その一言に、逆上するかのように激高する。\
+` With that one utterance, he was thrown into a frenzy-like rage.`\
 
 ;ld l,YOS_D1,80
 ;ld l,YOS_D1,80
@@ -754,10 +758,11 @@ ld l,YUK_i1a,1
 quakex 1,100
 mld c,YOS_D11,80
 
-「だッ、だからいじめられてなんかねぇって言ってんだろ？！@/
+;「だッ、だからいじめられてなんかねぇって言ってんだろ？！@/
+`"I-, I thought I told you I'm not being bullied!!`@/
 bgm1 8
-　俺は別に、だ、誰にもいじめられてなんかねーよ！！@　余計なお世話なんだよッ。@二度と俺に話し掛けんじゃねーよ！！@　迷惑なんだよッ！」\
-
+;　俺は別に、だ、誰にもいじめられてなんかねーよ！！@　余計なお世話なんだよッ。@二度と俺に話し掛けんじゃねーよ！！@　迷惑なんだよッ！」\
+` No one is-, is bullying me like that!! `@`This is none of your business. `@`Don't talk to me ever again!! `@`You're being a nuisance!"`\
 mcl c,23
 
 wait 1000
@@ -767,21 +772,23 @@ ld l,YUK_D3a,80
 
 me1v 24,50
 
-「…………………………。」\
-
+;「…………………………。」\
+`"............."`\
 
 bg black,22
 ;mono 1
 ;ld c,YUK_D1,22
 bg rouka_04,22
 
-　由香里にはわかっている。@心にもないことを言っていると、わかっている。@
-　しかし、手は二人が伸ばし合わないと届かない。@
-　由香里だけが手を伸ばしても、正明も手を伸ばさなければ届かないのだ。\
+;　由香里にはわかっている。@心にもないことを言っていると、わかっている。@
+` Yukari understood. `@`She understood that he didn't really mean what he had said.`@
+;　しかし、手は二人が伸ばし合わないと届かない。@
+` But the helping hand she extended was unable to reach.`@
+;　由香里だけが手を伸ばしても、正明も手を伸ばさなければ届かないのだ。\
+` Yukari couldn't lend a hand, unless Masaaki was willing to take it.`\
 
-
-　……それ以上を問答しても、彼の心には届かない。@由香里はそれ以上を諦め、大きなため息を漏らす。\
-
+;　……それ以上を問答しても、彼の心には届かない。@由香里はそれ以上を諦め、大きなため息を漏らす。\
+` ...Even if she tried to continue this discussion, he wasn't going to open up to her. `@`Yukari decided to drop it here, and let out a big sigh.`\
 
 bg black,22
 ;mono 0
@@ -798,30 +805,31 @@ bg kyou_04,22
 
 ld c,YUK_D1,22
 
-「……わかった。@じゃあ、余計なお節介はもうしないようにするけど。」@
-
+;「……わかった。@じゃあ、余計なお節介はもうしないようにするけど。」@
+`"...Okay. `@`I'll try not to meddle in your affairs any further."`@
 ;ld l,YOS_D1,80
 ld l,YOS_D8a,24
 
-「そうしてくれよ。@俺、もう行っていいか。@……お前なんかと一緒にいて、変な噂とかされたくねーし……。」\
-
+;「そうしてくれよ。@俺、もう行っていいか。@……お前なんかと一緒にいて、変な噂とかされたくねーし……。」\
+`"Good. `@`Can I go now?`@`... If I'm together with you for too long people are going to start weird rumors and stuff..."`\
 ;ld r,YUK_D1,80
 cl c,0
 ld r,YUK_w3,23
 
-「私、いつでも味方になるからね。@………本当に困ったら、いつでも相談してね。」@
-
+;「私、いつでも味方になるからね。@………本当に困ったら、いつでも相談してね。」@
+`"I can become your ally at an moment.`@`..... If you're ever really in trouble, you can come talk to me at any time."`@
 ;ld l,YOS_D1,80
 ld l,YOS_D10a,80
 
-「しねーよ、絶対ぇッ。」@
+;「しねーよ、絶対ぇッ。」@
+`"I wont, ever."`@
 br
 
 ;cl l,24
 cl l,24
 
-　正明はそう言い捨てると、踵を返す。\
-
+;　正明はそう言い捨てると、踵を返す。\
+` Masaaki spit out those words, and turned around on his heels.`\
 
 
 ;bg black,2
@@ -832,11 +840,13 @@ cl l,24
 bg black,24
 ;bg kyou_04,24
 
-　……彼女の言葉に、ほのかな温かさも覚えたが、@それを認めたら負けだという意地の方が勝っていた。@
+;　……彼女の言葉に、ほのかな温かさも覚えたが、@それを認めたら負けだという意地の方が勝っていた。@
+` ...He felt a bit of kindness in her words, `@`but if if he recognized it, it mean admitting defeat.`@
 br
-　彼はずかすかと足早に教室へ戻る。@
-　……ちくりと心が痛むのを感じながら。\
-
+;　彼はずかすかと足早に教室へ戻る。@
+` He hurried straight back to the classroom.`@
+;　……ちくりと心が痛むのを感じながら。\
+` ...While his heart styung with a small pain.`\
 bg black,2
 ;mono 0
 
@@ -849,24 +859,26 @@ wait 1000
 bg kyou_02,22
 ;ld c,YOS_D1,2
 
-　それ以来、由香里は教室で正明がいじめられっこに絡まれていても、@あまり口出しをしないようになった。\
+;　それ以来、由香里は教室で正明がいじめられっこに絡まれていても、@あまり口出しをしないようになった。\
+` Since that time, whenever Yukari saw Masaaki getting pushed around by the bullies in the classroom, `@`she never really interfered.`\
 
 
 
 
+;　見捨てたわけではない。@彼に、いじめは嫌だという気持ちが自発的に芽生えるのを待とうと思ったのだ。\
+` It's not that she had abandoned him. `@`She simply tried to wait until he voluntarily decided he had enough of the bullying.`\
 
-　見捨てたわけではない。@彼に、いじめは嫌だという気持ちが自発的に芽生えるのを待とうと思ったのだ。\
-
-
-　いじめられっこには、いじめられまいとする克己が不可欠。@それが由香里の持論だった。@
+;　いじめられっこには、いじめられまいとする克己が不可欠。@それが由香里の持論だった。@
+` Somone who is being bullied must have the resolve to stop that bullying themselves. `@`That was Yukari's theory.`@
 br
-　それがなければ、いくら第三者がいじめを止めたところで、その場限りにしかならない。\
+;　それがなければ、いくら第三者がいじめを止めたところで、その場限りにしかならない。\
+` If they don't have that resolve, even if a third-party steps in and stops the bullying, it will only be a temporary fix.`\
 
-
-　……もちろん、それがいじめられっこにとって、容易なことでないことは、@由香里も身に染みてわかっている。@
+;　……もちろん、それがいじめられっこにとって、容易なことでないことは、@由香里も身に染みてわかっている。@
+` ...Of course, gaining that resolve is no simple task to someone who is being bullied. `@`She knew that all too well.`@
 br
-　でも、その強さを彼に持って欲しい。\
-
+;　でも、その強さを彼に持って欲しい。\
+` But, she wanted him to have that strength.`\
 
 ;cl l,0
 ;bg kyou_03,22
@@ -875,10 +887,11 @@ bg black,22
 bg kyou_01,0
 ld r,YUK_D3,22
 
-　そう願い、彼が助けを求める時、@それがいつでも出来るよう、さりげなく側にいるように努めた。@
+;　そう願い、彼が助けを求める時、@それがいつでも出来るよう、さりげなく側にいるように努めた。@
+` When he did ask for ask from her, `@`she strived to stand by his side and help out as if she had been there all along.`@
 br
-　余りに酷いいじめの際にはさすがに割って入ったが、それ以上のお節介は避けた。\
-
+;　余りに酷いいじめの際にはさすがに割って入ったが、それ以上のお節介は避けた。\
+` If the bullying ever got to serious, she would force her way into the situation, but she avoided doing any further than that.`\
 cl r,22
 fede 1,1000
 E_B
@@ -886,14 +899,15 @@ E_B
 ;ld c,YUK_D1,22
 ;ld c,YUK_D1,80
 
-　しかし、割って入るべきないじめの頻度は次第に増えていった。@
+;　しかし、割って入るべきないじめの頻度は次第に増えていった。@
+` However, the number of occurrences in which she would have to force her way in to stop the bullying were increasing.`@
 br
-　先生も時には注意してくれるのだが、@いじめっこたちはへこたれないし、当の本人もそれをいじめとは認めない。\
+;　先生も時には注意してくれるのだが、@いじめっこたちはへこたれないし、当の本人もそれをいじめとは認めない。\
+` The teacher even issued a few warnings to them, `@`but the bullies never let up, and the boy being bullied never admitted it.`\
 
 
-
-　……吉川正明に対する状況は、ゆっくりとゆっくりと、深刻の度合いを増していくのだった……。\
-
+;　……吉川正明に対する状況は、ゆっくりとゆっくりと、深刻の度合いを増していくのだった……。\
+` ...Masaaki Yoshikawa's situation gradually became increasingly more serious...`\
 bg black,2
 
 fede 0,2000
@@ -909,30 +923,36 @@ bg kyou_02u,22
 
 
 
-　放課後の夕方。@
-　……ほとんどの生徒たちはすでに下校を終えている時間だった。@
+;　放課後の夕方。@
+` After school, at dusk.`@
+;　……ほとんどの生徒たちはすでに下校を終えている時間だった。@
+` ...It's past the time when most of the students should have already left to go home.`@
 br
-　校庭で遊んでいる子供たちは見えるが、校舎内に残っている子供はいないだろう。\
-
+;　校庭で遊んでいる子供たちは見えるが、校舎内に残っている子供はいないだろう。\
+` Some kids could still be seen playing in the schoolyard, but there shouldn't be any students still remaining inside the building.`\
 
 ld r,YOS_D3,24
 
-　正明はクラス委員長の仕事で残され、ようやくそれを終えて教室に戻ってきたところだった。@
+;　正明はクラス委員長の仕事で残され、ようやくそれを終えて教室に戻ってきたところだった。@
+` Masaaki was made to stay after class to do his work as the class representative. Once that was over he was about to return to the classroom.`@
 br
-　……彼がクラス委員長に、自発的に立候補したわけもない。@
-　いじめっこたちが画策し、投票で無理やり彼を推薦したのだ。\
-
-　クラス委員長など、生徒にとってみれば、仕事を押し付けられる面倒臭い役職でしかない。@
+;　……彼がクラス委員長に、自発的に立候補したわけもない。@
+` ...He didn't volunteer to be the class representative.`@
+;　いじめっこたちが画策し、投票で無理やり彼を推薦したのだ。\
+` The bullies had hatched a scheme and voted him into the position against his will.`\
+;　クラス委員長など、生徒にとってみれば、仕事を押し付けられる面倒臭い役職でしかない。@
+` From the point of view of the students, the class representative was nothing more than an annoyance that made them do extra work and bother them.`@
 br
-　当然、彼自身にもそれに相応しいカリスマはなく、@……名ばかりの、クラス委員長だった。\
-
+;　当然、彼自身にもそれに相応しいカリスマはなく、@……名ばかりの、クラス委員長だった。\
+` Naturally, he didn't have the charisma that the position required.`@`... and so he was the class representative in name only.`\
 ;ld r,YOS_D1,80
 cl r,22
 
-　……すっかり夕方になり、校内は静まり返っている。@
+;　……すっかり夕方になり、校内は静まり返っている。@
+` ...Now that it was dusk, the inside of the school had fallen completely silent.`@
 br
-　校庭で遊ぶ子供たちの声は、とても楽しそうなのに、@それがとても遠くに聞こえて、何だか悲しい気持ちだった。\
-
+;　校庭で遊ぶ子供たちの声は、とても楽しそうなのに、@それがとても遠くに聞こえて、何だか悲しい気持ちだった。\
+` The kids playings in the schoolyard sounded like they were having a lot of fun, `@`but it sounded so far off that it sounded somewhat sad.`\
 
 ;bg koutei_03,0
 ;ld r,YOS_D1,24
@@ -940,10 +960,11 @@ br
 bg black,23
 bg koutei_03,23
 
-　正明はベランダに出て、それを見下ろしていた。@
+;　正明はベランダに出て、それを見下ろしていた。@
+` Masaaki had gone out on the balcony, and was watching them play.`@
 br
-　その目は遠く、@……夕日を浴びて黄昏色に染まるその表情は、生気あるものとはとても言えなかった。\
-
+;　その目は遠く、@……夕日を浴びて黄昏色に染まるその表情は、生気あるものとはとても言えなかった。\
+` From this far away... `@`dyed in the colors of twilight, their expressions hardly seemed lifelike.`\
 
 fede 10,2000
 E_MA
@@ -951,11 +972,13 @@ bgm1 14
 
 ;ld r,YOS_D1,80
 
-　………はぁ………。@
+;　………はぁ………。@
+` .....Hah....`@
 br
-　正明は希薄なため息を漏らす。@
-　最近、自分の意識も希薄になってきた気がしていた。\
-
+;　正明は希薄なため息を漏らす。@
+` Masaaki let out a weak sigh.`@
+;　最近、自分の意識も希薄になってきた気がしていた。\
+` Lately, he felt like even his conciousness had grown weak.`\
 
 
 bg black,22
@@ -965,37 +988,44 @@ bg black,22
 ;mono 2
 ;bg different_spiral_1a,22
 
-　頭にはもやがいつも掛かっていて、@……昨日はおろか、今朝の朝食が何だったかさえ思い出すことが出来ない。@
+;　頭にはもやがいつも掛かっていて、@……昨日はおろか、今朝の朝食が何だったかさえ思い出すことが出来ない。@
+` His head felt like it was perpetually shrouded in a haze.`@`... He couldn't even remember what he had for brakefast yesterday, or even this morning for that matter.`@
 br
-　……それは彼の心を守るために、彼自身が無意識に行なっていることなのだろう。\
+;　……それは彼の心を守るために、彼自身が無意識に行なっていることなのだろう。\
+` ...That was probably his body's way of unconciously protecting his heart.`\
+;　日々、エスカレートするいじめ。@
+` Every day the bullying gets worse.`@
+;　でも、それをいじめとは決して認めたくない、自己矛盾。@
+` But paradoxically, he refused to admit it.`@
+;　それに彼を苦しめることがないよう、@……彼の頭に常にもやがかかり、記憶と苦しみを薄れさせているのだ。\
+` In order to prevent that suffering... `@`the haze took over his head, and faded both him memories and pain.`\
 
-　日々、エスカレートするいじめ。@
-　でも、それをいじめとは決して認めたくない、自己矛盾。@
-　それに彼を苦しめることがないよう、@……彼の頭に常にもやがかかり、記憶と苦しみを薄れさせているのだ。\
-
-
-　……だからといって、彼が気楽になれるわけでもない。@
+;　……だからといって、彼が気楽になれるわけでもない。@
+` ...That's no to say that he was at ease.`@
 br
-　麻酔をしたって、歯医者の激痛がゼロになるわけはないのだ。\
-
+;　麻酔をしたって、歯医者の激痛がゼロになるわけはないのだ。\
+` Even when given anesthesia at the detist's office, it doesn't reduce the pain to nothing.`\
 bg Different_spiral_1b,22
 
-　さりとて、その麻酔がなければ、@彼の心はとっくの昔に、粉々に砕けてしまっていただろう。@
+;　さりとて、その麻酔がなければ、@彼の心はとっくの昔に、粉々に砕けてしまっていただろう。@
+` That said, if he didn't have that anesthesia, `@`his heart would have been smashed to pieces long ago.`@
 br
-　歯医者なら、麻酔が切れる前に治療は終わる。@
-　……しかし、彼に対するいじめは永遠に終わらず、むしろ苛烈を極めるばかりだった。\
-
-　心の麻酔で、もう痛みを誤魔化せないなら。@
+;　歯医者なら、麻酔が切れる前に治療は終わる。@
+` When used in the dentist's office, the medical procedure is finished before the anesthesia wears off.`@
+;　……しかし、彼に対するいじめは永遠に終わらず、むしろ苛烈を極めるばかりだった。\
+` ...but the bullying he faced was rather severe, and never ended.`\
+;　心の麻酔で、もう痛みを誤魔化せないなら。@
+` The anesthesia of his heart could no longer evade that pain.`@
 br
-　……それ以上の劇薬で、痛みを消す他ない。\
-
+;　……それ以上の劇薬で、痛みを消す他ない。\
+` ...So he had no choice but to use an even stronger medicine to ease the pain.`\
 bg black,22
 bg koutei_03,22
 
 me1v 16,50
 
-　彼が眼下の校庭を見下ろして、@……そこから飛び降りる想像に解放感を覚えることになったとしても、無理もないことだった。\
-
+;　彼が眼下の校庭を見下ろして、@……そこから飛び降りる想像に解放感を覚えることになったとしても、無理もないことだった。\
+` As he looked down on the schoolyard beneath him... `@`it was only natural that he would consider the liberation that jumping from there would give him.`\
 
 
 
@@ -1007,13 +1037,16 @@ me1v 16,50
 
 ld r,YOS_D3,22
 
-「……………………………。」@
+;「……………………………。」@
+`"............."`@
 br
-　正明は眼下を見下ろす。@
+;　正明は眼下を見下ろす。@
+` Masaaki looked down at that ground.`@
 br
-　ここから飛び降りて、大空に溶けるように、消えてしまう想像。@
-　魂は空に溶け、……体は、大地にやわらかに包み込まれる。\
-
+;　ここから飛び降りて、大空に溶けるように、消えてしまう想像。@
+` He imagined jumping from the balcony, and melting away into the sky.`@
+;　魂は空に溶け、……体は、大地にやわらかに包み込まれる。\
+` His soul melting into the sky... as his body was softly enveloped by the earth.`\
 
 　不思議な想像だった。@
 br
