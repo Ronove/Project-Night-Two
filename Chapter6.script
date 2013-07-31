@@ -1047,56 +1047,65 @@ br
 ` He imagined jumping from the balcony, and melting away into the sky.`@
 ;　魂は空に溶け、……体は、大地にやわらかに包み込まれる。\
 ` His soul melting into the sky... as his body was softly enveloped by the earth.`\
-
-　不思議な想像だった。@
+; ----------------------------------------------------------------------------------------
+;　不思議な想像だった。@
+` It was a strange thought.`@
 br
-　かつては、こうして眼下を見下ろせば、高所の恐怖を感じることが出来たのに。\
+;　かつては、こうして眼下を見下ろせば、高所の恐怖を感じることが出来たのに。\
+` Before now, whenever he would look down from a high place, he would feel fear.`\
 
 
-
-　……今はまるで、@……ホテルでふかふかのベッドを前に、駆け出して飛び込みたいような、童心にも似た衝動を覚えていた。\
-
+;　……今はまるで、@……ホテルでふかふかのベッドを前に、駆け出して飛び込みたいような、童心にも似た衝動を覚えていた。\
+` ...But now... `@`he felt a childlike impulse like wanting to take a running dive into a soft hotel bed.`\
 
 
 ;ld c,YOS_D1,80
 ld r,YOS_D3a,80
 
-「…………ここから飛べば、…………………。」@
+;「…………ここから飛べば、…………………。」@
+`".....If I jump from here........"`@
 br
-　解放されるわ。@
+;　解放されるわ。@
+` You'll be liberated.`@
 br
-　……正明の心の中で、誰かが答えた。\
-
+;　……正明の心の中で、誰かが答えた。\
+` ...Within Masaaki's heart, someone answered.`\`\
 
 
 ;ld c,YOS_D1,22
 ld r,YOS_D3,80
 
-　そう。@解放される。@ここから飛べば、……全てから。@
+;　そう。@解放される。@ここから飛べば、……全てから。@
+` That's right. `@`If you jump from here, `@`you'll be liberated... from everything.`@
 br
-　解放って何だろう。\
-
+;　解放って何だろう。\
+` What does it mean to be liberated?`\
 bg black,22
 
-　……解放とは、永遠の安らぎよ。@もう、誰もあなたを苛めない。@あなたは永遠に、安らかに眠り続けることが出来るのよ……。\
+;　……解放とは、永遠の安らぎよ。@もう、誰もあなたを苛めない。@あなたは永遠に、安らかに眠り続けることが出来るのよ……。\
+` ...Liberation means eternal peace. `@`No one will ever torment you again. `@`You'll be able to sleep eternally and peacefully...`\
 
-
-　そう、心の中の誰かが答える。@
+;　そう、心の中の誰かが答える。@
+` Yes, someone answered within his heart.`@
 br
-　……それが本当なら、………彼にとって躊躇する理由など、何もない。\
-
+;　……それが本当なら、………彼にとって躊躇する理由など、何もない。\
+` ...If what they said was true... then he had no reason whatsoever to hesitate.`\
 bg Different_spiral_1a,22
 
 me2v 17,50
 
-　さぁ、………飛んでみて。@
-　それであなたは安らぎを得られるわ。@
+;　さぁ、………飛んでみて。@
+` Come.... jump now.`@
+;　それであなたは安らぎを得られるわ。@
+` And grant yourself peace.`@
 br
-　……怖くないわ。@……ほら、私はここにいる。@
-　あなたを、……受け止めてあげるから……。@
+;　……怖くないわ。@……ほら、私はここにいる。@
+` ...Don't be afraid.`@`... I'm right here.`@
+;　あなたを、……受け止めてあげるから……。@
+` I... will catch you...`@
 br
-　くす、くすくすくすくすくすくす……。\
-
+;　くす、くすくすくすくすくすくす……。\
+` Heehee, teeheehee...`\
 textoff
 fede 0,1000
 
@@ -1110,17 +1119,21 @@ wait 1000
 
 bgm1 8
 
-　その時、正明は多分、白昼夢を見た。@
-　それは不思議な不思議な、………そして美しい幻想。@
+;　その時、正明は多分、白昼夢を見た。@
+` Masaaki was probably having a daydream at that point.`@
+;　それは不思議な不思議な、………そして美しい幻想。@
+` It was a strange, stange... as well as beautiful illusion.`@
 br
-　眼下に、ゆっくりと赤い花の絨毯が広がっていく、美しい幻想。\
+;　眼下に、ゆっくりと赤い花の絨毯が広がっていく、美しい幻想。\
+` On the ground below, he saw a beautiful illusion of a carpet of red flowers spreading out before him.`\
 
-
-　……それは、彼岸花の花園。@
-　血のように赤くて儚い彼岸花が、ゆっくりと咲きながら広がっていくのだ。@
+;　……それは、彼岸花の花園。@
+` ...It was a garden of Higanbana.`@
+;　血のように赤くて儚い彼岸花が、ゆっくりと咲きながら広がっていくのだ。@
+` A fleeting carpet of blood red Higanbana, slowing blooming and spreading outwards.`@
 br
-　その中心に、………黒い髪の少女が立って、こっちを見上げているのだ。\
-
+;　その中心に、………黒い髪の少女が立って、こっちを見上げているのだ。\
+` In the center of that flower garden..... stood a black haired girl, looking up at me.`\
 
 
 ld c,HIG_w3,42
@@ -1129,34 +1142,38 @@ wait 1000
 
 ld c,HIG_D2,22
 
-「おいで。正明。@……私が受け止めてあげるから。@くすくすくす……。」@
+;「おいで。正明。@……私が受け止めてあげるから。@くすくすくす……。」@
+`"Come on, Masaaki.`@`... I'll catch you. `@`Teeheehee..."`@
 br
 
 ;ld c,HIG_D1,80
 
-　少女は優雅に微笑みながら、両手をこちらに差し出した。\
-
-　……飛べば、……無残なこの現実から逃れられる。@
+;　少女は優雅に微笑みながら、両手をこちらに差し出した。\
+` The girl gracefully smiled and extended both her arms this way.`\
+;　……飛べば、……無残なこの現実から逃れられる。@
+` ...If I jump... I can escape from this miserable reality.`@
 br
-　そしてあの儚くも美しい、彼岸花の世界へ迎えられるのだ。\
-
-　もう、学校もいじめもない。@
+;　そしてあの儚くも美しい、彼岸花の世界へ迎えられるのだ。\
+` And be welcomed to that fleeting, beautiful world of Higanbana.`\
+;　もう、学校もいじめもない。@
+` There will be no more school, no more bullying.`@
 br
-　罰ゲームと称して痛いことをされることもないし。@
-　友達だからと、恥ずかしいことを強要されることもない。\
-
+;　罰ゲームと称して痛いことをされることもないし。@
+` There would be no more pain in the form of punishment games.`@
+;　友達だからと、恥ずかしいことを強要されることもない。\
+` There would be no more being force to do embarrassing things under the flase pretense of being friends.`\
 cl c,0
 ld l,HIG_D3,24
 ;ld l,HIG_D1,80
 
-「……何を躊躇うの？@　……あなたにとって、そちらの世界に、何の希望があるというの……？」@
-
+;「……何を躊躇うの？@　……あなたにとって、そちらの世界に、何の希望があるというの……？」@
+`"...Why do you hesitate?`@`... What hope is left for you in this world...?"`@
 br
 ;d r,YOS_D1,80
 ld r,YOS_D3,22
 
-　……あるもんか。@この世界に、希望なんてあるものか。\
-
+;　……あるもんか。@この世界に、希望なんてあるものか。\
+` ...Do I have any? `@`Do I have any hope left in this world?`\
 
 
 
@@ -1166,8 +1183,8 @@ cl l,0
 mld c,HIG_w4,3
 
 
-「ならばおいでなさい。@この彼岸花の世界へ。@……さぁ、おいでなさい。@……あなたが自分で決めて、自分でここへ来るのよ。@……あなたの腕で、脚で。@……そのベランダを乗り越えなさい……。」\
-
+;「ならばおいでなさい。@この彼岸花の世界へ。@……さぁ、おいでなさい。@……あなたが自分で決めて、自分でここへ来るのよ。@……あなたの腕で、脚で。@……そのベランダを乗り越えなさい……。」\
+`"In that case, come to me. `@`To this world of Higanbana.`@`... Come here to me.`@`... Make your own decision, and come to me on your own.`@`... With your own arms, and your own legs.`@`... climb off that balcony..."`\
 textoff
 
 se1 84
@@ -1185,25 +1202,27 @@ wait 1000
 
 bg e013,2
 
-　正明の瞳にはもう、……一面に咲き乱れる彼岸花しか映っていない。@
+;　正明の瞳にはもう、……一面に咲き乱れる彼岸花しか映っていない。@
+` By now... that field of blooming Higanbana was the only thing reflected in Masaaki's eyes.`@
 br
-　彼はゆっくりと……、ベランダの柵に這い上がろうと脚を上げる……。\
-
+;　彼はゆっくりと……、ベランダの柵に這い上がろうと脚を上げる……。\
+` Slowly... he crept up to the railing of the balcony and raised his leg...`\
 E_A
 se1 12
 
 bg white,1
 quakey 1,200
 
-「待って…！！@　死んで咲く花なんて、ありはしませんっ。」\
-
+;「待って…！！@　死んで咲く花なんて、ありはしませんっ。」\
+`"Wait...!! `@`There are no flowers that bloom in death."`\
 bg black,22
 
 bgm1 27
 
-　突然、別の声がした。@
-　その声には叱り付けるような厳しさがあり、正明は我に返った。\
-
+;　突然、別の声がした。@
+` Suddenly, another voice yelled out.`@
+;　その声には叱り付けるような厳しさがあり、正明は我に返った。\
+` That harsh scolding voice brought Masaaki back to his senses.`\
 
 
 
@@ -1221,91 +1240,98 @@ ld c,HIG_D4,22
 
 ld c,HIG_w3,80
 
-「………また毬枝に見つかったわ。@あんたがお菓子を探しに行ってる間に、目を付けてた子でもいただいちゃおうと思ってたのに。」\
-
+;「………また毬枝に見つかったわ。@あんたがお菓子を探しに行ってる間に、目を付けてた子でもいただいちゃおうと思ってたのに。」\
+`"....So I've been found out by Marie again. `@`While you were out looking for sweets, I thought I would try helping myself to a kid I've had my eyes on for a while now."`\
 
 
 ld r,MAR_i1,22
 
-「お菓子は見つけてきました。@今日はモナカです。@ですから、その狩りを止めて下さい。」@
+;「お菓子は見つけてきました。@今日はモナカです。@ですから、その狩りを止めて下さい。」@
+`"I found some sweets. `@`Today we're having monaka. `@`So please stop this hunt."`@
+; ^^^ Note To Editor: Monaka - http://en.wikipedia.org/wiki/Monaka
 br
-　彼岸花の畑には、いつの間にか眼鏡の少女の姿もあった。\
-
+;　彼岸花の畑には、いつの間にか眼鏡の少女の姿もあった。\
+` At some point a second girl appeared in the field of higanbana, this one wearing glasses.`\
 
 
 ;mld l,HIG_D1,80
 cl c,0
 ld l,HIG_D5,24
 
-「嫌よ。@それに狩りなんてとんでもない。@私は誘っているだけよ。@……彼の魂がより安らぐ世界があると、教えてあげているだけよ。」\
-
+;「嫌よ。@それに狩りなんてとんでもない。@私は誘っているだけよ。@……彼の魂がより安らぐ世界があると、教えてあげているだけよ。」\
+`"I don't want to. `@`Besides this isn't even hunting. `@`I'm just inviting him.`@`... I'm just telling him about a world where his soul will be more at ease."`\
 
 cl r,0
 ld c,MAR_i4,24
 
-「……吉川くん。@考え直して下さい。@……生きていれば出来ることはたくさんあります。@でも、死んで出来ることなど、何一つありません。」\
-
+;「……吉川くん。@考え直して下さい。@……生きていれば出来ることはたくさんあります。@でも、死んで出来ることなど、何一つありません。」\
+`"...Yoshikawa-kun. `@`Please reconsider this.`@`... There is plenty of things you can do while still living. `@`But, when you're dead, there's not a single thing that you can do anymore."`\
 
 
 ;mld l,HIG_D1,80
 ld l,HIG_w2,80
 
-「生きて何が出来るの？@　何もないから、彼は苦しんでいるんだわ。」@
-
+;「生きて何が出来るの？@　何もないから、彼は苦しんでいるんだわ。」@
+`"What can he do while he's alive? `@`There's nothing, that's why he's suffering."`@
 ld c,MAR_i3,80
 
-「死んで何が出来るんです？@　死後に後悔して、苦しむだけですっ。」\
-
+;「死んで何が出来るんです？@　死後に後悔して、苦しむだけですっ。」\
+`"What can he do when he's dead? `@`After death there's ONLY regret and suffering."`\
 me1v 16,50
 
-　正明は何が何やらわからない。@
+;　正明は何が何やらわからない。@
+` Masaaki didn't know what to think.`@
 br
-　これは、……夢……？\
-
+;　これは、……夢……？\
+` Was this... a dream...?`\
 mbg black,22
 
-　見たこともない少女が二人も現れて、言い合いをしているのだ。@
+;　見たこともない少女が二人も現れて、言い合いをしているのだ。@
+` Two girls he had never seen before appeared out of nowhere and starting having a quarrel.`@
 br
-　しかし、彼女らが何を言っているのかはわかる。\
-
-　……死ねば、何もかもから解放されるだろう。@
+;　しかし、彼女らが何を言っているのかはわかる。\
+` But he had no idea what they were saying.`\
+;　……死ねば、何もかもから解放されるだろう。@
+` ...If he died, he would be liberated from everything.`@
 br
-　しかし、死んだらもう、何もすることは出来ない。\
-
+;　しかし、死んだらもう、何もすることは出来ない。\
+` But after he's dead, he can't do anything anymore.`\
 mcbg 22
 
 ld l,HIG_D2,80
 
-「彼にはもう、生きてしたいことなんて何もないのよ？」@
-
+;「彼にはもう、生きてしたいことなんて何もないのよ？」@
+`"What does he have to live for anymore? Nothing."`@
 cl c,0
 ld r,MAR_i1a,23
 
-「……そんなことないです！@　彼にだって夢や希望が！@　生きて成し遂げたいことが必ずあるはずです！@　吉川くんっ、それをどうか思い出して…！」\
-
+;「……そんなことないです！@　彼にだって夢や希望が！@　生きて成し遂げたいことが必ずあるはずです！@　吉川くんっ、それをどうか思い出して…！」\
+`"...That's not true! `@`Even he must have hopes and dreams! `@`Things that he still wants to accomplish in his life! `@`Yoshikawa-kun, please remember that...!"`\
 ;mld l,HIG_D1,80
 cl l,0
 mld c,HIG_D4,23
 
-「正明。@……あなたには生きて成し遂げたいことなんてあるの…？」@
-
-「……………ぅ……。」\
-
+;「正明。@……あなたには生きて成し遂げたいことなんてあるの…？」@
+`"Masaaki.`@`... Do you really have anything you want to accomplish...?"`@
+;「……………ぅ……。」\
+`".......uh..."`\
 mld c,HIG_w3,80
 
-「私はあなたを今日までずっと見てきたわ。@……あなたは日々、何かを積み上げてきたの？@　……私は知らない。@あなたはただ、流れに身を任せて、@水面に浮かぶ木の葉のように、ただただ流されてきただけよ。@……その結果、あなたは澱みに流れ込み、そのまま朽ちて消えようとしている。@あなたの現在はまさに、その結果の至極当然の末路じゃない。」\
-
+;「私はあなたを今日までずっと見てきたわ。@……あなたは日々、何かを積み上げてきたの？@　……私は知らない。@あなたはただ、流れに身を任せて、@水面に浮かぶ木の葉のように、ただただ流されてきただけよ。@……その結果、あなたは澱みに流れ込み、そのまま朽ちて消えようとしている。@あなたの現在はまさに、その結果の至極当然の末路じゃない。」\
+`"I've been watching you for a long time.`@`... Is there something that you have been working towards?`@`... I haven't seen it. `@`You have just given yourself up to the flow of life, `@`like a leaf on the surface of the water, just being swept along.`@`... And in the end you will become stagnant waste and rot away. `@`As you are now that is very likely the end you will meet."`\
 
 
 ;ld c,YOS_D1,80
 mcl c,0
 bg black,22
 
-　………言い返せない。@
+;　………言い返せない。@
+` ....He had no response.`@
 br
-　正明には今日まで、何の意志も使命も目的もない。@
-　彼がしてきたことはただ一つ。@……自分が受けているいじめを、そうだと頑なに認めなかったこと。@ただそれだけだ。\
-
+;　正明には今日まで、何の意志も使命も目的もない。@
+` Up until today, Masaaki has had no motive, mission or goal.`@
+;　彼がしてきたことはただ一つ。@……自分が受けているいじめを、そうだと頑なに認めなかったこと。@ただそれだけだ。\
+` There's only one thing he's been doing.`@`... refusing to admit that he's been bullied. `@`And that's it.`\
 
 
 ;mld l,HIG_D1,80
@@ -1317,56 +1343,62 @@ ld r,MAR_D3a,0
 mld c,HIG_w3,22
 mld c,HIG_w4,80
 
-「あなたがしたのは認めないことだけ。@……認めなければ、それはいじめじゃない。@だから、自分はいじめられてないんだ。@………それだけが、あなたが生きて成し遂げたことよ。@……それの何が、生きているということになるの？」\
-
+;「あなたがしたのは認めないことだけ。@……認めなければ、それはいじめじゃない。@だから、自分はいじめられてないんだ。@………それだけが、あなたが生きて成し遂げたことよ。@……それの何が、生きているということになるの？」\
+`"All you've done is deny.`@`... As long as you keep denying, then it's not bullying.`@` So, you're not really being bullied.`@`.... That is all you have accomplished.`@`... Can that really be called living?"`\
 
 
 ;ld c,YOS_D1,80
 
-　正明にとって、それは胸が痛くなるほどの正論だった。@
+;　正明にとって、それは胸が痛くなるほどの正論だった。@
+` Her reasoning was so strong that it brought a pain to Masaaki's chest.`@
 br
-　……彼がしたのは、心を閉ざして石になることだけ。@
-　石は人間じゃない。@それは生きていることにならないのだ。\
-
+;　……彼がしたのは、心を閉ざして石になることだけ。@
+` All he had done was shut his heart away in stone.`@
+;　石は人間じゃない。@それは生きていることにならないのだ。\
+` Humans are not stone. `@`That is no way to live.`\
 mcl c,0
 ld c,HIG_w4,0
 ld r,MAR_i4,80
 
-「彼岸花さん、言い過ぎですっ。」@
-
+;「彼岸花さん、言い過ぎですっ。」@
+`"Higanbana-san, you've said too much."`@
 ;mld l,HIG_D1,80
 cl c,0
 ld l,HIG_D1,24
 
-「図星じゃないの。@くすくすくすくす……。」\
-
+;「図星じゃないの。@くすくすくすくす……。」\
+`"But isn't it the truth? `@`Teeheehee..."`\
 ld r,MAR_i1a,80
 
-「確かに、今までの彼はそうだったかもしれません。@でも、生きている限り、これからもそうとは限りませんっ。@人は生きている限り、常に何かを試み、成し遂げることが出来るんですっ。@死ぬなんて短気は、それを全て投げ出すだけなんですっ。」\
-
+;「確かに、今までの彼はそうだったかもしれません。@でも、生きている限り、これからもそうとは限りませんっ。@人は生きている限り、常に何かを試み、成し遂げることが出来るんですっ。@死ぬなんて短気は、それを全て投げ出すだけなんですっ。」\
+`"He may have been living his life like that up until now. `@`But, that doesn't mean he has to live that was for the rest of his life. `@`As long as people are alive, they can constantly try and accomplish new things. `@`If you kill yourself on an impulse, you've thrown that all away."`\
 
 ;mcl l,0
 bg black,22
 ;bg e002,22
 
-　……生きている限り、出来ることはある。@
+;　……生きている限り、出来ることはある。@
+` ...As long as you're still alive there are things you can do.`@
 br
-　死ねば、……何も出来はしない。\
+;　死ねば、……何も出来はしない。\
+` When you die... you can't do anything.`\
 
-
-　思えばそれは、悲しくもあり、悔しくもあった。@
-　自殺に踏み切る勇気があるなら、……捨て身の覚悟で何かが出来るはずなのだ。\
-
+;　思えばそれは、悲しくもあり、悔しくもあった。@
+` Thinking of it that way is both sad and frustrating.`@
+;　自殺に踏み切る勇気があるなら、……捨て身の覚悟で何かが出来るはずなのだ。\
+` If you have the nerve to jump to your own death... then you have the resolve to risk your life.`\
 ;bg black,22
 mld c,YOS_D14,22
 ;mld c,YOS_D1,80
 
-　……自分を自殺に追い込むということは、……それは彼らが自分を殺したのと同じことじゃないか。@
+;　……自分を自殺に追い込むということは、……それは彼らが自分を殺したのと同じことじゃないか。@
+` ...Being driven to my own death... isn't that the same as being killed by those guys?`@
 br
-　なら、自分だけが殺されて堪るものか。@
+;　なら、自分だけが殺されて堪るものか。@
+` Either way, I die.`@
 br
-　同じ死ぬのでも、……せめて一矢報いてからじゃなきゃ、……悔し過ぎる……。\
-
+;　同じ死ぬのでも、……せめて一矢報いてからじゃなきゃ、……悔し過ぎる……。\
+` Even though I meet the same end... doing so without fighting back at all... it's just too frustrating...`\
 
 
 ;bg e013,22
@@ -1377,20 +1409,20 @@ br
 ld r,HIG_w3,22
 ;ld r,HIG_D1,80
 
-「………あら。@死ぬ気が薄れてきちゃったわ。@……毬枝のせいよ。@もう一息でぺろりといけたものを。」\
-
+;「………あら。@死ぬ気が薄れてきちゃったわ。@……毬枝のせいよ。@もう一息でぺろりといけたものを。」\
+`"....What's this. `@`Looks like he's losing the want to die.`@`... This is your fault, Marie. `@`Just one more push and I would have had him."`\
 
 
 ;ld r,MAR_D1,80
 ld l,MAR_i4,22
 
-「吉川くんっ。@死ぬ覚悟があるなら、死ぬ前にやれることなんていくらでもあるのっ。@だからお願い、勇気を出して…！」\
-
+;「吉川くんっ。@死ぬ覚悟があるなら、死ぬ前にやれることなんていくらでもあるのっ。@だからお願い、勇気を出して…！」\
+`"Yoshikawa-kun. `@`If you have the resolve to die, then before you do die there are many things you can do. `@`So please, show some courage...!"`\
 ;ld c,YOS_D1,80
 mld c,YOS_D13,80
 
-「…………勇気………。」\
-
+;「…………勇気………。」\
+`".....Courage......"`\
 
 
 ;ld r,MAR_D1,80
