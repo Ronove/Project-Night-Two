@@ -1047,7 +1047,7 @@ br
 ` He imagined jumping from the balcony, and melting away into the sky.`@
 ;　魂は空に溶け、……体は、大地にやわらかに包み込まれる。\
 ` His soul melting into the sky... as his body was softly enveloped by the earth.`\
-; ----------------------------------------------------------------------------------------
+
 ;　不思議な想像だった。@
 ` It was a strange thought.`@
 br
@@ -1395,7 +1395,7 @@ mld c,YOS_D14,22
 ` ...Being driven to my own death... isn't that the same as being killed by those guys?`@
 br
 ;　なら、自分だけが殺されて堪るものか。@
-` Either way, I die.`@
+` Then why should I be the only one to die.`@
 br
 ;　同じ死ぬのでも、……せめて一矢報いてからじゃなきゃ、……悔し過ぎる……。\
 ` Even though I meet the same end... doing so without fighting back at all... it's just too frustrating...`\
@@ -1428,19 +1428,20 @@ mld c,YOS_D13,80
 ;ld r,MAR_D1,80
 ld l,MAR_i1,80
 
-「諦めないで、みんなに相談してみてっ。@……先生やお父さんやお母さんや友達や……！」\
-
+;「諦めないで、みんなに相談してみてっ。@……先生やお父さんやお母さんや友達や……！」\
+`"Don't give up hope, try talking to everyone.`@`... To your teachers, your father, your mother, and your friends....!"`\
 
 ;ld c,YOS_D1,80
 mld c,YOS_D14,80
 se1v 12,30
 quakex 2,200
 
-「そ、………相談しても、誰も聞いてくれねぇよ……！」@
+;「そ、………相談しても、誰も聞いてくれねぇよ……！」@
+`"E-... Even if I talk, none of them will listen...!"`@
 br
 me2v 17,50
-　正明の心が、怒りと悲しみで震えた。\
-
+;　正明の心が、怒りと悲しみで震えた。\
+` Masaaki's heart trembled with anger and sorrow.`\
 
 
 ;mcl l,0
@@ -1453,11 +1454,13 @@ mono 1
 bg shokuin_01,22
 
 
-　先生にも相談したが、喧嘩両成敗みたいな扱いで、まったく庇ってくれなかった。@
-　両親も仕事のことで頭がいっぱい。@子供の喧嘩に親は出ない、みたいなことを言って、まったく相手にしてくれない。@
+;　先生にも相談したが、喧嘩両成敗みたいな扱いで、まったく庇ってくれなかった。@
+` He tried talking to his teachers, but they just treated him like he was too blame as well, and wouldn't protect him at all.`@
+;　両親も仕事のことで頭がいっぱい。@子供の喧嘩に親は出ない、みたいなことを言って、まったく相手にしてくれない。@
+` As for his parents, all they cared about was work. `@`They would always say somethinga bout parents not gettings involved in fights between children, and wouldn't help him at all.`@
 br
-　相談できるような友達なんていやしない…！\
-
+;　相談できるような友達なんていやしない…！\
+` And he didn't even have any friends that he could honestly talk to...!"`\
 ;ld c,YUK_D1,22
 bg black,22
 ld_p YUK_D1
@@ -1465,34 +1468,38 @@ lsp2 2,$ld_pass,400,480,200,200,0
 lsp2 3,$ld_pass2,400,480,200,200,0
 print 22
 
-　……その時、正明の脳裏にわずかに、由香里のことが過ぎった。@
+;　……その時、正明の脳裏にわずかに、由香里のことが過ぎった。@
+` ...And then, in the back of Masaaki's mind, he remembered Yukari.`@
 br
 
 csp2 -1
 print 22
 mono 0
 
-　しかし、すぐにぶるぶると頭を振る。\
-
+;　しかし、すぐにぶるぶると頭を振る。\
+` But he quickly shook the thought out of his head.`\
 ;quakex 2,400
 ;cl c,22
 ;bg black,0
 mono 2
 bg different_spiral_1a,22
 
-　ふざけんなよっ……。@俺はいじめられてなんかいないんだ……。@女なんかの助けなんかいるもんか…！@
+;　ふざけんなよっ……。@俺はいじめられてなんかいないんだ……。@女なんかの助けなんかいるもんか…！@
+` Screw that.... `@`I'm not being bullied... `@`I don't need a girl to help me...!`@
 br
-　あの女、いつもお節介ばかり焼きやがって…！@　お前は楽しいかもしれないが、女に庇われて、俺はいつも惨めな気持ちになるんだよッ！\
+;　あの女、いつもお節介ばかり焼きやがって…！@　お前は楽しいかもしれないが、女に庇われて、俺はいつも惨めな気持ちになるんだよッ！\
+` That girl is always meddling in people's business...! `@`It may be fun for you, but for me, being saved by a girl is miserable!`\
 
-
-　畜生、畜生ッ！@　どいつもこいつも俺のことを馬鹿にしやがって…！！@
+;　畜生、畜生ッ！@　どいつもこいつも俺のことを馬鹿にしやがって…！！@
+` Damn it, damn it! `@`everyone keeps looking down on me...!!`@
 br
-　これで俺がまんまと自殺したら、あいつら、何て言うんだ？\
+;　これで俺がまんまと自殺したら、あいつら、何て言うんだ？\
+` If I killed myself right now, what would they say?`\
 
-
-　葬式では一丁前に悲しんでるフリして、@うちの親には、大の仲良しでしたとか、しゃあしゃあと言うのかよ？！@
-　で、いい思い出にして、@昔はチョイ悪でいじめとかしてたことがあるんだーって、武勇伝気取りかよ？！@　ふざけんなよ、ふざけんなッ！！@　死んで堪るか、殺されて堪るかよ！！\
-
+;　葬式では一丁前に悲しんでるフリして、@うちの親には、大の仲良しでしたとか、しゃあしゃあと言うのかよ？！@
+` Would they just casually attend my funeral and pretend to grieve my passing? `@`Would they go up to my parents and shamelessly tell them they were good friends of mine?!`@
+;　で、いい思い出にして、@昔はチョイ悪でいじめとかしてたことがあるんだーって、武勇伝気取りかよ？！@　ふざけんなよ、ふざけんなッ！！@　死んで堪るか、殺されて堪るかよ！！\
+` And then, would they talk about the 'good times', `@`and talk about how I was bullied by some bad kids, and pretend that they were the heroes of the story?! `@`No, FUCK THAT!! `@`Like hell I'm gonna die! Like hell I'm gonna be killed!!`\
 ;bg black,0
 bg black,22
 mono 0
@@ -1507,14 +1514,14 @@ bg e013,22
 
 ld c,HIG_D4,22
 
-「…………良かったじゃない。@あの子、生きる気力、出てきたみたいよ。」@
-
+;「…………良かったじゃない。@あの子、生きる気力、出てきたみたいよ。」@
+`".......Well this isn't good. `@`Looks like he's got the will to live again."`@
 ld l,MAR_D2a,22
 
-「ちょ、ちょっと違う方向にみたいですけど……。」\
-
-　正明の心を怒りが満たすにつれ、眼下に飛び降りたいという、死への誘惑は霧散していく。\
-
+;「ちょ、ちょっと違う方向にみたいですけど……。」\
+`"It-, it looks like he's taking it a different direction than I intended though...."`\
+;　正明の心を怒りが満たすにつれ、眼下に飛び降りたいという、死への誘惑は霧散していく。\
+` As Masaaki's heart filled with anger, his want to jump to his death rapidly vanished.`\
 ;se1 6
 cl a,0
 ;se1 6
@@ -1531,10 +1538,11 @@ E_A
 bg koutei_03,2
 me1v 16,50
 
-　すると、二人の少女の姿も一面の彼岸花もゆらりと消え、@……黄昏色に染まる校庭の景色に戻るのだった。@
+;　すると、二人の少女の姿も一面の彼岸花もゆらりと消え、@……黄昏色に染まる校庭の景色に戻るのだった。@
+` And thus, the two girls and the field of higanbana gradually disappeared... `@`and the view of the schoolyard dyed in twilight reappeared.`@
 br
-　正明は肩でぜいぜいと息をしながら、……ベランダの柵を叩く。\
-
+;　正明は肩でぜいぜいと息をしながら、……ベランダの柵を叩く。\
+` Breathing heavily... Masaaki hit the railing of the balcony.`\
 se1 8
 quakey 1,100
 
@@ -1546,43 +1554,48 @@ ld r,YOS_D10n,80
 
 bgm1 14
 
-「……死ぬくらいなら、……むしろ俺が殺してやるッ。@…………でも、そんなことしたって、結局、逮捕されるだけ……。@そしてあいつらは逮捕された俺のことを、@おかしなヤツだったとか普段からキレるヤツだったとか、適当なことをしゃあしゃあと言いやがるに決まってるんだ……。@/
-
+;「……死ぬくらいなら、……むしろ俺が殺してやるッ。@…………でも、そんなことしたって、結局、逮捕されるだけ……。@そしてあいつらは逮捕された俺のことを、@おかしなヤツだったとか普段からキレるヤツだったとか、適当なことをしゃあしゃあと言いやがるに決まってるんだ……。@/
+`"...If I'm willing to do... then I'll kill instead.`@`...... But even if I do that, in the end I'll just end up getting arrested... `@`And if I do get arrested, those guys would just say I was always a strange guy, and was always snapping like that, and keep shamelessly giving excuses to take the blame off them...`@/
 ;ld c,YOS_D1,80
 ;ld r,YOS_D1,80
 
-………くそッ、くそッ……。@………悔しい、悔しい……。@このまま死んでなんかやるものかッ。@……絶対に生きて、……あいつらに仕返ししてやる……。」\
-
+;………くそッ、くそッ……。@………悔しい、悔しい……。@このまま死んでなんかやるものかッ。@……絶対に生きて、……あいつらに仕返ししてやる……。」\
+`....Shit, shit...`@`....This is annoying, so annoying.... `@`There's no damn way I'm going to just lay down and die.`@`... I'm definitely going to live... and get even with those bastards..."`\
 cl r,22
 
-　………でも、どうやって………。@
+;　………でも、どうやって………。@
+` ....But, how.....?`@
 br
-　……………………………。\
-
+;　……………………………。\
+` ..............`\
 bg black,22
 
 fede 10,1000
 E_MA
 
-　殺すなんてこと、出来るわけがない。@
-　刺し違えることは出来るだろうが、……結局、自分も殺されたり、あるいは逮捕されたり。@………無事では済まない。@
+;　殺すなんてこと、出来るわけがない。@
+` There isn't really a way for him to kill them.`@
+;　刺し違えることは出来るだろうが、……結局、自分も殺されたり、あるいは逮捕されたり。@………無事では済まない。@
+` He could maybe try to take them to the grave with him... but in the end that would leave him dead too, or at the very least, arrested.`@`... It was a double-edged sword.`@
 br
-　……怒りに飲まれ、様々な物騒なことを考えはしたが、……結局、どれもやれはしない。\
-
+;　……怒りに飲まれ、様々な物騒なことを考えはしたが、……結局、どれもやれはしない。\
+` ...Engulfed in his anger, he continued to think many terrible thoughts... but in the end, none of them would have worked.`\
 bg koutei_03,22
 ;ld r,YOS_D1,22
 
-　現実的な仕返しの方法はせいぜい、@………こっそりと上履きの中に画鋲を入れるとか、そんなことがせいぜいだ。@
+;　現実的な仕返しの方法はせいぜい、@………こっそりと上履きの中に画鋲を入れるとか、そんなことがせいぜいだ。@
+` Realistically speaking, the best he could do for revenge.... `@`was to sneak some tacks in the indoor shoes in their shoe lockers.`@
 br
-　それに、どうせすぐ自分が疑われるに決まってる。\
-
+;　それに、どうせすぐ自分が疑われるに決まってる。\
+` But even then, it's obvious that he would be the first person they would suspect.`\
 
 ;ld c,YOS_D1,80
 
-　彼らのことだ。@別に証拠なんか何もなくても自分のせいにされ、より酷い仕打ちを受けることになるだろう。@
+;　彼らのことだ。@別に証拠なんか何もなくても自分のせいにされ、より酷い仕打ちを受けることになるだろう。@
+` But this is those bullies he's talking about. `@`If they even so much as suspect he's behind something like that, they wouldn't hesitate to start treating him even worse.`@
 br
-　正明はゆっくりと踵を返し、教室に戻る。\
-
+;　正明はゆっくりと踵を返し、教室に戻る。\
+` Masaaki slowly turned on his heels, and went back in to the classroom.`\
 ;bg black,1
 ;mono 0
 
@@ -1592,28 +1605,33 @@ br
 bg black,23
 bg kyou_02u,23
 
-　……もう、死にたいとは思わない。@
-　出来ることなら、仕返しがしたい。@
+;　……もう、死にたいとは思わない。@
+` ...He no longer wanted to die.`@
+;　出来ることなら、仕返しがしたい。@
+` He wanted to have his revenge in whatever whatever way possible.`@
 br
-　死ねば永遠にそれが出来なくなるのだから。\
-
+;　死ねば永遠にそれが出来なくなるのだから。\
+` If he died, he would never be able to do that.`\
 ld c,YOS_D13,22
 
-　……今日までの借りを返す権利が、自分にはあるのだ。@
-　その権利を自ら捨てるなんて、……馬鹿馬鹿しいし、何より悔しかった……。@
+;　……今日までの借りを返す権利が、自分にはあるのだ。@
+` ...He had the privilege to repay everything that had been done to him up until now.`@
+;　その権利を自ら捨てるなんて、……馬鹿馬鹿しいし、何より悔しかった……。@
+` Too willingly throw that privilege away... that's beyond stupid, and beyond aggravating...`@
 br
-　彼は、今こそはっきりと自覚する。@自分がいじめられっこであったことを、はっきりと自覚する。\
-
+;　彼は、今こそはっきりと自覚する。@自分がいじめられっこであったことを、はっきりと自覚する。\
+` He was now painfully aware of his situation. `@`He knew all too well that he was being bullied.`\
 
 ;bg black,0
 ;bg kyou_02u,23
 ;ld r,YOS_D1,22
 ld c,YOS_D14,80
 
-「いつか絶対、仕返ししてやる……。@絶対、……いつか……、……畜生……。」@
+;「いつか絶対、仕返ししてやる……。@絶対、……いつか……、……畜生……。」@
+`"At some point, I WILL have my revenge.... `@`Eventually... I WILL....... Damnit...."`@
 br
-　由香里が望んだ形とは違うが、@……彼がいじめられっこであることを自覚し、自殺という方法で逃れようと思わなくなっただけでも、@良しとすべきかもしれない……。\
-
+;　由香里が望んだ形とは違うが、@……彼がいじめられっこであることを自覚し、自殺という方法で逃れようと思わなくなっただけでも、@良しとすべきかもしれない……。\
+` It was different than the way Yukari would have wanted... `@`but because he finally accepted that he was being bullied, and wasn't trying to kill himself to escape from it, `@`she would probably have to agree with him...`\
 
 
 ;bg black,22
@@ -1622,10 +1640,11 @@ br
 bg black,22
 bg shoukou_01,22
 
-　正明はとぼとぼと下校する。@
+;　正明はとぼとぼと下校する。@
+` Masaaki walked wearily home.`@
 br
-　俯きながらも、……やり場のない怒りに両拳を震わせるのだった……。\
-
+;　俯きながらも、……やり場のない怒りに両拳を震わせるのだった……。\
+` With nothing to take his rage out on... he cast his eyes down at the ground, while clutching his fists so hard they trembled...`\
 bg black,2
 
 fede 0,2000
@@ -1635,19 +1654,23 @@ bg akiti_2y,22
 
 me1v 5,50
 
-　途中、大きな空き地があった。@
+;　途中、大きな空き地があった。@
+` On his way home he walked past a large vacant lot.`@
 br
-　本来は宅地だろうが、手入れされておらず、雑草が茂るに任されている。\
-
+;　本来は宅地だろうが、手入れされておらず、雑草が茂るに任されている。\
+` It was probably originally a housing site, but it fell into disrepair and the weeds were left to run rampant.`\
 
 
 ;bg akiti_2y,23
 
-　そこは一面にアザミの紫の花が咲く、アザミ畑のようだった……。@
+;　そこは一面にアザミの紫の花が咲く、アザミ畑のようだった……。@
+` Throughout that field, the purple flowers of thistles bloomed. It was like garden made for thistles...`@
+; ^^^ Note To Editor: The word for thistle in Japanese is "azami" (アザミ). Azami is the name of the youkai that's going to be introduced in this chapter. This is probably going to need a glossary entry. I can make one once I'm done translating chapters. - Jorwil 
 br
-　正明はふと足を止める。@
-　そして、アザミの茂みに足を踏み入れた。\
-
+;　正明はふと足を止める。@
+` Masaaki suddenly stopped in his tracks.`@
+;　そして、アザミの茂みに足を踏み入れた。\
+` And stepped into the thicket of thistles.`\
 
 ;bg black,0
 ;bg azami1,24
@@ -1657,28 +1680,30 @@ br
 bg black,24
 bg azami1,24
 
-　………アザミの花に関する、……何か話がなかったっけ………。@
+;　………アザミの花に関する、……何か話がなかったっけ………。@
+` ....Wasn't there... some sort of story about thistles that he heard somewhere....?`@
 br
-　そうだ。@……学校の八不思議の中に、アザミの話があったような……。\
-
+;　そうだ。@……学校の八不思議の中に、アザミの話があったような……。\
+` That's right.`@`... There's a story about thistles in one of the Eight School Mysteries...`\
 
 ;bg black,1
 mbg black,22
 
 E_A
 
-「学校や通学路の途中に咲き乱れる、紫のアザミの花。@……その花言葉は、復讐。」\
-
+;「学校や通学路の途中に咲き乱れる、紫のアザミの花。@……その花言葉は、復讐。」\
+`"A field of blooming thistles at school, or on the way home from it.`@`... In the language of flowers, they represent revenge."`\
 
 ;bg akiti_2y,22
 mcbg 22
 
 me1v 16,50
 
-　突然、女性の透き通るような声が聞こえた。@
+;　突然、女性の透き通るような声が聞こえた。@
+` Suddenly, he heard a disembodied female voice.`@
 br
-　周りに人の気配などないはずなのに、………一体、誰がどこから。\
-
+;　周りに人の気配などないはずなのに、………一体、誰がどこから。\
+` There isn't anyone standing next to him.... so where did that voice come from?`\
 
 
 ;bg black,24
@@ -1699,38 +1724,43 @@ ld c,AZA_D1,22
 
 bgm1 18
 
-　……その時、ざぁっと風が吹き、アザミの花々を波のように揺らめかせた。@
+;　……その時、ざぁっと風が吹き、アザミの花々を波のように揺らめかせた。@
+` ...At that moment, a strong breeze passed by and blew the thistles back and forth like a wave.`@
 br
-　そのアザミの花々の中に、……いつの間にか、少女、……いや、女性が立っていた。\
+;　そのアザミの花々の中に、……いつの間にか、少女、……いや、女性が立っていた。\
+` And within the blink of an eye... there in that field of thistles stood a girl... no, a woman.`\
 
-
-　中学生かもしれないし高校生かもしれない。@……いや、あるいは大学生かも。@
+;　中学生かもしれないし高校生かもしれない。@……いや、あるいは大学生かも。@
+` She may have been a middle schooler, or high schooler.`@`... No, it's more likely that she was a college student.`@
 br
-　整った顔立ちと、長く美しい髪はとても知性的で、とても大人っぽく見えた……。\
-
+;　整った顔立ちと、長く美しい髪はとても知性的で、とても大人っぽく見えた……。\
+` Her sculpted face and long, beautiful hair made her seem very intellectual and adultlike...`\
 ld c,AZA_D2,80
 
-「ずっといじめられていた気の毒ないじめられっこが、@……クラス替えや夏休み明けに、人が変わったかのように豹変し、@いじめっこに生まれ変わることがあるいう。@………それは、復讐の力を宿らせる、魔法のアザミの仕業……。」\
-
+;「ずっといじめられていた気の毒ないじめられっこが、@……クラス替えや夏休み明けに、人が変わったかのように豹変し、@いじめっこに生まれ変わることがあるいう。@………それは、復讐の力を宿らせる、魔法のアザミの仕業……。」\
+`"A pitiful child who was always being bullied.... `@`suddenly becomes a new person after chaning classes or coming back from summer break, `@`and are born anew as a bully themselves.`@`... That is the revenge granting magic of Azami..."`\
 
 
 bg black,22
 
-「………そうだ…、思い出した……。@……学校八不思議の一つ。@……復讐の、アザミ……。」\
-
+;「………そうだ…、思い出した……。@……学校八不思議の一つ。@……復讐の、アザミ……。」\
+`"....That's right... I remember...`@`... That's one of the Eight School Mysteries.`@`... Azami the Vengeful..."`\
 bg Different_spiral_1b,22
 
-　それは学校八不思議が語る内の一つ。@
+;　それは学校八不思議が語る内の一つ。@
+` It was one of the eight ghost stories of the school.`@
 br
-　時折、前学期までは気弱ないじめられっこだった子が、@長期休暇が明けると、まるで別人のように生まれ変わることがある。@
+;　時折、前学期までは気弱ないじめられっこだった子が、@長期休暇が明けると、まるで別人のように生まれ変わることがある。@
+` Occasionally there would be a timid, bullied student who would come back after a long vacation, `@`and upon the start of the new term, would be born again as a different person.`@
 br
-　それは、魔力の宿る、復讐のアザミの花を、食べたから。\
-
+;　それは、魔力の宿る、復讐のアザミの花を、食べたから。\
+` That was because they were eaten by the magical flowers of Azami the Vengeful.`\
 
 
 bg azami4,2
 
-　学校にも通学路にも、当り前のように見られるアザミの花。@
+;　学校にも通学路にも、当り前のように見られるアザミの花。@
+` At school, and on the way home, there were plenty of ordinary looking thistles.`@
 　その中に稀に、魔法のアザミが混じっているらしい。@
 br
 　そして、そのアザミは、いじめられっこにだけ見つけることが出来るという。\
