@@ -1738,7 +1738,7 @@ br
 ld c,AZA_D2,80
 
 ;「ずっといじめられていた気の毒ないじめられっこが、@……クラス替えや夏休み明けに、人が変わったかのように豹変し、@いじめっこに生まれ変わることがあるいう。@………それは、復讐の力を宿らせる、魔法のアザミの仕業……。」\
-`"A pitiful child who was always being bullied.... `@`suddenly becomes a new person after chaning classes or coming back from summer break, `@`and are born anew as a bully themselves.`@`... That is the revenge granting magic of Azami..."`\
+`"A pitiful child who was always being bullied.... `@`suddenly becomes a new person after chaning classes or coming back from summer break, `@`and are born anew as a bully themselves.`@`... That is the revenge granting power of a magical thistle..."`\
 
 
 bg black,22
@@ -1754,28 +1754,30 @@ br
 ` Occasionally there would be a timid, bullied student who would come back after a long vacation, `@`and upon the start of the new term, would be born again as a different person.`@
 br
 ;　それは、魔力の宿る、復讐のアザミの花を、食べたから。\
-` That was because they were eaten by the magical flowers of Azami the Vengeful.`\
+` That was because they ate a magical thistle from Azami the Vengeful.`\
 
 
 bg azami4,2
 
 ;　学校にも通学路にも、当り前のように見られるアザミの花。@
 ` At school, and on the way home, there were plenty of ordinary looking thistles.`@
-　その中に稀に、魔法のアザミが混じっているらしい。@
+;　その中に稀に、魔法のアザミが混じっているらしい。@
+` But every once in a while, there's apparently a magical thistle mixed in with them.`@
 br
-　そして、そのアザミは、いじめられっこにだけ見つけることが出来るという。\
+;　そして、そのアザミは、いじめられっこにだけ見つけることが出来るという。\
+` And only those who are bullied can see it.`\
 
 
-
-　……その花を食べると。@
+;　……その花を食べると。@
+` ...If that bullied child eats that flower,`@
 br
-　いじめられっこは、それまでの悔しさの分、@より恐ろしいいじめっことして生まれ変われるという……。\
-
+;　いじめられっこは、それまでの悔しさの分、@より恐ろしいいじめっことして生まれ変われるという……。\
+` The frustration they had felt up until then, `@`will be overtaken by anger and they will be born anew as a bully themselves...`\
 
 bg black,22
 
-　学校では、唐突に性格が変わった子がいると、@アザミでも食ったんじゃねぇ？　と囁く子がいるが、@それはこの「復讐のアザミ」のことなのだ……。\
-
+;　学校では、唐突に性格が変わった子がいると、@アザミでも食ったんじゃねぇ？　と囁く子がいるが、@それはこの「復讐のアザミ」のことなのだ……。\
+` Whenever a kid shows up to school and their personality has done a complete 180, `@`you'll often hear some kids whispers between themselves, `@`'Did they eat a thistle?' `@`When they do, they're referring to this story of 'Azami the Venfegul'....`\
 ;bg akiti_2y,22
 ;ld l,AZA_D1,0
 ;ld r,YOS_D1,22
@@ -1786,40 +1788,43 @@ bg akiti_2y,22
 ld c,AZA_D1,22
 ;ld l,AZA_D1,80
 
-「こんにちは、吉川正明くん。@妾の姿が見えますか……？」\
-
+;「こんにちは、吉川正明くん。@妾の姿が見えますか……？」\
+`"Hello. Masaaki Yoshikawa-kun. `@`I assume you can see me...?"`\
 
 ld r,YOS_D3a,80
 
-「………え、……ぁ、………はい……。」@
+;「………え、……ぁ、………はい……。」@
+`"....Oh-... uh.... Yes...."~@
 br
-　その不思議な問いに、正明はすぐに理解する。@
-　彼女の姿は、見えざるものなのだ。\
+;　その不思議な問いに、正明はすぐに理解する。@
+` Masaaki instantly knew what she meant by asking such a strange question.`@
+;　彼女の姿は、見えざるものなのだ。\
+` He knew that she was a being who could not normally be seen.`\
 
 
-
-　……自分は今、……この世ならざる何者かと話をしている……。@
-　決して威圧されているわけではないのだが、その不思議な貫禄に、全身が竦むのを覚えた。\
-
+;　……自分は今、……この世ならざる何者かと話をしている……。@
+` ...Right now... he was speaking to a something not of this world....`@
+;　決して威圧されているわけではないのだが、その不思議な貫禄に、全身が竦むのを覚えた。\
+` He was in no way intimidated by this encounter, but nevertheless, every muscle in his body tensed at her presence.`\
 cl c,0
 ld l,AZA_D2,24
 
-「怯える必要はありません。@妾の名はアザミ。@……学校妖怪序列第４位、復讐のアザミとは妾のこと……。」@
-
+;「怯える必要はありません。@妾の名はアザミ。@……学校妖怪序列第４位、復讐のアザミとは妾のこと……。」@
+`"There is no need to be frightened. `@`My name is Azami.`@`... 4th Ranked among School Youkai, Azami the Vengeful..."`@
 ld r,YOS_D9,80
 
-「…………復讐の、アザミ………。」\
-
+;「…………復讐の、アザミ………。」\
+`"......Azami, the Vengeful....."`\
 
 
 ld l,AZA_D3,80
 
-「可哀想に。@妾の姿が見えるということは、あなたが気の毒ないじめられっこということです。@………そうですね……？」@
-
+;「可哀想に。@妾の姿が見えるということは、あなたが気の毒ないじめられっこということです。@………そうですね……？」@
+`"How unfortunate. `@`If you can see me, then that means you're a pitiful bullied child.`@`... Is that true...?"`@
 ld r,YOS_D3a,80
 
-「ぅ…………………。」\
-
+;「ぅ…………………。」\
+`"uh........"`\
 
 
 ;bg black,22
@@ -1831,33 +1836,34 @@ mbg black,22
 ;ld c,YOS_D1,22
 
 
-　かつての正明なら、自分はいじめられていないと激高しただろう。@
+;　かつての正明なら、自分はいじめられていないと激高しただろう。@
+` If someone had said that to him earlier, he probably would have gotten enraged and refused to accept the fact.`@
 br
-　しかし今の彼は違う。@……自分がいじめられてきたことを、しっかり自覚している。\
-
+;　しかし今の彼は違う。@……自分がいじめられてきたことを、しっかり自覚している。\
+` But he is different now.`@`... He fully understood his own situation.`\
 mcbg 22
 
-　……だから今日、彼女のような存在に出会えたに違いない。@……正明はそれを理解する。\
-
+;　……だから今日、彼女のような存在に出会えたに違いない。@……正明はそれを理解する。\
+` ...That was surely the reason why he met her today.`@`... Masaaki knew that.`\
 ld r,YOS_D10a,80
 
-「……あの、復讐のアザミの話は本当なんですか……。」@
-
+;「……あの、復讐のアザミの話は本当なんですか……。」@
+`"...Umm, is the story of Azami the Vengeful really true...?"`@
 ld l,AZA_D4,80
 
-「本当です。@……復讐の力を与える、魔法のアザミ。@それがどれなのか、見分けることが出来るのは、その力を真に欲するいじめられっこのみ……。」\
-
+;「本当です。@……復讐の力を与える、魔法のアザミ。@それがどれなのか、見分けることが出来るのは、その力を真に欲するいじめられっこのみ……。」\
+`"It's true.`@`... A magical thistle that grants the power of revenge. `@`The only ones who can find them are the bullied children who truly want that power..."`\
 
 
 
 ld r,YOS_D10,80
 
-「そのアザミは、……本当にあるんですか……。」@
-
+;「そのアザミは、……本当にあるんですか……。」@
+`"And does that thistle... really exist...?"`@
 ld l,AZA_D1,80
 
-「あなたが、真に欲するなら。@……魔法のアザミは自ずからあなたにその存在を囁きかけるでしょう。@……御覧なさい。@この紫のアザミたちを。」\
-
+;「あなたが、真に欲するなら。@……魔法のアザミは自ずからあなたにその存在を囁きかけるでしょう。@……御覧なさい。@この紫のアザミたちを。」\
+`If you truly want them to.`@`... then the thistle will whisper to you.`@`... Look here. `@`At these purple flowers. "`\
 
 
 ;bg azami1,23
@@ -1866,23 +1872,27 @@ bg azami1,24
 
 me1v 16,50
 
-　アザミが、御覧なさいと紫の花々の茂みを示す。@
+;　アザミが、御覧なさいと紫の花々の茂みを示す。@
+` Azami pointed to the thicket of purple flowers.`@
 br
-　……その中に、……魔法のアザミが混じっているのだろうか……。\
+;　……その中に、……魔法のアザミが混じっているのだろうか……。\
+` ...Somewhere in there... there was a magical thistle mixed in...`\
 
 
-
-「よく目を凝らし、そして耳を澄まして、じっくりと探して御覧なさい。」@
-「……………………………………。」@
+;「よく目を凝らし、そして耳を澄まして、じっくりと探して御覧なさい。」@
+`"Strain your eyes, and clear out your ears, and try to find one."`@
+;「……………………………………。」@
+`"................."`@
 br
-　無数に咲く紫の花。\
+;　無数に咲く紫の花。\
+` There were countless purple flowers.`\
 
 
-
-　……どれもこれも、ただのアザミに見える。@……特別なものが混じっているようには思えない。@
+;　……どれもこれも、ただのアザミに見える。@……特別なものが混じっているようには思えない。@
+` Each and every one looked like just a normal thistle.`@`... It didn't look like there were any special ones among them.`@
 br
-　いや、……そんなことはあるものか。\
-
+;　いや、……そんなことはあるものか。\
+` No... there must be one.`\
 
 
 ld l,AZA_D1,0
@@ -1890,103 +1900,114 @@ ld r,YOS_D3a,22
 
 ;ld r,YOS_D1,80
 
-　今こうして、自分はこの世ならざる存在の姿を見て、会話までしている。@
+;　今こうして、自分はこの世ならざる存在の姿を見て、会話までしている。@
+` He's already seen and had a conversation with something not of this world.`@
 br
-　ならば、あるはずだ。@
-　いじめられっこにしか見つけることの出来ない、この世ならざる花が、@見つけられるはずだ………。\
-
+;　ならば、あるはずだ。@
+` So there must be one.`@
+;　いじめられっこにしか見つけることの出来ない、この世ならざる花が、@見つけられるはずだ………。\
+` There's an otherworldly flower in here that only those who are bullied can find, `@`and he should be able to find it.....`\
 ld r,YOS_D2,80
 
 E_MA
 
-　……その時、……アザミの茂みの中から、……かすかな音を聞いた気がした。@
+;　……その時、……アザミの茂みの中から、……かすかな音を聞いた気がした。@
+` ...And then... coming from that thicket of thistles... he felt like he could hear a faint noise.`@
 br
-　それは、風に揺れる小さな鈴のような音。\
-
+;　それは、風に揺れる小さな鈴のような音。\
+` It was like a small bell being shaken by the wind.`\
 ;cl a,0
 ;bg black,1
 ;ld c,YOS_D1,80
 
 bg black,25
 
-　確かに聞こえる。@
+;　確かに聞こえる。@
+` He was certain he could hear it.`@
 br
-　風が花を揺らす時、それに混じってかすかに聞こえるのだ。\
-
+;　風が花を揺らす時、それに混じってかすかに聞こえるのだ。\
+` Whenever the wind blew through the flowers, he could hear that faint noise as well.`\
 bg azami1,0
 ld c,YOS_D2,22
 
-　正明は茂みににじり寄り、……音の聞こえた辺りの花々を、じっと凝視する……。\
-
+;　正明は茂みににじり寄り、……音の聞こえた辺りの花々を、じっと凝視する……。\
+` Masaaki ventured further into the thicket... staring intently at the group of flowers where he heard the sound coming from...`\
 
 bg black,22
 bg azami2,22
 
-　………するとやがて、……不思議なアザミを見つけた。@
+;　………するとやがて、……不思議なアザミを見つけた。@
+` ....And finally... he found a strange looking thistle.`@
 br
-　それは、かすかに花が光を帯びているように見えた。@
-　蛍の光を思わせるくらいに、それはか細くか弱い。\
+;　それは、かすかに花が光を帯びているように見えた。@
+` It looked like the flower was tinged with a faint light.`@
+;　蛍の光を思わせるくらいに、それはか細くか弱い。\
+` It was a very weak and delicate light, like that of a small firefly.`\
 
 
-
-　しかし、いじめ抜かれて心を暗くしてしまった、哀れな子には、@その心の暗闇ゆえに、そのわずかの光が、確かに見えるのだ……。\
-
+;　しかし、いじめ抜かれて心を暗くしてしまった、哀れな子には、@その心の暗闇ゆえに、そのわずかの光が、確かに見えるのだ……。\
+` But to a miserable child, with a heart darkened by bullying, `@`this faint light is be clearly visible...`\
 
 
 ld r,YOS_D3a,22
 
-「………こ、……これ…………？」@
-
+;「………こ、……これ…………？」@
+`"....Is-... is it this.....?"`@
 ld l,AZA_D1,22
 ld l,AZA_D2,80
 
-「よくぞ見つけました。@……そう。@それが復讐の魔力を秘める、魔法のアザミです。」\
+;「よくぞ見つけました。@……そう。@それが復讐の魔力を秘める、魔法のアザミです。」\
+`"Good work.`@`... Yes. `@`That is the magical thistle, containing the power of revenge."`\
 
 
-
-　ぶちりと、そのアザミを摘む。@
+;　ぶちりと、そのアザミを摘む。@
+` He picked the thistle from the ground.`@
 br
-　ちりんとかすかな音がした。@……摘んでも、花のほのかな光は消えなかった。\
-
+;　ちりんとかすかな音がした。@……摘んでも、花のほのかな光は消えなかった。\
+` It made a quiet ringing sound.`@`.. Even when plucked from its roots, the faint light coming from the flower did not disappear.`\
 cl l,0
 ld c,AZA_D1,23
 
-「その花を食べれば。@あなたに魔法の力が宿るでしょう。」@
-
+;「その花を食べれば。@あなたに魔法の力が宿るでしょう。」@
+`"If you eat that flower, `@`you will gain its magical power."`@
 ld r,YOS_D4a,80
 
-「…………そうすれば、……僕は、……いじめっこになれる……？」\
-
+;「…………そうすれば、……僕は、……いじめっこになれる……？」\
+`".....And when I do so... I will... become a bully...?"`\
 cl c,0
 ld l,AZA_D2,24
 
-「あなたがこれまで酷くいじめ抜かれたならいじめ抜かれたほど。@……その魔力は強まり、@あなたを、誰もが怯えるいじめっこに生まれ変わらせてくれるのです。」@
-
+;「あなたがこれまで酷くいじめ抜かれたならいじめ抜かれたほど。@……その魔力は強まり、@あなたを、誰もが怯えるいじめっこに生まれ変わらせてくれるのです。」@
+`"Depending on exactly how bad you have been bullied up until now.`@`... the strength of its magic will increase. `@`And it will remake you into a bully feared by all."`@
 ld r,YOS_D8a,80
 
-「も、もう、……誰にもいじめられなくなる……？」\
-
+;「も、もう、……誰にもいじめられなくなる……？」\
+`"I-, I... won't be bullied anymore...?"`\
 bg black,22
 
 ;ld l,AZA_D1,80
 
-「あなたは、いじめっこをいじめようと思ったことはありますか？@　……ないでしょう？@　いじめっことは、いじめの風上に立つ者のこと。@あなたがいじめっこであり続ける限り、@もはや誰も、あなたをいじめることなど叶わぬのです。」@
-「…………………………。」\
-
-　この花を食べれば、……仕返しが出来る。@
-　自分に今まで酷いことをしてきたあいつらに、復讐が出来るのだ。\
-
+;「あなたは、いじめっこをいじめようと思ったことはありますか？@　……ないでしょう？@　いじめっことは、いじめの風上に立つ者のこと。@あなたがいじめっこであり続ける限り、@もはや誰も、あなたをいじめることなど叶わぬのです。」@
+`"Do you think that bullies ever get bullied by other bullies?`@`... Of course they don't. `@`Bullies are people who live hand in hand with bullying. `@`As long as you keep bullying others, `@`you yourself will never be bullied again."`@
+;「…………………………。」\
+`"............"`\
+;　この花を食べれば、……仕返しが出来る。@
+` If I eat this flower... I'll have my payback.`@
+;　自分に今まで酷いことをしてきたあいつらに、復讐が出来るのだ。\
+` Revenge for every horrible thing that they've done to me up until now.`\
 bg akiti_2y,22
 
-　……夜、布団を噛みながら思い描いたことはある。@
+;　……夜、布団を噛みながら思い描いたことはある。@
+` ...All the ways that he's imagined getting his revenge while biting his pillow at night in desperation.`@
 br
-　自分がいじめっこに生まれ変わることが出来たら、逆にあいつらを絶対にいじめてやる。\
+;　自分がいじめっこに生まれ変わることが出来たら、逆にあいつらを絶対にいじめてやる。\
+` If he could be born again as a bully, he could turn the tables on those bullies and give them a taste of their own medicine.`\
 
-
-　そしたらきっと愉快だろう、痛快だろうと……。@
+;　そしたらきっと愉快だろう、痛快だろうと……。@
+` And then, he would be happy, and filled with pleasure...`@
 br
-　この花を食べれば、……それが現実になる………。\
-
+;　この花を食べれば、……それが現実になる………。\
+` If he eats this flower... all of that will become reality....`\
 bg black,22
 bg azami2,22
 ;ld l,AZA_D1,0
@@ -1994,13 +2015,15 @@ bg azami2,22
 
 ;ld r,YOS_D1,80
 
-　正明は躊躇うことなく、その花を食い千切り、噛み砕いた。\
-
-　……口の中に渋みが広がる。@吐き出したい衝動に駆られる。@
-　でも、吐き出さず、尚も噛み締める。@
+;　正明は躊躇うことなく、その花を食い千切り、噛み砕いた。\
+` Without hesitation, Masaaki bit the flower off of its stalk and chewed.`\
+;　……口の中に渋みが広がる。@吐き出したい衝動に駆られる。@
+` ...A bitter taste spread throughout his mouth. `@`An urge to throw up overcame him.`@
+;　でも、吐き出さず、尚も噛み締める。@
+` But he didn't spit it out. He kept chewing.`@
 br
-　その魔力を、余すことなく吸収するために……。\
-
+;　その魔力を、余すことなく吸収するために……。\
+` He wanted to make sure that he absorbed every last bit of magic power it held...`\
 bg black,22
 bg azami1,0
 ld r,AZA_D2,22
@@ -2008,15 +2031,16 @@ ld r,AZA_D2,22
 
 ld r,AZA_D1,80
 
-「世は常に因果応報であらねばなりません。@悪人には報いを。@善人には労いを。@……しかし、時代は変わりました。@今や学校では、いじめっこという悪人が、@何ら罰せられることなく青春を謳歌して卒業し。@いじめられっこという善人が、生涯癒せぬ傷を背負わされて、社会に放逐されていきます。@………それは、天の摂理に反することです。」\
-
+;「世は常に因果応報であらねばなりません。@悪人には報いを。@善人には労いを。@……しかし、時代は変わりました。@今や学校では、いじめっこという悪人が、@何ら罰せられることなく青春を謳歌して卒業し。@いじめられっこという善人が、生涯癒せぬ傷を背負わされて、社会に放逐されていきます。@………それは、天の摂理に反することです。」\
+`"In this world there must always be retribution. `@`Punishment for those who are evil. `@`And reward to those who are good.`@`... But the times have changed. `@`Now there are villains known as bullies attending school, `@`and they run free, doing what they want, and enjoying their youth right up until they graduate with no punishment whatsoever. `@`Meanwhile, good natured kids are thrown out into society with the trauma still holding the trauma caused by those bullies.`@`... That goes against the laws of karma."`\
 
 ld l,YOS_D3a,22
 ;ld l,YOS_D1,80
 
-　正明はごくりと、充分に噛み砕いたアザミを飲み込む。@
-　口の中は渋みでいっぱいで、気持ち悪かった。\
-
+;　正明はごくりと、充分に噛み砕いたアザミを飲み込む。@
+` With a gulp, Masaaki swallowed down the chewed thistle.
+;　口の中は渋みでいっぱいで、気持ち悪かった。\
+` His mouth was filled with an awful bitter taste.`\
 se1v 55,30
 bg red1,48
 
@@ -2026,14 +2050,15 @@ bg black,22
 ;bg e002,22
 ;bg e005,26
 
-　でも、胃袋の中には不思議な熱を感じる。@
+;　でも、胃袋の中には不思議な熱を感じる。@
+` But he felt a strange heat rising in his stomach.`@
 br
-　それが何かの力を全身にゆっくりと巡らせていくのを、確かに感じていた……。\
-
+;　それが何かの力を全身にゆっくりと巡らせていくのを、確かに感じていた……。\
+` He was sure the feeling was that of some sort of power slowly spreading throughout his entire body...`\
 bg azami2,22
 
-「いじめる者はいじめられることを知らねばなりません。@そして、いじめられる者はいじめることを知る権利があります。@昼があれば夜があるように、夏があれば冬があるように。@……あなたが生まれ変わることは、何もおかしいことではないのです。」\
-
+;「いじめる者はいじめられることを知らねばなりません。@そして、いじめられる者はいじめることを知る権利があります。@昼があれば夜があるように、夏があれば冬があるように。@……あなたが生まれ変わることは、何もおかしいことではないのです。」\
+`"Those who bully must know should know what it's like to be bullied. `@`And those who are bullied have the right to know what it's like to be the bully. `@`Like night exists because there is day, like winter exists because there is summer.`@`... it is not that odd for you to be born again."`\
 bg black,22
 bg akiti_2y,22
 ld r,YOS_D8a,22
@@ -2041,10 +2066,11 @@ ld r,YOS_D8a,22
 
 me1v 5,50
 
-「これで……、俺は、……いじめっこに……。」@
+;「これで……、俺は、……いじめっこに……。」@
+`"With this... I will... become a bully..."`@
 br
-　まだ実感はない。@しかし、胃の中の熱い何かは、紛れもなく本物だ。\
-
+;　まだ実感はない。@しかし、胃の中の熱い何かは、紛れもなく本物だ。\
+` It still didn't feel real too him. `@`But the warmth in his stomach was, without a doubt, the real thing.`\
 
 ;bg black,1
 ;bg azami1,22
@@ -2054,50 +2080,54 @@ br
 ld l,AZA_D2,22
 ;ld l,AZA_D1,80
 
-「その復讐の魔力は、明日、学校に行けば、すぐにも理解できるでしょう。@あなたの望むままにお生きなさい。@あなたは今日まで、何を望むことも許されなかったのですから。」@
-
+;「その復讐の魔力は、明日、学校に行けば、すぐにも理解できるでしょう。@あなたの望むままにお生きなさい。@あなたは今日まで、何を望むことも許されなかったのですから。」@
+`"By the time you go to school tomorrow you will instantly realize its magical power of revenge. `@`Live as you wish to from now on. `@`Because you have not been able to do so until today."`@
 ld r,YOS_D4,80
 
-「……あ、ありがとう……ございます……。」\
-
+;「……あ、ありがとう……ございます……。」\
+`"...T-, thank... you..."`\
 ld l,AZA_D4,80
 
-「礼などいりません。@どうしてもしたいならば、@今日まで耐え忍んできた、昨日までの自分にすると良いでしょう。@……妾は、いつもあなたの側で見守っていますよ……。」@
-
+;「礼などいりません。@どうしてもしたいならば、@今日まで耐え忍んできた、昨日までの自分にすると良いでしょう。@……妾は、いつもあなたの側で見守っていますよ……。」@
+`"No need for thanks. `@`If there's anyone you should thank, `@`it's the you of yesterday who endured so you could reach today.`@`... I will always be watching over you..."`@
 ld r,YOS_D6,80
 
-「ありがとうございますっ、アザミさん…！！@　本当にありがとうございますっ！！」\
-
+;「ありがとうございますっ、アザミさん…！！@　本当にありがとうございますっ！！」\
+`"Thank you, Azami-san...!!`@ Thank you very much!!!"`\
 ld l,AZA_D2,80
 cl l,2
 
-　アザミが微笑むと、……その姿はゆっくりと透き通って消えていく。@
+;　アザミが微笑むと、……その姿はゆっくりと透き通って消えていく。@
+` Azami smiled... and slowly began to fade away.`@
 br
-　そしてもう一度、ざぁっと風が吹く。\
-
+;　そしてもう一度、ざぁっと風が吹く。\
+` The wind blew one more time.`\
 mbg white,24
 mcbg 22
 
-　もうその姿は、完全に掻き消えていた。@
+;　もうその姿は、完全に掻き消えていた。@
+` And with that, her body completely disappeared.`@
 br
-　……後には、アザミの茂みの中に、自分がひとり、取り残されている。\
-
+;　……後には、アザミの茂みの中に、自分がひとり、取り残されている。\
+` ...And he was left standing alone in the thicket of thistles.`\
 
 
 ;ld r,YOS_D1,80
 cl r,0
 ld c,YOS_D7,24
 
-　今のは丸々、白昼夢だったのではと疑いたくもなる。@
+;　今のは丸々、白昼夢だったのではと疑いたくもなる。@
+` He wanted to believe that what just happend was all a daydream.`@
 br
-　しかし、……胃の中の熱さは収まらない。\
-
+;　しかし、……胃の中の熱さは収まらない。\
+` But... the warmth in his stomach was still there.`\
 
 
 ;ld r,YOS_D1,80
 ld c,YOS_D8a,80
 
-　正明は自分の両手を見る。@
+;　正明は自分の両手を見る。@
+` Masaaki looked down at his hands.`@
 　手の平にも、何か熱さが宿ったように感じた。@
 br
 　自分は本当に、……いじめっこになれたのだろうか。\
