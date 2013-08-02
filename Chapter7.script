@@ -2586,28 +2586,30 @@ ld c,SMI_w6,22
 
 me1v 28,50
 
-　もちろん、それはスミレのでっち上げだ。@
+;　もちろん、それはスミレのでっち上げだ。@
+` Of course, this was a fabrication on Sumire's part.`@
 br
 　スミレはいじめを媒介にして狩りをする。@
 　適当な嘘をついて、いじめをする大義名分を与え、いじめっこを生み出す。@
-　彼女の魔性の涙が、それを可能とするのだ。\
-
+;　彼女の魔性の涙が、それを可能とするのだ。\
+` Her devilish tears enabled it.`\
 mov %SMI_Isyou,1
 bg black,22
 bg sadou_02,22
 
-「マジかよ！？@　またやったのかよ、あいつ！」@
-
+;「マジかよ！？@　またやったのかよ、あいつ！」@
+`"Seriously?!`@`He did it again?!"`@
 ld l,SMI_D6,23
 ld l,SMI_D2,80
 
-「それに、秋一くん、今日も授業中とか体育の時間とかジーッと玲子のこと見つめてきて……。@何だか怖くて………。」@
-「あの変態野郎ッ、……全然懲りてねぇじゃん！」\
-
+;「それに、秋一くん、今日も授業中とか体育の時間とかジーッと玲子のこと見つめてきて……。@何だか怖くて………。」@
+`"What's more, Shuuichi came hanging around us during class and gym looking for Reiko...`@`It was creepy."`@
+;「あの変態野郎ッ、……全然懲りてねぇじゃん！」\
+`"That pervert...he hasn't learned anything at all!"`\
 ld l,SMI_n3,80
 
-「それに、あんまり疑いたくないんだけど……。@最近は着替えとか、水着とか、そういうのなくなること多くて………。@……玲子……、怖い………。」\
-
+;「それに、あんまり疑いたくないんだけど……。@最近は着替えとか、水着とか、そういうのなくなること多くて………。@……玲子……、怖い………。」\
+`"And then, I don't want to doubt too much...`@`but recently Reiko has been losing her changes of clothes, swimsuits, and stuff...`@`...It's scary..."`\
 　スミレは怯えながら、魔性の涙をぽろりと零す。@
 br
 　その涙は、いじめの味を教え、さらなるいじめっこを生み出す力を持つ……。\
