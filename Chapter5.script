@@ -47,7 +47,7 @@ cl c,0
 mld l,TOM_D2,24
 
 ;「そしてそこには謎の秘密結社、薔薇十字団の秘密が記されてるっちゅー話！@　すごいよねー、わけわからん秘密の芋づるデパートだよねー！」@
-`"And in that manuscript are the secrets of the myterious secret society of Rosicrucians! `@`Isn't that amazing, it's a cornucopia of unknown secrets!"`@
+`"And in that manuscript are the secrets of the mysterious secret society of Rosicrucians! `@`Isn't that amazing, it's a cornucopia of unknown secrets!"`@
 ;＜智子
 
 cl r,0
@@ -59,14 +59,14 @@ mcl l,0
 ld r,TOM_D7,23
 
 ;「んで、そこにソロモン王の伝説が絡んでくるー！@　悪魔の秘術は即ち、当時の彼らが理解できなかった、超文明の科学力を指してるってわけでー！」\
-`"And that's where the legend of King Solomon comes into play! `@`It implies that peope during his time couldn't comprehend the inventions of an ancient super civilization, and they saw them as nothing more than demonic arts."`\ 
+`"And that's where the legend of King Solomon comes into play! `@`It implies that people during his time couldn't comprehend the inventions of an ancient super civilization, and they saw them as nothing more than demonic arts."`\ 
 ;＜智子
 
 cl c,0
 mld c,MIC_D3,80
 
 ;「グリモワールの数々は、決しておとぎ話じゃない。@……異なる次元の存在と交流の可能だった時代が存在したことの確かな示唆……。」@
-`"Most of the Grimoires are more than just fairy tales.`@`...they suggest that a time in which interaction with different dimensions was possible actually existed."`@
+`"Most of the grimoires are more than just fairy tales.`@`...they suggest that a time in which interaction with different dimensions was possible actually existed."`@
 cl r,0
 ld l,TOM_D1,24
 
@@ -80,15 +80,15 @@ bg black,22
 bg Different_spiral_1b,22
 
 ;　空想科学、とんでも科学。@
-`Science Fiction, pseudoscience.`@
+`Science fiction, pseudoscience.`@
 br
 ;　ＳＦにオカルト、ファンタジー。@
-` Sci-Fi, occult, fantasy.`@
+` Sci-fi, occult, fantasy.`@
 br
 ;　ＵＦＯ、ネッシーにスカイフィッシュ。@とにかく不思議なものは何でもござれ。\
 ` UFOs, Nessie, skyfish.`@`Basically anything that was mysterious and caught their interest..`\
 ;　みちるは、霊や悪魔、魔法などのオカルトに精通し、@智子は、空想科学やとんでもＳＦに精通していた。\
-` Michiru is an expert in ghosts, demons, magic and anything dealing with the occult.`@` While Tomoko is an expert in Science Fiction and Fantasy.`\
+` Michiru is an expert in ghosts, demons, magic and anything dealing with the occult.`@` While Tomoko is an expert in science fiction and fantasy.`\
 
 bg black,22
 bg ie_02,22
@@ -141,7 +141,7 @@ br
 ;　なんてこった。@さっき腰を下ろして二人で議論を始めたのはお昼過ぎのはずなのに。@
 ` Jeez. `@`When they sat down and started talking it had been early noon.`@
 ;　みちるにとって、智子と議論に耽る時間は、あまりに楽しく、そしてあまりに時間が早く経つのだった。\
-` For Michiru, the time that she spent chatting with Tomoko was beyond fun, and altogether to short.`\
+` For Michiru, the time that she spent chatting with Tomoko was beyond fun, and altogether too short.`\
 bg black,2
 me1v 30,50
 bg mansion_03,0
@@ -208,7 +208,7 @@ ld c,MIC_D1,22
 ;　友達なんて出来ないし、誰も友達になろうなんて思わない。@
 ` I couldn't make friends, and made no effort to even try.`@
 ;　少し寂しいとは思ったけれど、@……こんな変わり者の自分を理解してくれる人間なんて、いるわけもないと諦めていた。\
-` It was a little loney.... `@`but I'd long since given up hope on finding someone who could understand my eccentricities.`\
+` It was a little lonely.... `@`but I'd long since given up hope on finding someone who could understand my eccentricities.`\
 ld r,TOM_D3,22
 ld r,TOM_D1,80
 
@@ -294,7 +294,7 @@ br
 ;　何が書いてあるのか、だけではない。@
 ` Not just what was written.`@
 ;　それを書いた時、二人がどんな風に笑い合い、どんなことを話して、どう盛り上がったか。@
-` She remembered how the were laughing, what they were talking about, and how she felt when they were written.`@
+` She remembered how they were laughing, what they were talking about, and how she felt when they were written.`@
 br
 ;　そんな思い出が、ノートの全てのページから、湧き出すように思い出せるのだ……。\
 ` Those memories felt like they were coming out of the very pages of the notebooks themselves....`\
@@ -311,7 +311,7 @@ bg black,22
 ` Her parents, out of sympathy, let her rest for 3 days under the pretense of a cold.`@
 br
 ;　しかし、心配した担任の訪問を受け、……学校に復帰しなくてはならなくなった。\
-` But, her homeroom teacher was concered.... she had to return to school.`\
+` But, her homeroom teacher was concerned.... she had to return to school.`\
 bg gakkou_01,2
 wait 2000
 bg black,22
@@ -320,7 +320,7 @@ bg kyou_01,22
 ld c,MIC_D5,2
 
 ;　そうして、数日ぶりに姿を見せたみちるは、@………まるで別人のように、暗く、塞ぎ込み、変わり果てていた。@
-` When she did return, the Michiru that no one had seen for a few days... `@`looked like a different person. She was gloomier, contantly in low spirits, changed.`@
+` When she did return, the Michiru that no one had seen for a few days... `@`looked like a different person. She was gloomier, constantly in low spirits, changed.`@
 ;　迂闊に話し掛けるべきでない気配をまとった彼女を、@クラス中の誰もが、腫れ物を扱うかのように接した。\
 ` Afraid of causing further damage by talking to her, `@`everyone in her class avoided her like she had the plague`\
 cl c,22
@@ -426,7 +426,7 @@ br
 ;　……なれるものなら、なりたいのだ。@
 ` ...If she could, she would.`@
 ;　でも、もうどこにも、智子はいない……。\
-` But Tomoko was not longer here...`\
+` But Tomoko was no longer here...`\
 cl l,0
 ld c,SAK_N1,23
 
@@ -445,7 +445,7 @@ ld c,SAK_K1,80
 ld r,MIC_N3n,80
 
 ;「なら、その悲しむ智子に会わせてよっ。@智子に会わせてくれたら、泣き止むから！！@　智子に会いたい、智子に会いたい……！！@　ぅううぅううううう！！」\
-`"Well then... I want to meet with that sad Tomoko again. `@`If I can see Tomoko, I'll stop crying!! `@`I wan't to see Tomoko! I want to see her again so bad....! `@`UuuuuuUUUuuUuu!!"`\
+`"Well then... I want to meet with that sad Tomoko again. `@`If I can see Tomoko, I'll stop crying!! `@`I want to see Tomoko! I want to see her again so bad....! `@`UuuuuuUUUuuUuu!!"`\
 ld r,MIC_N2n,80
 
 wait 1000
@@ -554,7 +554,7 @@ ld r,SAK_K3,22
 ld r,SAK_K1,80
 
 ;「む、……無理だよ……。@死んだ人を蘇らせるなんて…、とても、とても……。@でも、……その人の魂とお話するくらいだったら、……出来るかも……。」\
-`"I-... I can't... `@`Reviving dead people is... enitrely impossible... `@`But... if you want to talk with their soul... maybe I could do that...."`\
+`"I-... I can't... `@`Reviving dead people is... entirely impossible... `@`But... if you want to talk with their soul... maybe I could do that...."`\
 ld l,MIC_N3,23
 ld l,MIC_N3n,80
 quakey 1,100
@@ -632,7 +632,7 @@ ld l,MIC_D3,26
 ;ld l,MIC_D1,80
 
 ;「さくのしんさま。@……私、決めました。@智子ちゃんを、絶対に蘇らせます。@……肉体は火葬されちゃってるけど、エクトプラズムから物質界に干渉できるようにすれば、@何かを依り代にして現世に留まらせることは……、不可能ではないかも……。」\
-`"Sakunoshin-sama.`@`... I've already made up my mind. `@`I'm going to ressurect Tomoko-chan.`@`... Her body may have already been cremated, but if I can draw her into this world via ectoplasm, `@`it may be possible... to bind her soul to an object and keep her here in the transient world...."`\
+`"Sakunoshin-sama.`@`... I've already made up my mind. `@`I'm going to resurrect Tomoko-chan.`@`... Her body may have already been cremated, but if I can draw her into this world via ectoplasm, `@`it may be possible... to bind her soul to an object and keep her here in the transient world...."`\
 ld r,SAK_K1,24
 
 ;「よ、よしなよ、みちるっ。@死者蘇生なんて、大それた秘術だよ…！@　そんな大秘術を執り行おうとしたら、とても大きなものを失うことになるっ。@きっとそれは、みちるも智子も不幸にするよっ。」\
@@ -774,7 +774,7 @@ br
 ` This art which operated contrary to the logic of the world, was, in a way, an act of rebellion unto the gods.`@
 br
 ;　それを成そうとすれば、………相応しい支払を求められることになる。\
-` If she is to succeed... it will demand an appropriately large price to be payed.`\
+` If she is to succeed... it will demand an appropriately large price to be paid.`\
 bg black,22
 mono 1
 ld c,TOM_D1,22
@@ -847,14 +847,14 @@ fedexx 0,50,70,0,0,0,3000
 `"............."`@
 br
 ;　儀式に集中した時。@室内に異音を聞いた。@
-` While she was focusing on the ritual,`@`she heard strange noise in the room.`@
+` While she was focusing on the ritual,`@` she heard strange noise in the room.`@
 ;　よく乾いた細い小枝が折れるような、……そんな音。\
 ` A snapping sound... like that of a small twig being broken in two.`\
 bg black,22
 mono 0
 
 ;　天井か柱が軋む音…？@
-` Was it the sound of the pillas or ceiling of the house creaking...?`@
+` Was it the sound of the pillars or ceiling of the house creaking...?`@
 br
 ;　違う。@
 ` No.`@
@@ -978,7 +978,7 @@ ld r,MIC_N1,80
 
 
 ;「霊体にして留まらせることは出来よう。@……それをそなたが身近に持つ、人型をした依り代に宿すことは出来るだろう。」@
-`"I can grab hold of their soul.`@`... but you will need a humanoid object that you're close to to trap it in."`@
+`"I can grab hold of their soul.`@`... but to trap it in, you will need a humanoid object that you're close to."`@
 br
 
 ld r,MIC_D6,80
@@ -1011,7 +1011,7 @@ ld c,MIC_D6,80
 ;　智子ちゃんは私としか喋れない。@自らの意思では動けないけれど、……それでも私は、これからも智子ちゃんと一緒にいられる。\
 ` Tomoko-chan will only speak with me. `@`She won't be able to move of her own will, but she'll always be with me from now on.`\
 ;「……吾輩と契約したならば、それを叶える秘術を、そなたに教えてやろう。」@
-`"...If you form a contract with us, we will teach you the sercret art to making that a reality."`@
+`"...If you form a contract with us, we will teach you the secret art to making that a reality."`@
 ld c,MIC_D4,80
 
 ;「あなたが蘇らせてくれるわけじゃない……？」\
@@ -1131,7 +1131,7 @@ bg black,22
 bg Different_spiral_1b,22
 
 ;「契約後に教える秘術だが。@………そなたに可能であることは保証するが、……それでも容易なものではない。@……そなたは秘術を諦めることも出来る。@その場合は特別に、吾輩との契約は最初からなかったことにしてやろう。@……ただし。@智子とかいう、そなたの友人の魂は、永遠に復活できないようにする。@……吾輩以外の悪魔を呼んでも無駄であるぞ。@ちゃんと回覧板で回し、智子とやらの復活は禁止だと悪魔組合に連絡する。」\
-`"As for the the art we will teach you once the contract is formed.`@`..... We guarantee that it is possible for you to complete... but it will not be simple.`@`... You can chose to give up on trying to complete it. `@`In that case, we will make it so that the contract never existed.`@`... However.`@` You will never again be able to resurrect your friend Tomoko.`@`... Not even if you ask a demon other than us. `@`We will send a notice out to all of the demons in the union notifying them of the ban on Tomoko's revival."`\
+`"As for the art we will teach you once the contract is formed.`@`..... We guarantee that it is possible for you to complete... but it will not be simple.`@`... You can chose to give up on trying to complete it. `@`In that case, we will make it so that the contract never existed.`@`... However.`@` You will never again be able to resurrect your friend Tomoko.`@`... Not even if you ask a demon other than us. `@`We will send a notice out to all of the demons in the union notifying them of the ban on Tomoko's revival."`\
 ;ld c,MIC_D1,22
 
 ;　何でも、同じ願い事を異なる悪魔に頼むのは、彼らの世界ではいけないことらしい。@
@@ -1653,7 +1653,7 @@ bg black,22
 ;ld c,TOM_D1,80
 
 ;　いらない。@何もいらない。@
-` I don't need it.`@`I don't need any of it.`@
+` I don't need it.`@` I don't need any of it.`@
 br
 ;　智子ちゃんが帰ってきてくれるなら、……何もいらない……。\
 ` If it means Tomoko-chan can come back... I don't need any of it...`\
@@ -1681,7 +1681,7 @@ print 99,5000,"breakup.dll/llb"
 ;bg okujou_01y,22
 
 ;　………智子との、楽しかった日々の思い出を凝縮した、……結晶とも呼ぶべき１ページ１ページが、@……ぺりぺりと燃えて、黒い燃えカスになって、……風に飛んで消えていく……。\
-` ...Her memories of fun days with Tomoko were condensed into fire... `@`and one by one, each page that was as valuable as a diamon to her... turned to ash... and were blown away by the wind.`\
+` ...Her memories of fun days with Tomoko were condensed into fire... `@`and one by one, each page that was as valuable as a diamond to her... turned to ash... and were blown away by the wind.`\
 
 
 ;　燃えながら、舞い飛び、消えていく、炎の蝶たち……。@
@@ -1796,7 +1796,7 @@ ld r,MIC_D4,80
 ;「悪魔さんっ。@どうすれば智子ちゃんの魂を現世に留められるの？」@
 `"Mr. Demon, `@`how do I tie Tomoko-chan's spirit to this world?"`@
 ;「うむ。@友情を確かめれば良いのだ。@……まー、定番どころでは、握手というところだ。」\
-`"Yes. `@`You'll just need to cofirm your friendship.`@`... The standard procedure to do so is generally a handshake."`\
+`"Yes. `@`You'll just need to confirm your friendship.`@`... The standard procedure to do so is generally a handshake."`\
 cl r,0
 ld c,MIC_D6,24
 
@@ -1859,7 +1859,7 @@ bg Air_03,22
 ;ld r,MIC_D1,80
 
 ;「うん。@……だから私が、死者蘇生の秘術を使ったの。@それで、智子ちゃんの魂は現世に帰ってこれたんだよ…！」\
-`"Yes.`@`... That's why I performed a revival rite.` @`That way, you're soul could come back to the mortal world...!"`\
+`"Yes.`@`... That's why I performed a revival rite.` @`That way, your soul could come back to the mortal world...!"`\
 ;ld l,TOM_D1,80
 
 ;「………はー。@……さすがはオカルト専門家のみちるちゃんだねー。@……まさか本当に、私を蘇らせられるなんて……。」@
@@ -2062,7 +2062,7 @@ ld l,MIC_N2,22
 `".....Yeah.`@`..... Don't worry...`@`... They're... all gone already."`@
 br
 ;　ノートは全て、智子の魂を呼び出すために燃やしてしまった。\
-` She had burned every last one of their notebooks to call forht Tomoko's soul.`\
+` She had burned every last one of their notebooks to call forth Tomoko's soul.`\
 bg black,22
 
 ;　……でも、………いいのかもしれない。@
@@ -2199,7 +2199,7 @@ bg Air_03,22
 ;ld l,TOM_D1,80
 
 ;「ん。@さよならね。@みちるちゃん。」@
-`"Yeah.`@`Goodbye, `@`Michiru-chan."`@
+`"Yeah.`@` Goodbye, `@`Michiru-chan."`@
 br
 ;　みちるはとぼとぼと屋上を去る。\
 ` Michiru wearily left the rooftop.`\
@@ -2270,7 +2270,7 @@ ld r,MAR_w2,80
 mld l,MIC_N2n,80
 
 ;「でも、……智子ちゃんは死んじゃった。@………死んだ人の面影を、……いつまでもいつまでも追っていたら、………眠れないよね……。@………眠らせてあげなくちゃ……。@……親友の眠りを、………静かに、……見守ってあげなくちゃ………。@……ぅぅうぅぅ……。」\
-`"But... she's dead now.`@`... If I keep holding on... to every little trace of those who have died... they won't be able to rest...`@`.... I have to let them sleep preacefully...`@`.. As her friend... I have to quitely... watch over her while she sleeps..... `@`... uuuUUUuuu..."`\
+`"But... she's dead now.`@`... If I keep holding on... to every little trace of those who have died... they won't be able to rest...`@`.... I have to let them sleep peacefully...`@`.. As her friend... I have to quietly... watch over her while she sleeps..... `@`... uuuUUUuuu..."`\
 ld c,SAK_D2,80
 
 ;「うりゅー……。@……みちるは偉いよ。@……よく、……がんばったね。」@
@@ -2296,7 +2296,7 @@ bg gakkou_07y,22
 ;　もう、秘術も契約も何もない。@
 ` There was no spell or contract anymore.`@
 ;　明日からは普通に、挨拶をしていい。\
-` She could greet people like normal startig tomorrow.`\
+` She could greet people like normal starting tomorrow.`\
 
 
 ;　……挨拶を出来るからといって、……したい相手がいるわけじゃない。@
@@ -2376,7 +2376,7 @@ br
 ;　いくつもの出会いと別れ、死別を乗り越えても、……力強く生きていく。@
 ` They can overcome many meetings, partings and even mournings... and live on all the stronger.`@
 ;　それを、まだ幼いみちるに期待するのは、確かに酷かもしれない。\
-` That's a lot to exprect from a girl as young as Michiru.`\
+` That's a lot to expect from a girl as young as Michiru.`\
 ld c,MAR_w2,80
 
 ;　でも、……生きていれば、癒えぬ悲しみはない。@
@@ -2476,7 +2476,7 @@ ld c,TOM_D3,22
 ld c,TOM_D1,80
 
 ;「みちるはね。@……暗そーにしてるけど。@笑えば、すっごい可愛い、面白い子なんだよ。@あの子が心さえ開けば、これからもっともっと友達が作れるよ。@……それを、死んだ私とお喋りが出来るなんてことと引き換えに、生涯、失うなんて。@……冗談じゃないねー！@　私はね、みちるちゃんにいつまでも笑っていてほしい。@幸せになってほしいの！」\
-`"Michuru.`@`.... She seems like the gloomy type, `@`but when she smiles, she's really cute, and fun kid. `@`If she'd just open her heart more, she could make so many friends.`@`... If you think that I'd let her throw away the rest of her life just so she could talk to me.... `@`You've gotta be kidding me! `@`I want Michiru to keep on smiling forever. `@`I want her to be happy!"`\
+`"Michiru.`@`.... She seems like the gloomy type, `@`but when she smiles, she's really cute, and fun kid. `@`If she'd just open her heart more, she could make so many friends.`@`... If you think that I'd let her throw away the rest of her life just so she could talk to me.... `@`You've gotta be kidding me! `@`I want Michiru to keep on smiling forever. `@`I want her to be happy!"`\
 cl c,0
 ld r,TOM_D7,23
 
