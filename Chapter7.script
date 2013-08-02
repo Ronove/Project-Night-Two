@@ -2558,7 +2558,8 @@ br
 ` But to them she looked like one of their human classmates.`\
 ld r,SMI_D6,80
 
-「どうだったみんな？@　今日も玲子の仕返ししてくれた？」@
+;「どうだったみんな？@　今日も玲子の仕返ししてくれた？」@
+`"So how about it?`@`Will you guys avenge Reiko today too?"`@
 ;＜スミレ私服
 br
 　清澄玲子と名乗る彼女の正体は、……夕闇のスミレ。@
@@ -2568,18 +2569,19 @@ br
 `"Of course, Reiko-chan.`@` Right?"`@
 ;「ああ。@昨日よりボッコボコにしてやったよ！」@
 `"Yeah.`@`I'm more worn out that yesterday."`@
-「秋一の野郎、ざまぁみやがれってんだ…！」\
-
+;「秋一の野郎、ざまぁみやがれってんだ…！」\
+`"That bastard...."`\
 cl r,0
 ld c,SMI_D2,24
 
-「……そう。@でも玲子、心配……。@昨日もみんなが懲らしめてくれたのに、朝来たらまた上履き隠されてたし……。」@
+;「……そう。@でも玲子、心配……。@昨日もみんなが懲らしめてくれたのに、朝来たらまた上履き隠されてたし……。」@
+`"...Yeah.`@`But Reiko's worried...`@`Even though you punished him yesterday for me, today my shoes have gone missing too..."`@
 ;「え、そうなの？！」\
 `"Ah, really?!"`\
 ld c,SMI_D1a,80
 
-「うん……。@下駄箱の中になかったから、探したんだけど見つからなくて……。@そしたら秋一くんが焼却炉の中に捨てようとしてたのを見ちゃったの……。」\
-
+;「うん……。@下駄箱の中になかったから、探したんだけど見つからなくて……。@そしたら秋一くんが焼却炉の中に捨てようとしてたのを見ちゃったの……。」\
+`"Yeah...`@`They weren't in the shoe rack, so I looked around for them, but to no avail...`@`Then, I say Shuuichi-kun trying to throw them into the incinerator..."`\
 mov %SMI_Isyou,2
 bg black,0
 ld c,SMI_w6,22
@@ -2610,46 +2612,55 @@ ld l,SMI_n3,80
 
 ;「それに、あんまり疑いたくないんだけど……。@最近は着替えとか、水着とか、そういうのなくなること多くて………。@……玲子……、怖い………。」\
 `"And then, I don't want to doubt too much...`@`but recently Reiko has been losing her changes of clothes, swimsuits, and stuff...`@`...It's scary..."`\
-　スミレは怯えながら、魔性の涙をぽろりと零す。@
+;　スミレは怯えながら、魔性の涙をぽろりと零す。@
+` While frightened, Sumire let the false tears flow.`@
 br
-　その涙は、いじめの味を教え、さらなるいじめっこを生み出す力を持つ……。\
-
+;　その涙は、いじめの味を教え、さらなるいじめっこを生み出す力を持つ……。\
+` Those tears could show a taste of bullying, and additionally create further bullies...`\
 quakey 1,100
 
-「秋一のヤツ、絶対ぇ許さねぇ！！」@
-「大丈夫だからな、玲子ちゃん！@　明日、俺らがまた思いっきり懲らしめといてやるからなッ！」@
-「今度こそ、ギタギタにしてやろうぜ！！@　ぶっ殺したって構わねぇ！！」\
-
+;「秋一のヤツ、絶対ぇ許さねぇ！！」@
+`"That bastard Shuuichi! I'm never gonna forgive him!!"`@
+;「大丈夫だからな、玲子ちゃん！@　明日、俺らがまた思いっきり懲らしめといてやるからなッ！」@
+`"It's okay, Reiko!`@`Tomorrow, we'll teach him a lesson!"`@
+;「今度こそ、ギタギタにしてやろうぜ！！@　ぶっ殺したって構わねぇ！！」\
+`"This time, we'll get him!`@`We'll kill that bastard!"`\
 cl l,0
 ld c,SMI_n1,23
 
-「………ありがとう。@……玲子、あなた達しか頼れる人いないの。」\
-
-「おう！@　俺らに任せとけって！」@
-「そうだよ！！@　二度と玲子ちゃんに手出しできないように、マジで腕の一本でもへし折っちまおうぜ！！」\
-
+;「………ありがとう。@……玲子、あなた達しか頼れる人いないの。」\
+`"....Thanks.`@`..You're the  only dependable guys there are.."`\
+;「おう！@　俺らに任せとけって！」@
+`"Yeah!`@`Leave it to us!"`@
+;「そうだよ！！@　二度と玲子ちゃんに手出しできないように、マジで腕の一本でもへし折っちまおうぜ！！」\
+`"Yep!`@`We'll even go so far as to break someone's arm to stop them meddling !"`\
 ld c,SMI_D6,80
 
-「……でも、玲子怖いなぁ……。@みんなが私のために秋一くんを殴ったって知られたら、@……玲子、今までよりもっと秋一くんにいじめられちゃうかもしれない……。」\
+;「……でも、玲子怖いなぁ……。@みんなが私のために秋一くんを殴ったって知られたら、@……玲子、今までよりもっと秋一くんにいじめられちゃうかもしれない……。」\
+`"...But Reiko is scared...`@`If he finds out that you all went after him for me...`@`he might just bully me more..."`\
 
-
-「大丈夫だって！@　今まで通り、秋一や他のみんなには内緒にするからさ。」@
-「そうそう！@　まぁ、何も言わなくてもわかれって話だよな。@これはいじめじゃなくて、天罰だっつーの！」@
+;「大丈夫だって！@　今まで通り、秋一や他のみんなには内緒にするからさ。」@
+`"It's fine!`@`Like until now, we'll keep it secret from Shuuichi and everyone else."`@
+;「そうそう！@　まぁ、何も言わなくてもわかれって話だよな。@これはいじめじゃなくて、天罰だっつーの！」@
+`"Yes yes!`@`He'll understand even if we don't say anything.`@`This isn't bullying, it's divine punishment!"`@
 「普通、あんだけ絡まれたら、天罰だと思わねぇかよなぁ？！」\
 
 ld c,SMI_D2n,80
 
-「……玲子、思うの。@秋一くんも、あなたたちみたいに人の気持ちが分かる男の子になって欲しいなって……。」\
-
-「玲子ちゃんは優し過ぎるよ！@　普通、自分のこといじめる奴にそんな風に思えないって。」@
-「それが玲子ちゃんのいいところなんだけどさ。」@
-「そんな玲子ちゃんだからこそ、俺たちで守らないと！」@
-「うんうん！」\
-
+;「……玲子、思うの。@秋一くんも、あなたたちみたいに人の気持ちが分かる男の子になって欲しいなって……。」\
+`"...Reiko thinks...`@`that Shuuichi just wants to become a person that understands the feelings of people like you..."`\
+;「玲子ちゃんは優し過ぎるよ！@　普通、自分のこといじめる奴にそんな風に思えないって。」@
+`"Man, Reiko-chan, you're too kind!`@`Most people don't try to empathize with their bully."`@
+;「それが玲子ちゃんのいいところなんだけどさ。」@
+`"That's the best part of Reiko-chan."`@
+;「そんな玲子ちゃんだからこそ、俺たちで守らないと！」@
+`"And that's why we'll protect you!"`@
+;「うんうん！」\
+`"Yep yep!"`\
 ld c,SMI_D5,80
 
-「ありがとう。@……じゃあ、みんな、明日もよろしくね。@/
-
+;「ありがとう。@……じゃあ、みんな、明日もよろしくね。@/
+`"Thanks you guys.`@`...Well, see you tomorrow.`@/
 mov %SMI_Isyou,2
 
 se1 84
@@ -2657,8 +2668,8 @@ se1 84
 bg black,0
 ld c,SMI_w6,2
 
-……ふっふふひひひ……。」\
-
+;……ふっふふひひひ……。」\
+`"....Hahahahaha...."`\
 bg black,2
 
 fede 0,2000
@@ -2668,10 +2679,11 @@ bg okujou_03u,22
 
 me1v 5,50
 
-　黄昏時が近付き、空の色が橙から紫へ、淡く美しいグラデーションを見せる頃。@
+;　黄昏時が近付き、空の色が橙から紫へ、淡く美しいグラデーションを見せる頃。@
+` As twilight approached, the sky turned to violet, and displayed a wonderful gradation of colors.`@
 br
-　彼岸花の姿は屋上にあった。\
-
+;　彼岸花の姿は屋上にあった。\
+` Higanbana was on the rooftop.`\
 bg black,22
 bg okujou_01u,0
 ld l,HIG_D8,22
@@ -2680,21 +2692,24 @@ wait 1000
 
 ld r,KOU_D5,22
 
-「おや、彼岸花くんではないかね。@……お邪魔だったかな？」@
+;「おや、彼岸花くんではないかね。@……お邪魔だったかな？」@
+`"Oh, if it isn't Higanbana-kun.`@`...I'm not interrupting anything, am I?"`@
 ;＜校長
 
 ld l,HIG_D10,80
 
 「……邪魔だったら、有無を言わさず、引き裂いているわ。校長先生？」\
 
-　この恰幅の良い紳士の姿をした妖怪は、通称、「校長先生」。@
+;　この恰幅の良い紳士の姿をした妖怪は、通称、「校長先生」。@
+` This portly monster in the shape of a gentleman was commonly called "Principal".`@
 br
-　その名の通り、すでに校内のあらゆる妖怪の頂点に立つことを、自他共に認める大妖怪だ。\
-
-　かつては彼岸花と、壮絶な争いを繰り広げたこともある。@
+;　その名の通り、すでに校内のあらゆる妖怪の頂点に立つことを、自他共に認める大妖怪だ。\
+` As the name suggests, he stands atop all the other monsters in the school.`\
+;　かつては彼岸花と、壮絶な争いを繰り広げたこともある。@
+` In the past he had fought fierce battles with Higanbana on occasion.`@
 br
-　しかし、校長が彼岸花と戦うことを望まなくなってからは、刃を交えることはなくなっていた。\
-
+;　しかし、校長が彼岸花と戦うことを望まなくなってからは、刃を交えることはなくなっていた。\
+` But the desire to fight had long since vanished, and so the two no longer crossed swords.`\
 bg black,22
 
 fede 0,1000
@@ -2704,34 +2719,38 @@ bg Air_01,22
 
 bgm1 8
 
-「ねぇ、校長先生。」@
-「何だね。」\
-
-「……………………。@……私たち妖怪って、何のために存在するのかしら。」@
-「わからんね。@だが、ひとつだけ言えることがあると思っているよ。」\
-
-「………何？」@
-「人間が存在しなければ、我ら妖怪も存在できないということだよ。」\
-
-「……つまり、私たちは人間の一部だということ？」@
-「そう言ってもいいかもしれんね。@あるいは、我らは人間の影なのかもしれん。@人間が存在するからこそ、その影に我らが存在できるのだよ。」\
-
+;「ねぇ、校長先生。」@
+`"...Hey, Principal?"`@
+;「何だね。」\
+`"What is it?"`\
+;「……………………。@……私たち妖怪って、何のために存在するのかしら。」@
+`"..........`@`..We monsters...why do we exist?"`@
+;「わからんね。@だが、ひとつだけ言えることがあると思っているよ。」\
+`"I'm not sure.`@`But I think there's one thing I can say."`\
+;「………何？」@
+`"What's that?"`@
+;「人間が存在しなければ、我ら妖怪も存在できないということだよ。」\
+`"We monsters couldn't exist if humans didn't."`\
+;「……つまり、私たちは人間の一部だということ？」@
+`"...In other words, we're part of the human makeup?"`@
+;「そう言ってもいいかもしれんね。@あるいは、我らは人間の影なのかもしれん。@人間が存在するからこそ、その影に我らが存在できるのだよ。」\
+`"You could say that.`@`Or maybe that we're part of the shadows of humans.`@`But humans exist, they cast the shadows in which we live."`\
 bg okujou_01u,0
 ld l,HIG_D9,0
 ld r,KOU_D3,22
 
 ld l,HIG_D8,80
 
-「つまり、私たち妖怪は所詮、人間の寄生虫だということね。」\
-
+;「つまり、私たち妖怪は所詮、人間の寄生虫だということね。」\
+`"So we're human parasites..."`\
 ld r,KOU_D2,80
 
-「君は、自分をそう思っているのかね？」@
-
+;「君は、自分をそう思っているのかね？」@
+`"Do you think that of yourself?"`@
 ld l,HIG_D9,80
 
-「………だって、そうでしょう？@　人間たちに取り憑き、魂のおこぼれを摘み食いして生き延びてる。@それが寄生虫じゃなくて、何だというのよ。」\
-
+;「………だって、そうでしょう？@　人間たちに取り憑き、魂のおこぼれを摘み食いして生き延びてる。@それが寄生虫じゃなくて、何だというのよ。」\
+`"...But isn't that what it is?`@`We pinch souls spilled from humans to extend our life.`@`If that's not a parasite, then what is it?"`\
 textoff
 
 wait 1000
