@@ -343,7 +343,7 @@ ld r,AYA_D4,22
 `　I've also heard the story of the 13th step.`@
 br
 ;　ぴったり１３段の階段なんて学校には存在しないはずなのに。@唐突に階段が１３段になってしまうらしいという怪異。@
-`　Even though the school shouldn't have a 13 steps on a flight of stairs. `@`There's now this strange phenomenon that has just developed about a 13th step.`@
+`　Even though the school shouldn't have a flight of stairs with a 13th step. `@`There's now this strange phenomenon that has just developed about one.`@
 ;　そして、それを踏んだ者には、恐ろしいことが起こるとか何とか……。\
 `　And they say that horrors await those who stumble upon it, or some such...`\
 
@@ -351,14 +351,14 @@ br
 ;「１３階段を踏んじゃったら、どうなんの？」@
 `"What happens when you step on the 13th step?"`@
 ;「死神が命、奪いに来るんだって。@どこまでもどこまでも追っ掛けて来るんだって。」@
-`"They say the grim reaper comes to take your life. `@`I've heard it'll follow you wherever you go, no matter how far."`@
+`"They say a shinigami -- a grim reaper -- comes to take your life. `@`I've heard it'll follow you wherever you go, no matter how far."`@
 ;「えー、何それ、やだー、あははうふふっ。」\
-`"Huuuh? What is that? No way, ahaha,uhuhu."`\
+`"Huuuh? What is that? No way, ahaha, uhuhu."`\
 
 ld r,AYA_D3,80
 
 ;　１３階段を踏んだら、死神が命を奪ってくれる、か。@
-`　If you step on the 13th floor, the grim reaper will come for your life, huh?`@
+`　If you tred on the 13th step, a shinigami will come for your life, huh?`@
 br
 ;　………階段なら学校で毎日、上り下りをしてる。@
 `　...I go up and down stairs every day at school.`@
@@ -371,11 +371,11 @@ ld r,AYA_D2,80
 `　.........`@
 br
 ;　死神、か……。@
-`　Grim reaper, huh...`@
+`　Shinigami, huh...`@
 ;　人の命を刈り取る、無慈悲な存在。@
 `　Harvesting the lives of mortals, a being without mercy.`@
 ;　魂を奪い、黄泉へ連れ去ってくれるという、死への案内人。\
-`　Snatching souls and ferrying them down to the underworld, the guide to death.`\
+`　Snatching souls and ferrying them down to the underworld, a deathly escort.`\
 
 bg black,22
 
@@ -387,10 +387,10 @@ bgm1 5
 `　.........`@
 br
 ;　不思議だ。@本来、不気味に感じるべき存在である死神に、……私は不思議な憧れを抱いていた。\
-`　It's strange. `@`Even though I should find the thought of a reaper unpleasant... these days I've strangely embraced a longing for it.`\
+`　It's strange. `@`Even though I should find the thought of a shinigami unpleasant... these days I've strangely embraced a longing for it.`\
 
 ;　死神はどのように命を奪ってくれるのだろう。@
-`　I wonder how a reaper would kindly take my life away.`@
+`　I wonder how a shinigami would kindly take my life away.`@
 br
 ;　ぱちりと、まるで電気のスイッチでも消すように、命を奪ってくれるのだろうか。\
 `　I wonder if it would just take my life away like flipping off a light switch.`\
@@ -399,7 +399,7 @@ bg kyou_03,0
 ld r,AYA_D2,22
 
 ;　そうだとしたら、……私にとって、死神の存在は、まさに慈悲だった。@
-`　If that were true, ...then the grim reaper was truly a being of mercy.`@
+`　If that were true, ...then the shinigami was truly a being of mercy.`@
 br
 ;　自分にも世界にも、そして繰り返される毎日にも、何の意味も価値も見出せない私にとって、@ここは居るだけで身を焼かれる乾き切った地獄も同然なのだ。\
 `　My life, this world too, and all of these days I'm made to repeat endlessly, they're all meaningless to me. `@`Just 'being' is the same as being burned and flayed in hell to me.`\
@@ -410,7 +410,7 @@ cl r,22
 `　...Then my reason for living.`@
 br
 ;　この世界から私を連れ去ってくれる、死神が訪れる日を、ただ待ち続けること。@この一点だけなのではないだろうか。\
-`　Waiting for the day the grim reaper comes to take me away from this world. `@`Perhaps that is the only reason I have.`\
+`　Waiting for the day the shinigami comes to take me away from this world. `@`Perhaps that is the only reason I have.`\
 
 ;　その日より、私、相馬あやは、@学校で階段を上り下りする度に、その段数を心の中で数えるようになった。\
 `　From that day forth, each time I, Aya Souma, went up and down the stairs at school, `@`I started counting the steps in my mind.`\
@@ -432,7 +432,7 @@ br
 `　...Like the most natural thing in the world, `@`no matter how many times I'd try going up and down the stairs, I'd get off at the 12th step and arrive on the second floor.`@
 br
 ;　その１２段が、……ある日、唐突に１３段になって、……死神が現れてくれないだろうか。\
-`　I thought maybe that someday... suddenly a 13th step would appear... and a god of death would come for me.`\
+`　I thought maybe that someday... suddenly a 13th step would appear... and a shinigami would come for me.`\
 
 ;　６段。@７段。@８段……。\
 `　6. `@`7. `@`8 steps...`\
@@ -540,10 +540,10 @@ br
 ;　そして何よりも。@
 `　Yet more than anything.`@
 ;　本当に１３段を踏んだなら、……現れなくてはならないはずの死神が、その姿を現さない。@
-`　If I really stood on the 13th step... the grim reaper, that had to show itself, didn't appear.`@
+`　If I really stood on the 13th step... the shinigami, that had to show itself, didn't appear.`@
 br
 ;　……死神が現れない以上。@……私が１３段目を踏んだと思ったのは勘違いに違いないし。@……仮に本当に１３段目の怪異があったとしても、@……私を迎えに来てくれないのなら、何の意味もないのだ。\
-`　...Since the grim reaper can't show itself. `@`...Then I must have simply mistook what I stood on to be the 13th step. `@`...And even if I had stood on a mysterious 13th step, `@`...it didn't mean anything because the reaper didn't come for me.`\
+`　...Since the shinigami can't show itself. `@`...Then I must have simply mistook what I stood on to be the 13th step. `@`...And even if I had stood on a mysterious 13th step, `@`...it didn't mean anything because the shinigami didn't come for me.`\
 
 bg black,22
 bg kaidan_01,22
@@ -605,12 +605,12 @@ bg gakkou_01,2
 bgm1 22
 
 ;　あやの学校での一日は、ぼんやりしているか、まどろんでいるか。@……あるいは机に突っ伏して眠っているかだけだ。@
-` At Aya's school, whether she's daydreaming or dozing off,`@`...she just spends her days with her eyes closed laying down on her desk.`@
+` At Aya's school, whether she's daydreaming or dozing off,`@`...she just spends her days with her eyes closed lying down on her desk.`@
 br
 ;　だから、彼女の一日は、常にぼうっとして霞んでいる。@
 ` So her days are always spent in a dreamy blur.`@
 ;　半分寝ているような、起きているような、……そんなまどろみの中で生きているのだ。\
-` Seemingly half asleep, but seemingly half awake... she exists within that kind of dream.`\
+` Seemingly half-asleep, but seemingly half-awake... she exists within that kind of dream.`\
 bg black,22
 bg gakkou_02,22
 
@@ -618,7 +618,7 @@ bg gakkou_02,22
 ` Because of that... there's no way she'd have anything like an appetite.`@
 br
 ;　給食の時間も、ほとんど箸は進まず、いつも残していた。@
-` At lunch time the chopsticks go almost unused, and she always had leftovers. `@
+` At lunchtime the chopsticks go almost unused, and she always had leftovers. `@
 br
 ;　そしてぼんやりと放課後を向かえ、ぼんやりと下校した。\
 ` So she listlessly met with the end of the school day, and listlessly went home. `\
@@ -629,7 +629,7 @@ bg roji_03,22
 ` Her parents both worked, so they'd come home late.`@
 br
 ;　かつてはテレビも見ていたが、その馬鹿馬鹿しい内容に何の意味も価値も見出せず。@……今では彼女は、家でもただぼんやりと横になって過ごすだけだった。\
-` She used to watch television, but found no meaning or value in the idiotic content of the programs... `@`Now she just passes the time laying around in the house.`\
+` She used to watch television, but found no meaning or value in the idiotic content of the programs... `@`Now she just passes the time lying around in the house.`\
 bg black,22
 bg ie_04,22
 
@@ -642,7 +642,7 @@ br
 ` Her wild imagination could conjure up a variety of stories about these spots, `@`but she was already exhausted and tired of the senselessness.`@
 br
 ;　だからぼんやりと、こうして死体のように放心するのだ。\
-` That's why she listlessly emptied her mind like this as if she were a corpse.`\
+` That's why she lethargically emptied her mind like this as if she were a corpse.`\
 ;　意識がだんだん薄れてくる。@
 ` Her consciousness is starting to fade.`@
 ;　……このまま死ねないかな。@
@@ -669,22 +669,22 @@ br
 ;　眠るのは生きている人間のすることだ。@
 ` Sleep is for those who are alive.`@
 ;　死体は横になっているだけで、眠っているわけじゃない。\
-` Corpses simply lay still -- they do not sleep.`\
+` Corpses simply lie still -- they do not sleep.`\
 ;　……学校でも家でも居眠りばかりの彼女が、夜に快眠できるわけもない。@
 ` There's no way a girl who dozes off at school and at home all the time can sleep soundly at night.`@
 br
 ;　だから、眠れない。@
 ` That explains why she can't sleep.`@
 ;　学校でも家でもそうであるように、@……まどろみと放心の入り混じった、どろどろの死体になって、@横になっているだけだった。\
-` At school and at home, `@`...mixed with her sloth and dozing, she'd lay still and become a rotting corpse.`\
+` At school and at home, `@`...mixed with her sloth and dozing, she'd lie still and become a rotting corpse.`\
 
 ;　それで、せめて無心だったなら、彼女もさぞや気楽だったろう。@
-` One would think because she was unconscious she would have been comfortable.`@
+` One would think because she was unconscious, she would have been comfortable.`@
 br
 ;　しかし、彼女は生きている。@
 ` However, she is still living.`@
 ;　だから、死体になりながらも延々と、@自分の意味や価値、生きることの意味や価値への自問自答を繰り返しているのだ。\
-` So each time she would become a corpse,`@` she would repeatedly ask herself the meaning and value in her life.`\
+` So each time she would become a corpse,`@` she would repeatedly ask herself the meaning and value of her life.`\
 ;　それに窒息し掛けながら、希薄な意識のまま、緩い頭痛に彼女はずっとずっと苛まれ続けている……。@
 ` As she suffocates in this manner, in her dull consciousness she continues to be endlessly tormented by a throbbing headache...`@
 br
@@ -736,7 +736,7 @@ bg black,23
 bg rouka_03,23
 
 ;　ぱたぱたと、誰かが走る音が近付いてくる。@
-` The patter of footsteps of someone running is drawing near.`@
+` The patter of someone's running footsteps is drawing near.`@
 br
 ;　それは、全身汗だくで呼吸を荒げた、一人の少女だった。@
 ` It was a lone girl sweating profusely and breathing heavily.`@
@@ -773,24 +773,24 @@ ld c,IZA_D3,42
 ld c,IZA_D2,22
 
 ;　廊下の彼方にゆらりと、その足音の主の姿が浮かび上がる。@
-` Swaying in the corridor beyond, the figure of the owner of those footsteps appeared.`@
+` Swaying in the corridor beyond, the owner of those footsteps's figure appeared.`@
 br
 ;　それは黒いマントを羽織った男の姿。@
 ` It was a man in a black coat.`@
 ;　肩に担ぎ上げているのは、……大きな大きな、鎌だった。@
 ` And on his shoulder he bore... a great, massive, scythe.`@
 ;　その姿を見て、死神を連想しない者はいないだろう。\
-` Anyone could clearly see that he was a grim reaper, a shinigami.`\
+` Anyone could clearly see that he was a shinigami.`\
 
 me1v 17,70
 
 ;　少女にも、その禍々しい姿が近付いてくるのが見えているはず。@
-` That must be apparent to the girl as well as his ominous shadow drew closer.`@
+` That must be apparent to the girl as well, as his ominous shadow drew closer.`@
 br
 ;　しかし、もう立ち上がる気力はおろか、振り返る気力さえもないようだった。\
 ` However, she didn't have the energy to look over her shoulder or even stand.`\
 ;　死神は、そんな彼女になおもずかずかと近付いてくる。@
-` The reaper was still stomping towards her.`@
+` The shinigami was still stomping towards her.`@
 br
 ;　すでに逃げる気力を失い、彼女が観念したことを認めると、にやりと笑った。\
 ` Having already lost the energy to flee, she accepted defeat, and grinned.`\
@@ -901,7 +901,7 @@ bg black,5
 me2v 28,100
 
 ;　全身を焼き尽くされて死んだ少女の魂は、奈落の底に落下していた。@
-` The soul of the completely burnt girl fell into the depths of abyss.`@
+` The soul of the completely burned girl fell into the depths of an abyss.`@
 br
 ;　無我の境地などとんでもない。@
 ` There was no unconsciousness or loss of self.`@
@@ -943,7 +943,8 @@ br
 ` In a flash, her skin melted and became just like a bloody human anatomy dummy...`@
 ;　肉の大地は絶え間なく蠢き、少女を酸の海や牙の剣山の上で、嬲るように転がし続けるのだ。\
 ` The fleshy ground continued as if torturing her by rolled the girl over and over in a sea of acid and needles.`\
-　それは紛れもなく、巨大な悪魔の胃袋が、彼女を消化しようとする行為だった。@
+;　それは紛れもなく、巨大な悪魔の胃袋が、彼女を消化しようとする行為だった。@
+`　Without a doubt, the monstrous demon's stomach was trying to digest her.`@
 br
 ;　少女は苦痛に絶叫しながら、早く自分が事切れてくれることを願う。@
 ` The girl, screaming in pain prayed for her life to quickly end.`@
@@ -1058,7 +1059,7 @@ bg black,22
 ` Was that really a dream?`@
 br
 ;　こうして、何事もなく布団の中で目を覚ませたことを、これほど嬉しく思ったことはない。\
-` I'd never been so happy to just be uneventfully laying wide awake in my futon.`\
+` I'd never been so happy to just be uneventfully lying wide awake in my futon.`\
 mono 1
 bg k_rouka_03,0
 ld c,IZA_D5,22
@@ -1964,7 +1965,7 @@ bg black,22
 br
 ;　ちょっと走っては休み。@ちょっと走っては休み。@……それだけの繰り返しじゃないか。@それの何が、難しいことなんだ…？\
 ` Run a little, rest a little. `@`Run a little, rest a little. `@`I mean, all I had to do was keep doing that over and over? `@`Just what's difficult about that...?`\
-　……………本当は、わかってる。@
+;　……………本当は、わかってる。@
 ` ......But I knew the truth.`@
 br
 ;　小休止を挟めるとはいえ、……１０分間、走り続けるというのは、やはり疲れることなのだ。\
@@ -2323,7 +2324,7 @@ ld c,MIC_D1,26
 ld c,MIC_D2,80
 
 ;「………１３階段の死神？@　知ってる。@学校妖怪序列第２位、１３階段の死神、イザナミだよ。」@
-`"...Shinigami of the 13th Step? `@`I know him. `@`That's The Second Ranked School Youkai, Shinigami of the 13th Step, Izanami."`@
+`"...Reaper of the 13th Step? `@`I know him. `@`That's The Second Ranked School Youkai, Reaper of the 13th Step, Izanami."`@
 
 ld l,AYA_D7a,23
 ld l,AYA_D8a,80
@@ -2661,7 +2662,7 @@ se1 12
 quakey 1,100
 
 ;「冗談じゃねぇよ……。@４９日も逃げ切れるわけねぇよ……。@………俺は死神に魅入られた時点で、もう死んだも同然だったんだ。@……どうせあの地獄に落ちるなら、@……とっとと観念すれば、余計に苦しむことはなかったんだ……。」\
-`"This isn't funny... `@`There's no way that I can keep running away for 49 days...`@`.... I'm being haunted by a reaper, I'm already as good as dead.`@`... Eventually I will fall into that hell `@`....by doing this I'm only adding to my suffering. I should just give up now....`\
+`"This isn't funny... `@`There's no way that I can keep running away for 49 days...`@`.... I'm being haunted by a shinigami, I'm already as good as dead.`@`... Eventually I will fall into that hell `@`....by doing this I'm only adding to my suffering. I should just give up now....`\
 
 ld r,AYA_D4a,24
 
@@ -3083,7 +3084,7 @@ br
 ;　彼の存在は、席ごと、なくなっていた。\
 ` His existence, together with his seat in the classroom, have disappeared.`\
 ;　これが学校八不思議の、１３階段の死神に呪われた者の、……末路なのだ。\
-` This was one of the eight mysteries of the school. The fate of those cursed by the Shinigami of the 13th step.`@
+` This was one of the eight mysteries of the school. The fate of those cursed by the Reaper of the 13th Step.`@
 ;　唯一の仲間を失い、……私の心が絶望に押し潰されそうになる。@
 ` It felt like... my heart was being crushed in despair at the loss my sole companion.`@
 br
@@ -3628,7 +3629,7 @@ cl c,24
 ld r,IZA_D3,22
 
 ;「言ったろ。@４９日が終わるか、お前が俺に捕まるか。@そのどちらかでしか、俺とお前の放課後は終わらねェ。@それが俺の、学校妖怪序列第２位、１３階段の死神のルールだ。」\
-`"I just told ya. `@`Either go for the full 49 days, or get caught by me. `@`Those are the only ways to end our game. `@`That is my rule as the shinigami of the 13th step, 2nd ranked among the school youkai."`\
+`"I just told ya. `@`Either go for the full 49 days, or get caught by me. `@`Those are the only ways to end our game. `@`That is my rule as the Reaper of the 13th Step, 2nd ranked among the school youkai."`\
 bg black,23
 bg rouka_04,23
 
@@ -3864,7 +3865,7 @@ br
 ` What's the meaning of life? That's something that you can only answer for yourself.`@
 ;　そんな無意味なことで自分を苦しめるくらいなら、頭はカラッポの方がいい。\
 ` What is worthless and what is meaningless? If you're going to torment yourself over such meaningless question, you're much better off just emptying your mind.`\
-　さぁ、何も考えずにカラッポになろう。@ただ、走ることに集中しよう。@
+;　さぁ、何も考えずにカラッポになろう。@ただ、走ることに集中しよう。@
 ` So, I shall stop thinking, `@`and just concentrate on running.`@
 br
 ;　そのカラッポの時が、一番、身も心も軽くなるのだ。\
