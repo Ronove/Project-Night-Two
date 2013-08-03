@@ -2756,88 +2756,93 @@ textoff
 wait 1000
 ld r,KOU_D1,80
 
-「君がそうだと思っているのなら、そうなのではないかね？」@
-
+;「君がそうだと思っているのなら、そうなのではないかね？」@
+`"If that's what you think it is, then isn't that what it is?"`@
 ld l,HIG_D8,80
 
-「……………そうね。」\
-
+;「……………そうね。」\
+`"....I guess."`\
 bg black,22
 
-　寄生虫に感情はいらない。@
-　ただ生きるためだけに、日々を繰り返せばいい。@
+;　寄生虫に感情はいらない。@
+` Parasites didn't need feelings.`@
+;　ただ生きるためだけに、日々を繰り返せばいい。@
+` They'd repeat their days endlessly just for the sake of living.`@
 br
-　……でも、そんな日々に、緩慢な苦痛を覚えたのだ……。\
-
+;　……でも、そんな日々に、緩慢な苦痛を覚えたのだ……。\
+` ...But as those days progressed, she felt a gradual discomfort...`\
 ld c,HIG_D9,22
 
-　なら、私は寄生虫じゃない。@
+;　なら、私は寄生虫じゃない。@
+` If that was the case, then she maybe wasn't a parasite.`@
 br
-　私は誰？@
-　私は妖怪。@
-　なら、妖怪とはどうあるべきなの……？\
-
+;　私は誰？@
+` Who am I?`@
+;　私は妖怪。@
+` I'm a monster.`@
+;　なら、妖怪とはどうあるべきなの……？\
+` So then what should a monster be...?`\
 bg black,22
 bg okujou_02,22
 ld l,KOU_D3,22
 
-「私は私なりの答えを見つけているがね。@だが、君にそれを教えて、押し付けようとは思わんよ。」@
-
+;「私は私なりの答えを見つけているがね。@だが、君にそれを教えて、押し付けようとは思わんよ。」@
+`"I have found the answer to my appearance.`@`But I'm not going to tell you, since I don't think I'll impose such a thing on yourself."`@
 ld r,HIG_D8,24
 
-「ケチ。」\
-
+;「ケチ。」\
+`"So stingy."`\
 ld l,KOU_D1,80
 
-「ほっほっほっほ。@君はまだまだ若い妖怪だ。@色々と考えたまえ。@それがきっと、君のためになる。」\
-
+;「ほっほっほっほ。@君はまだまだ若い妖怪だ。@色々と考えたまえ。@それがきっと、君のためになる。」\
+`"Ho ho ho....`@`You're still a young monster though.`@`Think about lots of things.`@`I'm sure that will benefit you."`\
 ld r,HIG_D10,80
 
-「ねぇ、校長先生。@………あんたにはあるの？@　感情ってヤツ。」@
-
+;「ねぇ、校長先生。@………あんたにはあるの？@　感情ってヤツ。」@
+`"Hey, Principal...`@`...Do you have them?`@`..Feelings, I mean."`@
 ld l,KOU_D4,80
 
-「あるとも。」\
-
+;「あるとも。」\
+`"I do."`\
 ld r,HIG_D8,80
 
-「それは、………楽しいもの？」@
-
+;「それは、………楽しいもの？」@
+`"Are they...fun?"`@
 ld l,KOU_D1,80
 
-「もちろん。」\
-
+;「もちろん。」\
+`"Of course."`\
 ld r,HIG_D9,80
 
-「………それは、なくてはならないもの？」@
-
+;「………それは、なくてはならないもの？」@
+`"...Are they something you have to have?"`@
 ld l,KOU_D3,80
 
-「わからんね。@……ただ、一つだけ言えることがある。」\
-
+;「わからんね。@……ただ、一つだけ言えることがある。」\
+`"I don't know.`@`...But...there's one thing I can say for certain."`\
 ld r,HIG_D10,80
 
-「何？」\
-
+;「何？」\
+`"What's that?"`\
 bg black,22
 
 ;cl l,0
 ;ld c,KOU_D1,23
 
-「それがなければ、人間ではない、ということだよ。」\
-
+;「それがなければ、人間ではない、ということだよ。」\
+`"If you don't have them, then you're not human."`\
 ;ld r,HIG_D8,80
 
-「私たち、妖怪よ？」@
-
+;「私たち、妖怪よ？」@
+`"Am I a monster?"`@
 ;ld c,KOU_D3,80
 
-「妖怪が人間の影であるなら。@私たちが持っていてもおかしいことではないね。」@
-
+;「妖怪が人間の影であるなら。@私たちが持っていてもおかしいことではないね。」@
+`"Monsters live in the shadows of humans.`@`Considering that, is it really that strange that we would have emotions too?"`@
 ;ld r,HIG_D10,80
 
-「………………………………。」\
-
+;「………………………………。」\
+`"..................."`\
 ;bg black,23
 bg okujou_01u,0
 ld r,KOU_D3,22
@@ -2846,20 +2851,20 @@ me1v 5,50
 
 ld r,KOU_D2,80
 
-「君はとても強い妖怪だが、未熟な存在でもある。@幸いにも、他の妖怪たちに脅かされない程度の妖力を持つことが出来た。@……なら今度は、自らについて考えることに時間を割くのも良いのではないかね。」\
-
+;「君はとても強い妖怪だが、未熟な存在でもある。@幸いにも、他の妖怪たちに脅かされない程度の妖力を持つことが出来た。@……なら今度は、自らについて考えることに時間を割くのも良いのではないかね。」\
+`"You are a very powerful monster, despite your short existence.`@`You were able to amass a power so great that you are now unthreatened by other monsters.`@`..So then, now if you thought about yourself a bit, I think that would be good for you."`\
 ld l,HIG_D9,22
 
-「私の、……在るべき姿。@………為すべきこと。」@
-
+;「私の、……在るべき姿。@………為すべきこと。」@
+`"My...body that ought to exist.`@`..I should have it."`@
 ld r,KOU_D1,80
 
-「ほっほっほっほ。@考えたまえ、色々と。」@
-
+;「ほっほっほっほ。@考えたまえ、色々と。」@
+`"Ho ho ho.`@`Think about it a lot."`@
 ld l,HIG_D8,80
 
-「そうね。@……そうするわ。」\
-
+;「そうね。@……そうするわ。」\
+`"Yeah.`@`...I'll do that."`\
 bg black,2
 bg okujou_03u,22
 
@@ -2869,20 +2874,20 @@ bg okujou_03u,22
 
 ;ld r,HIG_D10,22
 
-「……最悪のクソガキどもだわ。」\
-
+;「……最悪のクソガキどもだわ。」\
+`"...Those little shits."`\
 ld l,KOU_D4,22
 
 「人間は陽の下に生きるよう定められた存在だ。@邪悪なる闇の中にまで、足を踏み入れてはならない。@……だからこそ、彼らの闇を領分とする存在が必要だと思うのだよ。@私は、それが妖怪の役目だと思っているよ。」\
 
 ld r,HIG_D8,22
 
-「それが、あんたなりの解釈？」@
-
+;「それが、あんたなりの解釈？」@
+`"Is that your interpretation of your appearance?"`@
 ld l,KOU_D3,80
 
-「押し付けようとは思わんよ。」\
-
+;「押し付けようとは思わんよ。」\
+`"I don't want to force it."`\
 ld r,HIG_D9,80
 
 「………子供たちって、………こうして見下ろしていると、本当に残酷よね。」@
