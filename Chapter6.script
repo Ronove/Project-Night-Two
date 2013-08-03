@@ -2128,16 +2128,18 @@ ld c,YOS_D8a,80
 
 ;　正明は自分の両手を見る。@
 ` Masaaki looked down at his hands.`@
-　手の平にも、何か熱さが宿ったように感じた。@
+;　手の平にも、何か熱さが宿ったように感じた。@
+` He could feel a wamrth spreading through the palms of his hands as well.`@
 br
-　自分は本当に、……いじめっこになれたのだろうか。\
+;　自分は本当に、……いじめっこになれたのだろうか。\
+` Could he... really become a bully?`\
 
 
-
-　全ては、明日の学校でわかる。@
+;　全ては、明日の学校でわかる。@
+` He'll find out at school tomorrow.`@
 br
-　正明はぐっと両手を握り締めながら、空き地を後にするのだった……。\
-
+;　正明はぐっと両手を握り締めながら、空き地を後にするのだった……。\
+` Masaaki clenched his hands into fists and left the vacant lot behind...`\
 cl c,2
 
 fede 1,2000
@@ -2150,9 +2152,10 @@ wait 1000
 ;bg akiti_1y,22
 ld r,AZA_D1,22
 
-　その正明の後姿を、アザミは見送っていた。@
-　すると、もう一人の妖怪が、すぅっと姿を現した……。\
-
+;　その正明の後姿を、アザミは見送っていた。@
+` Azami was watching Masaaki walk off into the distance.`@
+;　すると、もう一人の妖怪が、すぅっと姿を現した……。\
+` Just then, another youkai appeared next to her...`\
 E_A
 
 mov %SMI_Isyou,2
@@ -2161,19 +2164,20 @@ ld c,SMI_w3,80
 
 bgm1 28
 
-「さすがは姉者なのじゃ！@　いつもながら、見事なお手並みなのじゃ…！」@
+;「さすがは姉者なのじゃ！@　いつもながら、見事なお手並みなのじゃ…！」@
+`"As expected of my big sister! `@`You're as skillful as ever...!"`@
 ;＜スミレ
 
 ld r,AZA_D4,80
 
-「うふふふふ。@……スミレ、人間は脅しても動きません。@認め、肯定し、唆すのが何よりも最良なのですよ。」\
-
+;「うふふふふ。@……スミレ、人間は脅しても動きません。@認め、肯定し、唆すのが何よりも最良なのですよ。」\
+`"Ufufufu.`@`... Sumire, humans won't act even when threatened. `@`The best way to get them to do something is through acceptance, positive affirmation and enticement."`\
 
 
 ld c,SMI_w4,80
 
-「姉者の唆しは天下一品なのじゃ！@　私も昔はそれに引っ掛かって、何度もおやつを横取りされたのじゃ…！@/
-
+;「姉者の唆しは天下一品なのじゃ！@　私も昔はそれに引っ掛かって、何度もおやつを横取りされたのじゃ…！@/
+`"Your ability to entice is unsurpassed! `@`I too once fell for something like that and had many of my snacks taken from right under my nose...!`@/
 ;cl l,23
 ;mld c,AZA_D1,23
 ;ld r,SMI_D1,80
@@ -2185,8 +2189,8 @@ ld r,AZA_D5,80
 ld c,SMI_i3a,80
 quakex 1,100
 
-　あいだだだだだだッだだだッ…！！」\
-
+;　あいだだだだだだッだだだッ…！！」\
+` Ahh OWOWowowowOWowouch...!!"~\
 ld c,SMI_i1,80
 
 se1 48
@@ -2203,8 +2207,8 @@ quakey 2,200
 ;ld c,SMI_D1,24
 
 
-　アザミはにこやかな笑顔で、スミレの頬を、まるでお雑煮のお餅のように、びろーんとひん伸ばして抓り上げる。\
-
+;　アザミはにこやかな笑顔で、スミレの頬を、まるでお雑煮のお餅のように、びろーんとひん伸ばして抓り上げる。\
+` With a smile on her face, Azami pinched Sumire's cheeks and stretched them out like two balls of mochi.`\
 
 ;mcl c,0
 ;■ｱｻﾞﾐ背景
@@ -2216,42 +2220,42 @@ quakey 2,200
 ;mld c,AZA_D1,80
 ld r,AZA_D4,80
 
-「可愛い妹のたっての頼みです。@たまにはあなたの話にも乗ってあげましょう。」\
-
+;「可愛い妹のたっての頼みです。@たまにはあなたの話にも乗ってあげましょう。」\
+`"If my cute little sister requests it, `@`I could help you out with your hunts every now and again."`\
 
 ;ld r,SMI_D1,80
 cl c,0
 ld l,SMI_w4,24
 ld l,SMI_w2,80
 
-「ふ、ふふふふひひひはははは…！！@　私は前回の恨みを忘れてはおらぬのじゃ！@　おのれ彼岸花め、@私の育てし可愛い可愛いいじめの花たちを、ぜーんぶ横から掻っ攫いおったあの恨み、忘れはせぬのじゃ！@/
-
+;「ふ、ふふふふひひひはははは…！！@　私は前回の恨みを忘れてはおらぬのじゃ！@　おのれ彼岸花め、@私の育てし可愛い可愛いいじめの花たちを、ぜーんぶ横から掻っ攫いおったあの恨み、忘れはせぬのじゃ！@/
+"Heh, fufufuhihihihahaha...!! `@`I still bear a grudge for what she did to me last time! `@`That damnable Higanbana. `@`I still haven't forgiven her for stealing away all my cute little flowers I raised to be bullies!`@/
 ;ld r,SMI_D1,80
 
-　……だが、彼岸花はおっかないからのぅ。@あやつに仕返しはちょいと難しいのじゃ。」\
-
+;　……だが、彼岸花はおっかないからのぅ。@あやつに仕返しはちょいと難しいのじゃ。」\
+` ...But Higanbana's fierceness is nothing to bat an eye at. `@`Getting my revenge on her may be difficult."`\
 
 
 ;mld c,AZA_D1,80
 ld r,AZA_D5,80
 
-「それで目標を変更した。@……スミレは偉いです。@届かぬ高望みはいけません。」\
-
+;「それで目標を変更した。@……スミレは偉いです。@届かぬ高望みはいけません。」\
+`"And thus you changed your goals.`@`... You are so admirable, Sumire. `@`It's not good to set your sights too high."`\
 cl l,0
 mld c,SMI_D7,23
 se1 2
 quakey 2,200
 
-「許せんのは彼岸花ではないぞ、あの榊由香里じゃッ。@人間の分際で私を愚弄しおったのだ…！@　いじめは許さぬなど、よくも私を前に偉そうなことを！」\
-
+;「許せんのは彼岸花ではないぞ、あの榊由香里じゃッ。@人間の分際で私を愚弄しおったのだ…！@　いじめは許さぬなど、よくも私を前に偉そうなことを！」\
+`"It's not Higanbana that I can't forgive, it's that Yukari Sakaki. `@`How dare she spout those pretentious words to me about how bullying is wrong...! `@`A mere human made a mockery of me!"`\
 ld r,AZA_D3,80
 
-「くす。@いじめは摂理。@それを否定することは、日に沈むことを拒むも同じ、愚かなこと……。」\
-
+;「くす。@いじめは摂理。@それを否定することは、日に沈むことを拒むも同じ、愚かなこと……。」\
+`"*giggle* `@`Bullying is divine intervention. `@`Trying to prevent it is just as foolish as trying to stop the sun from setting...."`\
 mld c,SMI_w6,80
 
-「さぁ、由香里よ…！@　我ら、アザミスミレ姉妹の巻き起こすいじめに、どう抗うか見せてみるがよいのじゃっ。@ふっふふふ、ひっひひひはっははははははははッ！！\
-
+;「さぁ、由香里よ…！@　我ら、アザミスミレ姉妹の巻き起こすいじめに、どう抗うか見せてみるがよいのじゃっ。@ふっふふふ、ひっひひひはっははははははははッ！！\
+`"Come, Yukari...! `@`Show us how you intend to stand up to the bullying caused by the sisters Azami and Sumire. `@`Ufufufu, Hihihihahahahaha!!`\
 mcl c,0
 bg black,2
 
@@ -2265,18 +2269,20 @@ bg gakkou_01,22
 
 me1v 5,50
 
-　翌日。@
-
+;　翌日。@
+` The next day.`@
 ;bg roji_04a,2
 br
-　正明は、決意と緊張の入り混じった、……まるで転校生の初登校のような心境で登校した。\
+;　正明は、決意と緊張の入り混じった、……まるで転校生の初登校のような心境で登校した。\
+` Masaaki was filled with a sense of both determination and nervousness as he approached the school.... He felt like a transfer student on their first day at a new school.`\
 
-
-　……自分はもう、……いじめられないんだ。@いじめられないんだっ。@
+;　……自分はもう、……いじめられないんだ。@いじめられないんだっ。@
+` ...He was... no longer going to be bullied. `@`He was not going to be bullied again.`@
 br
-　決意。@覚悟。@
-　それをもう一度自分に言い聞かせ、昇降口に入る。\
-
+;　決意。@覚悟。@
+` Determination. `@`Resolution.`@
+;　それをもう一度自分に言い聞かせ、昇降口に入る。\
+` He repeated those words to himself once more as he walked into the main entrance.`\
 
 ;bg black,1
 ;bg shoukou_03,23
@@ -2284,28 +2290,32 @@ bg black,22
 bg shoukou_03,22
 
 
-　……上履きを履く前に、その中を見る。@
+;　……上履きを履く前に、その中を見る。@
+` ...Before putting on his indoor shoes he checked inside them.`@
 br
-　やっぱり。@
-　また、画鋲が放り込まれていた。\
+;　やっぱり。@
+` Just as he thought.`@
+;　また、画鋲が放り込まれていた。\
+` There were tacks put inside again.`\
 
-
-　……昨日までの自分なら、@それを見て、今日もまた嫌な一日が始まったと、陰鬱な気持ちで俯くところだ。@
+;　……昨日までの自分なら、@それを見て、今日もまた嫌な一日が始まったと、陰鬱な気持ちで俯くところだ。@
+` ...If he was the same person he was yesterday, `@`upon seeing that he would see this as just another horrible start to a bad day, and hang his head in depression.`@
 br
-　しかし、今日は少し違う。\
-
+;　しかし、今日は少し違う。\
+` But today was a little different.`\
 ld c,YOS_D1,22
 ld c,YOS_D8a,80
 
-　いつもいつも、……いつもいつもいつも、朝からこんな悪戯しやがって。@
-
+;　いつもいつも、……いつもいつもいつも、朝からこんな悪戯しやがって。@
+` Every day, every day... every single day he kept getting these pranks pulled on him.`@
 
 ;ld c,YOS_D1,22
 
-　これは、暗い気持ちじゃない。@……至極当然な、怒りの感情だった。@
+;　これは、暗い気持ちじゃない。@……至極当然な、怒りの感情だった。@
+` He didn't feel depressed about it.`@`... He felt an all too natural sense of rage.`@
 br
-　上履きを取り、乱暴に振るって、画鋲を放り捨てる。\
-
+;　上履きを取り、乱暴に振るって、画鋲を放り捨てる。\
+` He grabbed his shoes and violently shook all the tacks out of them.`\
 
 ;bg black,1
 ;bg kyou_01,0
@@ -2325,28 +2335,31 @@ wait 500
 ld r,YOS_D1,22
 
 
-　教室にやって来ると、自分の席を取り囲んで、いつものいじめっこたちが、何かやっているのが見えた。\
-
-
-;ld r,YOS_D1,80
-
-　……今までにもこういうことはあった。@
-br
-　その時、なぜか酷く気まずい気持ちになり、@彼らが悪戯を終えるまで、意味もなく廊下をうろついて時間を潰したこともあった。\
-
+;　教室にやって来ると、自分の席を取り囲んで、いつものいじめっこたちが、何かやっているのが見えた。\
+` When he got to the classroom he say the normal group of bullies crowded around his desk doing something to it.`\
 
 ;ld r,YOS_D1,80
 
-　しかし今日は違う。@
+;　……今までにもこういうことはあった。@
+` ...This sort of thing had happened before as well.`@
 br
-　彼らがとても小さく見える。@……幼稚園に通うくらいの小さな子供に見えるのだ。\
+;　その時、なぜか酷く気まずい気持ちになり、@彼らが悪戯を終えるまで、意味もなく廊下をうろついて時間を潰したこともあった。\
+` Back then, for some reason, he would just start to feel really awkward, `@`and go aimlessly wander the halls and wait for them to finish their prank.`\
 
+;ld r,YOS_D1,80
+
+;　しかし今日は違う。@
+` But today was different.`@
+br
+;　彼らがとても小さく見える。@……幼稚園に通うくらいの小さな子供に見えるのだ。\
+` They looked small today.`@`... like tiny, little kindergarteners. 
 ld r,YOS_D8a,80
 
-　そんな小さな悪ガキどもが、何か悪戯をしている。@ふざけやがって、叱り飛ばしてやる。@そんな感情で胸が満たされるのだ。@
+;　そんな小さな悪ガキどもが、何か悪戯をしている。@ふざけやがって、叱り飛ばしてやる。@そんな感情で胸が満たされるのだ。@
+` And those little brats were playing a prank on him. `@`They were screwing with him, and he was going to teach them a lesson. `@`Those were the feelings his head was filled with.`@
 br
-　正明は踵を踏み鳴らしながら、ずんずんと彼らに歩み寄る。\
-
+;　正明は踵を踏み鳴らしながら、ずんずんと彼らに歩み寄る。\
+` Masaaki stamped the heels of his shoes hard into the ground as he walked up to the group.`\
 
 bg black,23
 
@@ -2358,61 +2371,71 @@ ld c,YOS_D10a,80
 E_A
 bgm1 28
 
-「何やってんだよ。@……俺の席で何やってんだよっ。」@
-
+;「何やってんだよ。@……俺の席で何やってんだよっ。」@
+`"Hey, what're you doing.`@`... What're you doing to my desk."`@
 ;quakey 1,300
 quakex 2,300
 
 「「「……………ッ！！」」」\
+"""......!!"""`\
 
 
+;　彼らは正明の低い怒声に、ぎょっとして振り返った。@
+` The group of kids turned around with a fright at Masaaki's low, angry voice.`@
+;　……小学生が軽い気持ちで悪戯をしたら、不良高校生が出てきたかのような、@ぎょっとした驚きを満面に浮かべていた。\
+` ...Surprised spread across their faces. `@`They looked like elementary schoolers do when their caught playing lighthearted mischief by a delinquent high schooler.`\
 
-　彼らは正明の低い怒声に、ぎょっとして振り返った。@
-　……小学生が軽い気持ちで悪戯をしたら、不良高校生が出てきたかのような、@ぎょっとした驚きを満面に浮かべていた。\
 
-
-
-　見ると、彼らは鉛筆で、正明の机の上に、下品な落書きをしているところだった。@
+;　見ると、彼らは鉛筆で、正明の机の上に、下品な落書きをしているところだった。@
+` Each of them held a pencil, and were scribbling vulgarities on Masaaki's desk.`@
 br
-　正明は、胸の奥から湧き上がる怒りの言葉を、そのままにゆっくりと吐き出す。\
-
+;　正明は、胸の奥から湧き上がる怒りの言葉を、そのままにゆっくりと吐き出す。\
+` Words born of anger boiled from the depths of Masaaki's mind and slowly crept out of his mouth.`\
 
 
 ld c,YOS_D9,80
 
-「………消せよ。@……………………。@/
+;「………消せよ。@……………………。@/
+`"....Erase it.`@`............`@/
 ld c,YOS_D11,80
 quakey 2,200
-……消せって言ってんだよッ！！」@
+;……消せって言ってんだよッ！！」@
+`... I SAID ERASE IT!!"`@
 br
-　その厳しい声に、彼らは跳び上がる。\
+;　その厳しい声に、彼らは跳び上がる。\
+` They jumped at the sound of his stern voice.`\
 
-　皆、慌てて消しゴムを持ち寄り、ゴシゴシと消し始めた。@
+;　皆、慌てて消しゴムを持ち寄り、ゴシゴシと消し始めた。@
+` In a panic, they all grabbed erasers and started rubbing the scribbles away.`@ 
 br
-　彼らはそれを終えると、こそこそと逃げるように正明の席を離れる……。\
-
+;　彼らはそれを終えると、こそこそと逃げるように正明の席を離れる……。\
+` Once they were finished they nearly sprinted away from Masaaki's desk...`\
 ld c,YOS_D10,80
 
-「おい、待てよ。@まだここに残ってるじゃねぇかよ…！」@
+;「おい、待てよ。@まだここに残ってるじゃねぇかよ…！」@
+`"Hey, wait. `@`You mised a spot...!"`@
 br
-「……ぁ、あれ書いたの俺じゃねぇよ……。」@
-「俺じゃねぇよ、お前だろっ……。」@
-「……い、いや俺じゃねぇよ……ボソボソ……。」\
-
+;「……ぁ、あれ書いたの俺じゃねぇよ……。」@
+`"...ah, that wasn't me who wrote that..."`@
+;「俺じゃねぇよ、お前だろっ……。」@
+`"Well it wasn't me, it must have been you..."`@
+;「……い、いや俺じゃねぇよ……ボソボソ……。」\
+`"...N- no it wasn't me... *whisper* *whisper*..."`\ 
 ld c,YOS_D12,80
 se1 2
 quakey 2,200
 
-「誰でもいいよッ、早く消せって言ってんだよッ…！！」@
+;「誰でもいいよッ、早く消せって言ってんだよッ…！！」@
+`"I don't care who did it, just hurry up and erase it...!!"`@
 br
 quakey 2,300
-　彼らは再び跳び上がり、慌てて消すのだった。\
+;　彼らは再び跳び上がり、慌てて消すのだった。\
+` Once again, they jumped up and hurriedly started erasing.`\
 
 
 
-
-　正明は、彼らが去った後、ゆっくりと自分の席に座る。\
-
+;　正明は、彼らが去った後、ゆっくりと自分の席に座る。\
+` After they left Masaaki leisurely pulled out his chair and sat down.`\
 
 
 ;bg black,0
@@ -2425,19 +2448,21 @@ bg kyou_03,22
 
 me1v 24,50
 
-　…………………………。@
+;　…………………………。@
+` ..............`@
 br
-　昨日までは、椅子に座る時、縮こまるように、両方の膝を付けて座っていた。\
-
+;　昨日までは、椅子に座る時、縮こまるように、両方の膝を付けて座っていた。\
+` Before today, whenever he sat in a chair, he would bring his knees together as if cowering.`\
 
 
 ;ld c,YOS_D1,80
 
-　でも今日は違う。@……何だか体が大きくなったように感じ、自然に両足を開いて座ってしまった。\
+;　でも今日は違う。@……何だか体が大きくなったように感じ、自然に両足を開いて座ってしまった。\
+` But today was different.`@`... Today he felt like his body was much bigger, and he naturally spread his legs out while he sat.`\
 
 
-
-　正明は実感していた。@……明らかに自分が、昨日までと違う。@
+;　正明は実感していた。@……明らかに自分が、昨日までと違う。@
+` Masaaki could feel it.`@`... He could feel how different he was compared to yesterday.`@
 br
 　同じことを、いじめっこたちもクラスメートたちも思っていた。\
 
