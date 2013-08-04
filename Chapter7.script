@@ -2890,8 +2890,8 @@ ld l,KOU_D3,80
 `"I don't want to force it."`\
 ld r,HIG_D9,80
 
-「………子供たちって、………こうして見下ろしていると、本当に残酷よね。」@
-
+;「………子供たちって、………こうして見下ろしていると、本当に残酷よね。」@
+`"...When children despise you like this, they're really cruel."`@
 ld l,KOU_D2,80
 
 「学校の中では特に残酷だよ。@ここには、人間社会の秩序も法律も届かないからね。@一般社会では警察沙汰になるようなことも、ここでは喧嘩両成敗で済まされる。」\
@@ -2900,22 +2900,26 @@ ld r,HIG_D8,80
 
 「誰がどう残酷だろうと、知ったことではないけれど。@……………………………。」@
 br
-　秋一を石投げの的にしようとした連中を見た時の、……あのこみ上げる感じが、また胃の中いっぱいに広がる。@
-　……………………………。\
-
+;　秋一を石投げの的にしようとした連中を見た時の、……あのこみ上げる感じが、また胃の中いっぱいに広がる。@
+` I felt something well up in my stomach when I saw those guys try to throw stones at Shuuichi.`@
+;　……………………………。\
+` .................`\
 bg black,22
 
-　自分は何のために存在するのだろう。@
-　何のために存在すればいいのだろう。@
+;　自分は何のために存在するのだろう。@
+` For what sake did I exist ?`@
+;　何のために存在すればいいのだろう。@
+` For what sake should I exist?`@
 br
-　その答えの鍵を、………なぜか、あいつが持ってるような気がする。\
-
+;　その答えの鍵を、………なぜか、あいつが持ってるような気がする。\
+` For some reason, I felt that that guy had the key to the answer to that question.`\
 ld c,SHU_D4,22
 
-　秋一。@
+;　秋一。@
+` Shuuichi.`@
 br
-　あいつと話していると、その鍵が見つかりそうな気がするのだ。\
-
+;　あいつと話していると、その鍵が見つかりそうな気がするのだ。\
+` I felt that I'd find it when I talked with him.`\
 bg black,2
 se1v 86,40
 wait 500
@@ -2928,51 +2932,53 @@ wait 1000
 
 ld r,KOU_D2,22
 
-「………何やら今日は騒がしいね。」@
-
+;「………何やら今日は騒がしいね。」@
+`"...Man, for some reason it's so noisy today."`@
 ld l,HIG_D9,24
 
-「何？@　救急車？」@
+;「何？@　救急車？」@
+`"What's that?`@`An ambulance?"`@
 br
 
 E_ 3,1
 
-　独特のサイレンが校門前で止まる。\
-
+;　独特のサイレンが校門前で止まる。\
+` The particular siren stopped outside the school gate.`\
 ld r,KOU_D5,80
 
-「誰かが怪我をしたようだね。」@
-
+;「誰かが怪我をしたようだね。」@
+`"It seems someone was injured."`@
 ld l,HIG_D10,80
 
-「…………………………………。」@
-
+;「…………………………………。」@
+`"................"`@
 ld r,KOU_D2,80
 
-「どうしたね？」\
-
+;「どうしたね？」\
+`"What's up?"`\
 ld l,HIG_D9,80
 
-「……お喋りが出来て楽しかったわ。@次に会う時は殺し合いをしましょ。@……じゃあね。」@
-
+;「……お喋りが出来て楽しかったわ。@次に会う時は殺し合いをしましょ。@……じゃあね。」@
+`"...It was fun talking with you.`@`But next time I think we'll have to kill each other.`@`...Well then..."`@
 E_A
 
 se1v 20,30
 cl l,22
 
 br
-　挨拶もそこそこに、彼岸花は屋上から飛び降りる。\
-
+;　挨拶もそこそこに、彼岸花は屋上から飛び降りる。\
+` With that hurried goodbye, she jumped from the rooftop.`\
 bg black,25
 
 me1v 24,50
 
 bg gakkou_03,22
 
-　ふわりと地面に降り立ち、人混みを掻き分ける。@
+;　ふわりと地面に降り立ち、人混みを掻き分ける。@
+` She landed gently on the ground and pushed people out of her way.`@
 br
-　……どういうわけか、胸騒ぎがした。\
-
+;　……どういうわけか、胸騒ぎがした。\
+` ...She had a bad feeling about this.`\
 bg black,22
 
 fede 0,2000
@@ -2983,68 +2989,82 @@ bg gakkou_08,22
 
 bgm1 27
 
-　体育倉庫で見つかった秋一は、異様な姿で発見されたらしい。@
-　……最初、それを見つけた子は、誰かがふざけているのかと思ったらしい。@
+;　体育倉庫で見つかった秋一は、異様な姿で発見されたらしい。@
+` It seems that Shuuichi's body had been found in a strange manner in the P.E. storeroom.`@
+;　……最初、それを見つけた子は、誰かがふざけているのかと思ったらしい。@
+` ...The first child that found him though someone was just being playful.`@
 br
-　なぜなら秋一は、頭にすっぽり紙袋を被せられていたからだ。\
-
+;　なぜなら秋一は、頭にすっぽり紙袋を被せられていたからだ。\
+` Why else would his face be covered with a paper bag?`@
 ;bg black,22
 mono 0
 ;se1 33
 bg blood_1b,22
 
-　しかし、その紙袋は、血でべっとりと汚れていた……。\
-
+;　しかし、その紙袋は、血でべっとりと汚れていた……。\
+` However, the bag was drenched in blood...`\
 bg black,22
 bg gakkou_03,22
 
 me1v 24,50
 
-「はい、担架通りまーす、担架通りまーす！！」@
-「……どうしたの？@　何があったの？」@
-「いじめらしいよ。@ざわざわざわざわ。」\
-
+;「はい、担架通りまーす、担架通りまーす！！」@
+`"Watch it! Stretcher coming through!!"`@
+;「……どうしたの？@　何があったの？」@
+`"Why?`@`What happened?"`@
+;「いじめらしいよ。@ざわざわざわざわ。」\
+`"It looks like bullying.`@` mutter mutter mutter...."`@
 ld c,HIG_D10a,22
 
 quakex 1,100
 
-「秋一っ。秋一！」@
+;「秋一っ。秋一！」@
+`"Shuuichi! Shuuichi!!"`@
 ;＜彼岸花
 br
-　担架で担ぎ出される秋一に声を掛けるが、彼の意識はないようだった。@
-　そして、……妖怪であるはずの彼岸花であっても、その秋一の顔のあまりの惨たらしさに絶句する。\
-
+;　担架で担ぎ出される秋一に声を掛けるが、彼の意識はないようだった。@
+` She called out repeatedly to Shuuichi on a stretcher, but he didn't seem to be conscious.`@
+;　そして、……妖怪であるはずの彼岸花であっても、その秋一の顔のあまりの惨たらしさに絶句する。\
+` And even Higanbana, a should-be monster, was at a loss for words the the gory remains of Shuuichi's face.`\
 bg black,22
 bg aka3,22
 
-　服を見れば、それが秋一であるとはわかるのだが。@……顔を見ただけでは、誰か判別することは不可能だ。@
+;　服を見れば、それが秋一であるとはわかるのだが。@……顔を見ただけでは、誰か判別することは不可能だ。@
+` It was so bad that she could only see that it was Shuuichi from his clothes.`@`..There were no distinguishing features left on his face.`@
 br
-　血まみれになって、ぶくぶくと腫れ上がり、どこが頬で鼻で口かもわからないほどなのだから……。\
-
-　秋一が無抵抗なのをいいことに、……際限なくいじめがエスカレートしたに違いない。@
+;　血まみれになって、ぶくぶくと腫れ上がり、どこが頬で鼻で口かもわからないほどなのだから……。\
+` The features were so scattered around that she couldn't tell whether part of the face was a mouth, a cheek or a nose...`\
+;　秋一が無抵抗なのをいいことに、……際限なくいじめがエスカレートしたに違いない。@
+` Shuuuichi had been passive, and so the bullying had escalated endlessly.`@
 br
-　いじめ？@
-　これはもはや、いじめと呼んでいいことなのだろうか。\
-
+;　いじめ？@
+` Bullying?`@
+;　これはもはや、いじめと呼んでいいことなのだろうか。\
+` She wondered if it was even appropriate to call it that anymore.`\
 bg black,22
 
-　これは暴行でさえない。@蛮行だ。@
+;　これは暴行でさえない。@蛮行だ。@
+` This wasn't even just assault.`@`This was barbaric.`@
 br
-　人間に許された行為じゃない。\
-
+;　人間に許された行為じゃない。\
+` It was an unforgivable act for humans to commit.`\
 ;bg kyou_04,22
 
-　しかし、学校の中という異世界では、許されてしまうのだ。@
+;　しかし、学校の中という異世界では、許されてしまうのだ。@
+` But in school, amongst kids, this was regrettably be forgiven.`@
 br
-　学校は聖域。@ゆえに、あらゆる法律の治外法権。@
-　いじめの兆しなどなかったと繰り返す教師たちは、ここであった全てを揉み消す。@
+;　学校は聖域。@ゆえに、あらゆる法律の治外法権。@
+` School was a sanctuary.`@`Exempt from any laws.`@
+;　いじめの兆しなどなかったと繰り返す教師たちは、ここであった全てを揉み消す。@
+` Teachers here smothered and hid all signs of bullying.`@
 br
-　これが、秩序なき、カオスなる学校世界なのだ。\
-
+;　これが、秩序なき、カオスなる学校世界なのだ。\
+` This was the chaotic school world.`\
 ;bg black,22
 bg gakkou_03,22
 
-　人混みを遠くから、三人組がくすくす笑いながら見ている。@
+;　人混みを遠くから、三人組がくすくす笑いながら見ている。@
+` Aside from the large crowd, a group of three students were giggling to themselves.`@
 br
 　いつも秋一をいじめていた、あの三人組だ。\
 
