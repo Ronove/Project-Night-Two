@@ -2464,18 +2464,20 @@ br
 ;　正明は実感していた。@……明らかに自分が、昨日までと違う。@
 ` Masaaki could feel it.`@`... He could feel how different he was compared to yesterday.`@
 br
-　同じことを、いじめっこたちもクラスメートたちも思っていた。\
-
+;　同じことを、いじめっこたちもクラスメートたちも思っていた。\
+` And his classmates and the bullies felt it too.`\
 bg black,22
 bg kyou_02,0
 ld c,YOS_D7,22
 ;ld c,YOS_D1,80
 
-　気弱ないじめられっこのはずの吉川……くんが、今朝は何か一味違う……。@
-　彼らはヒソヒソとそれを囁き合うが、正明に目が合うと、萎縮しながらそっぽを向く。@
+;　気弱ないじめられっこのはずの吉川……くんが、今朝は何か一味違う……。@
+` There was something off about the normally timid and bullied Yoshikawa-kun...`@
+;　彼らはヒソヒソとそれを囁き合うが、正明に目が合うと、萎縮しながらそっぽを向く。@
+` His classmates would whispers things like that back and forth between each other, but then Masaaki would make eye contact with them, and they turn around and shrink down.`@
 br
-　……正明の胸に不思議な気持ちが、じわりと湧き上がる。\
-
+;　……正明の胸に不思議な気持ちが、じわりと湧き上がる。\
+` ...A strange feeling was gradually building up within Masaaki's mind.`\
 
 
 ;bg black,22
@@ -2483,14 +2485,15 @@ br
 
 ld c,YOS_D8,80
 
-　正明は生まれて初めて。@クラスメートたちが自分に畏怖を覚えていることを感じた。@
+;　正明は生まれて初めて。@クラスメートたちが自分に畏怖を覚えていることを感じた。@
+` For the first time in his life. `@`Masaaki knows what it feels like to be feared by his classmates.`@
 br
-　ぞわりとした高揚感が、全身に染み渡るのを感じる。\
-
+;　ぞわりとした高揚感が、全身に染み渡るのを感じる。\
+` A sort of uplifting feeling spread throughout his whole body.`\
 mbg black,22
 
-「どうです？@　……あなたがもはや、いじめられっこではないことが、わかったでしょう。」\
-
+;「どうです？@　……あなたがもはや、いじめられっこではないことが、わかったでしょう。」\
+`"How's it going?`@`... You're not getting bullied anymore are you?"`\
 
 
 ;bg kyou_02,0
@@ -2501,8 +2504,8 @@ mcbg 22
 
 ld r,AZA_D2,2
 
-　アザミがすぅっと姿を現す。\
-
+;　アザミがすぅっと姿を現す。\
+` Azami's figure appeared before him.`\
 
 
 ;ld r,YOS_D1,80
@@ -2511,33 +2514,36 @@ cl c,0
 ld l,YOS_D7,24
 ld l,YOS_D8a,80
 
-「アザミさん……。@……お、俺、今日は何かが違います……。」@
-
+;「アザミさん……。@……お、俺、今日は何かが違います……。」@
+`"Azami-san...`@`.. Th-, there's something different about me today..."`@
 ;ld c,AZA_D1,80
 ld r,AZA_D5,80
 
-「どう違いますか？」\
-
+;「どう違いますか？」\
+`"Different how?"`\
 
 
 ;ld r,YOS_D1,80
 ld l,YOS_D8,80
 
-「……な、何て言うかその、……教室がすごく広く感じます。@……何か天井も高く感じる…。@……いやその、……世界が明るくさえ……。」\
-
+;「……な、何て言うかその、……教室がすごく広く感じます。@……何か天井も高く感じる…。@……いやその、……世界が明るくさえ……。」\
+`"...It's kind of like, I don't know... like the classroom feels much bigger today.`@`... Like the ceiling is higher up than usually...`@`.. No, it's more like... The world just feels brighter all of a sudden..."`\
 
 
 bg kyou_03,26
 
-　意識すればするほど、……昨日までと何も変わらないはずの教室の景色が違って感じられた。@
+;　意識すればするほど、……昨日までと何も変わらないはずの教室の景色が違って感じられた。@
+` Even though the classroom itself hasn't actually changed at all, the more he thinks about it... the more he feels like its changed.`@
 br
-　一言で言えば、……視野がものすごく広がったような感じ。\
-
-　いじめっこもいじめられっこも、同じ人間だと思った日もあった。@
+;　一言で言えば、……視野がものすごく広がったような感じ。\
+` To put it simply... he feels like his outlook has significantly expanded.`\
+;　いじめっこもいじめられっこも、同じ人間だと思った日もあった。@
+` He once thought that bullies and those who get bullied were the same, just humans.`@
 br
-　違う。@
-　いじめっこといじめられっこでは、……感じ方ひとつでも、こんなにも違ったのだ……。\
-
+;　違う。@
+` That's wrong.`@
+;　いじめっこといじめられっこでは、……感じ方ひとつでも、こんなにも違ったのだ……。\
+` Who would think that what made the difference between being a bully or being bullied... would all come down to one simple way of looking at the world...`\
 
 
 ;ld c,AZA_D1,0
@@ -2554,17 +2560,17 @@ ld r,AZA_D2,22
 
 ld r,AZA_D1,80
 
-「そう。@それが、いじめっこの世界です。」@
-
+;「そう。@それが、いじめっこの世界です。」@
+`"Yes. `@`This is the world of bullies."`@
 ;ld r,YOS_D1,80
 ld l,YOS_D6,80
 
-「……すごい。@……空気の味さえ変わった気がする。@……信じられないくらい、……清々しい気持ちです……。」\
-
+;「……すごい。@……空気の味さえ変わった気がする。@……信じられないくらい、……清々しい気持ちです……。」\
+`"...Amazing.`@`... It feels like even the taste of the air has changed.`@`... It's unbelievable... and feels so refreshing..."`\
 ld r,AZA_D4,80
 
-「いじめとは、妾たち妖怪だけでなく、人間にとっても狩りなのです。」\
-
+;「いじめとは、妾たち妖怪だけでなく、人間にとっても狩りなのです。」\
+`"Us youkai are not the only ones who hunt. Bullying is the human equivalent of hunting."`\
 
 
 ;ld l,SMI_D1,22
@@ -2573,53 +2579,56 @@ ld r,AZA_D4,80
 ld c,SMI_w4,22
 ld c,SMI_w1,80
 
-「魂を狩り、食らう狩りなのじゃ。@人間も我らと同じように、いじめによって、魂を狩り、食らっているのじゃ。」@
+;「魂を狩り、食らう狩りなのじゃ。@人間も我らと同じように、いじめによって、魂を狩り、食らっているのじゃ。」@
+`"We hunt down souls and eat them. `@`Humans are the same way, using bullying to hunt souls and feed on them."`@
 br
-　もう一人妖怪が現れ、いじめは魂を食らう狩りだと告げる。\
-
+;　もう一人妖怪が現れ、いじめは魂を食らう狩りだと告げる。\
+` Another youkai appeared, telling him about how bullying is like hunting.`\
 
 
 ;ld c,AZA_D1,80
 ld r,AZA_D2,80
 
-「いじめっこは、いじめられっこの魂を食らうことで、今、あなたが感じている世界を得ているのです。@……つまり、あなたのその世界は、昨日まではあなたをいじめていた彼らの世界だったのです。」\
-
+;「いじめっこは、いじめられっこの魂を食らうことで、今、あなたが感じている世界を得ているのです。@……つまり、あなたのその世界は、昨日まではあなたをいじめていた彼らの世界だったのです。」\
+`"By feasting on the souls of other, bullies are able to reach the world you are in now.`@`... Basically, right now you're living in the same world as those who had been bullying you up until yesterday."`\
 
 
 ;ld l,SMI_D1,80
 ld c,SMI_w4,80
 
-「逆に、そなたの世界はどうであったか。@……暗く狭く、息苦しい世界であったろうが。」@
-
+;「逆に、そなたの世界はどうであったか。@……暗く狭く、息苦しい世界であったろうが。」@
+`"Conversely, what was your world like before now?`@`... Was it a dark, small and stiffling world?"`@
 ;ld r,YOS_D1,80
 ld l,YOS_D8a,80
 
-「た、……確かに……。」\
-
+;「た、……確かに……。」\
+`"Y-... yes, it was..."`\
 
 
 ;ld l,SMI_D1,80
 ld c,SMI_w2,80
 
-「それは、そなたの魂を彼らが食らっておったからなのじゃ。@食われたお前の世界は暗く狭くなり、@食っていた奴らの世界はこんなにも明るく清々しいのじゃ。@……面白いものであろうが、いじめというものはっ。」\
-
+;「それは、そなたの魂を彼らが食らっておったからなのじゃ。@食われたお前の世界は暗く狭くなり、@食っていた奴らの世界はこんなにも明るく清々しいのじゃ。@……面白いものであろうが、いじめというものはっ。」\
+`"That's because your soul was being devoured by them. `@`As your world was being eaten it became small and dark. `@`And their world was bright and refreshing.`@`... Bullying is so interesting."`\
 
 
 ;cl a,0
 bg black,22
 
-　正明は少し納得していた。@
+;　正明は少し納得していた。@
+` Masaaki somewhat understood now.`@
 br
-　いじめられている自分が、暗く落ち込んでいるのに比べ、@いじめっこたちはいつも馬鹿みたいに上機嫌で陽気だった。@
-　これが彼らの世界だったというなら、……納得できる。\
-
+;　いじめられている自分が、暗く落ち込んでいるのに比べ、@いじめっこたちはいつも馬鹿みたいに上機嫌で陽気だった。@
+` Back when he was feeling depressed, `@`those bullies were always joking around and acting all happy like a bunch of idiots.`@
+;　これが彼らの世界だったというなら、……納得できる。\
+` If this is how they were seeing the world... then he could understand why they were like that.`\
 
 bg azami2,0
 ld c,AZA_D1,22
 ld c,AZA_D2,80
 
-「あなたはこれまで暗い世界でいじめられた分を、取り返すのです。@そして彼らに、@これまでの上機嫌な世界が、どのような犠牲の上に成り立っていたかを思い知らせるのです。@それこそが、因果応報。@人の世の摂理を、今こそ示すのです。」\
-
+;「あなたはこれまで暗い世界でいじめられた分を、取り返すのです。@そして彼らに、@これまでの上機嫌な世界が、どのような犠牲の上に成り立っていたかを思い知らせるのです。@それこそが、因果応報。@人の世の摂理を、今こそ示すのです。」\
+`"From now on, you will take back the world that was stolen from you. `@`And them, `@`you will make them pay for what they did at the expense of cheerful world. `@`That will be their punishment. `@`Here is where their karma will come into play."`\
 cl c,22
 bg black,42
 
@@ -2631,62 +2640,68 @@ bg kyou_01,22
 ld r,YUK_w1,24
 ld r,YUK_w2,80
 
-「おはよー。@……………？」@
+;「おはよー。@……………？」@
+`"Good morning.`@`.........?"`@
 ;＜由香里
 br
-　教室に入ってきた由香里は、教室の空気が少しだけいつもと違うのを感じる。\
-
+;　教室に入ってきた由香里は、教室の空気が少しだけいつもと違うのを感じる。\
+` As she walked in the door Yukari felt like the mood in the classroom was a bit different than usual.`\
 
 bg black,23
 bg kyou_02,0
 ld l,YOS_D7,23
 ;ld l,YOS_D1,22
 
-　喧嘩でもあったのだろうか。@……まさかと思い、正明を見るが、喧嘩をしたようには見えない。@
+;　喧嘩でもあったのだろうか。@……まさかと思い、正明を見るが、喧嘩をしたようには見えない。@
+` She was wondering if there might have been a fight.`@`... but when she looked over at Masaaki, she didn't see any evidence of a fight on him.`@
 br
-　………でも、彼の雰囲気が昨日までとは何かが違った。\
-
-　しかし、それは少なくとも、いじめられっこの気の毒な雰囲気とは異なる。\
-
+;　………でも、彼の雰囲気が昨日までとは何かが違った。\
+` ....But something about him was different compared to yesterday.`\
+;　しかし、それは少なくとも、いじめられっこの気の毒な雰囲気とは異なる。\
+` But at the very least he didn't have the same pitiful bullied feel to him.`\
 ;ld r,YUK_D1,80
 ld r,YUK_w4,24
 ld r,YUK_w3,80
 
-「………吉川くん。@おはよう。」@
-
+;「………吉川くん。@おはよう。」@
+`"....Yoshikawa-kun. `@`Good morning."`@
 ld l,YOS_D8,80
 
-「…………おはよう。」\
-
+;「…………おはよう。」\
+`"......Morning."`\
 ld r,YUK_i1,80
 
-「…………………。」@
-
+;「…………………。」@
+`"..........."`@
 ld l,YOS_D8a,80
 
-「何だよ。@……俺の顔に何か付いてっかよ。」\
-
+;「何だよ。@……俺の顔に何か付いてっかよ。」\
+`"What?`@`... Is there something on my face or something?"`\
 
 
 ld r,YUK_i1a,80
 
-「……何も。」@
+;「……何も。」@
+`"...No, it's nothing."`@
 br
-　やっぱりだ。@昨日までの彼とはまるで雰囲気が違う。@
-　良く言えば、たくましく。@……悪く言えば、ちょっと粗暴そうな感じ。\
-
+;　やっぱりだ。@昨日までの彼とはまるで雰囲気が違う。@
+` There's no doubt about it. `@`He was somehow different than he was yesterday.`@
+;　良く言えば、たくましく。@……悪く言えば、ちょっと粗暴そうな感じ。\
+` To put it nicely, he seemed stronger.`@`... To put it not so nicely, he seemed a little rude.`\
 
 
 ;ld r,YUK_D1,80
 
-　でも、俯いて暗そうにしていればいじめっこたちを呼び寄せるだけだ。@
-　なら、ちょっと目つきが悪くても、堂々としていた方がいい。\
+;　でも、俯いて暗そうにしていればいじめっこたちを呼び寄せるだけだ。@
+` But if he hanged his head in shame like usually, it would bring the bullies over to him.`@
+;　なら、ちょっと目つきが悪くても、堂々としていた方がいい。\
+` So it's probably better this way, even if his expression does seem a little mean.`\
 
-
-　彼の中にたくましさが生まれ、@それがちょっぴり、目つきを悪そうに見せているだけかもしれない……。@
+;　彼の中にたくましさが生まれ、@それがちょっぴり、目つきを悪そうに見せているだけかもしれない……。@
+` Maybe he just finally gathered up some strength in his heart, `@`and that just made him look a little bit meaner overall...`@
 br
-　由香里はそう思うことに決め、正明の前を通り過ぎるのだった。\
-
+;　由香里はそう思うことに決め、正明の前を通り過ぎるのだった。\
+` That's what Yukari thought as she walk past the front of Masaaki's desk.`\
 ;cl r,23
 cl r,22
 
@@ -2696,7 +2711,8 @@ bg black,2
 ld r,SMI_w1,22
 ld r,SMI_w5,80
 
-「由香里よ。@いじめは決して許さぬと、この私に啖呵を切りおったお前が、@どのようにいじめに抗うのか、楽しみじゃぞ…！@　ふっふふふふふふふふふ！」\
+;「由香里よ。@いじめは決して許さぬと、この私に啖呵を切りおったお前が、@どのようにいじめに抗うのか、楽しみじゃぞ…！@　ふっふふふふふふふふふ！」\
+`"Yukari. `@`The girl who preached to me about who she would never forgive bullying. `@`I wonder how you're going to fight this bullying. I'm looking forward to it...! `@`Ufufufufufufufu!"`\
 ;＜スミレ
 
 bg black,2
@@ -2709,50 +2725,54 @@ bg kyou_01,22
 
 bgm1 18
 
-　いじめっこになれたとはいえ、……正明は何をすればいいのかわからない。@
-
+;　いじめっこになれたとはいえ、……正明は何をすればいいのかわからない。@
+` Even though he was used to being bullied... Masaaki wasn't quite sure he should be doing as a bully himself.`@
 ;ld l,AZA_D1,22
 
-　アザミは、何をしても自由ですと言ってくれるが、@自由だからこそ、何をしていいのかわからない。@
+;　アザミは、何をしても自由ですと言ってくれるが、@自由だからこそ、何をしていいのかわからない。@
+` Azami told his that it was just freedom to do whatever he wanted, `@`but because he had such freedom, he had no idea where to start.`@
 br
-　でも、その自由という名の解放感は、@退屈な授業中でさえ、彼の全身に泡立つ感触を感じさせてくれるのだった。\
-
+;　でも、その自由という名の解放感は、@退屈な授業中でさえ、彼の全身に泡立つ感触を感じさせてくれるのだった。\
+` But as he was sitting, listening to a boring class lecture, `@`he could feel that sense of liberation called freedom bubbling up in him.`\
 
 
 ;ld r,YOS_D1,80
 ld c,YOS_D2,22
 
-「そういえば……。@授業中に、消しゴムのカスをぶつけられたことがあったっけ……。」@
-
+;「そういえば……。@授業中に、消しゴムのカスをぶつけられたことがあったっけ……。」@
+`"Oh yeah... `@`Didn't they used to throw bits of eraser at me during class...?"`@
 ld l,AZA_D2,22
 ld l,AZA_D3,80
 
-「では、それを仕返ししてみるというのはどうです。」\
+;「では、それを仕返ししてみるというのはどうです。」\
+`"Why don't you try getting revenge for that."`\
 
-
-　さっき、ノートに書き間違いをして、ごしごしと消したので、@机の上にはたっぷりの消しカスがある。@
+;　さっき、ノートに書き間違いをして、ごしごしと消したので、@机の上にはたっぷりの消しカスがある。@
+` Since he made some mistakes in his notebook earlier, `@`he happened to have some eraser shaving on his desk.`@
 br
-　それらを指でこねると、@彼らがよく自分にぶつけてきたのと同じような、小さな玉がいくつも出来た。\
-
+;　それらを指でこねると、@彼らがよく自分にぶつけてきたのと同じような、小さな玉がいくつも出来た。\
+` He gathered them up in his fingers, `@`and made a bunch of little balls out of them, just like the ones he used to be hit with.`\
 
 
 ld l,AZA_D5,80
 
-「くす。@……やってみるといいでしょう。@彼らはそれを人にぶつけることを知り、@あなたはそれをぶつけられることを知ったのです。@ですから、今度は互いに逆のことを知り合うべきでしょう。@それが、」@
+;「くす。@……やってみるといいでしょう。@彼らはそれを人にぶつけることを知り、@あなたはそれをぶつけられることを知ったのです。@ですから、今度は互いに逆のことを知り合うべきでしょう。@それが、」@
+`"*Giggle* `@`...Go ahead and try it. `@`They're used to throwing eraser bits at people, `@`and you're used to getting hit by them. `@`So now you should return the favor. `@`This is-,"`@
 ;＜アザミ
 
 
 ;ld r,YOS_D1,80
 ld c,YOS_D8a,80
 
-「因果応報、ってわけだ……。」\
-
+;「因果応報、ってわけだ……。」\
+`"-retribution for their actions. That's what this is..."`\
 ;ld c,SMI_D1,22
 ;ld c,SMI_D1,80
 ld r,SMI_w2,22
 ld r,SMI_w3,80
 
-「そういうことじゃ！@　さぁさぁほれほれ。@やってみるが良いのじゃ！」\
+;「そういうことじゃ！@　さぁさぁほれほれ。@やってみるが良いのじゃ！」\
+`"Exactly! `@`Now come on, go for it. `@`See what it's like!"`\
 ;＜スミレ
 
 
@@ -2764,48 +2784,54 @@ bg black,22
 bg kyou_06,22
 ;ld c,YOS_D1,22
 
-　正明は消しゴムのカスで作った玉を摘み上げ、@……それを自分の前にいる、いじめっこの１人の頭に、狙いをつける……。\
+;　正明は消しゴムのカスで作った玉を摘み上げ、@……それを自分の前にいる、いじめっこの１人の頭に、狙いをつける……。\
+` Masaaki picked up one of those eraser balls... `@`And took aim at the head of one of the bullies sitting in front of him...`\
 
 
-
-　……ちょっと緊張する。@
+;　……ちょっと緊張する。@
+` ...He got a little nervous.`@
 br
-　でもその緊張感は、スリリングなもので、相手にバレたら怖いという、恐怖感ではない。\
+;　でもその緊張感は、スリリングなもので、相手にバレたら怖いという、恐怖感ではない。\
+` But it was a thrilling sort of nervousness, nothing like being afraid of being caught throwing it.`\
 
-
-　………………それっ。@
+;　………………それっ。@
+` And........ throw.`@
 se1 47
 br
-　ぴしり。\
-
-
-　カス玉が、いじめっこの後頭部に当る。@
+;　ぴしり。\
+` Tap.`\
+; ^^^ Note To Editor: SFX for eraser hitting hair. Couldn't think of a good one.
+;　カス玉が、いじめっこの後頭部に当る。@
+` The eraser ball hit the back of the bully's head.`@
 br
-　相手には気付かれなかったようだが、それは髪に絡まってその場に留まった。\
-
+;　相手には気付かれなかったようだが、それは髪に絡まってその場に留まった。\
+` It didn't look like the kid noticed, but it got stuck in their hair.`\
 ;ld c,YOS_D1,80
 
-　それが滑稽で、思わず、ぷぷっと噴き出してしまう。@
-　気付かないなら、もう一発やってやろう。@
+;　それが滑稽で、思わず、ぷぷっと噴き出してしまう。@
+` Masaaki found this funny, and accidentally let out a little chuckle.`@
+;　気付かないなら、もう一発やってやろう。@
+` He didn't notice, so let's try one more time.`@
 br
-　それ、ぴしり。/
-
+;　それ、ぴしり。/
+` Throw, tap.`/
 se1 47
 
-@ぴしり。/
-
+;@ぴしり。/
+`@Tap.`/
 se2 47
-\
-
+;\
+`\
 ld r,YOS_D7,22
 
-　いじめっこの後頭部に、いくつものカス玉が絡みつく。@
-　すっかりみっともない頭になり、笑いを堪えるのも難しくなる。\
+;　いじめっこの後頭部に、いくつものカス玉が絡みつく。@
+` The bully had a bunch of little eraser balls stuck in their hair.`@
+;　すっかりみっともない頭になり、笑いを堪えるのも難しくなる。\
+` They looked so stupid that Masaaki could barely keep from bursting out laughing.`\
 
 
-
-　普段なら、ぼんやりと俯くことしか出来なかった授業時間に、@こんなにも愉快になったことなど、かつてあっただろうか？\
-
+;　普段なら、ぼんやりと俯くことしか出来なかった授業時間に、@こんなにも愉快になったことなど、かつてあっただろうか？\
+` Usually, the only thing he could do during class time was absentmindedly stare down at his desk. `@`Had he ever had this much fun during class?`\
 
 
 　あるわけがない。@そして、この愉快な世界が、いじめっこの世界だったのだ。\
