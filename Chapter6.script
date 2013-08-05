@@ -2834,49 +2834,54 @@ ld r,YOS_D7,22
 ` Usually, the only thing he could do during class time was absentmindedly stare down at his desk. `@`Had he ever had this much fun during class?`\
 
 
-　あるわけがない。@そして、この愉快な世界が、いじめっこの世界だったのだ。\
-
+;　あるわけがない。@そして、この愉快な世界が、いじめっこの世界だったのだ。\
+` No, not at all. `@`And this fun world is the world of bullies.`\
 
 
 ld r,YOS_D8a,80
 
-　……そりゃあ、やめられないわけだ。@
+;　……そりゃあ、やめられないわけだ。@
+` ...I can't stop throwing these things.`@
 br
-　だって、こんなにも楽しいのだから。\
-
+;　だって、こんなにも楽しいのだから。\
+` It's just so fun.`\
 
 
 ;bg kyou_07,0
 ;ld r,YOS_D1,22
 
-　とうとう、いじめっこはカス玉をぶつけられていることに気付き、振り返る。@
+;　とうとう、いじめっこはカス玉をぶつけられていることに気付き、振り返る。@
+` Eventually the bully finally realized that he was being pelted with eraser shavings, and turn around to look behind him`@
 br
-　しかし、その顔つきは恐る恐ると言う感じ。\
-
+;　しかし、その顔つきは恐る恐ると言う感じ。\
+` But the expression on his face was that of fear.`\
 
 
 ;ld r,YOS_D1,80
 ld r,YOS_D10,80
 
-「………何だよ。@授業中に後、向くなよ。」@
-「…………ん………。」@
+;「………何だよ。@授業中に後、向くなよ。」@
+`"....What? `@`Don't be look back here when class is in session."`@
+;「…………ん………。」@
+`".....N-....."`@
 br
-　正明が凄むと、いじめっこは頭をさすりながら、おずおずと前を向く。\
-
+;　正明が凄むと、いじめっこは頭をさすりながら、おずおずと前を向く。\
+` Once Masaaki threatened him, the bully turned brushed off his hair and nervously turned back around.`\
 
 
 ;ld r,YOS_D1,80
 cl r,0
 ld c,YOS_D8a,24
 
-　………は、ははは。@……こりゃ面白いや。\
+;　………は、ははは。@……こりゃ面白いや。\
+` .....Hah, hahaha.`@`... This really is funny.`\
 
 
-
-　意味もなく消しゴムをごしごしと削り、新たなカス玉を作って、ぴしぴしと弾く。@
+;　意味もなく消しゴムをごしごしと削り、新たなカス玉を作って、ぴしぴしと弾く。@
+` Masaaki picked up his eraser again, and needlessly rubbed it on his paper to make more shavings. Then, he made those into new eraser balls and started flicking them again.`@
 br
-　相手は気まずそうに頭を払い、ちらりとこちらの様子をうかがうのだが、正明と目が合うと、再びおずおずと前を向く。\
-
+;　相手は気まずそうに頭を払い、ちらりとこちらの様子をうかがうのだが、正明と目が合うと、再びおずおずと前を向く。\
+` The target awkwardly brushed his hair again, and glanced behind him again, only to meet eyes with Masaaki and nervously turn back towards the front of the class once again.`\
 ;cl r,0
 ;bg black,0
 ;mono 1
@@ -2886,15 +2891,16 @@ br
 
 bg black,22
 
-　……文句が言いたいだろうよ。@でも怖くて言えないんだ。@
-　かつて、こいつらにさんざんいじめられていた自分には、@今のこいつの気持ちがよーくわかる。@
-
+;　……文句が言いたいだろうよ。@でも怖くて言えないんだ。@
+` ...It looked like he wanted to say something. `@`But he was too scared to open his mouth.`@
+;　かつて、こいつらにさんざんいじめられていた自分には、@今のこいつの気持ちがよーくわかる。@
+` Because Masaaki had once been really severely bullied by this particular kid, `@`he knew exactly who he was feeling at this very moment.`@
 
 
 ;ld c,YOS_D1,80
 br
-　ならば、思い知れっ。@お前らが俺に今までしてきたのが、どんなに卑劣なことだったか、@身に染みて思い知れっ。\
-
+;　ならば、思い知れっ。@お前らが俺に今までしてきたのが、どんなに卑劣なことだったか、@身に染みて思い知れっ。\
+` Good. Realize what you've done. `@`Realize how mean you have all been to me up until now. `@`Let that feeling soak into your body.`\
 
 bg kyou_02,0
 
@@ -2907,54 +2913,59 @@ ld l,AZA_D2,22
 
 ld r,SMI_w3,80
 
-「あいつ、なかなかやるのじゃ！@　いじめっこの素質があるのぅ！」\
+;「あいつ、なかなかやるのじゃ！@　いじめっこの素質があるのぅ！」\
+`"He's not half bad! `@`He's got some real potential as a bully!"`\
 ;＜スミレ
 
 ld l,AZA_D3,80
 
-「くす。@いじめは楽しいですから。@ゆえに禁断の果実。@……それをかじる者は、かじられることを知らねばならないのです。@妾は、それを思い知らせることを司る者。@……いじめられた悔しさを知る者こそ、いじめっこに相応しく。@いじめの快楽に溺れた者こそ、いじめられるのに相応しいのです。」\
+;「くす。@いじめは楽しいですから。@ゆえに禁断の果実。@……それをかじる者は、かじられることを知らねばならないのです。@妾は、それを思い知らせることを司る者。@……いじめられた悔しさを知る者こそ、いじめっこに相応しく。@いじめの快楽に溺れた者こそ、いじめられるのに相応しいのです。」\
+`"*Giggle* `@`That's because bullying is fun. `@`It's like a forbidden fruit.`@`... Whoever eats it, begins to crave it. `@`And I'm the one in charge of giving the fruit to them.`@`... Those who know the frustration of being bullied, are ideal candidates for becoming bullies. `@`And those who drown in the pleasures of bullying, make good candidates for being bullied themselves."`\
 ;＜アザミ
 
 ld r,SMI_w2,80
 
-「正明めはずいぶんいじめられておったのじゃ。@その反動で、素晴らしいいじめっこになってくれるのじゃ！」\
-
+;「正明めはずいぶんいじめられておったのじゃ。@その反動で、素晴らしいいじめっこになってくれるのじゃ！」\
+`"Masaaki was bullied pretty badly. `@`So when he rebounds, he makes a great bully!"`\
 
 ld l,AZA_D1,80
 
-「さぁ、正明くん。@これまでの悔しさの全てを吐き出してやりなさい。@あなたにはその資格があるのです。@そして慄きなさい、正明くんをいじめていた愚かなる者たち。@彼がどれほど苦しんできたか、その身を以って思い知ると良いでしょう。@それが因果応報です。」\
-
+;「さぁ、正明くん。@これまでの悔しさの全てを吐き出してやりなさい。@あなたにはその資格があるのです。@そして慄きなさい、正明くんをいじめていた愚かなる者たち。@彼がどれほど苦しんできたか、その身を以って思い知ると良いでしょう。@それが因果応報です。」\
+`"Come now, Masaaki-kun. `@`Take all the frustration you've felt so far and release it. `@`You have the potential of becoming a great bully. `@`And tremble in fear, all those who bullied Masaaki. `@`Know how badly he suffered. `@`That will be retribution for your actions."`\
 ;cl a,0
 bg black,2
 
 
-　その日を境に、正明が変わったことは、クラスで話題になった。\
-
+;　その日を境に、正明が変わったことは、クラスで話題になった。\
+` By the end of that day, the change in Masaaki had become the hot topic among his classmates.`\
 bg kyou_01,0
 ;bg kyou_01,2
 ld c,YOS_D7,22
 
 me1v 24,50
 
-　……あれが噂に聞く、魔法のアザミを食ったってやつなんだろーね。@……クラスメートたちが囁く。\
-
+;　……あれが噂に聞く、魔法のアザミを食ったってやつなんだろーね。@……クラスメートたちが囁く。\
+` ...Did you hear the rumors? They say he ate one of the magical thistles.`@`... his classmates would whisper behind his back.`\
 
 ;ld c,YOS_D1,80
 
-　正明は、かつて自分が彼らに言われていたように。@俺たち友達だろうと言って絡みながら、悪戯をし返していた。@
+;　正明は、かつて自分が彼らに言われていたように。@俺たち友達だろうと言って絡みながら、悪戯をし返していた。@
+` Just like Masaaki what had once happened to Masaaki, `@`he would get away with pulling pranks on those who bullied him before by insisting that they were his friends.`@
 br
-　そのシーンだけを切り出してみれば、それも立派ないじめだったろう。\
+;　そのシーンだけを切り出してみれば、それも立派ないじめだったろう。\
+` Simply by trying to do what they did to him, he was able to unleash a good deal of bullying on them.`\
 
-
-　しかし、誰もがかつての正明が気の毒ないじめられっこであったことを知っている。@
+;　しかし、誰もがかつての正明が気の毒ないじめられっこであったことを知っている。@
+` But everyone knew that Masaaki used to be a pitiful bullied kid before.`@
 br
-　だからこそ、彼の復讐を正当なものだと理解した。\
+;　だからこそ、彼の復讐を正当なものだと理解した。\
+` So most of them realized that what he was doing was a justified revenge.`\
 
-
-　いじめっこたちが逆にいじめられるなんて。@いい気味だ。@人をいじめることの罪深さを思い知ればいい。@
+;　いじめっこたちが逆にいじめられるなんて。@いい気味だ。@人をいじめることの罪深さを思い知ればいい。@
+` Those bullies are now getting bullied in return. `@`That's what they deserve. `@`They should be taught the dangers of bullying.`@
 br
-　みんなそう思い、正明のささやかな復讐を見て見ぬふりをした。\
-
+;　みんなそう思い、正明のささやかな復讐を見て見ぬふりをした。\
+` That's what everyone thought, and pretended not to see Masaaki enacting his revenge.`\
 bg black,22
 
 fede 1,1000
@@ -2969,50 +2980,54 @@ ld r,YUK_D3,22
 
 ;ld r,YUK_D1,80
 
-「吉川くん。@……最近、変わったね。」@
+;「吉川くん。@……最近、変わったね。」@
+`"Yoshikawa-kun.`@`... You've changed recently."`@
 ;＜由香里
 
 ld l,YOS_D8,22
 
-「………そうかよ。@……そうかもな。@へへ……。」@
+;「………そうかよ。@……そうかもな。@へへ……。」@
+`"....Have I?`@`... Maybe you're right. `@`Hehe...."`@
 br
-　正明は不機嫌を装いながらも、にやっと笑ってそう答えた。\
-
+;　正明は不機嫌を装いながらも、にやっと笑ってそう答えた。\
+` Masaaki grinned a sour smile.`\
 
 
 ld r,YUK_D1,80
 
-「何かあったの？」@
-
+;「何かあったの？」@
+`"Did something happen?"`@
 ld l,YOS_D8,80
 
-「……みんなが噂してる通りだよ。」\
-
+;「……みんなが噂してる通りだよ。」\
+`"...It's just like all the rumors say."`\
 ld r,YUK_D3a,80
 
-「噂って。@……アザミを食べた、とかいうやつ？」@
-
+;「噂って。@……アザミを食べた、とかいうやつ？」@
+`"Rumors?`@`... You mean the ones about eating a thistle?"`@
 ld l,YOS_D7,80
 
-「まぁ、そんなところだぜ。@……俺もいつまでもいじめられっこじゃないってことさ。」\
-
+;「まぁ、そんなところだぜ。@……俺もいつまでもいじめられっこじゃないってことさ。」\
+`"Yeah, pretty much.`@`... I'm done being bullied around."`\
 
 
 ld r,YUK_w3,80
 
-「……………そうだね。」@
+;「……………そうだね。」@
+`".......I see."`@
 br
-　正明のその表情には、自信が見て取れる。\
-
+;　正明のその表情には、自信が見て取れる。\
+` She saw confidence in Masaaki's face.`\
 
 
 
 ;bg black,22
 
-　かつてはいつも俯いていた。@それに比べたら、どれほど生気に溢れていることか。@
+;　かつてはいつも俯いていた。@それに比べたら、どれほど生気に溢れていることか。@
+` There was a time when he used to always hang his head, and cast his eyes down. `@`Comapred to that, he now seemed overflowing with vitality.`@
 br
-　それを見て由香里は、どんな形であれ、彼がいじめられっこの境遇から逃れられたことを、率直に喜んだ。\
-
+;　それを見て由香里は、どんな形であれ、彼がいじめられっこの境遇から逃れられたことを、率直に喜んだ。\
+` No matter the circumstances, Yukari was honestly happy to see him being not only confident, but also no longer being bullied.`\
 
 bg black,23
 bg kyou_01,23
@@ -3025,31 +3040,31 @@ ld l,YUK_w3,23
 
 ;ld r,YUK_D1,80
 
-「……確かにあの子たちは、すごく意地悪で、しつこく君をいじめてたもんね。@……私もちょっぴり、いい気味だと思う。」@
-
+;「……確かにあの子たちは、すごく意地悪で、しつこく君をいじめてたもんね。@……私もちょっぴり、いい気味だと思う。」@
+`"...It's true that they were being really mean, bullying you so often.`@`... Even I think they kind of deserve this."`@
 ;ld l,YOS_D1,80
 ld r,YOS_D7,24
 ;ld r,YOS_D1,80
 
-「ざまぁ見ろってんだ……。」\
-
+;「ざまぁ見ろってんだ……。」\
+`"Serves 'em right..."`\
 ;ld r,YUK_D1,80
 ld l,YUK_D2,80
 
-「でも。@……君までいじめっこになっちゃだめだよ。」@
-
+;「でも。@……君までいじめっこになっちゃだめだよ。」@
+`"But.`@`... You can't become a bully yourself."`@
 ;ld l,YOS_D1,80
 ld r,YOS_D10,80
 
-「なっちゃ悪いかよ。@俺はずっといじめられてたんだぞ。@だから俺には同じだけやり返す権利があるんだ…！」\
-
+;「なっちゃ悪いかよ。@俺はずっといじめられてたんだぞ。@だから俺には同じだけやり返す権利があるんだ…！」\
+`"What's so wrong with that? `@`I was bullied by them for so long. `@`So what's wrong with a little payback...?!"`\
 
 
 ;ld r,YUK_D1,80
 ld l,YUK_D1,80
 
-「…………正明くんの気持ちもわかるの。@だから、私もしばらくは様子を見るけれど。@……あまりやり過ぎるようだったら、私も怒るからね。@だから、」\
-
+;「…………正明くんの気持ちもわかるの。@だから、私もしばらくは様子を見るけれど。@……あまりやり過ぎるようだったら、私も怒るからね。@だから、」\
+`".....I understand how you feel, Masaaki-kun. `@`That's why I've been letting this slide for now.`@`... But if you start to overdo it, I'm going to get mad. `@`So..."`\
 
 
 ;ld l,YOS_D1,80
@@ -3065,16 +3080,17 @@ quakex 2,200
 
 ld c,YOS_D12,80
 
-「何だよ、お前はよ！！@/
+'「何だよ、お前はよ！！@/
+`"Who do you think you are!?`@/
 bgm1 7
-　俺の親かよッ、先生かよッ？！@　俺はずっとあいつらに好き放題にされてきたんだ！@　だから今度は俺があいつらを好き放題にする！！@　それが因果応報だろ？！@　違うのかよ！@　それがなかったら、世の中ずっといじめ得じゃねぇかよ？！@　俺だっていじめは大嫌いだ！@　いじめっこは絶対に許せねぇ！！」\
-
+;　俺の親かよッ、先生かよッ？！@　俺はずっとあいつらに好き放題にされてきたんだ！@　だから今度は俺があいつらを好き放題にする！！@　それが因果応報だろ？！@　違うのかよ！@　それがなかったら、世の中ずっといじめ得じゃねぇかよ？！@　俺だっていじめは大嫌いだ！@　いじめっこは絶対に許せねぇ！！」\
+` My mom? My teacher?! `@`They did whatever the hell they wanted to me! `@`So now I'm doing whatever the hell I want right back!! `@`That's just karma! `@`Right?! `@`Without it, bullies would just have their way with everything! `@`I hate bullying! `@`And I will never forgive any bullies!!"`\
 ;ld l,YOS_D1,80
 cl c,0
 ld r,YOS_D11,23
 
-「だからこそ、あいつらが俺にしてきたことを絶対に許さない！@　悪いことをすれば絶対に報いがあるように、@あいつらも報いを受けなくちゃならない。@これは俺の個人的な仕返しじゃねぇ。@それが世の摂理、因果応報ってもんなんだ！！@　日が昇ったら、必ず沈まなくちゃいけねぇだろ。@そういうことなんだよッ！！」\
-
+;「だからこそ、あいつらが俺にしてきたことを絶対に許さない！@　悪いことをすれば絶対に報いがあるように、@あいつらも報いを受けなくちゃならない。@これは俺の個人的な仕返しじゃねぇ。@それが世の摂理、因果応報ってもんなんだ！！@　日が昇ったら、必ず沈まなくちゃいけねぇだろ。@そういうことなんだよッ！！」\
+`"I'll never forgive them for what they did to me! `@`When you do something bad, you've got to face the punishment! `@`That's what I'm doing to them. `@`This is my own personal revenge. `@`It's divine retribution!! `@`Just like the sun rises, it's got to set. `@`That's just how things work!!"`\
 ;cl l,24
 
 
@@ -3082,16 +3098,17 @@ ld r,YOS_D11,23
 ;ld r,YUK_D1,80
 ld l,YUK_D3a,80
 
-「………正明くん………。」@
-
+;「………正明くん………。」@
+".....Masaaki-kun......"`@
 ld r,YOS_D8a,80
 wait 1000
 cl r,23
 
 br
-　正明は今度こそ不愉快な表情を浮かべ、踵を返す。@
-　その背中を、由香里は呆然と見送ることしか出来ない……。\
-
+;　正明は今度こそ不愉快な表情を浮かべ、踵を返す。@
+` Masaaki's expression had now gotten unpleasant, and he turned his back to her.`@
+;　その背中を、由香里は呆然と見送ることしか出来ない……。\
+` Yukari could do nothing but watch him walk off, dumbfounded...`\
 
 bg black,22
 ;bg black,0
@@ -3099,7 +3116,8 @@ bg black,22
 ld c,SMI_w1,22
 ld c,SMI_w2,80
 
-「くっくっく…！！@　どうした由香里よ。@お前はいじめは許さないのではなかったか？@　正明の復讐という名の新たなるいじめ！@　お前はどう抗っていくというのか！@　くっくっくっくっく！！」\
+;「くっくっく…！！@　どうした由香里よ。@お前はいじめは許さないのではなかったか？@　正明の復讐という名の新たなるいじめ！@　お前はどう抗っていくというのか！@　くっくっくっくっく！！」\
+`"Kukuku...!! `@`What's wrong, Yukari? `@`Didn't you say you wouldn't allow bullying? `@`Masaaki's bullying is unlike anything you've seen so far! `@`How are you going to fight bullying born from revenge! `@`Kukukukuku!!"`\
 ;＜スミレ
 
 bg black,22
@@ -3110,40 +3128,45 @@ bg different_spiral_1a,22
 
 me1v 5,50
 
-　正明には、自分がいじめっこだという自覚など、あるわけもなかった。@
+;　正明には、自分がいじめっこだという自覚など、あるわけもなかった。@
+` Masaaki didn't realize that he had become a bully at all.`@
 br
-　自分のいじめられっこの汚名は、@彼らに正当な分の復讐を終えて初めて、返上できると考えていたからだ。\
+;　自分のいじめられっこの汚名は、@彼らに正当な分の復讐を終えて初めて、返上できると考えていたからだ。\
+` He won't give up until he's enacted what he considers the right about of revenge `@`for all the disgraces inflicted on him.`\
 
 
-
-　自分は、このクラスになってから数ヶ月の間、ずっとずっといじめられた。@最低でも、それと同じ期間はいじめ返さなくては、割りが合わない。@
+;　自分は、このクラスになってから数ヶ月の間、ずっとずっといじめられた。@最低でも、それと同じ期間はいじめ返さなくては、割りが合わない。@
+` It's been a several months since the year started and he joined the class, and he had been bullied every single day for that whole time. `@`He wasn't going to be satisfied until he did the same to them for at least the same amount of time.`@
 br
-　だから次の日より正明は、これから数ヶ月の間、@みっちりたっぷりといじめ抜いてやると決意を新たにした。\
+;　だから次の日より正明は、これから数ヶ月の間、@みっちりたっぷりといじめ抜いてやると決意を新たにした。\
+` So from the next day on, Masaaki came to school with a new devotion. `@`He vowed to spend the next few months completely and utterly bullying those who bullied him.`\
 
 
-
-　……よくよく考えてみれば、同じ期間をいじめたとしても、まだ割りが合わない。@
+;　……よくよく考えてみれば、同じ期間をいじめたとしても、まだ割りが合わない。@
+` ...Even when he thought he might have been bullying them for as long as he had endured, he still didn't give up.`@
 br
-　あいつらは、数人掛りで、たった一人の自分を寄って集っていじめたんじゃないか。\
-
+;　あいつらは、数人掛りで、たった一人の自分を寄って集っていじめたんじゃないか。\
+` After all, didn't they used to team up on him when he was being bullied?`\
 
 
 bg Different_spiral_1b,0
 ld c,YOS_D8a,22
 
-　自分など生温い。@一人が、彼ら数人を代わる代わるいじめているのだから、@彼らへの仕返しの量は、ほんのわずかじゃないか。@
+;　自分など生温い。@一人が、彼ら数人を代わる代わるいじめているのだから、@彼らへの仕返しの量は、ほんのわずかじゃないか。@
+` He was too lenient on them. `@`There was only one of him, and he had to take turn bullying them one by one. `@`So the amount of time he spent bullying each of them was nowhere near enough.`@
 br
-　……なら、もっともっといじめてやらなきゃ、割りが合わない。\
-
-　期間じゃない。@それは密度だ。@
+;　……なら、もっともっといじめてやらなきゃ、割りが合わない。\
+` So he just kept bullying more and more, refusing to give up.`\
+;　期間じゃない。@それは密度だ。@
+` It wasn't the time he was being bullied. `@`It was all the time the bullies spent combined.`@
 br
-　何人ものいじめっこたちに、@毎日取り囲まれていじめられたあの恨みに匹敵するいじめを、きっちり全員にし返さなきゃ、復讐にならない。\
-
+;　何人ものいじめっこたちに、@毎日取り囲まれていじめられたあの恨みに匹敵するいじめを、きっちり全員にし返さなきゃ、復讐にならない。\
+` He was bullied be many kids. `@`So if he didn't pay each of them back for each day they bullied him, his revenge wouldn't be complete.`\
 bg black,22
 mono 0
 
-　その次の日より、正明は、露骨にいじめをエスカレートさせ、@到底、悪戯や悪ふざけとは言い難いものに変えていった。\
-
+;　その次の日より、正明は、露骨にいじめをエスカレートさせ、@到底、悪戯や悪ふざけとは言い難いものに変えていった。\
+` From that day on, Masaaki's bullying became more conspicuous. `@`He starting playing pranks and teasing them in unspeakable ways.`\
 
 
 ;bg black,1
@@ -3153,15 +3176,17 @@ ld r,YOS_D8a,22
 
 me2v 17,60
 
-　……最初は、彼も多少は恐る恐るだった。@
+;　……最初は、彼も多少は恐る恐るだった。@
+` ...At first, he was somewhat cautious.`@
 br
-　こんなことまでしてしまったら、@さすがに相手も逆上するのではないかと、おっかなびっくりだった。\
+;　こんなことまでしてしまったら、@さすがに相手も逆上するのではないかと、おっかなびっくりだった。\
+` He was being careful about not going too far. `@`He was worried they might get angry at him and retaliate.`\
 
-
-　しかし彼らは、何をしても怒らない。@
+;　しかし彼らは、何をしても怒らない。@
+` But they didn't get angry no matter what he would do.`@
 br
-　曖昧に気持ち悪く笑って誤魔化すばかりで、何もかもが言い成りだった。\
-
+;　曖昧に気持ち悪く笑って誤魔化すばかりで、何もかもが言い成りだった。\
+` They would just fake a vaguely unpleasant smile and do whatever he said.`\
 
 bg black,22
 bg kyou_04,22
@@ -3169,17 +3194,20 @@ bg kyou_04,22
 ;mld c,YOS_D1,22
 ;mld c,YOS_D1,80
 
-　ある日、いじめっこの一人が堪えかねて、初めて涙を見せた。@
+;　ある日、いじめっこの一人が堪えかねて、初めて涙を見せた。@
+` One day, one of the bullies just couldn't handle it anymore and started to cry.`@
 br
-　少し驚いたが、……正明は怯まなかった。\
-
+;　少し驚いたが、……正明は怯まなかった。\
+` Masaaki was a little surprised... but he still didn't let up.`\
 mld c,YOS_D10a,22
 
-　自分は彼らに、何日泣かされてきたというのか。@
+;　自分は彼らに、何日泣かされてきたというのか。@
+` They made him cry plenty of times.`@
 br
-　これは復讐なんだ。@
-　それも、この上なく正当な！\
-
+;　これは復讐なんだ。@
+` This was his revenge.`@
+;　それも、この上なく正当な！\
+` This too was entirely justified!`\
 
 ;mono 0
 ;bg black,1
@@ -3187,8 +3215,8 @@ br
 bg black,22
 mld c,YOS_D8a,80
 
-　俺がいじめっこ？@　とんでもない！@　俺は被害者だ、犠牲者だッ。\
-
+;　俺がいじめっこ？@　とんでもない！@　俺は被害者だ、犠牲者だッ。\
+` Was I a bully? `@`Not at all! `@`I'm the one who's the scapegoat here, the victim.`\
 ;mld c,YOS_D1,80
 
 　わかってるさ！@　いじめは悪。@絶対に許しちゃいけない、絶対悪だ！@
