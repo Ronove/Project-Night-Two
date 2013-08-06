@@ -3066,30 +3066,37 @@ bg gakkou_03,22
 ;　人混みを遠くから、三人組がくすくす笑いながら見ている。@
 ` Aside from the large crowd, a group of three students were giggling to themselves.`@
 br
-　いつも秋一をいじめていた、あの三人組だ。\
-
-「何だよ、救急車かよ。@霊柩車が来ればいいのに！」@
-「病院で死ねばいいのによ。@ぷーっくっくっくっく！！」@
+;　いつも秋一をいじめていた、あの三人組だ。\
+` It was the trio that had always been bullying Shuuichi.`\
+;「何だよ、救急車かよ。@霊柩車が来ればいいのに！」@
+`"Why an ambulance?`@`A hearse would be better!"`@
+;「病院で死ねばいいのによ。@ぷーっくっくっくっく！！」@
+`"I wish he'd just die in the hospital.`@`Heheheheheh"`@
 「正義の鉄槌、思い知りやがれ！@　げらげらげら！！」@
-「俺たちがやったなんて、誰も見てねぇし！」@
-「仮に見られてたって、俺たち、少年法で無罪だしー！@　ぷーくすくすくすくす！！」\
-
+;「俺たちがやったなんて、誰も見てねぇし！」@
+`"And nobody saw us do it!!"`@
+;「仮に見られてたって、俺たち、少年法で無罪だしー！@　ぷーくすくすくすくす！！」\
+`"Even if we were, we'd just be judged by juvenile law !`@`Hahaha!!"`\
 bg black,22
 bg gakkou_02u,22
 ;ld c,HIG_D1,22
 
-　学校は聖域。@
+;　学校は聖域。@
+` School was a sanctuary.`@
 br
-　ここでは子供は守られている。@
-　あらゆる魔手から。@そして、秩序からも。\
-
+;　ここでは子供は守られている。@
+` Children were protected here.`@
+;　あらゆる魔手から。@そして、秩序からも。\
+` From all evil influences.`@`And all order and regulation.`\
 ;ld c,HIG_D1,80
 
-　ここには、一般社会のあらゆる法も常識も届かない。@
+;　ここには、一般社会のあらゆる法も常識も届かない。@
+` The laws and common sense of the general public didn't reach here.`@
 br
-　ただ、無法のジャングルで、無抵抗の小動物が肉食獣に喰われた。@
-　ただそれだけのことのはず……。\
-
+;　ただ、無法のジャングルで、無抵抗の小動物が肉食獣に喰われた。@
+` However, in a primitive, lawless jungle, passive animals and fed upon by carnivores.`@
+;　ただそれだけのことのはず……。\
+` That's just how things should be...`\
 bg black,2
 
 fede 0,1000
@@ -3100,83 +3107,94 @@ bg byouin_01,22
 
 bgm1 24
 
-　病院に担ぎ込まれた秋一は、集中治療室で手当てを受けていた。@
-　幸いにも峠を越えることが出来たようだが、重症であることに変わりはない……。@
+;　病院に担ぎ込まれた秋一は、集中治療室で手当てを受けていた。@
+` Shuuichi had been rushed to hospital and was receiving treatment in the intensive care unit.`@
+;　幸いにも峠を越えることが出来たようだが、重症であることに変わりはない……。@
+` It seemed that he would get over this hurdle, but the fact remained that he was still severely injured...`@
 br
-　そのベッドの傍らに、彼岸花はそっと姿を現す。\
-
+;　そのベッドの傍らに、彼岸花はそっと姿を現す。\
+` Higanbana appeared silently at his bedside.`\
 ld l,HIG_D10,2
 
-「……………………秋一。」\
-
-「………その声は、……彼岸花さんなの。」@
+;「……………………秋一。」\
+`"......Shuuichi."`\
+;「………その声は、……彼岸花さんなの。」@
+`"...That voice...is it you, Higanbana?"`@
 ;＜秋一は立ち絵不要です。@
 
 ld l,HIG_D9,80
 
-「そうよ。」\
-
-「……学校の妖怪は、学校にしかいられないんだと思ったよ。」@
-
+;「そうよ。」\
+`"Yeah."`\
+;「……学校の妖怪は、学校にしかいられないんだと思ったよ。」@
+`"....I thought you couldn't leave the school."`@
 ld l,HIG_D8,80
 
-「学校妖怪は学校で生きていくように出来ているわ。@……外へ出ることも出来るけれど、あまり居心地は良くないし、とても妖力を使う。@とても疲れることなの。」\
-
-「………なのに、わざわざ来てくれたんだね。@……お見舞いに来てくれて、ありがとう……。」@
-
+;「学校妖怪は学校で生きていくように出来ているわ。@……外へ出ることも出来るけれど、あまり居心地は良くないし、とても妖力を使う。@とても疲れることなの。」\
+`"We prefer to live in the school...`@`But we can leave it as well, but it's not comfortable, requires a lot of spirit energy,`@`and is generally quite tiring."`\
+;「………なのに、わざわざ来てくれたんだね。@……お見舞いに来てくれて、ありがとう……。」@
+`"....Yet, you came all this way.`@`...Thank you so much...."`@
 ld l,HIG_D10,80
 
-「こんな目に遭っても。@まだ感情を楽しめるというの？@　この酷い有様でも、生きている証だと？」\
-
+;「こんな目に遭っても。@まだ感情を楽しめるというの？@　この酷い有様でも、生きている証だと？」\
+`"Even with such a terrible accident befalling your eyes,`@`You still enjoy these feelings?`@`This terrible plight is proof that you're alive?"`\
 mbg black,22
 
-「………………………………。」@
-
+;「………………………………。」@
+`"..............."`@
 ;ld l,HIG_D9,80
 
-「………………………。」\
-
-　多少は嫌味のつもりで言った。@でも、いつもの秋一なら、あっけらかんと言い返してくれるはず。@……それを期待していた。@
+;「………………………。」\
+`".............."`\
+;　多少は嫌味のつもりで言った。@でも、いつもの秋一なら、あっけらかんと言い返してくれるはず。@……それを期待していた。@
+` I spoke thick with sarcasm.`@`But Shuuichi usually retorted straight back.`@`...I was expecting it."`@
 br
-　しかし、秋一は何も答えない。\
-
-　当然だ。@この有様で、何を言えるというのだろう。@
+;　しかし、秋一は何も答えない。\
+` But he didn't answer at all.`\
+;　当然だ。@この有様で、何を言えるというのだろう。@
+` It was natural.`@`After all, what would he say in a state like this?`@
 br
-　その当り前に、彼岸花も言葉を失った。\
-
+;　その当り前に、彼岸花も言葉を失った。\
+` Obviously, Higanbana was also at a loss for words.`\
 cl l,0
 mcbg 22
 ld r,HIG_D8,22
 
-「……死ぬわけじゃないでしょ。@しばらくは寝込むんだろうけど、どうせ数か月もしたら元通りよ。」\
-
-「………………………。@……元通りには、ならないみたい。」@
-
+;「……死ぬわけじゃないでしょ。@しばらくは寝込むんだろうけど、どうせ数か月もしたら元通りよ。」\
+`"You're probably not going to die,`@`but at the very least you'll have to rest for a few months while you recover."`\
+;「………………………。@……元通りには、ならないみたい。」@
+`"............`@`..It's not going to recover."`@
 ld r,HIG_D9,80
 
-「何が…？」@
-「目。」\
-
+;「何が…？」@
+`"What is?"`@
+;「目。」\
+`"My eyes."`\
 ld r,HIG_D10,80
 
-「目？」@
-「……もう、見えないって。」@
+;「目？」@
+`"Your eyes?"`@
+;「……もう、見えないって。」@
+`"...I can't see anything anymore."`@
 br
-　その言葉に、彼岸花はもう一度、絶句した。\
-
+;　その言葉に、彼岸花はもう一度、絶句した。\
+` At those words, Higanbana was once again speechless.`\
 bg black,22
 
-　彼女にも、もうわかっている。@
+;　彼女にも、もうわかっている。@
+` She understood now.`@
 br
-　彼の目に宿っていた、人には見えぬ何かを見ることの出来る力が、失われているのがわかるのだ。\
-
+;　彼の目に宿っていた、人には見えぬ何かを見ることの出来る力が、失われているのがわかるのだ。\
+` He had lost that in his eyes which enabled him to see things other people couldn't.`\
 bg aka1,22
 
-　眼球破裂。@それも、両目が。@
+;　眼球破裂。@それも、両目が。@
+` They were ruptured.`@`Both eyes.`@
 br
-　どれほどの慈悲のない仕打ちを受けたのだろう。@
-　頭蓋の一部にもひびが入り、それでもなお、脳に障害が至らなかったのは奇跡だろう。\
-
+;　どれほどの慈悲のない仕打ちを受けたのだろう。@
+` Would it be merciful to receive treatment now?`@
+;　頭蓋の一部にもひびが入り、それでもなお、脳に障害が至らなかったのは奇跡だろう。\
+` A part of his skull was also cracked. If he didn't have some sort of brain damage, it'd be a miracle.`\
 bg black,22
 bg byouin_01,22
 
@@ -3184,10 +3202,10 @@ bg byouin_01,22
 
 ld c,HIG_D9,22
 
-「………………………。」\
-
-「悔しいなぁ……。@……もっともっと、……様々な感情を通して、……様々なものを見たかったのになぁ……。」@
-
+;「………………………。」\
+`".............."`\
+;「悔しいなぁ……。@……もっともっと、……様々な感情を通して、……様々なものを見たかったのになぁ……。」@
+`"It's frustrating...`@`...I wanted to have more feelings....and wanted to see more things..."`@
 ld c,HIG_D10,80
 
 「……両腕がなくなったわけじゃないでしょう？@　スケッチブックを広げて、鉛筆を握ることのできる腕は、ちゃんとあんたに付いているわ。」\
@@ -3196,15 +3214,16 @@ ld c,HIG_D10,80
 
 bg black,8
 
-　秋一の辛い記憶が、隠されることなく心から漏れ出ている。\
-
+;　秋一の辛い記憶が、隠されることなく心から漏れ出ている。\
+` Shuuichi's painful memories were leaking out from his heart.`\
 ;bg note1,22
 ld c,SHU_D3,22
 
-　……彼は目を潰されただけではない。@
+;　……彼は目を潰されただけではない。@
+` ...He not only had crushed eyes.`@
 br
-　たくさんの感情を書き留めた、あのスケッチブックまで奪われ、……焼却炉に放り込まれたのだ。\
-
+;　たくさんの感情を書き留めた、あのスケッチブックまで奪われ、……焼却炉に放り込まれたのだ。\
+` The sketchbook which he used to document all his feelings had been stolen and thrown into the incinerator.`\
 ;se1 55
 bg red1,1
 bg black,0
@@ -3222,36 +3241,44 @@ mcbg 1
 ;print 22
 
 
-　彼が確かに見てきた光景の記録さえも、すでにこの世に残っていない。@
-　彼が生きた証が、奪われたのだ。@
+;　彼が確かに見てきた光景の記録さえも、すでにこの世に残っていない。@
+` Every sight he had recorded had surely left this world already.`@
+;　彼が生きた証が、奪われたのだ。@
+` The proof that he lived had been stolen from him.`@
 br
 　生きた証とは、生そのもの。@
-　彼は、殺されたのだ。\
-
+;　彼は、殺されたのだ。\
+` He was killed.`\
 csp -1
 print 0
 bg black,22
 bg byouin_01,0
 ld l,HIG_D10,22
 
-「……………ねぇ、秋一。」@
-「何……？」\
-
+;「……………ねぇ、秋一。」@
+`"....Hey, Shuuichi?"`@
+;「何……？」\
+`"What is it?"`\
 ld l,HIG_D9,80
 
-「あんたは今、目を潰されて、夢まで潰されたわけだけど。」@
-「……うん。」\
+;「あんたは今、目を潰されて、夢まで潰されたわけだけど。」@
+`"Your eyes and your dreams are now crushed right?"`@
+;「……うん。」\
+`"Yeah."`\
 
 ld l,HIG_D10,80
 
-「それでもなお。@今のその感情ってヤツを。@……あんたは楽しんでいるの？」@
-「……………………………。」\
-
+;「それでもなお。@今のその感情ってヤツを。@……あんたは楽しんでいるの？」@
+`"So then....`@`...Can you now enjoy it?`@`That feeling, I mean."`@
+;「……………………………。」\
+`".............."`\
 ld l,HIG_D8,80
 
 
-「……ねぇ、答えて。」@
-「……………………。」@
+;「……ねぇ、答えて。」@
+`"...Hey, answer me."`@
+;「……………………。」@
+`".........."`@
 br
 　それっきり、秋一が答えてくれることはなかった。\
 
