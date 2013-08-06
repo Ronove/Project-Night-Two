@@ -3219,59 +3219,68 @@ mld c,YOS_D8a,80
 ` Was I a bully? `@`Not at all! `@`I'm the one who's the scapegoat here, the victim.`\
 ;mld c,YOS_D1,80
 
-　わかってるさ！@　いじめは悪。@絶対に許しちゃいけない、絶対悪だ！@
+;　わかってるさ！@　いじめは悪。@絶対に許しちゃいけない、絶対悪だ！@
+` I know! `@`Bullying is bad. `@`It's absolutely unforgivable!`@
 br
-　だからこそ、俺はあいつらを、その絶対悪で復讐しなくちゃならない！\
-
+;　だからこそ、俺はあいつらを、その絶対悪で復讐しなくちゃならない！\
+` That's why I have to use it to get revenge on them!`\
 
 ;ld r,YOS_D1,80
 mld c,YOS_D10,80
 
-　俺が復讐しなかったらどうなる？！@
+;　俺が復讐しなかったらどうなる？！@
+` What will happen if I don't get revenge?!`@
 br
-　いじめっこのいじめ得だ！@　そんなことになったら、@世の中はいじめだらけになって、いじめで溢れてしまう！\
-
+;　いじめっこのいじめ得だ！@　そんなことになったら、@世の中はいじめだらけになって、いじめで溢れてしまう！\
+` Those bullies will win! `@`And if that's allowed to happen, `@`this world will be filled to the brim with bullying and those who benefit from it!`\
 ;mld c,YOS_D1,80
 
-　そんなことを許しちゃいけない。@だからこれは正義。@正義の執行なんだ。@
+;　そんなことを許しちゃいけない。@だからこれは正義。@正義の執行なんだ。@
+` I can't let that happen. `@`This is justice. `@And I am the enactor of that justice.`@
 br
-　人をいじめる者には、必ず正義の鉄槌が振り下ろされる。@それを示すことこそが、正義の執行なんだ。\
-
+;　人をいじめる者には、必ず正義の鉄槌が振り下ろされる。@それを示すことこそが、正義の執行なんだ。\
+` Those who bully will be crushed by the iron hammer of justice. `@`That is how justice is enacted.`\
 mcl c,0
 bg black,22
 bg e002,22
 
-　しかし、その執行の資格は、誰にでもあるわけじゃない。@
-　何も背負わぬ者がそれを執行すれば、それはただのいじめだ。@
-　それをいじめでなく、正義として執行できる者にのみ、資格があるのだ。\
-
+;　しかし、その執行の資格は、誰にでもあるわけじゃない。@
+` But not everyone is capable of enacting that justice.`@
+;　何も背負わぬ者がそれを執行すれば、それはただのいじめだ。@
+` If someone who hasn't faced bullying tries to enact that justice, that's nothing more than bullying itself.`@
+;　それをいじめでなく、正義として執行できる者にのみ、資格があるのだ。\
+` Only those who know that pain are qualified to bring justice without it being bullying.`\
 
 
 bg e005,26
 
 me3v 28,70
 
-　それが俺ッ。@彼らにずっといじめられてきた俺なんだ。@
-　だから俺が彼らにするのはいじめじゃない！@　正義の執行なんだ。\
-
+;　それが俺ッ。@彼らにずっといじめられてきた俺なんだ。@
+` I am the one who is qualified. `@`I am the one who has endured that bullying.`@
+;　だから俺が彼らにするのはいじめじゃない！@　正義の執行なんだ。\
+` So what I'm doing to them is not bullying! `@`It's simply justice.`\
 ;bg black,22
 mono 2
 bg different_spiral_1a,22
 
-　それに、俺はいじめっこになるつもりなんて、さらさらない。@
+;　それに、俺はいじめっこになるつもりなんて、さらさらない。@
+` Besides, I have no intention of ever becoming a bully.`@
 br
-　彼らの罪に相応しい分の正義をきっちりと執行するだけ。\
-
-　……それはいつまで執行されるのか？@
+;　彼らの罪に相応しい分の正義をきっちりと執行するだけ。\
+` I'm only dealing out the appropriate amount of justice for their sins.`\
+;　……それはいつまで執行されるのか？@
+` ...How long will that be for?`@
 br
-　彼らが己が罪に気が付いて認め、生涯を謝罪と賠償に捧げるまで続けなければならない。\
+;　彼らが己が罪に気が付いて認め、生涯を謝罪と賠償に捧げるまで続けなければならない。\
+` Until they realize their own sins, and devote their lives to apology and reparation.`\
 
 
-
-　そしてそれは、彼らの良心が目覚めるまで続かなくてはならない。@
+;　そしてそれは、彼らの良心が目覚めるまで続かなくてはならない。@
+` I will continue until their consciences awaken.`@
 br
-　そう。@この正義の執行は、彼らが誠意に目覚めるまで、永遠に続かなくてはならないのだ。\
-
+;　そう。@この正義の執行は、彼らが誠意に目覚めるまで、永遠に続かなくてはならないのだ。\
+` That's right. `@`I will enact my justice endlessly until they become sincere and honest people.`\
 
 
 bg black,2
@@ -3293,40 +3302,44 @@ ld r,YUK_i3a,24
 
 ;ld r,YUK_D1,80
 
-「……吉川くん、正気なの？！@　こんなの、ただのいじめじゃない！@　何が正義の復讐よ…！！」\
+;「……吉川くん、正気なの？！@　こんなの、ただのいじめじゃない！@　何が正義の復讐よ…！！」\
+`"...Are you out of your mind, Yoshikawa-kun?! `@`That's just bullying! `@`That's not justice at all...!!"`\
 ;＜由香里
 
 
 
-　由香里は、いじめっこの少年を庇い、正明の前に立ちはだかっていた。@
+;　由香里は、いじめっこの少年を庇い、正明の前に立ちはだかっていた。@
+` Yukari stood blocking Masaaki's path to protect one of the bully boys.`@
 br
-　……正明は宝探しごっこと称して、いじめっこの自宅の鍵を奪い、@それをヘドロで埋まったドブに放り込み、探させていたのだ。\
+;　……正明は宝探しごっこと称して、いじめっこの自宅の鍵を奪い、@それをヘドロで埋まったドブに放り込み、探させていたのだ。\
+` ...Masaaki had stolen the bully's key under the false pretense of a 'treasure hunt'. `@`He had thrown the key into a muck filled gutter and was forcing the boy to search through it.`\
 
-
-　その上、タイムアタックなどと称して、@正明が１０を数えるごとに少年のお尻を蹴るという暴行付きで。@
+;　その上、タイムアタックなどと称して、@正明が１０を数えるごとに少年のお尻を蹴るという暴行付きで。@
+` Furthermore, he claimed it was a 'time trail', `@`in which Masaaki would count to 10 and then kick the bully in the butt.`@
 br
-　その日、由香里は都合でいつもと違う通学路で帰り、その現場に出くわしたのだ。\
-
+;　その日、由香里は都合でいつもと違う通学路で帰り、その現場に出くわしたのだ。\
+` Yukari had taken a different route home from usually that day for various reasons, and happened across this display of violence.`\
 
 ld r,YUK_D4a,80
 
-「可哀想に……。@私も一緒に探してあげるね。@……正明くんも一緒に探してあげなさいよ…！！」@
-
+;「可哀想に……。@私も一緒に探してあげるね。@……正明くんも一緒に探してあげなさいよ…！！」@
+`"You poor thing... `@`I'll help you look for your key too.`@`... Masaaki-kun, you help find it too...!!"`@
 ld l,YOS_D10,23
 
-「……うっせぇな。@俺はこいつと一緒に宝探しをして遊んでるだけなんだよ。@……なぁ？！@　俺たち友達だもんなぁ？！」\
-
+;「……うっせぇな。@俺はこいつと一緒に宝探しをして遊んでるだけなんだよ。@……なぁ？！@　俺たち友達だもんなぁ？！」\
+`"...Shut up. `@`We were just having a little treasure hunt.`@`... Right?! `@`We're friends, right?!"`\
 
 ;bg black,22
 
-　それはかつて、まったく逆の立場だった時、正明が彼らによく投げ掛けられた言葉だ。\
+;　それはかつて、まったく逆の立場だった時、正明が彼らによく投げ掛けられた言葉だ。\
+` Those were the same words that Masaaki had thrown at him all the time back in the day.`\
 
 
-
-　いじめっこは、……いや、今となってはそれが正しい呼び方かは怪しいが…。@
+;　いじめっこは、……いや、今となってはそれが正しい呼び方かは怪しいが…。@
+` The bully... actually, it would be strange to still call him a bully at this point, but at any rate...`@
 br
-　いじめっこは弱々しい笑顔でおずおずと、「う、うん……。」と正明に答える……。\
-
+;　いじめっこは弱々しい笑顔でおずおずと、「う、うん……。」と正明に答える……。\
+` The bully made his lips into a slender smiler, and answered Masaaki with a nervous "Y-Yes....."`\
 
 ;bg ura8,0
 ;ld r,YUK_D1,0
@@ -3341,31 +3354,32 @@ ld l,YUK_i3a,23
 
 ;ld l,YUK_D1,80
 
-「何が遊んでるだけよっ。@どう見てもいじめじゃない！」\
-
+;「何が遊んでるだけよっ。@どう見てもいじめじゃない！」\
+`"How is thing playing? `@`This is clearly bullying!"`\
 
 
 ;ld l,YOS_D1,80
 ld r,YOS_D12,24
 ;ld r,YOS_D1,80
 
-「いじめじゃねぇよ、遊びだよッ！@　俺だって、逆の立場で遊んでもらったことがあるんだぜ。@なっ。@ランドセル運ばされて、@罰ゲームでズボンをドブに捨てられたりとかして遊んだもんな？！@　なッ！！」@
-「ぅ、………ぅん………。」\
-
+;「いじめじゃねぇよ、遊びだよッ！@　俺だって、逆の立場で遊んでもらったことがあるんだぜ。@なっ。@ランドセル運ばされて、@罰ゲームでズボンをドブに捨てられたりとかして遊んだもんな？！@　なッ！！」@
+`"It's not bullying, it's playing! `@`When I was in his place they made me play like this all the time. `@`Right? `@`You would make me carry your backpacks, `@`and then make me play a punishment game of throwing my pants in the gutter!! `@`Right?!"`@
+;「ぅ、………ぅん………。」\
+`"y-..... yeah...."`\
 
 
 ld r,YOS_D8,80
 
-「ほらな。@いじめじゃねぇんだよ。@女のお前にはいじめに見えるだろうけど、@これは俺たちには普通の遊びなんだよ。@女は引っ込んでろッ！！」@
-
+;「ほらな。@いじめじゃねぇんだよ。@女のお前にはいじめに見えるだろうけど、@これは俺たちには普通の遊びなんだよ。@女は引っ込んでろッ！！」@
+`"See? `@`It's not bullying. `@`A girl like you might think it's bullying, `@`but this is just how we play. `@`Girls should just mind their own business!!"`@
 ld l,YUK_i2a,80
 
-「引っ込まないよっ。@私、いじめは絶対に見過ごさないもんっ。」\
-
+;「引っ込まないよっ。@私、いじめは絶対に見過ごさないもんっ。」\
+`"I will do no such thing. `@`I refuse to overlook bullying."`\
 ld r,YOS_D11,80
 
-「て、てめぇ、……お、俺がいじめっこだって言うのかよ？！@　俺はいじめられっこなんだよ、被害者なんだよ…！！」\
-
+;「て、てめぇ、……お、俺がいじめっこだって言うのかよ？！@　俺はいじめられっこなんだよ、被害者なんだよ…！！」\
+`"Y-You bitch... are you calling me a bully?! `@`I'm the one being bullied here, I'm the victim...!!"`\
 
 
 ;bg black,1
@@ -3385,31 +3399,34 @@ se1v 10,50
 quakex 2,200
 
 
-「きゃッ……！」@
+;「きゃッ……！」@
+`"Ahh-....!"`@
 br
-　由香里の胸倉を掴み上げ、塀に押し付ける。@
+;　由香里の胸倉を掴み上げ、塀に押し付ける。@
+` He grabbed Yukari's collar and held her against a wall.`@
 br
-　女のくせして図体のでかいヤツとは思ってたが、こうしてみると、案外、華奢なヤツだった。\
-
+;　女のくせして図体のでかいヤツとは思ってたが、こうしてみると、案外、華奢なヤツだった。\
+` Before, he thought that she had a relatively large build for a girl, but when she was backed against the wall like this, she seemed unexpectedly slender.`\
 ld c,YOS_D10a,80
 
-「俺はいじめられっこなんだよ、いじめっこじゃねぇんだよ！！@　二度と俺をいじめっこなんて言うんじゃねぇ！！」@
-
+;「俺はいじめられっこなんだよ、いじめっこじゃねぇんだよ！！@　二度と俺をいじめっこなんて言うんじゃねぇ！！」@
+`"I'm the one who's bullied. I'm not the bully here!! `@`Don't ever call me a bully again, are we clear?!"`@
 ld l,YUK_i2a,80
 
-「……うぅん、言うよ。@君はいじめっこだよ……！」\
-
+;「……うぅん、言うよ。@君はいじめっこだよ……！」\
+`"...No, I'll say it again. `@`You are a bully...!"`\
 ld c,YOS_D12,80
 quakey 1,100
 
-「このアマ、言わせておけば………！！！」@
+;「このアマ、言わせておけば………！！！」@
+`"You bitch, if you say that one more time....!!!"`@
 br
-　さらに胸倉を掴み上げる。@彼女の喉は圧迫されて息苦しいようだった。\
-
+;　さらに胸倉を掴み上げる。@彼女の喉は圧迫されて息苦しいようだった。\
+` He grabbed her collar again. `@`This time he applied pressure to her throat, choking her.`\
 ld l,YUK_i3a,80
 
-「……何があったの、……吉川くん……。@………最初は、私もいいかなって思ったの。@……今までずっといじめられていた君が、急にたくましくなって。@一方的にやられるだけじゃなくて、少しやり返せるようになって。@……もういじめられっこじゃなくなったって思って、喜んでたの。@……でも、君はどんどんおかしくなって、……今じゃ、ただのいじめっこじゃない！！」\
-
+;「……何があったの、……吉川くん……。@………最初は、私もいいかなって思ったの。@……今までずっといじめられていた君が、急にたくましくなって。@一方的にやられるだけじゃなくて、少しやり返せるようになって。@……もういじめられっこじゃなくなったって思って、喜んでたの。@……でも、君はどんどんおかしくなって、……今じゃ、ただのいじめっこじゃない！！」\
+`"...What happened to you... Yoshikawa-kun...`@`.... At first I was glad about the change.`@`... To see a kid that was bullied for so long to suddenly become stronger. `@`For you to not just take the bullying lying down, but fight back.`@`... I thought you were no longer going to be bullied, so I was happy for you.`@`... but, something about you changed... and now you're nothing more than a bully yourself!!"`\
 
 ;mld c,YOS_D1,80
 
@@ -3422,34 +3439,35 @@ bg roji_03a,22
 
 me2v 5,50
 
-「いじめっこじゃねぇよ、俺はいじめられっこだよ！！@　あいつらに、寄って集っていじめ抜かれてきた日々の心の傷は、@ちっとも癒えちゃいねぇんだよ…！！@　それが癒えねぇ限りッ、俺はずっとずっといじめられっこ！@　そしてこいつらは俺をいじめた、@いじめっこ、……加害者、犯罪者なんだよッ！！」\
-
+;「いじめっこじゃねぇよ、俺はいじめられっこだよ！！@　あいつらに、寄って集っていじめ抜かれてきた日々の心の傷は、@ちっとも癒えちゃいねぇんだよ…！！@　それが癒えねぇ限りッ、俺はずっとずっといじめられっこ！@　そしてこいつらは俺をいじめた、@いじめっこ、……加害者、犯罪者なんだよッ！！」\
+`"I'm not a bully! I'm being bullied!! `@`I have wounds on my heart from the days when they would team up and pick on me, `@`and they still haven't healed yet...!! `@`Until they heal, I'm the one who is being bullied! `@`And those who picked on me, `@`they're the bullies... they're the aggressors and criminals!!"`\
 ;mld r,YUK_D1,22
 ;mld r,YUK_D1,80
 ;ld r,YUK_D1,80
 
-「だからそれをやり返すのが、君の言う正当な復讐ってわけね。@………君の気持ちも理解は出来るよ。@これまでの分を仕返ししたい気持ち、わからないわけじゃない。@……なら、それはもう充分じゃないの？！@　もう充分、彼らをいじめたでしょ！！」\
-
+;「だからそれをやり返すのが、君の言う正当な復讐ってわけね。@………君の気持ちも理解は出来るよ。@これまでの分を仕返ししたい気持ち、わからないわけじゃない。@……なら、それはもう充分じゃないの？！@　もう充分、彼らをいじめたでしょ！！」\
+`"And so you want to get back at them, have your rightful revenge.`@`.... I understand how you feel. `@`It's not like I don't understand the feeling of wanting payback for all that.`@`... But isn't this enough?! `@`Haven't you bullied them enough?!"`\
 bg black,22
 
 bg ura7,0
 ld c,YOS_D10,22
 ld c,YOS_D10n,80
 
-「全然足りてねぇよ！！@　あいつらは寄って集って大勢でいじめたんだ！@　それに比べたら、こいつらは俺一人にいじめられるだけ。@大甘じゃねぇか！！@　それにな、俺の心の傷が癒えたかどうかは、お前じゃねぇ、俺にしか決められないんだ！！@　被害者である俺だけが、復讐の権利と、心の傷がいつ癒えたかどうかを決定できるんだッ！！」\
-
+;「全然足りてねぇよ！！@　あいつらは寄って集って大勢でいじめたんだ！@　それに比べたら、こいつらは俺一人にいじめられるだけ。@大甘じゃねぇか！！@　それにな、俺の心の傷が癒えたかどうかは、お前じゃねぇ、俺にしか決められないんだ！！@　被害者である俺だけが、復讐の権利と、心の傷がいつ癒えたかどうかを決定できるんだッ！！」\
+`"It's nowhere near enough!! `@`They all ganged up on me when they bullied me! `@`Comapred to that, what I can dish out to them alone, `@`it's far too lenient on them!! `@`And you're not the one who can decide whether or not I've had enough to heal my heart, I'm the only one who knows that!! `@`I'm the victim, so I'm the only one who can decide what amount of revenge is necessary to heal the wounds caused to my heart!!"`\
 ld r,YUK_i1a,24
 ;ld r,YUK_D1,80
 
-「…………じゃあ！@　彼らが、君を今までいじめてきてごめんなさいって謝ったら！@　君は許してくれるの？！」\
-
+;「…………じゃあ！@　彼らが、君を今までいじめてきてごめんなさいって謝ったら！@　君は許してくれるの？！」\
+`".....But! `@`What if they apologized for everything they did to you! `@`Would you forgive them then?!"`\
 cl c,0
 ld l,YOS_D8a,24
 
-「その謝罪が本気だったら、そりゃ俺の心にも届くだろうさ。@でもな。@心に届いたかどうかを決めるのは俺だ、被害者の俺だけなんだ！@　あの執拗ないじめの日々の謝罪が、@ちょっと一言、ごめんなさいと言ったくらいで、簡単に許してもらえるとか思うんじゃねぇぞ…！！」@
+;「その謝罪が本気だったら、そりゃ俺の心にも届くだろうさ。@でもな。@心に届いたかどうかを決めるのは俺だ、被害者の俺だけなんだ！@　あの執拗ないじめの日々の謝罪が、@ちょっと一言、ごめんなさいと言ったくらいで、簡単に許してもらえるとか思うんじゃねぇぞ…！！」@
+`"Only if I find their apology sincere enough. `@`But, `@`the only one who can decide if it's sincere enough is me, the victim! `@`Their bullying went on for a long time! `@`So I'm not about to let off the hook with just a simple 'I'm sorry'...!!"`@
 br
-　そう言い、正明は少年の背中を蹴り飛ばす。\
-
+;　そう言い、正明は少年の背中を蹴り飛ばす。\
+` Masaaki kicked the boy on the back.`\
 
 
 ;mcl c,0
@@ -3463,14 +3481,15 @@ quakex 2,200
 
 wait 500
 
-「ご、……ごめん……、ごめん………。」@
+;「ご、……ごめん……、ごめん………。」@
+`"I-... I'm sorry... I'm sorry....."`@
 br
-　少年はすっかり怯えきり、由香里の背中に隠れて半泣きしている……。\
-
+;　少年はすっかり怯えきり、由香里の背中に隠れて半泣きしている……。\
+` The boy frightenedly hid behind Yukari's back, nearly on the verge of tears...`\
 ld r,YUK_i3a,80
 
-「ほらっ。@彼は謝ったわよ！@　許してあげなさいよ…！！」\
-
+;「ほらっ。@彼は謝ったわよ！@　許してあげなさいよ…！！」\
+`"See? `@`He apologized! `@`Forgive him...!!"`\
 ld l,YOS_D8,80
 
 「それっぽっちで許すかよ。@俺がいじめられてきた日にち分、毎日、土下座して謝罪し続けやがれ…！！@　お前らは永遠に加害者なんだよ！@　そして俺は永遠に被害者なんだ！@　俺の心の傷は永遠に癒えねぇんだ。@だから永遠に土下座して謝り続けやがれ…！！」\
