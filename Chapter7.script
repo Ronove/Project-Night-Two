@@ -3280,32 +3280,38 @@ ld l,HIG_D8,80
 ;「……………………。」@
 `".........."`@
 br
-　それっきり、秋一が答えてくれることはなかった。\
-
+;　それっきり、秋一が答えてくれることはなかった。\
+` Shuuichi still didn't answer.`\
 bg black,22
 
-　やがて彼岸花は気付く。@
+;　やがて彼岸花は気付く。@
+` Then Higanbana realized.`@
 br
 　彼が人ならざる者である自分と、これまで交流できたのは、あの目の力に違いないと。\
 
 
-　それが失われたのだから、……もう彼と話せないのは当然なのだ。@
-　彼岸花は、一番聞きたかった最後の答えを、永遠に得られない。@
+;　それが失われたのだから、……もう彼と話せないのは当然なのだ。@
+` Since he had lost that...it was only natural for him to not speak.`@
+;　彼岸花は、一番聞きたかった最後の答えを、永遠に得られない。@
+` It seemed that the last question that Higanbana wanted answered most would never have a response.`@
 br
-　その時、初めて。@……彼岸花は、校長の言葉を理解した気がした。\
-
+;　その時、初めて。@……彼岸花は、校長の言葉を理解した気がした。\
+` And, for the first time,`@`...Higanbana thought she understood the words of the Principal.`\
 me1v 5,50
 
 bg Air_03,2
 
-　妖怪とは、人間の影であるということ。@
-　昼があれば夜があるなら。@人は昼を、妖怪は夜を支配すべき。@
+;　妖怪とは、人間の影であるということ。@
+` Monsters are part of the shadows of humans.`@
+;　昼があれば夜があるなら。@人は昼を、妖怪は夜を支配すべき。@
+` If there is day, then there must be night.`@`Humans rule the day, while Monsters rule nighttime.`@
 br
-　彼は昼間に生きるに相応しい人間だった。\
-
+;　彼は昼間に生きるに相応しい人間だった。\
+` He was a human worthy of living in the daylight.`\
 ;mld c,HIG_D9,22
 
-　ならば、闇夜に生きるに相応しい者が、闇夜を支配しなくてはならない。@
+;　ならば、闇夜に生きるに相応しい者が、闇夜を支配しなくてはならない。@
+` If he was able to live in the nighttime, then he must in turn rule it.`@
 　人間如きが、その領分を誤ることがないように。\
 
 bg black,22
@@ -3313,16 +3319,18 @@ bg byouin_01,22
 
 mld c,HIG_D8,22
 
-「秋一。@……私はようやく理解したわ。@ありがとう。」@
+;「秋一。@……私はようやく理解したわ。@ありがとう。」@
+`"Shuuichi..`@`I finally understand.`@`Thank you."`@
 br
-　もちろん、秋一は答えない。@
-　もう彼岸花の声を聞くことも、応えることもない。\
-
+;　もちろん、秋一は答えない。@
+` Of course, Shuuichi didn't reply.`@
+;　もう彼岸花の声を聞くことも、応えることもない。\
+` He would never respond to hearing Higanbana's voice again.`\
 mld c,HIG_D10,22
 mcl c,2
 
-　彼岸花はふわりと姿を消し、病院を後にする。\
-
+;　彼岸花はふわりと姿を消し、病院を後にする。\
+` Higanbana's figure gently disappeared and she left the hospital behind.`\
 bg black,22
 
 fede 1,1000
@@ -3330,17 +3338,20 @@ E_B
 
 bg Air_03,22
 
-　月明かりさえない闇夜を、人間たちが細々とした人工の明かりで辛うじて照らし出す、無機質な町。@
+;　月明かりさえない闇夜を、人間たちが細々とした人工の明かりで辛うじて照らし出す、無機質な町。@
+` An inorganic town, which, even without moonlight, was illuminated at night by the man-made lamps put up in minute detail by humans.`@
 br
-　こんな闇夜に人間が出歩くことはない。@
-　それは、人間は陽の下を歩くように定められ、闇の中を歩くように定められていないからだ。\
-
+;　こんな闇夜に人間が出歩くことはない。@
+` Humans never went out in such dark nights as these.`@
+;　それは、人間は陽の下を歩くように定められ、闇の中を歩くように定められていないからだ。\
+` That was because it was established that humans would walk under the sun, and not the cover of nightfall.`\
 ;bg black,22
 
-　ならば、学校もそうであるべきだ。@
+;　ならば、学校もそうであるべきだ。@
+` That was true for the School too.`@
 br
-　学校妖怪もそうあるべきなのだ。\
-
+;　学校妖怪もそうあるべきなのだ。\
+` And it was true for the School Monsters.`\
 ;bg Air_03,0
 ld c,HIG_D8,2
 
@@ -3354,33 +3365,37 @@ ld c,HIG_w5,80
 bgm1 20
 
 「ふ、ふっふふふふふふふ、くすくすくすくすくすくす……。」@
+`"Fu..fufufufufufufufu...Kusukusukusukusu..."`@
 br
-　彼岸花は笑った。@初めて笑った。\
-
+;　彼岸花は笑った。@初めて笑った。\
+` Higanbana laughed.`@`For the first time she was laughing.`\
 se1v 20,30
 
 cl c,26
 quakey 1,100
 
-　電柱から電柱へ飛び移り、闇夜を疾駆して学校を目指しながら、誰にも聞くことの出来ぬ声で笑い続けた。\
-
-「理解したわ、ようやく。@ようやく。@あなたのお陰よ、秋一。@あなたのお陰で、私はようやく理解できたっ。」\
-
+;　電柱から電柱へ飛び移り、闇夜を疾駆して学校を目指しながら、誰にも聞くことの出来ぬ声で笑い続けた。\
+` She leapt from telephone pole to telephone pole, as if riding a horse, aiming for the school, all the while laughing in a voice no one could hear.`\
+;「理解したわ、ようやく。@ようやく。@あなたのお陰よ、秋一。@あなたのお陰で、私はようやく理解できたっ。」\
+`"I understand, finally.`@`Finally.`@`Thanks to you Shuuichi.`@`Thanks to you I finally understand."`\
 me1v 5,50
 
 bg black,22
 
-　自分の為すべきこと。@
-　妖怪の在るべき理由。@
+;　自分の為すべきこと。@
+` What I should do for myself.`@
+;　妖怪の在るべき理由。@
+` Why I am a monster.`@
 br
 　闇の中に巨体を横たえる校舎の大空に、彼岸花は飛翔する。\
 
 bg okujou_03u,22
 
-「ほら、夜の学校には人間など誰もいないっ。@……どうして？」@
+;「ほら、夜の学校には人間など誰もいないっ。@……どうして？」@
+`"Hey, at night, there are no humans at the school.`@` Why's that?"`@
 br
-　それは、夜の学校を、私たちが支配しているから。\
-
+;　それは、夜の学校を、私たちが支配しているから。\
+` It's because the school monsters rule the building at night.`\
 bg black,24
 bg okujou_01y,24
 ld c,HIG_w3,25
