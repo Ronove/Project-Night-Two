@@ -3492,8 +3492,8 @@ ld r,YUK_i3a,80
 `"See? `@`He apologized! `@`Forgive him...!!"`\
 ld l,YOS_D8,80
 
-「それっぽっちで許すかよ。@俺がいじめられてきた日にち分、毎日、土下座して謝罪し続けやがれ…！！@　お前らは永遠に加害者なんだよ！@　そして俺は永遠に被害者なんだ！@　俺の心の傷は永遠に癒えねぇんだ。@だから永遠に土下座して謝り続けやがれ…！！」\
-
+;「それっぽっちで許すかよ。@俺がいじめられてきた日にち分、毎日、土下座して謝罪し続けやがれ…！！@　お前らは永遠に加害者なんだよ！@　そして俺は永遠に被害者なんだ！@　俺の心の傷は永遠に癒えねぇんだ。@だから永遠に土下座して謝り続けやがれ…！！」\
+`"Do you really think something that half-assed is going to be enough? `@`They'll have to get down on their knees and profusely apologize for every single day that they bullied me...!! `@`They will always be the criminals! `@`And I will always be the victim! `@`The wounds on my heart will never disappear. `@`So they should have to apologize forever...!!"`\
 cl r,0
 ld c,YUK_D1,24
 ;bg white,24
@@ -3508,49 +3508,53 @@ mbg black,22
 ;ld c,YUK_D1,0
 ;ld l,YOS_D1,22
 
-　……乾いた音と同時に、正明の世界が、少しだけ横にぶれた。@
-
+;　……乾いた音と同時に、正明の世界が、少しだけ横にぶれた。@
+` ...There was a sharp echoing sound, and Masaaki's vision was pushed slightly to the side.`@
 bgm1 22
 
 br
-　目に涙を溜めた由香里に、平手で打たれたと気付くのに、少しだけ時間が掛かった。\
-
+;　目に涙を溜めた由香里に、平手で打たれたと気付くのに、少しだけ時間が掛かった。\
+` It didn't take him long to realize that Yukari had hit him across the face with her open palm, tears gathering in her eyes.`\
 mcbg 22
 ld l,YOS_D10a,80
 
-「………………………………。」@
+;「………………………………。」@
+`"..............."`@
 ;＜正明
 
 ld c,YUK_i2a,0
 
-「………私はいじめもいじめっこも大嫌い。@……いじめと悪ふざけを履き違えた、無自覚ないじめっこはもっと嫌い。@………でも、あなたみたいないじめっこは、もっともっと嫌いッ………。」\
-
+;「………私はいじめもいじめっこも大嫌い。@……いじめと悪ふざけを履き違えた、無自覚ないじめっこはもっと嫌い。@………でも、あなたみたいないじめっこは、もっともっと嫌いッ………。」\
+`"....I hate bullies and bullying.`@`... I hate those who can't the difference between bullying and messing around even more.`@`..... But, I hate bullies like you most of all....."`\
 cl c,23
 
 ;ld l,YOS_D1,80
 
-「……………………………。」@
+;「……………………………。」@
+`"............."`@
 br
-　由香里はくるりと背を向け、@涙で目を真っ赤にしている少年の肩を叩き、一緒に鍵を探そうと話し掛ける。@
-　もう、正明のことは完全に無視していた。\
-
+;　由香里はくるりと背を向け、@涙で目を真っ赤にしている少年の肩を叩き、一緒に鍵を探そうと話し掛ける。@
+` Yukari abruptly turned her back to him, `@`and patted the shoulder of the boy who's eyes were red from crying, telling him that she'd help him find his key.`@
+;　もう、正明のことは完全に無視していた。\
+` She was now completely ignoring Masaaki.`\
 
 
 ;ld l,YOS_D1,80
 cl l,0
 ld c,YOS_D8a,23
 
-「…………ンだよ…………。@……ンだよ、……畜生………。@……何しやがんだよ、……榊てめぇ………。」@
+;「…………ンだよ…………。@……ンだよ、……畜生………。@……何しやがんだよ、……榊てめぇ………。」@
+`"......What the.....`@`... what the.... damnit.....`@`... What the fuck was that?... Sakaki, you bitch....."`@
 br
-　由香里は応えない。@聞こえているはずなのに、まったく聞こえないかのように無視している。\
-
+;　由香里は応えない。@聞こえているはずなのに、まったく聞こえないかのように無視している。\
+` Yukari didn't respond. `@`She heard what she said, but she just ignored him.`\
 
 
 ;ld l,YOS_D1,80
 ld c,YOS_D11,80
 
-「…………畜生ぉ……。@……畜生ぉ、畜生ぉッ、……畜生ッッ！！！」\
-
+;「…………畜生ぉ……。@……畜生ぉ、畜生ぉッ、……畜生ッッ！！！」\
+`"......Damnit...`@`... damnit, damnit... Damn it!!!!"`\
 
 
 ;cl l,24
@@ -3559,14 +3563,16 @@ ld c,YOS_D11,80
 cl c,24
 bg black,24
 
-　正明は駆け出す。@
+;　正明は駆け出す。@
+` Masaaki ran off.`@
 br
-　……由香里の無視が、それほどまでに彼の心を抉ったのだろうか。\
-
-　いや、それは彼自身にしかわからないこと。@
+;　……由香里の無視が、それほどまでに彼の心を抉ったのだろうか。\
+` ...Out of everything that had happened to him thus far, being ignored by Yukari probably hurt his heart the most.`\
+;　いや、それは彼自身にしかわからないこと。@
+` Or rather, it was a pain that only he could understand.`@
 br
-　彼はその日を境に、自他共に認める本当のいじめっことなった……。\
-
+;　彼はその日を境に、自他共に認める本当のいじめっことなった……。\
+` That day was the turning point for him. From then on everyone, himself included, consider him to be a true bully...`\
 
 fede 0,2000
 E_A
@@ -3590,131 +3596,154 @@ bg black,22
 bg kyou_04,22
 ;ld c,YOS_D1,22
 
-　正明によるいじめの矛先は、@かつて自分をいじめていた生徒以外にも向けられるようになった。@
+;　正明によるいじめの矛先は、@かつて自分をいじめていた生徒以外にも向けられるようになった。@
+` Masaaki's targets changed. `@`He no longer only bullied those who had once done the same to him.`@
 br
-　彼は今や、クラスの暴君。@
-　彼と目が合わないよう、皆、俯きながら学校生活を送る他なかった。\
+;　彼は今や、クラスの暴君。@
+` He was now the tyrant of this class.`@
+;　彼と目が合わないよう、皆、俯きながら学校生活を送る他なかった。\
+` His classmates had no choice but to go about their school lives with their heads held low, trying not to look at him.`\
 
 
-
-　誰もが暗く俯き、意識は希薄になっていく。@かつて正明がそうだったように。@
+;　誰もが暗く俯き、意識は希薄になっていく。@かつて正明がそうだったように。@
+` Everyone lowered their head gloomily, trying to make themselves as unnoticable as possible. `@`Just as Masaaki had once done himself.`@
 br
-　その一方で。@正明にとっての世界は、燦々と太陽が照りつける南国かのように、@日々が明るく快晴で、満ち足りたものだった。\
-
+;　その一方で。@正明にとっての世界は、燦々と太陽が照りつける南国かのように、@日々が明るく快晴で、満ち足りたものだった。\
+` On the other hand, `@`Masaaki's life was like living on a bright sunny tropical island. `@`Every day was sunny and beautiful and happy.`\
 ;ld c,YOS_D1,80
 
 bg kyou_03,2
 
-　クラスメートにとっては、教室の天井は圧迫感を覚えるほどに低く暗く感じられるのに。@
+;　クラスメートにとっては、教室の天井は圧迫感を覚えるほどに低く暗く感じられるのに。@
+` To the others in the class, it felt like the ceiling of the classroom was closing in on them day after day, making the world feel small and dark.`@
 br
-　正明にとっては、天井どころか、@まるでリゾート地のビーチで、パラソルの下でくつろいでいるかのようにさえ感じられるのだ。\
+;　正明にとっては、天井どころか、@まるでリゾート地のビーチで、パラソルの下でくつろいでいるかのようにさえ感じられるのだ。\
+` But to Masaaki, `@`that ceiling felt like a big parasol on the beach next to a resort, providing him a relaxing shade.`\
 
-
-　全てが広々として快適で。@……学校そのものが、@彼にとってはもはや、リゾートホテルのような気分だった。@
+;　全てが広々として快適で。@……学校そのものが、@彼にとってはもはや、リゾートホテルのような気分だった。@
+` In fact... `@` everything was so spacious and comfortable to him, `@`that the entire school itself felt like a resort hotel.`@
 br
-　それに伴い、正明にも自覚できるくらいの愉快な変化があった。\
-
+;　それに伴い、正明にも自覚できるくらいの愉快な変化があった。\
+` And in addition to that, just about everything had changed for the better for him.`\
 bg black,22
 bg kyou_01,22
 
 bgm1 7
 
-　まず、成績の上昇だ。@
+;　まず、成績の上昇だ。@
+` First of all, his grades were getting better.`@
 br
-　視界が明るくなり、頭の回転が早まり、記憶力が著しく上昇した。@
-　その結果、黒板に書かれる内容や、先生の話す内容が、@まるでスポンジで水を吸うかのように、どんどん吸収できた。\
+;　視界が明るくなり、頭の回転が早まり、記憶力が著しく上昇した。@
+` His vision had also gotten sharper, his thinking quicker, and his memory remarkably better.`@
+;　その結果、黒板に書かれる内容や、先生の話す内容が、@まるでスポンジで水を吸うかのように、どんどん吸収できた。\
+` Because of that, he could understand what's written on the backboard and the contents of the teacher's lectures better. `@`He was soaking up the lessons just like a sponge.`\
 
-
-　勉強そのものも、まるでテレビのバラエティ番組のように感じられ、@応用問題も愉快なクイズのように感じられた。@
+;　勉強そのものも、まるでテレビのバラエティ番組のように感じられ、@応用問題も愉快なクイズのように感じられた。@
+` Even studying felt like a variety TV show to him. `@`Application exercises like pleasant little quizes.`@
 br
-　その結果、どんどん成績は上昇し、勉強は更に面白くなり、@それらが好循環となり、正明の成績はどこまでも上昇していった。\
-
+;　その結果、どんどん成績は上昇し、勉強は更に面白くなり、@それらが好循環となり、正明の成績はどこまでも上昇していった。\
+` And so, his grades got even better because of that, and then studying got even more fun in result. `@`It became a cycle of rising grades for Masaaki.`\
 
 bg black,22
 bg koutei_01,22
 
-　それは勉強だけでなく、運動もだった。@
+;　それは勉強だけでなく、運動もだった。@
+` And it didn't just apply to studying either, he always exercised more.`@
 br
-　世界が明るくなるにつれ、体がどんどん動くようになった。@
-　息も長く続くようになったし、何より、テンションが上がるようになった。\
+;　世界が明るくなるにつれ、体がどんどん動くようになった。@
+` As his world got brighter, he worked his body harder.`@
+;　息も長く続くようになったし、何より、テンションが上がるようになった。\
+` His breathing got steadier, and his spirits rose higher.`\
 
-
-　辛くて苦手だったマラソンさえ、友達を小突いてじゃれ合いながらの遊びに感じられた。@
-　球技も競争も、何もかもが遊びに感じられる。@
+;　辛くて苦手だったマラソンさえ、友達を小突いてじゃれ合いながらの遊びに感じられた。@
+` Even a diffcult marathon felt like playing and running around with friends.`@
+;　球技も競争も、何もかもが遊びに感じられる。@
+` Ball games, competitions, they all felt like playing.`@
 br
-　だから、あらゆる教科の成績がぐんぐん上昇した。\
-
+;　だから、あらゆる教科の成績がぐんぐん上昇した。\
+` So he gradually got better grades in physical education as well.`\
 mov %SMI_Isyou,2
 bg black,22
 bg shokuin_01,22
 
-　それを先生に褒められるようになり、先生からの評判も鰻上りだった。@
+;　それを先生に褒められるようになり、先生からの評判も鰻上りだった。@
+` And thus, that became a source of praise from his teachers, and he quickly became well-known amongst them.`@
 br
-　だから、先生は正明がクラスメートにちょっかいを出していても、好意的に見て、いじめとは捉えなかった。\
-
-　勉強も運動も全てが好調。@
+;　だから、先生は正明がクラスメートにちょっかいを出していても、好意的に見て、いじめとは捉えなかった。\
+` So whenever Masaaki would pick on a classmate, the teacher would take his side and wouldn't see it as bullying.`\
+;　勉強も運動も全てが好調。@
+` Studying, exercising, he was good at everything.`@
 br
-　先生の受けもよく、正明にとっての学校生活は、まさに薔薇色だった。\
-
+;　先生の受けもよく、正明にとっての学校生活は、まさに薔薇色だった。\
+` Even the teachers loved him. Masaaki was living an ideal school life.`\
 bg black,2
 ;bg aka1,0
 ld l,SMI_w2,22
 ld l,SMI_w3,80
 
-「どうであるか、正明。@これがいじめっこの世界なのじゃ…！」@
+;「どうであるか、正明。@これがいじめっこの世界なのじゃ…！」@
+`"How is it, Masaaki? `@`This is the world of bullies...!"`@
 ;＜スミレ
 
 mld c,YOS_D7,22
 mld c,YOS_D8a,80
 
-「……はは、はははははは……。@すげぇや……。@信じられない……。@これが、あいつらの世界なんだ………。」\
-
+;「……はは、はははははは……。@すげぇや……。@信じられない……。@これが、あいつらの世界なんだ………。」\
+`"...Haha, hahahahaha....`@` It's great... `@`It's hard to believe... `@`that this is the world they were living in....."`\
 ld r,AZA_D3,22
 
-「いじめられっこは、蔑まれるだけでなく、その世界も暗く澱み、希望の光さえ消え去る。@……しかし、いじめっこの世界は、これほどまでに輝き、充実し、希望に満ちているのです。」\
-
+;「いじめられっこは、蔑まれるだけでなく、その世界も暗く澱み、希望の光さえ消え去る。@……しかし、いじめっこの世界は、これほどまでに輝き、充実し、希望に満ちているのです。」\
+`"The world of those who are bullied is not only one of disdain, but it is also dark and stagnant, with any slight ray of hope immediately erased by the darkness.`@`... But the world of bullies is this bright, fulfilling and brimming with hope."`\
 mld c,YOS_D8,80
 
-「……確かに……。@かつては大嫌いだった勉強も運動も、@……全てが信じられないくらいに絶好調で……。@今の俺なら、何も出来ないことなんかないって、気持ちになります……。」\
-
+;「……確かに……。@かつては大嫌いだった勉強も運動も、@……全てが信じられないくらいに絶好調で……。@今の俺なら、何も出来ないことなんかないって、気持ちになります……。」\
+`"...It really is....`@` I used to hate studying and execising.... `@`But now I'm doing so well at them... `@`I feel like there's nothing I can't do nowadays..."`\
 ld r,AZA_D2,80
 
-「気持ちではありませんよ。@それは今や、あなたの立派な実力なのです。@今のあなたなら、学業も学校生活も私生活も、全てを完璧にやり遂げ、@立派な成績と自信をもって、より素晴らしい世界に羽ばたいていくことが出来るでしょう。」\
+;「気持ちではありませんよ。@それは今や、あなたの立派な実力なのです。@今のあなたなら、学業も学校生活も私生活も、全てを完璧にやり遂げ、@立派な成績と自信をもって、より素晴らしい世界に羽ばたいていくことが出来るでしょう。」\
+`"It's not just a feeling. `@`That is truly what you are capable of right now. `@`Right now you are perfectly accomplished in your schoolwork, school life and private life. `@`Using your excellent grades and self-confidence, you are able to fly yourself to a whole new, even more wonderful world."`\
 ;＜アザミ
 
 ld l,SMI_w4,80
 
-「お前もテレビで、一流の芸能人やスポーツ選手、あるいは政治家を見て、@彼らと自分は違う生き物なのだと思ったことが、一度はあるはず。」@
+;「お前もテレビで、一流の芸能人やスポーツ選手、あるいは政治家を見て、@彼らと自分は違う生き物なのだと思ったことが、一度はあるはず。」@
+`"You must have seen some talented actors, athletes or politicians on the TV before, `@`and thought to yourself, 'I'll never be as good as them' right?"`@
 ;＜スミレ
 
 ld r,AZA_D4,80
 
-「彼らは皆、あなたと同じ境地だったのです。@今のあなたになら理解できるでしょう。@その世界でなら、彼らの領域に辿り着くことも可能であることを。」\
+;「彼らは皆、あなたと同じ境地だったのです。@今のあなたになら理解できるでしょう。@その世界でなら、彼らの領域に辿り着くことも可能であることを。」\
+`"Each and every one of them is living with the same state of mind as you have right now. `@`You should be able to understand as you are now. `@`It's completely possible for you to reach their level."`\
 
-
-　理解できる。@
-　そして、人の世が、ピラミッド構造になっていることだって、理解している。@
+;　理解できる。@
+` He understood.`@
+;　そして、人の世が、ピラミッド構造になっていることだって、理解している。@
+` The world of humans is built in the shape of a pyramid.`@
 br
-　一流の人間たちは皆、大勢の人間たちを踏み台にして、その上に立っているのだ。\
-
+;　一流の人間たちは皆、大勢の人間たちを踏み台にして、その上に立っているのだ。\
+` All of the top-class human beings use the masses of other people as stepping stones to each the top.`\
 me2v 28,70
 
 bg aka1,2
 
-　それはまさに、……この境地だったのだ。@
+;　それはまさに、……この境地だったのだ。@
+` That... is the state of mind she was talking about.`@
 br
-　皆を虐げ、魂を食らう。@
-　自分の世界は明るくなり、何もかもが充実し、それを先生に大いに評価される。\
+;　皆を虐げ、魂を食らう。@
+` To oppress eveyone, and feed on their souls.`@
+;　自分の世界は明るくなり、何もかもが充実し、それを先生に大いに評価される。\
+` To brighten his world, and become perfect at everything, that is what the teacher's admire.`\
 
-
-　評価された人間はもう、誰にも咎められない。@遊ぶようにいじめ、遊ぶようにどこまでも上り詰める。@
+;　評価された人間はもう、誰にも咎められない。@遊ぶようにいじめ、遊ぶようにどこまでも上り詰める。@
+` Valued people are never judged by anyone. `@`They bully like it's a game, and climb to the top, like it's a game.`@
 br
-　逆に、魂を食われた人間たちは。@……どこまでも暗く狭い世界に落ち込み、@まるでいじめっこを引き立てるかのように転落していく……。\
-
+;　逆に、魂を食われた人間たちは。@……どこまでも暗く狭い世界に落ち込み、@まるでいじめっこを引き立てるかのように転落していく……。\
+` On the other hand, those who have their souls eaten.... `@`they will always stuck in their small and dark worlds. `@`It's like they fall just to help the bullies reach the top...`\
 ;bg aka2,22
 ld r,SMI_w5,22
 
-「いじめは、いじめられる人間にとってのみ、害悪なのじゃ。@上り詰める人間にとっては、@それはただ、人生の階段を一段一段踏みしめることでしかないのじゃ。」\
+;「いじめは、いじめられる人間にとってのみ、害悪なのじゃ。@上り詰める人間にとっては、@それはただ、人生の階段を一段一段踏みしめることでしかないのじゃ。」\
+`"Bullying is harmful only to those who are bullied. `@`But to those who will reach the top in life, `@`they are just single steps on the stairway to success."`\
 ;＜スミレ
 
 ld l,AZA_D4,22
