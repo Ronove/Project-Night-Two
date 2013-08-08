@@ -3409,8 +3409,8 @@ ld c,HIG_w5,80
 
 se1v 84,100
 
-私たちの役目なのだから…！！」\
-
+;私たちの役目なのだから…！！」\
+` That's because it's our responsibility!!"`\
 bg black,2
 
 fedexx 100,0,0,0,0,0,3000
@@ -3424,30 +3424,39 @@ E_A
 
 me1v 26,50
 
-　ぺた、ぺた、ぺた、ぺた………。@
-　ぺた、ぺた、ぺた、ぺた、ぺた、ぺた………。@
+;　ぺた、ぺた、ぺた、ぺた………。@
+` Pit pat pit pat pit pat.....`@
+;　ぺた、ぺた、ぺた、ぺた、ぺた、ぺた………。@
+` Pit pat pit pat pit pat pit pat....`@
 br
-　どこからか奇妙な音がする。@
-　近いような、遠いような、耳のすぐ近くのような………。\
-
-「……………………………。」@
+;　どこからか奇妙な音がする。@
+` A strange sound was coming from somewhere.`@
+;　近いような、遠いような、耳のすぐ近くのような………。\
+` From near, far, and right within ear-reach...`\
+;「……………………………。」@
+`"................"`@
 br
-　再び眠りの世界へ戻ろうと、寝返りをうつ。@
-　そう。@少年はやっと眠れたのだ。@なのに、それを覚まされるなんて、腹立たしい。\
-
-　彼は秋一にあの大怪我を負わせた三人組の一人だった。@
+;　再び眠りの世界へ戻ろうと、寝返りをうつ。@
+` In an attempt to go back to sleep, he turned over in bed.`@
+;　そう。@少年はやっと眠れたのだ。@なのに、それを覚まされるなんて、腹立たしい。\
+` Yes.`@`He was finally able to get to sleep.`@`Being woken was exasperating.`\
+;　彼は秋一にあの大怪我を負わせた三人組の一人だった。@
+` He was one of the three boys who had inflicted serious injury on Shuuichi.`@
 br
-　今日の体育倉庫の一件の興奮が冷めず、なかなか寝付けなかったのだ。\
-
+;　今日の体育倉庫の一件の興奮が冷めず、なかなか寝付けなかったのだ。\
+` The excitement from today's event hadn't yet subsided and he couldn't sleep.`\
 ;mono 1
 ;bg white,28
 ;mono 0
 ;bg kyou_01,22
 
-　少年にもわかっている。@普通なら、あれは犯罪だ。@警察沙汰の大事だ。@
+;　少年にもわかっている。@普通なら、あれは犯罪だ。@警察沙汰の大事だ。@
+` Even the boy knew.`@`Normally this would be a crime.`@It'd be a police matter.`@
 br
-　でも、学校の中は聖域！@　誰にも咎められない。@
-　とばっちりを恐れる教師たちが、全て揉み消して、なかったことにしてくれる。@
+;　でも、学校の中は聖域！@　誰にも咎められない。@
+` But in this school sanctuary,`@`nobody can be blamed.`@
+;　とばっちりを恐れる教師たちが、全て揉み消して、なかったことにしてくれる。@
+` Teachers, out of fear of being victims of circumstance would cover everything up.`@
 br
 　いっそ、あいつがあのまま死んでくれないかな。@そうすれば、全部、うやむやにできる。\
 
@@ -3456,39 +3465,44 @@ bg gakkou_03,2
 
 bgm1 10
 
-　それにしても秋一を袋叩きにするのは、本当に楽しかったッ！@
+;　それにしても秋一を袋叩きにするのは、本当に楽しかったッ！@
+` But even so, beating up Shuuichi was so much fun!`@
 br
 
 se1 10
 quakex 1,100
 
-　ひとつ蹴るごとに、じわぁと充足感が広がり。@
-
+;　ひとつ蹴るごとに、じわぁと充足感が広がり。@
+` First, each kick gave him a wonderful sense of fulfillment.`@
 se2 10
 quakey 1,100
 br
-　ふたつ殴るごとに、じわぁと満足感が広がる。\
-
-　無抵抗の相手に乱暴の限りを尽くす、蹂躙。@
+;　ふたつ殴るごとに、じわぁと満足感が広がる。\
+` Second, each punch gave him satisfaction.`\
+;　無抵抗の相手に乱暴の限りを尽くす、蹂躙。@
+` They'd inflict the whole range of violent acts against their passive enemy.`@
 br
-　それがこんなにも楽しいなんて！\
-
+;　それがこんなにも楽しいなんて！\
+` That was so much fun!`\
 mov %SMI_Isyou,1
 ;bg black,22
 ld c,SMI_D2,22
 
-　最初のきっかけこそ、クラスの女子の頼みだったけれど、もうそんなの関係ない。@
+;　最初のきっかけこそ、クラスの女子の頼みだったけれど、もうそんなの関係ない。@
+` The initial trigger had been that girl asking in class, but not anymore.`@
 br
-　どいつもこいつも、ムカつくヤツはみんな秋一みたいにしてやる！\
-
+;　どいつもこいつも、ムカつくヤツはみんな秋一みたいにしてやる！\
+` Whoever it was, they'd make them all look like Shuuichi!`\
 ;bg black,22
 bg e008,22
 
-　俺たちは自由だ。@学校では自由なんだ。@
-　誰にも縛られない、誰にも咎められない！@
+;　俺たちは自由だ。@学校では自由なんだ。@
+` We're free.`@`In school we're free.`@
+;　誰にも縛られない、誰にも咎められない！@
+` We can't be bound by anyone. We can't be blamed by anyone!`@
 br
-　ははは、あっはははははは、はーっはっはっはっはっは！！\
-
+;　ははは、あっはははははは、はーっはっはっはっはっは！！\
+` Hahahahaha......haaaaahahaaaaaa!!`\
 bg black,22
 ;mono 2
 ;bg Different_spiral_1a,22
@@ -3496,44 +3510,55 @@ bg black,22
 fede 1,2000
 E_B
 
-　ぺた、ぺた、ぺた、ぺた………。@
-　ぺた、ぺた、ぺた、ぺた、ぺた、ぺた………。@
+;　ぺた、ぺた、ぺた、ぺた………。@
+` Pit pat pit pat.....`@
+;　ぺた、ぺた、ぺた、ぺた、ぺた、ぺた………。@
+` Pit pat pit pat pit pat....`@
 br
-　……なのに、さっきから何か聞こえてくる。@……耳障りでいらいらする。@
-　何だろう。@何の音だよ。\
-
-　足音のようだが、近づいてくるわけでも、遠ざかるわけでもない。@
-　まるで同じところでずっと足踏みをしているように聞こえた。@
+;　……なのに、さっきから何か聞こえてくる。@……耳障りでいらいらする。@
+` But he heard that thing from earlier.`@`...It was irritating.`@
+;　何だろう。@何の音だよ。\
+` What's that?`@`What sound is that?`\
+;　足音のようだが、近づいてくるわけでも、遠ざかるわけでもない。@
+` It was like footsteps, but they were neither approaching nor growing more distant.`@
+;　まるで同じところでずっと足踏みをしているように聞こえた。@
+` It's like they're in the same place.`@
 br
-　音の正体を確かめようと、意識を目覚めさせた時、……すぐに違和感の数々を覚えた。\
-
+;　音の正体を確かめようと、意識を目覚めさせた時、……すぐに違和感の数々を覚えた。\
+` When he tried to ascertain the cause of the sound, he woke, uncomfortably.`\
 bg black,22
 mono 0
 bg hoken_04,6
 
 me2v 16,50
 
-「な、何だよこれ……。@身体が、動かな、い……。」@
+;「な、何だよこれ……。@身体が、動かな、い……。」@
+`"Wh---What?`@`I can't move my body at all...."`@
 br
-　瞼だけは開くのに、……体はまるで金縛りのように、ぴくりとも動かない。\
-
-　そしてそれだけじゃない。@……天井が違う。\
-
-　どこ、ここ。@……自分の部屋の、……ベッドの上じゃ、……ない……。@
-　それを言えば、布団が硬過ぎる。@自分が毎日、就寝しているベッドじゃない。@
+;　瞼だけは開くのに、……体はまるで金縛りのように、ぴくりとも動かない。\
+` Even though he could open his eyes, it was as though his whole body was paralyzed, and couldn't move an inch.`\
+;　そしてそれだけじゃない。@……天井が違う。\
+` Not only that,`@`...the ceiling was different.`\
+;　どこ、ここ。@……自分の部屋の、……ベッドの上じゃ、……ない……。@
+` Where is here?`@` I'm not on my own bed in my room?`@
+;　それを言えば、布団が硬過ぎる。@自分が毎日、就寝しているベッドじゃない。@
+` Now that he thought about it, the futon was too hard.`@`It wasn't the bed he used daily, for sure.`@
 br
-　こ、ここはどこ……。@一体……。\
-
+;　こ、ここはどこ……。@一体……。\
+` Where...where on earth is this?`\
 ld c,HIG_D9,2
 
 E_M2
 
-「…………目が覚めた……？」@
+;「…………目が覚めた……？」@
+`"...Have you woken up?"`@
 br
-　声とともに、誰かが少年の視界に入って来た。@
-　ベッドに横たわる少年を、見下ろすような形で覗き込む……。\
-
-　それは長い黒髪の美しい、可憐な少女に見えた。@
+;　声とともに、誰かが少年の視界に入って来た。@
+` With that voice, someone came into view of the boy.`@
+;　ベッドに横たわる少年を、見下ろすような形で覗き込む……。\
+` And looked down at the boy lying on the bed...`\
+;　それは長い黒髪の美しい、可憐な少女に見えた。@
+` It was a pretty girl, with long, black hair.`@
 br
 　ぞっとするほどの白い肌と、それとは対照的な漆黒の髪。@赤い唇は蠱惑的に輝き、見惚れてしまうほどに美しかった。\
 
