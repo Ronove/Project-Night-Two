@@ -3749,44 +3749,47 @@ ld r,SMI_w5,22
 ld l,AZA_D4,22
 ;ld l,AZA_D1,80
 
-「草原では、ヤギにとってライオンは恐ろしい害悪でしょう。@しかし、ライオンにとって、ヤギは生きるための糧でしかなく、@それを狩ることは悪でも何でもないのです。」\
+;「草原では、ヤギにとってライオンは恐ろしい害悪でしょう。@しかし、ライオンにとって、ヤギは生きるための糧でしかなく、@それを狩ることは悪でも何でもないのです。」\
+`"Out on the grasslands, lions are a terrifying form of harm to the wild goats. `@`But to the lions, those goats are nothing more than food. `@`The fact that they hunt is not seen as evil or anything of the sort."`\
 ;＜アザミ
-
+; ^^^ Note To Editor: I can't figure out if Ryukishi is talking about Lions on the savanna eating gazelle, or Lions on the Indian subcontinent eating goats. He uses the word "goats" but most English speakers don't associate Lions with praying on goats. Feel free to leave it as goats or change it to another horned animal, it never comes up again so it's not that important. -Jorwil
 ld r,SMI_w6,80
 
-「その上、動物の王者と持て囃され賞賛を浴びるのはライオンだけ！@　ふっふふふふ！！@　何と素晴らしきいじめの世界なのじゃ！」@
+;「その上、動物の王者と持て囃され賞賛を浴びるのはライオンだけ！@　ふっふふふふ！！@　何と素晴らしきいじめの世界なのじゃ！」@
+`"Rather, the lion is actually praised and admired as the king of the animals! `@`Fufufufu!! `@`What a magnificent world of bullying they live in!"`@
 ;＜スミレ
 
 ld l,AZA_D2,80
 
-「あなたは、いじめられることを知るからこそ、いじめっことして今の境地に至ったのです。@あなたは、どこまでもどこまでも上り詰める資格と権利があります。」\
-
+;「あなたは、いじめられることを知るからこそ、いじめっことして今の境地に至ったのです。@あなたは、どこまでもどこまでも上り詰める資格と権利があります。」\
+`"You know what it was like to be bullied before reaching your current state of mind as a bully. `@`Because of that, you have the capability and privilege to climb to any heights."`\
 ;bg black,23
 ;bg aka3,0
 mld c,YOS_D8a,80
 
-「どこまでも上り詰める、……権利………。」\
-
+;「どこまでも上り詰める、……権利………。」\
+`"The privilege... to climb to any height...."`\
 mcl c,0
 bg black,22
 
 ;ld r,AZA_D1,22
 ;ld r,AZA_D1,80
 
-「くす。@夜を知らねば、朝日の価値を理解できぬに同じこと。@いじめの闇を知るあなただけが、その権利を持つのです。」\
+;「くす。@夜を知らねば、朝日の価値を理解できぬに同じこと。@いじめの闇を知るあなただけが、その権利を持つのです。」\
+`"*Giggle* `@`It's the same as needing to know the darkness of night in order to appreciate the rising sun. `@`You have that privilege because you've seen the darkness of bullying."`\
 ;mld c,YOS_D1,80
 
-「………そ、……そうさ……。@……俺はずっとずっと……、憐れなくらいのいじめられっこだった……。@その底辺を、這って這って這いずり回ってきたからこそ……、@このいじめっこの世界が理解できるんだ……。」\
-
+;「………そ、……そうさ……。@……俺はずっとずっと……、憐れなくらいのいじめられっこだった……。@その底辺を、這って這って這いずり回ってきたからこそ……、@このいじめっこの世界が理解できるんだ……。」\
+`".....That... that's right...`@`... I was... miserably bullied for a long, long time.... `@`Because I crept around that bottom level of the pyramid for so long... `@`I'm able to better understand this world of bullies..."`\
 ;ld l,SMI_D1,23
 ;ld l,SMI_D1,80
 
-「うむ。@お前をいじめていたヤツらは、ただ面白おかしかっただけ。@その世界の素晴らしさをまったく理解できてはいなかったのじゃ。」@
-
+;「うむ。@お前をいじめていたヤツらは、ただ面白おかしかっただけ。@その世界の素晴らしさをまったく理解できてはいなかったのじゃ。」@
+`"Mhmm. `@`Those who bullied you did so only for fun and laughs. `@`They didn't grasp the true magnificence of the world they lived in"`@
 ;ld r,AZA_D1,80
 
-「蔑まれた毛虫も、やがては美しい蝶となる……。@どこまでも羽ばたくと良いでしょう。@あなたの活躍を、ずっと見守っていますよ………。」\
-
+;「蔑まれた毛虫も、やがては美しい蝶となる……。@どこまでも羽ばたくと良いでしょう。@あなたの活躍を、ずっと見守っていますよ………。」\
+`"Like a scorned caterpillar finally turning into a beautiful butterfly... `@`you can fly yourself anywhere. `@`I will be watching what you will accomplish....."`\
 se1 84
 
 fede 1,3000
@@ -3794,20 +3797,24 @@ E_B
 
 mld c,YOS_D8,2
 
-　俺は、……王様なんだ。@
+;　俺は、……王様なんだ。@
+` I... am a king.`@
 br
-　このクラスの全てのヤツらから、魂を税金のように吸い上げて君臨する、王様なんだ。\
-
-　そして王様は、こいつらを踏み台に、さらに上の世界を目指す。@
+;　このクラスの全てのヤツらから、魂を税金のように吸い上げて君臨する、王様なんだ。\
+` A king that rules over the class and taking tax on their souls.`\
+;　そして王様は、こいつらを踏み台に、さらに上の世界を目指す。@
+` And as king I will use them as stepping stone to reach a higher world.`@
 br
-　そうさ。@俺の踏み台になってくれたこいつらの分まで、@俺は上の世界へ行かなくちゃならないんだ。@
-　俺は王様。@……王様、王様……。\
-
+;　そうさ。@俺の踏み台になってくれたこいつらの分まで、@俺は上の世界へ行かなくちゃならないんだ。@
+` That's right. `@`I have to to take myself to a higher world, `@`not just for my sake, but for the sake of my stepping stones as well.`@
+;　俺は王様。@……王様、王様……。\
+` I am the king.`@`... The king, the king....`\
 mld c,YOS_D8a,80
 
-「はは、………ふっはははははっはっはっはっは！！」@
-「やめてよ、吉川くんッ！！@　もう止めてあげて……！！」\
-
+;「はは、………ふっはははははっはっはっはっは！！」@
+`"Haha..... FuhahahahahaHAHAHAHA!!"`@
+;「やめてよ、吉川くんッ！！@　もう止めてあげて……！！」\
+`"Stop, Yoshikawa-kun!! `@`Please stop already...!!"`\
 mcl c,0
 bg black,22
 
@@ -3824,25 +3831,29 @@ bgm1 6
 
 ;ld c,YUK_i2a,22
 
-　人が気持ちよく、いじめてたって言うのに。@
-　またあの、クソうるさい榊由香里が俺を見つけて、絡んできた。@
+;　人が気持ちよく、いじめてたって言うのに。@
+` As I was enjoying myself bullying a classmate...`@
+;　またあの、クソうるさい榊由香里が俺を見つけて、絡んできた。@
+` That annoying-ass Yukari Sakaki found me and involved herself in my business again.`@
 br
-　……どいつもこいつも、俺を恐れて言い成りなのに、こいつだけは未だに俺を恐れていない。\
-
+;　……どいつもこいつも、俺を恐れて言い成りなのに、こいつだけは未だに俺を恐れていない。\
+` ...Everyone else was too scared to stand up to me, but she was the only one left unafraid.`\
 ld c,YUK_i3a,23
 
-「とにかく、降りなさいよ…！！@　可哀想でしょ…！」@
+;「とにかく、降りなさいよ…！！@　可哀想でしょ…！」@
+`"At least get down from there...!! `@`It's pathetic...!"`@
 br
-　正明は、クラスの少年を四つん這いで歩かせ、その上に跨って下校していたのだ。\
-
+;　正明は、クラスの少年を四つん這いで歩かせ、その上に跨って下校していたのだ。\
+` Masaaki was forcing one of the boys from their class to crawl on all fours on the way to his house while he rode on the boy's back.`\
 bg black,23
 bg roji_02,0
 ld r,YOS_D7,23
 ld r,YOS_D4,80
 
-「……こいつは俺とタクシーごっこをしてるだけなんだよ。@こいつは俺の舎弟だから、俺のタクシーが出来て嬉しいんだよ。@……な？」@
-「……………ん…………。」\
-
+;「……こいつは俺とタクシーごっこをしてるだけなんだよ。@こいつは俺の舎弟だから、俺のタクシーが出来て嬉しいんだよ。@……な？」@
+`"...He's just playing taxi with me. `@`He's my underling, so he's more than happy to help me out by being my taxi.`@`... right?"`@
+;「……………ん…………。」\
+`".......y........"`\
 ld r,YOS_D12,80
 
 se1 12
@@ -3852,130 +3863,144 @@ se2 12
 quakey 1,100
 
 
-「嬉しいってさっき言ったじゃねぇかよ…！！@　おらッ、言えよ、グズ！！」@
-「うッ、嬉しいっす…！@　嬉しいっす！！@/
+;「嬉しいってさっき言ったじゃねぇかよ…！！@　おらッ、言えよ、グズ！！」@
+`"Didn't you tell me you were happy to...?! `@`Say it out loud, you dimwit!!"`@
+;「うッ、嬉しいっす…！@　嬉しいっす！！@/
+`"I-I'm happy to...! `@`So happy!!`@/
 se2 12
 quakey 1,100
-　ぐッ、ぎッ…！！」\
+;　ぐッ、ぎッ…！！」\
+` Guh, gahh!!"`\
 
-
-　正明はその言葉を聞けると、ようやく少年のお尻を蹴り上げるのを止めた。@
+;　正明はその言葉を聞けると、ようやく少年のお尻を蹴り上げるのを止めた。@
+` Upon hearing those words, Masaaki finally stopped digging his foot into the boy's butt.`@
 br
-　断りなく立ち上がると、正明にまた乱暴されると怯える少年は、@それでもなお、四つん這いを止めることが出来ない……。\
-
+;　断りなく立ち上がると、正明にまた乱暴されると怯える少年は、@それでもなお、四つん這いを止めることが出来ない……。\
+` Masaaki suddenly stood up, `@`but the boy, who was afraid of getting hurt by Masaaki again, stayed down on his hands and knees...`\
 
 ld l,YUK_i1a,24
 ld l,YUK_i3a,80
 
 
-「……あなただって、かつてはいじめられていたじゃないっ。@そのあなたが、なぜいじめられっこの気持ちをわからないの？！」\
-
+;「……あなただって、かつてはいじめられていたじゃないっ。@そのあなたが、なぜいじめられっこの気持ちをわからないの？！」\
+`"...You were bullied once too, you know? `@`How can you have no sympathy for those you bully now?!"`\
 ld r,YOS_D10,80
 
-「前にも言っただろ。@いじめられていた俺だからこそ、人をいじめる資格と権利があるんだよ。」@
-
+;「前にも言っただろ。@いじめられていた俺だからこそ、人をいじめる資格と権利があるんだよ。」@
+`"You've asked that same thing before. `@`It's precisely because I was bullied that I have the capabilities and right to bully as I do now."`@
 ld l,YUK_i2,80
 
-「そんな権利、誰が与えたって言うのよ！」@
-
+;「そんな権利、誰が与えたって言うのよ！」@
+`"Who gave you that right?!"`@
 ld r,YOS_D8,80
 
-「お前には言ってもわからねぇよ。@くっくっく……。@もう誰も、俺には逆らえねぇ、止められねぇ。」\
-
+;「お前には言ってもわからねぇよ。@くっくっく……。@もう誰も、俺には逆らえねぇ、止められねぇ。」\
+`"Even if I told you it wouldn't matter. `@`Kukuku... `@`No one can oppose me now, no one can stop me."`\
 ld l,YUK_i1a,80
 
-「……せ、先生やご両親に言いつけるよ。」@
-
+;「……せ、先生やご両親に言いつけるよ。」@
+`"...I-I'll go tell your teachers and parents on you."`@
 ld r,YOS_D7,80
 
-「言ってみりゃいい。@先生も親も、ぐんぐん成績の上がる優等生の俺を、@目に入れても痛くないくらいに可愛がってくれてるぜ。@お前の言うことなんて、相手にするかよ。」\
-
+;「言ってみりゃいい。@先生も親も、ぐんぐん成績の上がる優等生の俺を、@目に入れても痛くないくらいに可愛がってくれてるぜ。@お前の言うことなんて、相手にするかよ。」\
+`"Go ahead and try. `@`With my grades as they are now, I'm an honors student. `@`Both my parents and teachers are more proud of me than anything. `@`Do you really think they'll take your tattling seriously."`\
 ld l,YUK_i2,80
 
-「それでも私は……、……絶対にいじめを許さないっ。」\
-
+;「それでも私は……、……絶対にいじめを許さないっ。」\
+`"Stil..... I refuse to let you get away with bullying."`\
 ld r,YOS_D8a,80
 
-「しつこい女だな。@何でそんなに、いじめいじめってうるせぇんだよ。」\
-
+;「しつこい女だな。@何でそんなに、いじめいじめってうるせぇんだよ。」\
+`"You're such a persistent girl. `@`Why do you care that much about bullying?"`\
 ld l,YUK_i3a,80
 
-「……私も、………かつてはいじめられていたからよっ。@だから私は、いじめの酷さや悲しさを知ってるのっ。」@
-
+;「……私も、………かつてはいじめられていたからよっ。@だから私は、いじめの酷さや悲しさを知ってるのっ。」@
+`"...I... was also a bullied child once. `@`So I know the horrors and sorrow that bullying brings."`@
 ld r,YOS_D8,80
 
-「……………………………。」\
-
+;「……………………………。」\
+`".............."`\
 bg black,22
 
-　なるほど………。@正明は納得する。@
+;　なるほど………。@正明は納得する。@
+` I see.....`@` I understand now.`@
 br
-　榊由香里の、いじめに対するしつこいくらいのこだわりは、@自分がいじめられっこだったことに由来するのだ。\
-
+;　榊由香里の、いじめに対するしつこいくらいのこだわりは、@自分がいじめられっこだったことに由来するのだ。\
+` The reason for Yukari Sakaki's obsession with bullying, `@`is because she was once bullied herself.`\
 bg roji_03,22
 
-「………前のクラスでかよ？」@
-「うん。@………かつての吉川くんと、同じように。」@
-「なるほど。@……それでラッキーにも、あの事故でいじめっこが全員死んで、@俺たちのクラスに来たってわけだ。」\
-
+;「………前のクラスでかよ？」@
+`".....Were your classmates the one who did it?"`@
+;「うん。@………かつての吉川くんと、同じように。」@
+`"Yes.`@`.... The same way your classmates once did to you."`@
+;「なるほど。@……それでラッキーにも、あの事故でいじめっこが全員死んで、@俺たちのクラスに来たってわけだ。」\
+`"I see.`@`... Then you're lucky. `@`Since you're whole class died in an accident, and you got to come to our class."`\
 bg black,24
 bg roji_01,0
 ld r,YUK_D1,24
 ld r,YUK_i2,80
 
-「ラッキーなんて言わないで。」@
-
+;「ラッキーなんて言わないで。」@
+`"Don't call it being lucky."`@
 ld l,YOS_D8,23
 ;ld l,YOS_D1,80
 
-「ラッキーだったさ。@そうでなきゃ、お前は今でもそいつらにいじめられてたんだろ。」@
-
+;「ラッキーだったさ。@そうでなきゃ、お前は今でもそいつらにいじめられてたんだろ。」@
+`"But it was lucky. `@`If that didn't happen, you would still be facing their bullying right now."`@
 ld r,YUK_i4,80
 
-「………………………。」\
-
+;「………………………。」\
+`"............"`\
 ld l,YOS_D7,80
 
-「お前はそのラッキーに救われた。@……俺にはそのラッキーがなかった。@……いや、あったか。@………俺は、……魔法のアザミを見つけることが出来たんだから。」\
+;「お前はそのラッキーに救われた。@……俺にはそのラッキーがなかった。@……いや、あったか。@………俺は、……魔法のアザミを見つけることが出来たんだから。」\
+`"You were lucky enough to be saved.`@`... I didn't have that luck.`@`... No, maybe I did.`@`..... I... found a magical thistle."`\
 
-
-　魔法のアザミの話は由香里も、一応は知っている。@
-　彼の豹変を囁く時、誰もが口にする。@
+;　魔法のアザミの話は由香里も、一応は知っている。@
+` Yukari was mostly familiar with the story of the magical thistles.`@
+;　彼の豹変を囁く時、誰もが口にする。@
+` Everyone was talking about it after his personality suddenly changed after all.`@
 br
-　しかし、当の本人の口からそれが語られるとは思いもしなかった。\
-
+;　しかし、当の本人の口からそれが語られるとは思いもしなかった。\
+` But she never though that she'd hear Masaaki himself say he did it.`\
 ld r,YUK_i1a,80
 
-「魔法のアザミって、……学校の八不思議の話だよね……？」@
-
+;「魔法のアザミって、……学校の八不思議の話だよね……？」@
+`"The magical thistles... are one of the eight mysteries of the school, right....?"`@
 ld l,YOS_D8a,80
 
-「あぁ。@俺も昔は、どうでもいい与太話だと思ってたぜ……。@……だがな、本当にあるんだよ。@それはいじめられっこにしか見つけることが出来ないんだ。」\
-
+;「あぁ。@俺も昔は、どうでもいい与太話だと思ってたぜ……。@……だがな、本当にあるんだよ。@それはいじめられっこにしか見つけることが出来ないんだ。」\
+`"Yeah. `@`I used to think it was just a baseless rumor...`@`... But they really exist. `@`Only those who are bullied can find them."`\
 ld r,YUK_D3a,80
 
-「……それを食べればいじめっこになれるって言うけど……。@……まさか、本当に……？」@
+;「……それを食べればいじめっこになれるって言うけど……。@……まさか、本当に……？」@
+`"...They say that if you eat one you'll be able to become a bully...`@`... Did you really....?"`@
 br
-　アザミはアザミだ。@ただの雑草だ。@
-　そんなものを食べても、いじめられっこをいじめっこに変えるような魔力が、あるわけもない。@
+;　アザミはアザミだ。@ただの雑草だ。@
+` A thistle is just a thistle. `@`They're nothing more than weeds.`@
+;　そんなものを食べても、いじめられっこをいじめっこに変えるような魔力が、あるわけもない。@
+` Even if a bullied kid eats one, they shouldn't have any magic power to change them into bullies.`@
 br
 ;ld r,YUK_D1,80
 
-　……しかし、由香里は何か引っ掛かるものを感じる。\
-
+;　……しかし、由香里は何か引っ掛かるものを感じる。\
+` ...But Yukari felt like there was a catch.`\
 
 ld l,YOS_D8,80
 
-「俺は教えられたのさ。@いじめっこの世界ってのをな。@……いじめは楽しいぞ、最高だ。@いじめこそは、魂を食らう狩りなんだ…！」\
-
+;「俺は教えられたのさ。@いじめっこの世界ってのをな。@……いじめは楽しいぞ、最高だ。@いじめこそは、魂を食らう狩りなんだ…！」\
+`"I was taught. `@`Taught about the world of bullies.`@`... About how great it was to bully. `@`About how bullying was like hunting and devouring souls...!"`\
 ld r,YUK_i1a,80
 
-「…………吉川くんは、……教えられたんだね。@……いじめの、………愉悦を……。」@
+;「…………吉川くんは、……教えられたんだね。@……いじめの、………愉悦を……。」@
+`".....Yoshikawa-kun... was taught.`@`... about the joy.... of bullying..."`@
 br
-　由香里は確信する。@
-　いじめの楽しさを、囁く者、唆す者。\
-
-　由香里は辺りを見渡す。@……もちろん、自分たち以外に誰もいるはずはない。@
+;　由香里は確信する。@
+` Yukari was positive.`@
+;　いじめの楽しさを、囁く者、唆す者。\
+` She knew who was whispering to him, and tempting him with the joys of bullying.`\
+;　由香里は辺りを見渡す。@……もちろん、自分たち以外に誰もいるはずはない。@
+` Yukari surveyed they area around her.`@`... Naturally, there shouldn't be anyone else here but these three children.`@
 br
 　だけれども、確実に居ることを確信し、言った。\
 
