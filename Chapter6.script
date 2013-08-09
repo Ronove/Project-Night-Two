@@ -4002,13 +4002,13 @@ br
 ;　由香里は辺りを見渡す。@……もちろん、自分たち以外に誰もいるはずはない。@
 ` Yukari surveyed they area around her.`@`... Naturally, there shouldn't be anyone else here but these three children.`@
 br
-　だけれども、確実に居ることを確信し、言った。\
-
+;　だけれども、確実に居ることを確信し、言った。\
+` However, to confirm her suspicion, she spoke.`\
 cl r,0
 ld c,YUK_i3a,24
 
-「……スミレちゃんでしょう……。@出てきて……！！」\
-
+;「……スミレちゃんでしょう……。@出てきて……！！」\
+`"...Sumire-chan, you're here aren't you....? `@`Show yourself...!!"`\
 bg black,22
 
 fede 0,1000
@@ -4026,15 +4026,17 @@ ld c,SMI_w2,80
 
 bgm1 12
 
-「ふっふふふふ……。@……ひっひひひはっははははははははは！！@　久し振りじゃのう、由香里…！@　私の名を覚えていてくれたとは嬉しいことじゃ！！」\
+;「ふっふふふふ……。@……ひっひひひはっははははははははは！！@　久し振りじゃのう、由香里…！@　私の名を覚えていてくれたとは嬉しいことじゃ！！」\
+`"Fufufufu....`@`.. Hihihihahahahahahaha!! `@`It's been a while, Yukari...! `@`I'm glad you still remember my name!!"`\
 ;＜スミレ
 
-「あなたね。@吉川くんに、いじめの愉悦を教えたのは。」\
-
+;「あなたね。@吉川くんに、いじめの愉悦を教えたのは。」\
+`"Was it you who told Yoshikawa-kun about the joys of bullying? `@`It was wasn't it."`\
 ld r,AZA_D2,22
 ld r,AZA_D4,80
 
-「全ては因果応報。@日が昇れば沈むように、彼がいじめられてきたならば、@いじめることを知るのもまた、摂理。」\
+;「全ては因果応報。@日が昇れば沈むように、彼がいじめられてきたならば、@いじめることを知るのもまた、摂理。」\
+`"It is all karma. `@`Just like when the sun rises it must set, `@`because he was bullied, he deserve to know what it's like to bully. It's divine intervention."`\
 ;＜アザミ
 
 bg black,23
@@ -4042,75 +4044,79 @@ bg roji_02,0
 ld l,YUK_i1,23
 ld l,YUK_i1a,80
 
-「……スミレちゃんと……、……誰？」\
-
+;「……スミレちゃんと……、……誰？」\
+`"...Sumire-chan and..... Who are you?"`\
 
 ld r,SMI_w2,22
 ld r,SMI_w5,80
 
-「ふっふふふふ！@　私の姉者なのじゃ！！@　学校妖怪序列第４位、復讐のアザミとは姉者のことよ…！！」@
-
+;「ふっふふふふ！@　私の姉者なのじゃ！！@　学校妖怪序列第４位、復讐のアザミとは姉者のことよ…！！」@
+`"Fufufufufu! `@`This is my elder sister!! `@`4th Ranked among the School Youkai, Azami the Vengeful...!!"`@
 ld l,YUK_i2a,80
 
-「……なるほど。@吉川くんに魔法のアザミを与えて豹変させたのは、@……やっぱり妖怪の仕業だったのね。」\
-
+;「……なるほど。@吉川くんに魔法のアザミを与えて豹変させたのは、@……やっぱり妖怪の仕業だったのね。」\
+`"...I see. `@`You are the one who gave that Yoshikawa-kun the magical thistle that changed him.`@`... I had a feeling this was the work of a youkai."`\
 ld r,SMI_w6,80
 
-「お前も覚えている通り。@我らはいじめの愉悦を教えるだけ。@それに酔い、染まるのは人間の勝手なのじゃ！@　我らは別に、正明を操っているわけではないのじゃ！」\
+;「お前も覚えている通り。@我らはいじめの愉悦を教えるだけ。@それに酔い、染まるのは人間の勝手なのじゃ！@　我らは別に、正明を操っているわけではないのじゃ！」\
+`"You must remember. `@`All we do is teach humans the joy of bullying. `@`Whether they choose to become tainted by it or addicted to it is up to them! `@`We weren't manipulating Masaaki, he did it of his own accord!"`\
 
-
-　……それは由香里も覚えてる。@
+;　……それは由香里も覚えてる。@
+` ...Yukari remembered that.`@
 br
-　スミレはいじめの愉悦を教えるだけ。\
-
+;　スミレはいじめの愉悦を教えるだけ。\
+` Sumire only t only teaches the joy of bullying.`\
 ;ld l,YUK_D1,80
 
-　しかし、教えられたらもう、いじめっこに成り果ててしまう。@
+;　しかし、教えられたらもう、いじめっこに成り果ててしまう。@
+` But once she's done teaching them, they've already become a bully.`@
 br
-　人間らしい心を忘れ、知らず知らずの内に妖怪の手先となっていじめを繰り返すだけの存在に成り果ててしまう。\
-
+;　人間らしい心を忘れ、知らず知らずの内に妖怪の手先となっていじめを繰り返すだけの存在に成り果ててしまう。\
+` They lose the humanity in their heart, and unwittingly become a pawn of the youkai, able only to continue their streak of bullying.`\
 cl r,0
 ld c,SMI_w2,24
 
-「お前が私に、いじめを許さないなどと啖呵を切ったこと、よぉく覚えているのじゃ！@　人間の分際でよくも私にそのようなことを！@　身の程を思い知らせてやるために、@こうして姉者の力を借りて、再び現れたわけじゃ！」\
-
+;「お前が私に、いじめを許さないなどと啖呵を切ったこと、よぉく覚えているのじゃ！@　人間の分際でよくも私にそのようなことを！@　身の程を思い知らせてやるために、@こうして姉者の力を借りて、再び現れたわけじゃ！」\
+`"I haven't forgotten how you preached to me about not allowing bullying! `@`To think that a lowly human such as yourself would have such nerve! `@`I will make you know your place. `@`That is why I have borrowed my sister's help and appeared before you once again!"`\
 ;ld l,YUK_D1,80
 
-　本来、スミレが恨むべき相手は、彼女の狩りを横から全て掻っ攫った彼岸花のはずだ。@
+;　本来、スミレが恨むべき相手は、彼女の狩りを横から全て掻っ攫った彼岸花のはずだ。@
+` Originally, Sumire wanted to get revenge on Higanbana, the one who stole her prey out from under her nose.`@
 br
-　しかし、彼岸花は恐ろしい妖怪なので、到底、仕返しできない。@
-　それで、逆恨み的に、由香里を仕返しの相手に選んだわけだ……。\
-
+;　しかし、彼岸花は恐ろしい妖怪なので、到底、仕返しできない。@
+` But Higanbana is a terrifying youkai. There's no way Sumire could get revenge on her.`@
+;　それで、逆恨み的に、由香里を仕返しの相手に選んだわけだ……。\
+` And so, she shifted her resentment, and chose to take her revenge out on Yukari instead...`\
 ld c,SMI_w6,80
 
-「お前、いじめは許さないのであろう？@　正明のいじめ、どう止めてみるというのか！」\
-
+;「お前、いじめは許さないのであろう？@　正明のいじめ、どう止めてみるというのか！」\
+`"You said you won't allow bullying, right? `@`Well then, how do you intend to stop Masaaki from bullying?!"`\
 ld r,AZA_D1,22
 ld r,AZA_D3,80
 
-「くす。@……吉川正明は、いじめ抜かれ、深く傷付いたからこそ、@誰にも負けない、素晴らしいいじめっことなりました。@故に、あなたが如何に咎めようとも、耳を貸さないのです。」\
-
+;「くす。@……吉川正明は、いじめ抜かれ、深く傷付いたからこそ、@誰にも負けない、素晴らしいいじめっことなりました。@故に、あなたが如何に咎めようとも、耳を貸さないのです。」\
+`"*Giggle* `@`...Masaaki Yoshikawa was hurt very deeply by bullying. `@`So he became a great bully, that won't lose to anyone. `@`Furthermore, how do you intend to scold him when he won't even listen to you."`\
 ld c,SMI_w5,80
 
-「ふっふっふ！@　自分をいつまでも被害者だと思っているからのぅ！@　自分のことを被害者だと思い込む加害者ほど、性質の悪いものはこの世にないのじゃ！」\
-
+;「ふっふっふ！@　自分をいつまでも被害者だと思っているからのぅ！@　自分のことを被害者だと思い込む加害者ほど、性質の悪いものはこの世にないのじゃ！」\
+`"Fufufu! `@`He will always think he's the victim! `@`There is no one more bad natured in this world than a perpetrator who refuses to see himself as anything but a victim!"`\
 cl l,0
 mld l,YUK_i2,80
 
-「……確かに吉川くんはかつて、気の毒ないじめられっこだった。@……だからこそ、私も彼が変わった最初、@……少しくらいはやり返しても、それは仕方ないことと思ってた。」\
-
+;「……確かに吉川くんはかつて、気の毒ないじめられっこだった。@……だからこそ、私も彼が変わった最初、@……少しくらいはやり返しても、それは仕方ないことと思ってた。」\
+`"...It's true that Yoshikawa-kun was once a pitiable bullied child.`@`... And it's true that in the beginning.... `@`I too thought he was entitled to a little payback."`\
 ld r,AZA_D5,80
 
-「それこそが、因果応報なのです。」\
-
+;「それこそが、因果応報なのです。」\
+`"It was karma, retribution for evil deeds."`\
 mld l,YUK_i3,80
 
-「違うよ。@因果応報という言葉を振りかざして繰り広げる、これは第二のいじめでしかないっ。@……あなたたち妖怪が甘言で、……吉川くんを最悪のいじめっこに育て上げてしまったっ。」\
-
+;「違うよ。@因果応報という言葉を振りかざして繰り広げる、これは第二のいじめでしかないっ。@……あなたたち妖怪が甘言で、……吉川くんを最悪のいじめっこに育て上げてしまったっ。」\
+`"Wrong. `@`You throw words like 'karma' and 'retribution' around, when it's nothing more than another bullying.`@`... You youkai used your honeyed words... to make Yoshikawa-kun into the worst imaginable bully."`\
 ld c,SMI_w2,80
 
-「くっくっくっく！！@　その通りなのじゃ！@　いじめは許さぬと大見得を切ったお前が、@正明をどう止められるか、実に見物なのじゃ！！」\
-
+;「くっくっくっく！！@　その通りなのじゃ！@　いじめは許さぬと大見得を切ったお前が、@正明をどう止められるか、実に見物なのじゃ！！」\
+`"Kukuku!! `@`You're right! `@`You spoke so proudly before about stopping bullying before. `@`So I just wanted to see if you could stop Masaaki!!"`\
 mcl l,0
 bg black,22
 
@@ -4122,97 +4128,102 @@ ld l,YOS_D3a,22
 
 me1v 16,30
 
-　正明には、由香里が誰と何をやり取りしているのか、さっぱりわからないようだった。@
+;　正明には、由香里が誰と何をやり取りしているのか、さっぱりわからないようだった。@
+` Masaaki confusedly watched as Yukari appeared to be arguing with someone.`@
 br
-　だから不愉快に、ドンっと由香里の肩を小突く。\
-
+;　だから不愉快に、ドンっと由香里の肩を小突く。\
+` He decided to push Yukari on the shoulder.`\
 se1 10
 quakex 2,200
 ld l,YOS_D10a,80
 
-「………誰と喋ってんだよ。@シカトすんじゃねぇよ。」@
-
+;「………誰と喋ってんだよ。@シカトすんじゃねぇよ。」@
+`"....Who are you talking to? `@`Don't ignore me."`@
 ld r,YUK_i4,24
 
-「…………………………。」\
-
+;「…………………………。」\
+`"............."`\
 ld l,YOS_D9,80
 
-「榊。@……俺がいじめられてた時、お前だけはいつも庇ってくれたよな。@……よくもしつこく、……何度も何度も。」@
-
+;「榊。@……俺がいじめられてた時、お前だけはいつも庇ってくれたよな。@……よくもしつこく、……何度も何度も。」@
+`"Sakaki.`@`... When I was being bullied, you were the only one who ever stood up for me.`@`... You went out of your way... time and time again."`@
 ld r,YUK_i2,80
 
-「……私、……いじめは絶対許さないから。」\
-
+;「……私、……いじめは絶対許さないから。」\
+`"...Because... I will never allow bullying."`\
 ld l,YOS_D8a,80
 
-「それに、……俺なりに感謝してたつもりなんだぜ。@……だから今日まで、クラスの誰をいじめようとも、……お前だけはいじめなかった。」@
-
+;「それに、……俺なりに感謝してたつもりなんだぜ。@……だから今日まで、クラスの誰をいじめようとも、……お前だけはいじめなかった。」@
+`So... I wanted to thank you in my own way.`@`... That's why... you were the only one in our class that I didn't bully."`@
 ld r,YUK_D1,80
 
-「…………………………。」\
-
+;「…………………………。」\
+`"............"`\
 bg black,22
 mono 1
 bg kyou_01,22
 
 
-　それは、由香里も多少は理解していた。@
+;　それは、由香里も多少は理解していた。@
+` Yukari more or less knew that as well.`@
 br
-　彼は人変わりしてから、クラスの誰でも彼でも、機嫌次第で目に付いた子に、@好き放題ちょっかいを出し、いじめてきた。\
+;　彼は人変わりしてから、クラスの誰でも彼でも、機嫌次第で目に付いた子に、@好き放題ちょっかいを出し、いじめてきた。\
+` Since he changed, `@`Masaaki would indiscriminately bully anyone and everyone in his class as he pleased.`\
 
-
-　……しかし、由香里にだけは、手を出さなかった。@
+;　……しかし、由香里にだけは、手を出さなかった。@
+` ...But Yukari was the only one who he never did anything to.`@
 br
-　由香里が割って入ってくると、正明は舌打ちをして立ち去り、決して絡むことはなかった。\
-
+;　由香里が割って入ってくると、正明は舌打ちをして立ち去り、決して絡むことはなかった。\
+` Whenever Yukari would show up and try to interfere, he would just click his tongue and walk away, never involving her.`\
 bg black,24
 mono 0
 bg roji_02,24
 ld r,YOS_D8a,24
 
-「お前はうぜぇしうるせぇ。@だが、お前だけは特別に見逃してやる。@……だからそれに感謝して、二度と俺に絡むんじゃねぇ。」\
-
+;「お前はうぜぇしうるせぇ。@だが、お前だけは特別に見逃してやる。@……だからそれに感謝して、二度と俺に絡むんじゃねぇ。」\
+`"Your annoying and meddlesome. `@`But I'll make sure to overlook all that.`@`... So as thanks, don't ever involve yourself with me again."`\
 ld l,YUK_i1,23
 ;ld l,YUK_D1,80
 
-「……嫌だよ。@君がいじめをする限り、……私は絶対に見逃さない。」\
-
+;「……嫌だよ。@君がいじめをする限り、……私は絶対に見逃さない。」\
+`"...No. `@`As long as you keep it up... I will never overlook your bullying."`\
 ld r,YOS_D10,80
 
-「じゃあ、明日からお前もいじめてやるよ。@お前だけ特別扱いしない。@……むしろ、これまで見逃されてた分、明日からしつこくいじめてやるよ。@二度と俺に口出し出来なくなるまでな。」\
-
+;「じゃあ、明日からお前もいじめてやるよ。@お前だけ特別扱いしない。@……むしろ、これまで見逃されてた分、明日からしつこくいじめてやるよ。@二度と俺に口出し出来なくなるまでな。」\
+`"Fine, then starting tomorrow I'll bully you as well. `@`I won't give you special treatment.`@`.... Or rather, I'll start bullying you enough to make up for all the times I've overlooked you. `@`So bad that you'll be able to interfere again."`\
 ld l,YUK_D1,80
 
-「………やってみたら？@　私だって、吉川くんに負けないくらい、いじめられてきたもん。@……だから絶対、挫けないよ。」\
-
+;「………やってみたら？@　私だって、吉川くんに負けないくらい、いじめられてきたもん。@……だから絶対、挫けないよ。」\
+`".....Go ahead and try. `@`I've already faced bullying worse than yours, Yoshikawa-kun.`@`... You won't break me."`\
 cl r,0
 ld c,YOS_D8a,24
 
 me2v 17,50
 
-「俺に負けないくらいだぁ……？@　面白ぇこと抜かすじゃねぇかよ……。@気に入ったぜ、榊！！@　明日からは覚悟しろよ、お前が泣くまで、いじめていじめて、いじめ抜いてやるぜ！@　……降参するなら早めにしろよ。@何しろ俺は、いじめが楽しくて楽しくて仕方がねぇんだからな。@ついつい手加減を忘れて、何をしちまうかわからねぇぞ…！！」\
+;「俺に負けないくらいだぁ……？@　面白ぇこと抜かすじゃねぇかよ……。@気に入ったぜ、榊！！@　明日からは覚悟しろよ、お前が泣くまで、いじめていじめて、いじめ抜いてやるぜ！@　……降参するなら早めにしろよ。@何しろ俺は、いじめが楽しくて楽しくて仕方がねぇんだからな。@ついつい手加減を忘れて、何をしちまうかわからねぇぞ…！！」\
+`"Worse than mine....? `@`Sounds interesting.... `@`You've piqued my interest, Sakaki!! `@`Prepare yourself, because starting tomorrow I'm going to bully you endlessly until you cry!`@`... If you want to surrender, do it now. `@`Otherwise, don't think I'll go easy on you. `@`I love bullying so much, I might just lose control of myself...!!"`\
 
-
-　正明は由香里の鼻を食い千切らんばかりに顔を近付けて、にやりと笑い、凄む。\
-
+;　正明は由香里の鼻を食い千切らんばかりに顔を近付けて、にやりと笑い、凄む。\
+` Masaaki threatened Yukari with a grin on his face. His face was close enough to hers to bite her nose.`\
 cl l,0
 mld l,YUK_i1,80
 
-「………そうしたいなら、そうしたらいい。@……吉川くんが私をいじめてる間は、……他の子たちは君にいじめられなくて済むだろうし。」\
-
+;「………そうしたいなら、そうしたらいい。@……吉川くんが私をいじめてる間は、……他の子たちは君にいじめられなくて済むだろうし。」\
+`"....If that's what you want to do, go ahead.`@`... If you're wasting your time bullying me... then that you won't be able to spend that time bullying the other kids."`\
 cl c,0
 ld r,YOS_D8a,24
 
-「…………………………。@……へっ。@……へっへへへへへへへへへ。@面白ぇや、榊由香里。@……明日からは覚悟しろよ。@……たっぷりたっぷり。@お前だけと、遊んでやるからな……。@……くっくくくくくくくくくく……。」\
-
+;「…………………………。@……へっ。@……へっへへへへへへへへへ。@面白ぇや、榊由香里。@……明日からは覚悟しろよ。@……たっぷりたっぷり。@お前だけと、遊んでやるからな……。@……くっくくくくくくくくくく……。」\
+`".............`@`... Heh.`@`... Heheheheheheh. `@`You're an interesting one, Yukari Sakaki.`@`... Prepare yourself.`@`... Starting tomorrow, `@`I'm only going to be playing with you...`@`... Kukukukukukuku..."`\
 cl r,22
 
-　正明は気色悪く笑いながら、由香里を残して立ち去る。@
-　いじめられていた子も、おずおずとその後を追って駆け出す。@
+;　正明は気色悪く笑いながら、由香里を残して立ち去る。@
+` With a sickening laugh, Masaaki left.`@
+;　いじめられていた子も、おずおずとその後を追って駆け出す。@
+` After which, the nervous bullied kid ran off.`@
 br
-　……残された由香里は、正明の背中をじっと見詰めていた。\
-
+;　……残された由香里は、正明の背中をじっと見詰めていた。\
+` ...Yukari was left alone, staring at Masaaki as he walked away.`\
 mcl l,0
 bg black,22
 
@@ -4225,42 +4236,43 @@ ld c,SMI_w5,80
 
 bgm1 7
 
-「自らいじめられることを望むとは！@　つくづく由香里は面白いヤツじゃ！」\
+;「自らいじめられることを望むとは！@　つくづく由香里は面白いヤツじゃ！」\
+`"Literally asking to be bullied! `@`That Yukari kid is so interesting!"`\
 ;＜スミレ
 
 bg black,24
 bg roji_02,0
 mld c,YUK_i4,24
 
-「……私は絶対。@……いじめなんか、許しませんから。」\
-
+;「……私は絶対。@……いじめなんか、許しませんから。」\
+`"...I will never.... `@`forgive anyone who bullies."`\
 ;bg black,23
 ;bg roji_03,0
 ld l,SMI_w6,22
 
-「明日よりお前は正明に、たっぷり目を掛けられることになるのじゃ。@どう抗う？@　また無視をするのか？@　それとも先生に言い付けるのか？@　ふっふふふ、どれも無駄なことよ！@　正明にたっぷりたっぷりいじめられて、己が無力を思い知るが良いのじゃ…！！」\
-
+;「明日よりお前は正明に、たっぷり目を掛けられることになるのじゃ。@どう抗う？@　また無視をするのか？@　それとも先生に言い付けるのか？@　ふっふふふ、どれも無駄なことよ！@　正明にたっぷりたっぷりいじめられて、己が無力を思い知るが良いのじゃ…！！」\
+`"Starting tomorrow, he's only going to have eyes for you. `@`How will you fight him? `@`Will you return to ignoring the bullying? `@`Or maybe you'll try telling the teacher? `@`Fufufu, neither of those will work! `@`Masaaki will completely bully you, until you realize your own worthlessness...!!"`\
 ld r,AZA_D5,22
 ld r,AZA_D3,80
 
-「もしあなたが彼のいじめに堪えかねたなら。@……その時はあなたを、魔法のアザミの下へ案内しましょう。」@
-
+;「もしあなたが彼のいじめに堪えかねたなら。@……その時はあなたを、魔法のアザミの下へ案内しましょう。」@
+`"If you find yourself unable to withstand his bullying... `@`then I will lead you to where the magical thistles grow."`@
 ld l,SMI_w3,80
 
-「おお、姉者、それは素晴らしき名案じゃ！@　いじめと抗うと申した由香里が、いじめっことなりいじめの愉悦に染まるとは…！！@　ふっふふふふ、それは実に面白き名案じゃ！」\
-
+;「おお、姉者、それは素晴らしき名案じゃ！@　いじめと抗うと申した由香里が、いじめっことなりいじめの愉悦に染まるとは…！！@　ふっふふふふ、それは実に面白き名案じゃ！」\
+`"Ohh, sister, what a spledid idea! `@`The once proud Yukari who went against bullying giving in to the joys of bullying herself...!! `@`Fufufufu, That really is an amusing idea!"`\
 mld c,YUK_i2,80
 
-「……私は、いじめっこになんか、絶対になりません。」\
-
+;「……私は、いじめっこになんか、絶対になりません。」\
+`"...I will never become a bully."`\
 ld l,SMI_w6,80
 
-「そうは行かぬぞ、そうは行かぬ…！@　必ずやお前にいじめの愉悦を教えてやろうぞ…！@　やがてそなたは、史上最悪のいじめっことなって、@私にいじめの蜜を垂らす、最高のいじめの花となって開花するのじゃ！！」\
-
+;「そうは行かぬぞ、そうは行かぬ…！@　必ずやお前にいじめの愉悦を教えてやろうぞ…！@　やがてそなたは、史上最悪のいじめっことなって、@私にいじめの蜜を垂らす、最高のいじめの花となって開花するのじゃ！！」\
+`"That won't do, that won't do at all...! `@`One day I will surely teach you the joys of bullying...! `@`I'll make you into the worst bully ever! `@`You will bloom into the greatest bullying flower in the world, and overflow with nectar for me!!"`\
 ld r,AZA_D4,80
 
-「いじめに屈したら、いつでも妾を呼ぶと良いでしょう。@……あなたに、魔法のアザミを授けてあげますよ。@……くすくすくす。」\
-
+;「いじめに屈したら、いつでも妾を呼ぶと良いでしょう。@……あなたに、魔法のアザミを授けてあげますよ。@……くすくすくす。」\
+`"When you can't handle the bullying any longer, feel free to call me at any time.`@`... I will gladly grant you a magical thistle.`@`... Heeheehee."`\
 se1 84
 
 cl a,42
@@ -4268,14 +4280,16 @@ cl a,42
 mcl c,0
 bg black,2
 
-　………次の日より、榊由香里は、執拗ないじめを受けることとなるだろう。@
+;　………次の日より、榊由香里は、執拗ないじめを受けることとなるだろう。@
+` ....Starting tomorrow, Yukari Sakaki will encounter relentless bullying.`@
 br
-　正明も、とことんいじめ抜いて屈服させてやろうと、心の中の黒い炎を存分に燃え上がらせていた。\
-
-　……しかし、翌日。@
+;　正明も、とことんいじめ抜いて屈服させてやろうと、心の中の黒い炎を存分に燃え上がらせていた。\
+` And within Masaaki's heart there burned a black flame that told him to tenaciously bully her until he gives in.`\
+;　……しかし、翌日。@
+` ...But, the next day.`@
 br
-　待ち構えていた事態は、由香里にとっても正明にとっても、衝撃的なことだった……。\
-
+;　待ち構えていた事態は、由香里にとっても正明にとっても、衝撃的なことだった……。\
+` With both parties on the lookout for each other, the day turned out to be gut-wrenching for both Yukari and Masaaki...`\
 fede 0,2000
 E_A
 
@@ -4289,7 +4303,7 @@ bg kyou_01,22
 
 me1v 24,50
 
-　朝。@ホームルーム前の教室は賑やかだった。\
+;　朝。@ホームルーム前の教室は賑やかだった。\
 
 
 　由香里はまだ来ない。@
