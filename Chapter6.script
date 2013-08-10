@@ -4304,141 +4304,167 @@ bg kyou_01,22
 me1v 24,50
 
 ;　朝。@ホームルーム前の教室は賑やかだった。\
+` Morning. `@`The classroom before homeroom period was lively.`\
 
-
-　由香里はまだ来ない。@
+;　由香里はまだ来ない。@
+` Yukari was not there yet.`@
 br
-　家の家事もこなす由香里は、朝食の後片付けなどもあるので、登校は少し遅いのだ。\
+;　家の家事もこなす由香里は、朝食の後片付けなどもあるので、登校は少し遅いのだ。\
+` Yukari is in charge of cleaning up after breakfast, so she's always a little late in getting to school.`\
 
-
-　正明は、今日からどういじめてやろうかと、黒い笑いを浮かべていた。@
+;　正明は、今日からどういじめてやろうかと、黒い笑いを浮かべていた。@
+` Masaaki had a dark grin on his face as he pondered how to best bully her today.`@
 br
-　もちろん、由香里が来るまでの間、ぼんやりと席に座っているわけもない。@
-　いつも通り、気弱そうに俯くクラスメートたちに絡んでいた。\
-
+;　もちろん、由香里が来るまでの間、ぼんやりと席に座っているわけもない。@
+` Naturally, he had no intention of sitting idly at his desk waiting for Yukari to arrive.`@
+;　いつも通り、気弱そうに俯くクラスメートたちに絡んでいた。\
+` As usual, he was picking on a group of his timid classmates, their heads hanging in shame.`\
 bg black,23
 bg kyou_02,23
 
-　一人の少年の筆箱を取り上げ、こっちこっちと囃し立てながら逃げ回る。@
-　そしてベランダに逃げ、そら返してやるよと、彼に向かって放った時、@……少し強い風が吹いた。\
+;　一人の少年の筆箱を取り上げ、こっちこっちと囃し立てながら逃げ回る。@
+` He had stolen one of the boy's pencil cases and was playing keep away with it while mocking the boy the whole time.`@
+;　そしてベランダに逃げ、そら返してやるよと、彼に向かって放った時、@……少し強い風が吹いた。\
+` Both of them ended up on the balcony outside the classroom, where Masaaki told the boy if he wanted it so bad, he could have it, and threw the case at the boy.`@`... And at that moment, a somewhat strong gust of wind blew by.`\
 bg koutei_03,23
 
 me2v 5,50
 
-　投げた筆箱が風に浮き、……ベランダの手すりを越える。@
-　少年は落とすまいと、ベランダから大きく身を乗り出す。@
-　幸いにもキャッチ出来たが、………少年はあまりに、身を乗り出しすぎていた。\
+;　投げた筆箱が風に浮き、……ベランダの手すりを越える。@
+` The thrown case got in the wind... and got blown over the balcony railing.`@
+;　少年は落とすまいと、ベランダから大きく身を乗り出す。@
+` Not wanting to lose it, the boy leaned out over the railing.`@
+;　幸いにもキャッチ出来たが、………少年はあまりに、身を乗り出しすぎていた。\
+` Fortunately he caught it..... but in doing so he also leaned out too far.`\
 
-
-「………ぁ、…………ぁ、……ぁ…………。」@
-
+;「………ぁ、…………ぁ、……ぁ…………。」@
+`".....ah..... ah.... ah......."`@
 ld r,YOS_D8,24
 
-「わはははは！@　何やってんだよ、ダセぇなぁ！」\
+;「わはははは！@　何やってんだよ、ダセぇなぁ！」\
+`"Wahahaha! `@`What are you doing? So lame!"`\
 
-
-　危なっかしそうにする少年の姿を、正明は嘲笑う。@
+;　危なっかしそうにする少年の姿を、正明は嘲笑う。@
+` Masaaki laughed at the boy, shakily holding his case out over the balcony.`@
 br
 
 E_M1
 
-　……しかし次の瞬間。@……呆気なく、少年の体は、手すりをずるりと乗り越えた。\
-
+;　……しかし次の瞬間。@……呆気なく、少年の体は、手すりをずるりと乗り越えた。\
+` ...But, the next moment... `@`The boy's body tipped a bit too far beyond the railing.`\
 bg white,22
 bg koutei_03,25
 se1 13
 quakey 3,500
 
-　ばきばきめきめきっ。@どさっ。@
+;　ばきばきめきめきっ。@どさっ。@
+` Crack. Smash. `@`Thud.`@
 br
-　少年はベランダの真下に転落した。\
-
+;　少年はベランダの真下に転落した。\
+` The boy fell directly beneath the balcony.`\
 bgm1 16
 
-　そこには、下級生が育てているヒマワリの鉢植えが並んでいた。@
-　それらをなぎ倒し、……少年は横たわっていた。\
+;　そこには、下級生が育てているヒマワリの鉢植えが並んでいた。@
+` Running along the wall there were a line of potted sunflowers being grown by the underclassmen.`@
+;　それらをなぎ倒し、……少年は横たわっていた。\
+` The boy had smashed into those pots... and lay on the ground there.`\
 
-
-「……ば、……馬鹿、……何やってんだよ…………。」@
+;「……ば、……馬鹿、……何やってんだよ…………。」@
+`"...Y-... You idiot... Why'd you go and do that....."`@
 br
-　正明のその呟きが、眼下の少年に届くわけもない。@
-　少年は頭を、花壇の縁のレンガにぶつけていたようだった。\
-
+;　正明のその呟きが、眼下の少年に届くわけもない。@
+` Masaaki muttered that under his breath, but there was no way that the boy below could hear him.`@
+;　少年は頭を、花壇の縁のレンガにぶつけていたようだった。\
+` He had hit his head on the brick edge surrounding the flower bed.`\
 bg blood_1a,48
 
 fede 10,1000
 E_MA
 
-　コンクリートの床の上を、ゆっくりと赤い血が広がっていく……。@
+;　コンクリートの床の上を、ゆっくりと赤い血が広がっていく……。@
+` Dark red blood slowly spread out over the pavement....`@
 br
-　……それを女子が見つけて、絹を引き裂くような悲鳴をあげるまで、@……正明の思考は停止したままだった……。\
-
+;　……それを女子が見つけて、絹を引き裂くような悲鳴をあげるまで、@……正明の思考は停止したままだった……。\
+` ...Until a girl saw what had happened and let out a shrill shriek... `@`Masaaki had been frozen in thought...`\
 bg black,22
 
-　朝のホームルームは騒然としていた。@
+;　朝のホームルームは騒然としていた。@
+` There was a big commotion during the morning homeroom.`@
 br
-　先生たちは慌しく駆け回り、救急車が出て行くのが見えた。\
+;　先生たちは慌しく駆け回り、救急車が出て行くのが見えた。\
+` The teachers were hurriedly running about, and the ambulance could be seen driving off.`\
 
-
-「誰か、彼が落ちるのを見てた者はいないか？！」@
+;「誰か、彼が落ちるのを見てた者はいないか？！」@
+`"Was there anyone who saw how he fell?!"`@
 br
-　先生がクラス全体に問い掛ける。\
-
+;　先生がクラス全体に問い掛ける。\
+` The teacher questioned the whole class.`\
 bg kyou_03,22
 
-　……見た者は、いる。@
+;　……見た者は、いる。@
+` ...Yes, there were people who saw him fall.`@
 br
-　正明が筆箱を取り上げてからかい、それを放り投げた為、@……それを取ろうとして、眼下に落ちたのを、見ていた者は何人かいる。\
+;　正明が筆箱を取り上げてからかい、それを放り投げた為、@……それを取ろうとして、眼下に落ちたのを、見ていた者は何人かいる。\
+` Masaaki had stolen his pencil case and thrown it at him... `@`There were many students in the class who had seen him try to catch it, and fall down below.`\
 
-
-　しかし、彼らは正明を恐れ、……俯き黙っていた。@
-　そんな中、……おずおずと手を上げる者があった。@
+;　しかし、彼らは正明を恐れ、……俯き黙っていた。@
+` But, they were too afraid of Masaaki... and so they avoided eye contact and kept silent.`@
+;　そんな中、……おずおずと手を上げる者があった。@
+` But among them... there was one person who nervously rose his hand.`@
 br
-　それは、正明本人だった。\
-
+;　それは、正明本人だった。\
+` And that was Masaaki himself.`\
 bg black,22
 bg kyou_01,22
 
-「おぉ、吉川が見ていたか。@先生に詳しく状況を教えてくれ。」\
-
+;「おぉ、吉川が見ていたか。@先生に詳しく状況を教えてくれ。」\
+`"Oh, you saw what happened Yoshikawa? `@`Please tell me the details."`\
 ld c,YOS_D3a,22
 ld c,YOS_D10a,80
 
-「………あ、あいつ、@…………ふざけて駆け回ってて。@……それでその、……手すりにでも跨ろうとしたのか、急に手すりを登り出して、@………落ちて……。」\
-
-　落ちた少年が、ひとりでふざけていて、転落した。@
-　正明はそう、証言する。@
+;「………あ、あいつ、@…………ふざけて駆け回ってて。@……それでその、……手すりにでも跨ろうとしたのか、急に手すりを登り出して、@………落ちて……。」\
+`"....H-He....... `@`was messing around.`@`... and then he... sat on the up on the railing, then suddenly decided to stand on it.... `@`and fell..."`\
+;　落ちた少年が、ひとりでふざけていて、転落した。@
+` The boy fell when he was playing around, alone.`@
+;　正明はそう、証言する。@
+` That was Masaaki's testimony.`@
 br
-　それは事実にまったく反する。@しかし、そういうことにするのも、不可能ではないだろう。@
+;　それは事実にまったく反する。@しかし、そういうことにするのも、不可能ではないだろう。@
+` It was the complete opposite of what had really happened. `@`But, it wasn't impossible to imagine the boy doing something like that.`@
 br
-　クラスの暴君である彼がそう宣言したのだ。@……彼を恐れるクラスメートたちは、真実を告発できるわけもない。\
+;　クラスの暴君である彼がそう宣言したのだ。@……彼を恐れるクラスメートたちは、真実を告発できるわけもない。\
+` That story was the he as the tyrant of the class declared to be the truth.`@`... And his classmates were to frightened to say otherwise.`\
 
-
-　それは転落した少年も同じだ。@
-　いじめっこのせいで落ちた、などと言えば以後、執拗にいじめられるに違いない。@
+;　それは転落した少年も同じだ。@
+` The boy who had fallen was the same.`@
+;　いじめっこのせいで落ちた、などと言えば以後、執拗にいじめられるに違いない。@
+` If the kid said that he fell because of bullying, he knew that he would face even harsher bullying from then on.`@
 br
-　だから、正明の嘘を告発できる生徒など、存在するわけもなかった……。\
-
+;　だから、正明の嘘を告発できる生徒など、存在するわけもなかった……。\
+` So, there was not a single student who would speak up against Masaaki's lie...`\
 bg black,22
 bg Different_spiral_1a,22
 
 me1v 16,50
 
-　正明の心臓は、ばくばくと高鳴り続けている。@
+;　正明の心臓は、ばくばくと高鳴り続けている。@
+` Masaaki's heart continue to beat rapidly.`@
 br
-　……下手をしたら警察沙汰だろうか。@これは傷害罪になるだろうか。@
-　いやそもそも、あいつは無事なんだろうか。@救急車に運ばれる間、身動き一つしないように見えた。\
+;　……下手をしたら警察沙汰だろうか。@これは傷害罪になるだろうか。@
+` ...But what if his lie was caught, would the police get involved? `@`Could this be charge under bodily harm?`@
+;　いやそもそも、あいつは無事なんだろうか。@救急車に運ばれる間、身動き一つしないように見えた。\
+` Was the boy even alright? `@`When they loaded him into the ambulance he wasn't even moving an inch.`\
 
-
-　もしも病院で死んだ、……なんてことになったら、俺は人殺し………。@
+;　もしも病院で死んだ、……なんてことになったら、俺は人殺し………。@
+` What if he dies at the hospital... wouldn't that make me a murderer......?`@
 br
-　全身から噴出す汗を堪えることなど、出来るわけもない。\
-
+;　全身から噴出す汗を堪えることなど、出来るわけもない。\
+` So much sweat was pouring out of his body that he could hardly bear it.`\
 
 bg kyou_03,22
 
-　そんな正明からは、@……何をしても許されるという、クラスの暴君としての威厳や畏怖は、失われていた……。\
-
+;　そんな正明からは、@……何をしても許されるという、クラスの暴君としての威厳や畏怖は、失われていた……。\
+` As he was right then... `@`Masaaki, the tyrant of the class who could get away with anything, had lost ever last ounce of dignity and dread he held...`\
 bg black,2
 
 fede 0,2000
@@ -4448,57 +4474,67 @@ bg kyou_02,22
 
 me1v 24,50
 
-　昼休み。@……正明はクラスの男子数人に取り囲まれた。@
+;　昼休み。@……正明はクラスの男子数人に取り囲まれた。@
+` Lunch break.`@`... Masaaki was surrounded by a large group of boys from his class.`@
 br
-　彼らは少し及び腰ではあったが、……正明の暴政に対し、抗おうという強い意思が感じられた。\
-
+;　彼らは少し及び腰ではあったが、……正明の暴政に対し、抗おうという強い意思が感じられた。\
+` They were a bit apprehensive... but it felt like they were determined to oppose Masaaki's tyranny.`\
 ld c,YOS_D9,22
 ld c,YOS_D10a,80
 
-「……な、何だよお前ら。@何か用かよ……。」@
+;「……な、何だよお前ら。@何か用かよ……。」@
+`"...W-What? `@`Do you guys want something..."`@
 br
-　正明も、彼らの様子にわずかに気圧される。\
-
+;　正明も、彼らの様子にわずかに気圧される。\
+` Masaaki was slightly intimidated by their presence.`\
 fede 0,1000
 E_A
 
-「吉川さ……。@な、……何、ウソ吐いてんだよ……。」@
-
+;「吉川さ……。@な、……何、ウソ吐いてんだよ……。」@
+`"Yoshikawa... `@`Wh-... why did you tell that lie...?"`@
 ld c,YOS_D8a,80
 
 bgm1 7
 
-「はぁ…？@　俺が、ウソ……？」\
-
-「ウソ吐いてたじゃねぇかよ！@　何が手すりに跨ろうとしただよ…！！」@
-「そうだそうだッ。@お前が筆箱取り上げて、ベランダから投げ捨てようとしたんじゃねぇかよ！」@
-「そうだそうだ！！@　お前のせいであいつ、ベランダから落ちたんじゃねぇかよ！@　なのに何、先生にウソ吐いてんだよッ！！」\
-
+;「はぁ…？@　俺が、ウソ……？」\
+`"Huh...? `@`What lie...?"`\
+;「ウソ吐いてたじゃねぇかよ！@　何が手すりに跨ろうとしただよ…！！」@
+`"You told a lie earlier! `@`What was that about sitting on the railing...?!"`@
+;「そうだそうだッ。@お前が筆箱取り上げて、ベランダから投げ捨てようとしたんじゃねぇかよ！」@
+`"Yeah. `@`You took his pencil case and threw it over the balcony!"`@
+;「そうだそうだ！！@　お前のせいであいつ、ベランダから落ちたんじゃねぇかよ！@　なのに何、先生にウソ吐いてんだよッ！！」\
+`"Yeah, yeah!! `@`It was your fault that he fell! `@`So why did you lie to the teacher?!"`\
 ld c,YOS_D12,80
 
-「……な、……何だと、てめぇら……。@う、うるせぇよ！！@　いい加減なこと言うんじゃねぇ！！」@
-「いい加減なこと言ったのはそっちじゃねぇかよ！！」\
-
+;「……な、……何だと、てめぇら……。@う、うるせぇよ！！@　いい加減なこと言うんじゃねぇ！！」@
+`"...Wh-... what'd you guys say...? Shut the hell up!! `@`Stop making things up!!"`@
+;「いい加減なこと言ったのはそっちじゃねぇかよ！！」\
+`"You're the one who's making things up!!"`\
 ld c,YOS_D11,80
 se1 13
 quakey 1,100
 
 me1v 5,50
 
-「ンだてめぇらッ！！@　痛ぇ目に遭わされてぇのは誰からだッ？！@　ああッ？！」@
+;「ンだてめぇらッ！！@　痛ぇ目に遭わされてぇのは誰からだッ？！@　ああッ？！」@
+`"What was that?! `@`Do you want me to teach you a lesson?! `@`Huh, DO YOU?!"`@
 br
-　昨日までは、正明がそう凄めば彼らは竦みあがってくれた。@
-　もちろん、今日だって彼らは竦み上がるが、……臆して閉口したりはしない。\
-
+;　昨日までは、正明がそう凄めば彼らは竦みあがってくれた。@
+` Up until today, whenever Masaaki would threaten like that they would cower in fear.`@
+;　もちろん、今日だって彼らは竦み上がるが、……臆して閉口したりはしない。\
+` But of course, today, they didn't cower... and they didn't hesitate to continue calling him out.`\
 bg black,22
 
 me2v 16,50
 
-「い、いつまでも俺たちがビビってると思ってんじゃねぇぞ…！」@
-「……そ、そうよそうよ…！@　吉川くんって、いつも暴力ばっかり…！」@
-「お前のこと、クラスみんな迷惑がってんだよ…！！」@
-「吉川くんの嘘吐き！@　人殺し！！」\
-
+;「い、いつまでも俺たちがビビってると思ってんじゃねぇぞ…！」@
+`"W-We're not going to be scared of you forever...!"`@
+;「……そ、そうよそうよ…！@　吉川くんって、いつも暴力ばっかり…！」@
+`"...That's right...! `@`Yoshikawa-kun, you're nothing but a brute...!"`@
+;「お前のこと、クラスみんな迷惑がってんだよ…！！」@
+`"You're an problem for everyone in the class...!!"`@
+;「吉川くんの嘘吐き！@　人殺し！！」\
+`"Yoshikawa-kun is a liar! `@`A murderer!!"`\
 bg kyou_03,22
 
 ;cl c,0
@@ -4506,16 +4542,19 @@ bg kyou_03,22
 
 me3v 28,70
 
-「な、何だ、てめぇら？！？！@　俺のことを人殺しとか言いやがったのは誰だ！！@　てめぇか！！」@
+;「な、何だ、てめぇら？！？！@　俺のことを人殺しとか言いやがったのは誰だ！！@　てめぇか！！」@
+`"Wh- What was that?!?! `@`You just called me a murderer!! `@`Was it you!!"`@
 br
-　クラスメートたちが、次々に加勢してくる。@
-　気付けば、正明一人をクラス中が囲んで糾弾していた。\
-
+;　クラスメートたちが、次々に加勢してくる。@
+` One by one, the fellow classmates had been coming to help back up the group of boys.`@
+;　気付けば、正明一人をクラス中が囲んで糾弾していた。\
+` By the time Masaaki had realized it, he was being surrounded and blamed by every person in the class.`\
 cl l,24
 se1 13
 quakex 1,100
 
-　正明は、身近にいた誰かの胸倉を掴み、小突く。@
+;　正明は、身近にいた誰かの胸倉を掴み、小突く。@
+` Masaaki grabbed the collar of one of the kids standing closest to him, and pushed him back.`@
 　しかし、今の彼らには火に油を注ぐようなものだ。@
 br
 　すぐに取っ組み合いになる。\
