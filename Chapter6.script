@@ -4555,10 +4555,12 @@ quakex 1,100
 
 ;　正明は、身近にいた誰かの胸倉を掴み、小突く。@
 ` Masaaki grabbed the collar of one of the kids standing closest to him, and pushed him back.`@
-　しかし、今の彼らには火に油を注ぐようなものだ。@
+;----------------------------------------------------------------------------------------------------------
+;　しかし、今の彼らには火に油を注ぐようなものだ。@
+` But that just added fuel to the fire.`@
 br
-　すぐに取っ組み合いになる。\
-
+;　すぐに取っ組み合いになる。\
+` And it very quickly turned into a fight.`\
 se1 13
 ;mbg white,1
 ;mcbg 22
@@ -4575,51 +4577,60 @@ bg black,22
 
 me4v 17,70
 
-　しかし多勢に無勢。@
+;　しかし多勢に無勢。@
+` But he was outnumbered.`@
 br
-　転落事故の動揺のせいでアザミの魔法が切れてしまったのか、@正明がまとっていた、いじめっことしての凄みももはや失われていた。\
+;　転落事故の動揺のせいでアザミの魔法が切れてしまったのか、@正明がまとっていた、いじめっことしての凄みももはや失われていた。\
+` Because of the unrest caused in Masaaki's mind by the falling incident, the thistle's magical power had been cut off. `@`He no longer held the guise of a bully that he had for so long.`\
 
-
-　クラスメートたちのこれまでの鬱積に火がつき、それが野火のように教室中に広がっていく……。@
+;　クラスメートたちのこれまでの鬱積に火がつき、それが野火のように教室中に広がっていく……。@
+` The pent up emotions of his classmates went up in flames and spread throughout the classroom like a wildfire...`@
 br
-　いつしかそれは取っ組み合いではなく、うずくまる正明への袋叩きと化していた。\
-
+;　いつしかそれは取っ組み合いではなく、うずくまる正明への袋叩きと化していた。\
+` Before he knew it, it went beyond being a fight and became a group mauling of a cowering Masaaki.`\
 bg kyou_02,24
 ld r,YUK_N1,24
 ld r,YUK_i3a,80
 
-「や、やめてみんな……！@　乱暴はやめて…！！@　いじめはやめて！！」@
+;「や、やめてみんな……！@　乱暴はやめて…！！@　いじめはやめて！！」@
+`"S-Stop it, everyone...! `@`Stop the violence...!! `@`Stop bullying!!"`@
 br
-　由香里が割って入ろうとするが、誰も聞き入れてはくれない。\
-
+;　由香里が割って入ろうとするが、誰も聞き入れてはくれない。\
+` Yukari tried to stop the group, but no one listened her.`\
 me5v 24,70
 
 ;bg black,22
 bg e009,22
 
-「これはいじめじゃねぇよ！@　復讐だよ、仇討ちだよ！！」@
-「こいつに俺たちはみんな、酷ぇ目に遭わされてきたんだ。@いい気味だぜ！」@
-「そうよそうよ！@　吉川くんは少し痛い目に遭えばいいんだわ…！」\
-
+;「これはいじめじゃねぇよ！@　復讐だよ、仇討ちだよ！！」@
+`"This isn't bullying! `@`It's revenge, payback!!"`@
+;「こいつに俺たちはみんな、酷ぇ目に遭わされてきたんだ。@いい気味だぜ！」@
+`"He was always making us suffer. `@`It serves him right!"`@
+;「そうよそうよ！@　吉川くんは少し痛い目に遭えばいいんだわ…！」\
+`"Yeah! `@`It's our turn to teach him a lesson...!"`\
 
 bg e010,22
 
 se1 12
 quakey 2,200
-「あんたが壊したキーホルダー、私のお気に入りだったんだから！！」@
+;「あんたが壊したキーホルダー、私のお気に入りだったんだから！！」@
+`"You broke my key holder, I really liked that one!!"`@
 se2 13
 quakex 2,200
-「よくも俺のノートをぐちゃぐちゃにしてくれやがって…！！」@
+;「よくも俺のノートをぐちゃぐちゃにしてくれやがって…！！」@
+`"You scribbled all over my notebook, you bastard...!!"`@
 se3 8
 quakey 2,100
-「何が舎弟だよ、人のこと奴隷扱いしやがって…！@/
+;「何が舎弟だよ、人のこと奴隷扱いしやがって…！@/
+`"What was that crap about me being your underling...?!`@/
 se2 7
 quakex 2,200
-　いつもいつも、いつもいつもッ！！」@
+;　いつもいつも、いつもいつもッ！！」@
+` You're alwys treating us like slaves!!"`@
 se1 12
 quakey 2,200
-「もうお前なんか怖くないぞ、死ね死ね死ね死ねッ！！！」\
-
+;「もうお前なんか怖くないぞ、死ね死ね死ね死ねッ！！！」\
+`"We're not afraid of you anymore, die die die die!!!"`\
 textoff
 se2 13
 quakex 3,200
@@ -4631,28 +4642,31 @@ bg black,22
 bg kyou_03,22
 ld r,YUK_N2,26
 
-「止めて、みんな！！@　こんなことは止めてぇえええぇ！！！」\
-
+;「止めて、みんな！！@　こんなことは止めてぇえええぇ！！！」\
+`"Stop, everyone!! `@`Please stop this!!!"`\
 
 bg black,22
 
-　確かに今日まで正明がしてきたことは、紛れもなくいじめだろう。@
+;　確かに今日まで正明がしてきたことは、紛れもなくいじめだろう。@
+` It's true that what Masaaki had been doing up until today had obviously been bullying.`@
 br
-　しかし、それに対する報復と称したこの袋叩きも、紛れもなくいじめなのだ。\
-
-　でも、クラスメートたちにいじめの自覚はない。@
-　クラスの仲間をベランダから転落させた「悪党」への、正当な復讐、いや、制裁なのだ。\
-
+;　しかし、それに対する報復と称したこの袋叩きも、紛れもなくいじめなのだ。\
+` But this attacking of him in the name of revenge was nothing more than bullying as well.`\
+;　でも、クラスメートたちにいじめの自覚はない。@
+` But the class was not aware that they were bullying.`@
+;　クラスの仲間をベランダから転落させた「悪党」への、正当な復讐、いや、制裁なのだ。\
+` To the students of this class, Masaaki was a villain who threw their classmate off of the balcony, and this was their rightful revenge, no, his rightful punishment.`\
 
 bg kyou_02,22
 ;se1 13
 ;mbg white,1
 ;mcbg 22
 
-　この図式は、かつて正明がいじめっこたちに復讐した時とまったく同じだ。@
+;　この図式は、かつて正明がいじめっこたちに復讐した時とまったく同じだ。@
+` This situation is exactly the same as what happened when Masaaki got revenge on his bullies.`@
 br
-　自分たちはいじめられてきたから、この仕返しは正当であるという、@自分たちのいじめの美化、正当化。\
-
+;　自分たちはいじめられてきたから、この仕返しは正当であるという、@自分たちのいじめの美化、正当化。\
+` Because they were being bullied, they consider this to be fair payback. `@`That's how they justify their glorified bullying.`\
 
 se1 13
 quakex 2,200
@@ -4664,17 +4678,19 @@ se3v 13,100
 quakex 3,300
 
 
-　クラスメートたちは正明を袋叩きにしながら、これまでの憂さを晴らしていく。@
-　そこには奇妙な仲間意識や連帯感が生まれ始めていた。@
+;　クラスメートたちは正明を袋叩きにしながら、これまでの憂さを晴らしていく。@
+` By beating on Masaaki like this they were able to forget their troubles.`@
+;　そこには奇妙な仲間意識や連帯感が生まれ始めていた。@
+` And in doing so a strange sense of camaraderie and teamwork was born among them.`@
 br
-　……この感覚、……わかってる。@スミレによって、いじめの愉悦を教えられているのだ。\
-
+;　……この感覚、……わかってる。@スミレによって、いじめの愉悦を教えられているのだ。\
+` ...This feeling... she knew it. `@`Sumire has taught them the joy of bullying.`\
 bg black,23
 bg kyou_01,23
 ld l,YUK_i3a,23
 
-「………いるんでしょ、スミレちゃん……！」\
-
+;「………いるんでしょ、スミレちゃん……！」\
+`"....You're here aren't you, Sumire-chan....!"`\
 se1v 84,100
 
 wait 1000
@@ -4686,40 +4702,40 @@ E_MA
 ld r,SMI_w3,22
 ld r,SMI_w2,80
 
-「いるとも、由香里よ！@　正明を袋叩きにして、みんなで友情を深め合う！@　ふっふふひひひはははははは！！@　素晴らしいユートピアなのじゃ！」@
-
+;「いるとも、由香里よ！@　正明を袋叩きにして、みんなで友情を深め合う！@　ふっふふひひひはははははは！！@　素晴らしいユートピアなのじゃ！」@
+`"Indeed I am, Yukari! `@`Everyone is becoming such good friends by beating up Masaaki! `@`Fufufuhihihihahahahaha!! `@`What a splendid utopia!"`@
 ld l,YUK_i2a,80
 
-「……クラスは、正明くんをいじめることで一つになると？@　またあなたはそんな、馬鹿げたことを…！」\
-
+;「……クラスは、正明くんをいじめることで一つになると？@　またあなたはそんな、馬鹿げたことを…！」\
+`"...Trying to unite the class as one to bully Masaaki-kun? `@`You haven't given up that stupid idea yet...?!"`\
 cl r,22
 
 bg black,24
 bg kyou_02,24
 ld l,SMI_w5,23
 
-「見よ、彼らのこの連帯感を！@　生き生きとした眼差しを！！@　もう彼らはいじめの虜なのじゃ！@　皆で正明を一緒にいじめることで正義を執行する！@　その愉悦の虜なのじゃ！！@　そしてやがては私がこのクラスに現れ、再び同じことを繰り返す！@　そしてこのクラスは全員、たった１人をいじめることでクラス全体が連帯できる喜びに酔う、@私の可愛いいじめの花に育つのじゃ…！！」\
-
+;「見よ、彼らのこの連帯感を！@　生き生きとした眼差しを！！@　もう彼らはいじめの虜なのじゃ！@　皆で正明を一緒にいじめることで正義を執行する！@　その愉悦の虜なのじゃ！！@　そしてやがては私がこのクラスに現れ、再び同じことを繰り返す！@　そしてこのクラスは全員、たった１人をいじめることでクラス全体が連帯できる喜びに酔う、@私の可愛いいじめの花に育つのじゃ…！！」\
+`"Look at their teamwork! `@`Look at the lively emotions on their faces!! `@`They have become slaves to the bullying! `@`They will enact their justice on Masaaki by bullying him! `@`They're slaves to the joy of it!! `@`And then, I will appear before the class and cause it all to repeat once again! `@`And then the class will all team up on another single student, and drown in the delights of bullying. `@`They are my cute little flowers of bullying...!!"`\
 ld r,AZA_D3,22
 ;ld r,AZA_D1,80
 
 me1v 16,50
 
-「くす。@今度はスミレが狩りをする番です。@妾は吉川くんのいじめのお陰で、たっぷりと魂を得られましたから。」\
-
+;「くす。@今度はスミレが狩りをする番です。@妾は吉川くんのいじめのお陰で、たっぷりと魂を得られましたから。」\
+`"*Giggle* `@`It's Sumire's turn to hunt now. `@`Thanks to Yoshikawa-kun's bullying, I've helped myself to my fair share of souls."`\
 cl l,0
 ld c,SMI_w2,23
 
-「どうだ、由香里よ、驚いたであろう！！@　これぞ、アザミスミレ姉妹の姉妹狩りじゃ！！@　いじめられっこを極上のいじめっこに仕立て上げる、姉者の狩り！@　そしてそれが反転してクラス全体がいじめっことなる、私の狩り！@　そしていじめられっこに転落した正明は、再び姉者に唆され、魔法のアザミを口にし、@これを永遠に繰り返すのじゃ！！」\
-
+;「どうだ、由香里よ、驚いたであろう！！@　これぞ、アザミスミレ姉妹の姉妹狩りじゃ！！@　いじめられっこを極上のいじめっこに仕立て上げる、姉者の狩り！@　そしてそれが反転してクラス全体がいじめっことなる、私の狩り！@　そしていじめられっこに転落した正明は、再び姉者に唆され、魔法のアザミを口にし、@これを永遠に繰り返すのじゃ！！」\
+`"What do you think, Yukari? Are you surprised!! `@`This is the sisterly hunt of the Azami-Sumire sisters!! `@`My older sister hunts by picking out the weakest most bullied kid, and turning them into a bully! `@`While I hunt by making the class band against that new bully! `@`And then, once Masaaki has fallen, she will tempt him once again with her magical thistles. `@`And we keep repeating that forever!!"`\
 ld r,AZA_D2,80
 
-「くす。@因果応報、わかっていたはず。@いじめられれば、いじめる権利を得る。@いじめれば、いじめられる義務を負う。@彼がこのような日を迎えることも全て、摂理なのです。」\
-
+;「くす。@因果応報、わかっていたはず。@いじめられれば、いじめる権利を得る。@いじめれば、いじめられる義務を負う。@彼がこのような日を迎えることも全て、摂理なのです。」\
+`"*Giggle* `@`You must have realized this cycle of karma by now. `@`When you're bullied, you gain the right to bully back. `@`And when you're bullying, you are liable to be bullied. `@`Everything that has happened to him, including this day, has been divine intervention."`\
 ld c,SMI_w3,80
 
-「いじめっこといじめられっこが、延々と立場を入れ替えながら、いつまでもいじめを繰り広げていく！！@　我ら姉妹の狩りは永遠に終わらぬ！@　いじめの連鎖を、人間に打ち破ることは出来ぬのじゃ…！！」\
-
+;「いじめっこといじめられっこが、延々と立場を入れ替えながら、いつまでもいじめを繰り広げていく！！@　我ら姉妹の狩りは永遠に終わらぬ！@　いじめの連鎖を、人間に打ち破ることは出来ぬのじゃ…！！」\
+`"The bully and the bullied forever switch places, causing an endless chain of bullying!! `@`The hunt of us sisters goes on forever! `@`Humans cannot break this chain of bullying...!!"`\
 bg black,22
 
 fede 1,2000
@@ -4728,15 +4744,17 @@ E_B
 ;se1 69
 bg kyou_03,22
 
-　昼休みの終わりを告げるチャイムに、正明は救われる。@
+;　昼休みの終わりを告げるチャイムに、正明は救われる。@
+` When the bell that signals the end of lunch period rings, Masaaki would be saved.`@
 br
-　しかし、これはこの昼休み限りのことにはならないだろう。\
+;　しかし、これはこの昼休み限りのことにはならないだろう。\
+` But that would not be the end of what had started here.`\
 
-
-　血気盛んなクラスメートたちは、これからも四六時中、正明に対し、復讐を目論む。@
+;　血気盛んなクラスメートたちは、これからも四六時中、正明に対し、復讐を目論む。@
+` The classmates' revenge would plan to take their newfound revenge out on him all day, every day.`@
 br
-　……彼がどんなに虚勢を張ろうと、@……彼は今や、クラス全体のいじめられっこに転落しているのだ……。\
-
+;　……彼がどんなに虚勢を張ろうと、@……彼は今や、クラス全体のいじめられっこに転落しているのだ……。\
+` ...No matter what flase courage he would try to show... `@`he would be taken down by the every bullied student in the class...`\
 
 bg black,22
 bg kyou_02,0
@@ -4744,118 +4762,132 @@ ld r,YOS_D13,22
 
 bgm1 13
 
-　正明は生傷だらけになりながら、俯き、……溢れそうになる涙を堪えながら、@……畜生、畜生と呟いていた……。@
+;　正明は生傷だらけになりながら、俯き、……溢れそうになる涙を堪えながら、@……畜生、畜生と呟いていた……。@
+` While covered in bruises, head hanging in shame... and fighting back tears overflowing from his eyes... `@`Masaaki cursed under his breath...`@
 br
-　いじめられっこに逆戻りした彼に、やがて再び、魔法のアザミが与えられ、またいじめの構図が逆転し、@……いつまでもいじめは繰り返される。\
-
+;　いじめられっこに逆戻りした彼に、やがて再び、魔法のアザミが与えられ、またいじめの構図が逆転し、@……いつまでもいじめは繰り返される。\
+` Once he had reverted back to being the bullied kid again, he would once again be given a magical thistle, at which point he would relapse into bullying... `@`and this would continue on forever.`\
 bg black,23
 bg kyou_01,0
 ld l,SMI_w4,23
 
-「そうなれば理想的じゃがな。@まぁ、そううまくは行かぬだろうて。」@
-
+;「そうなれば理想的じゃがな。@まぁ、そううまくは行かぬだろうて。」@
+`"It will be an ideal situation. `@`Well, if everything goes smoothly that is."`@
 ld r,YUK_D3a,22
 
-「……うまく、行かない…？」\
+;「……うまく、行かない…？」\
+`"...If it goes smoothly...?"`\
 ;＜由香里
 
 cl a,0
 ld c,SMI_w6,23
 
-「お前も覚えておる通り、クラス全体によるいじめは苛烈じゃ。@ほんの数人のいじめに根を上げていた正明如きに、いつまでも耐えられるわけがなかろう。@……元々、か弱いいじめられっこよ。@化けの皮が剥がれた今、そういつまでも持つわけがあるまい！」\
-
+;「お前も覚えておる通り、クラス全体によるいじめは苛烈じゃ。@ほんの数人のいじめに根を上げていた正明如きに、いつまでも耐えられるわけがなかろう。@……元々、か弱いいじめられっこよ。@化けの皮が剥がれた今、そういつまでも持つわけがあるまい！」\
+`"As you no doubt remember, being bullied by an entire class is especially severe. `@`Someone like Masaaki, who caved in after being bullied by just a few people, may not be able to tolerate it.`@`... Originally he was a weak, bullied child. `@`Now that he's shed his tranformation, he won't be able to keep up like that forever!"`\
 ld l,AZA_D4,22
 ;ld l,AZA_D1,80
 
-「復讐しようという気力が、再び生まれれば良いのですが。@……妾の見たところ、次はそうはならないでしょう。」@
-
+;「復讐しようという気力が、再び生まれれば良いのですが。@……妾の見たところ、次はそうはならないでしょう。」@
+`"It would be nice if he regained the willpower to get revenge once again.`@`... but as far as I see it, next time that won't be the case."`@
 cl c,0
 ld r,SMI_w2,23
 
-「落ちて病んで、這いつくばって！@　くっくくくくく、@正明はとことんまで転落して、恐らくは自ら命を絶つことになるのじゃ！@　もちろん、その魂も丸々、私と姉者がいただくのじゃ！」\
-
+;「落ちて病んで、這いつくばって！@　くっくくくくく、@正明はとことんまで転落して、恐らくは自ら命を絶つことになるのじゃ！@　もちろん、その魂も丸々、私と姉者がいただくのじゃ！」\
+`"Depressed and crawling on all fours! `@`Kukukuku, `@`if Masaaki falls that far, he'll probably end up taking his own life! `@`Of course if that happens, my sister and I will eat up the rest of his soul!"`\
 ld l,AZA_D3,80
 
-「その頃には、クラスメートたちはいじめの愉悦にどっぷりと浸かり。@……スミレの狩りを担う、素晴らしき花たちに育っているでしょう。くすくす。」\
-
+;「その頃には、クラスメートたちはいじめの愉悦にどっぷりと浸かり。@……スミレの狩りを担う、素晴らしき花たちに育っているでしょう。くすくす。」\
+`"When that time comes, your classmates will be totally immersed in the joys of bullying.`@`... And her wonderful little flowers will then do her hunting for her. *Giggle*"`\
 ld r,SMI_w6,80
 
-「さぁ、由香里よ、そなたはどうするというのじゃ！@　正明が自殺するまで見守っておるか？@　ふっふふふ、それは出来まい？@　ならばどうやってあやつを救うというのか！」\
-
+;「さぁ、由香里よ、そなたはどうするというのじゃ！@　正明が自殺するまで見守っておるか？@　ふっふふふ、それは出来まい？@　ならばどうやってあやつを救うというのか！」\
+`"So Yukari, what will you do now?! `@`Will you watch Masaaki suffer until he commits suicide? `@`Fufufufu, will you be able to do that? No? `@`Then how do you intend to save him?!"`\ 
 mld c,YUK_D3a,22
 
-「…………………………………。」\
-
+;「…………………………………。」\
+`"..............."`\
 ld l,AZA_D4,80
 
-「およしなさい、由香里。@吉川くんを庇えば、あなたにもいじめられっこのレッテルが貼られますよ。@そうなれば、あなたも吉川くんと同じ末路に……。」\
-
+;「およしなさい、由香里。@吉川くんを庇えば、あなたにもいじめられっこのレッテルが貼られますよ。@そうなれば、あなたも吉川くんと同じ末路に……。」\
+`"Give it up, Yukari. `@`If you try to help Yoshikawa-kun, then you will be labeled a target for bullying as well. `@`And if that happens, you will meet the same end as him..."`\
 ld r,SMI_w3,80
 
-「ふっふふふふひひひひはははははは！！@　さぁ、由香里よ！@　このいじめ、どうやって止めてみせるというのか！！@　終わらぬいじめの連鎖、復讐という名のいじめの免罪符！@　どう断ち切ってみせるというのか、私に見せてみるのじゃ！！」\
-
+;「ふっふふふふひひひひはははははは！！@　さぁ、由香里よ！@　このいじめ、どうやって止めてみせるというのか！！@　終わらぬいじめの連鎖、復讐という名のいじめの免罪符！@　どう断ち切ってみせるというのか、私に見せてみるのじゃ！！」\
+`"Fufufufufuhihihihahahahaha!! `@`Come on, Yukari! `@`Show me how you are going to stop this bullying!! `@`A chain of bullying rationalized as revenge! `@`I want to see how you plan on breaking this chain!!"`\
 mld c,YUK_i2a,80
 
-「………………………………。」@
+;「………………………………。」@
+`"..............."`@
 br
-　由香里は下唇を噛みながら俯く。\
-
+;　由香里は下唇を噛みながら俯く。\
+` Yukari bit her lip and stared down at the ground.`\
 me2v 5,50
 
 mcl c,0
 bg black,22
 
-　……時間はそうは残されていないだろう。@
+;　……時間はそうは残されていないだろう。@
+` ...There wasn't much time left.`@
 br
-　クラス全体でのいじめがどれほど辛いか、由香里はよく知っている。@
-　それに正明がいつまでも耐えられるわけもない。@
+;　クラス全体でのいじめがどれほど辛いか、由香里はよく知っている。@
+` Yukari knew how hard it was for the class to endure Masaaki's bullying.`@
+;　それに正明がいつまでも耐えられるわけもない。@
+` But Masaaki couldn't withstand this attack forever.`@
 br
-　彼が自殺の誘惑に負けるのも、時間の問題だ……。\
-
+;　彼が自殺の誘惑に負けるのも、時間の問題だ……。\
+` It was only a matter of time before he would resort to suicide...`\
 ;bg black,22
 bg Different_spiral_1a,22
 
-　いじめは絶対に許したくない。@
+;　いじめは絶対に許したくない。@
+` She would never allow bullying.`@
 br
-　そしてそれ以上に、自殺なんて愚行を、絶対に許したくない。\
+;　そしてそれ以上に、自殺なんて愚行を、絶対に許したくない。\
+` But even more so, she would never allow some to do something as foolish as suicide.`\
 
-
-　その為には、……正明を何とか守り、@………みんなを、復讐という名のいじめから、目を覚まさせなければ。@
+;　その為には、……正明を何とか守り、@………みんなを、復讐という名のいじめから、目を覚まさせなければ。@
+` To do that... she had to find some way to protect Masaaki.`@`.... and a way to make her classmates come to their senses and stop their revenge.`@
 br
-　しかし、そんなこと、ついさっきの乱闘さえ止められなかった自分に、出来るわけもない………。\
-
+;　しかし、そんなこと、ついさっきの乱闘さえ止められなかった自分に、出来るわけもない………。\
+` But, she wasn't even able to stop that fight just then, how was she supposed to do all that....`\
 ld c,MAR_w1,22
 
-　……毬枝さんのような人間の味方の妖怪が、また助けてはくれないだろうか。\
-
+;　……毬枝さんのような人間の味方の妖怪が、また助けてはくれないだろうか。\
+` ...She wondered if a youkai who supports humans, like Marie-san, might show up and help them out again.`\
 cl c,0
 mbg black,23
 mcbg 23
 
-　……………それじゃ駄目だ。@
+;　……………それじゃ駄目だ。@
+` ......But that wouldn't work.`@
 br
-　いじめの輪廻は、常に人間の問題なんだ。@
-　だからそれは、人間が解決しなくちゃいけない。\
-
-　人ならざる者が解決したとしても、それはその場凌ぎに過ぎない。@
-　……人間である私が、何とかしなくちゃならないんだ……。@
+;　いじめの輪廻は、常に人間の問題なんだ。@
+` The cycle of bullying has always been a problem of humans.`@
+;　だからそれは、人間が解決しなくちゃいけない。\
+` So it must be solved by humans.`\
+;　人ならざる者が解決したとしても、それはその場凌ぎに過ぎない。@
+` Even if an inhuman being saved them, that would only be a temporary fix.`@
+;　……人間である私が、何とかしなくちゃならないんだ……。@
+` ...As a human, I have to do something to solve this on my own...`@
 br
-　でも、………どうやって…………………。\
-
+;　でも、………どうやって…………………。\
+` But.... what.......?`\
 bg black,22
 
 fede 10,1000
 E_MA
 
-　……その時、……由香里の脳裏に、小さなひらめきが浮かぶ。@
+;　……その時、……由香里の脳裏に、小さなひらめきが浮かぶ。@
+` ...And then... a small flash of inspiration crossed Yukari's mind.`@
 br
-　しかしそれは、………相当の覚悟を必要とするものだった。\
-
+;　しかしそれは、………相当の覚悟を必要とするものだった。\
+` But, in order to work... it would require a considerable amount of determination.`\
 bg kyou_01,0
 ld r,SMI_w2,22
 ld r,SMI_w5,80
 
-「ほう？@　あやつらのいじめを止める妙案が思いついたというのか？@　これは興味深いぞ、聞いてやろうぞ…！」\
+;「ほう？@　あやつらのいじめを止める妙案が思いついたというのか？@　これは興味深いぞ、聞いてやろうぞ…！」\
+`"Oh? `@`Have you thought up a way to stop their bullying? `@`How intriguing, do tell...!"`\
 ;＜スミレ
 
 ld l,YUK_i4,22
