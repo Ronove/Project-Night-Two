@@ -3560,65 +3560,73 @@ br
 ;　それは長い黒髪の美しい、可憐な少女に見えた。@
 ` It was a pretty girl, with long, black hair.`@
 br
-　ぞっとするほどの白い肌と、それとは対照的な漆黒の髪。@赤い唇は蠱惑的に輝き、見惚れてしまうほどに美しかった。\
-
+;　ぞっとするほどの白い肌と、それとは対照的な漆黒の髪。@赤い唇は蠱惑的に輝き、見惚れてしまうほどに美しかった。\
+` Her frighteningly white skin contrasted with her jet black hair.`@`Her lips shone alluringly, and she was so beautiful it was somewhat admirable.`\
 bg black,22
 bg hoken_01,22
 
-「……だ、………誰………。@……こ、……ここ……は………。」\
-
+;「……だ、………誰………。@……こ、……ここ……は………。」\
+`"....Wh...Who?`@`What's this?"`\
 ld r,HIG_d8,22
 
-「私の巣よ。」@
-「………巣、って………。」\
-
+;「私の巣よ。」@
+`"This is my nest."`@
+;「………巣、って………。」\
+`"...Nest?"`\
 ld r,HIG_w1,80
 
 「あなた、保健室に来たことはないのかしら。@……そうよね。@人を怪我させるのは得意でも、自分が怪我をするのは得意ってわけじゃないものね。」@
 br
-　ようやく、埃と薬品の臭いの入り混じったものが鼻を突くことに気付く。\
+;　ようやく、埃と薬品の臭いの入り混じったものが鼻を突くことに気付く。\
+` Finally he realized what that acrid smell of dust and chemicals was.`\
 
-
-　……どういうこと？@
+;　……どういうこと？@
+` ....What did she mean?`@
 br
-　信じられない。@ここは多分、………学校の、保健室のベッドの上なのだ。\
-
-　そんな馬鹿な。@自分は家に帰って、……夕飯を食べてお風呂に入って、……自分のベッドで眠ったはず。@
+;　信じられない。@ここは多分、………学校の、保健室のベッドの上なのだ。\
+` Unbelievable.`@`This was probably the bed in the school infirmary.`\
+;　そんな馬鹿な。@自分は家に帰って、……夕飯を食べてお風呂に入って、……自分のベッドで眠ったはず。@
+` That would be stupid.`@`He had returned home himself, eaten dinner, had a bath and gone to bed.`@
 br
-　なのにどうして、……こんなところにいるんだ………。\
-
+;　なのにどうして、……こんなところにいるんだ………。\
+` So then why was he here?`\
 bg black,22
 
 me2v 16,50
 
 bg hoken_02,22
 
-　廊下からちらりと見たことしかないけれど、……ここは紛れもなく保健室だ。@
+;　廊下からちらりと見たことしかないけれど、……ここは紛れもなく保健室だ。@
+` But he got a glimpse of the corridor outside, and realized that this was certainly the school infirmary.`@
 br
-　窓が開いているのだろうか。@……白いカーテンがゆっくりと大きく、……まるでハロウィンの幽霊のように大きくはためいている。\
-
-　風は感じられるが、生ぬるく澱んでいて、……その上、ねっとりとして感じられた。@
+;　窓が開いているのだろうか。@……白いカーテンがゆっくりと大きく、……まるでハロウィンの幽霊のように大きくはためいている。\
+` Were the windows open?`@`The white curtains were flapping in the breeze, like a halloween ghost.`\
+;　風は感じられるが、生ぬるく澱んでいて、……その上、ねっとりとして感じられた。@
+` He could feel the wind, but it was stagnant and lukewarm....What's more, he felt soggy.`@
 br
-　……これは確かに現実のはずなのに、@……誰かの悪夢の中に引き摺り込まれたかのようにも感じられる……。\
-
+;　……これは確かに現実のはずなのに、@……誰かの悪夢の中に引き摺り込まれたかのようにも感じられる……。\
+` Even though this was surely reality,`@`it felt as if he was dragged into someone's nightmare...`\
 bg black,22
 bg hoken_01,22
 ld c,HIG_d9,22
 
-「そうよ。@私があなたを招待したのよ。@……この踊る彼岸花が、あなたと踊りたくて、私の巣へ、ね……。」@
+;「そうよ。@私があなたを招待したのよ。@……この踊る彼岸花が、あなたと踊りたくて、私の巣へ、ね……。」@
+`"Yes.`@`I invited you.`@`...This Higanbana wants to dance with you in her nest..."`@
 br
-　保健室の不気味な西洋人形が、夜な夜な踊り出すという怪談を、確かにどこかで聞いたことがある。\
+;　保健室の不気味な西洋人形が、夜な夜な踊り出すという怪談を、確かにどこかで聞いたことがある。\
+` Yes, he had heard a ghost story about a western doll that would dance night after night in the infirmary.`\
 
-
-　でも、それがどうして自分を祟る？@
+;　でも、それがどうして自分を祟る？@
+` But, why was he being cursed like this?`@
 br
-　保健室に入ったことさえ、一度もないのに…！\
-
+;　保健室に入ったことさえ、一度もないのに…！\
+` He had never once set food inside the Infirmary.`\
 ld c,HIG_D2,80
 
-「……それは、あなたが敬いを忘れたからよ。」@
-「う、……敬いって、………な、……何の………。」\
-
+;「……それは、あなたが敬いを忘れたからよ。」@
+`"....Because you have forgotten to be respectful."`@
+;「う、……敬いって、………な、……何の………。」\
+`"...Respect? What?"`\
 bg black,22
 bg Air_03,22
 ;bg gakkou_08y,22
@@ -3629,39 +3637,45 @@ bg black,22
 bg hoken_01,0
 ld c,HIG_D2,2
 
-　薄暗い明りに、次第に少年の目が慣れてくる。@
-
+;　薄暗い明りに、次第に少年の目が慣れてくる。@
+` The boy's eyes gradually got used to the darkness.`@
 me3v 28,50
 
 br
-　すると、少女の髪が、美しいだけでなく、………恐ろしいほどの長さを持つことがわかるようになる。\
-
-　彼女の髪は、足元までどころか、四方八方に束ねられながら伸び、@部屋中にまるで蜘蛛の巣のように張り巡らされているのだ。\
-
+;　すると、少女の髪が、美しいだけでなく、………恐ろしいほどの長さを持つことがわかるようになる。\
+` When he did so, he realized that the girl's hair wasn't just beautiful, it was horrifyingly long.`\
+;　彼女の髪は、足元までどころか、四方八方に束ねられながら伸び、@部屋中にまるで蜘蛛の巣のように張り巡らされているのだ。\
+` Her hair reached down to her feet, but was bundled and grew in all directions.`@`It was spread around the room like a spider web.`\
 bg black,22
 bg hoken_02,22
 
-　その髪がどこまで伸びているのか、目が追ってしまう……。@
-　すると、……それは、少年の隣のベッドに向かっていた。@
+;　その髪がどこまで伸びているのか、目が追ってしまう……。@
+` His eyes followed her hair....`@
+;　すると、……それは、少年の隣のベッドに向かっていた。@
+` To the bed next to the boy.`@
 br
-　しかし、ベッドの境はカーテンで仕切られている。@向こう側で何が起こっているのか、わからない。\
-
+;　しかし、ベッドの境はカーテンで仕切られている。@向こう側で何が起こっているのか、わからない。\
+` However, there was a curtain between the two beds,`@`so he didn't know what lay there.`\
 mbg black,22
 bgm1 10
 
-　ぺた、ぺた、ぺた、ぺた………。@
-　ぺた、ぺた、ぺた、ぺた、ぺた、ぺた………。@
+;　ぺた、ぺた、ぺた、ぺた………。@
+` Pit pat pit pat pit pat....`@
+;　ぺた、ぺた、ぺた、ぺた、ぺた、ぺた………。@
+` Pit pat pit pat pit pat pit pat pit pat....`@
 br
-　さっきからずっと聞こえる、その奇妙な音に、……カーテンを潜り、髪の束が続いている……。\
-
+;　さっきからずっと聞こえる、その奇妙な音に、……カーテンを潜り、髪の束が続いている……。\
+` The sound he had heard from earlier was coming from behind the curtain...`\
 mcbg 22
 ld c,HIG_w1,22
 
-「気になる？@　この音が。@…………いいわ、教えてあげる。」@
+;「気になる？@　この音が。@…………いいわ、教えてあげる。」@
+`"Are you worried?`@`This sound`@`...is good. I'll show you."`@
 br
-　金縛りで身動き出来ぬ少年の顔を、彼岸花はぐいっとねじり、奇妙な音が聞こえる方へ向ける。@
-　そして、カーテンを一気に開き、……その光景を、見せつけた。\
-
+;　金縛りで身動き出来ぬ少年の顔を、彼岸花はぐいっとねじり、奇妙な音が聞こえる方へ向ける。@
+` Higanbana twisted the boy's unparalyzed face towards where the sound was coming from.`@
+;　そして、カーテンを一気に開き、……その光景を、見せつけた。\
+` Then she drew back the curtain, and showed him that....scene.`\
 bg white,24
 
 bgmvol 0
@@ -3676,32 +3690,38 @@ wait 1000
 
 fedexx 70,50,50,50,0,0,2000
 
-「……………………ッッ？！？！」\
-
+;「……………………ッッ？！？！」\
+`"Wh-wh-wh-whaaawaaat?!?!?!"`\
 me4v 17,70
 
-　ぺた、ぺた、ぺた、ぺた………。@
-　ぺた、ぺた、ぺた、ぺた、ぺた、ぺた………。@
+;　ぺた、ぺた、ぺた、ぺた………。@
+` Pit pat pit pat pit pat...`@
+;　ぺた、ぺた、ぺた、ぺた、ぺた、ぺた………。@
+` Pit pat pit pat pit pat pit pat....`@
 br
-　そこにいたのは、……彼の友人たちだった。@
-　そう。@秋一を執拗にいじめ続けた、いじめっこ三人組だ。\
-
+;　そこにいたのは、……彼の友人たちだった。@
+` His friends were there.`@
+;　そう。@秋一を執拗にいじめ続けた、いじめっこ三人組だ。\
+` Yes.`@`The trio of kids who had relentlessly bullied Shuuichi.`\
 bg aka2,22
 
-　だが、それは余りにも異様な姿だった。@
+;　だが、それは余りにも異様な姿だった。@
+` But their bodies were quite odd.`@
 br
-　彼らの四肢には彼岸花の髪束が絡み付き、ベッドの上に吊るされるような形で立たされていた。@まるで操り人形のように。\
-
-　両手両足首、そして首をぎりりと締め付けるそれに操られて、……ぺたぺたと、……踊り続けることを強要されているのだ。@
+;　彼らの四肢には彼岸花の髪束が絡み付き、ベッドの上に吊るされるような形で立たされていた。@まるで操り人形のように。\
+` They had been forced to stand atop the bed, held in place by the girl's hair, like puppets.`\
+;　両手両足首、そして首をぎりりと締め付けるそれに操られて、……ぺたぺたと、……踊り続けることを強要されているのだ。@
+` They were bound tightly by both ankles, hands and their necks, and were manipulated into dancing....pit pat pit pat pit pat.`@
 br
-　彼らは、虚ろな目で口からは泡を吹き、生きた操り人形に成り果てていた……。\
-
+;　彼らは、虚ろな目で口からは泡を吹き、生きた操り人形に成り果てていた……。\
+` They had soulless eyes, and bubbles were foaming from their mouths, like living puppets...`\
 bg black,22
 
-　あの、ぺた、ぺた、という奇妙な音の正体は、……もう、考えるまでもない。@
+;　あの、ぺた、ぺた、という奇妙な音の正体は、……もう、考えるまでもない。@
+` The identity of that sound was now a no-brainer.`@
 br
-　彼らが永遠に強要される、ダンスの足音だったのだ……。\
-
+;　彼らが永遠に強要される、ダンスの足音だったのだ……。\
+` They were the footsteps of the dance that would do for eternity...`\
 
 bg hoken_01,0
 ld c,HIG_w2,22
