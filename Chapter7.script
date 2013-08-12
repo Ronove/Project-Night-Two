@@ -3727,8 +3727,8 @@ bg hoken_01,0
 ld c,HIG_w2,22
 ld c,HIG_D3,80
 
-「さぁ、あなたも一緒に踊るといいわ。@……ダンスの経験がなくても大丈夫よ。@私が教えてあげるのだから。@……くすくすくすくすくすくす。」\
-
+;「さぁ、あなたも一緒に踊るといいわ。@……ダンスの経験がなくても大丈夫よ。@私が教えてあげるのだから。@……くすくすくすくすくすくす。」\
+`"Come, let us dance together.`@`Don't worry if you haven't danced before.`@`I'll teach you.`@`...Kusukusukusukusu."`\
 se3v 84,100
 se1v 66,100
 bg white,8
@@ -3736,74 +3736,82 @@ se2v 34,100
 bg aka3,22
 quake 8,800
 
-「ひ、……ひいッ、……うわぁああぁ！！」@
+;「ひ、……ひいッ、……うわぁああぁ！！」@
+`"Hah.....Waaaaaahhhhhhhhh!!"`@
 br
-　不気味に蠢く何本もの髪束が少年に巻き付き、彼を操り人形にして吊るす。\
-
+;　不気味に蠢く何本もの髪束が少年に巻き付き、彼を操り人形にして吊るす。\
+` Many bundles of hair wrapped around the boy, hanging him like a doll.`\
 quake 8,800
 
-「や、やめてぇえぇ、ひぃいいいい！！！@　こんなこと、あるわけない！@　これは夢だッ、悪い夢なんだぁあぁあぁ！！」\
-
+;「や、やめてぇえぇ、ひぃいいいい！！！@　こんなこと、あるわけない！@　これは夢だッ、悪い夢なんだぁあぁあぁ！！」\
+`"S-Stop it please!!!`@`There's no way this can be real!`@`This is a dream--a nightmare!!"`\
 ld c,HIG_w3,22
 
-「そうね。@普通の人間にとって、私たちとの出会いなんて、夢の中だけ。@さもなくば、闇の中だけだわ。@/
-
+;「そうね。@普通の人間にとって、私たちとの出会いなんて、夢の中だけ。@さもなくば、闇の中だけだわ。@/
+`"Yes.`@`To meet a normal doll, you'd have to be dreaming.`@`Or you'd have to be in the darkness.`@/
 ld c,HIG_w4,80
 
-……でも。@………踏み込んできたのはあなたたちの方なのよ…？@　夜の闇を敬いもせず、土足で踏み込んできたあなたたちのせい……。」\
-
+;……でも。@………踏み込んできたのはあなたたちの方なのよ…？@　夜の闇を敬いもせず、土足で踏み込んできたあなたたちのせい……。」\
+`...But`@`...you stepped into my territory didn't you?`@` In the darkness of the night, with neither respect, nor removing your shoes, you came here..."`\
 bg black,22
 ;bg k_rouka_03,2
 
-　夜の闇は、さらに深い暗黒でなければならない。@
-　そうでなければ、容易く人間たちは踏み込もうとしてしまう。@
+;　夜の闇は、さらに深い暗黒でなければならない。@
+` The darkness of the night had to be even darker.`@
+;　そうでなければ、容易く人間たちは踏み込もうとしてしまう。@
+` If not, humans would invade easier.`@
 br
-　ますますに闇を暗く染め、恐れられるようにするのが、妖怪の役目……。\
-
-　如何なる常識も法律も届かない、学校という名の切り取られた異常世界。@
+;　ますますに闇を暗く染め、恐れられるようにするのが、妖怪の役目……。\
+` It had to be dyed pitch black, so that people would fear her as a monster...`\
+;　如何なる常識も法律も届かない、学校という名の切り取られた異常世界。@
+` Common sense and laws did not reach as far as that school.`@
 br
-　その世界に唯一存在でき、彼らを裁くことが出来る法こそが、妖怪なのだ。\
-
+;　その世界に唯一存在でき、彼らを裁くことが出来る法こそが、妖怪なのだ。\
+` The only method available in that world to judge them, were monsters.`\
 ;bg black,22
 bg hoken_01,22
 
-　ぺた、ぺた、ぺた、ぺた………。@
+;　ぺた、ぺた、ぺた、ぺた………。@
+` Pit pat pit pat pit pat...`@
 br
-　ぺた、ぺた、ぺた、ぺた、ぺた、ぺた………。\
-
+;　ぺた、ぺた、ぺた、ぺた、ぺた、ぺた………。\
+` Pit pat pit pat pit pat pit pat....`\
 ld c,HIG_w6,22
 
-「……くすくす、………うふふふふふふふふふふふふふふふふ。@あなたたちの拙いダンス。@見ていると不思議なの。@なぜか溢れてくる笑いを抑えることが出来なくなる。@……くすくす、くすくすくすくすくすくすくす…！！」\
-
+;「……くすくす、………うふふふふふふふふふふふふふふふふ。@あなたたちの拙いダンス。@見ていると不思議なの。@なぜか溢れてくる笑いを抑えることが出来なくなる。@……くすくす、くすくすくすくすくすくすくす…！！」\
+`"...Kusukusu.....Ahahahahahahahaha.`@`Man, you dance like shit.`@`It's strange; when I see you dancing,`@`I'm can stop laughing.`@`..Kusukusukusukusukusu!!"`\
 se1v 84,100
 
 bg black,22
 mono 2
 bg Air_03,22
 
-　窓の外には、人の世に昇ることは決してない、真っ赤な満月が浮かんでいる。@
+;　窓の外には、人の世に昇ることは決してない、真っ赤な満月が浮かんでいる。@
+` Outside the window, a bright red full moon was floating above the world of humans.`@
 br
-　それを見上げ、彼岸花は心の底より笑った。\
-
+;　それを見上げ、彼岸花は心の底より笑った。\
+` When she saw that, Higanbana laughed from the bottom of her heart.`\
 ;ld c,HIG_w4,80
 
-　あぁ、わかったわ、秋一。@
-　これが感情というものなのね。@生きている証ということなのね。@
+;　あぁ、わかったわ、秋一。@
+` Ah, I get it, Shuuichi.`@
+;　これが感情というものなのね。@生きている証ということなのね。@
+` This 'emotion'.`@`This 'proof of living'.`@
 br
-　あなたのお陰で、私はやっと、生きることが出来たわ。\
-
+;　あなたのお陰で、私はやっと、生きることが出来たわ。\
+` Thanks to you, I can finally live .`\
 bg black,22
 mono 0
 
 bg hoken_01,22
 ld c,HIG_w6,22
 
-「私は、踊る彼岸花。@学校の妖怪として、……学校の闇夜を、ますますに暗く染めてやるの。@……お前たち人間が闇を恐れるように。@闇に足を踏み入れることがないようにっ。@さぁ、踊りましょうよ、三人とも。@この踊る彼岸花と一緒にね。@……踊るのに疲れたら、目の前の友人に、自分の喉を噛み千切ってくれるよう頼むといい。@そして、それを頼むなら早い内がいいわね。@何しろ、最後のひとりは誰も殺してくれない。@永遠に私と踊り続けなくてはならないのだから。@………くすくすくす、うっふふふふふふふふふふふふ、/
-
+;「私は、踊る彼岸花。@学校の妖怪として、……学校の闇夜を、ますますに暗く染めてやるの。@……お前たち人間が闇を恐れるように。@闇に足を踏み入れることがないようにっ。@さぁ、踊りましょうよ、三人とも。@この踊る彼岸花と一緒にね。@……踊るのに疲れたら、目の前の友人に、自分の喉を噛み千切ってくれるよう頼むといい。@そして、それを頼むなら早い内がいいわね。@何しろ、最後のひとりは誰も殺してくれない。@永遠に私と踊り続けなくてはならないのだから。@………くすくすくす、うっふふふふふふふふふふふふ、/
+`"I am the Dancing Higanbana.`@`As a monster of the school, I'll darken the night more and more,`@`so that humans will be fearful,`@`and never set foot here.`@`Now, you three.`@`Let's dance with Higanbana.`@`If you tire of dancing, I'll make your friends cut your throat in front of them.`@`If I ask them to do that, your insides will be good.`@`And the last person standing won't have to kill anyone.`@`They'll just dance with me. Forever.`@`...Kusukusukusukusu, Ufufufufufufu.`/
 se1v 84,100
 
-はっはははははははははははははは……。」\
-
+;はっはははははははははははははは……。」\
+`Hahahahahahahahahahhaaaahaaaaa"`\
 ;bg black,2
 bg gakkou_01o,2
 
