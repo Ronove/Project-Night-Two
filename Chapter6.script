@@ -4893,80 +4893,86 @@ ld r,SMI_w5,80
 ld l,YUK_i4,22
 ld l,YUK_i2a,80
 
-「………誰か一人をいじめることで生まれるユートピアを、……今は利用するしかない……。」@
-
+;「………誰か一人をいじめることで生まれるユートピアを、……今は利用するしかない……。」@
+`"....I have no choice... but to use that utopia born out of bullying one person..."`@
 ld r,SMI_w2,80
 
-「ほぅ？@　それはどういう意味なのじゃ。」\
-
+;「ほぅ？@　それはどういう意味なのじゃ。」\
+`"Oh? `@`What do you mean by that?"`\
 ld l,YUK_i3a,80
 
-「………スミレちゃん。@あなたの力で私を…………、@/
+;「………スミレちゃん。@あなたの力で私を…………、@/
+`"....Sumire-chan. `@`Use your power..... `@/
 E_A
-クラスのいじめられっこにしてっ。」@
-
+;クラスのいじめられっこにしてっ。」@
+`to make the class bully me."`@
 bgm1 6
 
 br
-　その突拍子もない提案に、妖怪姉妹は目を丸くする。\
-
+;　その突拍子もない提案に、妖怪姉妹は目を丸くする。\
+` That crazy proposal made the youkai sisters' eyes widen.`\
 ld r,SMI_w4,80
 
-「ほ、ほぅ……！@　これは面白いことを言い出すのじゃ！@　どういう風の吹き回しなのか！」@
-
+;「ほ、ほぅ……！@　これは面白いことを言い出すのじゃ！@　どういう風の吹き回しなのか！」@
+`"O-Oh...?! `@`Now you've gone and said something really interesting! `@`What a pleasant surprise!"`@
 ld c,AZA_D1,22
 
-「……くす。@これは素晴らしい自己犠牲です。@……自分がいじめらっこになることで、吉川くんを庇おうというのですね？」\
-
+;「……くす。@これは素晴らしい自己犠牲です。@……自分がいじめらっこになることで、吉川くんを庇おうというのですね？」\
+`"...*Giggle* `@`What a wonderful self-sacrifice.`@`... Do you intend by protect Yoshikawa-kun by taking the bullying on yourself?"`\
 ld l,YUK_i4,80
 
-「……………このままじゃ、吉川くんはみんなに乱暴されて、@……大喧嘩になって大怪我をすることになってしまう。@……確かに吉川くんは、酷いいじめをみんなにした。@仕返しをしたいみんなの気持ちも、確かにわかるの。@……でも、それを認めて延々と繰り返したら、ずっとあなたたちの思う壺っ。@いじめの連鎖が、永遠に終わらないっ……。」\
-
+;「……………このままじゃ、吉川くんはみんなに乱暴されて、@……大喧嘩になって大怪我をすることになってしまう。@……確かに吉川くんは、酷いいじめをみんなにした。@仕返しをしたいみんなの気持ちも、確かにわかるの。@……でも、それを認めて延々と繰り返したら、ずっとあなたたちの思う壺っ。@いじめの連鎖が、永遠に終わらないっ……。」\
+`".......At this rate, Yoshikawa-kun will be attacked by everyone... `@`and it will turn into a huge fight and cause him serious injury.`@`... It's true that Yoshikawa-kun bullied everyone else really badly, `@`and I do understand everyone's feelings in wanting to get back at him.`@`... But if I let them continue, the same situation will just repeat forever, just like you two want it to. `@`And the chain of bullying will never end..."`\
 ld r,SMI_w1,80
 
-「それで由香里がいじめられっこを引き受けようというのか。@すると、いじめられたお前は一体どうするつもりじゃ？」\
-
+;「それで由香里がいじめられっこを引き受けようというのか。@すると、いじめられたお前は一体どうするつもりじゃ？」\
+`"So, that's why you will undertake the role of the bullied, Yukari. `@`And then? What do you intend to do then?"`\
 cl l,0
 mld l,YUK_D3a,22
 
-「………私をいじめようとする人たちと、……何とか仲良くなれるように、頑張ります。@……彼らは吉川くんの件については、仕返しを正当化できているけれど、私に対しては何もない。@……だから、ちゃんと話し合えば、……いじめは、………なくせるはず………。」\
-
+;「………私をいじめようとする人たちと、……何とか仲良くなれるように、頑張ります。@……彼らは吉川くんの件については、仕返しを正当化できているけれど、私に対しては何もない。@……だから、ちゃんと話し合えば、……いじめは、………なくせるはず………。」\
+`"...I will do my best... to get along with everyone trying to bully me.`@`... They may be able to justify their payback on Yoshikawa-kun, but they won't be able to do the same to me.`@`... So, if I just talk to them... I should be able... to stop the bullying."`\
 mcl l,0
 bg black,22
 
-　それは一理あるかもしれない。@
+;　それは一理あるかもしれない。@
+` She may have a valid point.`@
 br
-　正明とクラスメートたちの確執は、今さら解くのは難しいだろう。\
+;　正明とクラスメートたちの確執は、今さら解くのは難しいだろう。\
+` Trying to solve the bad blood between Masaaki and his classmates would be very hard at this point.`\
 
-
-　しかし、由香里がいじめられっこになるならば、@その確執は正明に比べ、ないも同然のものになるだろう。@
+;　しかし、由香里がいじめられっこになるならば、@その確執は正明に比べ、ないも同然のものになるだろう。@
+` But if Yukari took the bullying upon herself, `@`compared to Masaaki, the class had very little problem with her at all.`@
 br
-　……ならば、いじめを止めるように訴えることも、まだ望みがあるはず。\
+;　……ならば、いじめを止めるように訴えることも、まだ望みがあるはず。\
+` ...So there's still a chance that she can stop the bullying.`\
 
-
-　自らいじめられっこになることで、……正明を救う。@
-　そして、……何とかみんなと和解して、クラスからいじめをなくす。@
+;　自らいじめられっこになることで、……正明を救う。@
+` She will save Masaaki... by become the new bullied kid.`@
+;　そして、……何とかみんなと和解して、クラスからいじめをなくす。@
+` And... somehow find a way to reconcile with the class, and end the bullying there.`@
 br
-　………由香里が真にいじめと抗うために選ぼうとする、……身を捨てての決断だった。\
-
+;　………由香里が真にいじめと抗うために選ぼうとする、……身を捨てての決断だった。\
+` .....Yukari so genuinely wants to put an end to bullying... that she's ready to sacrifice her own well-being.`\
 bg kyou_02,22
 ld l,SMI_w2,22
 
 me1v 16,50
 
-「これは………。@……とんでもないことを考えるヤツなのじゃ。@……姉者はどう思う…？」@
-
+;「これは………。@……とんでもないことを考えるヤツなのじゃ。@……姉者はどう思う…？」@
+`"This girl....`@`... really thinks of some outrageous things.`@`... What do you think, sister...?"`@
 ld r,AZA_D2,22
 
-「………………。@美しい自己犠牲の精神です。@……見てみたくなりました。」\
-
+;「………………。@美しい自己犠牲の精神です。@……見てみたくなりました。」\
+`"....... `@`It would be a beautiful show of self-sacrifice.`@`... I would like to see it."`\
 ld l,SMI_w6,80
 
-「ならば決まりじゃ！@　私の力で、お前をこれより、クラス一のいじめられっこにしてやろうぞ！@　皆は正明のことなどケロリと忘れて、そなたをいじめることに夢中になろうぞ！@　……クラス全体とのいじめに、どう抗うか楽しみじゃ！！@　前は結果的に彼岸花に救われたが、……今度は同じ幸運は訪れぬぞ…？@　仮にやって来ても、もう好きにはさせぬ。@姉者は彼岸花と互角の凶暴さを持つ、@凶悪極悪の意地悪偽善妖怪なのじゃからなー！@/
+;「ならば決まりじゃ！@　私の力で、お前をこれより、クラス一のいじめられっこにしてやろうぞ！@　皆は正明のことなどケロリと忘れて、そなたをいじめることに夢中になろうぞ！@　……クラス全体とのいじめに、どう抗うか楽しみじゃ！！@　前は結果的に彼岸花に救われたが、……今度は同じ幸運は訪れぬぞ…？@　仮にやって来ても、もう好きにはさせぬ。@姉者は彼岸花と互角の凶暴さを持つ、@凶悪極悪の意地悪偽善妖怪なのじゃからなー！@/
+`"Then it's decided! `@`From here on I will use my power to make the class bully you! `@`Everyone will completely forget about Masaaki, and become engrossed in bullying you!`@`... I'm looking forward to seeing how you'll fight the bulling of an entire class!! `@`Before, you were consequently saved by Higanbana... but can you expect the same stroke of good luck this time around...? `@`Even if it does happen, don't expect us to allow you to have your way for long. `@`My sister's brutality is on par with Higanbana's. `@`She's a diabolical, heinous, malicious and hypocritical youkai!`@/
 se1 48
 quakey 1,100
-　ふぎーー？！」\
-
+;　ふぎーー？！」\
+` fugye--?"`\
 cl r,0
 ld c,AZA_D6,24
 
@@ -4977,60 +4983,65 @@ quakex 1,100
 
 ld c,AZA_D7,80
 
-「誰ガ偽善デス、ダ・レ・ガ～～～！！」@
-
+;「誰ガ偽善デス、ダ・レ・ガ～～～！！」@
+`"W h o are you calling a hypocrite~~~?!"`@
 ld l,SMI_i1,80
 
-「痛たたたたたッ、姉者ぁあぁぁぁぁ痛い痛い痛い……！！」@
+;「痛たたたたたッ、姉者ぁあぁぁぁぁ痛い痛い痛い……！！」@
+`"Owowowowow, SisterrrrraaaaOUCHOuchouch...!!"`@
 cl l,22
 br
-　アザミがびろーんとお餅のように、スミレの頬を抓って伸ばす。\
-
+;　アザミがびろーんとお餅のように、スミレの頬を抓って伸ばす。\
+` Azami stretched out Sumire's cheeks liken two balls of mochi.`\
 textoff
 fedexx 70,50,0,0,0,0,2000
 
-　……しかし、由香里の決意は揺るがない。\
-
+;　……しかし、由香里の決意は揺るがない。\
+` ...But Yukari's determination did not falter.`\
 ld c,AZA_D1,80
 
-「良いのですね？　由香里。@　……ならば、あなたの望み。@妾たちが叶えてあげましょう。」\
-
+;「良いのですね？　由香里。@　……ならば、あなたの望み。@妾たちが叶えてあげましょう。」\
+`"Is that fine with you, Yukari?`@`... If so, `@`we will grant your wish."`\
 ld r,YUK_i2a,22
 
-「………私が絶対、……このクラスからいじめをなくして見せます。」\
-
+;「………私が絶対、……このクラスからいじめをなくして見せます。」\
+`"....I will definitely... remove the bullying from this class."`\
 ld c,AZA_D2,80
 
-「くす。@……その威勢、どれだけ続くか見せてもらいますよ。@妾はいつもあなたの側で見守っています。@……もしあなたがいじめに屈し、いじめられっこを返上したいと思ったなら。@いつでも妾を呼ぶとよいでしょう。@……そうしたら、あなたにも魔法のアザミを授けてあげますよ。@……あなたにも、いじめの愉悦。@……たっぷりと教えてあげましょうとも。@……くす、……うふふふふふふふふ…………。」\
-
+;「くす。@……その威勢、どれだけ続くか見せてもらいますよ。@妾はいつもあなたの側で見守っています。@……もしあなたがいじめに屈し、いじめられっこを返上したいと思ったなら。@いつでも妾を呼ぶとよいでしょう。@……そうしたら、あなたにも魔法のアザミを授けてあげますよ。@……あなたにも、いじめの愉悦。@……たっぷりと教えてあげましょうとも。@……くす、……うふふふふふふふふ…………。」\
+`"*Giggle*`@`... Show us how long you can keep up that strength. `@`I will always be by your side, watching you.`@`... If you ever can't handle the bullying anymore and want to get some payback on your bullies, `@`you can call me at any time.`@`... When you do, I will grant you a magical thistle.`@`... Even you can learn the joy of bullying.`@`... And if you want to, I can certainly teach it to you.`@`... *giggle*... Ufufufufufu......"`\
 cl c,2
 
 fede 10,1000
 E_MA
 
-　スミレの頬を抓り上げたまま、アザミたちはすぅっと姿を消す。@
+;　スミレの頬を抓り上げたまま、アザミたちはすぅっと姿を消す。@
+` While still pinching Sumire's cheeks, the two of them disappeared.`@
 br
-　そして、由香里は体の中に、じわりと嫌な感覚が染み渡るのを感じた。\
-
+;　そして、由香里は体の中に、じわりと嫌な感覚が染み渡るのを感じた。\
+` And Yukari felt an awful feeling spread throughout her body.`\
 ld r,YUK_d4a,80
 
-　……この感覚、……覚えてる。@
+;　……この感覚、……覚えてる。@
+` ...She remembered... this feeling.`@
 br
-　私はまた、……いじめられっこに、……戻ったんだ………。\
-
+;　私はまた、……いじめられっこに、……戻ったんだ………。\
+` I have... once again... become the target of bullying...."`\
 bg black,22
 bg kyou_03,22
 
 me1v 24,50
 
-「……み、みんな……！@　吉川くんをいじめるのを止めて……！」@
+;「……み、みんな……！@　吉川くんをいじめるのを止めて……！」@
+`"...E-Everyone...! `@`Stop bullying Yoshikawa-kun...!"`@
 br
-　由香里がそう叫ぶと、みんながぎょろりと振り返り、……不満げに睨みつける。\
+;　由香里がそう叫ぶと、みんながぎょろりと振り返り、……不満げに睨みつける。\
+` As she yelled at them, each and every one of them slowly turned their heads... and gave her a dismal stare.`\
 
-
-　そして、悪党を庇うなら榊由香里も悪党だと口々に叫び、@……その矛先を正明から由香里を変えた。@
-　クラスメートたちは、何かに取り憑かれたかのように、@由香里を取り囲んで、口々に罵声を浴びせ、小突いたり蹴ったりする。\
-
+;　そして、悪党を庇うなら榊由香里も悪党だと口々に叫び、@……その矛先を正明から由香里を変えた。@
+` And then, because she was defending a villain, she started all started yelling at Yukari Sakaki like she was a villain too.`@`... and they changed the target of their attack from Masaaki to Yukari.`@
+;　クラスメートたちは、何かに取り憑かれたかのように、@由香里を取り囲んで、口々に罵声を浴びせ、小突いたり蹴ったりする。\
+` As if possessed by something, `@`all of the classmates gathered around Yukari, and engulfed with ridicule and pushed and kicked at her.`\
 se1 13
 quakey 2,200
 wait 200
@@ -5040,14 +5051,17 @@ quakex 3,300
 bg black,22
 bg kyou_01,22
 
-　彼らの突然の変わりように、正明は呆然とする……。@
+;　彼らの突然の変わりように、正明は呆然とする……。@
+` Masaaki was stunned at how abruptly they moved on from him...`@
 br
-　見る見るうちに、人だかりは正明を無視して、由香里を取り囲むものになっていく。@
-　いじめを止めるように説く由香里だが、誰も耳を貸すわけもなかった。\
-
+;　見る見るうちに、人だかりは正明を無視して、由香里を取り囲むものになっていく。@
+` Before their eyes, the entire crowd disregarded Masaaki, and went straight to surrounding Yukari.`@
+;　いじめを止めるように説く由香里だが、誰も耳を貸すわけもなかった。\
+` Yukari tried to persuade them to stop bullying, but none of them would lend her an ear.`\
 ld l,YOS_D10a,22
 
-「………お、……お前ら、……何してんだよ……。@……や、……止めろよ………。」@
+;「………お、……お前ら、……何してんだよ……。@……や、……止めろよ………。」@
+`"....W-... What... are you guys doing....`@`...No.... Stop it....."`@
 br
 　正明はおずおずと小声で言うが、@……いじめの熱気で頭に血を上らせた彼らの耳に、それが届くわけもなかった………。\
 
