@@ -5063,8 +5063,8 @@ ld l,YOS_D10a,22
 ;「………お、……お前ら、……何してんだよ……。@……や、……止めろよ………。」@
 `"....W-... What... are you guys doing....`@`...No.... Stop it....."`@
 br
-　正明はおずおずと小声で言うが、@……いじめの熱気で頭に血を上らせた彼らの耳に、それが届くわけもなかった………。\
-
+;　正明はおずおずと小声で言うが、@……いじめの熱気で頭に血を上らせた彼らの耳に、それが届くわけもなかった………。\
+` Masaaki nervously spoke in a small voice.`@`... but they were so absorbed in madly bullying the girl, that they didn't hear him.....`\
 bg black,2
 
 fede 10,2000
@@ -5072,15 +5072,17 @@ E_MA
 
 bg gakkou_02,2
 
-　由香里への、クラス全体のいじめは、その後も執拗に続いた。@
-　そんな日々が積み重なり、……すでに十日以上が過ぎていた。@
+;　由香里への、クラス全体のいじめは、その後も執拗に続いた。@
+` The entire class continued to relentlessly bully Yukari.`@
+;　そんな日々が積み重なり、……すでに十日以上が過ぎていた。@
+` Days passed... and before long ten days had already passed.`@
 br
-　数々の乱暴をされ、生傷も絶えず、絆創膏を貼った顔が痛々しい。\
-
+;　数々の乱暴をされ、生傷も絶えず、絆創膏を貼った顔が痛々しい。\
+` They were always attacking her and leving countless painful looking wounds. Her face was always covered in bandages.`\
 bg black,22
 
-　とぼとぼと下校する彼女を追い、正明は声を掛ける……。\
-
+;　とぼとぼと下校する彼女を追い、正明は声を掛ける……。\
+` Masaaki caught up with her as she wearily walk home, and called out to her...`\
 fede 0,1000
 E_A
 
@@ -5089,8 +5091,8 @@ ld l,YOS_D1,23
 
 me1v 5,50
 
-「………榊………。」\
-
+;「………榊………。」\
+`"...Sakaki...."`\
 ld r,YUK_D2,2
 
 fede 0,1000
@@ -5098,163 +5100,176 @@ E_A
 
 ld r,YUK_D4,22
 
-「吉川くん。@…………何……？」@
-
+;「吉川くん。@…………何……？」@
+`"Yoshikawa-kun.`@`...... What is it...?"`@
 ld l,YOS_D3a,80
 
-「………………。」\
-
+;「………………。」\
+`"........"`\
 bgm1 24
 
-　いじめを憎み、決して怯まぬ決意を常に顔に浮かべていた彼女の顔が、@……痛々しいくらいに変わり果てていた。\
+;　いじめを憎み、決して怯まぬ決意を常に顔に浮かべていた彼女の顔が、@……痛々しいくらいに変わり果てていた。\
+` The face of the girl, who once hated bullying and refused to ever falter in the face of bringing it down... `@`now looked enitrely too pitiful.`\
 
-
-　あれだけ毎日、酷いいじめに遭っているのだ。@……彼女の世界が今、どれほど暗く窮屈なものか、正明には容易に想像できた。\
-
+;　あれだけ毎日、酷いいじめに遭っているのだ。@……彼女の世界が今、どれほど暗く窮屈なものか、正明には容易に想像できた。\
+` After having to endure such horrible bullying every day.`@`... Masaaki could easily imagine how dark and constrained her world must have felt right now.`\
 ld l,YOS_D2,80
 
-「……き、……聞いたぜ。@……あの、妖怪たちに。」@
+;「……き、……聞いたぜ。@……あの、妖怪たちに。」@
+`"I-... I heard what you did.`@`... from those youkai."`@
 br
-　正明はスミレに聞かされていた。@由香里が、彼を庇うために望んでいじめられっこに堕ちたことを。\
-
+;　正明はスミレに聞かされていた。@由香里が、彼を庇うために望んでいじめられっこに堕ちたことを。\
+` Masaaki asked Sumire what had happened. `@`She told him about how Yukari wished to take the bullying upon herself in order to protect him.
 ld r,YUK_w3,80
 
-「………私、いじめは絶対、許さないから。」@
+;「………私、いじめは絶対、許さないから。」@
+`"....I will never allow bullying."`@
 br
-　由香里はそう言って、強がるように微笑んだ。@
-　それがかえって痛々しくて、正明の胸が締め付けられた。\
-
+;　由香里はそう言って、強がるように微笑んだ。@
+` Yukari replied with a smile on her face, pretending to be strong.`@
+;　それがかえって痛々しくて、正明の胸が締め付けられた。\
+` But that made her all the more pitiful, and made Masaaki's chest tighten up.`\
 ld l,YOS_D3a,80
 
-「ぜ、………全部、俺のせいだ……。@俺が調子に乗って、……たくさん酷いことをしたから………。」@
-
+;「ぜ、………全部、俺のせいだ……。@俺が調子に乗って、……たくさん酷いことをしたから………。」@
+`"I-..... It was all my fault... `@`I got carried away... and did a lot of horrible things...."`@
 ld r,YUK_w4,80
 
-「そうだね。@……多少の仕返しならともかく。@少し、やり過ぎちゃったね……。」\
-
+;「そうだね。@……多少の仕返しならともかく。@少し、やり過ぎちゃったね……。」\
+`"That's right.`@`... It would have been fine if you just settled for a little payback. `@`But, you kind of overdid it..."`\
 cl l,0
 ld c,YOS_D10a,23
 
-「……だとしたら、そのやり過ぎた分をやられるのは、俺の役目だ。@……榊の役目じゃねぇ……。」@
-
+;「……だとしたら、そのやり過ぎた分をやられるのは、俺の役目だ。@……榊の役目じゃねぇ……。」@
+`"...So I should be the one who has to pay for overdoing it.`@`... Not you, Sakaki..."`@
 ld r,YUK_w3,80
 
-「言ったでしょ。@私はいじめが大嫌いなの。@……だから、吉川くんが皆にいじめられるところなんて、絶対に見たくなかったの。」\
-
+;「言ったでしょ。@私はいじめが大嫌いなの。@……だから、吉川くんが皆にいじめられるところなんて、絶対に見たくなかったの。」\
+`"I already told you. `@`I hate bullying.`@`... So I absolutely couldn't stand to see you bullied by everyone."`\
 ld c,YOS_D10n,80
 
-「だ、……だからって、………自分がいじめられるのかよ……。」@
-
+;「だ、……だからって、………自分がいじめられるのかよ……。」@
+`"So.... what?.... You're just going to let yourself get bullied...?"`@
 ld r,YUK_D4,80
 
-「私だって、ただいじめられてるわけじゃないよ。@みんなに、……こんなこと止めようって、@……お願いしてるよ。」\
-
+;「私だって、ただいじめられてるわけじゃないよ。@みんなに、……こんなこと止めようって、@……お願いしてるよ。」\
+`"I'm not just letting myself get bullied. `@`I'm... trying to ask everyone... `@`to please stop bullying."`\
 ld c,YOS_D12,80
 
-「……でも、あいつら耳を貸さねぇ。@榊が何を言ったって、いじめを止める気はねぇ……！」@
-
+;「……でも、あいつら耳を貸さねぇ。@榊が何を言ったって、いじめを止める気はねぇ……！」@
+`"...But, they won't listen to you. `@`They just ignore you and keep on bullying...!"`@
 ld r,YUK_D2,80
 
-「……………………。@……そうみたいだね。」@
+;「……………………。@……そうみたいだね。」@
+`"..........`@`...It appears so."`@
 br
-　由香里も、それを認めつつあった。\
-
+;　由香里も、それを認めつつあった。\
+` Yukari was in the process of admiting that to herself as well.`\
 bg black,22
 
-　……いじめは許さない。@
-　そして、いじめに抗いたい。@戦いたい。@
+;　……いじめは許さない。@
+` ...She wouldn't allow bullying.`@
+;　そして、いじめに抗いたい。@戦いたい。@
+` And she wanted to oppose bullying. `@`To fight it.`@
 br
-　その気持ちは、今もわずかほども揺るぎはしない。\
+;　その気持ちは、今もわずかほども揺るぎはしない。\
+` She still firmly held those beliefs.`\
 
-
-　……しかし、認めつつあるのだ。@
+;　……しかし、認めつつあるのだ。@
+` ...But she was beginning to admit it to herself.`@
 br
-　今起こっているいじめを止める方法は、……存在しないのかもしれない。\
-
+;　今起こっているいじめを止める方法は、……存在しないのかもしれない。\
+` There may be no real way... to stop the bullying happening to her right now.`\
 bg roji_03,22
 
 me1v 16,50
 
-「……いじめってさ。@ババ抜きのジョーカーに似てるよね。」@
-「…………………………。」\
+;「……いじめってさ。@ババ抜きのジョーカーに似てるよね。」@
+`"...You know. `@`Bullying is a lot like the joker in old maid."`@
+;「…………………………。」\
+`"............"`\
 
+;「最初、君がいじめられてた。@いじめのジョーカーを渡されてた。@そして君はいじめっこになって、そのジョーカーを彼らに渡し返した。@……いじめを止めろと、言うだけなら容易い。@でも、止めたら、ジョーカーを持たされた子は、どうすればいいの。@………いじめられて悔しい悲しい思いをしたまま、ひっそりと我慢して生きていけなんて、@誰に言う権利があるっていうの。」\
+`"At first you were the one who was being bullied. `@`You were dealt the joker of bullying. `@`And then you became the bully, and you gave the joker to those guys.`@`... It's easy to just tell people to stop bullying. `@`But when it does stop, what are you supposed to do about the kid that gets handed the joker next?`@`.... Who's to say, `@`who should be the one to silently endure a life of frustrating and sorrowful bullying?"`\
 
-「最初、君がいじめられてた。@いじめのジョーカーを渡されてた。@そして君はいじめっこになって、そのジョーカーを彼らに渡し返した。@……いじめを止めろと、言うだけなら容易い。@でも、止めたら、ジョーカーを持たされた子は、どうすればいいの。@………いじめられて悔しい悲しい思いをしたまま、ひっそりと我慢して生きていけなんて、@誰に言う権利があるっていうの。」\
-
-
-「…………………………。」\
-
+;「…………………………。」\
+`"............."`\
 bg black,22
 
-「誰かがジョーカーを押し付けられなければいけない。@当然、誰もジョーカーなんか受け取りたくない。@……人間は誰だって、幸せに生きる権利があるんだよ。@……誰にだって、ジョーカーを受け取り、抱え込まなければならない義理なんてない。」\
-
+;「誰かがジョーカーを押し付けられなければいけない。@当然、誰もジョーカーなんか受け取りたくない。@……人間は誰だって、幸せに生きる権利があるんだよ。@……誰にだって、ジョーカーを受け取り、抱え込まなければならない義理なんてない。」\
+`"Someone must always be holding the joker. `@`Naturally, no one wants to have the joker.`@`... Everyone has the right to live a happy life.`@`... But no one wants to take it upon themselves to hold the joker once they receive it."`\ 
 bg roji_02,22
 ld r,YOS_D8a,24
 
-「……だったら、榊が抱え込むこともねぇじゃねぇか…！」\
-
+;「……だったら、榊が抱え込むこともねぇじゃねぇか…！」\
+`"...So you don't want to be holding it either, right Sakaki...?!"`\
 mld l,YUK_D4,22
 mld l,YUK_D2a,80
 
-「そうだね。@……じゃあ、私は誰にそれを渡すの？@　……私から、いじめのジョーカーを誰かに渡すってことは、@……それって、私がその子をいじめるのも、同じことだよね…？@　だから、吉川くんにだって、それを渡したくない。@だって私は、……いじめが、絶対に許せないから。」\
-
+;「そうだね。@……じゃあ、私は誰にそれを渡すの？@　……私から、いじめのジョーカーを誰かに渡すってことは、@……それって、私がその子をいじめるのも、同じことだよね…？@　だから、吉川くんにだって、それを渡したくない。@だって私は、……いじめが、絶対に許せないから。」\
+`"That's right.`@`... But who would I pass it on to?`@`... If I pass my joker of being bullied onto someone else... `@`wouldn't that be the same as bullying them myself...? `@`So, I don't want to pass it back onto you. `@`Because... I will never allow bullying."`\
 ld r,YOS_D3a,80
 
-「……………………………。」\
-
-　いじめのジョーカーが生まれてしまったら、@……人間に出来るのは、それをババ抜きのようにして押し付けあうことだけだ。\
-　……かつての由香里はそのジョーカーを、@……クラスがバスごとの事故で全員死亡するという形で、失わせることも出来た。@
+;「……………………………。」\
+`"............."`\
+;　いじめのジョーカーが生まれてしまったら、@……人間に出来るのは、それをババ抜きのようにして押し付けあうことだけだ。\
+` Once the joker being bullied has been created... `@`just like in old maid, humans can only pass it among themselves.`\
+;　……かつての由香里はそのジョーカーを、@……クラスがバスごとの事故で全員死亡するという形で、失わせることも出来た。@
+` ...Back when Yukari held that joker before... `@`Her class got into an accident while on the bus and they all died, and she was able to get rid of it.`@
 br
-　つまりそれは、…………いじめのババ抜きは、@「死」でしか、終わりに出来ないということ……？\
-
+;　つまりそれは、…………いじめのババ抜きは、@「死」でしか、終わりに出来ないということ……？\
+` So basically... does that mean, `@`that to get rid of the bullying old maid, they must die...?`\
 cl r,0
 ld c,YOS_D10n,24
 
-「ふ、……ふざけんなよ……。@誰かが死ななきゃ、……いじめの連鎖は終わらねぇってわけなのかよ……。」\
-
+;「ふ、……ふざけんなよ……。@誰かが死ななきゃ、……いじめの連鎖は終わらねぇってわけなのかよ……。」\
+`"D-... Don't think that way... `@`Having someone die... isn't the way to stop the chain..."`\
 mld l,YUK_D3,80
 
-「他に方法はないかって、……私もずっと考えてるよ。@……そして、思い付いたのがこれだった。」\
+;「他に方法はないかって、……私もずっと考えてるよ。@……そして、思い付いたのがこれだった。」\
+`"I've been thinking about it for a while... `@`and the conclusion that I've come to is that there is no other way."`\
 mcl l,22
 
-　自己犠牲。@……いじめの、生贄。\
-
+;　自己犠牲。@……いじめの、生贄。\
+` Self-sacrifice.`@`... A scapegoat for bullying.`\
 ld c,YOS_D13,22
 
-　……ふざけんな。@
-　そのババ抜きに、どうして榊みたいないいヤツが犠牲にならなきゃいけねぇんだ……。\
+;　……ふざけんな。@
+` ...Damn it.`@
+;　そのババ抜きに、どうして榊みたいないいヤツが犠牲にならなきゃいけねぇんだ……。\
+` Why does someone like Sakaki have to sacrifice herself for this game of old maid...`\
 
-
-　どうせ犠牲になるなら、クソッタレで最低なヤツがジョーカーを引き受ければいい。@例えば俺だっ。@……断じて榊なんかじゃねぇ…！@
+;　どうせ犠牲になるなら、クソッタレで最低なヤツがジョーカーを引き受ければいい。@例えば俺だっ。@……断じて榊なんかじゃねぇ…！@
+` If anyone has to be the sacrifice, it should be some worthless piece of trash kid. `@`Like me for example.`@`... Just not Sakaki of all people...!"`@
 br
-　正明は由香里の悲壮な決意に、涙を浮かべる……。\
-
+;　正明は由香里の悲壮な決意に、涙を浮かべる……。\
+` The tragic, yet heroic, resolve of Yukari brought tears to Masaaki's eyes...`\
 bg black,24
 bg roji_05,24
 ld r,YUK_D1,22
 
-「……最近、わかったの。@いじめのジョーカーは、生み出されたらもう、……どうしようもない。」@
-
+;「……最近、わかったの。@いじめのジョーカーは、生み出されたらもう、……どうしようもない。」@
+`"...Recently, I've realized. `@`Once the joker of bullying has been created... there's nothing we can do."`@
 ld l,YOS_D13,22
 
-「………………………。」\
-
+;「………………………。」\
+`"..........."`\
 ld r,YUK_w3,80
 
-「みんなで回して、いじめのバトンリレーをするか。@全てのジョーカーを誰か一人に集めて、残りの全員が幸せになるユートピアか、@……そのどちらかしかないの。」\
-
+;「みんなで回して、いじめのバトンリレーをするか。@全てのジョーカーを誰か一人に集めて、残りの全員が幸せになるユートピアか、@……そのどちらかしかないの。」\
+`"Either it's like a relay race, and everyone passes around the bullying baton between each other. `@`Or one person ends up getting all the jokers and everyone else lives happily in their utopia.`@`.... Those are the only options."`\
 ld l,YOS_D14,80
 
-「……いじめが生まれた時点で、……必ず誰かが不幸になる。@それが救われても、次の誰かが……犠牲になるっ……。」\
-
+;「……いじめが生まれた時点で、……必ず誰かが不幸になる。@それが救われても、次の誰かが……犠牲になるっ……。」\
+`"...When the bullying starts... someone becomes happy. `@`And then, even if they're saved, someone else... becomes a sacrifice..."`\
 bg black,22
 bg roji_06,22
 
-「そう。@いじめのジョーカーが生まれた時点で、@……そのババ抜きは、誰かを犠牲にするまで、決して終わらないの。@……それが、クラスや学年、学校全体、……あるいはこの世の全てをぐるぐる、ぐるぐると巡って、悲しみを連鎖させているの。@……生まれたジョーカーは、……どうしようもない……。」\
+;「そう。@いじめのジョーカーが生まれた時点で、@……そのババ抜きは、誰かを犠牲にするまで、決して終わらないの。@……それが、クラスや学年、学校全体、……あるいはこの世の全てをぐるぐる、ぐるぐると巡って、悲しみを連鎖させているの。@……生まれたジョーカーは、……どうしようもない……。」\
+`"That's right. `@`Once the joker is born.... `@`that game of old maid will indefinitely continue on until someone becomes a sacrifice.`@`... That chain of sorrow circles around every class, every year, throughout the entire school... and even throughout this entire world.`@`... Once the joker is born... there is nothing we can do..."`\
 
-
-「…………………榊………。」\
-
+;「…………………榊………。」\
+`"..........Sakaki....."`\
 bg black,22
 
 fede 10,1000
@@ -5266,10 +5281,11 @@ bg roji_05,22
 
 ;ld r,YUK_D1,80
 
-「……いじめに抗うのなんて、……不可能だったかもしれない。@……ひょっとしたら、……私は大きな勘違いを、……していたのかもしれない……。」\
+;「……いじめに抗うのなんて、……不可能だったかもしれない。@……ひょっとしたら、……私は大きな勘違いを、……していたのかもしれない……。」\
+`"...It might be... impossible to oppose bullying.`@`... I may... have made... a huge mistake..."`\
 
-
-　それは、あまりに弱々しい言葉。@
+;　それは、あまりに弱々しい言葉。@
+` Those words were far too feeble.`@
 br
 　……由香里の心の、最後の拠り所に、亀裂が入ったかのようにさえ見えた……。\
 
