@@ -3817,10 +3817,11 @@ bg gakkou_01o,2
 
 fedexx 70,90,90,90,90,90,2000
 
-　血のように真っ赤な月が照らす、人ならざる夜の保健室で。@
+;　血のように真っ赤な月が照らす、人ならざる夜の保健室で。@
+` The red moon shone like blood into the infirmary in the world not of humans.`@
 br
-　踊る彼岸花と初めての犠牲者たちが、いつまでもいつまでも、明けない夜を踊り続けるのだった………。\
-
+;　踊る彼岸花と初めての犠牲者たちが、いつまでもいつまでも、明けない夜を踊り続けるのだった………。\
+` Here, The Dancing Higanbana's first victims danced for an endless night...`\
 bg black,2
 
 fede 0,3000
@@ -3835,24 +3836,27 @@ bg gakkou_03,0
 ld r,NON_D4a,22
 bgm1 17
 
-「そんなことがあったんですか……。」\
+;「そんなことがあったんですか……。」\
+`"Ah, that's what happened?"`\
 ;＜野々宮
 
 ld l,SH2_D2,22
 
-「一時は死のうとさえ考えたよ。@何しろ、僕には文字通り、世界が真っ暗だったわけだからね。@しかし、気付いたんだ。@……感情は、目で見るものじゃない。@心で感じるものなんだ、ってね。@目が見えなくたって、感情を受け止めることは出来る。@こうして僕にはまだ、耳があるんだからね。」\
+;「一時は死のうとさえ考えたよ。@何しろ、僕には文字通り、世界が真っ暗だったわけだからね。@しかし、気付いたんだ。@……感情は、目で見るものじゃない。@心で感じるものなんだ、ってね。@目が見えなくたって、感情を受け止めることは出来る。@こうして僕にはまだ、耳があるんだからね。」\
+`"I think that they died around one o'clock.`@`At any rate, the world became jet-black for me.`@`Then I realized.`@`...You don't need eyes to experience emotions.`@`You feel them with your heart. `@`Even if you can't see, you can still feel things.`@`I've been doing that, with my ears."`\
 ;＜大人秋一
 
 ld r,NON_D2,80
 
-「それで、……ピアニストに？」\
-
+;「それで、……ピアニストに？」\
+`"And so you became a pianist?"`\
 bg black,22
 
-　有森秋一は退院後、盲学校に通いながら、音楽を学び始めた。@
+;　有森秋一は退院後、盲学校に通いながら、音楽を学び始めた。@
+` After being discharged from the hospital, Shuuichi Arimori went to a school for the blind, where he started to study music.`@
 br
-　感情を彩り豊かに感じる、彼の稀な感受性は、目が失われても、失われることはなかったのだ。\
-
+;　感情を彩り豊かに感じる、彼の稀な感受性は、目が失われても、失われることはなかったのだ。\
+` Even though he had lost the sensitivity of his eyes which would feel such rich emotions, they weren't completely lost.`\
 bg Air_02,22
 
 「僕は感情を、今度は音楽で描くことにしたんだ。@……世界は灰色なんかじゃない。@喜怒哀楽、様々な感情に満ちている。@それを通すことで、同じものでも無限の輝きを見せてくれるんだ。@……それを僕は知ってる。@みんなに伝えたい。@確かに失明は、僕にとって辛い出来事ではあったけれど。@……神様が僕に与えてくれた、使命を全うする上では、何の障害にもならなかったと、今は思っているよ。」\
@@ -3867,40 +3871,44 @@ wait 1000
 bgmonce"bgm0\d_25.ogg"
 bgmvol 60
 
-　有森秋一。@
+;　有森秋一。@
+` Shuuichi Arimori.`@
 br
-　全盲のピアニスト。@
+;　全盲のピアニスト。@
+` The blind pianist.`@
 　彼のピアノは、同じ楽譜からでも万華鏡の如き千変万化の音楽世界を奏で出すという。@
 br
-　その彼が、卒業生として招かれ、体育館で生徒たちに講演を行なったのだ。\
-
+;　その彼が、卒業生として招かれ、体育館で生徒たちに講演を行なったのだ。\
+` He, as a graduate was invited to make a presentation to the students in the gymnasium.`\
 bg gakkou_03,0
 mld c,SH2_D2,22
 
-「僕が伝えたかったのはね、目や耳の話じゃない。@感情の話なんだよ。@本来、世界は灰色なんだ。@ところが、僕たちの心が感情という絵の具を得て、世界を美しく着色してくれているんだよ。@………どのようなものであれ、感情は楽しむべきなんだ。@そしてそれこそが、生きていることの証なんだと、僕は思ってる。@……それが、子供たちに伝わってるといいんだけど。」\
-
+;「僕が伝えたかったのはね、目や耳の話じゃない。@感情の話なんだよ。@本来、世界は灰色なんだ。@ところが、僕たちの心が感情という絵の具を得て、世界を美しく着色してくれているんだよ。@………どのようなものであれ、感情は楽しむべきなんだ。@そしてそれこそが、生きていることの証なんだと、僕は思ってる。@……それが、子供たちに伝わってるといいんだけど。」\
+`"The story I want to tell you is not of my ears or my eyes.`@`It is a story of feelings.`@`Originally, the world was ash-colored.`@`But our hearts turned the world beautiful through the pigment of emotion.`@`Whatever the feeling, you should enjoy them.`@`Just that, I though, was proof of living.`@`That's what I wanted to tell you kids."`\
 ld l,NON_D2,23
 
-「伝わりましたよ。@僕は、とても大切な話を聞けたと思っています。」@
-
+;「伝わりましたよ。@僕は、とても大切な話を聞けたと思っています。」@
+`"I've told it to you.`@`You've heard by important story."`@
 mcl c,0
 ld c,SH2_D1,80
 
-「そうかい？@　なら、ありがとう。@……ところで、そろそろ時間かな？」\
-
+;「そうかい？@　なら、ありがとう。@……ところで、そろそろ時間かな？」\
+`"Oh yes?`@`Well, thank you then.`@`By the way, can I go yet?"`\
 ld l,NON_D6,80
 
-「あ、……はい。@じゃあ、職員室にご案内しますね。」\
-
+;「あ、……はい。@じゃあ、職員室にご案内しますね。」\
+`"Ah, yes.`@`Well, I'll guide you to the staff room."`\
 
 
 bg black,26
 bg gakkou_02,2
 
-　木陰に座っていた秋一は、砂埃を払いながら、ゆっくりと立ち上がる。@
-　そして、ふと足を止め、校舎を見上げた。\
-
-「…………………………………。」\
+;　木陰に座っていた秋一は、砂埃を払いながら、ゆっくりと立ち上がる。@
+` Shuuichi, sitting in the shade of a tree, stood up slowly, dusting himself off.`@
+;　そして、ふと足を止め、校舎を見上げた。\
+` Then he stopped walking and suddenly looked up at the school.`\
+;「…………………………………。」\
+`".................."`\
 ;＜修一
 
 mov %hig_isyou,1
@@ -3908,47 +3916,50 @@ bg black,22
 bg okujou_02,0
 ld c,HIG_w1,22
 
-「………………。」@
+;「………………。」@
+`"..........."`@
 ;＜彼岸花
 br
-　見えるはずのない目で、屋上の柵に腰掛けた彼岸花を見上げる。\
-
+;　見えるはずのない目で、屋上の柵に腰掛けた彼岸花を見上げる。\
+` With eyes he should not be able to see out of, he looked up at Higanbana sitting on the fence around the rooftop.`\
 bg black,22
 ld_p SH2_D2
 lsp2 2,$ld_pass,500,480,-200,200,0
 lsp2 3,$ld_pass2,500,480,-200,200,0
 print 22
-　……久し振りだね。@
+;　……久し振りだね。@
+` ...It's been a while.`@
 br
-　どうだい。@今の君は、感情を楽しんでいるかい？\
-
+;　どうだい。@今の君は、感情を楽しんでいるかい？\
+` So how's it going?`@`Can you now enjoy emotions?`\
 ld_p HIG_w3
 lsp2 4,$ld_pass,180,480,200,200,0
 lsp2 5,$ld_pass2,180,480,200,200,0
 print 22
 
 
-　お陰様で。@毎日、面白おかしいことばかりで退屈しないわ。\
-
+;　お陰様で。@毎日、面白おかしいことばかりで退屈しないわ。\
+` Thanks to you.`@`Every day I'm never bored thanks to strange and funny things.`\
 csp2 -1
 print 0
 bg black,22
 bg okujou_02,0
 ld c,HIG_w3,22
 
-　秋一は手を引かれながら、去っていく。@
+;　秋一は手を引かれながら、去っていく。@
+` Shuuichi, with his hand out, went away.`@
 br
-　彼岸花はその後姿を見送る。\
-
+;　彼岸花はその後姿を見送る。\
+` Higanbana watched over him.`\
 ld c,HIG_d2,80
 
-「夜の闇をもっと深く。@だからこそ、陽の明るさが、より美しくなるのだから。」@
-
+;「夜の闇をもっと深く。@だからこそ、陽の明るさが、より美しくなるのだから。」@
+`"The darkness of the night is deeper.`@`And because of that, the brightness of the sun is more beautiful."`@
 cl c,2
 
 br
-　彼岸花はふわりと姿を消すのだった。\
-
+;　彼岸花はふわりと姿を消すのだった。\
+` And Higanbana disappeared gently.`\
 
 bg black,22
 
