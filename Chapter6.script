@@ -5287,82 +5287,87 @@ bg roji_05,22
 ;　それは、あまりに弱々しい言葉。@
 ` Those words were far too feeble.`@
 br
-　……由香里の心の、最後の拠り所に、亀裂が入ったかのようにさえ見えた……。\
-
+;　……由香里の心の、最後の拠り所に、亀裂が入ったかのようにさえ見えた……。\
+` ...It seemed like the last foundations of Yukari's heart had started to crack...`\
 ld l,YOS_D13,22
 
-「な、………なら……。」@
-
+;「な、………なら……。」@
+`"T-.... then..."`@
 ld r,YUK_D2,22
 
-「…………何……？」\
-
+;「…………何……？」\
+`"......What...?"`\
 ld l,YOS_D14,80
 
-「い、いじめがどうにも出来ないババ抜きだって言うなら…！！@　お前だって、それを誰かに押し付けていいんだっ。@お前が犠牲になる義理なんてねぇんだ…！！」@
-
+;「い、いじめがどうにも出来ないババ抜きだって言うなら…！！@　お前だって、それを誰かに押し付けていいんだっ。@お前が犠牲になる義理なんてねぇんだ…！！」@
+`"I-If it's like a game of old maid...!! `@`You just have to pass it on to someone else. `@`You don't have to be the one to sacrifice yourself...!!"`@
 ld r,YUK_D3,80
 
-「………………………。」\
-
+;「………………………。」\
+`"............."`\
 cl l,0
 ld c,YOS_D14,23
 
-「……今の榊は、紛れもないいじめられっこだ。@……今のお前になら、絶対に見つけられるはずだ。@……あの、……魔法のアザミを……！」@
-
+;「……今の榊は、紛れもないいじめられっこだ。@……今のお前になら、絶対に見つけられるはずだ。@……あの、……魔法のアザミを……！」@
+`"...Right now you are undoubtably being bullied.`@`... So right now, you should be able to find one.`@`... find... a magical thistle...!"`@
 ld r,YUK_D2,80
 
-「…………………………。」\
-
+;「…………………………。」\
+`"............"`\
 bg black,26
 bg roji_03,26
 
-「アザミさん！！@　聞こえてるなら姿を見せてくれ…！！@　そして榊に、あの魔法のアザミを授けてくれッ！！」@
+;「アザミさん！！@　聞こえてるなら姿を見せてくれ…！！@　そして榊に、あの魔法のアザミを授けてくれッ！！」@
+`"Azami-san!! `@`If you can hear me, show yourself...!! `@`And give a magical thistle to Sakaki!!"`@
 br
-　正明は叫ぶ。@
-　すぐに笑い声と共に、アザミとスミレの姉妹が姿を現す。\
-
+;　正明は叫ぶ。@
+` Masaaki called for her.`@
+;　すぐに笑い声と共に、アザミとスミレの姉妹が姿を現す。\
+` And instantly, two sets of laughter were heard, and the sisters Azami and Sumire appeared.`\
 ld c,SMI_w1,0
 ld r,AZA_D1,2
 
 ld r,AZA_D2,80
 
-「くす。@今の由香里は立派ないじめられっこ。@……望むのならば、授けても良いのですよ。」\
+;「くす。@今の由香里は立派ないじめられっこ。@……望むのならば、授けても良いのですよ。」\
+`"*Giggle* `@`Yukari has become a splendid bullied child.`@`... If she wishes it, I will give her one."`\
 
-
-「榊っ。@魔法のアザミを食うんだ…！！@　あれを食えばすぐにもいじめっこになれる…！@　誰にもいじめられなくなる…！！」\
-
+;「榊っ。@魔法のアザミを食うんだ…！！@　あれを食えばすぐにもいじめっこになれる…！@　誰にもいじめられなくなる…！！」\
+`"Sakaki! `@`Eat a magical Thistle...!! `@`If you eat one, you'll instantly be made into a bully...! `@`You'll never be bullied by anyone again...!!"`\
 ld c,SMI_w3,80
 
-「ふっひはははははは！！@　これは面白いのじゃ！@　あの、いじめを憎むと豪語しよった由香里がいじめっこに目覚めるとは、実に面白いのじゃ…！！」\
-
-「………いじめられなくなるかもしれないけど、@……今度は、……私が誰かをいじめちゃうんだよね………。」\
-
+;「ふっひはははははは！！@　これは面白いのじゃ！@　あの、いじめを憎むと豪語しよった由香里がいじめっこに目覚めるとは、実に面白いのじゃ…！！」\
+`"Fuhihahahahaha!! `@`How interesting! `@`Awakening Yukari, who used to brag about hating bullying, to the pleasures of it, how interesting...!"`\
+;「………いじめられなくなるかもしれないけど、@……今度は、……私が誰かをいじめちゃうんだよね………。」\
+`"....It may save me from th ebullying... `@`But... it will also mean that I will start bullying someone myself this time, right.....?"`\
 ld c,SMI_w5,80
 
-「うむ。@姉者のアザミを口にすれば、いじめっことして覚醒することになるのじゃ！」@
-
+;「うむ。@姉者のアザミを口にすれば、いじめっことして覚醒することになるのじゃ！」@
+`"Yes. `@`If you eat my sister's thistles, you will be awakened as a bully!"`@ 
 ld r,AZA_D3,80
 
-「内より湧き出す覇気と暴力。@……これまでのあなたではいられませんよ。」\
-
+;「内より湧き出す覇気と暴力。@……これまでのあなたではいられませんよ。」\
+`"Your ambitions and violence will overflow from you.`@`... You will not be able to remain as the same person you have been thus far."`\
 bg black,22
 
 me1v 5,50
 
 bg aka1,22
 
-　それは正明もよく知っている。@
-　あのアザミを食べれば、次の日より、まったくの別人として生まれ変わってしまう。@
+;　それは正明もよく知っている。@
+` Masaaki knew that very well.`@
+;　あのアザミを食べれば、次の日より、まったくの別人として生まれ変わってしまう。@
+` Once he ate the thistle, the very next day he was reborn as a completely different person.`@
 br
-　……いじめを誰よりも憎む由香里ですら、その豹変には抗えないのだ。\
-
+;　……いじめを誰よりも憎む由香里ですら、その豹変には抗えないのだ。\
+` ...Even though Yukari hates bullying more than anyone else, that will not save her from undergoing a complete change.`\
 bg black,22
 
-　しかし、それでもいい。@
+;　しかし、それでもいい。@
+` But, that's fine.`@
 br
-　彼女はいじめられるべき人間ではないのだ。@だから彼女は、魔法のアザミを口にしなくてはならない……。\
-
+;　彼女はいじめられるべき人間ではないのだ。@だから彼女は、魔法のアザミを口にしなくてはならない……。\
+` She shouldn't be someone who's bullied in the first place. `@`So she has to eat the magical thistle...`\
 bg roji_05,0
 ld r,YUK_D2,0
 ld l,YOS_D13,22
@@ -5371,12 +5376,12 @@ cl l,0
 mld c,YOS_D14,23
 ;ld c,YOS_D1,80
 
-「頼むっ。@……榊に魔法のアザミを食わせてくれっ。@そして榊っ。@いじめるなら俺をいじめろ…！！@　調子に乗ってやり過ぎた俺が元凶なんだッ。@お前のジョーカーは俺が引き受けるから！！！」\
-
+;「頼むっ。@……榊に魔法のアザミを食わせてくれっ。@そして榊っ。@いじめるなら俺をいじめろ…！！@　調子に乗ってやり過ぎた俺が元凶なんだッ。@お前のジョーカーは俺が引き受けるから！！！」\
+`"Please, I'm begging you.`@`... Let Sakaki eat the magical thistle. `@`And Sakaki. `@`If you have to bully someone, bully me...!! `@`It's my fault you're in this mess. All because I got carried away. `@`Pass your joker onto me!!!"`\
 ld r,YUK_D3,80
 
-「…………………吉川くん……。」\
-
+;「…………………吉川くん……。」\
+`".........Yoshikawa-kun..."`\
 mcl c,0
 
 bg black,22
@@ -5384,104 +5389,114 @@ bg roji_04,22
 ld l,AZA_D4,22
 
 
-「くす。@美しい愛情です。@ならばそれを叶えてやることこそ、愛というもの。」@
-
+;「くす。@美しい愛情です。@ならばそれを叶えてやることこそ、愛というもの。」@
+`"*Giggle* `@`Such beautiful devotion. `@`Then what I grant you is love."`@
 ld r,SMI_w3,24
 
 
-「さすが姉者じゃ！　@愛という言葉が実に偽善的なのじゃ！！@/
-
+;「さすが姉者じゃ！　@愛という言葉が実に偽善的なのじゃ！！@/
+`"As expected of my sister! `@`Love is such a hypocritical word!!`@/
 cl l,0
 ld c,AZA_D7,23
 ld r,SMI_i1,1
 se1 47
 quakex 1,100
 
-　ふぎぎぎー、痛だだだだーーッ！！」\
-
+;　ふぎぎぎー、痛だだだだーーッ！！」\
+` Fugehgyaa-, Ouchowowowow--~!!"`\
 ld c,AZA_D3,80
 
-「さぁ、どうするのです、由香里さん。@あなたは復讐のアザミを望みますか…？」\
-
+;「さぁ、どうするのです、由香里さん。@あなたは復讐のアザミを望みますか…？」\
+`"Now then, Yukari, what shall you do? `@`Do you wish for a thistle of vengence...?"`\
 bg black,23
 bg roji_05,0
 ld c,YUK_D3,23
 
-「……………………………。」\
-
+;「……………………………。」\
+`".............."`\
 ld r,YOS_D13,24
 ld r,YOS_D14,80
 
-「頼む、榊っ。@アザミを食ってくれ…！！@　その後のことは何も考えなくていい！@　後生だからッ。@頼むッ…！！！」@
+;「頼む、榊っ。@アザミを食ってくれ…！！@　その後のことは何も考えなくていい！@　後生だからッ。@頼むッ…！！！」@
+`"Please, Sakaki! `@`Eat a thistle...!! `@`You don't have to worry about what happens next! `@`For the love of god. `@`I'm begging you...!!!"`@
 br
-　正明は、涙を零しながら懇願する。@
-　日々のいじめによって、暗く曇ってしまった由香里の瞳に、それがどう映ったかはわからない……。\
-
+;　正明は、涙を零しながら懇願する。@
+` Masaaki begged Yukari with tears dripping from his eyes.`@
+;　日々のいじめによって、暗く曇ってしまった由香里の瞳に、それがどう映ったかはわからない……。\
+` The light in Yukari's eyes was so darkened by the days upon days of bullying, that he had no idea what she thought of all this...`\
 ld l,SMI_w3,23
 ld l,SMI_w2,80
 
-「いじめ抜かれ、心がもはや擦り潰れておるではないか！@　迷うことはない、姉者のアザミを食らって生まれ変わるのじゃ…！！」\
-
+;「いじめ抜かれ、心がもはや擦り潰れておるではないか！@　迷うことはない、姉者のアザミを食らって生まれ変わるのじゃ…！！」\
+`"You've already lost to the bullying, your heart has been grinded to dust! `@`Don't hesitate, eat my sister's thistles and be born anew...!!"`\
 bg black,22
 bg azami2,22
 
-　アザミは路肩に咲くアザミの花を摘むと、それに魔力を込める。@
+;　アザミは路肩に咲くアザミの花を摘むと、それに魔力を込める。@
+` Azami plucked a blooming thistle from the edge of the road and imbued it with magical power.`@
 br
-　そしてそれを、由香里の眼前に差し出す……。\
-
+;　そしてそれを、由香里の眼前に差し出す……。\
+` And presented it to Yukari...`\
 bg black,22
 bg roji_05,0
 ld r,AZA_D1,22
 ld r,AZA_D2,80
 
 
-「さぁ。@このアザミを食べるのです。@……これであなたはもう、いじめられっこではなくなるのですよ。」@
-
+;「さぁ。@このアザミを食べるのです。@……これであなたはもう、いじめられっこではなくなるのですよ。」@
+`Here. `@`Eat this flower.`@`... With this you will no longer be bullied any longer."`@
 ld l,YUK_D3a,22
 
-「……………………………。」\
-
+;「……………………………。」\
+`"..............."`\
 ld r,AZA_D3,80
 
-「引き換えに、あなたの心は暴力で満たされ、@常にいじめる誰かを捜し求める飢えた狼に生まれ変わるでしょうが……。@くす、うふふふふふふふ………。」\
-
+;「引き換えに、あなたの心は暴力で満たされ、@常にいじめる誰かを捜し求める飢えた狼に生まれ変わるでしょうが……。@くす、うふふふふふふふ………。」\
+`In exchange, your heart will be filled with violent urges. `@`You will be born again as a hungry wolf, always searching for someone to bully... `@`*Giggle* Ufufufufu....."`\
 bg black,22
 bg roji_03,22
 
-　由香里の震える指が、……ゆっくりとアザミに伸びる。@
+;　由香里の震える指が、……ゆっくりとアザミに伸びる。@
+` Yukari's trembling fingers... slow extended towards the thistle.`@
 br
-　しかし、……そのぎりぎりで、……理性で堪えている……。\
+;　しかし、……そのぎりぎりで、……理性で堪えている……。\
+` But... at the last second... her sense of reason held her back...`\
 
+;「……榊っ。@……頼むっ、……頼むッ……！！」@
+`"...Sakaki.`@`... Please... PLEASE...!!"`@
+;「……………………………。」\
+`"............."`\
 
-「……榊っ。@……頼むっ、……頼むッ……！！」@
-「……………………………。」\
-
-
-　由香里の指が、………アザミに、……触れる。@
+;　由香里の指が、………アザミに、……触れる。@
+` Yukari's fingers.... touched... the thistle.`@
 br
-　……そして、……それを受け取り、…………………。\
-
+;　……そして、……それを受け取り、…………………。\
+` ...And... she took hold of it.......`\
 bg black,22
 fede 1,2000
 E_B
 
-「…………………………。」@
+;「…………………………。」@
+`"............."`@
 br
-　口にする。\
-
+;　口にする。\
+` And placed it in her mouth.`\
 bg black,22
 bg roji_05,0
 ld c,YUK_d2a,22
 
-　……由香里には拒めなかったろう。@無理もない。@
-　あの日より、由香里はクラス全体にどれほど執拗にいじめられてきたというのか。@
+;　……由香里には拒めなかったろう。@無理もない。@
+` ...Yukari couldn't resist. `@`It was only natural.`@
+;　あの日より、由香里はクラス全体にどれほど執拗にいじめられてきたというのか。@
+` Up until today she had been relentlessly bullied by the entire class.`@
 br
-　彼女は精一杯抗った。@でも、それももう限界だ……。\
-
-　彼女がいじめっこになったとしても、何の責任があるだろう？@
+;　彼女は精一杯抗った。@でも、それももう限界だ……。\
+` She fought with all her might. `@`But, she was at her limit...`\
+;　彼女がいじめっこになったとしても、何の責任があるだろう？@
+` Even if she did become a bully, would it even be her fault?`@
 br
-　彼女に何の罪もあるわけがない。\
-
+;　彼女に何の罪もあるわけがない。\
+` She is innocent.`\
 
 　……明日より彼女は豹変するだろう。@それはきっと、……辛い光景になるだろう。@
 br
