@@ -5498,17 +5498,20 @@ br
 ;　彼女に何の罪もあるわけがない。\
 ` She is innocent.`\
 
-　……明日より彼女は豹変するだろう。@それはきっと、……辛い光景になるだろう。@
+;　……明日より彼女は豹変するだろう。@それはきっと、……辛い光景になるだろう。@
+` ...After tomorrow she will the complete opposite. `@`That will surely be... a bitter sight.`@
 br
-　しかしそれでも、……彼女には権利があるのだ。@
-　自分に代わってジョーカーを引き受けてくれた彼女にも、@それを誰かに渡す権利があるのだ……。\
-
+;　しかしそれでも、……彼女には権利があるのだ。@
+` But at the same time... she has the right to do so.`@
+;　自分に代わってジョーカーを引き受けてくれた彼女にも、@それを誰かに渡す権利があるのだ……。\
+` This girl who took the joker upon herself, `@`has the right to pass it on to anyone she wants to...`\
 ld c,YUK_D4a,80
 
-　……ごくりと、アザミを飲み込む。@
+;　……ごくりと、アザミを飲み込む。@
+` ...She swallowed the thistle with a gulp.`@
 br
-　その魔力がゆっくりと、由香里の体に浸透していく……。\
-
+;　その魔力がゆっくりと、由香里の体に浸透していく……。\
+` And its magical power slowly spread throughout Yukari's body...`\
 se1v 66,30
 
 bg red1,48
@@ -5517,18 +5520,18 @@ bg roji_04,0
 ld c,SMI_w3,22
 ;ld c,SMI_D1,80
 
-「ふふ、ふっふふひひひひはっはははははははは！！@　これでもう、由香里はいじめっこなのじゃ！！」\
-
+;「ふふ、ふっふふひひひひはっはははははははは！！@　これでもう、由香里はいじめっこなのじゃ！！」\
+`"Fufu, fufufuhihihihahahahahahaha!! `@`And now, Yukari is a bully!!"`\
 ld r,AZA_D3,22
 ;ld r,AZA_D1,80
 
-「明日よりあなたはいじめに飢えた狼です。@……吉川くんも、彼女に近付かぬように気を付けることですよ。@もっとも、あなたは望んで近付き、生贄となるつもりでしょうが。」\
-
+;「明日よりあなたはいじめに飢えた狼です。@……吉川くんも、彼女に近付かぬように気を付けることですよ。@もっとも、あなたは望んで近付き、生贄となるつもりでしょうが。」\
+`"Starting tomorrow you will be a bloodthristy wolf, hungry for bullying.`@`... Yoshikawa-kun, I would advice being careful of not getting to close to her. `@`Though if you do wish to get close to her, be aware that you will doing so as a scapegoat."`\
 cl c,0
 mld c,SMI_w2,80
 
-「いじめを憎む由香里が、その身を犠牲にして救ったお前をいじめるというのだっ。@これは何と愉快な見世物であろうか！！@　ふっふふひひひひひひひひ！！」\
-
+;「いじめを憎む由香里が、その身を犠牲にして救ったお前をいじめるというのだっ。@これは何と愉快な見世物であろうか！！@　ふっふふひひひひひひひひ！！」\
+`"The idea of Yukari, who hates bullying, in turn bullying the person she sacrificed herself to save. `@`Is there any greater spectacle than that?! `@`Fufufuhihihihihi!!"`\
 mcl c,0
 
 bg black,23
@@ -5540,19 +5543,21 @@ wait 1000
 
 ld c,YUK_D3,22
 
-　アザミの魔力は、深くいじめられていればいるほど、強く作用する。@
-　……由香里はどれほどのいじめっことして、豹変するのか。\
-
-　それでも、………受け入れる。@
-　正明は、彼女がどれほど豹変しようとも、……彼女を決して見損なわないと誓うのだった……。\
-
+;　アザミの魔力は、深くいじめられていればいるほど、強く作用する。@
+` The worse the bullying was at the time of eating the thistle, determines how bad of a bully the person will become, that is how its magical power works.`@
+;　……由香里はどれほどのいじめっことして、豹変するのか。\
+` ...How bad of a bully will Yukari become then?`\
+;　それでも、………受け入れる。@
+` Still.... he will take it all on himself.`@
+;　正明は、彼女がどれほど豹変しようとも、……彼女を決して見損なわないと誓うのだった……。\
+` No matter how much she changes... Masaaki vows to never be disappointed in her...`\
 bg black,2
 fede 0,2000
 E_A
 wait 1000
 
-　そして、………翌日を迎えた。\
-
+;　そして、………翌日を迎えた。\
+` And... on the next day.`\
 bg gakkou_01,22
 wait 2000
 bg black,22
@@ -5561,28 +5566,33 @@ bg kyou_01,22
 
 bgm1 14
 
-　由香里の登校はいつも遅い。@
+;　由香里の登校はいつも遅い。@
+` Yukari was late to school as usual.`@
 br
-　正明は先に教室に着き、……落ち着かない様子で、由香里を待った。\
+;　正明は先に教室に着き、……落ち着かない様子で、由香里を待った。\
+` Masaaki got to the classroom early... and waited nervously for her to show up.`\
 
-
-　クラスメートの何人かが、由香里の席に落書きをしている。@
-　……馬鹿なヤツらだ。@今日を境に金輪際、そんな真似は出来なくなるだろう。\
-
+;　クラスメートの何人かが、由香里の席に落書きをしている。@
+` A bunch of their classmates were scribbling on Yukari's seat.`@
+;　……馬鹿なヤツらだ。@今日を境に金輪際、そんな真似は出来なくなるだろう。\
+` ...What idiots. `@`They're going to regret doing that today.`\
 ld r,YOS_D3a,22
 
-　いじめを誰よりも憎んだ榊が、……いじめっこに生まれ変わるなんて……。\
-
-　………いいんだ、榊。@
+;　いじめを誰よりも憎んだ榊が、……いじめっこに生まれ変わるなんて……。\
+` Sakaki hated bullying more than anyone out there... but today, she'll be reborn...`\
+;　………いいんだ、榊。@
+` It's okay, Sakaki.`@
 br
-　いじめのジョーカーを、誰かに受け渡すんだ。@
-　……もし、俺みたいに、仕返しをやり過ぎるようなことがあったなら。\
+;　いじめのジョーカーを、誰かに受け渡すんだ。@
+` Go ahead and pass your joker on to somebody new.`@
+;　……もし、俺みたいに、仕返しをやり過ぎるようなことがあったなら。\
+` ...If you happen to overdo your payback like I did...`\
 
-
-　その時は、………俺がお前のいじめを全て引き受けてやるから…………。@
+;　その時は、………俺がお前のいじめを全て引き受けてやるから…………。@
+` Then.... I will take all your bullying upon myself.....`@
 br
-　お前はジョーカーを手放し、そして俺のようにやり過ぎて誰かに憎まれることもなく、@……いじめから解放されるんだ……。\
-
+;　お前はジョーカーを手放し、そして俺のようにやり過ぎて誰かに憎まれることもなく、@……いじめから解放されるんだ……。\
+` You will relinquish your joker and, unlike me, you want be hated if you overdo it.`@`... You will be freed from bullying...`\
 bg black,22
 
 fede 0,1000
@@ -5592,28 +5602,30 @@ bg kyou_02,22
 me1v 24,50
 ld l,AZA_D5,22
 
-「そろそろ、由香里さんがやって来る頃です。@………くす。@どのような豹変を遂げているか、楽しみですね。」@
-
+;「そろそろ、由香里さんがやって来る頃です。@………くす。@どのような豹変を遂げているか、楽しみですね。」@
+`"It's about time for Yukari-san to show up.`@`.... *Giggle* `@`I'm excited to see what kind of personality she will have."`@
 ld r,SMI_w2,22
 ;ld r,SMI_D1,80
 
-「おお、姉者！@　由香里じゃ由香里じゃ！@　今、昇降口に入ったぞ…！」\
-
+;「おお、姉者！@　由香里じゃ由香里じゃ！@　今、昇降口に入ったぞ…！」\
+`"Oh, sister! `@`It's Yukari, it's yukari! She's here! `@`She just came in through the front doors of the school...!"`\
 ld l,AZA_D3,80
 
-「どんな様子でしたか？」@
-
+;「どんな様子でしたか？」@
+`"How does she look?"`@
 ld r,SMI_w6,80
 
-「傍目にはわからぬが、どんよりと重い気配をまとっておったぞ…！@　なかなかの迫力じゃ！」@
+;「傍目にはわからぬが、どんよりと重い気配をまとっておったぞ…！@　なかなかの迫力じゃ！」@
+`"From an outsider's perspective she wouldn't look that different, but she definitely has a heavy aura about her...! `@`It's pretty intense!"`@
 br
-　妖怪姉妹が笑い合っている様子が、正明にも見える。\
+;　妖怪姉妹が笑い合っている様子が、正明にも見える。\
+` Masaaki could see the two youkai sisters laughing amongst themselves.`\
 
-
-　……俺が妖怪の甘言に乗せられて、おかしなアザミなど食べなければ……。@正明は深く後悔する……。@
+;　……俺が妖怪の甘言に乗せられて、おかしなアザミなど食べなければ……。@正明は深く後悔する……。@
+` ...Since he was deceived by them and made to eat that strange thistle... `@`Masaaki deeply regretted getting involved with them...`@
 br
-　そして、……………榊由香里が、教室にやって来た。\
-
+;　そして、……………榊由香里が、教室にやって来た。\
+` And then....... Yukari Sakaki entered the classroom.`\
 bg black,23
 bg kyou_01,23
 
@@ -5627,66 +5639,74 @@ se1 82
 wait 1000
 ld c,YUK_i4,22
 
-「……………………………………。」@
+;「……………………………………。」@
+`"................"`@
 br
-　彼女は無言だった。@
-　なのに、……教室中の人間が、ぎょっとして凍りついてしまうような凄みがあった。\
-
+;　彼女は無言だった。@
+` She said nothing.`@
+;　なのに、……教室中の人間が、ぎょっとして凍りついてしまうような凄みがあった。\
+` But... she had a sinister look that made everyone in the room freeze in place and stare.`\
 me1v 17,50
 
-　その凄みは、かつての正明のそれより、ずっとずっと恐ろしいものだった。@
-　その表情は暗く重い。@
+;　その凄みは、かつての正明のそれより、ずっとずっと恐ろしいものだった。@
+` It was a sinister presence far more dreadful than when Masaaki was a bully.`@
+;　その表情は暗く重い。@
+` Her expression was dark.`@
 br
-　……迂闊に話し掛けられないどころか、@……近寄られたら、退かずにはいられない迫力があった。\
-
+;　……迂闊に話し掛けられないどころか、@……近寄られたら、退かずにはいられない迫力があった。\
+` ...It had the sort of intensity to it that made it clear that you shouldn't carelessly talk to her.`@`... or that if she approached you, you had better get out of the way.`\
 bg black,24
 bg kyou_03,0
 ld r,SMI_w1,24
 ld r,SMI_w2,80
 
-「これは………、凄まじい迫力じゃ…！」@
-
+;「これは………、凄まじい迫力じゃ…！」@
+`"What... a fierce demeanor...!"`@
 ld c,AZA_D5,22
 
-「目があっただけで、殺されてしまいそうですね。」\
-
+;「目があっただけで、殺されてしまいそうですね。」\
+`"It feels like she would kill you if you even made eye contact with her."`\
 
 bg black,23
 bg kyou_02,0
 ld l,YOS_D2,23
 ld l,YOS_D3a,80
 
-「……さ、…………榊……………。」@
-
+;「……さ、…………榊……………。」@
+`"...S-....... Sakaki......."`@
 ld r,YUK_i4,22
 
-「…………………………。」@
+;「…………………………。」@
+`"............."`@
 br
-　由香里は自分の席へ辿り着く。\
+;　由香里は自分の席へ辿り着く。\
+` Yukari trudged on over to her seat.`\
 
-
-　……そこには、酷い落書きが残されている。@
+;　……そこには、酷い落書きが残されている。@
+` ...A series of horrendous scrawlings were written on her desk.`@
 br
-　由香里はしばらくの間、それをじっと見詰めて、俯いていた。@
-　教室中が凍り付いている。@……誰も、……指一本、動かすことも出来ない。\
-
+;　由香里はしばらくの間、それをじっと見詰めて、俯いていた。@
+` Yukari stared down at it for a while.`@
+;　教室中が凍り付いている。@……誰も、……指一本、動かすことも出来ない。\
+` Everyone in the classroom was still frozen.`@`... Not a single one of them... could move even a finger.`\
 bg black,22
 
-　すると、………ゆっくりと…………。@
+;　すると、………ゆっくりと…………。@
+` And then.... slowly.....`@
 se1v 13,30
 br
-　由香里が机を、…………担ぎ上げる………。\
-
+;　由香里が机を、…………担ぎ上げる………。\
+` Yukari...... picked up her desk....`\
 me2v 28,70
 
 ;ld r,YUK_D1,80
 
-「…………………………………。」@
-
+;「…………………………………。」@
+`"................"`@
 ;ld l,YOS_D1,80
 
-「さ、…………榊…………。」\
-
+;「さ、…………榊…………。」\
+`"S-...... Sakaki....."`\
 fedexx 0,100,100,0,0,0,1000
 
 wait 1000
@@ -5701,8 +5721,10 @@ mcbg 22
 quakey 2,500
 
 
-　稲妻が落ちるような音がして、……その机が、床に激しく叩きつけられた。@
-　それでもなお、……誰も身動き一つ出来ない……。@
+;　稲妻が落ちるような音がして、……その机が、床に激しく叩きつけられた。@
+` With a sound like lightning striking... she slammed her desk into the floor.`@
+;　それでもなお、……誰も身動き一つ出来ない……。@
+` But still... no one moved a muscle...`@
 br
 　……いや、……誰かが笑った。@
 　笑ったのは、………姉妹妖怪だった。\
