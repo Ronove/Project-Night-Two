@@ -45,10 +45,10 @@ br
 `　And mysteriously... aside from the girl, no one else appears to be in this school.`@
 br
 ;　夕闇の、誰の人影もない校舎の中でずっと、……少女は１時間も走り回っていたのだ。\
-`　The girl had been running for more than an hour... in this twilight, without a soul to be seen on campus, for ages."`\
+`　The girl had been running for more than an hour... in this twilight, without a soul to be seen on campus, for ages.`\
 
 ;　少女の心臓は今にも爆発しそう。@
-`　Even now her heart was exploding.`@
+`　Even now, her heart was exploding.`@
 ;　もう、走るどころか、立ち上がる気力さえなかった。\
 `　She no longer had a place to run to, nor the energy to stand.`\
 
@@ -960,13 +960,13 @@ ld c,IZA_D2,22
 ld c,IZA_D6,80
 
 ;「死ねるわけねェだろ。@お前はもう、死んだんだぜ？@　だから二度は死なねェ。@二度と死ねねェ！！@　お前はそこで永遠に、俺の胃袋の中で嬲られて、俺に魂を啜り取られるんだよ！！」@
-` "No way you can die. `@`You see, you're already dead? `@`You can't die twice, see. `@`You don't die twice!! `@`You'll spend eternity being tortured in my stomach, and I will digest your soul!!"`@
+` "No way you can die. `@`You see, you're already dead. `@`You can't die twice, see? `@`You don't die twice!! `@`You'll spend eternity being tortured in my stomach, and I will digest your soul!!"`@
 br
 ;　死神の男は眼下を見下ろし、苦悶の絶叫を抑えられない彼女を嘲笑う。\
 ` The shinigami looked on, ridiculing the girl who could not supress her cries of anguish and suffering.`\
 
 ;　苦痛に喘ぐことしか出来ない少女にはわからないだろうが。@ここから見下ろせば、眼下には他にも何人もの哀れな犠牲者を見ることが出来る。\
-`　The girl probably couldn't understand as all she could feel was the grip of agonizing pain. `@`If she could look down at the scene from above, she would see the suffering of countless victims.`\
+`　The girl probably couldn't understand, as all she could feel was the grip of agonizing pain. `@`If she could look down at the scene from above, she would see the suffering of countless victims.`\
 
 bg black,26
 bg aka2,22
@@ -986,9 +986,9 @@ me4v 16,70
 ` But even then, they didn't die.`
 br
 ;　もはや口さえなく、苦悶に呻き声を漏らすことさえ出来なくても。@
-` Without mouths, they could no release their screams of agony.`@
+` Without mouths, they could not release their screams of agony.`@
 ;　永遠に死ねず、永遠にこの悪魔の胃袋の中で弄ばれ続けるのだ……。\
-` An eternity without dying--they'd continue eternally being tortured in the stomach of this demon...`\
+` An eternity without dying -- they'd continue eternally being tortured in the stomach of this demon...`\
 
 bg black,22
 ;bg k_rouka_03,0
@@ -1049,7 +1049,7 @@ bgm1 7
 ;　……恐ろしい夢に怯えて目を覚ました経験が、なかったわけじゃない。@
 `...It's not as though I've never had the experience of waking up from a nightmare before.`@
 ;　しかし、今までのそれとは一線を画す何かだった。@
-` But something about this really distinguished itself from past experiences.`@
+` But something about this one really distinguished itself from past experiences.`@
 br
 ;　そう、“何か”。\
 ` Yes, quite the "something".`\
@@ -1065,7 +1065,7 @@ bg k_rouka_03,0
 ld c,IZA_D5,22
 
 ;　……あの死神の男の眼光。@笑い声。@……あの胃袋のようなおぞましい世界で、@死ぬことも出来ず、哀れに蠢く犠牲者たちの苦悶の声。@
-` ...That shinigami. `@`His laughter. `@`...the voices of those poor, undying, writhing victims in that world not unlike a hideous monster's stomach.`@
+` ...That shinigami. `@`His laughter. `@`...The voices of those poor, undying, writhing victims in that world not unlike a hideous monster's stomach.`@
 br
 ;　全てがありありと思い出せる。\
 ` I could remember it all.`\
@@ -1108,7 +1108,7 @@ br
 ` No, surely not a curse...`@
 br
 ;　多分、私は１３階段を踏んだと思い込み、@……自分が思っている以上に、怯えてしまっていたのだろう。@そしてそれを、ああして夢に見てしまったに違いない。\
-` I thought I had probably stepped onto the 13th step, `@` and perhaps that frightened me deeper than I thought. `@`That must have been why I had that dream.`\
+` I thought I had probably stepped onto the 13th step,`@` and perhaps that frightened me deeper than I thought. `@`That must have been why I had that dream.`\
 bg black,22
 bg kaidan_01,22
 ld c,AYA_D4a,22
@@ -1131,7 +1131,7 @@ br
 ;　そう。@やっぱりあれは、数え間違いだったんだ。@
 ` Right. `@`I had probably made a mistake while counting.`@
 ;　なのに、本当に１３階段を踏んだと思いこんで怯えて、あんな夢まで見て。\
-` Even so, I was scared, convinced that I had actually stepped on the 13th step caused me to have that dream.`\
+` Even so, I was scared, convinced that I had actually stepped on the 13th step, and that had caused me to have that dream.`\
 bg black,22
 bg kaidan_01,0
 ld r,AYA_D2,22
@@ -1145,7 +1145,7 @@ br
 ` Death would be a peaceful end for me. `@`I had believed that.`@
 br
 ;　それを見透かされ、死後の世界はそのような甘いものではないと突きつけられた、あの衝撃。\
-` Having seen been confronted with an afterlife that was not such a sweet thing after all, being forcefully disillusioned like that left an impact on me.`\
+` Having been confronted with an afterlife that was not such a sweet thing after all, being forcefully disillusioned like that left an impact on me.`\
 ld r,AYA_D4a,80
 
 ;　………………あんなの、どうせただの夢。@気にしちゃ駄目だ。@馬鹿馬鹿しい……。@
@@ -1254,12 +1254,12 @@ cl l,22
 ` The whole class faced the teacher and said "goodbye".`@
 br
 ;　その瞬間。@
-` In that moment`@
+` In that moment.`@
 br
 ;　世界が消えたのだ。\
 ` The world disappeared.`\
 ;　……いや、消えたといっても、真っ暗になったわけじゃない。@もちろん、ここが教室であることにも変わりはない。@
-` ...No, saying that it ended would be wrong--it didn't even go dark.`@` Of course, there was no change even here in the classroom.`@
+` ...No, saying that might give the wrong idea -- it didn't even go dark.`@` Of course, there was no change even here in the classroom.`@
 br
 ;　しかし、消えたのだ。@
 ` But it was gone.`@
@@ -1276,7 +1276,7 @@ br
 ;　私はわけがわからず、周りを見渡す。@
 ` Without knowing why, I looked around.`@
 ;　しかし、どこにもいない。@誰もいない。@
-` However, nobody was around. `@` Everyone was gone.`@
+` However, nobody was around.`@` Everyone was gone.`@
 ;　それどころか、学校全体のざわめきさえ消え去った。\
 ` On top of that, all the ambient school noise had vanished.`\
 ;　それは、この教室だけでなく、学校全体、@……いや、ひょっとすると、この世界そのものから人間が消え去ったことを意味するのかもしれない。@
@@ -2725,7 +2725,7 @@ bg kaidan_04,22
 me1v 5,70
 
 ;「生き延びたら、何かもらえるのかよ？！@　１００万円くれるのか？！@　願いでも叶えてくれるのか？！@　じゃあ、ドッジボールで強くなれるようにしてくれよ！@　漫画１００冊買ってくれよ！！@　……何もねぇ！！！@　仮に生き延びたって、また何もねぇ、退屈で死にそうな灰色の日々じゃねぇかよ…！！@　……終わってたんだよッ、最初っから俺の人生は…！！@　生まれてくるんじゃなかった……。@生まれてくるんじゃ……、なかっ……、ひっく、ぅぐぐぐ………。」\
-`"Do I get something special if I survive?! `@` Will I get a million yen?! `@`Will I be granted one wish?! `@`If so, then make me a great dodgeball player! `@`Buy me 100 manga volumes!! `@`...No, I get nothing!!! `@`Even if I survive I'll get nothing! I'll just go back to my bland life and want to die from boredom...! `@`....My life was over from the very beginning...!! `@`I wish I was never born.... `@`I wish I'd never been b... hic... borrrn, g- gahh..."`\
+`"Do I get something special if I survive?!`@` Will I get a million yen?! `@`Will I be granted one wish?! `@`If so, then make me a great dodgeball player! `@`Buy me 100 manga volumes!! `@`...No, I get nothing!!! `@`Even if I survive I'll get nothing! I'll just go back to my bland life and want to die from boredom...! `@`....My life was over from the very beginning...!! `@`I wish I was never born.... `@`I wish I'd never been b... hic... borrrn, g- gahh..."`\
 ;　もう最後は嗚咽しか聞こえなかった。@
 ` I could only hear sobbing in the end.`@
 ;　彼はもう、自暴自棄になっていた。@体力以上に、気力がもう限界なのだ。@
@@ -2765,7 +2765,7 @@ mld r,AYA_D4a,22
 ;「………………………………。」\
 `"............."`\
 ;「そりゃあよ、……あんな恐ろしい地獄、落ちたくはねぇよ。@……幸い、今日は水曜日だしな…。@今日は何とかなるだろうが、……もう次は無理だ。@……へへ、……へへへ……。@まぁ、……まぁ、今日まで生き延びた価値は、ちっとはあったかな……。@……お仲間に出会えて、愚痴を吐き出せて……、少しだけすっきりしたぜ……。@へへ、……へへへへへ………。@あんたも、……せいぜい足掻きな。@……自分が納得するまで。@………同じ地獄でも、納得するまで足掻いてからなら、……まだ、……マシかもしれねぇさ……。@……へへへへ………へへ………。」\
-`"You know... I really don't want to go to that terrifying hell.`@`...Fortunately, since today is Wednesday...`@` I'll manage to survive somehow or another... but next time around, I'm doomed.`@`... heh... heh, heh... `@` Oh well, at least there was some point until surviving until today... `@`Since I was able to meet someone else who was cursed, and vent my frustrations... I feel kind of refreshed... `@`heh... heh heh heh... `@` You... are going to struggle too, you know? `@`...Until you can accept it. `@`You'll struggle until you realize that you'll be going to the same hell that I am, but... hey, I guess that's better than nothing...`@`...heheheh... heh..."`\
+`"You know... I really don't want to go to that terrifying hell.`@`...Fortunately, since today is Wednesday...`@` I'll manage to survive somehow or another... but next time around, I'm doomed.`@`... heh... heh, heh...`@` Oh well, at least there was some point until surviving until today... `@`Since I was able to meet someone else who was cursed, and vent my frustrations... I feel kind of refreshed... `@`heh... heh heh heh...`@` You... are going to struggle too, you know? `@`...Until you can accept it. `@`You'll struggle until you realize that you'll be going to the same hell that I am, but... hey, I guess that's better than nothing...`@`...heheheh... heh..."`\
 ;mld r,AYA_D2,80
 
 ;　彼は達観したような、あるいは自嘲的な薄笑いを浮かべ、無理に笑っていた。@
@@ -4018,7 +4018,7 @@ fede 0,1000
 E_A
 
 ;「途中、歩いてもいいからな…！@　しっかり完走だけはしろよ！！@　よーい、」\
-`"It's alright to walk along the way! `@`All that matters is that you finish!! `@` Okay! Ready!"`\
+`"It's alright to walk along the way! `@`All that matters is that you finish!!`@` Okay! Ready!"`\
 me1v 17,90
 
 ;　頑張って辿り着いた、今日。@
@@ -4314,7 +4314,7 @@ br
 ` And then I realize that the hand I'm grabbing belongs to the shinigami.`@
 br
 ;　イザナミはぐいっと引っ張り、あやの上体を起こしてくれた。\
-` Izanami pulled, and raised my--Aya's--upper body.`\
+` Izanami pulled, and raised my -- Aya's -- upper body.`\
 bg black,22
 bg koutei_01,22
 ld r,IZA_D4,22
