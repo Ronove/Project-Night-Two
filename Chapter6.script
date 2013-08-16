@@ -4555,7 +4555,6 @@ quakex 1,100
 
 ;　正明は、身近にいた誰かの胸倉を掴み、小突く。@
 ` Masaaki grabbed the collar of one of the kids standing closest to him, and pushed him back.`@
-;----------------------------------------------------------------------------------------------------------
 ;　しかし、今の彼らには火に油を注ぐようなものだ。@
 ` But that just added fuel to the fire.`@
 br
@@ -4751,7 +4750,7 @@ br
 ` But that would not be the end of what had started here.`\
 
 ;　血気盛んなクラスメートたちは、これからも四六時中、正明に対し、復讐を目論む。@
-` The classmates' revenge would plan to take their newfound revenge out on him all day, every day.`@
+` The classmates would plan to take their newfound revenge out on him all day, every day.`@
 br
 ;　……彼がどんなに虚勢を張ろうと、@……彼は今や、クラス全体のいじめられっこに転落しているのだ……。\
 ` ...No matter what flase courage he would try to show... `@`he would be taken down by the every bullied student in the class...`\
@@ -5726,24 +5725,25 @@ quakey 2,500
 ;　それでもなお、……誰も身動き一つ出来ない……。@
 ` But still... no one moved a muscle...`@
 br
-　……いや、……誰かが笑った。@
-　笑ったのは、………姉妹妖怪だった。\
-
+;　……いや、……誰かが笑った。@
+` ...No... actually, someone was laughing.`@
+;　笑ったのは、………姉妹妖怪だった。\
+` It was.... the two youkai sisters.`\
 bgm1 12
 
 ld c,SMI_w3,0
 ld r,AZA_D5,22
 
-「くす、……うっふふふふふふふふふ！！」\
-
+;「くす、……うっふふふふふふふふふ！！」\
+`"*Giggle*... Ufufufufufufufu!!"`\
 ld c,SMI_w6,80
 
-「素晴らしいぞ由香里！！@　いじめを誰よりも憎んだ由香里が、これほどのいじめっこになろうとは！！」@
-
+;「素晴らしいぞ由香里！！@　いじめを誰よりも憎んだ由香里が、これほどのいじめっこになろうとは！！」@
+`"Excellent job, Yukari!! `@`To think that a girl who hated bullying that much, would become this great of a bully herself!!"`@
 ld r,AZA_D3,80
 
-「見事ですよ、由香里。@さぁ、あなたが今日まで受けた怒りを、悲しみを！@　全て吐き出すのです。@あなたが彼らをいじめることによって！！」\
-
+;「見事ですよ、由香里。@さぁ、あなたが今日まで受けた怒りを、悲しみを！@　全て吐き出すのです。@あなたが彼らをいじめることによって！！」\
+`"Magnificent, Yukari. `@`Go on! `@`Release all of the hatred and sorrow that you've gathered up until today. `@`Free yourself by bullying them!!"`\
 bg black,23
 bg kyou_01,23
 mld c,YUK_d1,2
@@ -5753,22 +5753,23 @@ wait 1000
 
 mld c,YUK_i4,22
 
-　由香里はゆらりと、……教壇へ歩み出る。@
+;　由香里はゆらりと、……教壇へ歩み出る。@
+` Slowly... Yukari walked over to the front of the class, in front of the blackboard.`@
 br
-　そして振り返り、呆然として立ち尽くすクラスメートたちを、ぎょろりと見渡した。\
-
+;　そして振り返り、呆然として立ち尽くすクラスメートたちを、ぎょろりと見渡した。\
+` She turned around and looked over her classmates, still with shock.`\
 ld l,AZA_D3,22
 
-「恐ろしい目です。@その瞳に映るは、哀れなるいじめの生贄たち……。」@
-
+;「恐ろしい目です。@その瞳に映るは、哀れなるいじめの生贄たち……。」@
+`"What frightening eyes. `@`Reflected in those eyes are the pitiful sacrifices to her bullying..."`@
 ld r,SMI_w5,22
 
-「さぁ、由香里よ…！！@　まずは誰をいじめるのじゃ？！@　誰からでも良いぞ！@　選り取りみどりじゃ！！」\
-
+;「さぁ、由香里よ…！！@　まずは誰をいじめるのじゃ？！@　誰からでも良いぞ！@　選り取りみどりじゃ！！」\
+`"Go on, Yukari...!! `@`Who will you bully first?! `@`Anyone is fine! `@`Have your pick!!"`\
 ld l,AZA_D4,80
 
-「気に入る子がいないなら、あなたにいじめられたいと立候補している子もおりますよ。@……ねぇ、吉川くん。@うっふふふふふ……。」\
-
+;「気に入る子がいないなら、あなたにいじめられたいと立候補している子もおりますよ。@……ねぇ、吉川くん。@うっふふふふふ……。」\
+`"If none of them strike your fancy, there's always the possibility of getting back at the ones who bullied you.`@`... Right, Yoshikawa-kun. `@`Ufufufufu..."`\
 
 mcl c,0
 bg black,24
@@ -5776,7 +5777,8 @@ bg kyou_02,0
 ld l,YOS_D9,24
 ld l,YOS_D10a,80
 
-「……………………………。」\
+;「……………………………。」\
+`".............."`\
 ;＜正明
 bg black,22
 bg kyou_01,0
@@ -5789,19 +5791,20 @@ wait 1000
 
 ld c,YUK_i2,80
 
-「……いじめは、……抗うことの出来ないもの………。」@
-
+;「……いじめは、……抗うことの出来ないもの………。」@
+`"...You can't... fight bullying...."`@
 ld l,SMI_w2,22
 ;ld l,SMI_D1,80
 
-「そうじゃ！@　いじめに抗おうなど、愚かなこと！」\
-
+;「そうじゃ！@　いじめに抗おうなど、愚かなこと！」\
+`"That's right! `@`Trying to oppose bullying is beyond foolish!"`\
 ld c,YUK_i3,80
 
-「……いじめは、……生まれてはならない。@……生んではならない。」@
+;「……いじめは、……生まれてはならない。@……生んではならない。」@
+`"...Bullying... must not be born.`@`... We must not allow it to be born."`@
 br
-　生まれたいじめは、ババ抜きになる。@「死」でしか、清算できない。\
-
+;　生まれたいじめは、ババ抜きになる。@「死」でしか、清算できない。\
+` If it is born, it becomes an old maid. `@`Removable only by "death."`\
 bg black,22
 
 fede 0,1000
@@ -5816,39 +5819,41 @@ ld r,YUK_i1,22
 
 bgm1 27
 
-「なら。@………いじめなどなかった一番最初。@……私たち人間は、……ユートピアにいたはず。」@
-
+;「なら。@………いじめなどなかった一番最初。@……私たち人間は、……ユートピアにいたはず。」@
+`"Then.`@`.... Back in the very beginning, before bullying existed.`@`... We humans... must have lived in a utopia."`@
 ld l,YOS_D9,80
 
-「…………………………。」\
+;「…………………………。」\
+`"............"`\
 ;＜正明
 
 ld r,YUK_i2,80
 
-「……ねぇ。@……一番最初の人間は、………どうしていじめなんか、始めてしまったの……？@　………いじめなんか生まれなければ、……人間は永遠に、……幸せだったのに……。」\
-
+;「……ねぇ。@……一番最初の人間は、………どうしていじめなんか、始めてしまったの……？@　………いじめなんか生まれなければ、……人間は永遠に、……幸せだったのに……。」\
+`"...Hey.`@`... Why did the first humans... start bullying in the first place...? `@`.....If bullying was never born... humans would have lived in happiness... forever..."`\
 bg black,23
 bg kyou_01,0
 ld r,SMI_w4,23
 ld r,SMI_w3,80
 
-「ふっふひひひはははは…！！@　さぁ、由香里よ！！@　私のユートピアを受け容れるが良い！！@　いじめを押し付けよ！！@　生贄を捧げ、皆で取り囲んで踊るのじゃ！！@　ふっふふふふっひっひっひ……、はっはははははははははははは！！」\
-
+;「ふっふひひひはははは…！！@　さぁ、由香里よ！！@　私のユートピアを受け容れるが良い！！@　いじめを押し付けよ！！@　生贄を捧げ、皆で取り囲んで踊るのじゃ！！@　ふっふふふふっひっひっひ……、はっはははははははははははは！！」\
+`"Fufuhihihihahahaha...!! `@`Come on, Yukari!! `@`Submit to my utopia!! `@`Force your bullying on them!! `@`Offer up a sacrifice as the others dance around you!! `@`Fufufufuhihihi... hahahahahahahaha!!"`\
 ld l,YUK_i2,22
 
 me1v 16,50
 
-「……だから、………これが、………ユートピア。@………これが私の考える、………ユートピア………。」\
-
+;「……だから、………これが、………ユートピア。@………これが私の考える、………ユートピア………。」\
+`"...So.... this..... is utopia.`@`..... This is the utopia... that I've wanted....."`\
 bg black,26
 bg kyou_03,26
 
 
-「さ、………榊……ッ。@……やるなら俺を………ッ！」@
+;「さ、………榊……ッ。@……やるなら俺を………ッ！」@
+`"S-.... Sakaki...`@`.... If you're going to bully use me.....!"`@
 br
 
-　正明が駆け寄ろうとした時。@再び、凄まじい轟音が教室に響き渡った。\
-
+;　正明が駆け寄ろうとした時。@再び、凄まじい轟音が教室に響き渡った。\
+` As Masaaki tried to run over to her, `@`another thunderous sound shook the classroom.`\
 E_A
 mbg white,1
 se1v 27,100
@@ -5858,11 +5863,13 @@ quakey 3,500
 
 
 
-　……教卓が、がらんがらんと転げた……。@
-　由香里が教卓を蹴り飛ばしたのだ……。@
+;　……教卓が、がらんがらんと転げた……。@
+` ...The teacher's desk fall over with a clang...`@
+;　由香里が教卓を蹴り飛ばしたのだ……。@
+` Yukari had kicked it over...`@
 br
-　そして、スミレとアザミを、ぎょろりと睨んだ。\
-
+;　そして、スミレとアザミを、ぎょろりと睨んだ。\
+` And glared at Sumire and Azami.`\
 
 
 bg black,24
@@ -5873,30 +5880,30 @@ ld r,SMI_D7,22
 
 mld l,YUK_i3,80
 
-「……あなたたちの思い通りになんか、絶対にならないから。@……これが、私の考えたユートピア。@……私の考えた、……いじめへの抗い方。」\
-
+;「……あなたたちの思い通りになんか、絶対にならないから。@……これが、私の考えたユートピア。@……私の考えた、……いじめへの抗い方。」\
+`"...I won't let you two have your way.`@`... This is the utopia I've wanted.`@`... The way to oppose bullying... that I've been looking for."`\
 ;ld c,AZA_D1,0
 ld r,SMI_i1,80
 
-「……………………………ッ…、」@
-
+;「……………………………ッ…、」@
+`"............!"`@
 me1v 5,50
 
 br
-　その凄みには、妖怪たちも気圧されざるを得ない……。\
-
+;　その凄みには、妖怪たちも気圧されざるを得ない……。\
+` The intensity of those words could overwhelm even those youkai...`\
 mld l,YUK_i4,80
 
-「……生まれたいじめの連鎖を、断ち切ることは難しいかもしれない。@……なら、……いじめそのものを、………生まれないようにするしかない。」\
-
+;「……生まれたいじめの連鎖を、断ち切ることは難しいかもしれない。@……なら、……いじめそのものを、………生まれないようにするしかない。」\
+`"...It may be too hard to sever the chain of bullying once it has been made.`@`... In that case... there's nothing else to do... but make it like that bullying was never born in the first place."`\
 ld r,SMI_D3a,80
 
-「は、はは……。@そ、そんなこと、………どうやって、……やれるというのか……。」\
-
+;「は、はは……。@そ、そんなこと、………どうやって、……やれるというのか……。」\
+`"Ha, haha... `@`H-How... do you plan... to do that...?"`\
 mld l,YUK_i2,80
 
-「私がこの教室から、………二度と、いじめが生まれないようにする……。@………私の目が黒い内は、………二度とッ……！！！」\
-
+;「私がこの教室から、………二度と、いじめが生まれないようにする……。@………私の目が黒い内は、………二度とッ……！！！」\
+`"I will make it... so that bullying is never born in this classroom again...`@`.... Never again..... as long as I am alive...!!!"`\
 
 mcl l,24
 
@@ -5912,10 +5919,11 @@ se1v 27,100
 mcbg 22
 quakey 3,500
 
-　由香里はもう一度、激しく教卓を蹴り転がした。@
+;　由香里はもう一度、激しく教卓を蹴り転がした。@
+` Once more, Yukari violently kicked over the teacher's desk.`@
 bgm1 21
-　そして、ダンッと踏んで、……新たに君臨した、教室の暴君として宣言した。\
-
+;　そして、ダンッと踏んで、……新たに君臨した、教室の暴君として宣言した。\
+` And, she stepped up onto it... declaring her reign as the new tyrant of the classroom.`\
 ld c,YUK_i4,22
 se2v 12,100
 se3v 2,100
@@ -5925,53 +5933,61 @@ wait 1000
 
 ld c,YUK_i2,80
 
-「………私はいじめが嫌いだ。」@
+;「………私はいじめが嫌いだ。」@
+`"....I hate bullying."`@
 br
-　シンとした教室で、由香里の声だけが、響き渡る。\
-
+;　シンとした教室で、由香里の声だけが、響き渡る。\
+` Yukari voice resounded throughout the otherwise silent classroom.`\
 ld c,YUK_i5,80
 
 me1v 5,70
 
-「……いじめが嫌いだ。@……いじめをするヤツが嫌いだ。@…………わかるか…………。」@
+;「……いじめが嫌いだ。@……いじめをするヤツが嫌いだ。@…………わかるか…………。」@
+`"...I hate bullying.`@`... and I hate anyone who bullies.`@`..... Understood......?"`@
 br
-　ぎょろりと教室を見渡す。@
-　目があった生徒は、おどおどしながら、首を縦に振る。\
-
+;　ぎょろりと教室を見渡す。@
+` She slowly surveyed the classroom.`@
+;　目があった生徒は、おどおどしながら、首を縦に振る。\
+` Whenever she would meet eyes with someone, they would hesitantly nod in agreement.`\
 se1v 12,100
 quakey 3,300
 
-　ダンッ。@
+;　ダンッ。@
+` Bang.`@
 br
-　もう一度、教卓が激しく踏まれた。\
-
+;　もう一度、教卓が激しく踏まれた。\
+` She slammed her foot into the desk again.`\
 ;ld c,YUK_D1,80
 
 bg black,22
 
-「………いじめをやるヤツは、私が殺す。@……殺されたくなければ、日々を慎ましやかに生きろ。@………いじめっこを食らういじめっこが、この私だ……。@……私は腹が減っている……。@……誰かをいじめたくていじめたくて……、仕方がないんだ……。@………私の餌食が早く現れろ。@………くっくくくくく、……くくくくくくくくく……。@はははは、あっははははっはっはっはっはっはっはッ！！！」\
+;「………いじめをやるヤツは、私が殺す。@……殺されたくなければ、日々を慎ましやかに生きろ。@………いじめっこを食らういじめっこが、この私だ……。@……私は腹が減っている……。@……誰かをいじめたくていじめたくて……、仕方がないんだ……。@………私の餌食が早く現れろ。@………くっくくくくく、……くくくくくくくくく……。@はははは、あっははははっはっはっはっはっはっはッ！！！」\
+`"....If anyone of you bullies again, I will kill them.`@`... If you don't want to be killed, live a modest life.`@`... I am the bully who devours other bullies...`@`.. and I'm hungry...`@`.. I really... really want to bully someone...`@`.... So if you want to become my prey, show yourself now.`@`... Kukukuku... kukukukukuku... `@`Hahahaha, Ahahahahahahaha!!!"`\
 bg kyou_01,1
 se1v 12,100
 se2v 2,100
 quakex 4,600
 
-　狂った笑い声は、彼女が激しく黒板を蹴る音で掻き消される。\
-
+;　狂った笑い声は、彼女が激しく黒板を蹴る音で掻き消される。\
+` The sound of her insane laughter was drowned out by the sound of her kicking the blackboard.`\
 ld c,YUK_i4,22
 
-「私にいじめられてぇヤツはいるか。」@
+;「私にいじめられてぇヤツはいるか。」@
+`"Is there anyone here who wants to bully me?"`@
 br
-　いるわけもない。@由香里と目が合うと、皆、慌てて首を横に振る。\
-
+;　いるわけもない。@由香里と目が合うと、皆、慌てて首を横に振る。\
+` Of course there wouldn't be. `@`Everyone who met Yukari's eyes hurridly shook their head.\
 ld c,YUK_i5,80
 
-「…………なら。@……慎ましく生きやがれ。@…………返事はぁあああぁッ！！！」@
+;「…………なら。@……慎ましく生きやがれ。@…………返事はぁあああぁッ！！！」@
+`"......In that case.`@`.. You better live an honest and humble life.`@`....... ANSWER ME!!!"`@
 se1v 2,100
 quakey 3,400
-「「「はッ、はいぃぃぃ…！！」」」@
+;「「「はッ、はいぃぃぃ…！！」」」@
+`"""Y-Yes ma'am...!!"""`@
 br
-　その凄みに、クラスメートたちは返事をせずにはいられなかった……。\
-
+;　その凄みに、クラスメートたちは返事をせずにはいられなかった……。\
+` She was so terrifying that her classmates had no choice but to reply...`\
 
 
 
@@ -5984,47 +6000,49 @@ bg black,24
 bg kyou_02,24
 ld r,YUK_i2,24
 
-「………吉川。」@
-
+;「………吉川。」@
+`".....Yoshikawa."`@
 ld l,YOS_D10a,22
 ;ld l,YOS_D1,80
 
-「あ、……あぁ……。」\
-
+;「あ、……あぁ……。」\
+`"Y-... yeah...?"`\
 
 ld r,YUK_i3,80
 
-「あんた、クラス委員長でしょ。@………いじめ、………ないかしっかり見張んなさいよ。」@
-
+;「あんた、クラス委員長でしょ。@………いじめ、………ないかしっかり見張んなさいよ。」@
+`"You're the class representative, are you not? `@`.....Be...... on the lookout for any bullying."`@
 ld l,YOS_D8a,80
 
-「も、……もちろんさ……。」\
-
+;「も、……もちろんさ……。」\
+`"O-... of course..."`\
 ld r,YUK_i5,80
 
 se1v 2,100
 quakey 3,400
 
-「もしッ！！@　……いじめを見つけやがったら。@すぐに私に言いなよ。@…………その間抜け野郎を、……私が食い殺してやるッ！！！」\
-
+;「もしッ！！@　……いじめを見つけやがったら。@すぐに私に言いなよ。@…………その間抜け野郎を、……私が食い殺してやるッ！！！」\
+`"If!! `@`...You find any bullying. `@`Come tell me right away.`@`....... I will find that moron... and kill and devour him!!!"`\
 ld l,YOS_D10a,80
 
-「お、……おう………ッ。@……き、……聞こえたか、皆……！@　こ、このクラスでは二度といじめは許さねぇぞ…！@　俺と榊の目の黒い内は、二度と絶対にだ…！！@　いいなッ？！」\
-
+;「お、……おう………ッ。@……き、……聞こえたか、皆……！@　こ、このクラスでは二度といじめは許さねぇぞ…！@　俺と榊の目の黒い内は、二度と絶対にだ…！！@　いいなッ？！」\
+`"Y-.... yeah...`@`.. D-... did you hear that, everyone...?! `@`B-Bullying won't be allowed in this class ever again...! `@`Never again as long as Sakaki and I still draw breath...!! `@`Got that?!"`\
 cl r,0
 ld c,YUK_i5,24
 
-「てめぇらッ、返事はッ！！！！」@
+;「てめぇらッ、返事はッ！！！！」@
+`"ANSWER HIM!!!!!"`@
 se1v 2,100
 quakey 2,200
-「「「はッ、はいぃぃぃ！！！」」」\
-
+;「「「はッ、はいぃぃぃ！！！」」」\
+`"""Y-Yes sir!!!"""`\
 bg black,22
 
-　生徒たちは由香里のあまりの変わりようにヒソヒソと囁き合うが、@目が合うと俯いて愛想笑いを浮かべる他ない。@
+;　生徒たちは由香里のあまりの変わりようにヒソヒソと囁き合うが、@目が合うと俯いて愛想笑いを浮かべる他ない。@
+` The students whispered among themselves about the sudden change in Yukari, `@`but whenever they met eyes with her, they had no choice but to avert their eyes and force a smile.`@
 br
-　……これが、由香里が考えて生み出した、彼女なりの、束の間のユートピア……。\
-
+;　……これが、由香里が考えて生み出した、彼女なりの、束の間のユートピア……。\
+` ...This was the momentary utopia that Yukari had thought up...`\
 fede 1,3000
 E_B
 
@@ -6032,7 +6050,8 @@ bg kyou_01,0
 ld r,SMI_i3a,22
 ld r,SMI_i1,80
 
-「んな、………何なのじゃ、これは……！！@　これは、……ど、どういうことなのじゃ……！！」\
+;「んな、………何なのじゃ、これは……！！@　これは、……ど、どういうことなのじゃ……！！」\
+`"Rrgh.... What is this...!! `@`What... is the meaning of this...!!"`\
 ;＜スミレ
 
 bg black,23
@@ -6046,30 +6065,34 @@ ld c,HIG_d4,80
 
 bgm1 5
 
-「くすくすくすくす。@/
+;「くすくすくすくす。@/
+`"Teeheehee. `@/
 
-
-……一本取られたようね、スミレちゃん？」@
+;……一本取られたようね、スミレちゃん？」@
+`...Looks like she got the best of you, didn't she, Sumire-chan?"`@
 ;＜彼岸花
 
 ld l,MAR_i4a,22
 ;ld l,MAR_D1,80
 
-「……由香里ちゃんの強さは、……本当にすごいです。」\
+;「……由香里ちゃんの強さは、……本当にすごいです。」\
+`"...Yukari's strength... really is something."`\
 ;＜毬枝
 
 ld r,AZA_D4,22
 
-「おやおや。@彼岸花さんに毬枝さんではありませんか。@妾たちの狩りにようこそ。」\
-
+;「おやおや。@彼岸花さんに毬枝さんではありませんか。@妾たちの狩りにようこそ。」\
+`"Oh my. `@`If it isn't Higanbana-san and Marie-san. `@`Welcome to our hunt."`\
 ld c,HIG_D3,80
 
-「いつ横から掻っ攫ってやろうかと、ずっと様子を見ていたけれど。@……こんなオチが待っているとは、想像も出来なかったわ。@くすくすくすくすくすくすくす……！」\
+;「いつ横から掻っ攫ってやろうかと、ずっと様子を見ていたけれど。@……こんなオチが待っているとは、想像も出来なかったわ。@くすくすくすくすくすくすくす……！」\
+`"I've actually been watching the whole time, waiting for a chance to steal your prey from you.`@`... but I never imagined that this would be the outcome. `@`Teeheeheehee...!"`\
 ;＜彼岸花
 
 ld l,MAR_D4a,80
 
-「由香里ちゃんは、……至ったんですね。@……これがいじめをなくす、唯一の方法だと。」\
+;「由香里ちゃんは、……至ったんですね。@……これがいじめをなくす、唯一の方法だと。」\
+`"Yukari-chan... found a way, didn't she? `@`....The one way to get rid of bullying."`\
 ;＜毬枝
 
 bg black,24
@@ -6077,44 +6100,52 @@ bg kyou_02,0
 ld c,YUK_i4,0
 ld l,YOS_D8a,24
 
-　生まれてしまったいじめをどうにかするのは、あまりに難しい。@
+;　生まれてしまったいじめをどうにかするのは、あまりに難しい。@
+` It too difficult to remove bullying after it has been born.`@
 br
-　しかし、ならば。@
-　いじめが生まれない世界を、生み出すしかない。\
+;　しかし、ならば。@
+` So.`@
+;　いじめが生まれない世界を、生み出すしかない。\
+` the only other option in that case is to create a world were bullying can't exist.`\
 
-
-　由香里は、自らが暴君として君臨していじめのジョーカーを握り潰し、@リーダーシップを発揮することで、二度とクラスにいじめが生まれないようにしようと、思い至ったのだ。@
+;　由香里は、自らが暴君として君臨していじめのジョーカーを握り潰し、@リーダーシップを発揮することで、二度とクラスにいじめが生まれないようにしようと、思い至ったのだ。@
+` Yukari realized that she could use her reign as tyrant to tear that joker to pieces, `@`and that by displaying her leadership she could prevent bullying from ever being born in this class again.`@
 br
-　……無論、それは容易いことではない。\
+;　……無論、それは容易いことではない。\
+` ...Of course, that is no simple task to accomplish.`\
 
-
-　由香里は常に睨みを利かせなければならないし、それを毎日続けるのは至難の業だ。@
+;　由香里は常に睨みを利かせなければならないし、それを毎日続けるのは至難の業だ。@
+` Yukari must constantly hold her authority of the class, and keeping that up every single day would be near impossible.`@
 br
-　そして同時に、彼女の存在が畏怖されるべきものでなくては、いじめに対する抑止にならない。\
-
+;　そして同時に、彼女の存在が畏怖されるべきものでなくては、いじめに対する抑止にならない。\
+` And at the same time, if her presence ever stops striking fear into the others, she will not be able to keep the bullying in check for long.`\
 bg black,22
 bg kyou_03,22
 
-　……由香里は、魔法のアザミの力を借りることで、それを一時的に成し遂げたのだ。@
+;　……由香里は、魔法のアザミの力を借りることで、それを一時的に成し遂げたのだ。@
+` ...Yukari will only be able to rely on the power borrowed from the magical thistle for a limited amount of time.`@
 br
-　やがて、アザミの魔力も失われるだろう。@
-　いつまでも永遠に、由香里のユートピアは続かないだろう。\
-
-　……しかし。@
+;　やがて、アザミの魔力も失われるだろう。@
+` The thistle's magical power will eventually wear off.`@
+;　いつまでも永遠に、由香里のユートピアは続かないだろう。\
+` Yukari won't be able to keep her utopia intact forever.`\
+;　……しかし。@
+` ...But.`@
 br
-　いじめを誰よりも憎む彼女は束の間であっても、@……真のユートピアを生み出すことが出来たのだ……。\
-
+;　いじめを誰よりも憎む彼女は束の間であっても、@……真のユートピアを生み出すことが出来たのだ……。\
+` Even if it's only temporary, this girl who hates bullying more than anyone... `@`was able to create a true utopia...`\
 bg black,22
 bg kyou_01,0
 ld r,AZA_D2,22
 ld r,AZA_D5,80
 
-「くす。@……見事ですよ、由香里。@妾が望んだ通りになりましたね。」@
-
+;「くす。@……見事ですよ、由香里。@妾が望んだ通りになりましたね。」@
+`"*Giggle*`@`... Splendid job, Yukari. `@`You turned out exactly the way I expected you to."`@
 ld l,HIG_D5,22
 ;ld l,HIG_D1,80
 
-「とか何とか言っちゃって。@負け惜しみを取り繕う偽善テクニックは相変わらずだこと。」\
+;「とか何とか言っちゃって。@負け惜しみを取り繕う偽善テクニックは相変わらずだこと。」\
+`"So you say. `@`But you're just as much of a sore loser and hypocrite as always."`\
 ;＜彼岸花
 
 cl r,0
@@ -6122,8 +6153,8 @@ ld c,AZA_D6,24
 se1 47
 quakex 2,200
 
-「ダ・レ・ガ、偽善デスッテぇええぇえぇ…？！」@
-
+;「ダ・レ・ガ、偽善デスッテぇええぇえぇ…？！」@
+`"W H O are you callng a hypcriiiite...?!"`@
 cl a,0
 ld r,AZA_D6,0
 ld c,HIG_w5,23
@@ -6133,7 +6164,8 @@ quakex 2,200
 
 ld c,HIG_w6,80
 
-「何よ、やる気ぃ？@　今日は豆大福を食べてるから絶好調よ。@何なら、今から一戦、やっちゃおうかしらぁ？！」\
+;「何よ、やる気ぃ？@　今日は豆大福を食べてるから絶好調よ。@何なら、今から一戦、やっちゃおうかしらぁ？！」\
+`"What, do you want to fight? `@`I'm eating daifuku today so I'm in rather high spirits. `@`Shall we have a little battle, right here, right now?!"`\
 ;＜彼岸花
 
 se3 12
@@ -6146,7 +6178,8 @@ mcbg 22
 mld l,YUK_i3,23
 mld l,YUK_i5,80
 
-「うッさい、妖怪どもォ！！@　喧嘩なら表でやれッ！！！」@
+;「うッさい、妖怪どもォ！！@　喧嘩なら表でやれッ！！！」@
+`"Shut up, you youkai!! `@`If you're gonna fight, go do it outside!!!"`@
 br
 
 ;ld r,AZA_D1,0
@@ -6156,8 +6189,8 @@ se1 3
 cl a,23
 
 
-　由香里がドカンと黒板を蹴ると、妖怪たちはぴゅーっと姿を消す。\
-
+;　由香里がドカンと黒板を蹴ると、妖怪たちはぴゅーっと姿を消す。\
+` Yukari banged her foot on the blackboard and the youkai disappeared.`\
 mcl l,0
 
 bg black,22
@@ -6167,8 +6200,8 @@ ld r,SMI_i2,22
 
 ld r,SMI_i1,80
 
-「ひぃ！！@　こんな怖い由香里、由香里じゃないのじゃ～！@　わぁああん！！」\
-
+;「ひぃ！！@　こんな怖い由香里、由香里じゃないのじゃ～！@　わぁああん！！」\
+`"Eee!! `@`That Yukari is too scary, she's totally not Yukari at all! `@`Waaaaah!!"`\
 se1 3
 cl r,23
 
@@ -6178,7 +6211,8 @@ cl l,0
 ld c,MAR_w1,23
 ;ld c,MAR_D1,80
 
-「……由香里ちゃんのいじめを憎む気持ち。@……いつまでも、見守っていますからね……。@がんばって、由香里ちゃん。」\
+;「……由香里ちゃんのいじめを憎む気持ち。@……いつまでも、見守っていますからね……。@がんばって、由香里ちゃん。」\
+`"...I'll be watching over over your hatred for bullying.`@`... So... `@`Hang in there, Yukari-chan."`\
 ;＜毬枝
 
 cl c,2
@@ -6191,11 +6225,11 @@ bg kyou_01,22
 
 me1v 16,50
 
-　先生が朝のホームルームに訪れると、……普段ならみんなふざけ回っていて、着席すらしていないのに。@私語を慎み、ぴっしりと模範的に着席していた。\
+;　先生が朝のホームルームに訪れると、……普段ならみんなふざけ回っていて、着席すらしていないのに。@私語を慎み、ぴっしりと模範的に着席していた。\
+` When the teacher arrived for morning homeroom... usually he would expect everyone to be out of their seats, messing around. `@`But today they were sitting, discretely whispering under their breath.`\
 
-
-「……お、おや。@今朝はどういうわけだが、行儀がいい……。@……じゃあ、日直、号令。」\
-
+;「……お、おや。@今朝はどういうわけだが、行儀がいい……。@……じゃあ、日直、号令。」\
+`"...Oh, what's this? `@`Everyone is so well-behaved this morning...`@`... Okay, whoever's the helper today, lead us through morning greetings."`\
 textoff
 
 wait 1000
@@ -6211,48 +6245,57 @@ bgm1 21
 
 quakey 2,200
 
-「おらッ、日直！！」@
+;「おらッ、日直！！」@
+`"Hey, helper!!"`@
 ;＜由香里
 
 se2 48
 quakex 2,200
 
-「き、きりーつッ…！！」\
-
+;「き、きりーつッ…！！」\
+`"S-Stand...!!"`\
 
 bg black,24
 bg kyou_02,0
 ld c,YOS_D3a,24
 ld c,YOS_D4a,80
 
-「……………は、ははは。」@
+;「……………は、ははは。」@
+`"........Ha, hahaha."`@
 ;＜正明
 br
-　しばらくの間は、……こんな榊もいいかなと思う、正明であった。\
-
+;　しばらくの間は、……こんな榊もいいかなと思う、正明であった。\
+` Masaaki was thinking... it wouldn't be so bad for Sakaki to be like this for a while.`\
 cl c,2
 
-　暴君が必要悪であるかどうかという議論はさておき。@
-　しばらくの間、榊由香里による圧政によって、束の間の平和が訪れるだろう。@
+;　暴君が必要悪であるかどうかという議論はさておき。@
+` And he set aside his internal debate on whether a tyrant is a necessary evil.`@
+;　しばらくの間、榊由香里による圧政によって、束の間の平和が訪れるだろう。@
+` Even if it's just for a short while, Yukari Sakaki will be able to bring a temporary peace to this class.`@
 br
-　……彼女の、真にいじめを憎む心に、正明は完全に脱帽せざるを得なかった……。\
-
+;　……彼女の、真にいじめを憎む心に、正明は完全に脱帽せざるを得なかった……。\
+` ...Masaaki had to tip his hat towards that girl's pure hatred of bullying...`\
 bg black,22
 
-　その後、正明はベランダから落ちて怪我をした子に謝ったそうだ。@
+;　その後、正明はベランダから落ちて怪我をした子に謝ったそうだ。@
+` Apparently, after that, Masaaki apologized to the boy that fell off of the balcony.`@
 br
-　……その子が素直に許してくれたことが、正明は何よりも嬉しかった\
-
-「吉川ッ、お前、委員長だろッ、@二度とあんなふざけたイタズラ、するんじゃねーぞ！！」@
-「お、おうッ、すまねぇ、榊ッ。@/
+;　……その子が素直に許してくれたことが、正明は何よりも嬉しかった\
+` ...Masaaki was beyond happy that the boy forgave him`\
+;「吉川ッ、お前、委員長だろッ、@二度とあんなふざけたイタズラ、するんじゃねーぞ！！」@
+`"Yoshikawa, you're the class rep! `@`Don't ever mess around like that again!!"`@
+;「お、おうッ、すまねぇ、榊ッ。@/
+`"Y-Yeah, sorry, Sakaki.`@/
 se1 48
 se2 13
 quakey 2,200
-……ぎゃッ、痛ぇッ、蹴るな…！」@
+;……ぎゃッ、痛ぇッ、蹴るな…！」@
+`...Gahh, ouch, don't kick me...!"`@
 br
-　次の学期の委員長選挙では、榊に一票を投じよう。@
-　そう心に誓う正明であった……。\
-
+;　次の学期の委員長選挙では、榊に一票を投じよう。@
+` When the next term comes around, and they're voting for the next class representative...`@
+;　そう心に誓う正明であった……。\
+` Masaaki swore to himself that he would cast his vote for Sakaki....`\
 
 
 ;＜おしまい＞
