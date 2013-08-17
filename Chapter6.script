@@ -20,7 +20,7 @@ ld c,YUK_I3,80
 
 
 ;　今の彼女を見て、かつていじめられていたことを想像できる者はいないだろう。\
-` Looking at her now, no one could imagine that she had once been a vitcim of bullying herself.`\
+` Looking at her now, no one could imagine that she had once been a victim of bullying herself.`\
 
 bg black,22
 bg kyou_04,22
@@ -28,7 +28,7 @@ bg kyou_04,22
 
 
 ;　楽しい学校生活を取り戻せても、彼女はいじめを憎むことは止めない。@
-` Even though she's regained her happy schoo life, she can't help but detest bullying.`@
+` Even though she's regained her happy school life, she can't help but detest bullying.`@
 br
 ;　いじめを注意することで男子と喧嘩になることがあろうとも、彼女が怯むことはない。\
 ` Even when her warnings about bullying lead to quarrels with boys, she will not back down.`\
@@ -68,7 +68,7 @@ br
 ;　由香里が大声を張り上げる。\
 ` Yukari yells at them.`\
 ;　悪ふざけが過ぎて、遊びといじめの境がわからなくなる男子と、それを叱る由香里。@
-` She scoldd them for taking their playing too far and not knowing where to draw the line between teasing and bullying.`@
+` She scolds them for taking their playing too far and not knowing where to draw the line between teasing and bullying.`@
 ;　このクラスの、最近ではすっかりお馴染みの光景だった。@
 ` This is a scene that the students of this class have become well acquainted with.`@
 br
@@ -165,14 +165,14 @@ ld r,YOS_D10a,80
 `"I- I wasn't being bullied!!"`@
 br
 ;　心にもない言葉だ。@
-` There was no sincerety in those words.`@
+` There was no sincerity in those words.`@
 ;　でも、正明はつい強がってそう言ってしまった。\
 ` But Masaaki blurted them out to seem tough.`\
 ;cl a,0
 ;bg black,22
 
 ;　……彼も自分がいじめられっこであることは、薄々自覚している。@
-` He was a bit self-concious about his being bullied.`@
+` He was a bit self-conscious about his being bullied.`@
 br
 ;　しかし、それを認めたら負けだと、自分に言い聞かせて今日まで堪えてきたのだ。\
 ` But feeling like he'd lose if he admitted it, he endured it this whole time.`\
@@ -220,7 +220,7 @@ ld r,YOS_D10a,80
 cl r,23
 br
 ;　正明はそう怒鳴りつけ、席へ戻る。\
-` Tamaaki shouted at her and returned to his seat.`\
+` Masaaki shouted at her and returned to his seat.`\
 
 ;bg black,1
 ;bg kyou_01,2
@@ -267,7 +267,7 @@ ld r,YOS_D4a,24
 `"Don't let any of them touch the ground...!! `@`If you drop even one we'll throw your pants away!!"`@
 br
 ;　下校中、正明はいくつものランドセルを担がされていた。@
-` They were forcing Massaki to carry a multitude of backpacks on their way fom from school.`@
+` They were forcing Masaaki to carry a multitude of backpacks on their way home from school.`@
 ;　後に背負い、前にも背負い、両腕に通し、肩にも担いで。\
 ` He had them on his back, on his front, in both hands, and on both shoulders.`\
 
@@ -279,7 +279,7 @@ ld r,YOS_D3a,80
 ;　重さ以上に、バランスが不安定で、今にも落としてしまいそうだった。@
 ` It wasn't so much the weight as his trouble at keeping balance was almost causing him to drop them.`@
 ;　しかも彼らは一つでも落とせば許さないと囃し立てる。\
-` But they just kept mocking him, saying that they wouldn't let him off easy if he dropeed any.`\
+` But they just kept mocking him, saying that they wouldn't let him off easy if he dropped any.`\
 bg black,23
 bg ura7,23
 
@@ -336,7 +336,7 @@ bg black,24
 bg ura5,24
 
 ;「ふッ、ふざけんじゃねぇよッ！！@　俺のランドセル、ドブに落としてんじゃねーよ、このッ！！」@
-`"Wh- What the hell!! `@`Don't drop my backback in the gutter!`@
+`"Wh- What the hell!! `@`Don't drop my backpack in the gutter!`@
 se1 10
 quakex 1,100
 wait 300
@@ -347,7 +347,7 @@ quakex 1,100
 `"Ahh!! `@`Th- that hurts... aghh..!!"`\
 
 ;　そのランドセルの持ち主が、鬼のような形相で激高し、@正明のお尻をサッカーボールのように、何度も何度も本気で蹴りつける。@
-` With an unbridled rage on his face, `@`the owner of that backback kicked at Masaaki's butt time after time with all his strength like it was a soccer ball.`@
+` With an unbridled rage on his face, `@`the owner of that backpack kicked at Masaaki's butt over and over with all his strength like it was a soccer ball.`@
 br
 ;　彼の白いパンツのお尻が、土汚れでみるみる汚れた。\
 ` His white underwear were quickly dirtied with mud.`\
@@ -365,7 +365,7 @@ quakex 1,100
 ;「テメェ、わざとだろッ！！@　わざとドブに落としやがっただろ！！」@
 `"You did that on purpose!! `@`You dropped my bag in the gutter on purpose damn it!!"`@
 ;「わざとだよ、こいつ絶対わざとだよ！」@
-`"It was on purpse, he definitely did it on purpose!"`@
+`"It was on purpose, he definitely did it on purpose!"`@
 se1 10
 quakey 1,100
 
@@ -414,10 +414,10 @@ bg ura7,22
 ld r,YOS_D4a,24
 
 ;「そ、そんな……。」\
-`"Th- thats..."`\
+`"Th- that's..."`\
 
 ;「え？　何？@　俺たち友達じゃねぇの？@　友達じゃねぇの？！@　え？　え？！@　俺はお前の友達じゃねぇのかよ！！@　友達だろッ、友達だろッ、ああッ？！？！」\
-`"Huh? What is it? `@`Are we not friends? `@`We're not friends?! `@`Huh? HUH?! `@`I'm your frriend, aren't I?!! `@`We're friends, friends, huh?!?!"`\
+`"Huh? What is it? `@`Are we not friends? `@`We're not friends?! `@`Huh? HUH?! `@`I'm your friend, aren't I?!! `@`We're friends, friends, huh?!?!"`\
 
 
 se1 6
@@ -514,7 +514,7 @@ bg ie_01u,22
 bgm1 14
 
 ;　家で母親に、どうしてそんなに汚してしまったのかと怒られた。@
-` When he got home his mother got mad at him, adking how he got his pants so dirty.`@
+` When he got home his mother got mad at him, asking how he got his pants so dirty.`@
 br
 ;　自分がいじめられていると認めたくない正明は、@友達とふざけていて、つい汚してしまったと言い訳するのだった。\
 ` Not wanting to admit that he was being bullied, `@`Masaaki said that he was messing around with his friends and he got them dirty.`\
@@ -588,7 +588,7 @@ br
 
 
 ;　彼らが言うには、遊んでいるだけ、からかっているだけらしい。@
-` According to them, they were justing hanging out and teasing him.`@
+` According to them, they were just hanging out and teasing him.`@
 ;　しかし、正明にとっても由香里にとっても、それは明白ないじめに他ならなかった。\
 ` But it was incredibly obvious to both Masaaki and Yukari that he was being outright bullied.`\
 
@@ -631,7 +631,7 @@ ld c,YOS_D3a,23
 
 
 ;　廊下に連れ出されると、正明は由香里の手を、少し乱暴に振り払った。\
-` Once out in the hallway, Masaaki angerly pulled his arm out of Yukari's hand.`\
+` Once out in the hallway, Masaaki angrily pulled his arm out of Yukari's hand.`\
 
 
 cl c,0
@@ -822,7 +822,7 @@ ld r,YUK_w3,23
 ld l,YOS_D10a,80
 
 ;「しねーよ、絶対ぇッ。」@
-`"I wont, ever."`@
+`"I won't, ever."`@
 br
 
 ;cl l,24
@@ -841,12 +841,12 @@ bg black,24
 ;bg kyou_04,24
 
 ;　……彼女の言葉に、ほのかな温かさも覚えたが、@それを認めたら負けだという意地の方が勝っていた。@
-` ...He felt a bit of kindness in her words, `@`but if if he recognized it, it mean admitting defeat.`@
+` ...He felt a bit of kindness in her words, `@`but if he recognized it, it mean admitting defeat.`@
 br
 ;　彼はずかすかと足早に教室へ戻る。@
 ` He hurried straight back to the classroom.`@
 ;　……ちくりと心が痛むのを感じながら。\
-` ...While his heart styung with a small pain.`\
+` ...While his heart stung with a small pain.`\
 bg black,2
 ;mono 0
 
@@ -869,7 +869,7 @@ bg kyou_02,22
 ` It's not that she had abandoned him. `@`She simply tried to wait until he voluntarily decided he had enough of the bullying.`\
 
 ;　いじめられっこには、いじめられまいとする克己が不可欠。@それが由香里の持論だった。@
-` Somone who is being bullied must have the resolve to stop that bullying themselves. `@`That was Yukari's theory.`@
+` Someone who is being bullied must have the resolve to stop that bullying themselves. `@`That was Yukari's theory.`@
 br
 ;　それがなければ、いくら第三者がいじめを止めたところで、その場限りにしかならない。\
 ` If they don't have that resolve, even if a third-party steps in and stops the bullying, it will only be a temporary fix.`\
@@ -952,7 +952,7 @@ cl r,22
 ` ...Now that it was dusk, the inside of the school had fallen completely silent.`@
 br
 ;　校庭で遊ぶ子供たちの声は、とても楽しそうなのに、@それがとても遠くに聞こえて、何だか悲しい気持ちだった。\
-` The kids playings in the schoolyard sounded like they were having a lot of fun, `@`but it sounded so far off that it sounded somewhat sad.`\
+` The kids playing in the schoolyard sounded like they were having a lot of fun, `@`but it sounded so far off that it sounded somewhat sad.`\
 
 ;bg koutei_03,0
 ;ld r,YOS_D1,24
@@ -978,7 +978,7 @@ br
 ;　正明は希薄なため息を漏らす。@
 ` Masaaki let out a weak sigh.`@
 ;　最近、自分の意識も希薄になってきた気がしていた。\
-` Lately, he felt like even his conciousness had grown weak.`\
+` Lately, he felt like even his consciousness had grown weak.`\
 
 
 bg black,22
@@ -989,10 +989,10 @@ bg black,22
 ;bg different_spiral_1a,22
 
 ;　頭にはもやがいつも掛かっていて、@……昨日はおろか、今朝の朝食が何だったかさえ思い出すことが出来ない。@
-` His head felt like it was perpetually shrouded in a haze.`@`... He couldn't even remember what he had for brakefast yesterday, or even this morning for that matter.`@
+` His head felt like it was perpetually shrouded in a haze.`@`... He couldn't even remember what he had for breakfast yesterday, or even this morning for that matter.`@
 br
 ;　……それは彼の心を守るために、彼自身が無意識に行なっていることなのだろう。\
-` ...That was probably his body's way of unconciously protecting his heart.`\
+` ...That was probably his body's way of subconsciously protecting his heart.`\
 ;　日々、エスカレートするいじめ。@
 ` Every day the bullying gets worse.`@
 ;　でも、それをいじめとは決して認めたくない、自己矛盾。@
@@ -1001,10 +1001,10 @@ br
 ` In order to prevent that suffering... `@`the haze took over his head, and faded both him memories and pain.`\
 
 ;　……だからといって、彼が気楽になれるわけでもない。@
-` ...That's no to say that he was at ease.`@
+` ...That's not to say that he was at ease.`@
 br
 ;　麻酔をしたって、歯医者の激痛がゼロになるわけはないのだ。\
-` Even when given anesthesia at the detist's office, it doesn't reduce the pain to nothing.`\
+` Even when given anesthesia at the dentist's office, it doesn't reduce the pain to nothing.`\
 bg Different_spiral_1b,22
 
 ;　さりとて、その麻酔がなければ、@彼の心はとっくの昔に、粉々に砕けてしまっていただろう。@
@@ -1122,15 +1122,15 @@ bgm1 8
 ;　その時、正明は多分、白昼夢を見た。@
 ` Masaaki was probably having a daydream at that point.`@
 ;　それは不思議な不思議な、………そして美しい幻想。@
-` It was a strange, stange... as well as beautiful illusion.`@
+` It was a mysterious wonder... as well as beautiful fantasy.`@
 br
 ;　眼下に、ゆっくりと赤い花の絨毯が広がっていく、美しい幻想。\
 ` On the ground below, he saw a beautiful illusion of a carpet of red flowers spreading out before him.`\
 
 ;　……それは、彼岸花の花園。@
-` ...It was a garden of Higanbana.`@
+` ...It was a garden of higanbana.`@
 ;　血のように赤くて儚い彼岸花が、ゆっくりと咲きながら広がっていくのだ。@
-` A fleeting carpet of blood red Higanbana, slowing blooming and spreading outwards.`@
+` A fleeting carpet of blood red higanbana, slowing blooming and spreading outwards.`@
 br
 ;　その中心に、………黒い髪の少女が立って、こっちを見上げているのだ。\
 ` In the center of that flower garden..... stood a black haired girl, looking up at me.`\
@@ -1154,14 +1154,14 @@ br
 ` ...If I jump... I can escape from this miserable reality.`@
 br
 ;　そしてあの儚くも美しい、彼岸花の世界へ迎えられるのだ。\
-` And be welcomed to that fleeting, beautiful world of Higanbana.`\
+` And be welcomed to that fleeting, beautiful world of higanbana.`\
 ;　もう、学校もいじめもない。@
 ` There will be no more school, no more bullying.`@
 br
 ;　罰ゲームと称して痛いことをされることもないし。@
 ` There would be no more pain in the form of punishment games.`@
 ;　友達だからと、恥ずかしいことを強要されることもない。\
-` There would be no more being force to do embarrassing things under the flase pretense of being friends.`\
+` There would be no more being force to do embarrassing things under the false pretense of being friends.`\
 cl c,0
 ld l,HIG_D3,24
 ;ld l,HIG_D1,80
@@ -1184,7 +1184,7 @@ mld c,HIG_w4,3
 
 
 ;「ならばおいでなさい。@この彼岸花の世界へ。@……さぁ、おいでなさい。@……あなたが自分で決めて、自分でここへ来るのよ。@……あなたの腕で、脚で。@……そのベランダを乗り越えなさい……。」\
-`"In that case, come to me. `@`To this world of Higanbana.`@`... Come here to me.`@`... Make your own decision, and come to me on your own.`@`... With your own arms, and your own legs.`@`... climb off that balcony..."`\
+`"In that case, come to me. `@`To this world of higanbana.`@`... Come here to me.`@`... Make your own decision, and come to me on your own.`@`... With your own arms, and your own legs.`@`... climb off that balcony..."`\
 textoff
 
 se1 84
@@ -1203,7 +1203,7 @@ wait 1000
 bg e013,2
 
 ;　正明の瞳にはもう、……一面に咲き乱れる彼岸花しか映っていない。@
-` By now... that field of blooming Higanbana was the only thing reflected in Masaaki's eyes.`@
+` By now... that field of blooming higanbana was the only thing reflected in Masaaki's eyes.`@
 br
 ;　彼はゆっくりと……、ベランダの柵に這い上がろうと脚を上げる……。\
 ` Slowly... he crept up to the railing of the balcony and raised his leg...`\
@@ -1457,7 +1457,7 @@ bg shokuin_01,22
 ;　先生にも相談したが、喧嘩両成敗みたいな扱いで、まったく庇ってくれなかった。@
 ` He tried talking to his teachers, but they just treated him like he was too blame as well, and wouldn't protect him at all.`@
 ;　両親も仕事のことで頭がいっぱい。@子供の喧嘩に親は出ない、みたいなことを言って、まったく相手にしてくれない。@
-` As for his parents, all they cared about was work. `@`They would always say somethinga bout parents not gettings involved in fights between children, and wouldn't help him at all.`@
+` As for his parents, all they cared about was work. `@`They would always say something about parents not getting involved in fights between children, and wouldn't help him at all.`@
 br
 ;　相談できるような友達なんていやしない…！\
 ` And he didn't even have any friends that he could honestly talk to...!"`\
@@ -1608,7 +1608,7 @@ bg kyou_02u,23
 ;　……もう、死にたいとは思わない。@
 ` ...He no longer wanted to die.`@
 ;　出来ることなら、仕返しがしたい。@
-` He wanted to have his revenge in whatever whatever way possible.`@
+` He wanted to have his revenge in whatever way possible.`@
 br
 ;　死ねば永遠にそれが出来なくなるのだから。\
 ` If he died, he would never be able to do that.`\
@@ -1628,7 +1628,7 @@ br
 ld c,YOS_D14,80
 
 ;「いつか絶対、仕返ししてやる……。@絶対、……いつか……、……畜生……。」@
-`"At some point, I WILL have my revenge.... `@`Eventually... I WILL....... Damnit...."`@
+`"At some point, I WILL have my revenge.... `@`Eventually... I WILL....... Damn it...."`@
 br
 ;　由香里が望んだ形とは違うが、@……彼がいじめられっこであることを自覚し、自殺という方法で逃れようと思わなくなっただけでも、@良しとすべきかもしれない……。\
 ` It was different than the way Yukari would have wanted... `@`but because he finally accepted that he was being bullied, and wasn't trying to kill himself to escape from it, `@`she would probably have to agree with him...`\
@@ -1734,11 +1734,11 @@ br
 ` She may have been a middle schooler, or high schooler.`@`... No, it's more likely that she was a college student.`@
 br
 ;　整った顔立ちと、長く美しい髪はとても知性的で、とても大人っぽく見えた……。\
-` Her sculpted face and long, beautiful hair made her seem very intellectual and adultlike...`\
+` Her sculpted face and long, beautiful hair made her seem very intellectual and adult-like...`\
 ld c,AZA_D2,80
 
 ;「ずっといじめられていた気の毒ないじめられっこが、@……クラス替えや夏休み明けに、人が変わったかのように豹変し、@いじめっこに生まれ変わることがあるいう。@………それは、復讐の力を宿らせる、魔法のアザミの仕業……。」\
-`"A pitiful child who was always being bullied.... `@`suddenly becomes a new person after chaning classes or coming back from summer break, `@`and are born anew as a bully themselves.`@`... That is the revenge granting power of a magical thistle..."`\
+`"A pitiful child who was always being bullied.... `@`suddenly becomes a new person after changing classes or coming back from summer break, `@`and are born anew as a bully themselves.`@`... That is the revenge granting power of a magical thistle..."`\
 
 
 bg black,22
@@ -1777,7 +1777,7 @@ br
 bg black,22
 
 ;　学校では、唐突に性格が変わった子がいると、@アザミでも食ったんじゃねぇ？　と囁く子がいるが、@それはこの「復讐のアザミ」のことなのだ……。\
-` Whenever a kid shows up to school and their personality has done a complete 180, `@`you'll often hear some kids whispers between themselves, `@`'Did they eat a thistle?' `@`When they do, they're referring to this story of 'Azami the Venfegul'....`\
+` Whenever a kid shows up to school and their personality has done a complete 180, `@`you'll often hear some kids whispers between themselves, `@`'Did they eat a thistle?' `@`When they do, they're referring to this story of 'Azami the Vengeful'....`\
 ;bg akiti_2y,22
 ;ld l,AZA_D1,0
 ;ld r,YOS_D1,22
@@ -2117,7 +2117,7 @@ cl r,0
 ld c,YOS_D7,24
 
 ;　今のは丸々、白昼夢だったのではと疑いたくもなる。@
-` He wanted to believe that what just happend was all a daydream.`@
+` He wanted to believe that what just happened was all a daydream.`@
 br
 ;　しかし、……胃の中の熱さは収まらない。\
 ` But... the warmth in his stomach was still there.`\
@@ -2129,7 +2129,7 @@ ld c,YOS_D8a,80
 ;　正明は自分の両手を見る。@
 ` Masaaki looked down at his hands.`@
 ;　手の平にも、何か熱さが宿ったように感じた。@
-` He could feel a wamrth spreading through the palms of his hands as well.`@
+` He could feel a warmth spreading through the palms of his hands as well.`@
 br
 ;　自分は本当に、……いじめっこになれたのだろうか。\
 ` Could he... really become a bully?`\
@@ -2413,7 +2413,7 @@ br
 ld c,YOS_D10,80
 
 ;「おい、待てよ。@まだここに残ってるじゃねぇかよ…！」@
-`"Hey, wait. `@`You mised a spot...!"`@
+`"Hey, wait. `@`You missed a spot...!"`@
 br
 ;「……ぁ、あれ書いたの俺じゃねぇよ……。」@
 `"...ah, that wasn't me who wrote that..."`@
@@ -2597,7 +2597,7 @@ ld r,AZA_D2,80
 ld c,SMI_w4,80
 
 ;「逆に、そなたの世界はどうであったか。@……暗く狭く、息苦しい世界であったろうが。」@
-`"Conversely, what was your world like before now?`@`... Was it a dark, small and stiffling world?"`@
+`"Conversely, what was your world like before now?`@`... Was it a dark, small and stifling world?"`@
 ;ld r,YOS_D1,80
 ld l,YOS_D8a,80
 
@@ -3024,7 +3024,7 @@ br
 ;bg black,22
 
 ;　かつてはいつも俯いていた。@それに比べたら、どれほど生気に溢れていることか。@
-` There was a time when he used to always hang his head, and cast his eyes down. `@`Comapred to that, he now seemed overflowing with vitality.`@
+` There was a time when he used to always hang his head, and cast his eyes down. `@`Compared to that, he now seemed overflowing with vitality.`@
 br
 ;　それを見て由香里は、どんな形であれ、彼がいじめられっこの境遇から逃れられたことを、率直に喜んだ。\
 ` No matter the circumstances, Yukari was honestly happy to see him being not only confident, but also no longer being bullied.`\
@@ -3339,7 +3339,7 @@ ld l,YOS_D10,23
 ` The bully... actually, it would be strange to still call him a bully at this point, but at any rate...`@
 br
 ;　いじめっこは弱々しい笑顔でおずおずと、「う、うん……。」と正明に答える……。\
-` The bully made his lips into a slender smiler, and answered Masaaki with a nervous "Y-Yes....."`\
+` The bully moved his lips into a slender smile, and answered Masaaki with a nervous "Y-Yes....."`\
 
 ;bg ura8,0
 ;ld r,YUK_D1,0
@@ -3454,7 +3454,7 @@ ld c,YOS_D10,22
 ld c,YOS_D10n,80
 
 ;「全然足りてねぇよ！！@　あいつらは寄って集って大勢でいじめたんだ！@　それに比べたら、こいつらは俺一人にいじめられるだけ。@大甘じゃねぇか！！@　それにな、俺の心の傷が癒えたかどうかは、お前じゃねぇ、俺にしか決められないんだ！！@　被害者である俺だけが、復讐の権利と、心の傷がいつ癒えたかどうかを決定できるんだッ！！」\
-`"It's nowhere near enough!! `@`They all ganged up on me when they bullied me! `@`Comapred to that, what I can dish out to them alone, `@`it's far too lenient on them!! `@`And you're not the one who can decide whether or not I've had enough to heal my heart, I'm the only one who knows that!! `@`I'm the victim, so I'm the only one who can decide what amount of revenge is necessary to heal the wounds caused to my heart!!"`\
+`"It's nowhere near enough!! `@`They all ganged up on me when they bullied me! `@`Compared to that, what I can dish out to them alone, `@`it's far too lenient on them!! `@`And you're not the one who can decide whether or not I've had enough to heal my heart, I'm the only one who knows that!! `@`I'm the victim, so I'm the only one who can decide what amount of revenge is necessary to heal the wounds caused to my heart!!"`\
 ld r,YUK_i1a,24
 ;ld r,YUK_D1,80
 
@@ -3485,7 +3485,7 @@ wait 500
 `"I-... I'm sorry... I'm sorry....."`@
 br
 ;　少年はすっかり怯えきり、由香里の背中に隠れて半泣きしている……。\
-` The boy frightenedly hid behind Yukari's back, nearly on the verge of tears...`\
+` The boy fearfully hid behind Yukari's back, on the verge of tears...`\
 ld r,YUK_i3a,80
 
 ;「ほらっ。@彼は謝ったわよ！@　許してあげなさいよ…！！」\
@@ -3544,7 +3544,7 @@ cl l,0
 ld c,YOS_D8a,23
 
 ;「…………ンだよ…………。@……ンだよ、……畜生………。@……何しやがんだよ、……榊てめぇ………。」@
-`"......What the.....`@`... what the.... damnit.....`@`... What the fuck was that?... Sakaki, you bitch....."`@
+`"......What the.....`@`... what the.... damn it.....`@`... What the fuck was that?... Sakaki, you bitch....."`@
 br
 ;　由香里は応えない。@聞こえているはずなのに、まったく聞こえないかのように無視している。\
 ` Yukari didn't respond. `@`She heard what she said, but she just ignored him.`\
@@ -3554,7 +3554,7 @@ br
 ld c,YOS_D11,80
 
 ;「…………畜生ぉ……。@……畜生ぉ、畜生ぉッ、……畜生ッッ！！！」\
-`"......Damnit...`@`... damnit, damnit... Damn it!!!!"`\
+`"......Damn it...`@` ...damn it, damn it... Damn it!!!!"`\
 
 
 ;cl l,24
@@ -3606,7 +3606,7 @@ br
 
 
 ;　誰もが暗く俯き、意識は希薄になっていく。@かつて正明がそうだったように。@
-` Everyone lowered their head gloomily, trying to make themselves as unnoticable as possible. `@`Just as Masaaki had once done himself.`@
+` Everyone lowered their head gloomily, trying to make themselves as unnoticeable as possible. `@`Just as Masaaki had once done himself.`@
 br
 ;　その一方で。@正明にとっての世界は、燦々と太陽が照りつける南国かのように、@日々が明るく快晴で、満ち足りたものだった。\
 ` On the other hand, `@`Masaaki's life was like living on a bright sunny tropical island. `@`Every day was sunny and beautiful and happy.`\
@@ -3639,7 +3639,7 @@ br
 ` Because of that, he could understand what's written on the backboard and the contents of the teacher's lectures better. `@`He was soaking up the lessons just like a sponge.`\
 
 ;　勉強そのものも、まるでテレビのバラエティ番組のように感じられ、@応用問題も愉快なクイズのように感じられた。@
-` Even studying felt like a variety TV show to him. `@`Application exercises like pleasant little quizes.`@
+` Even studying felt like a variety TV show to him. `@`Application exercises like pleasant little quizzes.`@
 br
 ;　その結果、どんどん成績は上昇し、勉強は更に面白くなり、@それらが好循環となり、正明の成績はどこまでも上昇していった。\
 ` And so, his grades got even better because of that, and then studying got even more fun in result. `@`It became a cycle of rising grades for Masaaki.`\
@@ -3656,7 +3656,7 @@ br
 ` His breathing got steadier, and his spirits rose higher.`\
 
 ;　辛くて苦手だったマラソンさえ、友達を小突いてじゃれ合いながらの遊びに感じられた。@
-` Even a diffcult marathon felt like playing and running around with friends.`@
+` Even a difficult marathon felt like playing and running around with friends.`@
 ;　球技も競争も、何もかもが遊びに感じられる。@
 ` Ball games, competitions, they all felt like playing.`@
 br
@@ -3697,7 +3697,7 @@ ld r,AZA_D3,22
 mld c,YOS_D8,80
 
 ;「……確かに……。@かつては大嫌いだった勉強も運動も、@……全てが信じられないくらいに絶好調で……。@今の俺なら、何も出来ないことなんかないって、気持ちになります……。」\
-`"...It really is....`@` I used to hate studying and execising.... `@`But now I'm doing so well at them... `@`I feel like there's nothing I can't do nowadays..."`\
+`"...It really is....`@` I used to hate studying and exercising.... `@`But now I'm doing so well at them... `@`I feel like there's nothing I can't do nowadays..."`\
 ld r,AZA_D2,80
 
 ;「気持ちではありませんよ。@それは今や、あなたの立派な実力なのです。@今のあなたなら、学業も学校生活も私生活も、全てを完璧にやり遂げ、@立派な成績と自信をもって、より素晴らしい世界に羽ばたいていくことが出来るでしょう。」\
