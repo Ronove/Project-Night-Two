@@ -6154,7 +6154,7 @@ se1 47
 quakex 2,200
 
 ;「ダ・レ・ガ、偽善デスッテぇええぇえぇ…？！」@
-`"W H O are you callng a hypcriiiite...?!"`@
+`"W H O are you calling a hypocriiiite...?!"`@
 cl a,0
 ld r,AZA_D6,0
 ld c,HIG_w5,23
