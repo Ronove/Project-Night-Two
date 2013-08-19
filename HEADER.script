@@ -8,7 +8,7 @@
 humanz 900
 
 ;windowback
-
+automode_time -50
 mode_wave_demo
 
 nsa
@@ -24,8 +24,8 @@ killmenu 2
 
 ;caption "彼岸花の咲く夜に　第二夜"
 ;versionstr "彼岸花の咲く夜に　第二夜　ver1.004","制作　０７ｔｈ　Ｅｘｐａｎｓｉｏｎ"
-caption "Higanbana no Saku Yoru Ni - The Second Night - English Patch v0.0"
-versionstr "Higanbana no Saku Yoru Ni - The Second Night ver1.004","created by 07th Expansion"
+caption "Higanbana no Saku Yoru ni - The Second Night, English Patch v0.0"
+versionstr "Higanbana no Saku Yoru ni - The Second Night ver1.004","created by 07th Expansion"
 
 ;メニューの内容
 ;rmenu "セーブする",save,"ロードする",load,"次の選択肢へスキップする",skip,"文字を消す",windowerase,"回想",lookback,"タイトルに戻る",reset
