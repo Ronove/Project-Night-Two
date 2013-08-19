@@ -3730,7 +3730,7 @@ bg aka1,2
 ` That... is the state of mind she was talking about.`@
 br
 ;　皆を虐げ、魂を食らう。@
-` To oppress eveyone, and feed on their souls.`@
+` To oppress everyone, and feed on their souls.`@
 ;　自分の世界は明るくなり、何もかもが充実し、それを先生に大いに評価される。\
 ` To brighten his world, and become perfect at everything, that is what the teacher's admire.`\
 
@@ -3806,7 +3806,7 @@ br
 ` And as king I will use them as stepping stone to reach a higher world.`@
 br
 ;　そうさ。@俺の踏み台になってくれたこいつらの分まで、@俺は上の世界へ行かなくちゃならないんだ。@
-` That's right. `@`I have to to take myself to a higher world, `@`not just for my sake, but for the sake of my stepping stones as well.`@
+` That's right. `@`I have to take myself to a higher world, `@`not just for my sake, but for the sake of my stepping stones as well.`@
 ;　俺は王様。@……王様、王様……。\
 ` I am the king.`@`... The king, the king....`\
 mld c,YOS_D8a,80
@@ -3907,7 +3907,7 @@ ld r,YOS_D7,80
 ld l,YUK_i2,80
 
 ;「それでも私は……、……絶対にいじめを許さないっ。」\
-`"Stil..... I refuse to let you get away with bullying."`\
+`"Still..... I refuse to let you get away with bullying."`\
 ld r,YOS_D8a,80
 
 ;「しつこい女だな。@何でそんなに、いじめいじめってうるせぇんだよ。」\
@@ -4260,7 +4260,7 @@ ld r,AZA_D3,80
 ld l,SMI_w3,80
 
 ;「おお、姉者、それは素晴らしき名案じゃ！@　いじめと抗うと申した由香里が、いじめっことなりいじめの愉悦に染まるとは…！！@　ふっふふふふ、それは実に面白き名案じゃ！」\
-`"Ohh, sister, what a spledid idea! `@`The once proud Yukari who went against bullying giving in to the joys of bullying herself...!! `@`Fufufufu, That really is an amusing idea!"`\
+`"Ohh, sister, what a splendid idea! `@`The once proud Yukari who went against bullying giving in to the joys of bullying herself...!! `@`Fufufufu, That really is an amusing idea!"`\
 mld c,YUK_i2,80
 
 ;「……私は、いじめっこになんか、絶対になりません。」\
@@ -4625,7 +4625,7 @@ quakey 2,100
 se2 7
 quakex 2,200
 ;　いつもいつも、いつもいつもッ！！」@
-` You're alwys treating us like slaves!!"`@
+` You're always treating us like slaves!!"`@
 se1 12
 quakey 2,200
 ;「もうお前なんか怖くないぞ、死ね死ね死ね死ねッ！！！」\
@@ -4753,7 +4753,7 @@ br
 ` The classmates would plan to take their newfound revenge out on him all day, every day.`@
 br
 ;　……彼がどんなに虚勢を張ろうと、@……彼は今や、クラス全体のいじめられっこに転落しているのだ……。\
-` ...No matter what flase courage he would try to show... `@`he would be taken down by the every bullied student in the class...`\
+` ...No matter what false courage he would try to show... `@`he would be taken down by the every bullied student in the class...`\
 
 bg black,22
 bg kyou_02,0
@@ -4782,7 +4782,7 @@ cl a,0
 ld c,SMI_w6,23
 
 ;「お前も覚えておる通り、クラス全体によるいじめは苛烈じゃ。@ほんの数人のいじめに根を上げていた正明如きに、いつまでも耐えられるわけがなかろう。@……元々、か弱いいじめられっこよ。@化けの皮が剥がれた今、そういつまでも持つわけがあるまい！」\
-`"As you no doubt remember, being bullied by an entire class is especially severe. `@`Someone like Masaaki, who caved in after being bullied by just a few people, may not be able to tolerate it.`@`... Originally he was a weak, bullied child. `@`Now that he's shed his tranformation, he won't be able to keep up like that forever!"`\
+`"As you no doubt remember, being bullied by an entire class is especially severe. `@`Someone like Masaaki, who caved in after being bullied by just a few people, may not be able to tolerate it.`@`... Originally he was a weak, bullied child. `@`Now that he's shed his transformation, he won't be able to keep up like that forever!"`\
 ld l,AZA_D4,22
 ;ld l,AZA_D1,80
 
@@ -5077,7 +5077,7 @@ bg gakkou_02,2
 ` Days passed... and before long ten days had already passed.`@
 br
 ;　数々の乱暴をされ、生傷も絶えず、絆創膏を貼った顔が痛々しい。\
-` They were always attacking her and leving countless painful looking wounds. Her face was always covered in bandages.`\
+` They were always attacking her and leaving countless painful looking wounds. Her face was always covered in bandages.`\
 bg black,22
 
 ;　とぼとぼと下校する彼女を追い、正明は声を掛ける……。\
@@ -5108,7 +5108,7 @@ ld l,YOS_D3a,80
 bgm1 24
 
 ;　いじめを憎み、決して怯まぬ決意を常に顔に浮かべていた彼女の顔が、@……痛々しいくらいに変わり果てていた。\
-` The face of the girl, who once hated bullying and refused to ever falter in the face of bringing it down... `@`now looked enitrely too pitiful.`\
+` The face of the girl, who once hated bullying and refused to ever falter in the face of bringing it down... `@`now looked entirely too pitiful.`\
 
 ;　あれだけ毎日、酷いいじめに遭っているのだ。@……彼女の世界が今、どれほど暗く窮屈なものか、正明には容易に想像できた。\
 ` After having to endure such horrible bullying every day.`@`... Masaaki could easily imagine how dark and constrained her world must have felt right now.`\
@@ -5163,7 +5163,7 @@ ld r,YUK_D2,80
 `"..........`@`...It appears so."`@
 br
 ;　由香里も、それを認めつつあった。\
-` Yukari was in the process of admiting that to herself as well.`\
+` Yukari was in the process of admitting that to herself as well.`\
 bg black,22
 
 ;　……いじめは許さない。@
@@ -5338,7 +5338,7 @@ ld c,SMI_w3,80
 ;「ふっひはははははは！！@　これは面白いのじゃ！@　あの、いじめを憎むと豪語しよった由香里がいじめっこに目覚めるとは、実に面白いのじゃ…！！」\
 `"Fuhihahahahaha!! `@`How interesting! `@`Awakening Yukari, who used to brag about hating bullying, to the pleasures of it, how interesting...!"`\
 ;「………いじめられなくなるかもしれないけど、@……今度は、……私が誰かをいじめちゃうんだよね………。」\
-`"....It may save me from th ebullying... `@`But... it will also mean that I will start bullying someone myself this time, right.....?"`\
+`"....It may save me from the bullying... `@`But... it will also mean that I will start bullying someone myself this time, right.....?"`\
 ld c,SMI_w5,80
 
 ;「うむ。@姉者のアザミを口にすれば、いじめっことして覚醒することになるのじゃ！」@
@@ -5406,7 +5406,7 @@ quakex 1,100
 ld c,AZA_D3,80
 
 ;「さぁ、どうするのです、由香里さん。@あなたは復讐のアザミを望みますか…？」\
-`"Now then, Yukari, what shall you do? `@`Do you wish for a thistle of vengence...?"`\
+`"Now then, Yukari, what shall you do? `@`Do you wish for a thistle of vengeance...?"`\
 bg black,23
 bg roji_05,0
 ld c,YUK_D3,23
@@ -5525,7 +5525,7 @@ ld r,AZA_D3,22
 ;ld r,AZA_D1,80
 
 ;「明日よりあなたはいじめに飢えた狼です。@……吉川くんも、彼女に近付かぬように気を付けることですよ。@もっとも、あなたは望んで近付き、生贄となるつもりでしょうが。」\
-`"Starting tomorrow you will be a bloodthristy wolf, hungry for bullying.`@`... Yoshikawa-kun, I would advice being careful of not getting to close to her. `@`Though if you do wish to get close to her, be aware that you will doing so as a scapegoat."`\
+`"Starting tomorrow you will be a bloodthirsty wolf, hungry for bullying.`@`... Yoshikawa-kun, I would advice being careful of not getting to close to her. `@`Though if you do wish to get close to her, be aware that you will doing so as a scapegoat."`\
 cl c,0
 mld c,SMI_w2,80
 
@@ -5607,7 +5607,7 @@ ld r,SMI_w2,22
 ;ld r,SMI_D1,80
 
 ;「おお、姉者！@　由香里じゃ由香里じゃ！@　今、昇降口に入ったぞ…！」\
-`"Oh, sister! `@`It's Yukari, it's yukari! She's here! `@`She just came in through the front doors of the school...!"`\
+`"Oh, sister! `@`It's Yukari, it's Yukari! She's here! `@`She just came in through the front doors of the school...!"`\
 ld l,AZA_D3,80
 
 ;「どんな様子でしたか？」@
@@ -5976,7 +5976,7 @@ ld c,YUK_i4,22
 `"Is there anyone here who wants to bully me?"`@
 br
 ;　いるわけもない。@由香里と目が合うと、皆、慌てて首を横に振る。\
-` Of course there wouldn't be. `@`Everyone who met Yukari's eyes hurridly shook their head.\
+` Of course there wouldn't be. `@`Everyone who met Yukari's eyes hurriedly shook their head.\
 ld c,YUK_i5,80
 
 ;「…………なら。@……慎ましく生きやがれ。@…………返事はぁあああぁッ！！！」@
@@ -6212,7 +6212,7 @@ ld c,MAR_w1,23
 ;ld c,MAR_D1,80
 
 ;「……由香里ちゃんのいじめを憎む気持ち。@……いつまでも、見守っていますからね……。@がんばって、由香里ちゃん。」\
-`"...I'll be watching over over your hatred for bullying.`@`... So... `@`Hang in there, Yukari-chan."`\
+`"...I'll be watching over your hatred for bullying.`@` ...So...`@` Hang in there, Yukari-chan."`\
 ;＜毬枝
 
 cl c,2
