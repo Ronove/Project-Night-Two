@@ -1440,7 +1440,7 @@ bgm1 23
 se1v 84,100
 
 ;ひゃっはっは！！」@
-` Hya ha ha!!"`@
+` hya ha ha!!"`@
 br
 ;　開口一番に死神が聞かせた笑い声は、……紛れもなく、あの悪夢の中で聞いたものだった。\
 `　When I first heard the shinigami's laughter, ...it was without a doubt the same one I had heard from within that nightmare.`\
@@ -1466,7 +1466,7 @@ ld l,AYA_D8a,80
 ld r,IZA_D2,80
 
 ;「そうとも。@夢で見た通りだぜ。@俺はお前を追って、殺す。@お前は死にたくなけりゃ、必死こいて逃げまくってみろ。@俺ァ、お前らが汗だくになって逃げ惑うのを、@どこまでもどこまでも追い掛けるのが、最高の楽しみなんだァ！！@　そぅら、逃げろや、逃げろ！！@　俺に捕まったらどうなるか、お前はもう、知っているはずだぜェ…！！」\
-`"Maybe. `@`It's just like you saw in your dream. `@`I'll chase you, and I'll kill you. `@`If you don't want to die, then try running away with everything you have. `@`You know, for me seeing your kind covered in sweat, `@`and chasing you everywhere, that's what I find truly fun!! `@`On you go, now run, RUN!! `@`You already know what's gonna happen to you when I catch you...!!"`\
+`"Maybe. `@`It's just like you saw in your dream. `@`I'll chase you, and I'll kill you. `@`If you don't want to die, then try running away with all your might. `@`You know, for me seeing your kind covered in sweat, `@`and chasing you everywhere, that's what I find truly fun!! `@`On you go, now run, RUN!! `@`You already know what's gonna happen to you when I catch you...!!"`\
 
 ld r,IZA_D5,80
 
@@ -1481,7 +1481,7 @@ ld l,AYA_D5a,80
 ;　意味もわからない、わけもわからないっ。@
 `　I don't know why, I don't know how.`@
 ;　でも、あんな地獄に落とされるなんて、絶対にごめんだっ。@
-`　But being thrown into that kind of hell is something I want to avoid that at all costs.`@
+`　But being thrown into that kind of hell is something I want to avoid at all costs.`@
 br
 ;　私は死神の不敵な笑いと教室の出口を見比べながら、恐る恐る、教室を出る。\
 `　As I looked at the classroom exit and watched that shinigami's fearless grin, carefully, carefully, I leave the classroom.`\
@@ -1583,7 +1583,7 @@ ld l,AYA_D5a,23
 ld r,IZA_D6,80
 
 ;「俺かァ？@　いいぜェ。@お前とはどれほどの付き合いになるか知らねェが、一応、自己紹介をしてやらァ。@俺は学校妖怪序列第２位「１３階段の死神」こと、イザナミさまよ！」\
-`"Who am I? `@`Alright. `@`I don't know how long we're going to be seeing each other, but I guess I'll introduce myself. `@`I am The Second Rank of the School Youkai, "Reaper of the 13th Step", Izanami-sama!"`\
+`"Who am I? `@`Alright. `@`I don't know how long we're going to be seeing each other, but I guess I'll introduce myself. `@`I am The Second Ranked of the School Youkai, "Reaper of the 13th Step", Izanami-sama!"`\
 
 bg black,23
 
@@ -1625,7 +1625,7 @@ ld l,IZA_D6,80
 `"You stepped on it, fool. `@`My 13th step!! `@`You counted it out clearly as you went up, didn't you? `@`I'm not gonna let you forget it!! `@`The 13th step is my fish hook, so to speak. `@`When my favorite prey, you deadbeats, step on it, then you're whisked off to my world! `@`You stepped on it, so you're my prey nowww! `@`Cry and scream all your like, no one is gonna save youuu!!"`\
 
 ;　やっぱり、１３階段の怪談は本当だったんだ。@
-`　As I thought, the tale of the 13th step was real.`@
+`　As I had thought, the tale of the 13th step was real.`@
 ;　１３階段を踏んでしまったら、死神に獲物にされ、どこまでも追い掛けられるのだ。@
 `　After stepping on the 13th step, you become prey of the shinigami, and he'll chase you no matter how far you run.`@
 br
@@ -1754,7 +1754,7 @@ br
 `　Because I... I had been running around the school entrance for ages, `@`... I'm still tired, and my breathing is still erratic.`@ 
 br
 ;　体も汗でびっしょり。@足の関節も痛み、@ついさっきまで間違いなく自分が走り回っていたことを教えてくれた……。\
-`　My body is even drenched in sweat. `@`The joints in my legs ache, `@`so I was absolutely sure until moments ago I assured myself I had been running away just moments ago...`\
+`　My body is even drenched in sweat. `@`The joints in my legs ache, `@`so I was absolutely sure I had been running away just moments ago...`\
 
 
 bg black,22
@@ -1834,7 +1834,7 @@ cl r,0
 ld c,IZA_D5,24
 
 ;「そういうこった。@まァ、いつ根を上げるか、見物ってことだぜ。@くっくくくくく！」@
-`"Exactly. `@`Well, it's quite the sight you see, when they give up the ghost - that is. `@`Ku kukukukuku!"`@
+`"Exactly. `@`Well, it's quite the sight you see, when they give up the ghost, that is. `@`Ku kukukukuku!"`@
 ;「…………………………。」\
 `".........."`\
 ;ld c,IZA_D6,80
@@ -1855,7 +1855,7 @@ br
 ld c,IZA_D8,22
 
 ;「言っておくが。@もし、俺から逃げるために学校を休んだら。@即座にゲームはおしまいで、お前を地獄送りにしちまうからな。@俺のゲームから逃げることは許さねェ！@　お前は毎日、自らの足で俺を楽しませるために学校へ通うんだ。@せいぜい風邪を引かねェように気をつけるこったなァ…！@　くっくくくく、ひっひゃっひゃっひゃっひゃ！！！」\
-`"I'll say one thing. `@`If you stop going to school to get away from me. `@`I'll whisk you away to hell and the game ends immediately. `@`I won't forgive cowards that run from my game! `@`You're gonna go to school every day and be my entertainment with those little legs of yours. `@`So you better be sure not to get a cold, 'kay?! `@`Ku kukukukuku, Hi hyahyahyahyahya!!!"`\
+`"I'll say one thing. `@`If you stop going to school to get away from me. `@`I'll whisk you away to hell and the game ends immediately. `@`I won't forgive cowards that run from my game! `@`You're gonna go to school every day and be my entertainment with those little legs of yours. `@`So you better be sure not to get a cold, 'kay?! `@`Ku kukukukuku, hi hyahyahyahyahya!!!"`\
 
 bg black,2
 ;bg gakkou_01,22
@@ -1920,9 +1920,9 @@ bg black,26
 bg kaidan_02,22
 
 ;　１階の廊下を走り抜け、２階へ上がり、呼吸を整える。@
-`　I run through the corridor on the first floor, up to the second floor and took a breath.`@
+`　I run through the corridor on the first floor, up to the second floor and take a breath.`@
 ;　イザナミが階段の下にやって来たのを見届けてから、２階の廊下を走り抜ける。\
-`　After reassuring myself that Izanami was at the bottom of the staircase, I ran through the second floor corridor.`\
+`　After reassuring myself that Izanami is at the bottom of the staircase, I run through the second floor corridor.`\
 bg black,24
 bg rouka_03,24
 
@@ -1945,7 +1945,7 @@ br
 `　But it was easy to not get caught.`@
 br
 ;　ただこうしてぐるぐると、同じ廊下をずっと走り続けていればいいだけだ。\
-`　Just going round and round these stairs and running through the same hallways over and over was good enough.`@
+`　Just going round and round these stairs and running through the same hallways over and over was good enough.`\
 bg black,23
 bg rouka_03,23
 
@@ -1964,7 +1964,7 @@ bg black,22
 `　...But could I convince myself?`@
 br
 ;　ちょっと走っては休み。@ちょっと走っては休み。@……それだけの繰り返しじゃないか。@それの何が、難しいことなんだ…？\
-`　Run a little, rest a little. `@`Run a little, rest a little. `@`I mean, all I had to do was keep doing that over and over? `@`Just what's difficult about that...?`\
+`　Run a little, rest a little.`@` Run a little, rest a little.`@` I mean, all I had to do was keep doing that over and over.`@` Just what's difficult about that...?`\
 ;　……………本当は、わかってる。@
 `　......But I knew the truth.`@
 br
@@ -2027,7 +2027,7 @@ br
 `　I just had to run around for ten minutes, but I'm this tired already.`@
 br
 ;　もしも、毎日時間が少しずつ延長していき、……やがては、１時間や２時間にも至ったら。@
-`　If the time extends little by little each day....eventually it'll reach one or two hours longer.`@
+`　If the time extends little by little each day ...eventually it'll reach one or two hours longer.`@
 ;　………それは恐ろしい想像だった。\
 `　...That was a terrible thought.`\
 mcbg 22
@@ -2048,7 +2048,7 @@ ld c,IZA_D2,24
 ld c,IZA_D3,80
 
 ;「とりあえず今日も、お前の勝ちのようだなァ。@くっひっひ…！！@　明日も楽しみにしてるぜェ？@　せいぜい、よくマッサージでもしておくんだなァ。@筋肉痛で走れねェなんて、興醒めにも程があるぜェ…！！@/
-`"I guess that means you win today too. `@`Ku hi hi...!! `@`Look forward to tomorrow, 'kaay? `@`You should do some deep massaging. `@`There's a limit, and being unable to run because of pain in your legs is such a killjoy...!!`@/ 
+`"I guess that means you win today too. `@`Ku hi hi...!! `@`Look forward to tomorrow, 'kaay? `@`You should do some deep massaging. `@`There's a limit, and being unable to run because of pain in your legs is such a killjoy...!!`@/
 
 se3v 84,100
 
