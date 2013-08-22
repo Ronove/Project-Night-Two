@@ -1751,7 +1751,7 @@ br
 `　...That can't be.`\
 
 ;　なぜなら私は、……昇降口でずっとぐるぐる逃げ回っていたから、@……疲れて、未だに息が乱れている。@
-`　Because I... I had been running around the school entrance for ages, `@`... I'm still tired, and my breathing is still erratic.`@ 
+`　Because I... I had been running around the school entrance for ages,`@` ...I'm still tired, and my breathing is still erratic.`@ 
 br
 ;　体も汗でびっしょり。@足の関節も痛み、@ついさっきまで間違いなく自分が走り回っていたことを教えてくれた……。\
 `　My body is even drenched in sweat. `@`The joints in my legs ache, `@`so I was absolutely sure I had been running away just moments ago...`\
@@ -2990,7 +2990,7 @@ ld c,AYA_D8a,80
 `　...But now it's a little different.`@
 br
 ;　曜日に隠された秘密。@……それに気付けば、……ひょっとしたら、生き延びることが出来るかもしれないという希望がある。\
-`　I have some hope.`@`... there must be some secret or clue hidden in the days of the week... If I can find it, I might be able to survive.`\
+`　I have some hope.`@` ...There must be some secret or clue hidden in the days of the week... If I can find it, I might be able to survive.`\
 cl c,23
 bg black,23
 
@@ -4222,7 +4222,7 @@ bg roji_03a,24
 `　It seems that I had spaced out and started slowing once again.`@
 br
 ;　彼の言う通りだ。@……下らないことは頭にいらない。@全て追い出し、カラッポにしよう。@
-`　He's right.`@`... I don't need this sort of stuff filling up my head. `@`I'll cast it all away.`@
+`　He's right.`@` ...I don't need this sort of stuff filling up my head. `@`I'll cast it all away.`@
 ;　頭も心も、そして体もカラッポにして軽くするんだ……。\
 `　I will empty my head and my heart so that my body will be lighter.`\
 bg black,24
@@ -4235,7 +4235,7 @@ me1v 5,85
 ;　体の中が空洞になり、羽にでもなった気がする。@
 `　It felt as if my body was hollow, and was as light as a feather.`@
 ;　目線は自然と遥か彼方へ。@……呼吸も穏やかなものになっていく。\
-`　My gaze drift far-off place.`@`... My breathing became calm.`\
+`　My gaze drift far-off place.`@` ...My breathing became calm.`\
 
 ;　足はどんどん軽くなる。@行ける、行ける、……まだまだ行ける……。@
 `　My legs rapidly became lighter. `@`I can make it, I can make it.... I can still make it...`@
@@ -4347,7 +4347,7 @@ ld r,IZA_D3,80
 ld l,ay2_D9,80
 
 ;「はい。@……そんなもの、……すごくどうでもよくて、……馬鹿馬鹿しいです。」\
-`"Yes.`@`... such things... are ridiculous at best."`\
+`"Yes.`@` ...Such things... are ridiculous at best."`\
 cl r,0
 mld c,IZA_D1,24
 
@@ -4376,11 +4376,11 @@ ld r,IZA_D6,80
 ld l,ay2_D10,80
 
 ;「……私、走るの。@………好きになりました。@……先生。」\
-`"...I really`@`.... grew to love running.`@`... Sensei."`\
+`"...I really`@`.... grew to love running.`@` ...Sensei."`\
 ;　イザナミの姿はいつの間にか、死神のマント姿ではなくなっていた。@
 `　Without my noticing, at some point Izanami's shinigami cloak had disappeared.`@
 ;　手に持っていたはずの大鎌は、竹刀に代わり。@……漆黒のマントは、ジャージに代わっていた……。\
-`　Instead of a scythe, he carried a bamboo kendo sword.`@`... and in place of his jet black cloak, he was wearing a track suit...`\
+`　Instead of a scythe, he carried a bamboo kendo sword.`@` ...And in place of his jet black cloak, he was wearing a track suit...`\
 bg black,22
 bg air_02,22
 
@@ -4437,7 +4437,7 @@ ld l,IZA_D3,80
 ld r,SIN_D2,80
 
 ;「そのようですねぇ。@……先に目を付けたのが私だったら、@彼女を素敵な夢の世界に招待できたのですが。」\
-`"You're right.`@`... If only I had found her first. `@`I could have offered to take her away to the world she desired."`\
+`"You're right.`@` ...If only I had found her first. `@`I could have offered to take her away to the world she desired."`\
 cl l,0
 mld c,IZA_D5,23
 
