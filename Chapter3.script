@@ -92,7 +92,7 @@ bg hoken_02,22
 ld r,HIG_W3,22
 
 ;「いるってわかってるくせに。@………何の用？@　鏡のキョウ。」@
-`"Asking if I'm here even though you already know the answer...`@`... What do you want? `@`Kyou of the mirror."`@
+`"Asking if I'm here even though you already know the answer...`@` ...What do you want? `@`Kyou of the mirror."`@
 br
 se1v 82,100
 ld l,KYO_D1,23
@@ -136,7 +136,7 @@ bg black,22
 ;bg Different_spiral_1a,22
 
 ;　人間たちは、鏡に自分が映っていると信じているが。@……時に鏡の向こうには、自分に瓜二つの何者かが姿を現し、あなたをじっと見据えているのだ。\
-`　Humans believe that what they see in the mirror is just a reflection of themselves.`@`... But sometimes a being that looks exactly like you will appear on the other side of that mirror and watch your every move.`\
+`　Humans believe that what they see in the mirror is just a reflection of themselves.`@` ...But sometimes a being that looks exactly like you will appear on the other side of that mirror and watch your every move.`\
 
 
 ;bg black,22
@@ -159,7 +159,7 @@ bg hoken_01,22
 ld c,KYO_D3,22
 
 ;「お前に用があるわけじゃねぇ。@……めそめその毬枝に用があんだ。」@
-`"I'm not here for you.`@`... Mesomeso Marie is the one I have business with."`@
+`"I'm not here for you.`@` ...Mesomeso Marie is the one I have business with."`@
 ld l,HIG_d10,22
 
 ;「あんたが毬枝に用？」\
@@ -241,7 +241,7 @@ mld c,KYO_D1,22
 mld c,KYO_D2,80
 
 ;「鏡は己のハートを映すんだ。@……いくら洗剤を擦りつけようと、ハートが曇ってるヤツに鏡の曇りは磨けねぇ。@……あの見事な曇りひとつない磨きっぷり。@そのウォッシュテクに惚れて、お前に頭を下げに来たというわけだ。」\
-`"A mirror reflects one's heart.`@`... If the person trying to clean a mirror has a cloudy heart, then they'll never be able to make a mirror shine, no matter how much window cleaner they use.`@`... To do such a beautiful job on cleaning that mirror, `@`I have fallen for that washing technique of yours, and have come to bow my head before you."`\
+`"A mirror reflects one's heart.`@` ...If the person trying to clean a mirror has a cloudy heart, then they'll never be able to make a mirror shine, no matter how much window cleaner they use.`@` ...To do such a beautiful job on cleaning that mirror, `@`I have fallen for that washing technique of yours, and have come to bow my head before you."`\
 
 
 ;　……言い回しがいちいち痛いが、とりあえず悪い人ではなさそうだ。@
@@ -252,7 +252,7 @@ br
 ld r,MAR_D4a,22
 
 ;「なるほど……。@キョウさんは、鏡の番人さんなんですか……。」\
-`"I see....`@`.. Kyou, you're the keeper of the mirrors...?"`\
+`"I see...`@` ...Kyou, you're the keeper of the mirrors...?"`\
 mld c,KYO_D3,80
 
 ;「あぁ。@一番霊力のある鏡は、職員室前の階段踊り場にある、大鏡だが。@校内にはそれ以外にも霊力を持った鏡がいくつもある。@お前の住処の鏡の一枚も、そんな霊力のある鏡の内の一つだ。」@
@@ -286,7 +286,7 @@ ld l,KYO_D2,80
 ld r,MAR_D4a,80
 
 ;「はー……。@そうなんですかぁ……。」@
-`"Ah...`@`.. is that so..."`@
+`"Ah...`@` ...Is that so...?"`@
 br
 ;　ここまで話が及べば、キョウが何を頼もうとしているのかは明白だ。\
 `　By now it was obvious was Kyou was trying to do.`\
@@ -331,7 +331,7 @@ ld r,MAR_I3a,22
 ld c,KYO_D1,22
 
 ;「たまに怪談で聞くだろう。@姿が映らない鏡の話を。@……その時の鏡は鏡じゃねぇんだ。@入口なのさ。」@
-`"Occasionally, you'll hear stories about this. `@`A story about a mirror that doesn't reflect the image of those who stand in front of it.`@`... The truth is, at those times, it's not a mirror at all. `@`It's an entrance."`@
+`"Occasionally, you'll hear stories about this. `@`A story about a mirror that doesn't reflect the image of those who stand in front of it.`@` ...The truth is, at those times, it's not a mirror at all. `@`It's an entrance."`@
 br
 ;　キョウはそう言い、手をすぅっと、……鏡に近付け、……その向こうに突っ込む。\
 `　Kyou said that... then put his hand up to the mirror... and thrust it inwards.`\
@@ -380,7 +380,7 @@ cl l,0
 mld l,KYO_D2,80
 
 ;「鏡の向こうには様々な世界がある。@……ところがある日、鏡が妙に汚れている世界と繋がったんだ。@もちろん、こっち側じゃねぇ。@向こう側が汚れてるんだ。」@
-`"Mirrors can lead to various different worlds.`@`... But one day, they started connecting to a strangely foul and dirtied world. `@`Naturally it's not this side that was dirty. `@`But the other side."`@
+`"Mirrors can lead to various different worlds.`@` ...But one day, they started connecting to a strangely foul and dirtied world. `@`Naturally it's not this side that was dirty. `@`But the other side."`@
 ld c,MAR_D4a,80
 
 ;「向こう側が汚れてるとは…？」\
@@ -388,7 +388,7 @@ ld c,MAR_D4a,80
 mld l,KYO_D3,80
 
 ;「鏡の向こうにも、こっちと瓜二つの世界があり、@俺様と瓜二つの存在が鏡を司り、毎日磨いてなきゃならねぇはずなんだ。@なのに、その世界の俺様は鏡磨きをサボっちまってるらしい。@そのせいで、全ての霊鏡が曇っちまってる。@……向こう側の汚れだから、向こう側から磨かなけりゃ綺麗にならねぇ。」\
-`"On the other side of the mirrors there are worlds just like our own. `@`And just as I tend to the mirrors here, there should be a being that does the same there too, polishing the mirrors every day. `@`But for some reason, it appears that the me in that particular world has stopped cleaning the mirrors. `@`Because of that, all those magical mirrors have become clouded over.`@`... Since it's the other side's mirrors that have gotten dirty, they must be cleaned from that side."`\
+`"On the other side of the mirrors there are worlds just like our own. `@`And just as I tend to the mirrors here, there should be a being that does the same there too, polishing the mirrors every day. `@`But for some reason, it appears that the me in that particular world has stopped cleaning the mirrors. `@`Because of that, all those magical mirrors have become clouded over.`@` ...Since it's the other side's mirrors that have gotten dirty, they must be cleaned from that side."`\
 
 mcl l,0
 bg black,22
@@ -421,7 +421,7 @@ ld r,KYO_D1,22
 ld l,MAR_D4a,80
 
 ;「んー……。@……いいですけれど……。@……私を鏡の世界に閉じ込めたりとか、そういう意地悪は企んでませんよね？」\
-`"erm...`@`...that's fine...`@`... but you're not plotting to bully me by trapping me in the mirror or something are you?"`\
+`"Erm...`@` ...That's fine...`@` ...But you're not plotting to bully me by trapping me in the mirror or something are you?"`\
 
 
 ld r,KYO_D2,80
@@ -516,7 +516,7 @@ ld l,MAR_D2a,24
 ld r,KYO_D3,80
 
 「それ以外にも、何かが反転してるかもな。@……何しろ、鏡は森羅万象、あらゆるものの対を司る。@鏡の向こうの異界は無数だから、俺様にも全ては把握しきれねぇ。」\
-`"And there may be even more things reversed than we realize.`@`... Mirrors govern the opposites of anything and everything. `@`Because the mirrors can lead to an infinite number of worlds, not even I can grasp all the possibilities."`\
+`"And there may be even more things reversed than we realize.`@` ...Mirrors govern the opposites of anything and everything. `@`Because the mirrors can lead to an infinite number of worlds, not even I can grasp all the possibilities."`\
 
 
 ;　何だかよくわからないが、ちょっぴり面白そうだ。@
@@ -533,7 +533,7 @@ ld l,MAR_D4a,80
 ld r,KYO_D5,80
 
 ;「するさ。@だから俺様もいるだろうぜ。@……もし会ったら、ミラーウォッシュをサボるなと伝えてくれ。」\
-`"We do. `@`So "I" should be around her somewhere too.`@`... If you happen to meet me, be sure to tell me to stop flaking out on my mirror cleaning duties."`\
+`"We do. `@`So "I" should be around her somewhere too.`@` ...If you happen to meet me, be sure to tell me to stop flaking out on my mirror cleaning duties."`\
 
 bg black,22
 ;bg black,0
@@ -574,7 +574,7 @@ ld l,MAR_W2,80
 ld r,KYO_D2,80
 
 ;「すまねぇなぁ。@……ったく。@ここの世界の俺様がサボらなけりゃこんなことには。@ブツブツ……。」@
-`"This is crazy.`@`...Jeez. `@`The me from this world is playing truant. `@`*mutter mutter*"`@
+`"This is crazy.`@` ...Jeez.`@` The me from this world is playing truant.`@` *mutter mutter*"`@
 cl r,23
 br
 ;　二人は、それぞれの清掃道具を手に、それぞれの担当の鏡へ散っていく。\
@@ -588,7 +588,7 @@ bg rouka_03,0
 ld c,MAR_D4a,22
 
 ;「それにしても、……左右反転って結構、混乱するな…。@……よく知ってる学校のはずなのに、左右が逆になっただけで、すっごいわかりづらい……。」\
-`"By the way... this horizontal flip can mess you up pretty easily.`@`... You might think you know the school pretty well, but as soon as it gets reversed on you, it can get really hard to understand..."`\
+`"By the way... this horizontal flip can mess you up pretty easily.`@` ...You might think you know the school pretty well, but as soon as it gets reversed on you, it can get really hard to understand..."`\
 
 
 ;　目に見える物全てを、頭の中で左右反転して考え直す。@
@@ -656,7 +656,7 @@ ld c,MAR_D1,22
 ld c,MAR_W1,80
 
 ;「演劇かぁ。@……ちょっと素敵かな。@私もあんなお姫様の役をやってみたいな。」\
-`"Theatre.`@`... It looks pretty awesome. `@`I wouldn't mind trying out the role of a princess myself."`\
+`"Theatre.`@` ...It looks pretty awesome. `@`I wouldn't mind trying out the role of a princess myself."`\
 
 
 ;　みどりはお姫様の衣装を身に付け、台本を見ながらイメージトレーニングをしているようだった。@
@@ -828,7 +828,7 @@ bgm1 32
 ;　どのトイレにも１枚くらいは霊鏡があるらしい。@
 `　Apparently each bathroom had at least one magic mirror.`@
 ;　確かに、薄暗い日にひとりでトイレに入ると、鏡の中に薄気味悪さを感じることはあったけれど。@……納得、納得。\
-`　Whenever she went into the bathrooms on gloomy day she would get an eerie feeling looking into the mirrors.`@`... That all makes sense now.`\
+`　Whenever she went into the bathrooms on gloomy day she would get an eerie feeling looking into the mirrors.`@` ...That all makes sense now.`\
 
 
 bg toire_07,0
@@ -876,7 +876,7 @@ ld l,MAR_W1,22
 ld r,KOU_D2,24
 
 ;「お、おぉおぉ、それはそれは……。@私もお手伝いしないわけには参りませんな……。@どれどれ、よっこらしょっと。」\
-`"Ohohoh... well well.... `@`I really ought to help too....`@`... let's see here."`\
+`"Ohohoh... well well.... `@`I really ought to help too....`@` ...Let's see here."`\
 cl r,0
 ld c,KOU_D1,24
 
@@ -975,11 +975,11 @@ bg toire_07,22
 ld r,MAR_W2,24
 
 ;「さぁ、出来たっと。@……校長先生、お手伝いをありがとうございます。」@
-`"Whew...we did it.`@`... Headmaster, thank you so much for your help."`@
+`"Whew...we did it.`@` ...Headmaster, thank you so much for your help."`@
 ld l,KOU_D3,22
 
 ;「いえいえいえいえ……、この爺がお役に立てて光栄ですわい。@……むむ、毬枝さん、どちらへ…？」\
-`"No no no.... This old man is honored to have been of such use.`@`... Well, Marie-san, where to now...?"`\
+`"No no no.... This old man is honored to have been of such use.`@` ...Well, Marie-san, where to now...?"`\
 
 
 ld r,MAR_W1,80
@@ -1045,7 +1045,7 @@ quakey 2,200
 bg black,2
 
 ;「……やっぱり、ちょっと雰囲気が違う。@……鏡の世界のみんなは、やっぱり私の知るみんなとは違うみたい……。」@
-`"...As I thought. Everything is a little off.`@`... It looks like everyone in this mirror world is going to be a little different from how I know them."`@
+`"...As I thought. Everything is a little off.`@` ...It looks like everyone in this mirror world is going to be a little different from how I know them."`@
 br
 ;　まぁ、手伝ってもらえたから悪い気はしないけれど……。\
 `　Well, I guess it wouldn't have hurt if I let him help me...`\
@@ -1100,7 +1100,7 @@ ld c,MIC_D4,80
 me1v 28,50
 
 ;「そんな非科学的なもの、あるわけないじゃない。@……霊現象も怪現象も全て、解明を放棄したことへの言い訳でしょ。」@
-`"Nothing that unscientific could possibly exist.`@`... You all just gave up on trying to explain it and immediately started making excuses as to how it had to be a mysterious or supernatural phenomenon, didn't you?"`@
+`"Nothing that unscientific could possibly exist.`@` ...You all just gave up on trying to explain it and immediately started making excuses as to how it had to be a mysterious or supernatural phenomenon, didn't you?"`@
 ;「そ、それじゃあ、どう説明すんのよ！！@　私たちが見た現象はどう説明すんのよ！！」\
 `"Well then, how do you explain it!!? `@` How do you explain the phenomenon we experienced?!!"`\
 
@@ -1148,7 +1148,7 @@ ld l,KYO_D1,80
 ld c,MAR_I4a,80
 
 ;「あ、キョウさん。@……あなたはどっちの世界のキョウさんですか？」\
-`"Ah, Kyou-san.`@`... which world's Kyou-san are you?"`\
+`"Ah, Kyou-san.`@` ...Which world's Kyou-san are you?"`\
 
 
 ld l,KYO_D5,80
@@ -1262,7 +1262,7 @@ bg rouka_02,24
 ld c,MAR_D4,24
 
 ;「……ということは、この世界の私も性格が反転してるということ…？@　……うーん、どんな私なんだろ。@ちょっと見てみたい気もするなぁ。@………あれ？@　彼岸花さんとスミレさんだ。」\
-`"...So, that means that in this world my personality is also reversed...`@`... Hmm, I wonder what kind of me it is.`@`... I kind of want to see what I'm like.`@`... Huh? `@`It's Higanbana-san and Sumire-san."`\
+`"...So, that means that in this world my personality is also reversed...`@` ...Hmm, I wonder what kind of me it is.`@` ...I kind of want to see what I'm like.`@` ...Huh? `@`It's Higanbana-san and Sumire-san."`\
 
 
 ;　向こうから、お喋りをしながら、彼岸花とスミレが歩いてくるのが見える。@
@@ -1439,7 +1439,7 @@ br
 ld r,MAR_d2a,80
 
 ;「はぁっ。@お二人とも自信満々なのは結構なんですけれど。@……もう少しですね、フレンドリーというか、礼節を弁えてとでも言いますか。@……特に彼岸花さんはですね、もう少し私にやさしくしてくれてもいいと思います。@知ってますか？@　親しき仲にも礼儀ありっていう諺がありまして。@くどくど、くどくどっ。」\
-`"Hahhh. `@`I don't have any problem with them having confidence in themselves.`@`... but couldn't they try to be, you know, a little more friendly or something?`@`... Especially Higanbana. I wish you would treat me a little better. `@`You know? `@`It's like that saying, with friends like Higanbana, who would need enemies. `@`*mumble mumble*"`\
+`"Hahhh. `@`I don't have any problem with them having confidence in themselves.`@` ...But couldn't they try to be, you know, a little more friendly or something?`@` ...Especially Higanbana. I wish you would treat me a little better. `@`You know? `@`It's like that saying, with friends like Higanbana, who would need enemies. `@`*mumble mumble*"`\
 ; ^^^ Note To Editor: I used the "with friends like these..." saying here because it's more common in English, but the literal saying Marie quotes means closer to "Good manners among good friends" or "fences make good neighbors" ~Jorwil
 se1 48
 ld l,HIG_D6,26
@@ -1471,7 +1471,7 @@ ld c,MAR_W2,80
 ;bg rouka_04,22
 
 ;「私って、人見知りするし臆病だし卑屈だし……。@……それが克服されてるんだから、ひょっとして、すごい社交的になっているかも？@　明るくて物怖じしなくて前向きで。@……理想の私だったりして…！@　ちょっと会いたくなってきちゃったなぁ。@うふふふ。」\
-`"I'm timid, shy and subservient...`@`... If I could overcome all that, I wonder if I could become a really sociable person. `@`Cheerful, brave, optimistic... `@`That would be the ideal me...! `@`I really want to meet myself here now. `@`Ufufufu."`\
+`"I'm timid, shy and subservient...`@` ...If I could overcome all that, I wonder if I could become a really sociable person. `@`Cheerful, brave, optimistic... `@`That would be the ideal me...! `@`I really want to meet myself here now. `@`Ufufufu."`\
 
 E_A
 se1 2
@@ -1623,7 +1623,7 @@ cl l,24
 ld r,MAR_I4a,80
 
 ;「な、なるほど……。@あの臆病だけれど、心のやさしいさくのしんちゃんは、反転するとこうなるわけね……。@…………………………。」\
-`"I- I see... `@`This is what happens when that timid yet kind-hearted Sakunoshin-chan has his personality flipped....`@`........."`\
+`"I- I see... `@`This is what happens when that timid yet kind-hearted Sakunoshin-chan has his personality flipped....`@` ........."`\
 
 
 
@@ -1720,7 +1720,7 @@ bg k_kaidan_03,0
 ld r,mar_W3,22
 
 ;「さぁて。@この世界の八不思議どもはどこにいやがるんだ？@　……所在の決まってるヤツからシメてやるぜ。@まずはそうだな。@…………保健室からシメっか。」\
-`"Now then. `@`Where are this world's eight mysteries? `@`...Let's start with the youkai who's stories that take place in a specific area. `@`First off, how about....`@`..... the infirmary."`\
+`"Now then. `@`Where are this world's eight mysteries? `@`...Let's start with the youkai who's stories that take place in a specific area. `@`First off, how about....`@` .....the infirmary."`\
 
 
 bg black,23
@@ -1758,7 +1758,7 @@ me1v 17,50
 mld l,MAR_I5,80
 
 ;「テメェこそ、この毬枝さまに向かって、どーゆー口の聞き方だ、コラ。@……いいぜいいぜ、躾けてやんぜ。@私の世界のテメェと同じように、従順に躾けてやるからよォ！」\
-`"You're the one who should watch her damn tone. Especially when you're speaking to the great Marie.`@`...fine fine. I'll just have to teach you some manners. `@`Force you into obedience, just like I did to you in my world."\
+`"You're the one who should watch her damn tone. Especially when you're speaking to the great Marie.`@` ...Fine fine. I'll just have to teach you some manners. `@`Force you into obedience, just like I did to you in my world."\
 cl r,0
 ld c,HIG_W5a,24
 se1 2
@@ -2068,7 +2068,7 @@ ld l,KYO_D5,80
 ld r,KYO_D4,80
 
 ;「そして、鏡に映った逆の姿もまた、同時にお前の本性でもある。@……他人事とは思わねぇことだぜ。」@
-`"And at the same time, that reversed mirror image of you also shows your true nature.`@`.... It's not something to take lightly."`@
+`"And at the same time, that reversed mirror image of you also shows your true nature.`@` ....It's not something to take lightly."`@
 ld l,KYO_D1,80
 
 ;「どのような形であれ、鏡はいつだって真実を映すんだぜ。@……本当にビューティな姿をしていたなら、鏡にもまったく同じく、美しい姿が映るだろ。」\
@@ -2088,13 +2088,13 @@ ld c,MAR_D2a,22
 `　...I see.`@
 br
 ;　私は自分のことを謙虚なのだと思い込んでいるけれど。@……それは卑屈なことで、余り良いことではないのだろう。\
-`　Even though I'm convinced that I'm a humble person,`@`... I've never much cared for being used by others.`\
+`　Even though I'm convinced that I'm a humble person,`@` ...I've never much cared for being used by others.`\
 
 
 ;ld c,MAR_D3a,80
 
 ;　鏡の世界の私は乱暴者だった。@……それはひょっとしたら、抑え込んだ、私の本心なのかもしれない。\
-`　The Mirror's version of me was so violent.`@`... Maybe those are my true feelings, deep down.`\
+`　The Mirror's version of me was so violent.`@` ...Maybe those are my true feelings, deep down.`\
 
 
 ld c,MAR_I4a,80

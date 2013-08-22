@@ -799,7 +799,7 @@ ld c,IZA_D5,80
 ;「何、座ってんだァ？@　もう逃げねぇのかァ……？@　……殺されちまうぞォ、おらァ！！」@
 `"Huh? You're taking a break? `@`Aren't you going to ruun...? `@`...You'll be kiiiilled, SO GET UP!!"`@
 ;「………も、……もう、……無理です……。@……もう、走れません………。」@
-`"....It's impossible.`@`...I can't run anymore...."`@
+`"....It's impossible.`@` ...I can't run anymore...."`@
 br
 ;　少女は荒い息のまま、懇願するようにそう言う。\
 `　She said as if begging with her rough breathing.`\ 
@@ -4507,7 +4507,7 @@ bg white,29
 bg air_02,29
 
 ;「けっ。@すっかり不味そうな魂になっちまいやがったァ。@……生きろよ、あやァ！！」\
-`"Tch. `@`Ya know, your soul really did get nasty as hell.`@`...Live on, Aya!!"`\
+`"Tch. `@`Ya know, your soul really did get nasty as hell.`@` ...Live on, Aya!!"`\
 
 
 bg black,42

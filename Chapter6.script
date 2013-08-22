@@ -737,7 +737,7 @@ ld r,YOS_D3a,80
 ld l,YUK_D1,80
 
 ;「私は吉川くんの味方だよ。@あなたを守ってあげるから。@……一緒にいじめを止めさせよう？」\
-`"I'm your ally, Yoshikawa-kun. `@`I'll protect you.`@`... so work together with me and help me stop bullying?"`\
+`"I'm your ally, Yoshikawa-kun. `@`I'll protect you.`@` ...So work together with me and help me stop bullying?"`\
 
 
 ;　正明にとって、自分の受けている仕打ちが「いじめ」であると自覚させられることは、@とてもナーバスなことだった。@
@@ -811,13 +811,13 @@ ld c,YUK_D1,22
 ld l,YOS_D8a,24
 
 ;「そうしてくれよ。@俺、もう行っていいか。@……お前なんかと一緒にいて、変な噂とかされたくねーし……。」\
-`"Good. `@`Can I go now?`@`... If I'm together with you for too long people are going to start weird rumors and stuff..."`\
+`"Good. `@`Can I go now?`@` ...If I'm together with you for too long people are going to start weird rumors and stuff..."`\
 ;ld r,YUK_D1,80
 cl c,0
 ld r,YUK_w3,23
 
 ;「私、いつでも味方になるからね。@………本当に困ったら、いつでも相談してね。」@
-`"I can become your ally at an moment.`@`..... If you're ever really in trouble, you can come talk to me at any time."`@
+`"I can become your ally at an moment.`@` .....If you're ever really in trouble, you can come talk to me at any time."`@
 ;ld l,YOS_D1,80
 ld l,YOS_D10a,80
 
@@ -944,7 +944,7 @@ br
 `　From the point of view of the students, the class representative was nothing more than an annoyance that made them do extra work and bother them.`@
 br
 ;　当然、彼自身にもそれに相応しいカリスマはなく、@……名ばかりの、クラス委員長だった。\
-`　Naturally, he didn't have the charisma that the position required.`@`... and so he was the class representative in name only.`\
+`　Naturally, he didn't have the charisma that the position required.`@` ...And so he was the class representative in name only.`\
 ;ld r,YOS_D1,80
 cl r,22
 
@@ -989,7 +989,7 @@ bg black,22
 ;bg different_spiral_1a,22
 
 ;　頭にはもやがいつも掛かっていて、@……昨日はおろか、今朝の朝食が何だったかさえ思い出すことが出来ない。@
-`　His head felt like it was perpetually shrouded in a haze.`@`... He couldn't even remember what he had for breakfast yesterday, or even this morning for that matter.`@
+`　His head felt like it was perpetually shrouded in a haze.`@` ...He couldn't even remember what he had for breakfast yesterday, or even this morning for that matter.`@
 br
 ;　……それは彼の心を守るために、彼自身が無意識に行なっていることなのだろう。\
 `　...That was probably his body's way of subconsciously protecting his heart.`\
@@ -1100,7 +1100,7 @@ me2v 17,50
 `　And grant yourself peace.`@
 br
 ;　……怖くないわ。@……ほら、私はここにいる。@
-`　...Don't be afraid.`@`... I'm right here.`@
+`　...Don't be afraid.`@` ...I'm right here.`@
 ;　あなたを、……受け止めてあげるから……。@
 `　I... will catch you...`@
 br
@@ -1143,7 +1143,7 @@ wait 1000
 ld c,HIG_D2,22
 
 ;「おいで。正明。@……私が受け止めてあげるから。@くすくすくす……。」@
-`"Come on, Masaaki.`@`... I'll catch you. `@`Teeheehee..."`@
+`"Come on, Masaaki.`@` ...I'll catch you. `@`Teeheehee..."`@
 br
 
 ;ld c,HIG_D1,80
@@ -1167,7 +1167,7 @@ ld l,HIG_D3,24
 ;ld l,HIG_D1,80
 
 ;「……何を躊躇うの？@　……あなたにとって、そちらの世界に、何の希望があるというの……？」@
-`"...Why do you hesitate?`@`... What hope is left for you in this world...?"`@
+`"...Why do you hesitate?`@` ...What hope is left for you in this world...?"`@
 br
 ;d r,YOS_D1,80
 ld r,YOS_D3,22
@@ -1184,7 +1184,7 @@ mld c,HIG_w4,3
 
 
 ;「ならばおいでなさい。@この彼岸花の世界へ。@……さぁ、おいでなさい。@……あなたが自分で決めて、自分でここへ来るのよ。@……あなたの腕で、脚で。@……そのベランダを乗り越えなさい……。」\
-`"In that case, come to me. `@`To this world of higanbana.`@`... Come here to me.`@`... Make your own decision, and come to me on your own.`@`... With your own arms, and your own legs.`@`... climb off that balcony..."`\
+`"In that case, come to me. `@`To this world of higanbana.`@` ...Come here to me.`@` ...Make your own decision, and come to me on your own.`@` ...With your own arms, and your own legs.`@` ...Climb off that balcony..."`\
 textoff
 
 se1 84
@@ -1259,13 +1259,13 @@ cl c,0
 ld l,HIG_D5,24
 
 ;「嫌よ。@それに狩りなんてとんでもない。@私は誘っているだけよ。@……彼の魂がより安らぐ世界があると、教えてあげているだけよ。」\
-`"I don't want to. `@`Besides this isn't even hunting. `@`I'm just inviting him.`@`... I'm just telling him about a world where his soul will be more at ease."`\
+`"I don't want to. `@`Besides this isn't even hunting. `@`I'm just inviting him.`@` ...I'm just telling him about a world where his soul will be more at ease."`\
 
 cl r,0
 ld c,MAR_i4,24
 
 ;「……吉川くん。@考え直して下さい。@……生きていれば出来ることはたくさんあります。@でも、死んで出来ることなど、何一つありません。」\
-`"...Yoshikawa-kun. `@`Please reconsider this.`@`... There is plenty of things you can do while still living. `@`But, when you're dead, there's not a single thing that you can do anymore."`\
+`"...Yoshikawa-kun. `@`Please reconsider this.`@` ...There is plenty of things you can do while still living. `@`But, when you're dead, there's not a single thing that you can do anymore."`\
 
 
 ;mld l,HIG_D1,80
@@ -1312,13 +1312,13 @@ cl l,0
 mld c,HIG_D4,23
 
 ;「正明。@……あなたには生きて成し遂げたいことなんてあるの…？」@
-`"Masaaki.`@`... Do you really have anything you want to accomplish...?"`@
+`"Masaaki.`@` ...Do you really have anything you want to accomplish...?"`@
 ;「……………ぅ……。」\
 `".......uh..."`\
 mld c,HIG_w3,80
 
 ;「私はあなたを今日までずっと見てきたわ。@……あなたは日々、何かを積み上げてきたの？@　……私は知らない。@あなたはただ、流れに身を任せて、@水面に浮かぶ木の葉のように、ただただ流されてきただけよ。@……その結果、あなたは澱みに流れ込み、そのまま朽ちて消えようとしている。@あなたの現在はまさに、その結果の至極当然の末路じゃない。」\
-`"I've been watching you for a long time.`@`... Is there something that you have been working towards?`@`... I haven't seen it. `@`You have just given yourself up to the flow of life, `@`like a leaf on the surface of the water, just being swept along.`@`... And in the end you will become stagnant waste and rot away. `@`As you are now that is very likely the end you will meet."`\
+`"I've been watching you for a long time.`@` ...Is there something that you have been working towards?`@` ...I haven't seen it. `@`You have just given yourself up to the flow of life, `@`like a leaf on the surface of the water, just being swept along.`@` ...And in the end you will become stagnant waste and rot away. `@`As you are now that is very likely the end you will meet."`\
 
 
 ;ld c,YOS_D1,80
@@ -1331,7 +1331,7 @@ br
 ;　正明には今日まで、何の意志も使命も目的もない。@
 `　Up until today, Masaaki has had no motive, mission or goal.`@
 ;　彼がしてきたことはただ一つ。@……自分が受けているいじめを、そうだと頑なに認めなかったこと。@ただそれだけだ。\
-`　There's only one thing he's been doing.`@`... refusing to admit that he's been bullied. `@`And that's it.`\
+`　There's only one thing he's been doing.`@` ...Refusing to admit that he's been bullied. `@`And that's it.`\
 
 
 ;mld l,HIG_D1,80
@@ -1344,7 +1344,7 @@ mld c,HIG_w3,22
 mld c,HIG_w4,80
 
 ;「あなたがしたのは認めないことだけ。@……認めなければ、それはいじめじゃない。@だから、自分はいじめられてないんだ。@………それだけが、あなたが生きて成し遂げたことよ。@……それの何が、生きているということになるの？」\
-`"All you've done is deny.`@`... As long as you keep denying, then it's not bullying.`@` So, you're not really being bullied.`@`.... That is all you have accomplished.`@`... Can that really be called living?"`\
+`"All you've done is deny.`@` ...As long as you keep denying, then it's not bullying.`@` So, you're not really being bullied.`@` ....That is all you have accomplished.`@` ...Can that really be called living?"`\
 
 
 ;ld c,YOS_D1,80
@@ -1410,7 +1410,7 @@ ld r,HIG_w3,22
 ;ld r,HIG_D1,80
 
 ;「………あら。@死ぬ気が薄れてきちゃったわ。@……毬枝のせいよ。@もう一息でぺろりといけたものを。」\
-`"....What's this. `@`Looks like he's losing the want to die.`@`... This is your fault, Marie. `@`Just one more push and I would have had him."`\
+`"....What's this. `@`Looks like he's losing the want to die.`@` ...This is your fault, Marie. `@`Just one more push and I would have had him."`\
 
 
 ;ld r,MAR_D1,80
@@ -1429,7 +1429,7 @@ mld c,YOS_D13,80
 ld l,MAR_i1,80
 
 ;「諦めないで、みんなに相談してみてっ。@……先生やお父さんやお母さんや友達や……！」\
-`"Don't give up hope, try talking to everyone.`@`... To your teachers, your father, your mother, and your friends....!"`\
+`"Don't give up hope, try talking to everyone.`@` ...To your teachers, your father, your mother, and your friends....!"`\
 
 ;ld c,YOS_D1,80
 mld c,YOS_D14,80
@@ -1555,12 +1555,12 @@ ld r,YOS_D10n,80
 bgm1 14
 
 ;「……死ぬくらいなら、……むしろ俺が殺してやるッ。@…………でも、そんなことしたって、結局、逮捕されるだけ……。@そしてあいつらは逮捕された俺のことを、@おかしなヤツだったとか普段からキレるヤツだったとか、適当なことをしゃあしゃあと言いやがるに決まってるんだ……。@/
-`"...If I'm willing to do... then I'll kill instead.`@`...... But even if I do that, in the end I'll just end up getting arrested... `@`And if I do get arrested, those guys would just say I was always a strange guy, and was always snapping like that, and keep shamelessly giving excuses to take the blame off them...`@/
+`"...If I'm willing to do... then I'll kill instead.`@` ......But even if I do that, in the end I'll just end up getting arrested... `@`And if I do get arrested, those guys would just say I was always a strange guy, and was always snapping like that, and keep shamelessly giving excuses to take the blame off them...`@/
 ;ld c,YOS_D1,80
 ;ld r,YOS_D1,80
 
 ;………くそッ、くそッ……。@………悔しい、悔しい……。@このまま死んでなんかやるものかッ。@……絶対に生きて、……あいつらに仕返ししてやる……。」\
-` ....Shit, shit...`@`....This is annoying, so annoying.... `@`There's no damn way I'm going to just lay down and die.`@`... I'm definitely going to live... and get even with those bastards..."`\
+` ....Shit, shit...`@` ....This is annoying, so annoying.... `@`There's no damn way I'm going to just lay down and die.`@` ...I'm definitely going to live... and get even with those bastards..."`\
 cl r,22
 
 ;　………でも、どうやって………。@
@@ -1576,7 +1576,7 @@ E_MA
 ;　殺すなんてこと、出来るわけがない。@
 `　There isn't really a way for him to kill them.`@
 ;　刺し違えることは出来るだろうが、……結局、自分も殺されたり、あるいは逮捕されたり。@………無事では済まない。@
-`　He could maybe try to take them to the grave with him... but in the end that would leave him dead too, or at the very least, arrested.`@`... It was a double-edged sword.`@
+`　He could maybe try to take them to the grave with him... but in the end that would leave him dead too, or at the very least, arrested.`@` ...It was a double-edged sword.`@
 br
 ;　……怒りに飲まれ、様々な物騒なことを考えはしたが、……結局、どれもやれはしない。\
 `　...Engulfed in his anger, he continued to think many terrible thoughts... but in the end, none of them would have worked.`\
@@ -1684,7 +1684,7 @@ bg azami1,24
 `　....Wasn't there... some sort of story about thistles that he heard somewhere....?`@
 br
 ;　そうだ。@……学校の八不思議の中に、アザミの話があったような……。\
-`　That's right.`@`... There's a story about thistles in one of the Eight School Mysteries...`\
+`　That's right.`@` ...There's a story about thistles in one of the Eight School Mysteries...`\
 
 ;bg black,1
 mbg black,22
@@ -1692,7 +1692,7 @@ mbg black,22
 E_A
 
 ;「学校や通学路の途中に咲き乱れる、紫のアザミの花。@……その花言葉は、復讐。」\
-`"A field of blooming thistles at school, or on the way home from it.`@`... In the language of flowers, they represent revenge."`\
+`"A field of blooming thistles at school, or on the way home from it.`@` ...In the language of flowers, they represent revenge."`\
 
 ;bg akiti_2y,22
 mcbg 22
@@ -1731,20 +1731,20 @@ br
 `　And within the blink of an eye... there in that field of thistles stood a girl... no, a woman.`\
 
 ;　中学生かもしれないし高校生かもしれない。@……いや、あるいは大学生かも。@
-`　She may have been a middle schooler, or high schooler.`@`... No, it's more likely that she was a college student.`@
+`　She may have been a middle schooler, or high schooler.`@` ...No, it's more likely that she was a college student.`@
 br
 ;　整った顔立ちと、長く美しい髪はとても知性的で、とても大人っぽく見えた……。\
 `　Her sculpted face and long, beautiful hair made her seem very intellectual and adult-like...`\
 ld c,AZA_D2,80
 
 ;「ずっといじめられていた気の毒ないじめられっこが、@……クラス替えや夏休み明けに、人が変わったかのように豹変し、@いじめっこに生まれ変わることがあるいう。@………それは、復讐の力を宿らせる、魔法のアザミの仕業……。」\
-`"A pitiful child who was always being bullied.... `@`suddenly becomes a new person after changing classes or coming back from summer break, `@`and are born anew as a bully themselves.`@`... That is the revenge granting power of a magical thistle..."`\
+`"A pitiful child who was always being bullied.... `@`suddenly becomes a new person after changing classes or coming back from summer break, `@`and are born anew as a bully themselves.`@` ...That is the revenge granting power of a magical thistle..."`\
 
 
 bg black,22
 
 ;「………そうだ…、思い出した……。@……学校八不思議の一つ。@……復讐の、アザミ……。」\
-`"....That's right... I remember...`@`... That's one of the Eight School Mysteries.`@`... Azami the Vengeful..."`\
+`"....That's right... I remember...`@` ...That's one of the Eight School Mysteries.`@` ...Azami the Vengeful..."`\
 bg Different_spiral_1b,22
 
 ;　それは学校八不思議が語る内の一つ。@
@@ -1810,7 +1810,7 @@ cl c,0
 ld l,AZA_D2,24
 
 ;「怯える必要はありません。@妾の名はアザミ。@……学校妖怪序列第４位、復讐のアザミとは妾のこと……。」@
-`"There is no need to be frightened. `@`My name is Azami.`@`... 4th Ranked among School Youkai, Azami the Vengeful..."`@
+`"There is no need to be frightened. `@`My name is Azami.`@` ...4th Ranked among School Youkai, Azami the Vengeful..."`@
 ld r,YOS_D9,80
 
 ;「…………復讐の、アザミ………。」\
@@ -1820,7 +1820,7 @@ ld r,YOS_D9,80
 ld l,AZA_D3,80
 
 ;「可哀想に。@妾の姿が見えるということは、あなたが気の毒ないじめられっこということです。@………そうですね……？」@
-`"How unfortunate. `@`If you can see me, then that means you're a pitiful bullied child.`@`... Is that true...?"`@
+`"How unfortunate. `@`If you can see me, then that means you're a pitiful bullied child.`@` ...Is that true...?"`@
 ld r,YOS_D3a,80
 
 ;「ぅ…………………。」\
@@ -1840,11 +1840,11 @@ mbg black,22
 `　If someone had said that to him earlier, he probably would have gotten enraged and refused to accept the fact.`@
 br
 ;　しかし今の彼は違う。@……自分がいじめられてきたことを、しっかり自覚している。\
-`　But he is different now.`@`... He fully understood his own situation.`\
+`　But he is different now.`@` ...He fully understood his own situation.`\
 mcbg 22
 
 ;　……だから今日、彼女のような存在に出会えたに違いない。@……正明はそれを理解する。\
-`　...That was surely the reason why he met her today.`@`... Masaaki knew that.`\
+`　...That was surely the reason why he met her today.`@` ...Masaaki knew that.`\
 ld r,YOS_D10a,80
 
 ;「……あの、復讐のアザミの話は本当なんですか……。」@
@@ -1852,7 +1852,7 @@ ld r,YOS_D10a,80
 ld l,AZA_D4,80
 
 ;「本当です。@……復讐の力を与える、魔法のアザミ。@それがどれなのか、見分けることが出来るのは、その力を真に欲するいじめられっこのみ……。」\
-`"It's true.`@`... A magical thistle that grants the power of revenge. `@`The only ones who can find them are the bullied children who truly want that power..."`\
+`"It's true.`@` ...A magical thistle that grants the power of revenge. `@`The only ones who can find them are the bullied children who truly want that power..."`\
 
 
 
@@ -1863,7 +1863,7 @@ ld r,YOS_D10,80
 ld l,AZA_D1,80
 
 ;「あなたが、真に欲するなら。@……魔法のアザミは自ずからあなたにその存在を囁きかけるでしょう。@……御覧なさい。@この紫のアザミたちを。」\
-`If you truly want them to.`@`... then the thistle will whisper to you.`@`... Look here. `@`At these purple flowers. "`\
+`If you truly want them to.`@` ...Then the thistle will whisper to you.`@` ...Look here. `@`At these purple flowers. "`\
 
 
 ;bg azami1,23
@@ -1889,7 +1889,7 @@ br
 
 
 ;　……どれもこれも、ただのアザミに見える。@……特別なものが混じっているようには思えない。@
-`　Each and every one looked like just a normal thistle.`@`... It didn't look like there were any special ones among them.`@
+`　Each and every one looked like just a normal thistle.`@` ...It didn't look like there were any special ones among them.`@
 br
 ;　いや、……そんなことはあるものか。\
 `　No... there must be one.`\
@@ -1957,14 +1957,14 @@ ld l,AZA_D1,22
 ld l,AZA_D2,80
 
 ;「よくぞ見つけました。@……そう。@それが復讐の魔力を秘める、魔法のアザミです。」\
-`"Good work.`@`... Yes. `@`That is the magical thistle, containing the power of revenge."`\
+`"Good work.`@` ...Yes. `@`That is the magical thistle, containing the power of revenge."`\
 
 
 ;　ぶちりと、そのアザミを摘む。@
 `　He picked the thistle from the ground.`@
 br
 ;　ちりんとかすかな音がした。@……摘んでも、花のほのかな光は消えなかった。\
-`　It made a quiet ringing sound.`@`.. Even when plucked from its roots, the faint light coming from the flower did not disappear.`\
+`　It made a quiet ringing sound.`@` ...Even when plucked from its roots, the faint light coming from the flower did not disappear.`\
 cl l,0
 ld c,AZA_D1,23
 
@@ -1978,7 +1978,7 @@ cl c,0
 ld l,AZA_D2,24
 
 ;「あなたがこれまで酷くいじめ抜かれたならいじめ抜かれたほど。@……その魔力は強まり、@あなたを、誰もが怯えるいじめっこに生まれ変わらせてくれるのです。」@
-`"Depending on exactly how bad you have been bullied up until now.`@`... the strength of its magic will increase. `@`And it will remake you into a bully feared by all."`@
+`"Depending on exactly how bad you have been bullied up until now.`@` ...The strength of its magic will increase. `@`And it will remake you into a bully feared by all."`@
 ld r,YOS_D8a,80
 
 ;「も、もう、……誰にもいじめられなくなる……？」\
@@ -1988,7 +1988,7 @@ bg black,22
 ;ld l,AZA_D1,80
 
 ;「あなたは、いじめっこをいじめようと思ったことはありますか？@　……ないでしょう？@　いじめっことは、いじめの風上に立つ者のこと。@あなたがいじめっこであり続ける限り、@もはや誰も、あなたをいじめることなど叶わぬのです。」@
-`"Do you think that bullies ever get bullied by other bullies?`@`... Of course they don't. `@`Bullies are people who live hand in hand with bullying. `@`As long as you keep bullying others, `@`you yourself will never be bullied again."`@
+`"Do you think that bullies ever get bullied by other bullies?`@` ...Of course they don't. `@`Bullies are people who live hand in hand with bullying. `@`As long as you keep bullying others, `@`you yourself will never be bullied again."`@
 ;「…………………………。」\
 `"............"`\
 ;　この花を食べれば、……仕返しが出来る。@
@@ -2032,7 +2032,7 @@ ld r,AZA_D2,22
 ld r,AZA_D1,80
 
 ;「世は常に因果応報であらねばなりません。@悪人には報いを。@善人には労いを。@……しかし、時代は変わりました。@今や学校では、いじめっこという悪人が、@何ら罰せられることなく青春を謳歌して卒業し。@いじめられっこという善人が、生涯癒せぬ傷を背負わされて、社会に放逐されていきます。@………それは、天の摂理に反することです。」\
-`"In this world there must always be retribution. `@`Punishment for those who are evil. `@`And reward to those who are good.`@`... But the times have changed. `@`Now there are villains known as bullies attending school, `@`and they run free, doing what they want, and enjoying their youth right up until they graduate with no punishment whatsoever. `@`Meanwhile, good natured kids are thrown out into society with the trauma still holding the trauma caused by those bullies.`@`... That goes against the laws of karma."`\
+`"In this world there must always be retribution. `@`Punishment for those who are evil. `@`And reward to those who are good.`@` ...But the times have changed. `@`Now there are villains known as bullies attending school, `@`and they run free, doing what they want, and enjoying their youth right up until they graduate with no punishment whatsoever. `@`Meanwhile, good natured kids are thrown out into society with the trauma still holding the trauma caused by those bullies.`@` ...That goes against the laws of karma."`\
 
 ld l,YOS_D3a,22
 ;ld l,YOS_D1,80
@@ -2058,7 +2058,7 @@ br
 bg azami2,22
 
 ;「いじめる者はいじめられることを知らねばなりません。@そして、いじめられる者はいじめることを知る権利があります。@昼があれば夜があるように、夏があれば冬があるように。@……あなたが生まれ変わることは、何もおかしいことではないのです。」\
-`"Those who bully must know should know what it's like to be bullied. `@`And those who are bullied have the right to know what it's like to be the bully. `@`Like night exists because there is day, like winter exists because there is summer.`@`... it is not that odd for you to be born again."`\
+`"Those who bully must know should know what it's like to be bullied. `@`And those who are bullied have the right to know what it's like to be the bully. `@`Like night exists because there is day, like winter exists because there is summer.`@` ...It is not that odd for you to be born again."`\
 bg black,22
 bg akiti_2y,22
 ld r,YOS_D8a,22
@@ -2089,7 +2089,7 @@ ld r,YOS_D4,80
 ld l,AZA_D4,80
 
 ;「礼などいりません。@どうしてもしたいならば、@今日まで耐え忍んできた、昨日までの自分にすると良いでしょう。@……妾は、いつもあなたの側で見守っていますよ……。」@
-`"No need for thanks. `@`If there's anyone you should thank, `@`it's the you of yesterday who endured so you could reach today.`@`... I will always be watching over you..."`@
+`"No need for thanks. `@`If there's anyone you should thank, `@`it's the you of yesterday who endured so you could reach today.`@` ...I will always be watching over you..."`@
 ld r,YOS_D6,80
 
 ;「ありがとうございますっ、アザミさん…！！@　本当にありがとうございますっ！！」\
@@ -2171,7 +2171,7 @@ bgm1 28
 ld r,AZA_D4,80
 
 ;「うふふふふ。@……スミレ、人間は脅しても動きません。@認め、肯定し、唆すのが何よりも最良なのですよ。」\
-`"Ufufufu.`@`... Sumire, humans won't act even when threatened. `@`The best way to get them to do something is through acceptance, positive affirmation and enticement."`\
+`"Ufufufu.`@` ...Sumire, humans won't act even when threatened. `@`The best way to get them to do something is through acceptance, positive affirmation and enticement."`\
 
 
 ld c,SMI_w4,80
@@ -2240,7 +2240,7 @@ ld l,SMI_w2,80
 ld r,AZA_D5,80
 
 ;「それで目標を変更した。@……スミレは偉いです。@届かぬ高望みはいけません。」\
-`"And thus you changed your goals.`@`... You are so admirable, Sumire. `@`It's not good to set your sights too high."`\
+`"And thus you changed your goals.`@` ...You are so admirable, Sumire. `@`It's not good to set your sights too high."`\
 cl l,0
 mld c,SMI_D7,23
 se1 2
@@ -2312,7 +2312,7 @@ ld c,YOS_D8a,80
 ;ld c,YOS_D1,22
 
 ;　これは、暗い気持ちじゃない。@……至極当然な、怒りの感情だった。@
-`　He didn't feel depressed about it.`@`... He felt an all too natural sense of rage.`@
+`　He didn't feel depressed about it.`@` ...He felt an all too natural sense of rage.`@
 br
 ;　上履きを取り、乱暴に振るって、画鋲を放り捨てる。\
 `　He grabbed his shoes and violently shook all the tacks out of them.`\
@@ -2352,7 +2352,7 @@ br
 `　But today was different.`@
 br
 ;　彼らがとても小さく見える。@……幼稚園に通うくらいの小さな子供に見えるのだ。\
-`　They looked small today.`@`... like tiny, little kindergarteners. 
+`　They looked small today.`@` ...Like tiny, little kindergarteners. 
 ld r,YOS_D8a,80
 
 ;　そんな小さな悪ガキどもが、何か悪戯をしている。@ふざけやがって、叱り飛ばしてやる。@そんな感情で胸が満たされるのだ。@
@@ -2372,7 +2372,7 @@ E_A
 bgm1 28
 
 ;「何やってんだよ。@……俺の席で何やってんだよっ。」@
-`"Hey, what're you doing.`@`... What're you doing to my desk."`@
+`"Hey, what're you doing.`@` ...What're you doing to my desk."`@
 ;quakey 1,300
 quakex 2,300
 
@@ -2396,7 +2396,7 @@ br
 ld c,YOS_D9,80
 
 ;「………消せよ。@……………………。@/
-`"....Erase it.`@`............`@/
+`"....Erase it.`@` ............`@/
 ld c,YOS_D11,80
 quakey 2,200
 ;……消せって言ってんだよッ！！」@
@@ -2458,11 +2458,11 @@ br
 ;ld c,YOS_D1,80
 
 ;　でも今日は違う。@……何だか体が大きくなったように感じ、自然に両足を開いて座ってしまった。\
-`　But today was different.`@`... Today he felt like his body was much bigger, and he naturally spread his legs out while he sat.`\
+`　But today was different.`@` ...Today he felt like his body was much bigger, and he naturally spread his legs out while he sat.`\
 
 
 ;　正明は実感していた。@……明らかに自分が、昨日までと違う。@
-`　Masaaki could feel it.`@`... He could feel how different he was compared to yesterday.`@
+`　Masaaki could feel it.`@` ...He could feel how different he was compared to yesterday.`@
 br
 ;　同じことを、いじめっこたちもクラスメートたちも思っていた。\
 `　And his classmates and the bullies felt it too.`\
@@ -2493,7 +2493,7 @@ br
 mbg black,22
 
 ;「どうです？@　……あなたがもはや、いじめられっこではないことが、わかったでしょう。」\
-`"How's it going?`@`... You're not getting bullied anymore are you?"`\
+`"How's it going?`@` ...You're not getting bullied anymore are you?"`\
 
 
 ;bg kyou_02,0
@@ -2515,7 +2515,7 @@ ld l,YOS_D7,24
 ld l,YOS_D8a,80
 
 ;「アザミさん……。@……お、俺、今日は何かが違います……。」@
-`"Azami-san...`@`.. Th-, there's something different about me today..."`@
+`"Azami-san...`@` ...Th-, there's something different about me today..."`@
 ;ld c,AZA_D1,80
 ld r,AZA_D5,80
 
@@ -2527,7 +2527,7 @@ ld r,AZA_D5,80
 ld l,YOS_D8,80
 
 ;「……な、何て言うかその、……教室がすごく広く感じます。@……何か天井も高く感じる…。@……いやその、……世界が明るくさえ……。」\
-`"...It's kind of like, I don't know... like the classroom feels much bigger today.`@`... Like the ceiling is higher up than usually...`@`.. No, it's more like... The world just feels brighter all of a sudden..."`\
+`"...It's kind of like, I don't know... like the classroom feels much bigger today.`@` ...Like the ceiling is higher up than usually...`@` ...No, it's more like... The world just feels brighter all of a sudden..."`\
 
 
 bg kyou_03,26
@@ -2566,7 +2566,7 @@ ld r,AZA_D1,80
 ld l,YOS_D6,80
 
 ;「……すごい。@……空気の味さえ変わった気がする。@……信じられないくらい、……清々しい気持ちです……。」\
-`"...Amazing.`@`... It feels like even the taste of the air has changed.`@`... It's unbelievable... and feels so refreshing..."`\
+`"...Amazing.`@` ...It feels like even the taste of the air has changed.`@` ...It's unbelievable... and feels so refreshing..."`\
 ld r,AZA_D4,80
 
 ;「いじめとは、妾たち妖怪だけでなく、人間にとっても狩りなのです。」\
@@ -2590,14 +2590,14 @@ br
 ld r,AZA_D2,80
 
 ;「いじめっこは、いじめられっこの魂を食らうことで、今、あなたが感じている世界を得ているのです。@……つまり、あなたのその世界は、昨日まではあなたをいじめていた彼らの世界だったのです。」\
-`"By feasting on the souls of other, bullies are able to reach the world you are in now.`@`... Basically, right now you're living in the same world as those who had been bullying you up until yesterday."`\
+`"By feasting on the souls of other, bullies are able to reach the world you are in now.`@` ...Basically, right now you're living in the same world as those who had been bullying you up until yesterday."`\
 
 
 ;ld l,SMI_D1,80
 ld c,SMI_w4,80
 
 ;「逆に、そなたの世界はどうであったか。@……暗く狭く、息苦しい世界であったろうが。」@
-`"Conversely, what was your world like before now?`@`... Was it a dark, small and stifling world?"`@
+`"Conversely, what was your world like before now?`@` ...Was it a dark, small and stifling world?"`@
 ;ld r,YOS_D1,80
 ld l,YOS_D8a,80
 
@@ -2609,7 +2609,7 @@ ld l,YOS_D8a,80
 ld c,SMI_w2,80
 
 ;「それは、そなたの魂を彼らが食らっておったからなのじゃ。@食われたお前の世界は暗く狭くなり、@食っていた奴らの世界はこんなにも明るく清々しいのじゃ。@……面白いものであろうが、いじめというものはっ。」\
-`"That's because your soul was being devoured by them. `@`As your world was being eaten it became small and dark. `@`And their world was bright and refreshing.`@`... Bullying is so interesting."`\
+`"That's because your soul was being devoured by them. `@`As your world was being eaten it became small and dark. `@`And their world was bright and refreshing.`@` ...Bullying is so interesting."`\
 
 
 ;cl a,0
@@ -2641,7 +2641,7 @@ ld r,YUK_w1,24
 ld r,YUK_w2,80
 
 ;「おはよー。@……………？」@
-`"Good morning.`@`.........?"`@
+`"Good morning.`@` .........?"`@
 ;＜由香里
 br
 ;　教室に入ってきた由香里は、教室の空気が少しだけいつもと違うのを感じる。\
@@ -2653,7 +2653,7 @@ ld l,YOS_D7,23
 ;ld l,YOS_D1,22
 
 ;　喧嘩でもあったのだろうか。@……まさかと思い、正明を見るが、喧嘩をしたようには見えない。@
-`　She was wondering if there might have been a fight.`@`... but when she looked over at Masaaki, she didn't see any evidence of a fight on him.`@
+`　She was wondering if there might have been a fight.`@` ...But when she looked over at Masaaki, she didn't see any evidence of a fight on him.`@
 br
 ;　………でも、彼の雰囲気が昨日までとは何かが違った。\
 `　....But something about him was different compared to yesterday.`\
@@ -2676,7 +2676,7 @@ ld r,YUK_i1,80
 ld l,YOS_D8a,80
 
 ;「何だよ。@……俺の顔に何か付いてっかよ。」\
-`"What?`@`... Is there something on my face or something?"`\
+`"What?`@` ...Is there something on my face or something?"`\
 
 
 ld r,YUK_i1a,80
@@ -2687,7 +2687,7 @@ br
 ;　やっぱりだ。@昨日までの彼とはまるで雰囲気が違う。@
 `　There's no doubt about it. `@`He was somehow different than he was yesterday.`@
 ;　良く言えば、たくましく。@……悪く言えば、ちょっと粗暴そうな感じ。\
-`　To put it nicely, he seemed stronger.`@`... To put it not so nicely, he seemed a little rude.`\
+`　To put it nicely, he seemed stronger.`@` ...To put it not so nicely, he seemed a little rude.`\
 
 
 ;ld r,YUK_D1,80
@@ -2873,7 +2873,7 @@ cl r,0
 ld c,YOS_D8a,24
 
 ;　………は、ははは。@……こりゃ面白いや。\
-`　.....Hah, hahaha.`@`... This really is funny.`\
+`　.....Hah, hahaha.`@` ...This really is funny.`\
 
 
 ;　意味もなく消しゴムをごしごしと削り、新たなカス玉を作って、ぴしぴしと弾く。@
@@ -2919,7 +2919,7 @@ ld r,SMI_w3,80
 ld l,AZA_D3,80
 
 ;「くす。@いじめは楽しいですから。@ゆえに禁断の果実。@……それをかじる者は、かじられることを知らねばならないのです。@妾は、それを思い知らせることを司る者。@……いじめられた悔しさを知る者こそ、いじめっこに相応しく。@いじめの快楽に溺れた者こそ、いじめられるのに相応しいのです。」\
-`"*Giggle* `@`That's because bullying is fun. `@`It's like a forbidden fruit.`@`... Whoever eats it, begins to crave it. `@`And I'm the one in charge of giving the fruit to them.`@`... Those who know the frustration of being bullied, are ideal candidates for becoming bullies. `@`And those who drown in the pleasures of bullying, make good candidates for being bullied themselves."`\
+`"*Giggle* `@`That's because bullying is fun. `@`It's like a forbidden fruit.`@` ...Whoever eats it, begins to crave it. `@`And I'm the one in charge of giving the fruit to them.`@` ...Those who know the frustration of being bullied, are ideal candidates for becoming bullies. `@`And those who drown in the pleasures of bullying, make good candidates for being bullied themselves."`\
 ;＜アザミ
 
 ld r,SMI_w2,80
@@ -2944,7 +2944,7 @@ ld c,YOS_D7,22
 me1v 24,50
 
 ;　……あれが噂に聞く、魔法のアザミを食ったってやつなんだろーね。@……クラスメートたちが囁く。\
-`　...Did you hear the rumors? They say he ate one of the magical thistles.`@`... his classmates would whisper behind his back.`\
+`　...Did you hear the rumors? They say he ate one of the magical thistles.`@` ...His classmates would whisper behind his back.`\
 
 ;ld c,YOS_D1,80
 
@@ -2980,13 +2980,13 @@ ld r,YUK_D3,22
 ;ld r,YUK_D1,80
 
 ;「吉川くん。@……最近、変わったね。」@
-`"Yoshikawa-kun.`@`... You've changed recently."`@
+`"Yoshikawa-kun.`@` ...You've changed recently."`@
 ;＜由香里
 
 ld l,YOS_D8,22
 
 ;「………そうかよ。@……そうかもな。@へへ……。」@
-`"....Have I?`@`... Maybe you're right. `@`Hehe...."`@
+`"....Have I?`@` ...Maybe you're right. `@`Hehe...."`@
 br
 ;　正明は不機嫌を装いながらも、にやっと笑ってそう答えた。\
 `　Masaaki grinned a sour smile.`\
@@ -3003,11 +3003,11 @@ ld l,YOS_D8,80
 ld r,YUK_D3a,80
 
 ;「噂って。@……アザミを食べた、とかいうやつ？」@
-`"Rumors?`@`... You mean the ones about eating a thistle?"`@
+`"Rumors?`@` ...You mean the ones about eating a thistle?"`@
 ld l,YOS_D7,80
 
 ;「まぁ、そんなところだぜ。@……俺もいつまでもいじめられっこじゃないってことさ。」\
-`"Yeah, pretty much.`@`... I'm done being bullied around."`\
+`"Yeah, pretty much.`@` ...I'm done being bullied around."`\
 
 
 ld r,YUK_w3,80
@@ -3040,7 +3040,7 @@ ld l,YUK_w3,23
 ;ld r,YUK_D1,80
 
 ;「……確かにあの子たちは、すごく意地悪で、しつこく君をいじめてたもんね。@……私もちょっぴり、いい気味だと思う。」@
-`"...It's true that they were being really mean, bullying you so often.`@`... Even I think they kind of deserve this."`@
+`"...It's true that they were being really mean, bullying you so often.`@` ...Even I think they kind of deserve this."`@
 ;ld l,YOS_D1,80
 ld r,YOS_D7,24
 ;ld r,YOS_D1,80
@@ -3051,7 +3051,7 @@ ld r,YOS_D7,24
 ld l,YUK_D2,80
 
 ;「でも。@……君までいじめっこになっちゃだめだよ。」@
-`"But.`@`... You can't become a bully yourself."`@
+`"But.`@` ...You can't become a bully yourself."`@
 ;ld l,YOS_D1,80
 ld r,YOS_D10,80
 
@@ -3063,7 +3063,7 @@ ld r,YOS_D10,80
 ld l,YUK_D1,80
 
 ;「…………正明くんの気持ちもわかるの。@だから、私もしばらくは様子を見るけれど。@……あまりやり過ぎるようだったら、私も怒るからね。@だから、」\
-`".....I understand how you feel, Masaaki-kun. `@`That's why I've been letting this slide for now.`@`... But if you start to overdo it, I'm going to get mad. `@`So..."`\
+`".....I understand how you feel, Masaaki-kun. `@`That's why I've been letting this slide for now.`@` ...But if you start to overdo it, I'm going to get mad. `@`So..."`\
 
 
 ;ld l,YOS_D1,80
@@ -3322,11 +3322,11 @@ br
 ld r,YUK_D4a,80
 
 ;「可哀想に……。@私も一緒に探してあげるね。@……正明くんも一緒に探してあげなさいよ…！！」@
-`"You poor thing... `@`I'll help you look for your key too.`@`... Masaaki-kun, you help find it too...!!"`@
+`"You poor thing... `@`I'll help you look for your key too.`@` ...Masaaki-kun, you help find it too...!!"`@
 ld l,YOS_D10,23
 
 ;「……うっせぇな。@俺はこいつと一緒に宝探しをして遊んでるだけなんだよ。@……なぁ？！@　俺たち友達だもんなぁ？！」\
-`"...Shut up. `@`We were just having a little treasure hunt.`@`... Right?! `@`We're friends, right?!"`\
+`"...Shut up. `@`We were just having a little treasure hunt.`@` ...Right?! `@`We're friends, right?!"`\
 
 ;bg black,22
 
@@ -3425,7 +3425,7 @@ br
 ld l,YUK_i3a,80
 
 ;「……何があったの、……吉川くん……。@………最初は、私もいいかなって思ったの。@……今までずっといじめられていた君が、急にたくましくなって。@一方的にやられるだけじゃなくて、少しやり返せるようになって。@……もういじめられっこじゃなくなったって思って、喜んでたの。@……でも、君はどんどんおかしくなって、……今じゃ、ただのいじめっこじゃない！！」\
-`"...What happened to you... Yoshikawa-kun...`@`.... At first I was glad about the change.`@`... To see a kid that was bullied for so long to suddenly become stronger. `@`For you to not just take the bullying lying down, but fight back.`@`... I thought you were no longer going to be bullied, so I was happy for you.`@`... but, something about you changed... and now you're nothing more than a bully yourself!!"`\
+`"...What happened to you... Yoshikawa-kun...`@` ....At first I was glad about the change.`@` ...To see a kid that was bullied for so long to suddenly become stronger. `@`For you to not just take the bullying lying down, but fight back.`@` ...I thought you were no longer going to be bullied, so I was happy for you.`@` ...But, something about you changed... and now you're nothing more than a bully yourself!!"`\
 
 ;mld c,YOS_D1,80
 
@@ -3445,7 +3445,7 @@ me2v 5,50
 ;ld r,YUK_D1,80
 
 ;「だからそれをやり返すのが、君の言う正当な復讐ってわけね。@………君の気持ちも理解は出来るよ。@これまでの分を仕返ししたい気持ち、わからないわけじゃない。@……なら、それはもう充分じゃないの？！@　もう充分、彼らをいじめたでしょ！！」\
-`"And so you want to get back at them, have your rightful revenge.`@`.... I understand how you feel. `@`It's not like I don't understand the feeling of wanting payback for all that.`@`... But isn't this enough?! `@`Haven't you bullied them enough?!"`\
+`"And so you want to get back at them, have your rightful revenge.`@` ....I understand how you feel. `@`It's not like I don't understand the feeling of wanting payback for all that.`@` ...But isn't this enough?! `@`Haven't you bullied them enough?!"`\
 bg black,22
 
 bg ura7,0
@@ -3524,7 +3524,7 @@ ld l,YOS_D10a,80
 ld c,YUK_i2a,0
 
 ;「………私はいじめもいじめっこも大嫌い。@……いじめと悪ふざけを履き違えた、無自覚ないじめっこはもっと嫌い。@………でも、あなたみたいないじめっこは、もっともっと嫌いッ………。」\
-`"....I hate bullies and bullying.`@`... I hate those who can't the difference between bullying and messing around even more.`@`..... But, I hate bullies like you most of all....."`\
+`"....I hate bullies and bullying.`@` ...I hate those who can't the difference between bullying and messing around even more.`@` .....But, I hate bullies like you most of all....."`\
 cl c,23
 
 ;ld l,YOS_D1,80
@@ -3543,7 +3543,7 @@ cl l,0
 ld c,YOS_D8a,23
 
 ;「…………ンだよ…………。@……ンだよ、……畜生………。@……何しやがんだよ、……榊てめぇ………。」@
-`"......What the.....`@`... what the.... damn it.....`@`... What the fuck was that?... Sakaki, you bitch....."`@
+`"......What the.....`@` ...What the.... damn it.....`@` ...What the fuck was that?... Sakaki, you bitch....."`@
 br
 ;　由香里は応えない。@聞こえているはずなのに、まったく聞こえないかのように無視している。\
 `　Yukari didn't respond. `@`She heard what she said, but she just ignored him.`\
@@ -3692,7 +3692,7 @@ mld c,YOS_D8a,80
 ld r,AZA_D3,22
 
 ;「いじめられっこは、蔑まれるだけでなく、その世界も暗く澱み、希望の光さえ消え去る。@……しかし、いじめっこの世界は、これほどまでに輝き、充実し、希望に満ちているのです。」\
-`"The world of those who are bullied is not only one of disdain, but it is also dark and stagnant, with any slight ray of hope immediately erased by the darkness.`@`... But the world of bullies is this bright, fulfilling and brimming with hope."`\
+`"The world of those who are bullied is not only one of disdain, but it is also dark and stagnant, with any slight ray of hope immediately erased by the darkness.`@` ...But the world of bullies is this bright, fulfilling and brimming with hope."`\
 mld c,YOS_D8,80
 
 ;「……確かに……。@かつては大嫌いだった勉強も運動も、@……全てが信じられないくらいに絶好調で……。@今の俺なら、何も出来ないことなんかないって、気持ちになります……。」\
@@ -3779,7 +3779,7 @@ bg black,22
 ;mld c,YOS_D1,80
 
 ;「………そ、……そうさ……。@……俺はずっとずっと……、憐れなくらいのいじめられっこだった……。@その底辺を、這って這って這いずり回ってきたからこそ……、@このいじめっこの世界が理解できるんだ……。」\
-`".....That... that's right...`@`... I was... miserably bullied for a long, long time.... `@`Because I crept around that bottom level of the pyramid for so long... `@`I'm able to better understand this world of bullies..."`\
+`".....That... that's right...`@` ...I was... miserably bullied for a long, long time.... `@`Because I crept around that bottom level of the pyramid for so long... `@`I'm able to better understand this world of bullies..."`\
 ;ld l,SMI_D1,23
 ;ld l,SMI_D1,80
 
@@ -3807,7 +3807,7 @@ br
 ;　そうさ。@俺の踏み台になってくれたこいつらの分まで、@俺は上の世界へ行かなくちゃならないんだ。@
 `　That's right. `@`I have to take myself to a higher world, `@`not just for my sake, but for the sake of my stepping stones as well.`@
 ;　俺は王様。@……王様、王様……。\
-`　I am the king.`@`... The king, the king....`\
+`　I am the king.`@` ...The king, the king....`\
 mld c,YOS_D8a,80
 
 ;「はは、………ふっはははははっはっはっはっは！！」@
@@ -3850,7 +3850,7 @@ ld r,YOS_D7,23
 ld r,YOS_D4,80
 
 ;「……こいつは俺とタクシーごっこをしてるだけなんだよ。@こいつは俺の舎弟だから、俺のタクシーが出来て嬉しいんだよ。@……な？」@
-`"...He's just playing taxi with me. `@`He's my underling, so he's more than happy to help me out by being my taxi.`@`... right?"`@
+`"...He's just playing taxi with me. `@`He's my underling, so he's more than happy to help me out by being my taxi.`@` ...Right?"`@
 ;「……………ん…………。」\
 `".......y........"`\
 ld r,YOS_D12,80
@@ -3931,9 +3931,9 @@ bg roji_03,22
 ;「………前のクラスでかよ？」@
 `".....Were your classmates the one who did it?"`@
 ;「うん。@………かつての吉川くんと、同じように。」@
-`"Yes.`@`.... The same way your classmates once did to you."`@
+`"Yes.`@` ....The same way your classmates once did to you."`@
 ;「なるほど。@……それでラッキーにも、あの事故でいじめっこが全員死んで、@俺たちのクラスに来たってわけだ。」\
-`"I see.`@`... Then you're lucky. `@`Since you're whole class died in an accident, and you got to come to our class."`\
+`"I see.`@` ...Then you're lucky. `@`Since you're whole class died in an accident, and you got to come to our class."`\
 bg black,24
 bg roji_01,0
 ld r,YUK_D1,24
@@ -3953,7 +3953,7 @@ ld r,YUK_i4,80
 ld l,YOS_D7,80
 
 ;「お前はそのラッキーに救われた。@……俺にはそのラッキーがなかった。@……いや、あったか。@………俺は、……魔法のアザミを見つけることが出来たんだから。」\
-`"You were lucky enough to be saved.`@`... I didn't have that luck.`@`... No, maybe I did.`@`..... I... found a magical thistle."`\
+`"You were lucky enough to be saved.`@` ...I didn't have that luck.`@` ...No, maybe I did.`@` .....I... found a magical thistle."`\
 
 ;　魔法のアザミの話は由香里も、一応は知っている。@
 `　Yukari was mostly familiar with the story of the magical thistles.`@
@@ -3969,11 +3969,11 @@ ld r,YUK_i1a,80
 ld l,YOS_D8a,80
 
 ;「あぁ。@俺も昔は、どうでもいい与太話だと思ってたぜ……。@……だがな、本当にあるんだよ。@それはいじめられっこにしか見つけることが出来ないんだ。」\
-`"Yeah. `@`I used to think it was just a baseless rumor...`@`... But they really exist. `@`Only those who are bullied can find them."`\
+`"Yeah. `@`I used to think it was just a baseless rumor...`@` ...But they really exist. `@`Only those who are bullied can find them."`\
 ld r,YUK_D3a,80
 
 ;「……それを食べればいじめっこになれるって言うけど……。@……まさか、本当に……？」@
-`"...They say that if you eat one you'll be able to become a bully...`@`... Did you really....?"`@
+`"...They say that if you eat one you'll be able to become a bully...`@` ...Did you really....?"`@
 br
 ;　アザミはアザミだ。@ただの雑草だ。@
 `　A thistle is just a thistle. `@`They're nothing more than weeds.`@
@@ -3988,18 +3988,18 @@ br
 ld l,YOS_D8,80
 
 ;「俺は教えられたのさ。@いじめっこの世界ってのをな。@……いじめは楽しいぞ、最高だ。@いじめこそは、魂を食らう狩りなんだ…！」\
-`"I was taught. `@`Taught about the world of bullies.`@`... About how great it was to bully. `@`About how bullying was like hunting and devouring souls...!"`\
+`"I was taught. `@`Taught about the world of bullies.`@` ...About how great it was to bully. `@`About how bullying was like hunting and devouring souls...!"`\
 ld r,YUK_i1a,80
 
 ;「…………吉川くんは、……教えられたんだね。@……いじめの、………愉悦を……。」@
-`".....Yoshikawa-kun... was taught.`@`... about the joy.... of bullying..."`@
+`".....Yoshikawa-kun... was taught.`@` ...About the joy.... of bullying..."`@
 br
 ;　由香里は確信する。@
 `　Yukari was positive.`@
 ;　いじめの楽しさを、囁く者、唆す者。\
 `　She knew who was whispering to him, and tempting him with the joys of bullying.`\
 ;　由香里は辺りを見渡す。@……もちろん、自分たち以外に誰もいるはずはない。@
-`　Yukari surveyed they area around her.`@`... Naturally, there shouldn't be anyone else here but these three children.`@
+`　Yukari surveyed they area around her.`@` ...Naturally, there shouldn't be anyone else here but these three children.`@
 br
 ;　だけれども、確実に居ることを確信し、言った。\
 `　However, to confirm her suspicion, she spoke.`\
@@ -4026,7 +4026,7 @@ ld c,SMI_w2,80
 bgm1 12
 
 ;「ふっふふふふ……。@……ひっひひひはっははははははははは！！@　久し振りじゃのう、由香里…！@　私の名を覚えていてくれたとは嬉しいことじゃ！！」\
-`"Fufufufu....`@`.. Hihihihahahahahahaha!! `@`It's been a while, Yukari...! `@`I'm glad you still remember my name!!"`\
+`"Fufufufu....`@` ...Hihihihahahahahahaha!! `@`It's been a while, Yukari...! `@`I'm glad you still remember my name!!"`\
 ;＜スミレ
 
 ;「あなたね。@吉川くんに、いじめの愉悦を教えたのは。」\
@@ -4054,7 +4054,7 @@ ld r,SMI_w5,80
 ld l,YUK_i2a,80
 
 ;「……なるほど。@吉川くんに魔法のアザミを与えて豹変させたのは、@……やっぱり妖怪の仕業だったのね。」\
-`"...I see. `@`You are the one who gave that Yoshikawa-kun the magical thistle that changed him.`@`... I had a feeling this was the work of a youkai."`\
+`"...I see. `@`You are the one who gave that Yoshikawa-kun the magical thistle that changed him.`@` ...I had a feeling this was the work of a youkai."`\
 ld r,SMI_w6,80
 
 ;「お前も覚えている通り。@我らはいじめの愉悦を教えるだけ。@それに酔い、染まるのは人間の勝手なのじゃ！@　我らは別に、正明を操っているわけではないのじゃ！」\
@@ -4103,7 +4103,7 @@ cl l,0
 mld l,YUK_i2,80
 
 ;「……確かに吉川くんはかつて、気の毒ないじめられっこだった。@……だからこそ、私も彼が変わった最初、@……少しくらいはやり返しても、それは仕方ないことと思ってた。」\
-`"...It's true that Yoshikawa-kun was once a pitiable bullied child.`@`... And it's true that in the beginning.... `@`I too thought he was entitled to a little payback."`\
+`"...It's true that Yoshikawa-kun was once a pitiable bullied child.`@` ...And it's true that in the beginning.... `@`I too thought he was entitled to a little payback."`\
 ld r,AZA_D5,80
 
 ;「それこそが、因果応報なのです。」\
@@ -4111,7 +4111,7 @@ ld r,AZA_D5,80
 mld l,YUK_i3,80
 
 ;「違うよ。@因果応報という言葉を振りかざして繰り広げる、これは第二のいじめでしかないっ。@……あなたたち妖怪が甘言で、……吉川くんを最悪のいじめっこに育て上げてしまったっ。」\
-`"Wrong. `@`You throw words like 'karma' and 'retribution' around, when it's nothing more than another bullying.`@`... You youkai used your honeyed words... to make Yoshikawa-kun into the worst imaginable bully."`\
+`"Wrong. `@`You throw words like 'karma' and 'retribution' around, when it's nothing more than another bullying.`@` ...You youkai used your honeyed words... to make Yoshikawa-kun into the worst imaginable bully."`\
 ld c,SMI_w2,80
 
 ;「くっくっくっく！！@　その通りなのじゃ！@　いじめは許さぬと大見得を切ったお前が、@正明をどう止められるか、実に見物なのじゃ！！」\
@@ -4145,7 +4145,7 @@ ld r,YUK_i4,24
 ld l,YOS_D9,80
 
 ;「榊。@……俺がいじめられてた時、お前だけはいつも庇ってくれたよな。@……よくもしつこく、……何度も何度も。」@
-`"Sakaki.`@`... When I was being bullied, you were the only one who ever stood up for me.`@`... You went out of your way... time and time again."`@
+`"Sakaki.`@` ...When I was being bullied, you were the only one who ever stood up for me.`@` ...You went out of your way... time and time again."`@
 ld r,YUK_i2,80
 
 ;「……私、……いじめは絶対許さないから。」\
@@ -4153,7 +4153,7 @@ ld r,YUK_i2,80
 ld l,YOS_D8a,80
 
 ;「それに、……俺なりに感謝してたつもりなんだぜ。@……だから今日まで、クラスの誰をいじめようとも、……お前だけはいじめなかった。」@
-`So... I wanted to thank you in my own way.`@`... That's why... you were the only one in our class that I didn't bully."`@
+`So... I wanted to thank you in my own way.`@` ...That's why... you were the only one in our class that I didn't bully."`@
 ld r,YUK_D1,80
 
 ;「…………………………。」\
@@ -4180,7 +4180,7 @@ bg roji_02,24
 ld r,YOS_D8a,24
 
 ;「お前はうぜぇしうるせぇ。@だが、お前だけは特別に見逃してやる。@……だからそれに感謝して、二度と俺に絡むんじゃねぇ。」\
-`"Your annoying and meddlesome. `@`But I'll make sure to overlook all that.`@`... So as thanks, don't ever involve yourself with me again."`\
+`"Your annoying and meddlesome. `@`But I'll make sure to overlook all that.`@` ...So as thanks, don't ever involve yourself with me again."`\
 ld l,YUK_i1,23
 ;ld l,YUK_D1,80
 
@@ -4189,18 +4189,18 @@ ld l,YUK_i1,23
 ld r,YOS_D10,80
 
 ;「じゃあ、明日からお前もいじめてやるよ。@お前だけ特別扱いしない。@……むしろ、これまで見逃されてた分、明日からしつこくいじめてやるよ。@二度と俺に口出し出来なくなるまでな。」\
-`"Fine, then starting tomorrow I'll bully you as well. `@`I won't give you special treatment.`@`.... Or rather, I'll start bullying you enough to make up for all the times I've overlooked you. `@`So bad that you'll be able to interfere again."`\
+`"Fine, then starting tomorrow I'll bully you as well. `@`I won't give you special treatment.`@` ....Or rather, I'll start bullying you enough to make up for all the times I've overlooked you. `@`So bad that you'll be able to interfere again."`\
 ld l,YUK_D1,80
 
 ;「………やってみたら？@　私だって、吉川くんに負けないくらい、いじめられてきたもん。@……だから絶対、挫けないよ。」\
-`".....Go ahead and try. `@`I've already faced bullying worse than yours, Yoshikawa-kun.`@`... You won't break me."`\
+`".....Go ahead and try. `@`I've already faced bullying worse than yours, Yoshikawa-kun.`@` ...You won't break me."`\
 cl r,0
 ld c,YOS_D8a,24
 
 me2v 17,50
 
 ;「俺に負けないくらいだぁ……？@　面白ぇこと抜かすじゃねぇかよ……。@気に入ったぜ、榊！！@　明日からは覚悟しろよ、お前が泣くまで、いじめていじめて、いじめ抜いてやるぜ！@　……降参するなら早めにしろよ。@何しろ俺は、いじめが楽しくて楽しくて仕方がねぇんだからな。@ついつい手加減を忘れて、何をしちまうかわからねぇぞ…！！」\
-`"Worse than mine....? `@`Sounds interesting.... `@`You've piqued my interest, Sakaki!! `@`Prepare yourself, because starting tomorrow I'm going to bully you endlessly until you cry!`@`... If you want to surrender, do it now. `@`Otherwise, don't think I'll go easy on you. `@`I love bullying so much, I might just lose control of myself...!!"`\
+`"Worse than mine....? `@`Sounds interesting.... `@`You've piqued my interest, Sakaki!! `@`Prepare yourself, because starting tomorrow I'm going to bully you endlessly until you cry!`@` ...If you want to surrender, do it now. `@`Otherwise, don't think I'll go easy on you. `@`I love bullying so much, I might just lose control of myself...!!"`\
 
 ;　正明は由香里の鼻を食い千切らんばかりに顔を近付けて、にやりと笑い、凄む。\
 `　Masaaki threatened Yukari with a grin on his face. His face was close enough to hers to bite her nose.`\
@@ -4208,12 +4208,12 @@ cl l,0
 mld l,YUK_i1,80
 
 ;「………そうしたいなら、そうしたらいい。@……吉川くんが私をいじめてる間は、……他の子たちは君にいじめられなくて済むだろうし。」\
-`"....If that's what you want to do, go ahead.`@`... If you're wasting your time bullying me... then that you won't be able to spend that time bullying the other kids."`\
+`"....If that's what you want to do, go ahead.`@` ...If you're wasting your time bullying me... then that you won't be able to spend that time bullying the other kids."`\
 cl c,0
 ld r,YOS_D8a,24
 
 ;「…………………………。@……へっ。@……へっへへへへへへへへへ。@面白ぇや、榊由香里。@……明日からは覚悟しろよ。@……たっぷりたっぷり。@お前だけと、遊んでやるからな……。@……くっくくくくくくくくくく……。」\
-`".............`@`... Heh.`@`... Heheheheheheh. `@`You're an interesting one, Yukari Sakaki.`@`... Prepare yourself.`@`... Starting tomorrow, `@`I'm only going to be playing with you...`@`... Kukukukukukuku..."`\
+`".............`@` ...Heh.`@` ...Heheheheheheh. `@`You're an interesting one, Yukari Sakaki.`@` ...Prepare yourself.`@` ...Starting tomorrow, `@`I'm only going to be playing with you...`@` ...Kukukukukukuku..."`\
 cl r,22
 
 ;　正明は気色悪く笑いながら、由香里を残して立ち去る。@
@@ -4271,7 +4271,7 @@ ld l,SMI_w6,80
 ld r,AZA_D4,80
 
 ;「いじめに屈したら、いつでも妾を呼ぶと良いでしょう。@……あなたに、魔法のアザミを授けてあげますよ。@……くすくすくす。」\
-`"When you can't handle the bullying any longer, feel free to call me at any time.`@`... I will gladly grant you a magical thistle.`@`... Heeheehee."`\
+`"When you can't handle the bullying any longer, feel free to call me at any time.`@` ...I will gladly grant you a magical thistle.`@` ...Heeheehee."`\
 se1 84
 
 cl a,42
@@ -4324,7 +4324,7 @@ bg kyou_02,23
 ;　一人の少年の筆箱を取り上げ、こっちこっちと囃し立てながら逃げ回る。@
 `　He had stolen one of the boy's pencil cases and was playing keep away with it while mocking the boy the whole time.`@
 ;　そしてベランダに逃げ、そら返してやるよと、彼に向かって放った時、@……少し強い風が吹いた。\
-`　Both of them ended up on the balcony outside the classroom, where Masaaki told the boy if he wanted it so bad, he could have it, and threw the case at the boy.`@`... And at that moment, a somewhat strong gust of wind blew by.`\
+`　Both of them ended up on the balcony outside the classroom, where Masaaki told the boy if he wanted it so bad, he could have it, and threw the case at the boy.`@` ...And at that moment, a somewhat strong gust of wind blew by.`\
 bg koutei_03,23
 
 me2v 5,50
@@ -4422,7 +4422,7 @@ ld c,YOS_D3a,22
 ld c,YOS_D10a,80
 
 ;「………あ、あいつ、@…………ふざけて駆け回ってて。@……それでその、……手すりにでも跨ろうとしたのか、急に手すりを登り出して、@………落ちて……。」\
-`"....H-He....... `@`was messing around.`@`... and then he... sat on the up on the railing, then suddenly decided to stand on it.... `@`and fell..."`\
+`"....H-He....... `@`was messing around.`@` ...And then he... sat on the up on the railing, then suddenly decided to stand on it.... `@`and fell..."`\
 ;　落ちた少年が、ひとりでふざけていて、転落した。@
 `　The boy fell when he was playing around, alone.`@
 ;　正明はそう、証言する。@
@@ -4432,7 +4432,7 @@ br
 `　It was the complete opposite of what had really happened. `@`But, it wasn't impossible to imagine the boy doing something like that.`@
 br
 ;　クラスの暴君である彼がそう宣言したのだ。@……彼を恐れるクラスメートたちは、真実を告発できるわけもない。\
-`　That story was the he as the tyrant of the class declared to be the truth.`@`... And his classmates were to frightened to say otherwise.`\
+`　That story was the he as the tyrant of the class declared to be the truth.`@` ...And his classmates were to frightened to say otherwise.`\
 
 ;　それは転落した少年も同じだ。@
 `　The boy who had fallen was the same.`@
@@ -4474,7 +4474,7 @@ bg kyou_02,22
 me1v 24,50
 
 ;　昼休み。@……正明はクラスの男子数人に取り囲まれた。@
-`　Lunch break.`@`... Masaaki was surrounded by a large group of boys from his class.`@
+`　Lunch break.`@` ...Masaaki was surrounded by a large group of boys from his class.`@
 br
 ;　彼らは少し及び腰ではあったが、……正明の暴政に対し、抗おうという強い意思が感じられた。\
 `　They were a bit apprehensive... but it felt like they were determined to oppose Masaaki's tyranny.`\
@@ -4781,12 +4781,12 @@ cl a,0
 ld c,SMI_w6,23
 
 ;「お前も覚えておる通り、クラス全体によるいじめは苛烈じゃ。@ほんの数人のいじめに根を上げていた正明如きに、いつまでも耐えられるわけがなかろう。@……元々、か弱いいじめられっこよ。@化けの皮が剥がれた今、そういつまでも持つわけがあるまい！」\
-`"As you no doubt remember, being bullied by an entire class is especially severe. `@`Someone like Masaaki, who caved in after being bullied by just a few people, may not be able to tolerate it.`@`... Originally he was a weak, bullied child. `@`Now that he's shed his transformation, he won't be able to keep up like that forever!"`\
+`"As you no doubt remember, being bullied by an entire class is especially severe. `@`Someone like Masaaki, who caved in after being bullied by just a few people, may not be able to tolerate it.`@` ...Originally he was a weak, bullied child. `@`Now that he's shed his transformation, he won't be able to keep up like that forever!"`\
 ld l,AZA_D4,22
 ;ld l,AZA_D1,80
 
 ;「復讐しようという気力が、再び生まれれば良いのですが。@……妾の見たところ、次はそうはならないでしょう。」@
-`"It would be nice if he regained the willpower to get revenge once again.`@`... but as far as I see it, next time that won't be the case."`@
+`"It would be nice if he regained the willpower to get revenge once again.`@` ...But as far as I see it, next time that won't be the case."`@
 cl c,0
 ld r,SMI_w2,23
 
@@ -4795,7 +4795,7 @@ ld r,SMI_w2,23
 ld l,AZA_D3,80
 
 ;「その頃には、クラスメートたちはいじめの愉悦にどっぷりと浸かり。@……スミレの狩りを担う、素晴らしき花たちに育っているでしょう。くすくす。」\
-`"When that time comes, your classmates will be totally immersed in the joys of bullying.`@`... And her wonderful little flowers will then do her hunting for her. *Giggle*"`\
+`"When that time comes, your classmates will be totally immersed in the joys of bullying.`@` ...And her wonderful little flowers will then do her hunting for her. *Giggle*"`\
 ld r,SMI_w6,80
 
 ;「さぁ、由香里よ、そなたはどうするというのじゃ！@　正明が自殺するまで見守っておるか？@　ふっふふふ、それは出来まい？@　ならばどうやってあやつを救うというのか！」\
@@ -4844,7 +4844,7 @@ br
 `　But even more so, she would never allow some to do something as foolish as suicide.`\
 
 ;　その為には、……正明を何とか守り、@………みんなを、復讐という名のいじめから、目を覚まさせなければ。@
-`　To do that... she had to find some way to protect Masaaki.`@`.... and a way to make her classmates come to their senses and stop their revenge.`@
+`　To do that... she had to find some way to protect Masaaki.`@` ....And a way to make her classmates come to their senses and stop their revenge.`@
 br
 ;　しかし、そんなこと、ついさっきの乱闘さえ止められなかった自分に、出来るわけもない………。\
 `　But, she wasn't even able to stop that fight just then, how was she supposed to do all that....`\
@@ -4916,11 +4916,11 @@ ld r,SMI_w4,80
 ld c,AZA_D1,22
 
 ;「……くす。@これは素晴らしい自己犠牲です。@……自分がいじめらっこになることで、吉川くんを庇おうというのですね？」\
-`"...*Giggle* `@`What a wonderful self-sacrifice.`@`... Do you intend by protect Yoshikawa-kun by taking the bullying on yourself?"`\
+`"...*Giggle* `@`What a wonderful self-sacrifice.`@` ...Do you intend by protect Yoshikawa-kun by taking the bullying on yourself?"`\
 ld l,YUK_i4,80
 
 ;「……………このままじゃ、吉川くんはみんなに乱暴されて、@……大喧嘩になって大怪我をすることになってしまう。@……確かに吉川くんは、酷いいじめをみんなにした。@仕返しをしたいみんなの気持ちも、確かにわかるの。@……でも、それを認めて延々と繰り返したら、ずっとあなたたちの思う壺っ。@いじめの連鎖が、永遠に終わらないっ……。」\
-`".......At this rate, Yoshikawa-kun will be attacked by everyone... `@`and it will turn into a huge fight and cause him serious injury.`@`... It's true that Yoshikawa-kun bullied everyone else really badly, `@`and I do understand everyone's feelings in wanting to get back at him.`@`... But if I let them continue, the same situation will just repeat forever, just like you two want it to. `@`And the chain of bullying will never end..."`\
+`".......At this rate, Yoshikawa-kun will be attacked by everyone... `@`and it will turn into a huge fight and cause him serious injury.`@` ...It's true that Yoshikawa-kun bullied everyone else really badly, `@`and I do understand everyone's feelings in wanting to get back at him.`@` ...But if I let them continue, the same situation will just repeat forever, just like you two want it to. `@`And the chain of bullying will never end..."`\
 ld r,SMI_w1,80
 
 ;「それで由香里がいじめられっこを引き受けようというのか。@すると、いじめられたお前は一体どうするつもりじゃ？」\
@@ -4929,7 +4929,7 @@ cl l,0
 mld l,YUK_D3a,22
 
 ;「………私をいじめようとする人たちと、……何とか仲良くなれるように、頑張ります。@……彼らは吉川くんの件については、仕返しを正当化できているけれど、私に対しては何もない。@……だから、ちゃんと話し合えば、……いじめは、………なくせるはず………。」\
-`"...I will do my best... to get along with everyone trying to bully me.`@`... They may be able to justify their payback on Yoshikawa-kun, but they won't be able to do the same to me.`@`... So, if I just talk to them... I should be able... to stop the bullying."`\
+`"...I will do my best... to get along with everyone trying to bully me.`@` ...They may be able to justify their payback on Yoshikawa-kun, but they won't be able to do the same to me.`@` ...So, if I just talk to them... I should be able... to stop the bullying."`\
 mcl l,0
 bg black,22
 
@@ -4958,15 +4958,15 @@ ld l,SMI_w2,22
 me1v 16,50
 
 ;「これは………。@……とんでもないことを考えるヤツなのじゃ。@……姉者はどう思う…？」@
-`"This girl....`@`... really thinks of some outrageous things.`@`... What do you think, sister...?"`@
+`"This girl....`@` ...really thinks of some outrageous things.`@` ...What do you think, sister...?"`@
 ld r,AZA_D2,22
 
 ;「………………。@美しい自己犠牲の精神です。@……見てみたくなりました。」\
-`"....... `@`It would be a beautiful show of self-sacrifice.`@`... I would like to see it."`\
+`"....... `@`It would be a beautiful show of self-sacrifice.`@` ...I would like to see it."`\
 ld l,SMI_w6,80
 
 ;「ならば決まりじゃ！@　私の力で、お前をこれより、クラス一のいじめられっこにしてやろうぞ！@　皆は正明のことなどケロリと忘れて、そなたをいじめることに夢中になろうぞ！@　……クラス全体とのいじめに、どう抗うか楽しみじゃ！！@　前は結果的に彼岸花に救われたが、……今度は同じ幸運は訪れぬぞ…？@　仮にやって来ても、もう好きにはさせぬ。@姉者は彼岸花と互角の凶暴さを持つ、@凶悪極悪の意地悪偽善妖怪なのじゃからなー！@/
-`"Then it's decided! `@`From here on I will use my power to make the class bully you! `@`Everyone will completely forget about Masaaki, and become engrossed in bullying you!`@`... I'm looking forward to seeing how you'll fight the bulling of an entire class!! `@`Before, you were consequently saved by Higanbana... but can you expect the same stroke of good luck this time around...? `@`Even if it does happen, don't expect us to allow you to have your way for long. `@`My sister's brutality is on par with Higanbana's. `@`She's a diabolical, heinous, malicious and hypocritical youka--!`@/
+`"Then it's decided! `@`From here on I will use my power to make the class bully you! `@`Everyone will completely forget about Masaaki, and become engrossed in bullying you!`@` ...I'm looking forward to seeing how you'll fight the bulling of an entire class!! `@`Before, you were consequently saved by Higanbana... but can you expect the same stroke of good luck this time around...? `@`Even if it does happen, don't expect us to allow you to have your way for long. `@`My sister's brutality is on par with Higanbana's. `@`She's a diabolical, heinous, malicious and hypocritical youka--!`@/
 se1 48
 quakey 1,100
 ;　ふぎーー？！」\
@@ -4999,7 +4999,7 @@ fedexx 70,50,0,0,0,0,2000
 ld c,AZA_D1,80
 
 ;「良いのですね？　由香里。@　……ならば、あなたの望み。@妾たちが叶えてあげましょう。」\
-`"Is that fine with you, Yukari?`@`... If so, `@`we will grant your wish."`\
+`"Is that fine with you, Yukari?`@` ...If so, `@`we will grant your wish."`\
 ld r,YUK_i2a,22
 
 ;「………私が絶対、……このクラスからいじめをなくして見せます。」\
@@ -5007,7 +5007,7 @@ ld r,YUK_i2a,22
 ld c,AZA_D2,80
 
 ;「くす。@……その威勢、どれだけ続くか見せてもらいますよ。@妾はいつもあなたの側で見守っています。@……もしあなたがいじめに屈し、いじめられっこを返上したいと思ったなら。@いつでも妾を呼ぶとよいでしょう。@……そうしたら、あなたにも魔法のアザミを授けてあげますよ。@……あなたにも、いじめの愉悦。@……たっぷりと教えてあげましょうとも。@……くす、……うふふふふふふふふ…………。」\
-`"*Giggle*`@`... Show us how long you can keep up that strength. `@`I will always be by your side, watching you.`@`... If you ever can't handle the bullying anymore and want to get some payback on your bullies, `@`you can call me at any time.`@`... When you do, I will grant you a magical thistle.`@`... Even you can learn the joy of bullying.`@`... And if you want to, I can certainly teach it to you.`@`... *giggle*... Ufufufufufu......"`\
+`"*Giggle*`@` ...Show us how long you can keep up that strength. `@`I will always be by your side, watching you.`@` ...If you ever can't handle the bullying anymore and want to get some payback on your bullies, `@`you can call me at any time.`@` ...When you do, I will grant you a magical thistle.`@` ...Even you can learn the joy of bullying.`@` ...And if you want to, I can certainly teach it to you.`@` ...*giggle*... Ufufufufufu......"`\
 cl c,2
 
 fede 10,1000
@@ -5037,7 +5037,7 @@ br
 `　As she yelled at them, each and every one of them slowly turned their heads... and gave her a dismal stare.`\
 
 ;　そして、悪党を庇うなら榊由香里も悪党だと口々に叫び、@……その矛先を正明から由香里を変えた。@
-`　And then, because she was defending a villain, she started all started yelling at Yukari Sakaki like she was a villain too.`@`... and they changed the target of their attack from Masaaki to Yukari.`@
+`　And then, because she was defending a villain, she started all started yelling at Yukari Sakaki like she was a villain too.`@` ...And they changed the target of their attack from Masaaki to Yukari.`@
 ;　クラスメートたちは、何かに取り憑かれたかのように、@由香里を取り囲んで、口々に罵声を浴びせ、小突いたり蹴ったりする。\
 `　As if possessed by something, `@`all of the classmates gathered around Yukari, and engulfed with ridicule and pushed and kicked at her.`\
 se1 13
@@ -5059,10 +5059,10 @@ br
 ld l,YOS_D10a,22
 
 ;「………お、……お前ら、……何してんだよ……。@……や、……止めろよ………。」@
-`"....W-... What... are you guys doing....`@`...No.... Stop it....."`@
+`"....W-... What... are you guys doing....`@` ...No.... Stop it....."`@
 br
 ;　正明はおずおずと小声で言うが、@……いじめの熱気で頭に血を上らせた彼らの耳に、それが届くわけもなかった………。\
-`　Masaaki nervously spoke in a small voice.`@`... but they were so absorbed in madly bullying the girl, that they didn't hear him.....`\
+`　Masaaki nervously spoke in a small voice.`@` ...But they were so absorbed in madly bullying the girl, that they didn't hear him.....`\
 bg black,2
 
 fede 10,2000
@@ -5099,7 +5099,7 @@ E_A
 ld r,YUK_D4,22
 
 ;「吉川くん。@…………何……？」@
-`"Yoshikawa-kun.`@`...... What is it...?"`@
+`"Yoshikawa-kun.`@` ......What is it...?"`@
 ld l,YOS_D3a,80
 
 ;「………………。」\
@@ -5110,11 +5110,11 @@ bgm1 24
 `　The face of the girl, who once hated bullying and refused to ever falter in the face of bringing it down... `@`now looked entirely too pitiful.`\
 
 ;　あれだけ毎日、酷いいじめに遭っているのだ。@……彼女の世界が今、どれほど暗く窮屈なものか、正明には容易に想像できた。\
-`　After having to endure such horrible bullying every day.`@`... Masaaki could easily imagine how dark and constrained her world must have felt right now.`\
+`　After having to endure such horrible bullying every day.`@` ...Masaaki could easily imagine how dark and constrained her world must have felt right now.`\
 ld l,YOS_D2,80
 
 ;「……き、……聞いたぜ。@……あの、妖怪たちに。」@
-`"I-... I heard what you did.`@`... from those youkai."`@
+`"I-... I heard what you did`@` ...from those youkai."`@
 br
 ;　正明はスミレに聞かされていた。@由香里が、彼を庇うために望んでいじめられっこに堕ちたことを。\
 `　Masaaki asked Sumire what had happened. `@`She told him about how Yukari wished to take the bullying upon herself in order to protect him.
@@ -5134,16 +5134,16 @@ ld l,YOS_D3a,80
 ld r,YUK_w4,80
 
 ;「そうだね。@……多少の仕返しならともかく。@少し、やり過ぎちゃったね……。」\
-`"That's right.`@`... It would have been fine if you just settled for a little payback. `@`But, you kind of overdid it..."`\
+`"That's right.`@` ...It would have been fine if you just settled for a little payback. `@`But, you kind of overdid it..."`\
 cl l,0
 ld c,YOS_D10a,23
 
 ;「……だとしたら、そのやり過ぎた分をやられるのは、俺の役目だ。@……榊の役目じゃねぇ……。」@
-`"...So I should be the one who has to pay for overdoing it.`@`... Not you, Sakaki..."`@
+`"...So I should be the one who has to pay for overdoing it.`@` ...Not you, Sakaki..."`@
 ld r,YUK_w3,80
 
 ;「言ったでしょ。@私はいじめが大嫌いなの。@……だから、吉川くんが皆にいじめられるところなんて、絶対に見たくなかったの。」\
-`"I already told you. `@`I hate bullying.`@`... So I absolutely couldn't stand to see you bullied by everyone."`\
+`"I already told you. `@`I hate bullying.`@` ...So I absolutely couldn't stand to see you bullied by everyone."`\
 ld c,YOS_D10n,80
 
 ;「だ、……だからって、………自分がいじめられるのかよ……。」@
@@ -5159,7 +5159,7 @@ ld c,YOS_D12,80
 ld r,YUK_D2,80
 
 ;「……………………。@……そうみたいだね。」@
-`"..........`@`...It appears so."`@
+`"..........`@` ...It appears so."`@
 br
 ;　由香里も、それを認めつつあった。\
 `　Yukari was in the process of admitting that to herself as well.`\
@@ -5188,14 +5188,14 @@ me1v 16,50
 `"............"`\
 
 ;「最初、君がいじめられてた。@いじめのジョーカーを渡されてた。@そして君はいじめっこになって、そのジョーカーを彼らに渡し返した。@……いじめを止めろと、言うだけなら容易い。@でも、止めたら、ジョーカーを持たされた子は、どうすればいいの。@………いじめられて悔しい悲しい思いをしたまま、ひっそりと我慢して生きていけなんて、@誰に言う権利があるっていうの。」\
-`"At first you were the one who was being bullied. `@`You were dealt the joker of bullying. `@`And then you became the bully, and you gave the joker to those guys.`@`... It's easy to just tell people to stop bullying. `@`But when it does stop, what are you supposed to do about the kid that gets handed the joker next?`@`.... Who's to say, `@`who should be the one to silently endure a life of frustrating and sorrowful bullying?"`\
+`"At first you were the one who was being bullied. `@`You were dealt the joker of bullying. `@`And then you became the bully, and you gave the joker to those guys.`@` ...It's easy to just tell people to stop bullying. `@`But when it does stop, what are you supposed to do about the kid that gets handed the joker next?`@`.... Who's to say, `@`who should be the one to silently endure a life of frustrating and sorrowful bullying?"`\
 
 ;「…………………………。」\
 `"............."`\
 bg black,22
 
 ;「誰かがジョーカーを押し付けられなければいけない。@当然、誰もジョーカーなんか受け取りたくない。@……人間は誰だって、幸せに生きる権利があるんだよ。@……誰にだって、ジョーカーを受け取り、抱え込まなければならない義理なんてない。」\
-`"Someone must always be holding the joker. `@`Naturally, no one wants to have the joker.`@`... Everyone has the right to live a happy life.`@`... But no one wants to take it upon themselves to hold the joker once they receive it."`\ 
+`"Someone must always be holding the joker. `@`Naturally, no one wants to have the joker.`@` ...Everyone has the right to live a happy life.`@` ...But no one wants to take it upon themselves to hold the joker once they receive it."`\ 
 bg roji_02,22
 ld r,YOS_D8a,24
 
@@ -5205,7 +5205,7 @@ mld l,YUK_D4,22
 mld l,YUK_D2a,80
 
 ;「そうだね。@……じゃあ、私は誰にそれを渡すの？@　……私から、いじめのジョーカーを誰かに渡すってことは、@……それって、私がその子をいじめるのも、同じことだよね…？@　だから、吉川くんにだって、それを渡したくない。@だって私は、……いじめが、絶対に許せないから。」\
-`"That's right.`@`... But who would I pass it on to?`@`... If I pass my joker of being bullied onto someone else... `@`wouldn't that be the same as bullying them myself...? `@`So, I don't want to pass it back onto you. `@`Because... I will never allow bullying."`\
+`"That's right.`@` ...But who would I pass it on to?`@` ...If I pass my joker of being bullied onto someone else... `@`wouldn't that be the same as bullying them myself...? `@`So, I don't want to pass it back onto you. `@`Because... I will never allow bullying."`\
 ld r,YOS_D3a,80
 
 ;「……………………………。」\
@@ -5229,7 +5229,7 @@ mld l,YUK_D3,80
 mcl l,22
 
 ;　自己犠牲。@……いじめの、生贄。\
-`　Self-sacrifice.`@`... A scapegoat for bullying.`\
+`　Self-sacrifice.`@` ...A scapegoat for bullying.`\
 ld c,YOS_D13,22
 
 ;　……ふざけんな。@
@@ -5238,7 +5238,7 @@ ld c,YOS_D13,22
 `　Why does someone like Sakaki have to sacrifice herself for this game of old maid...`\
 
 ;　どうせ犠牲になるなら、クソッタレで最低なヤツがジョーカーを引き受ければいい。@例えば俺だっ。@……断じて榊なんかじゃねぇ…！@
-`　If anyone has to be the sacrifice, it should be some worthless piece of trash kid. `@`Like me for example.`@`... Just not Sakaki of all people...!"`@
+`　If anyone has to be the sacrifice, it should be some worthless piece of trash kid. `@`Like me for example.`@` ...Just not Sakaki of all people...!"`@
 br
 ;　正明は由香里の悲壮な決意に、涙を浮かべる……。\
 `　The tragic, yet heroic, resolve of Yukari brought tears to Masaaki's eyes...`\
@@ -5255,7 +5255,7 @@ ld l,YOS_D13,22
 ld r,YUK_w3,80
 
 ;「みんなで回して、いじめのバトンリレーをするか。@全てのジョーカーを誰か一人に集めて、残りの全員が幸せになるユートピアか、@……そのどちらかしかないの。」\
-`"Either it's like a relay race, and everyone passes around the bullying baton between each other. `@`Or one person ends up getting all the jokers and everyone else lives happily in their utopia.`@`.... Those are the only options."`\
+`"Either it's like a relay race, and everyone passes around the bullying baton between each other. `@`Or one person ends up getting all the jokers and everyone else lives happily in their utopia.`@` ....Those are the only options."`\
 ld l,YOS_D14,80
 
 ;「……いじめが生まれた時点で、……必ず誰かが不幸になる。@それが救われても、次の誰かが……犠牲になるっ……。」\
@@ -5264,7 +5264,7 @@ bg black,22
 bg roji_06,22
 
 ;「そう。@いじめのジョーカーが生まれた時点で、@……そのババ抜きは、誰かを犠牲にするまで、決して終わらないの。@……それが、クラスや学年、学校全体、……あるいはこの世の全てをぐるぐる、ぐるぐると巡って、悲しみを連鎖させているの。@……生まれたジョーカーは、……どうしようもない……。」\
-`"That's right. `@`Once the joker is born.... `@`that game of old maid will indefinitely continue on until someone becomes a sacrifice.`@`... That chain of sorrow circles around every class, every year, throughout the entire school... and even throughout this entire world.`@`... Once the joker is born... there is nothing we can do..."`\
+`"That's right. `@`Once the joker is born.... `@`that game of old maid will indefinitely continue on until someone becomes a sacrifice.`@` ...That chain of sorrow circles around every class, every year, throughout the entire school... and even throughout this entire world.`@` ...Once the joker is born... there is nothing we can do..."`\
 
 ;「…………………榊………。」\
 `"..........Sakaki....."`\
@@ -5280,7 +5280,7 @@ bg roji_05,22
 ;ld r,YUK_D1,80
 
 ;「……いじめに抗うのなんて、……不可能だったかもしれない。@……ひょっとしたら、……私は大きな勘違いを、……していたのかもしれない……。」\
-`"...It might be... impossible to oppose bullying.`@`... I may... have made... a huge mistake..."`\
+`"...It might be... impossible to oppose bullying.`@` ...I may... have made... a huge mistake..."`\
 
 ;　それは、あまりに弱々しい言葉。@
 `　Those words were far too feeble.`@
@@ -5307,7 +5307,7 @@ cl l,0
 ld c,YOS_D14,23
 
 ;「……今の榊は、紛れもないいじめられっこだ。@……今のお前になら、絶対に見つけられるはずだ。@……あの、……魔法のアザミを……！」@
-`"...Right now you are undoubtably being bullied.`@`... So right now, you should be able to find one.`@`... find... a magical thistle...!"`@
+`"...Right now you are undoubtably being bullied.`@` ...So right now, you should be able to find one.`@` ...Find... a magical thistle...!"`@
 ld r,YUK_D2,80
 
 ;「…………………………。」\
@@ -5328,7 +5328,7 @@ ld r,AZA_D1,2
 ld r,AZA_D2,80
 
 ;「くす。@今の由香里は立派ないじめられっこ。@……望むのならば、授けても良いのですよ。」\
-`"*Giggle* `@`Yukari has become a splendid bullied child.`@`... If she wishes it, I will give her one."`\
+`"*Giggle* `@`Yukari has become a splendid bullied child.`@` ...If she wishes it, I will give her one."`\
 
 ;「榊っ。@魔法のアザミを食うんだ…！！@　あれを食えばすぐにもいじめっこになれる…！@　誰にもいじめられなくなる…！！」\
 `"Sakaki! `@`Eat a magical Thistle...!! `@`If you eat one, you'll instantly be made into a bully...! `@`You'll never be bullied by anyone again...!!"`\
@@ -5345,7 +5345,7 @@ ld c,SMI_w5,80
 ld r,AZA_D3,80
 
 ;「内より湧き出す覇気と暴力。@……これまでのあなたではいられませんよ。」\
-`"Your ambitions and violence will overflow from you.`@`... You will not be able to remain as the same person you have been thus far."`\
+`"Your ambitions and violence will overflow from you.`@` ...You will not be able to remain as the same person you have been thus far."`\
 bg black,22
 
 me1v 5,50
@@ -5375,7 +5375,7 @@ mld c,YOS_D14,23
 ;ld c,YOS_D1,80
 
 ;「頼むっ。@……榊に魔法のアザミを食わせてくれっ。@そして榊っ。@いじめるなら俺をいじめろ…！！@　調子に乗ってやり過ぎた俺が元凶なんだッ。@お前のジョーカーは俺が引き受けるから！！！」\
-`"Please, I'm begging you.`@`... Let Sakaki eat the magical thistle. `@`And Sakaki. `@`If you have to bully someone, bully me...!! `@`It's my fault you're in this mess. All because I got carried away. `@`Pass your joker onto me!!!"`\
+`"Please, I'm begging you.`@` ...Let Sakaki eat the magical thistle. `@`And Sakaki. `@`If you have to bully someone, bully me...!! `@`It's my fault you're in this mess. All because I got carried away. `@`Pass your joker onto me!!!"`\
 ld r,YUK_D3,80
 
 ;「…………………吉川くん……。」\
@@ -5442,7 +5442,7 @@ ld r,AZA_D2,80
 
 
 ;「さぁ。@このアザミを食べるのです。@……これであなたはもう、いじめられっこではなくなるのですよ。」@
-`Here. `@`Eat this flower.`@`... With this you will no longer be bullied any longer."`@
+`Here. `@`Eat this flower.`@` ...With this you will no longer be bullied any longer."`@
 ld l,YUK_D3a,22
 
 ;「……………………………。」\
@@ -5461,7 +5461,7 @@ br
 `　But... at the last second... her sense of reason held her back...`\
 
 ;「……榊っ。@……頼むっ、……頼むッ……！！」@
-`"...Sakaki.`@`... Please... PLEASE...!!"`@
+`"...Sakaki.`@` ...Please... PLEASE...!!"`@
 ;「……………………………。」\
 `"............."`\
 
@@ -5524,7 +5524,7 @@ ld r,AZA_D3,22
 ;ld r,AZA_D1,80
 
 ;「明日よりあなたはいじめに飢えた狼です。@……吉川くんも、彼女に近付かぬように気を付けることですよ。@もっとも、あなたは望んで近付き、生贄となるつもりでしょうが。」\
-`"Starting tomorrow you will be a bloodthirsty wolf, hungry for bullying.`@`... Yoshikawa-kun, I would advice being careful of not getting to close to her. `@`Though if you do wish to get close to her, be aware that you will doing so as a scapegoat."`\
+`"Starting tomorrow you will be a bloodthirsty wolf, hungry for bullying.`@` ...Yoshikawa-kun, I would advice being careful of not getting to close to her. `@`Though if you do wish to get close to her, be aware that you will doing so as a scapegoat."`\
 cl c,0
 mld c,SMI_w2,80
 
@@ -5590,7 +5590,7 @@ br
 `　Then.... I will take all your bullying upon myself.....`@
 br
 ;　お前はジョーカーを手放し、そして俺のようにやり過ぎて誰かに憎まれることもなく、@……いじめから解放されるんだ……。\
-`　You will relinquish your joker and, unlike me, you want be hated if you overdo it.`@`... You will be freed from bullying...`\
+`　You will relinquish your joker and, unlike me, you want be hated if you overdo it.`@` ...You will be freed from bullying...`\
 bg black,22
 
 fede 0,1000
@@ -5601,7 +5601,7 @@ me1v 24,50
 ld l,AZA_D5,22
 
 ;「そろそろ、由香里さんがやって来る頃です。@………くす。@どのような豹変を遂げているか、楽しみですね。」@
-`"It's about time for Yukari-san to show up.`@`.... *Giggle* `@`I'm excited to see what kind of personality she will have."`@
+`"It's about time for Yukari-san to show up.`@` ....*Giggle* `@`I'm excited to see what kind of personality she will have."`@
 ld r,SMI_w2,22
 ;ld r,SMI_D1,80
 
@@ -5652,7 +5652,7 @@ me1v 17,50
 `　Her expression was dark.`@
 br
 ;　……迂闊に話し掛けられないどころか、@……近寄られたら、退かずにはいられない迫力があった。\
-`　...It had the sort of intensity to it that made it clear that you shouldn't carelessly talk to her.`@`... or that if she approached you, you had better get out of the way.`\
+`　...It had the sort of intensity to it that made it clear that you shouldn't carelessly talk to her.`@` ...Or that if she approached you, you had better get out of the way.`\
 bg black,24
 bg kyou_03,0
 ld r,SMI_w1,24
@@ -5686,7 +5686,7 @@ br
 ;　由香里はしばらくの間、それをじっと見詰めて、俯いていた。@
 `　Yukari stared down at it for a while.`@
 ;　教室中が凍り付いている。@……誰も、……指一本、動かすことも出来ない。\
-`　Everyone in the classroom was still frozen.`@`... Not a single one of them... could move even a finger.`\
+`　Everyone in the classroom was still frozen.`@` ...Not a single one of them... could move even a finger.`\
 bg black,22
 
 ;　すると、………ゆっくりと…………。@
@@ -5768,7 +5768,7 @@ ld r,SMI_w5,22
 ld l,AZA_D4,80
 
 ;「気に入る子がいないなら、あなたにいじめられたいと立候補している子もおりますよ。@……ねぇ、吉川くん。@うっふふふふふ……。」\
-`"If none of them strike your fancy, there's always the possibility of getting back at the ones who bullied you.`@`... Right, Yoshikawa-kun. `@`Ufufufufu..."`\
+`"If none of them strike your fancy, there's always the possibility of getting back at the ones who bullied you.`@` ...Right, Yoshikawa-kun. `@`Ufufufufu..."`\
 
 mcl c,0
 bg black,24
@@ -5800,7 +5800,7 @@ ld l,SMI_w2,22
 ld c,YUK_i3,80
 
 ;「……いじめは、……生まれてはならない。@……生んではならない。」@
-`"...Bullying... must not be born.`@`... We must not allow it to be born."`@
+`"...Bullying... must not be born.`@` ...We must not allow it to be born."`@
 br
 ;　生まれたいじめは、ババ抜きになる。@「死」でしか、清算できない。\
 `　If it is born, it becomes an old maid. `@`Removable only by "death."`\
@@ -5819,7 +5819,7 @@ ld r,YUK_i1,22
 bgm1 27
 
 ;「なら。@………いじめなどなかった一番最初。@……私たち人間は、……ユートピアにいたはず。」@
-`"Then.`@`.... Back in the very beginning, before bullying existed.`@`... We humans... must have lived in a utopia."`@
+`"Then.`@` ....Back in the very beginning, before bullying existed.`@` ...We humans... must have lived in a utopia."`@
 ld l,YOS_D9,80
 
 ;「…………………………。」\
@@ -5829,7 +5829,7 @@ ld l,YOS_D9,80
 ld r,YUK_i2,80
 
 ;「……ねぇ。@……一番最初の人間は、………どうしていじめなんか、始めてしまったの……？@　………いじめなんか生まれなければ、……人間は永遠に、……幸せだったのに……。」\
-`"...Hey.`@`... Why did the first humans... start bullying in the first place...? `@`.....If bullying was never born... humans would have lived in happiness... forever..."`\
+`"...Hey.`@` ...Why did the first humans... start bullying in the first place...? `@`.....If bullying was never born... humans would have lived in happiness... forever..."`\
 bg black,23
 bg kyou_01,0
 ld r,SMI_w4,23
@@ -5842,13 +5842,13 @@ ld l,YUK_i2,22
 me1v 16,50
 
 ;「……だから、………これが、………ユートピア。@………これが私の考える、………ユートピア………。」\
-`"...So.... this..... is utopia.`@`..... This is the utopia... that I've wanted....."`\
+`"...So.... this..... is utopia.`@` .....This is the utopia... that I've wanted....."`\
 bg black,26
 bg kyou_03,26
 
 
 ;「さ、………榊……ッ。@……やるなら俺を………ッ！」@
-`"S-.... Sakaki...`@`.... If you're going to bully use me.....!"`@
+`"S-.... Sakaki...`@` ....If you're going to bully use me.....!"`@
 br
 
 ;　正明が駆け寄ろうとした時。@再び、凄まじい轟音が教室に響き渡った。\
@@ -5880,7 +5880,7 @@ ld r,SMI_D7,22
 mld l,YUK_i3,80
 
 ;「……あなたたちの思い通りになんか、絶対にならないから。@……これが、私の考えたユートピア。@……私の考えた、……いじめへの抗い方。」\
-`"...I won't let you two have your way.`@`... This is the utopia I've wanted.`@`... The way to oppose bullying... that I've been looking for."`\
+`"...I won't let you two have your way.`@` ...This is the utopia I've wanted.`@` ...The way to oppose bullying... that I've been looking for."`\
 ;ld c,AZA_D1,0
 ld r,SMI_i1,80
 
@@ -5894,7 +5894,7 @@ br
 mld l,YUK_i4,80
 
 ;「……生まれたいじめの連鎖を、断ち切ることは難しいかもしれない。@……なら、……いじめそのものを、………生まれないようにするしかない。」\
-`"...It may be too hard to sever the chain of bullying once it has been made.`@`... In that case... there's nothing else to do... but make it like that bullying was never born in the first place."`\
+`"...It may be too hard to sever the chain of bullying once it has been made.`@` ...In that case... there's nothing else to do... but make it like that bullying was never born in the first place."`\
 ld r,SMI_D3a,80
 
 ;「は、はは……。@そ、そんなこと、………どうやって、……やれるというのか……。」\
@@ -5902,7 +5902,7 @@ ld r,SMI_D3a,80
 mld l,YUK_i2,80
 
 ;「私がこの教室から、………二度と、いじめが生まれないようにする……。@………私の目が黒い内は、………二度とッ……！！！」\
-`"I will make it... so that bullying is never born in this classroom again...`@`.... Never again..... as long as I am alive...!!!"`\
+`"I will make it... so that bullying is never born in this classroom again...`@` ....Never again..... as long as I am alive...!!!"`\
 
 mcl l,24
 
@@ -5942,7 +5942,7 @@ ld c,YUK_i5,80
 me1v 5,70
 
 ;「……いじめが嫌いだ。@……いじめをするヤツが嫌いだ。@…………わかるか…………。」@
-`"...I hate bullying.`@`... and I hate anyone who bullies.`@`..... Understood......?"`@
+`"...I hate bullying.`@` ...And I hate anyone who bullies.`@` .....Understood......?"`@
 br
 ;　ぎょろりと教室を見渡す。@
 `　She slowly surveyed the classroom.`@
@@ -5961,7 +5961,7 @@ br
 bg black,22
 
 ;「………いじめをやるヤツは、私が殺す。@……殺されたくなければ、日々を慎ましやかに生きろ。@………いじめっこを食らういじめっこが、この私だ……。@……私は腹が減っている……。@……誰かをいじめたくていじめたくて……、仕方がないんだ……。@………私の餌食が早く現れろ。@………くっくくくくく、……くくくくくくくくく……。@はははは、あっははははっはっはっはっはっはっはッ！！！」\
-`"....If anyone of you bullies again, I will kill them.`@`... If you don't want to be killed, live a modest life.`@`... I am the bully who devours other bullies...`@`.. and I'm hungry...`@`.. I really... really want to bully someone...`@`.... So if you want to become my prey, show yourself now.`@`... Kukukuku... kukukukukuku... `@`Hahahaha, Ahahahahahahaha!!!"`\
+`"....If anyone of you bullies again, I will kill them.`@` ...If you don't want to be killed, live a modest life.`@` ...I am the bully who devours other bullies...`@` ...And I'm hungry...`@` ...I really... really want to bully someone...`@` ....So if you want to become my prey, show yourself now.`@` ...Kukukuku... kukukukukuku... `@`Hahahaha, Ahahahahahahaha!!!"`\
 bg kyou_01,1
 se1v 12,100
 se2v 2,100
@@ -5979,7 +5979,7 @@ br
 ld c,YUK_i5,80
 
 ;「…………なら。@……慎ましく生きやがれ。@…………返事はぁあああぁッ！！！」@
-`"......In that case.`@`.. You better live an honest and humble life.`@`....... ANSWER ME!!!"`@
+`"......In that case.`@` ...You better live an honest and humble life.`@` .......ANSWER ME!!!"`@
 se1v 2,100
 quakey 3,400
 ;「「「はッ、はいぃぃぃ…！！」」」@
@@ -6021,11 +6021,11 @@ se1v 2,100
 quakey 3,400
 
 ;「もしッ！！@　……いじめを見つけやがったら。@すぐに私に言いなよ。@…………その間抜け野郎を、……私が食い殺してやるッ！！！」\
-`"If!! `@`...You find any bullying. `@`Come tell me right away.`@`....... I will find that moron... and kill and devour him!!!"`\
+`"If!! `@`...You find any bullying. `@`Come tell me right away.`@` .......I will find that moron... and kill and devour him!!!"`\
 ld l,YOS_D10a,80
 
 ;「お、……おう………ッ。@……き、……聞こえたか、皆……！@　こ、このクラスでは二度といじめは許さねぇぞ…！@　俺と榊の目の黒い内は、二度と絶対にだ…！！@　いいなッ？！」\
-`"Y-.... yeah...`@`.. D-... did you hear that, everyone...?! `@`B-Bullying won't be allowed in this class ever again...! `@`Never again as long as Sakaki and I still draw breath...!! `@`Got that?!"`\
+`"Y-.... yeah...`@` ...D-... did you hear that, everyone...?! `@`B-Bullying won't be allowed in this class ever again...! `@`Never again as long as Sakaki and I still draw breath...!! `@`Got that?!"`\
 cl r,0
 ld c,YUK_i5,24
 
@@ -6085,7 +6085,7 @@ ld r,AZA_D4,22
 ld c,HIG_D3,80
 
 ;「いつ横から掻っ攫ってやろうかと、ずっと様子を見ていたけれど。@……こんなオチが待っているとは、想像も出来なかったわ。@くすくすくすくすくすくすくす……！」\
-`"I've actually been watching the whole time, waiting for a chance to steal your prey from you.`@`... but I never imagined that this would be the outcome. `@`Teeheeheehee...!"`\
+`"I've actually been watching the whole time, waiting for a chance to steal your prey from you.`@` ...But I never imagined that this would be the outcome. `@`Teeheeheehee...!"`\
 ;＜彼岸花
 
 ld l,MAR_D4a,80
@@ -6139,7 +6139,7 @@ ld r,AZA_D2,22
 ld r,AZA_D5,80
 
 ;「くす。@……見事ですよ、由香里。@妾が望んだ通りになりましたね。」@
-`"*Giggle*`@`... Splendid job, Yukari. `@`You turned out exactly the way I expected you to."`@
+`"*Giggle*`@` ...Splendid job, Yukari. `@`You turned out exactly the way I expected you to."`@
 ld l,HIG_D5,22
 ;ld l,HIG_D1,80
 
@@ -6228,7 +6228,7 @@ me1v 16,50
 `　When the teacher arrived for morning homeroom... usually he would expect everyone to be out of their seats, messing around. `@`But today they were sitting, discretely whispering under their breath.`\
 
 ;「……お、おや。@今朝はどういうわけだが、行儀がいい……。@……じゃあ、日直、号令。」\
-`"...Oh, what's this? `@`Everyone is so well-behaved this morning...`@`... Okay, whoever's the helper today, lead us through morning greetings."`\
+`"...Oh, what's this? `@`Everyone is so well-behaved this morning...`@` ...Okay, whoever's the helper today, lead us through morning greetings."`\
 textoff
 
 wait 1000

@@ -1442,7 +1442,7 @@ br
 `　...I feel like I heard that earlier from the school nurse.`@`
 br
 ;　忘れ去られた旧校舎には、今は誰も住まわない。@……そんな旧校舎に私が住み着いて、きっと旧校舎も喜んでいるだろう、って話……。\
-`　'The old school building is now forgotten.`@`...If I settled in that old school building, surely they'd be happy' she said...`\
+`　'The old school building is now forgotten.`@` ...If I settled in that old school building, surely they'd be happy' she said...`\
 bg okujou_04,0
 ld c,HIG_w2,22
 ld c,HIG_w1,80
@@ -1507,7 +1507,7 @@ mov %HIG_Isyou,1
 ;　……あぁ、でも彼岸花さんがずっと呼んでる……。@
 `　Ah, but Higanbana-san is always calling me...`@`
 ;　返事してあげないと拗ねちゃう……。@……むにゃむにゃ……。\
-`　When I don't answer, she pouts...`@`...*mumble mumble*...`\
+`　When I don't answer, she pouts...`@` ...*mumble mumble*...`\
 bg black,2
 
 me1v 16,50
@@ -1676,7 +1676,7 @@ ld l,MAR_i4a,23
 ld r,HIG_D5,80
 
 ;「………………………………。@……それは本当に？@　だとしたら、とても珍しい、奇跡に違いないわ。@……そしてあなたは、その黄泉桜のうろのお酒を、飲んだわけ？」@
-`".............`@`....Is that true?`@` If you say so, considering how rare that'd be, it's undoubtedly a miracle.`@`....And as for the sake from the sakura of the underworld, did you drink it?"`@`
+`".............`@` ....Is that true?`@` If you say so, considering how rare that'd be, it's undoubtedly a miracle.`@` ....And as for the sake from the sakura of the underworld, did you drink it?"`@`
 ld l,MAR_D4a,80
 
 ;「はい……。@とても甘い香りと味で、……とても美味しかったです……。」\
@@ -1689,7 +1689,7 @@ E_A
 ld r,HIG_D3,80
 
 ;「…………………。@……何てことかしら、毬枝。@……あなたはひょっとしたら、すごく強運なのかもしれないわね。」@
-`".........`@`....What on earth, Marie.`@`...Perhaps you're just very lucky, hm?"`@`
+`".........`@` ....What on earth, Marie.`@` ...Perhaps you're just very lucky, hm?"`@`
 ld l,MAR_D3a,80
 
 bgm1 1003
@@ -1730,14 +1730,14 @@ bg okujou_03u,22
 ;ld l,MAR_D2a,80
 
 ;「私だって妖怪のはずなのに。@……昨夜、何があったのか、さっぱりです……。」\
-`"Even for a youkai such as myself.`@`...I'm at a loss about what happened last night..."`\
+`"Even for a youkai such as myself.`@` ...I'm at a loss about what happened last night..."`\
 ;bg black,22
 ;bg Air_03,22
 
 ;「あまりに素敵なお月見の晩だったし。@……あんた、人が良さそうだからね。@……旧校舎の主に、呼ばれちゃったんじゃないかしら。」@
 `"It wasn't a particularly great moon-viewing. `@`...You, you seem like a good person. `@`...I wonder if you weren't in fact called by the old school building."`@`
 ;「……………………。@……そうですね。@………そうかもしれませんね。」\
-`".........`@`....Maybe.`@`...I guess that might be the case."`\
+`".........`@` ....Maybe.`@` ...I guess that might be the case."`\
 ;　ありがとう、旧校舎さん。@
 `"Thank you, Old School Building-san."`@`
 br

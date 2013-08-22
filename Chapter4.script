@@ -103,7 +103,7 @@ bg black,22
 E_A
 
 ;　その時。@……唐突に美術室の隅から声が聞こえた。\
-`　At that moment.`@`... A voice echoed out from the corner of the room.`\
+`　At that moment.`@` ...A voice echoed out from the corner of the room.`\
 br
 ;「……………その絵、好き？」\
 `"......Do you like those pictures?"`\
@@ -186,7 +186,7 @@ bg kaiga_01,24
 `　Each and every one of them was probably considered a masterpiece, but they portrayed scenes far too dark. `@`They were so scary that if a kid saw them in the middle of the night, they would probably burst into tears.`\
 
 ;「この教室を訪れる子たちは、みんなそう思っていて怖がっているよ。@……美術室はオバケ屋敷みたい、って言ってね。」@
-`"All the kids who come to this room think that they're scary.`@`... They say that they make the art room look like a haunted house."`@
+`"All the kids who come to this room think that they're scary.`@` ...They say that they make the art room look like a haunted house."`@
 br
 ;　少女はそう言って笑うが、少しだけ寂しそうだった。\
 `　The girl spoke with a smile, but something about it seemed lonely.`\
@@ -196,7 +196,7 @@ br
 ld c,NOD_D2,80
 
 ;「確かに、ちょっと怖い絵も多いけれど。@……でも、僕は好きだよ。@ここの絵。」@
-`"I mean, sure, there are a bunch of scary pictures here.`@`... But I like them. `@`These pictures."`@
+`"I mean, sure, there are a bunch of scary pictures here.`@` ...But I like them. `@`These pictures."`@
 ;「………本当に…？」\
 `"....Really...?"`\
 
@@ -231,7 +231,7 @@ bg bijutu_03,23
 ;　……でも、何となく、自分は美術室が好きだった。@
 `　...But, for some reason, he really liked the art room.`@
 ;　怖い絵がたくさんあるのは知ってる。@……確かに怖い。@
-`　He knew that there were a lot of scary pictures in the room.`@`... and they scared him too.`@
+`　He knew that there were a lot of scary pictures in the room.`@` ...And they scared him too.`@
 br
 ;　でも、そんなものも含めて、……色々なインスピレーションに満ち溢れている。\
 `　But even those pictures... filled him with a strong sense of inspiration.`\
@@ -252,7 +252,7 @@ bg kaiga_02,24
 `".....It's rare to meet someone who doesn't consider this room to be like a haunted house."`@
 br
 ;　少女はとても嬉しそうに笑った。@……まるで、自分のことを褒められたかのようだった。\
-`　The girl smiled joyfully.`@`... almost as if she herself had been praised.`\
+`　The girl smiled joyfully.`@` ...Almost as if she herself had been praised.`\
 
 
 ;「君は、どの絵が一番好き？」@
@@ -289,7 +289,7 @@ bg kaiga_01,22
 ;　それは一人の少女の絵だった。@
 `　It was a painting of a girl.`@
 ;　短い鞭を持った英国風の美しい少女。@肩まである柔らかそうな髪。@鮮やかな青い色のスカート。@………………あれ。\
-`　She was a beautiful English looking girl, and was holding a short whip. `@`She had very soft looking hair that went down to her shoulders. `@`And she wore a bright blue skirt.`@`........ Wait.`\
+`　She was a beautiful English looking girl, and was holding a short whip. `@`She had very soft looking hair that went down to her shoulders. `@`And she wore a bright blue skirt.`@` ........ Wait.`\
 
 
 ld r,NOD_D1,22
@@ -303,7 +303,7 @@ ld r,NOD_D1,22
 ld r,NOD_D3,80
 
 ;「うん。@髪とか、服とか…。@……ほら、そっくり。」@
-`"Yeah. `@`Your hair, your clothes...`@`... they're almost exactly the same."`@
+`"Yeah. `@`Your hair, your clothes...`@` ...They're almost exactly the same."`@
 me1v 16,50
 
 br
@@ -316,7 +316,7 @@ br
 ;　少女が苦笑しながら言う。@
 `　The girl replied with a bitter smile.`@
 ;　おかしなことを言う子だな。@……気に入らないんだったらわざわざそんな恰好しなきゃいいのに。\
-`　What a strange kid.`@`... If she didn't liked how she looked, then all she had to do was change it.`\
+`　What a strange kid.`@` ...If she didn't liked how she looked, then all she had to do was change it.`\
 
 
 
@@ -346,7 +346,7 @@ ld c,NOD_D4,80
 `".....oh! um... I'm sorry."`@
 br
 ;　慌てて謝る。@………何かまずいこと言ったかな…？\
-`　He frantically apologized.`@`... Did he say something bad...?`\
+`　He frantically apologized.`@` ...Did he say something bad...?`\
 
 
 ld c,NOD_D5a,80
@@ -591,7 +591,7 @@ bg shokuin_02,0
 ;ld r,NAF_D1,23
 
 ;「そっかあ……。@良かったらその作業、僕も手伝いましょうか？　@……あ、いや、別にそんな、下心とかそういうのがあるわけじゃなくて！」\
-`"I see... `@`Would you like me to help you out with that work?`@`... Ah, I mean, I'm not saying that because of have ulterior motive or anything!"`\
+`"I see... `@`Would you like me to help you out with that work?`@` ...Ah, I mean, I'm not saying that because of have ulterior motive or anything!"`\
 
 ;　彼が顔を真っ赤にしてそんなことを付け加えるので、私は思わず苦笑してしまった。@
 `　As he tried to explain himself, his face got all red. Without thinking, my face formed into a wry smile.`@
@@ -612,7 +612,7 @@ br
 `　But Imata's response wasn't what she had expected.`\
 
 ;「そうですかぁ。@……でもほら、あんな事故の後だし、一人で美術室にいるのは怖いんじゃないですか……？」\
-`"Ah, Okay.`@`... but, aren't you afraid to go into the art room alone after that incident...?"`\
+`"Ah, okay.`@` ...But, aren't you afraid to go into the art room alone after that incident...?"`\
 
 
 ld r,NAF_D4a,80
@@ -621,7 +621,7 @@ ld r,NAF_D4a,80
 `　Shintani strained to maintain her smile.`@
 br
 ;　『あんな事故』、@……その言葉に一人の生徒の顔が鮮明に蘇る。@
-`　'that incident'`@`... Those words alone made her vividly recall one student's face.`@
+`　'That incident.'`@` ...Those words alone made her vividly recall one student's face.`@
 ;　井俣先生がしまった、という顔を浮かべて謝った。\
 `　Imata-sensei's face immediately turned to an expression of regret and he apologized.`\
 
@@ -630,7 +630,7 @@ br
 ld r,NAF_D2,80
 
 ;「いえ……。@……大丈夫です。」@
-`"No....`@`... It's fine."`@
+`"No....`@` ...It's fine."`@
 br
 ;　かろうじて平静を取り戻して言うと、井俣先生がわざとらしく明るい声を出した。\
 `　She was just barely able to reply calmly. Imata-sensei replied with a force cheer in his voice.`\
@@ -639,7 +639,7 @@ br
 `"...That was just a rumor, right? A rumor."`@
 br
 ;　噂。@……生徒たちの話題は今、その“噂”で持ち切りだ。\
-`　A rumor.`@`... Right now, that 'rumor' was the hot topic among the students.`\
+`　A rumor.`@` ...Right now, that 'rumor' was the hot topic among the students.`\
 
 ;cl a,0
 bg black,22
@@ -653,22 +653,22 @@ bgm1 8
 ;「“美術室のルノワール”……ですか？」@
 `"You mean 'Renoir of the Art Room'?"`@
 ;「……くだらないですよね。@子供ってなんでああいう噂が好きなんでしょう。@……自分たちの友達が亡くなったって言うのに……。」\
-`"...How silly. `@`Why do kids even like rumors like that?`@`... Even though one have their friends has passed away..."`\
+`"...How silly. `@`Why do kids even like rumors like that?`@` ...Even though one have their friends has passed away..."`\
 ;「……だからじゃないですか？」@
 `"...Isn't it because of that reason?"`@
 ;「え？」@
 `"Huh?"`@
 ;「友達が一人死ぬって、すごく大変なことだと思うんですよ。@子供が受け入れるには重過ぎるくらい。@……だから、妖怪とか、@そういう自分たちの知らない不思議な存在のせいって考えたくなるんじゃないですかね。」\
-`"Having one of your friends die is a very serious thing to go through. `@`Maybe too serious for children to accept.`@`... So, it might be easier... `@`for them to place the blame on youkai or something else enigmatic like that."`\
+`"Having one of your friends die is a very serious thing to go through. `@`Maybe too serious for children to accept.`@` ...So, it might be easier... `@`for them to place the blame on youkai or something else enigmatic like that."`\
 
 ;「……もしかして、新谷先生も信じてるんですか？」@
 `"...Shintani-sensei, could it be that you also believe in that stuff?"`@
 ;「いえ。@……でも、信じたくなる時はありますよ。@私がもっとちゃんと気を配っていたら、あんなことにはならなかったんじゃないかって。@……そう思って落ち込んじゃう時もありますから。」\
-`"No.`@`... But sometimes I want to. `@`Sometimes, when I'm feeling down I start to think... `@`If only I had paid better attention, maybe I could have prevented that from happening."`\
+`"No.`@` ...But sometimes I want to. `@`Sometimes, when I'm feeling down I start to think... `@`If only I had paid better attention, maybe I could have prevented that from happening."`\
 bg black,22
 
 ;「そんな！@　……あれは事故です！@　絶対に先生のせいなんかじゃありませんよ！」@
-`"Don't think like that!`@`... That was just an accident! `@`There's no way at all that you were at fault!"`@
+`"Don't think like that!`@` ...That was just an accident! `@`There's no way at all that you were at fault!"`@
 ;「ありがとうございます。」\
 `"Thank you."`\
 bg shokuin_03,22
@@ -726,7 +726,7 @@ br
 `　...Shintani muttered to herself, too quiet for anyone else to hear.`\
 
 ;「裕貴くん……。@……どうしてあんなことに…………。」\
-`"Yuuki...`@`...Why? Why did that have to happen to you..."`\
+`"Yuuki...`@` ...Why? Why did that have to happen to you..."`\
 cl c,2
 
 bg black,22
@@ -934,7 +934,7 @@ bgm1 8
 ld r,NAF_D2,80
 
 ;「今度は、美術室にも招待しようかしら。@……私もお茶を淹れるのは得意だし。」\
-`"I wonder if I should invite her to the art room for tea this time.`@`... I'm pretty good at making tea myself."`\
+`"I wonder if I should invite her to the art room for tea this time.`@` ...I'm pretty good at making tea myself."`\
 bg black,24
 ;cl a,0
 bg rouka_04,24
@@ -1058,7 +1058,7 @@ ld c,NAF_D1,80
 
 
 ;「あ、違うんです！@　……僕、その……絵が見たくなって。@この絵、好きなんです、僕。」@
-`"Ah, no. It's not that!`@`... I just... wanted to see this painting. `@`I really like this one"`@
+`"Ah, no. It's not that!`@` ...I just... wanted to see this painting. `@`I really like this one"`@
 br
 ;　少年ははにかみながら壁を見た。\
 `　The boy shyly looked over at the wall.`\
@@ -1132,7 +1132,7 @@ ld c,NAF_D1,80
 ld c,NAF_D3,80
 
 ;「ちょうど、君みたいな男の子をモデルにした絵を描きたいと思っていたの。@……お願いできないかしら？」@
-`"I've been wanting to do draw a picture with a boy like you as a model.`@`... Would you mind helping me out?"`@
+`"I've been wanting to do draw a picture with a boy like you as a model.`@` ...Would you mind helping me out?"`@
 br
 ;　胸の前で両手を合わせる。\
 `　She brought her hands together in front of her chest.`\
@@ -1147,10 +1147,10 @@ bg black,22
 ;ld c,NAF_D2,80
 
 ;「ええ。@君さえ良ければだけど。@…………嫌かな？」\
-`"Yes. `@`All I need to complete it is you.`@`..... Do you not want to?"`\
+`"Yes. `@`All I need to complete it is you.`@` .....Do you not want to?"`\
 
 ;「いえ！@　……光栄です。@だって僕………。」@
-`"No, that's not it!`@`... It would be a privilege. `@`Because I'm...."`@
+`"No, that's not it!`@` ...It would be a privilege. `@`Because I'm...."`@
 br
 ;　俯いたままの少年は照れ臭そうに微笑み、数ヶ月前、野田裕貴が言ったのと全く同じ台詞を口にした。\
 `　And then, while looking down at his feet with an embarrassed smile, from his mouth came the exact same words that Yuuki Noda had said a few months before.`\
@@ -1275,7 +1275,7 @@ br
 ld c,NAF_D1,80
 
 ;「そうなんだ。@……でも、君くらい可愛かったら、嫌でも目立っちゃうんじゃない？@　クラスの女の子たちが放っておかないでしょ？」\
-`"Really?`@`... But, with how cute you are don't get a lot of attention anyway? `@`I bet the girls in your class won't leave you alone."`\
+`"Really?`@` ...But, with how cute you are don't get a lot of attention anyway? `@`I bet the girls in your class won't leave you alone."`\
 
 ;「そんなことないですよ。@男のくせに女みたいだって、いつも馬鹿にされてますから。」@
 `"Not really. `@`Even though I'm a boy, I look like a girl, so I get made fun of a lot."`@
@@ -1313,7 +1313,7 @@ bg bijutu_07,22
 `　The embarrassed looking boy, still averting his eyes from Shintani, suddenly opened his mouth to say something.`\
 
 ;「あの……。@……先生は油絵も描くんですか？」@
-`"Um...`@`... Sensei, are you going to do an oil painting as well?"`@
+`"Um...`@` ...Sensei, are you going to do an oil painting as well?"`@
 ;「あら、どうして？」\
 `"Oh, why do you ask?"`\
 
@@ -1335,10 +1335,10 @@ ld c,NAF_D2,80
 ld c,NAF_D4a,80
 
 ;「油絵の具の匂いが教室に染み付いちゃうからって。@そもそもうちの学校の授業で油絵は教えてないのに、@自分の趣味のために美術室を私物化してもらっちゃ困るって、云々……。@本当、堅物なのよねあの人。@……自分だって私物を持ち込んでるくせに、ぶつぶつ。」\
-`"He complained that the smell of my oil paints would never air out of the room. `@`Besides, since I don't actually teach oil painting in my classes, `@`he said that I shouldn't use the art room for my own hobbies... `@`Really, he's such a stubborn person.`@`... Even though he always brings in his own stuff to the staff room. *mumble mumble*`\
+`"He complained that the smell of my oil paints would never air out of the room. `@`Besides, since I don't actually teach oil painting in my classes, `@`he said that I shouldn't use the art room for my own hobbies... `@`Really, he's such a stubborn person.`@` ...Even though he always brings in his own stuff to the staff room. *mumble mumble*`\
 
 ;「ぼ、……僕も、油絵の方が好きです。@……あ、もちろん、描くんじゃなくて見る方専門ですけど。」@
-`"I-... I like oil painting too.`@`... Ah, I mean, I can't really do it, but I like looking at them."`@
+`"I-... I like oil painting too.`@` ...Ah, I mean, I can't really do it, but I like looking at them."`@
 br
 ;　少年はそう言いながら笑顔をつくった。@少しずつ緊張がほぐれてきたらしい。\
 `　The boy spoke with a smile. `@`It looks like he's eased up a bit.`\
@@ -1362,7 +1362,7 @@ ld c,NAF_D4,80
 bg black,22
 
 ;　……だが。@新谷がこれを使うのは絵を描くためではない。@……これには、もっと素晴らしい使い道があるのだ。\
-`　...However, `@`Shintani did not use it for painting.`@`... She had a much more wonderful use for it.`\
+`　...However, `@`Shintani did not use it for painting.`@` ...She had a much more wonderful use for it.`\
 fede 0,1000
 E_A
 
@@ -1449,7 +1449,7 @@ br
 ld c,NAF_D2,80
 
 ;「あぁ、あの？@　……“美術室のルノワール”のこと？」\
-`"Ahh, that one?`@`... the story of 'Renoir of the Art Room'?"`\
+`"Ahh, that one?`@` ...The story of 'Renoir of the Art Room'?"`\
 
 bg black,24
 ;cl a,0
@@ -1509,7 +1509,7 @@ ld r,NAF_D2,22
 ld r,NAF_D1,80
 
 ;「そうね。@私もそう思うわ。@あんなのはただの根も葉もない噂よ。@……警察は、彼はひとりで美術室で遊んでて、事故に遭ったんじゃないかって言ってたわ。@それで何かの拍子につまずいて、そこに運悪く石膏像が倒れて来て……。」@
-`"Yeah. `@`I agree. `@`It was just a rumor, nothing more.`@`... The police said that he was probably just playing alone in the art room and an accident happened. `@`He probably just tripped at some point and unfortunately that bust fell on him..."`@
+`"Yeah. `@`I agree. `@`It was just a rumor, nothing more.`@` ...The police said that he was probably just playing alone in the art room and an accident happened. `@`He probably just tripped at some point and unfortunately that bust fell on him..."`@
 br
 ;　新谷は視線を動かした。\
 `　Shintani shifted her gaze away from the painting.`\
@@ -1652,7 +1652,7 @@ br
 ;bg black,1
 ;mono 0
 ;　……っ……。@………………………………。\
-`...ah...`@`............`\
+`...ah...`@` ............`\
 bg bijutu_02,22
 ;ld r,NAF_D2,22
 
@@ -1685,7 +1685,7 @@ me1v 16,50
 ld r,NAF_D4,80
 
 ;「私、ここに自分用のハーブティーを淹れる道具を置いてあるの。@……ちょっと待っててね。@すぐ淹れてあげるから。」\
-`"I have the things here for brewing herbal tea.`@`... Wait here a second. `@`I'll make you some."`\
+`"I have the things here for brewing herbal tea.`@` ...Wait here a second. `@`I'll make you some."`\
 bg black,23
 bg bijutu_05,23
 
@@ -1755,7 +1755,7 @@ br
 ;ld c,NAF_D1,22
 
 ;　飲み込むたびに微かに動く細い喉を見つめながら。@……新谷は心の中で「めしあがれ」と呟く。@
-`　Shintani watched the muscles in his little throat move as he swallowed his tea.`@`... 'Drink up' she thought to herself.`@
+`　Shintani watched the muscles in his little throat move as he swallowed his tea.`@` ...'Drink up' she thought to herself.`@
 ;　白雪姫に毒リンゴを食べさせる女王になった気分だった。\
 `　She felt like The Queen giving a poison apple to Snow White.`\
 bg black,2
@@ -1808,7 +1808,7 @@ ld l,NAF_D2,22
 ld l,NAF_D6,80
 
 ;「ごめんなさいね。@……でも、それ。@身体には害がないから安心してちょうだい。」@
-`"I do apologize.`@`...however, `@`this drug should not do any damage to your body, so rest easy."`@
+`"I do apologize.`@` ...However, `@`this drug should not do any damage to your body, so rest easy."`@
 br
 ;　新谷は空になったティーカップを見ながら、そう呟く。@
 `　Shintani muttered as she looked over at his empty teacup.`@
@@ -1906,7 +1906,7 @@ cl c,4
 `　...To see them disgraced and corrupted by her own hand... `@`A corrupted and miserable appearance... `@`That was all that she wanted to draw.`@
 br
 ;　その願望を理解して初めて。@……新谷は自分という存在を、心底に理解できたのだ。\
-`　She started to understand her own desires.`@`... And by doing so she could understand herself.`\
+`　She started to understand her own desires.`@` ...And by doing so she could understand herself.`\
 bg black,22
 bg bijutu_04,22
 ld r,NAF_D2,4
@@ -1935,7 +1935,7 @@ bg black,22
 ;ld r,NAF_D6,80
 
 ;「裕貴くんも可愛かったけど。@……この子はそれ以上だわ。@………ふふふふふふ。」@
-`"Yuuki was cute.`@`... but this kid is so much more.`@`.... Fufufufufu."`@
+`"Yuuki was cute.`@` ...But this kid is so much more.`@` ....Fufufufufu."`@
 br
 ;　新谷は野田裕貴の小さくて美しかった肉体を思い出した。\
 `　Shintani recalled the beautiful little body of Yuuki Noda.`\
@@ -2023,7 +2023,7 @@ wait 1000
 mld c,RUN_D1,22
 
 ;　……それは透き通るような美しさを持ち、@……人間なら誰しもが最低限持っているはずの生臭ささえない、透明感を感じさせた。@
-`　...She had a transparent feeling of beauty to her.`@`... Every single human should have at least a faint smell of flesh or skin to them, but this girl had none of that. She felt transparent.`@
+`　...She had a transparent feeling of beauty to her.`@` ...Every single human should have at least a faint smell of flesh or skin to them, but this girl had none of that. She felt transparent.`@
 br
 ;　しかし、今はその容姿の端麗さより、何の気配も物音もせずそこにいたことを驚くべきだった。\
 `　But, more so than her elegant appearance, what truly astonished Shintani was the girl's uncanny lack of presence or sound.`\
@@ -2079,7 +2079,7 @@ ld r,NAF_D4a,80
 
 
 ;「あ、あぁ……。@この子は、その、絵のモデルをお願いしてたんだけど、急に具合が悪くなったみたいだったから。@……ソファーに寝かせていたの。」\
-`"Ah, uhh... `@`I asked this kid to help me out by modeling for a picture, but he suddenly started feeling sick.`@`... So I had him lay down on the sofa."`\
+`"Ah, uhh... `@`I asked this kid to help me out by modeling for a picture, but he suddenly started feeling sick.`@` ...So I had him lay down on the sofa."`\
 ld l,RUN_D1,23
 ld l,RUN_D5,80
 
@@ -2125,7 +2125,7 @@ bg bijutu_04,0
 ld c,RUN_D1,22
 
 ;　……顔は、確かに美しい。@……まるで、中世の彫像を見るかのように、美しい。@
-`　...Her face certainly was beautiful.`@`... Almost like the beauty of a statue from Middle Ages.`@
+`　...Her face certainly was beautiful.`@` ...Almost like the beauty of a statue from Middle Ages.`@
 br
 ;　しかし、……それはまさに彫像そのまま。@
 `　But... it wasn't just that. It was like she really WAS a statue.`@
@@ -2173,7 +2173,7 @@ bg bijutu_02,22
 ld r,RUN_D1,22
 
 ;「あら。@……これが新谷先生の絵？」@
-`"Oh, what's this?`@`... Did you draw this, Shintani-sensei?"`@
+`"Oh, what's this?`@` ...Did you draw this, Shintani-sensei?"`@
 br
 ;　いつの間にか女生徒の手には、新谷のスケッチブックがあった。@
 `　At some point the girl had picked up Shintani's sketchbook.`@
@@ -2214,7 +2214,7 @@ br
 ld c,RUN_D1,80
 
 ;「……良かったら。@……彼の代わりに私を描いてくれません？」\
-`"...If you want to`@`... why don't you use me as a model in his place?"`\
+`"...If you want to,`@` ...why don't you use me as a model in his place?"`\
 fede 0,1000
 E_A
 
@@ -2238,7 +2238,7 @@ ld l,NAF_D6a,80
 ld c,RUN_D1,80
 
 ;「いいでしょ、先生。@……お願い。」@
-`"It'll be fine, sensei.`@`... Please?"`@
+`"It'll be fine, sensei.`@` ...Please?"`@
 br
 ;　………新谷は断れなかった。@
 `　....Shintani had no choice.`@
@@ -2250,7 +2250,7 @@ bg black,22
 bg kaiga_02,22
 
 ;　仮にやましいことが一切なかったとしても、@放課後の美術室に女教師が生徒を私的目的で連れ込んだ、などという言われ方をしたら。@……痛くもない腹を探られかねない。@
-`　Even if she wasn't doing anything wrong, `@`if that someone started going around saying that a teacher was bringing students to the art room after school for her own personal goals.`@`... It's entirely possible that she could be falsely accused of something.`@
+`　Even if she wasn't doing anything wrong, `@`if that someone started going around saying that a teacher was bringing students to the art room after school for her own personal goals.`@` ...It's entirely possible that she could be falsely accused of something.`@
 ;　この美術室という聖域を、壊されたくない。@
 `　She didn't want anyone to ruin the sanctuary that is her art room.`@
 br
@@ -2278,13 +2278,13 @@ ld c,RUN_D1,80
 ld c,RUN_D5,80
 
 ;「もちろん、大人しくしているわ。@………だけど、おしゃべりくらいはいいかしら？」@
-`"Don't worry, I'll sit still.`@`... But can I at least move my mouth to talk?"`@
+`"Don't worry, I'll sit still.`@` ...But can I at least move my mouth to talk?"`@
 ;「………少しくらいならね。」\
 `"....If it's just a little."`\
 ld c,RUN_D1,80
 
 ;「そうね。@……じゃあ、あの話はどうかしら？@　最近生徒の間でもちきりの、あの噂。@……“美術室のルノワール”。」@
-`"Okay.`@`... So, what do you think of that story? `@`The one that the students have been talking about recently.`@`... 'Renoir of the Art Room'."`@
+`"Okay.`@` ...So, what do you think of that story? `@`The one that the students have been talking about recently.`@` ...'Renoir of the Art Room'."`@
 br
 ;　筆入れから鉛筆を取り出そうとしていた新谷の手が止まった。\
 `　Shintani's hand stopped right in the middle of getting a pencil out from her pencil case.`\
@@ -2350,9 +2350,9 @@ br
 bg black,22
 
 ;「そうよ。@……学校内の誰一人として、裕貴くんがいじめられている姿を見た人間はいなかったんだから。」\
-`"Exactly.`@`... Not a single person in this entire school said they had ever seen him being bullied."`\
+`"Exactly.`@` ...Not a single person in this entire school said they had ever seen him being bullied."`\
 ;「でも、目撃者がいないからと言って、@いじめがなかったとは限らないんじゃないかしら……？@　人目につかないような場所で暴力を振るわれていたかもしれないですよね？@　……例えば、ほら。」\
-`"But, `@`does the absence of evidence really prove that he was never bullied....? `@`Aren't there still places that he could come into contact with violence without any of those people seeing?`@`... For example."`\
+`"But, `@`does the absence of evidence really prove that he was never bullied....? `@`Aren't there still places that he could come into contact with violence without any of those people seeing?`@` ...For example."`\
 mono 0
 bg bijutu_01,22
 
@@ -2471,7 +2471,7 @@ ld r,NAF_D8a,80
 `　SNAP.`@
 br
 ;　鉛筆を持つ手に思わず力が入ってしまったのだろう。@……ぽっきりと芯が折れていた。\
-`　Shintani must have put too much strength behind the pencil she was drawing with.`@`... and broke the lead right off the tip.`\
+`　Shintani must have put too much strength behind the pencil she was drawing with,`@` ...and broke the lead right off the tip.`\
 ld l,RUN_D3,80
 
 ;「あらあら、大丈夫ですか…？」@
@@ -2570,7 +2570,7 @@ br
 ;　あれはルノワールという妖怪の話だ。@
 `　It was a story about a youkai named Renoir.`@
 ;　妖怪から借りてはいけないのであって、@……見ず知らずとはいえ、女生徒から借りてはならないわけではない……。\
-`　So obviously she's not supposed to let that youkai lend her anything.`@`... But what about a random girl she doesn't even know the name of? That's not breaking the rules, right...?`\
+`　So obviously she's not supposed to let that youkai lend her anything.`@` ...But what about a random girl she doesn't even know the name of? That's not breaking the rules, right...?`\
 bg black,0
 ld c,RUN_D1,2
 
@@ -2595,7 +2595,7 @@ ld c,RUN_D5,80
 ;　私は何だって、……放課後の美術室で、名も知らぬ少女の絵を描かされているのか。@
 `　Why am I doing this?.... Sitting in the art room after school being made to draw a picture of a girl who's name I don't know.`@
 ;　そもそも彼女は誰なのか。@……名前さえ知らない。@
-`　Who even is she?`@`... I don't even know her name.`@
+`　Who even is she?`@` ...I don't even know her name.`@
 ;　いや、……そもそも、……何者かさえ、わかっちゃいない。\
 `　No... I don't even know... what she is.`\
 ld c,RUN_D2,80
@@ -2626,7 +2626,7 @@ ld l,RUN_D7,22
 ld l,RUN_D3,80
 
 ;「私、不思議に思ったんですよ。@ほら、彼って随分と几帳面な性格だったじゃないですか。@いつも一番上のボタンまできちんと止めていたし。@……だから、もしかしたら、死んだ後に誰かが服を着せたのかもしれないなぁって……。」\
-`"I thought it was really odd. `@`After all, he seemed to have a really orderly personality. `@`He always buttoned them up to the very top button.`@`... So, I was thinking, what is someone changed his clothes after death...."`\
+`"I thought it was really odd. `@`After all, he seemed to have a really orderly personality. `@`He always buttoned them up to the very top button.`@` ...So, I was thinking, what is someone changed his clothes after death...."`\
 ld r,NAF_D6a,24
 ld r,NAF_D7a,80
 
@@ -2636,7 +2636,7 @@ br
 ;　言いながら、新谷はあることに気づく。\
 `　As she spoke, Shintani noticed something.`\
 ;　火傷の痕、掛け違えたシャツのボタン。@……何でそんなことまで彼女は知っているのだ？@
-`　The burn marks, the messed up buttons on the shirt.`@`... Why did this girl know all of these things?`@
+`　The burn marks, the messed up buttons on the shirt.`@` ...Why did this girl know all of these things?`@
 br
 ;　実際に裕貴の遺体を見たのは放課後に見回りをした先生だけだ。\
 `　Practically the only person who actually saw Yuuki's body was the teacher who found it after school.`\
@@ -2661,7 +2661,7 @@ ld c,RUN_D6,23
 ld c,RUN_D3,80
 
 ;「彼が裸だったらおかしいですか？@　だってここは美術室じゃないですか。@何かの本で読んだんですけど、@デッサンの練習には人間の裸が一番良いんですよね？@　……ああ、そう言えば先生……、」@
-`"Would it have been so odd for him to be naked? `@`After all, this is the art room. `@`I read in a book once, `@`that drawing the naked human form is the best way to practice sketching.`@`... Ah, by the way, sensei...."`@
+`"Would it have been so odd for him to be naked? `@`After all, this is the art room. `@`I read in a book once, `@`that drawing the naked human form is the best way to practice sketching.`@` ...Ah, by the way, sensei...."`@
 br
 ;　女生徒が大きな瞳で新谷の目を覗き込む。\
 `　The girl's large eyes looked directly into Shintani's.`\
@@ -2731,9 +2731,9 @@ br
 ;　……だったら何だと言うのか。@だったら、私をその祟りで飲み込んでしまおうと言うのか。\
 `　...If she did, what would that mean for her? `@`If she did, would she have been caught in a curse?`\
 ;　もう、間違いない。@……この眼前の少女は、人間ではないのだ。@
-`　There was no doubt of it now.`@`... This girl before her was not human.`@
+`　There was no doubt of it now.`@` ...This girl before her was not human.`@
 ;　……それを理解して初めて。@……新谷は目の前の存在が、明らかに人間とは異なる気配を放っていることを理解する。@
-`　...Shintani began to understand.`@`... Understand that the being in front of her eyes obviously lacked even a hint of humanity.`@
+`　...Shintani began to understand.`@` ...Understand that the being in front of her eyes obviously lacked even a hint of humanity.`@
 ;　……………………。\
 `　..........`\
 bg black,22
@@ -2760,7 +2760,7 @@ br
 ld l,NAF_D7a,80
 
 ;「貴方の言う通り、人間の身体を描くのは難しいから。@……いい練習になるわ。」@
-`"Just like you said, it's difficult to draw the human body.`@`... so it's good practice."`@
+`"Just like you said, it's difficult to draw the human body,`@` ...so it's good practice."`@
 br
 ;　無意識のうちに、机の引き出しに視線が動く。\
 `　Unconsciously she shifted her gaze over to her desk drawer.`\
@@ -2821,7 +2821,7 @@ ld c,RUN_D1,22
 ld c,RUN_D5,80
 
 ;「ふふふふふふふふ。@……黙るなんてずるいわ。@暇潰しのお喋りくらい、付き合ってくれてもいいでしょう？@　モデルは動けなくて退屈なんだから。」@
-`"Fufufufufufufu.`@`... Not answering? That's no fair. `@`You could at least let me kill some time by chatting. `@`It gets boring as a model, not being able to move."`@
+`"Fufufufufufufu.`@` ...Not answering? That's no fair. `@`You could at least let me kill some time by chatting. `@`It gets boring as a model, not being able to move."`@
 br
 ;　そう言いながら、彼女は立ち上がる。\
 `　As she said that, the girl stood up.`\
@@ -2853,7 +2853,7 @@ br
 ld r,NAF_D6a,80
 
 ;「…………そうね。@……やっぱり、……そうなのね……。」@
-`"......Yeah.`@`... you do... I thought so...."`@
+`"......Yeah.`@` ...You do... I thought so...."`@
 ld l,RUN_D1,80
 
 ;「くすくすくすくす………。」\
@@ -2871,7 +2871,7 @@ ld r,RUN_D2,22
 ld r,RUN_D1,80
 
 ;「ご明察のとおり。@……学校妖怪序列第６位。@美術室のルノワールとは、私のこと。」@
-`"How perceptive of you.`@`... Yes, I am the 6th Ranked among the School Youkai. `@`Renoir of the Art Room."`@
+`"How perceptive of you.`@` ...Yes, I am the 6th Ranked among the School Youkai. `@`Renoir of the Art Room."`@
 br
 ;　とうとう、……少女は名乗る。@
 `　At last... the girl gave her name.`@
@@ -2892,7 +2892,7 @@ bg bijutu_06,22
 ld l,NAF_D6a,23
 
 ;「自己紹介をありがとう。@なら私もしなくっちゃ。@……美術部顧問。@美術室の管理責任者の、新谷ナフミよ。」@
-`"Thank you for your self-introduction. `@`I suppose I should do the same.`@`... I am the Advisor of the Art Club. `@`As well as the Manager of the Art Room. Nafumi Shintani."`@
+`"Thank you for your self-introduction. `@`I suppose I should do the same.`@` ...I am the Advisor of the Art Club. `@`As well as the Manager of the Art Room. Nafumi Shintani."`@
 br
 ;　声の震えが少しずつ治まる。\
 `　The trembling in her voice had lessened a bit.`\
@@ -2929,7 +2929,7 @@ ld r,RUN_D2,80
 ld l,NAF_D2,80
 
 ;「悪いけれど。@そうそう簡単に貴方の思い通りにはならないわよ？@　……だって。@貴方にはルールがあるんでしょう？」@
-`"Sorry. `@`But I don't intend to be eaten by you so easily.`@`... After all. `@`Even you have rules you have to abide by, right?"`@
+`"Sorry. `@`But I don't intend to be eaten by you so easily.`@` ...After all. `@`Even you have rules you have to abide by, right?"`@
 ld r,RUN_D1,80
 
 ;「うふふふふふふふふふ……。」\
@@ -2939,15 +2939,15 @@ bg black,22
 ;ld l,NAF_D6,80
 
 ;「ルノワールに絵筆を借りてはいけない。@……さっきの鉛筆はそのつもりだったんでしょう？」@
-`"You can't let Renoir lend you a paintbrush.`@`... Isn't that what you were trying to do by lending me a pencil earlier?"`@
+`"You can't let Renoir lend you a paintbrush.`@` ...Isn't that what you were trying to do by lending me a pencil earlier?"`@
 ;ld r,RUN_D5,80
 
 ;「良い勘をしていたわね。@受け取っていれば、今頃、絵の中の世界だったのに。@……くすくすくす。」\
-`"Not bad. `@`You're right, if you had taken that pencil, right about now you would be inside a painting.`@`... Teeheehee."`\
+`"Not bad. `@`You're right, if you had taken that pencil, right about now you would be inside a painting.`@` ...Teeheehee."`\
 ;ld l,NAF_D5,80
 
 ;「そして、あなたの問い掛けに嘘を吐いてもならない。@……言いたくないことなら黙秘すればいいんだし。@嘘にならない範囲で言い回すことだって難しいことじゃない。@それを守ることも簡単だわ。」@
-`"Also, I'm not supposed to lie when answering your questions.`@`... If there's something that I don't want to answer though, I can just stay silent. `@`It's not that hard to not lie if I look at it like that. `@`It's a pretty easy rule to follow, really."`@
+`"Also, I'm not supposed to lie when answering your questions.`@` ...If there's something that I don't want to answer though, I can just stay silent. `@`It's not that hard to not lie if I look at it like that. `@`It's a pretty easy rule to follow, really."`@
 ;ld r,RUN_D1,80
 
 ;「ふふふふふ……。」\
@@ -2969,7 +2969,7 @@ ld l,RUN_D2,23
 ld l,RUN_D3,80
 
 ;「そういうことだわ。@……うふふふふふ。@あなたは、これほどたくさん掛けられた絵画の作者を、@澱みなく正確に答えることが出来るかしら？」\
-`"You're right.`@`... Ufufufu. `@`But, with this many pictures on the walls, `@`will you really be able to name the artist for all of them?"`\
+`"You're right.`@` ...Ufufufu. `@`But, with this many pictures on the walls, `@`will you really be able to name the artist for all of them?"`\
 ld r,NAF_D2,24
 
 se1v 2,30
@@ -2982,7 +2982,7 @@ ld r,NAF_D6,80
 ld l,RUN_D5,80
 
 ;「くすくす。@素敵だわ。@……なら、決めようじゃない。@この美術室の本当の主は、私なのか、あなたなのかね。」@
-`"Teehee. `@`Perfect.`@`... Let's decide once and for all then. `@`Who is the true master of the art room, me or you?"`@
+`"Teehee. `@`Perfect.`@` ...Let's decide once and for all then. `@`Who is the true master of the art room, me or you?"`@
 br
 ;　……ようやく、新谷は何かを理解する。\
 `　...Shintani finally understood.`\
@@ -3000,7 +3000,7 @@ ld r,NAF_D5,80
 ld l,RUN_D3,80
 
 ;「そういうことよ。@……人間が、昼間の学校でお勉強をしているだけなら私たちはどうでもいい。@でも、……夜の領域にまで踏み入ってくるなら、見過ごすわけにはいかないの。」\
-`"That's just it.`@`... We couldn't care less if you humans use this school to study during the day. `@`But... we're not about to let any of you trespass on our nighttime domain."`\
+`"That's just it.`@` ...We couldn't care less if you humans use this school to study during the day. `@`But... we're not about to let any of you trespass on our nighttime domain."`\
 bg black,22
 
 ;　そういうことだ。@
@@ -3064,7 +3064,7 @@ bg kaiga_02,23
 ;　美術室を訪れる子供たちが、真っ先に目を反らす絵画だ。\
 `　Nearly all of the kids who come to the art room will avert their eyes from it at first.`\
 ;「恐ろしい絵よね。@……将来、自分の子供に殺されるという予言に取り憑かれた男が、@５人もの子供を次々に食い殺す。」@
-`"Frightening, isn't it?`@`... Obsessed with defying the prophecy that he would be killed by one of his own children, `@`this man ate each one of them, one after another."`@
+`"Frightening, isn't it?`@` ...Obsessed with defying the prophecy that he would be killed by one of his own children, `@`this man ate each one of them, one after another."`@
 ;「………『我が子を食らうサトゥルヌス』ね。」\
 `"....'Saturn Devouring His Son'."`\
 ;　額縁の下には、『我が子を食らうサトゥルヌス』という題名が記されているが、@作者の名はない。@
@@ -3100,12 +3100,12 @@ ld r,RUN_D1,80
 ld l,NAF_D4a,80
 
 ;「……フランシスコ・デ・ゴヤよ。@……如何かしら……？」\
-`"...Francisco de Goya.`@`... Right....?"`\
+`"...Francisco de Goya.`@` ...Right....?"`\
 ;　正解のはずだ。@間違ってるわけがない。@
 `　That should be right. `@`It has to be.`@
 br
 ;　……なら、正解と即座に答えてくれればいいのに、@……ルノワールはもったいぶるように含み笑う。\
-`　...She gave the answer quickly and correctly.`@`... So why was Renoir smirking like she had gotten it wrong.`\
+`　...She gave the answer quickly and correctly.`@` ...So why was Renoir smirking like she had gotten it wrong.`\
 ld r,RUN_D5,80
 
 ;「……くすくす。@そんなにも自信がないのかしら？」@
@@ -3113,7 +3113,7 @@ ld r,RUN_D5,80
 ld l,NAF_D7a,80
 
 ;「この歳になって、美術のテストを受けることになるとは、思わなかったからね。@……それで？@　正解なの？@　どうなの？！」\
-`"I wasn't expecting to be taking an art test at this age.`@`... So? `@`Was I correct? `@`What's the answer?!"`\
+`"I wasn't expecting to be taking an art test at this age.`@` ...So? `@`Was I correct? `@`What's the answer?!"`\
 ld r,RUN_D3,80
 
 ;「あなたはテストの時、生徒が一問を解く毎に採点をしているの？」@
@@ -3132,7 +3132,7 @@ bg kaiga_02,23
 ;「なら、これは？」@
 `"Well, what about this one?"`@
 ;「……ピカソよ。@……パブロ・ピカソ。」\
-`"...Picasso.`@`... Pablo Picasso."`\
+`"...Picasso.`@` ...Pablo Picasso."`\
 ;　彼女が指したのは、『ゲルニカ』だった。@
 `　The picture she was pointing at was called 'Guernica'.`@
 br
@@ -3176,7 +3176,7 @@ br
 `　...Renoir's curse causes the victim to be dragged into the painting.`@
 br
 ;　愉快な絵なら、それは笑い事で済むが、@……先ほどから出題されるものは、どれも、実体験は遠慮したいものばかりだ。\
-`　Getting dragged into a pleasant or peaceful painting would just be laughable.`@`... So naturally, every picture that Renoir chooses is going to contain something that she wants to happen.`\
+`　Getting dragged into a pleasant or peaceful painting would just be laughable.`@` ...So naturally, every picture that Renoir chooses is going to contain something that she wants to happen.`\
 ld l,RUN_D3,80
 
 ;「それで？@　この作品の作者は？」@
@@ -3184,7 +3184,7 @@ ld l,RUN_D3,80
 ld r,NAF_D5,80
 
 ;「……ホガース。@……ウィリアム・ホガースよ。」\
-`"...Hogarth.`@`... William Hogarth."`\
+`"...Hogarth.`@` ...William Hogarth."`\
 cl l,24
 
 ;「ではこれは？@　そしてあれは？@　そしてそれは？」\
@@ -3231,7 +3231,7 @@ br
 ld c,RUN_D6a,80
 
 ;「………やるわね……。@……ぜぇ………ぜぇ………。」\
-`".....Not bad....`@`...Haa........ haa....."`\
+`".....Not bad....`@` ...Haa........ haa....."`\
 ;＜ルノワ
 
 ld r,NAF_D6,24
@@ -3243,7 +3243,7 @@ cl c,0
 ld l,RUN_D7a,24
 
 ;「……そのようね。@……あんたを、どうやら侮っていたみたい……。」\
-`"....You're right.`@`...It seems that I've underestimated you..."`\
+`"....You're right.`@` ...It seems that I've underestimated you..."`\
 ld r,NAF_D2,80
 
 ;「仮にも美術部顧問なのよ？@　この部屋に存在する絵画で、私に答えられないものは存在しないわ。」@
@@ -3278,7 +3278,7 @@ bg kaiga_02,22
 bgm1 14
 
 ;「………ねぇ、先生。@さっきの質問なんだけど。@……やっぱり答えてはくれないのかしら？」@
-`"....Hey, sensei. `@`What about my question from earlier?`@`... Are you not going to give me an answer?"`@
+`"....Hey, sensei. `@`What about my question from earlier?`@` ...Are you not going to give me an answer?"`@
 ;「質問？@　全て答えているつもりだけれど？」\
 `"Question? `@`Didn't I answer all of them?"`\
 ;「……この美術室で。@……誰かの裸を描いたことは、……本当にないの……？」@
@@ -3298,7 +3298,7 @@ br
 ld r,NAF_D5,24
 
 ;「もう、何を企もうとも無駄よ。@この美術室の主は私。@……でも、真夜中の美術室に妖怪が住み着いてるのを許せないほど、私も心が狭くないつもりよ？@　これくらいにして、すごすごと引き上げたら？@　私の前に二度と姿を現わさないと誓えるなら、@私が下校した後の無人の美術室は、あなたの自由にすればいい。@……素敵なルームシェアリングでしょう？」\
-`"Whatever scheme you're trying pull, it's not going to work. `@`I am the master of this art room.`@`... But do you really think that I'm so close-minded as to not let a youkai take up residence in it during the middle of the night? `@`How's this for a deal? `@`If you vow to never show yourself before me again, `@`then after school is over and I've left the art room, you're free to do as you please.`@`... We'll be like the perfect roommates."`\
+`"Whatever scheme you're trying pull, it's not going to work. `@`I am the master of this art room.`@` ...But do you really think that I'm so close-minded as to not let a youkai take up residence in it during the middle of the night? `@`How's this for a deal? `@`If you vow to never show yourself before me again, `@`then after school is over and I've left the art room, you're free to do as you please.`@` ...We'll be like the perfect roommates."`\
 bg black,22
 bg bijutu_04,0
 ld c,RUN_D2,22
@@ -3345,7 +3345,7 @@ bg bijutu_06,22
 ;ld c,RUN_D5,80
 
 ;「くすくすくすくす……。@やっぱり答えてはもらえないかしら？@　じゃあこちらで勝手に想像するしかないわね。@……もう家に帰っていたのかしら？@　それとも職員室でお仕事かしら？@　それとももしかして………。@……まさか、この美術室に…？」@
-`"Teeheehee.... `@`You're not going to answer are you? `@`Well then, guess I'm just gonna have to make my best guess.`@`... Were you already safe at home? `@`Or maybe you were still doing work in the staff room? `@`Or maybe......`@`...Maybe you were in this very art room...?"`@
+`"Teeheehee.... `@`You're not going to answer are you? `@`Well then, guess I'm just gonna have to make my best guess.`@` ...Were you already safe at home? `@`Or maybe you were still doing work in the staff room? `@`Or maybe......`@` ...Maybe you were in this very art room...?"`@
 ;「……………………。」\
 `".........."\
 ld r,RUN_D1,22
@@ -3529,7 +3529,7 @@ br
 ld c,RUN_D1,22
 ld c,RUN_D10,80
 ;「ふふふふふ、……うふふふふふふふふふ……。@さぁ、これが、美術室のルノワールの最後の問題。@……さぁ、新谷先生、答えてちょうだい。@……この絵を描いたのは、一体、だぁれ……？」\
-`"Fufufufu... Ufufufufufufu.... `@`Now, this is the final question of Renoir of the Art Room.`@`... Answer this for me, Shintani-sensei.`@`... Who drew all these pictures...?"`\
+`"Fufufufu... Ufufufufufufu.... `@`Now, this is the final question of Renoir of the Art Room.`@` ...Answer this for me, Shintani-sensei.`@` ...Who drew all these pictures...?"`\
 bg black,22
 mono 1
 bg e020,22
@@ -3593,14 +3593,14 @@ ld c,RUN_D10,80
 `".........`@/
 E_A
 ;……新谷ナフミ。@……私よ。」\
-` ....Nafumi Shintani.`@`.... I did."`\
+` ....Nafumi Shintani.`@` ....I did."`\
 se1v 1006,50
 mbg white,1
 ld c,RUN_D6a,0
 mcbg 22
 
 ;　新谷が、冷酷にそう答えた時。@……びしりとガラスにひびが入るような音がして、@……ルノワールの動きが止まった。\
-`　Shintani replied coldly.`@`... and suddenly the sound of glass being broken echoed through the room.`@`... and Renoir stopped moving.`\
+`　Shintani replied coldly,`@` ...and suddenly the sound of glass being broken echoed through the room,`@` ...and Renoir stopped moving.`\
 me1v 16,50
 
 ;　……ルノワールの胸に、大きなひびが入っているのがわかる。@
@@ -3635,7 +3635,7 @@ br
 ld c,HIG_W6,80
 
 ;「へ……ぇ……。@……まさか、……堂々と答える……、なんてね………。」\
-`"O...h....`@`... I didn't.... think.... you would answer.... so confidently......`\
+`"O...h....`@` ...I didn't.... think.... you would answer.... so confidently......`\
 bg black,24
 bg bijutu_04,24
 mld c,NAF_D2,6
@@ -3646,14 +3646,14 @@ mld c,NAF_D7,80
 me1v 17,50
 
 ;「そうよ。@その絵は私が描いた。@……だから何……？」@
-`"It's true. `@`I drew those pictures.`@`... So what....?"`@
+`"It's true. `@`I drew those pictures.`@` ...So what....?"`@
 br
 ;　新谷の表情は、妖怪のルノワールでさえ、@ごくりと唾を飲み込まずにはいられない不気味な迫力を湛えていた。\
 `　Shintani had such an eerie expression on her face, `@`that even the youkai Renoir had to gulp.`\
 mld c,NAF_D5,80
 
 ;「ふっふふふふふ。@……そうよ、そういう絵を描くのが、私の趣味なの、欲望なの、願望なの。@ごめんなさいねぇ、そういう人間で……。」\
-`"Fufufufufu.`@`... That's right, doing these drawings is my hobby, my desire, my aspiration. `@`Sorry, but that's just who I am..."`\
+`"Fufufufufu.`@` ...That's right, doing these drawings is my hobby, my desire, my aspiration. `@`Sorry, but that's just who I am..."`\
 ;　新谷には見えていないだろう。@しかし、ルノワールには見えている。@
 `　Shintani probably hadn't noticed it, `@`but Renoir had.`@
 br
@@ -3678,20 +3678,20 @@ mld l,HIG_W5,22
 ;mld l,HIG_D4,80
 
 ;「…………素敵な妖怪だこと。@……教師たる者が生徒を働き蜂呼ばわりだなんて。@野田裕貴くんも、あなたにとってはたくさんの働き蜂の中の１匹でしかなかったの？」\
-`"......What a great youkai.`@`... A teacher who denounces her students as nothing more than worker bees. `@`Was Yuuki Noda just be another one of those many bees to you?"`\
+`"......What a great youkai.`@` ...A teacher who denounces her students as nothing more than worker bees. `@`Was Yuuki Noda just be another one of those many bees to you?"`\
 mcl c,0
 mld r,NAF_D2,23
 
 ;「……彼は本当に素敵な蜂だったわ。@彼の蜜は、濃密で鮮烈で、全身が沸き立つほどに甘美だった。@彼は忘れ難い少年よ。@……本当に惜しい子を亡くしたわ。」\
-`"...He was such a wonderful bee. `@`His honey was so rich and vivid that its sweetness made my whole body boil. `@`I will never forget him.`@`... With him gone, I've lost such a valuable boy."`\
+`"...He was such a wonderful bee. `@`His honey was so rich and vivid that its sweetness made my whole body boil. `@`I will never forget him.`@` ...With him gone, I've lost such a valuable boy."`\
 mld l,HIG_W3,80
 
 ;「彼はあなたのことを好きだったわ。@……もちろん、幼い彼にはその感情を自覚することも難しかっただろうけれど。」\
-`"He liked you, you know?`@`... Although, being such a young boy, naturally he was unable to realize it for himself."`\
+`"He liked you, you know?`@` ...Although, being such a young boy, naturally he was unable to realize it for himself."`\
 mld r,NAF_D5,80
 
 ;「私は知ってたわ。@あの子は私のことが好きだった。@……母性を求める年頃のはずなのに、母親とは違う女性に、なぜか惹かれる甘酸っぱい感情。@それが恋というものだと気付くには、彼はまだまだ幼かったわね。@……でも、それでいいの。@私にとって、恋なんて概念を理解してしまうほどの年齢は、賞味期限切れなのだから。」\
-`"I know he did. `@`He liked me.`@`... He was at an age where he should be wanting his mother's affection, but for some reason he was longing for another woman. It was a bittersweet feeling. `@`He was too young to realize that what he felt was love.`@`... But, that was fine. `@`Because I'm too old to feel such young love."`\
+`"I know he did. `@`He liked me.`@` ...He was at an age where he should be wanting his mother's affection, but for some reason he was longing for another woman. It was a bittersweet feeling. `@`He was too young to realize that what he felt was love.`@` ...But, that was fine. `@`Because I'm too old to feel such young love."`\
 ;　新谷は挑発的に、小指の先を、淫らにべろりと舐めて見せる……。\
 `　Shintani provocatively licked the end of her little finger in an obscene manner...`\
 csp -1
@@ -3748,7 +3748,7 @@ ld l,NAF_D6,23
 ld l,NAF_D7,80
 
 ;「えぇ。@彼は素晴らしかったけれども、最高ではなかったわ。@いやむしろ、その賞味期限は尽き掛けてさえいた。@……あの子は私から逃げようとしたのよ。@私にただ仕えていれば良いものを！」\
-`"Yeah. `@`He was great, but he was not the best. `@`Or rather, his usefulness just ran out.`@`... He tried to run away from me. `@`He should have just continued to serve me!"`\
+`"Yeah. `@`He was great, but he was not the best. `@`Or rather, his usefulness just ran out.`@` ...He tried to run away from me. `@`He should have just continued to serve me!"`\
 ld r,HIG_W3,80
 
 ;「……欲望剥き出しのあんたの戯れに、これ以上、付き合い切れなかったんでしょうよ。」@
@@ -3756,7 +3756,7 @@ ld r,HIG_W3,80
 ld l,NAF_D8,80
 
 ;「そういうことね。@あの時、あの瞬間、裕貴くんは私に仕える資格を失ったのよ。@……バカな子、そうしなければ、きっと死なずに済んだのに…！」\
-`"That's just the thing. `@`At that time, at that moment, he lost the qualifications to serve me.`@`... What a stupid kid, if he hadn't of done that then he wouldn't be dead right now...!"`\
+`"That's just the thing. `@`At that time, at that moment, he lost the qualifications to serve me.`@` ...What a stupid kid, if he hadn't of done that then he wouldn't be dead right now...!"`\
 ld r,HIG_D5,80
 
 ;「……さんざん慰み者にしておいて、掛ける言葉が“バカな子”なの？」\
@@ -3769,7 +3769,7 @@ mld c,NAF_D7,23
 ld r,HIG_W3,80
 
 ;「身勝手、ここに極まれりね。@……あなたに好意を持ち、堪えられなくなる最後の一瞬まで、あなたを受け止めようとその身を捧げ続けた彼に、@……謝りたいという気持ちはわずかほどもないのね？」\
-`"You are the epitome of selfishness.`@`... He showed his affection for you and sacrificed his body for your desires until he couldn't take it anymore.`@`... and you're not even the least bit sorry?"`\
+`"You are the epitome of selfishness.`@` ...He showed his affection for you and sacrificed his body for your desires until he couldn't take it anymore,`@` ...and you're not even the least bit sorry?"`\
 mld c,NAF_D8,80
 
 
@@ -3781,12 +3781,12 @@ bg black,22
 E_B
 
 ;　その時だった。@……美術室に、別の声が響いた。\
-`　It was at that moment.`@`.... That a different voice echoed through the art room.`\
+`　It was at that moment.`@` ....That a different voice echoed through the art room.`\
 fede 0,1000
 E_A
 
 ;「…………ないんだね。@………裕貴くんに、……謝ろうという気は。」@
-`".....You really aren't going to.`@`..... apologize..... to Yuuki, are you?"`@
+`".....You really aren't going to...`@` .....apologize..... to Yuuki, are you?"`@
 br
 ;　この美術室に、自分とルノワール以外の誰がいたっけ…？！@
 `　There's someone else in this room besides me and Renoir...?!`@
@@ -3864,7 +3864,7 @@ wait 1000
 ld c,RUN_D7,80
 
 ;「……よく、間違われたんだ。@……僕のことを、女の子って……。」@
-`"...People make that mistake a lot.`@`.... Confusing me for a girl...."`@
+`"...People make that mistake a lot.`@` ....Confusing me for a girl...."`@
 ;＜ルノワール
 
 ld l,HIG_W3,22
@@ -3937,7 +3937,7 @@ bg kaiga_01,22
 ld r,RUN_D2,22
 
 ;「僕が、ルノワールだよ。@……学校妖怪序列第６位“美術室のルノワール”。」@
-`"I am Renoir.`@`... 6th Ranked among the School Youkai, 'Renoir of the Art Room'."`@
+`"I am Renoir.`@` ...6th Ranked among the School Youkai, 'Renoir of the Art Room'."`@
 ld l,HIG_D4,22
 
 ;「私は彼岸花。@学校妖怪序列第３位“踊る彼岸花”とは私のこと。」@
@@ -3948,7 +3948,7 @@ br
 ld r,RUN_D3,80
 
 ;「……僕は、長いこと眠っていた妖怪でね。@……ずいぶん長いこと眠っていたから、……まだ力が全然蘇らないんだ。@……たまに姿を現すのがやっと。@それくらいの妖力しかない。@………だから、彼岸花に助けてもらったんだ。」\
-`"...As a youkai, I've been asleep for a very long time.`@`... and because I was asleep for so long.... I've yet to recover all of my power.`@`... I've can only occasionally make my presence known. `@`That is how far my power has fallen.`@`... So, Higanban is helping me."`\
+`"...As a youkai, I've been asleep for a very long time,`@` ...and because I was asleep for so long.... I've yet to recover all of my power.`@` ...I've can only occasionally make my presence known. `@`That is how far my power has fallen.`@` ...So, Higanbana is helping me."`\
 ld l,HIG_W3,80
 
 ;「私好みの魂ではないけれど。@狩りを少し手伝うだけで分け前がもらえるなら、まぁ、引き受けないこともないわ。@くすくすくす………。」\
@@ -3956,7 +3956,7 @@ ld l,HIG_W3,80
 ld r,RUN_D1,80
 
 ;「ありがとう。@……あとは、……僕だけでも出来るから。」@
-`"Thanks.`@`... I will... handle the rest from here."`@
+`"Thanks.`@` ...I will... handle the rest from here."`@
 br
 ;　そう言い、本当のルノワールが、ゆらりと歩み出る。\
 `　The real Renoir spoke and started to slowly walk.`\
@@ -3976,7 +3976,7 @@ me2v 28,50
 ld c,RUN_D2,80
 
 ;「……裕貴くんは、本当にあなたのことが好きだった。@……その気持ちは、あなたなんかが思っているよりも、はるかに無垢で美しいくらいに。」@
-`"...Yuuki really did love you.`@`... It was a feeling much more innocent and beautiful than you imagined."`@
+`"...Yuuki really did love you.`@` ...It was a feeling much more innocent and beautiful than you imagined."`@
 br
 
 cl c,5
@@ -3987,20 +3987,20 @@ se1v 1010,30
 ld c,RUN_D8,6
 
 ;「……だから。@……裕貴くんは、あなたに個人的な絵のモデルになってほしいって言われた時、@……とても嬉しかった。@自分の存在を、先生が必要としてくれたって思って。@……本当に嬉しかった。」\
-`"...So.....`@` When you asked him to be your personal model... `@`he was very happy. `@`He thought that he could finally be of use to you.`@`... He was really happy."`\
+`"...So.....`@` When you asked him to be your personal model... `@`he was very happy. `@`He thought that he could finally be of use to you.`@` ...He was really happy."`\
 ;　そのスケッチには、……痛々しい、陵辱の痕を晒す少年の裸体が、@記すことでさらに辱しめるかのように、克明に描かれている。\
 `　Within those sketches is a detailed record... of the pitiful, abused, naked body of a boy, `@`and by drawing them, she has only disgraced him further.`\
 ld c,RUN_D6,80
 
 ;「……たとえこのような形であれ。@……それを受け止めることで、自分の気持ちも受け止めてくれるかもしれない。@……裕貴くんはそう信じて、あなたのどんな命令にも、黙々と従った……。」\
-`"...Basically, he thought like this.`@`... If I accept her desires, maybe she'll accept my feelings.`@`... and so he quietly obeyed your every order..."`\
+`"...Basically, he thought like this.`@` ...If I accept her desires, maybe she'll accept my feelings.`@` ...And so he quietly obeyed your every order..."`\
 ;「そうよ。@それが臣従というものよ。@私の美貌の虜となった彼の、それは当然の使命。」@
 `"Exactly. `@`That's called a servant. `@`He's my beautiful slave, and obeying my orders is his purpose."`@
 cl c,0
 mld c,RUN_D7,80
 
 ;「……そう。@あなたは彼の好意を、一方的に貪り続けたんだ。@……裕貴くんだって、それがわからなかったわけじゃない。」\
-`"...Yes. `@`All you did was one-sidedly devour his kindness.`@`... There's no way that Yuuki didn't realize what you were doing."`\
+`"...Yes. `@`All you did was one-sidedly devour his kindness.`@` ...There's no way that Yuuki didn't realize what you were doing."`\
 ld r,HIG_W1,22
 ld r,HIG_W3,80
 
@@ -4011,7 +4011,7 @@ ld r,HIG_W3,80
 mld c,RUN_D2,80
 
 ;「そしてあの日。@……裕貴くんは初めて、……あなたに反抗したんだ。」\
-`"And on that day.`@`... For the first time... Yuuki resisted you."`\
+`"And on that day.`@` ...For the first time... Yuuki resisted you."`\
 mcl c,0
 bg black,2
 se1v 11,40
@@ -4056,10 +4056,10 @@ wait 500
 bg blood_1aR,8
 
 ;「裕貴は怖くなって、美術室から逃げ出そうとしたわ。@……あなたはその背中を、突き飛ばしたの。」@
-`"Yuuki got scared, and tried to run out of the art room.`@`... and you pushed him on the back."`@
+`"Yuuki got scared, and tried to run out of the art room,`@` ...and you pushed him on the back."`@
 ;＜彼岸花
 ;「………そして、裕貴くんは机にぶつかって倒れた。@……そこに、バランスを崩した石膏像が……。」\
-`".....And he fell into the legs of the desk.`@`... and that's when the plaster bust lost its balance, and..."`\
+`".....And he fell into the legs of the desk,`@` ...and that's when the plaster bust lost its balance, and..."`\
 bg black,22
 
 me3v 5,70
@@ -4069,7 +4069,7 @@ ld c,NAF_D7a,22
 ld c,NAF_D8a,80
 
 ;「じ、……事故よ。@……私は突き飛ばそうとしたんじゃない。@その肩を掴もうとしただけ。@……彼はひとりで転んで、ひとりで机にぶつかって。@……運悪く石膏像が倒れてきて、……当たり所が悪かっただけ。@……あれは全部、事故よ。@私は悪くなんかないわ…！！」\
-`"It... it was an accident.`@`... I didn't mean to push him. `@`I was just trying to grab his shoulder.`@`... He fell down on his own, and rolled into the desk on his own.`@`... It was just bad lucky that the bust fell... and hit him in a vital spot.`@`... It was all an accident. `@`It wasn't my fault...!!"`\
+`"It... it was an accident.`@` ...I didn't mean to push him. `@`I was just trying to grab his shoulder.`@` ...He fell down on his own, and rolled into the desk on his own.`@` ...It was just bad luck that the bust fell... and hit him in a vital spot.`@` ...It was all an accident. `@`It wasn't my fault...!!"`\
 
 bg black,24
 bg bijutu_03,0
@@ -4083,7 +4083,7 @@ ld l,RUN_D8,23
 ld l,RUN_D2,80
 
 ;「………そうだね。@……確かに、……事故かもしれないよ。@でも、僕が知りたかったのは、そんなことじゃない。@……そんなことじゃないんだ。」\
-`".....You're right.`@`... It may have... just been an accident. `@`But, that wasn't what I wanted to know.`@`... That wasn't it at all."`\
+`".....You're right.`@` ...It may have... just been an accident. `@`But, that wasn't what I wanted to know.`@` ...That wasn't it at all."`\
 bg black,23
 bg bijutu_04,0
 ld r,NAF_D6a,23
@@ -4101,7 +4101,7 @@ ld l,RUN_D7,23
 ld l,RUN_D3,80
 
 ;「僕は、……彼に代わって聞きたかったんだ。@………先生にとっては彼が玩具でしかないことは知ってたし。@……先生が殺したわけじゃないことも知っていた。@……だからその上で、……今となってはもう、聞くことの出来ない彼に代わって、……聞きたかったんだ。」\
-`"I... wanted to ask you for him.`@`... I know you thought of him as nothing more than a toy.`@`... and I know that you didn't purposefully kill him.`@`... So... I wanted to ask you what he couldn't... in his stead."`\
+`"I... wanted to ask you for him.`@` ...I know you thought of him as nothing more than a toy,`@` ...and I know that you didn't purposefully kill him.`@` ...So... I wanted to ask you what he couldn't... in his stead."`\
 ld r,NAF_D6a,80
 
 ;「………それは、………何よ……。」@
@@ -4109,7 +4109,7 @@ ld r,NAF_D6a,80
 ld l,RUN_D6,80
 
 ;「そしてそれは、……もう聞けたよ。@……そして、とても残念だった。」@
-`"And... you've already told me.`@`... It was such an unfortunate answer."`@
+`"And... you've already told me.`@` ...It was such an unfortunate answer."`@
 ld r,NAF_D7a,80
 
 ;「何をよ…！@　私が何を答えたのよ…！！」\
@@ -4125,11 +4125,11 @@ br
 ld l,RUN_D8,80
 
 ;「あなたはあれだけ裕貴くんを慰み者にしたのに。@そして、その死の一端に関わったはずなのに。@……彼に対して申し訳ないという気持ちを、抱いてはくれなかった…。@それが、………僕には許せない。@……だから、狩る。@……裕貴くんの無念を晴らすために、@……僕は彼岸花の助けを借りて、……ここへこうして、現れたんだ……。」\
-`"You made Yuuki into your plaything. `@`And were at least somewhat responsible for his death.`@`... and yet you won't embrace any apologetic feelings for him...`@` I... cannot forgive that.`@`... So I will hunt you.`@`... so that Yuuki can rest without regrets....`@` I borrowed assistance from Higanbana.... and appeared before you here..."`\
+`"You made Yuuki into your plaything. `@`And were at least somewhat responsible for his death.`@` ...And yet you won't embrace any apologetic feelings for him...`@` I... cannot forgive that.`@` ...So I will hunt you.`@` ...So that Yuuki can rest without regrets....`@` I borrowed assistance from Higanbana.... and appeared before you here..."`\
 ld r,NAF_D8a,80
 
 ;「は、……はは……！@　つまり、こういうことね。@……裕貴くんの魂が、あなたという妖怪になって、化けて出てきたというわけね。@はは、ははははは…！@/
-`"Ha... haha...! `@`So that's how it is.`@`... Yuuki's soul was able to disguise itself as you and become a youkai.`@` Haha, hahahaha...!`@/
+`"Ha... haha...! `@`So that's how it is.`@` ...Yuuki's soul was able to disguise itself as you and become a youkai.`@` Haha, hahahaha...!`@/
 se1 84
 
 ;　はっははははははははははははは！！」\
@@ -4153,7 +4153,7 @@ ld r,NAF_D8,80
 ld l,RUN_D6,80
 
 ;「……そうだね。@……僕の、ルノワールの怪談のルールに則って、……あなたを、狩る。」\
-`"...That's right.`@`... I will follow the rules of the ghost story of Renoir... and make you my prey."`\
+`"...That's right.`@` ...I will follow the rules of the ghost story of Renoir... and make you my prey."`\
 ld r,NAF_D7,80
 
 ;「ならば、どうやって？！@　さっき、そこの黒い髪の子が私に挑んで返り討ちにされたのを見ていなかったの？！@　私はどの絵画の作者も正確に答えることが出来るわ！@　そしてあんたの正体がわかった今、@あんたから絵筆を借りるなんてことはしないし、あんたの問い掛けに嘘を吐くなんてミスも犯さない！@　あんたがどれだけ私を憎もうとも！@　あんたは絶対に私に勝てないのよ！！」\
@@ -4182,7 +4182,7 @@ ld r,NAF_D2,80
 ld c,HIG_D2,80
 
 ;「勝てないも何も。@……ルノワールはもう、勝ち終わっているのよ？」\
-`"Whether you think he can beat you or not.`@`... Renoir has already won"`\
+`"Whether you think he can beat you or not.`@` ...Renoir has already won."`\
 textoff
 fede 0,1000
 E_A
@@ -4193,7 +4193,7 @@ mld l,RUN_D3,80
 bgm1 6
 
 ;「先生。@……もう忘れちゃいました？」@
-`"Sensei.`@`... Have you already forgotten?"`@
+`"Sensei,`@` ...have you already forgotten?"`@
 ;＜ルノワール
 
 ld r,NAF_D6a,80
@@ -4238,13 +4238,13 @@ ld r,RUN_D7,22
 ld r,RUN_D6,80
 
 ;「でも、あなたは言った。@……わからないと。」@
-`"But you said otherwise.`@`... You said you didn't know."`@
+`"But you said otherwise.`@` ...You said you didn't know."`@
 ld l,HIG_W4,22
 
 me1v 16,50
 
 ;「知っているのに、わからないと“偽った”わ。@……それが意味するところが、わかるかしら？@　……くすくすくすくす。」\
-`"Even though you knew, you 'lied' and said you didn't.`@`... Do you know what that means?`@`.... Teeheehee."`\
+`"Even though you knew, you 'lied' and said you didn't.`@` ...Do you know what that means?`@`.... Teeheehee."`\
 ;＜彼岸花
 
 bg black,23
@@ -4296,7 +4296,7 @@ ld c,RUN_D8,22
 ld c,RUN_D6,80
 
 ;「あなたに、裕貴くんへの謝罪の気持ちがあったなら、@……僕はあれが事故ということでも仕方がないと思った。@……だって、彼はそれでも最後まで、あなたのことが好きだったのだから。」\
-`"If you would have apologized to Yuuki.... `@`I would have just left it as being an unfortunate accident.`@`... Because he loved you to the very end."`\
+`"If you would have apologized to Yuuki.... `@`I would have just left it as being an unfortunate accident.`@` ...Because he loved you to the very end."`\
 quake 5,500
 
 ;「やめてッ、嫌ッ、嫌ぁああああああぁああぁ！！」\
@@ -4312,7 +4312,7 @@ fedexx 70,90,90,90,90,0,2000
 ld c,RUN_D9,80
 
 ;「でも、あなたにはそのような気持ちは微塵もないとわかった。@……だから、あなたを罰することにした。@……さぁ。@あなたの運命は、あなたが決めるといいよ。@どの運命であっても、……それは彼の魂が救われるまで、永遠にあなたを苛むものとなる。」\
-`"But you didn't have even an ounce of apologetic feelings within you.`@`... So, you will be punished.`@`... Now then. `@`I'll let you choose the fate you want to befall. `@`Whichever you choose... you will be endlessly tormented with until his soul can be saved."`\
+`"But you didn't have even an ounce of apologetic feelings within you.`@` ...So, you will be punished.`@` ...Now then. `@`I'll let you choose the fate you want to befall. `@`Whichever you choose... you will be endlessly tormented with until his soul can be saved."`\
 bg black,23
 bg bijutu_02,0
 ld c,NAF_D9a,23
@@ -4326,7 +4326,7 @@ br
 cl c,23
 
 ;　新谷は絶叫し、美術室を飛び出す。@……その後姿は、裕貴が彼女から逃げ出そうとした時のものにそっくりだった。\
-`　Shintani screamed and ran out of the art room.`@`... and in doing so, she looked exactly the same as Yuuki did when he tried to escape from her.`\
+`　Shintani screamed and ran out of the art room.`@` ...And in doing so, she looked exactly the same as Yuuki did when he tried to escape from her.`\
 bg black,24
 bg bijutu_03,24
 ;se1 10
@@ -4364,7 +4364,7 @@ ld r,HIG_d3,80
 mld c,RUN_D2,22
 
 ;「その必要はないよ。@……彼女は自らの運命を選んだよ。@ここに飾られた絵の運命を、ね……。」@
-`"There's no need.`@`... She has chosen her own fate. `@`A fate from one of these pictures...."`@
+`"There's no need.`@` ...She has chosen her own fate. `@`A fate from one of these pictures...."`@
 br
 ;　ルノワールは、壁に掛けられた絵画の一枚を見る。@
 `　Renoir looked at one of the pictures hanging on the wall.`@
@@ -4373,7 +4373,7 @@ br
 ld r,HIG_D4,80
 
 ;「……なるほど。@『上昇と下降』ね。@……ちなみに作者はだぁれ？」\
-`"...I see. `@`'Ascending and Descending'.`@`... By the way, who drew that one~?"`\
+`"...I see. `@`'Ascending and Descending'.`@` ...By the way, who drew that one~?"`\
 mld c,RUN_D6,80
 
 ;「マウリッツ・コルネリス・、@エッシャー。」\
@@ -4403,7 +4403,7 @@ br
 ;　延々と踊り場が繰り返されるだけだ。\
 `　She'll just keep winding down the same stairway landings over and over again.`\
 ;　まるで、ハムスターが滑車の中でぐるぐると、何かに急き立てられるかのように走り続けるように。@……いつまでもぐるぐると、無限の階段を駆け下り続ける。\
-`　Like a hamster in a wheel, she will continue running as if something was chasing her.`@`... Running in circles forever, down an endless staircase.`\
+`　Like a hamster in a wheel, she will continue running as if something was chasing her.`@` ...Running in circles forever, down an endless staircase.`\
 ;　やがて彼女も、いつかは気付くだろう。@
 `　Eventually she may realize.`@
 br
@@ -4419,7 +4419,7 @@ bg mugen_03,2
 ;　その恐怖が、彼女を永遠に駆り立て続けるのだ。\
 `　And that fear will spur her on for all eternity.`\
 ;　それでもいつか気付くだろう。@……ここがすでに、絵画の中の世界なのだと。\
-`　But eventually she may realize.`@`... That she's already in one of those pictures.`\
+`　But eventually she may realize.`@` ...That she's already in one of those pictures.`\
 bg black,22
 
 ;　何故か涙が止まらなかった。@それがどんな感情に起因するものなのかは分からなかった。@
@@ -4453,12 +4453,12 @@ bgm1 5
 ld r,RUN_D2,22
 
 ;「………彼女を殺しはしないよ。@……永遠の時間の中で、彼女が考えを改めてくれるよう、檻に閉じ込めただけだから。」\
-`".....I will not kill her.`@`... I've just trapped her in a jail cell to think about what she's done, for all eternity."`\
+`".....I will not kill her.`@` ...I've just trapped her in a jail cell to think about what she's done, for all eternity."`\
 cl c,0
 ld l,HIG_d2,24
 
 ;「じゃあ、私はこれで。@……ご馳走様。@あんな女の魂でも、たまには珍味でおいしいわ。@くすくすくすくすくす………。」\
-`"Well then, I'll be taking my leave.`@`... Thanks for the food. `@`Every once in a while a soul like hers makes for a rare treat. `@`Teeheeheehee...."`\
+`"Well then, I'll be taking my leave.`@` ...Thanks for the food. `@`Every once in a while a soul like hers makes for a rare treat. `@`Teeheeheehee...."`\
 bg black,24
 bg kaiga_02,24
 
@@ -4467,7 +4467,7 @@ bg kaiga_02,24
 ;「これ。@誰か気付くんじゃない？」@
 `"Hey. `@`Won't someone notice that?"`@
 ;「……さぁね。@……気付いて、本物のエッシャーの絵に興味を持ってもらえるなら、美術室の妖怪として嬉しいね。」\
-`"...Who knows.`@`... But if they do know the Escher original well enough to notice, then as a youkai of the art room, I'll be quite happy."`\
+`"...Who knows.`@` ...But if they do know the Escher original well enough to notice, then as a youkai of the art room, I'll be quite happy."`\
 ;　絵には、無限階段をぐるぐると回り続ける人々が描かれている。@
 `　In the picture, there are numerous people drawn walking around that endless staircase.`@
 br
@@ -4484,16 +4484,16 @@ bg bijutu_03,22
 ld l,HIG_D5,22
 
 ;「じゃあね。@いずれ、また。@……あんたももう少し狩りをして力を蓄えないと。@今回みたいに、いざって時に力が出せないわよ？@　スミレなんか、健気にずいぶん頑張っているというのに。」\
-`"Alright. `@`See you some other time.`@`... Try to save up some strength for your next hunt. `@`Otherwise you'll be worthless next time you're in a pinch. `@`Sumire's been working pretty hard too, you know?"`\
+`"Alright. `@`See you some other time.`@` ...Try to save up some strength for your next hunt. `@`Otherwise you'll be worthless next time you're in a pinch. `@`Sumire's been working pretty hard too, you know?"`\
 ld r,RUN_D8,24
 ld r,RUN_D1,80
 
 ;「そうだね。@……美術室で不真面目をする悪い子には、@たまには少しお仕置きをしてあげるのもいいかもしれない。」@
-`"Yeah.`@`... There are some bad kids that good around in the art room every once in a while. `@`It might be a good idea to give them a little punishment."`@
+`"Yeah.`@` ...There are some bad kids that good around in the art room every once in a while. `@`It might be a good idea to give them a little punishment."`@
 ld l,HIG_W3,80
 
 ;「くすくすくす。@……じゃあね、ルノワール。@またいつか。@１３組のホームルームの時にでも。」\
-`"Teeheehee`@`... Bye, Renoir. `@`See you later. `@`Probably at one of class 13's homerooms."`\
+`"Teeheehee`@` ...Bye, Renoir. `@`See you later. `@`Probably at one of class 13's homerooms."`\
 cl l,42
 
 ;　彼岸花は姿を消す。@
@@ -4505,7 +4505,7 @@ cl r,0
 ld c,RUN_D7,24
 
 ;「……そうだね。@……彼岸花の言う通りかもしれない。@………僕にもっと力があれば。@……君を守ってあげることも出来たんだ……。」@
-`"...Yeah.`@`... She may be right.`@`... If I had more power... `@`I might have been able to protect you..."`@
+`"...Yeah.`@` ...She may be right.`@` ...If I had more power... `@`I might have been able to protect you..."`@
 br
 ;　ルノワールは、床に散っているスケッチの一枚を拾い上げる。\
 `　Renoir picked up one of the sketches that had fallen to the floor.`\
@@ -4526,7 +4526,7 @@ bg black,22
 `　He showed a great interest in the arts, and although the time we had together was short, he made for a wonderful person to talk to.`@
 br
 ;　自分の髪が長く、スカートを履いているせいで、女の子に見られるのが悩みだと打ち明けたら。@……彼は言ったんだ。\
-`　When I was troubled with how much I looked like a girl because of my long hair and skirt.`@`... he told me this.`\
+`　When I was troubled with how much I looked like a girl because of my long hair and skirt.`@` ...He told me this.`\
 mono 1
 
 bg bijutu_02,0
@@ -4547,7 +4547,7 @@ mono 0
 bg kaiga_02,22
 
 ;「……裕貴くん。@………せめて、君の気に入ってくれた美術室がわずかでも美しくなるように。@………この部屋の新しい主となる先生に働きかけて、@……怖い絵だけじゃなく、楽しい絵も入れてもらおうと思うんだ。」\
-`"...Yuuki.`@`.... At least I could make the art room the you liked a little better looking.`@`.... This room will get a new teacher as its master.`@`... and they won't just put up scary pictures, they'll put up fun pictures as well."`\
+`"...Yuuki.`@` ....At least I could make the art room the you liked a little better looking.`@` ....This room will get a new teacher as its master.`@` ...And they won't just put up scary pictures, they'll put up fun pictures as well."`\
 ;　あの日、彼とこの部屋でした、様々な絵の議論が思い返される。\
 `　I thought back on the various pictures we discussed that day.`\
 ;　この絵はなんだか子供の落書きみたい。@
@@ -4577,7 +4577,7 @@ ld c,RUN_D2,22
 ld c,RUN_D8,80
 
 ;「……そう言えば。@……彼岸花も、人間に興味を持ったことがあったって言ってたっけ。@………８位の子も、元は人間だそうだし。」@
-`:...That's right.`@`... Higanbana said that she too once had interest in a human.`@`... Apparently the 8th ranked girl used to be a human too."`@
+`:...That's right.`@` ...Higanbana said that she too once had interest in a human.`@` ...Apparently the 8th ranked girl used to be a human too."`@
 br
 ;　新谷のような、欲望の塊のような人間がいる一方で。@
 `　While, on one hand, there are humans with lust-filled souls like Shintani...`@
