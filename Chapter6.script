@@ -4,7 +4,7 @@
 ` Yukari Sakaki has been adjusting quite well to her new class.`@
 br
 ;　欠席した日の社会科見学で、バスが事故を起こし、@クラスメート全員を失うというショックからも、すでに立ち直っていた。\
-` She was already recovered from the shock. `@`The shock of losing her entire class in a bus crash on a social studies field trip on a day she was absent.`\
+` She had already recovered from the shock. `@`The shock of losing her entire class in a bus crash on a social studies field trip on a day she was absent.`\
 
 ;ld c,YUK_D1,80
 ld c,YUK_i1,23
@@ -39,7 +39,7 @@ ld r,MAR_W1,22
 
 
 ;　そんな彼女を見て、毬枝は改めて彼女の強さを尊敬するのだった。\
-` Seeing her now, Marie had gained a new respect for the girl's strength.`\
+` Seeing her as she was now, Marie had gained a new respect for the girl's strength.`\
 
 cl r,22
 bg black,2
@@ -114,7 +114,7 @@ mld c,YOS_D3a,0
 bg black,22
 
 ;　正明は身長が低く小柄で、成長期を迎えた他の男子たちに比べると一回り華奢に見えた。@
-` Masaaki had a short, petite build. When compared to the other boy who had hit growth spurts earlier than he had, he looked very small.`@
+` Masaaki had a short, petite build. When compared to the other boys who had hit growth spurts earlier than he had, he looked very small.`@
 ;　そのせいもあってか、体格のいい意地悪な男子たちに目を付けられ、よくからかわれていた。@
 ` Because of that he was often poked fun at by the mean boys with better physiques.`@
 br
@@ -123,7 +123,7 @@ br
 ;　由香里がやって来てからは、教室で堂々といじめることも次第になくなってきた。@
 ` Ever since Yukari showed up, the bullying in this class has, rather impressively, gradually disappeared.`@
 ;　だからといって、彼らが正明という愉快な玩具を手放すわけもない。@
-` Nevertheless, these boys had no intention of giving up Masaaki, they're newest toy.`@
+` Nevertheless, these boys had no intention of giving up on Masaaki, their newest toy.`@
 br
 ;　そのいじめは、水面下でしつこくと続き、悪化の一途を辿っているらしかった……。\
 ` They had continued their bullying behind the scenes, and it had been getting worse day after day...`\
@@ -154,7 +154,7 @@ mcl l,0
 ld l,YUK_I1,80
 
 ;「でも、いじめられてたじゃない。」\
-`"But weren't you being bullied."`\
+`"But weren't you being bullied?"`\
 
 
 ;ld r,YOS_D1,0
@@ -172,12 +172,12 @@ br
 ;bg black,22
 
 ;　……彼も自分がいじめられっこであることは、薄々自覚している。@
-` He was a bit self-conscious about his being bullied.`@
+` He was a bit self-conscious about being bullied.`@
 br
 ;　しかし、それを認めたら負けだと、自分に言い聞かせて今日まで堪えてきたのだ。\
-` But feeling like he'd lose if he admitted it, he endured it this whole time.`\
+` But feeling like he'd lose if he admitted it, he'd endured it this whole time.`\
 ;　正明の、いじめられてなんかないという言葉に、@いじめっこたちも、そうだそうだと同調する。\
-` The bullies too agreed with Masaaki, `@`claiming they would never bully him.`\
+` The bullies agreed with Masaaki, `@`claiming they would never bully him.`\
 
 ;bg kyou_07,2
 ;ld l,YUK_D1,22
@@ -238,10 +238,10 @@ br
 ` Masaaki laughed along with them as if in agreement, but his laugh was a bit awkward.`\
 
 ;　自分は、おちょくられやすいキャラクターだから。@……これはいじめられてるんじゃなく、みんなで悪ふざけをしているだけ。@
-` He had a personality that was easy to make fun of.`@`... So this wasn't bullying, it was just teasing.`@
+` He had a personality that was easy to make fun of.`@` ...So this wasn't bullying, it was just teasing.`@
 br
 ;　そう信じなければ、やっていけないようだった……。\
-` It was like if he had to force himself to believe that...`\
+` He forced himself to believe that...`\
 bg black,22
 
 fede 0,1000
@@ -284,7 +284,7 @@ bg black,23
 bg ura7,23
 
 ;　彼らが手に持って振り回しているのは、正明のズボン。@……もしランドセルにわずかでも土を付けたら、ズボンをドブに捨てると言っている。\
-` In their hands, they swung Masaaki's pants back and forth.`@`... If he even slightly let one of the touch the ground, they said they would throw them away.`\
+` In their hands, they swung Masaaki's pants back and forth.`@` ...They said they would throw them away if he even let one of the bags touch the ground just slightly.`\
 
 
 ;bg black,0
@@ -312,9 +312,9 @@ quakex 1,100
 `"Run, run. `@`Or we'll throw your pants in the gutter!"`@
 br
 ;　男子たちが、走れ走れと煽り、彼のお尻を叩く。@
-`  The boys hit his butt, urging him to run,`@
+`  The boys hit his butt, urging him to run.`@
 ;　それに急かされ、正明も逃げるように駆け出す。\
-` That made Masaaki started speeding up.`\
+` That made Masaaki speed up.`\
 ld c,YOS_D3a,80
 
 ;「……や、やめてよ痛いよ…！@　あッ…、」@
@@ -347,7 +347,7 @@ quakex 1,100
 `"Ahh!! `@`Th- that hurts... aghh..!!"`\
 
 ;　そのランドセルの持ち主が、鬼のような形相で激高し、@正明のお尻をサッカーボールのように、何度も何度も本気で蹴りつける。@
-` With an unbridled rage on his face, `@`the owner of that backpack kicked at Masaaki's butt over and over with all his strength like it was a soccer ball.`@
+` With an unbridled rage on his face, `@`the owner of that backpack kicked at Masaaki's butt over and over with all his strength as if it were a soccer ball.`@
 br
 ;　彼の白いパンツのお尻が、土汚れでみるみる汚れた。\
 ` His white underwear were quickly dirtied with mud.`\
@@ -363,14 +363,14 @@ se1 10
 quakex 1,100
 
 ;「テメェ、わざとだろッ！！@　わざとドブに落としやがっただろ！！」@
-`"You did that on purpose!! `@`You dropped my bag in the gutter on purpose damn it!!"`@
+`"You did that on purpose!! `@`You dropped my bag in the gutter on purpose, damn it!!"`@
 ;「わざとだよ、こいつ絶対わざとだよ！」@
 `"It was on purpose, he definitely did it on purpose!"`@
 se1 10
 quakey 1,100
 
 ;「わざとじゃねぇかよテメェ！！@　なめんなテメェ！！」\
-`"It was on purpose wasn't it!! `@`Don't fuck around with me!!"`\
+`"It was on purpose, wasn't it!! `@`Don't fuck around with me!!"`\
 ;se1 10
 
 bg black,22
@@ -580,7 +580,7 @@ ld l,YOS_D3,22
 ld r,YUK_i3a,80
 
 ;「いじめてるじゃない！@　何で、そんな何人もで寄って集って吉川くんを取り囲んでるのよ…！」@
-`"If you're not bullying him! `@`Then why are so many of you crowding around him...!?"`@
+`"If you're not bullying him! `@`Then why are so many of you crowding around him...?!"`@
 ;＜由香里
 br
 ;　今日も正明は、いじめっこたちに囲まれ、いじめられている。\
@@ -638,11 +638,11 @@ cl c,0
 ld l,YOS_D12,24
 
 ;「………な、何だよ、榊……。@離せよ……。」@
-`"...w- what do you want, Sakaki.... `@`Let go of me..."`@
+`"...W- what do you want, Sakaki.... `@`Let go of me..."`@
 ld r,YUK_i3a,80
 
 ;「何だよじゃないでしょッ。@あんな意地悪な人たちが友達なの？！@　友達ってあんな意地悪なことをする人たちなの？@　違うでしょ？！」\
-`"Is everything really fine? `@`Are those mean kids really your friends?! `@`Would friends really do such mean things to do? `@`Of course not, right?!"`\
+`"Is everything really fine? `@`Are those mean kids really your friends?! `@`Would friends really do such mean things to you? `@`Of course not, right?!"`\
 
 
 ld l,YOS_D10a,80
@@ -652,7 +652,7 @@ ld l,YOS_D10a,80
 ld r,YUK_i3,80
 
 ;「あれがいじめじゃないって言うの？！」\
-`"Are you telling me that isn't bullying?!"`\
+`"Are you telling me that it isn't bullying?!"`\
 ld l,YOS_D10,80
 
 wait 1000
