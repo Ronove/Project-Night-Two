@@ -4196,8 +4196,8 @@ br
 ;　“死にたくないから生きる”で、充分なんだ。\
 `　'Living because you don't want to die.' That's enough of a meaning.`\
 ;　人が生きると書いて、人生。@
-`　The two characters that make up the Japanese word for life (人生) mean 'person' and 'living.'`@ ;(?) Can this be done better in English? (?)
-br
+;`　The two characters that make up the Japanese word for life (人生) mean 'person' and 'living.'`@ ;(?) Can this be done better in English? (?) [It doesn't really make sense to have this line in an English context, and doesn't serve much of a purpose, so I removed it. --Yirba]
+;br
 ;　人は、ただ生きているだけで、立派に意味と価値があるんだ。@
 `　People, just by living, already have a wonderful meaning and worth in life.`@
 ;　そしてさらに人生に意味や価値が求めたいなら、……さらに今を精一杯、生きればいい。\
@@ -4235,7 +4235,7 @@ me1v 5,85
 ;　体の中が空洞になり、羽にでもなった気がする。@
 `　It felt as if my body was hollow, and was as light as a feather.`@
 ;　目線は自然と遥か彼方へ。@……呼吸も穏やかなものになっていく。\
-`　My gaze drift far-off place.`@` ...My breathing became calm.`\
+`　My gaze drifted to a faraway place.`@` ...My breathing became calm.`\
 
 ;　足はどんどん軽くなる。@行ける、行ける、……まだまだ行ける……。@
 `　My legs rapidly became lighter. `@`I can make it, I can make it.... I can still make it...`@
@@ -4251,7 +4251,7 @@ bg gakkou_01a,24
 `　Once I turn the corner, the school will once again come into view.`@
 br
 ;　あの校門がゴールだ。@あと、ほんの数百メートル。\
-`　The school gate is the finish. `@`Just a few hundred meters more.`\
+`　The school gate is the finish line. `@`Just a few hundred meters remaining.`\
 bg black,1
 
 ;「あやァ！！@　ラストスパートォ！！@　最後の気合、俺に見せてみやがやれェ！！」@
@@ -4314,7 +4314,7 @@ br
 `　And then I realize that the hand I'm grabbing belongs to the shinigami.`@
 br
 ;　イザナミはぐいっと引っ張り、あやの上体を起こしてくれた。\
-`　Izanami pulled, and raised my -- Aya's -- upper body.`\
+`　Izanami pulled, and raised my upper body.`\
 bg black,22
 bg koutei_01,22
 ld r,IZA_D4,22
@@ -4376,7 +4376,7 @@ ld r,IZA_D6,80
 ld l,ay2_D10,80
 
 ;「……私、走るの。@………好きになりました。@……先生。」\
-`"...I really`@`.... grew to love running.`@` ...Sensei."`\
+`"...I really....`@` grew to love running.`@` ...Sensei."`\
 ;　イザナミの姿はいつの間にか、死神のマント姿ではなくなっていた。@
 `　Without my noticing, at some point Izanami's shinigami cloak had disappeared.`@
 ;　手に持っていたはずの大鎌は、竹刀に代わり。@……漆黒のマントは、ジャージに代わっていた……。\
@@ -4392,18 +4392,18 @@ bg air_02,22
 `　And because of that, groups of students that participated in sports clubs had lined up around her.`@
 br
 ;　こんなにも寄って集って褒められた経験などない。\
-`　Never before had she experience such praise.`\
+`　Never before had she experienced such praise.`\
 ;「……ありがとう。先生。」@
-`"Thank you, Sensei"`@
+`"Thank you, Sensei."`@
 ;「生きろよォ、あやァ…！！！@　立ち止まったら、そのケツ、俺の竹刀でぶっ叩いてやるからなァ！」@
-`"Live, Aya!! `@`If you stop, I'll whack your ass with my bamboo!"`@
+`"Live, Aya!! `@`If you stop, I'll whack your ass with my sword!"`@
 ;「はいっ。」\
 `"Yes."`\
 ;　気持ちのいい風が、彼女の火照りを冷ます。@
 `　A pleasant wind cooled the girl's burning lungs.`@
 br
 ;　あやは夢を見るような心地で、いつまでも青空を見上げているのだった……。\
-`　Feeling as if she was in a dream, she stared up at the blue sky for a long, long time.`\ 
+`　Feeling as if she were in a dream, she stared up at the blue sky for a long, long time.`\ 
 
 mov %SIN_Isyou,2
 bg black,42
@@ -4425,11 +4425,11 @@ ld l,IZA_D1,22
 ld l,IZA_D2,80
 
 ;「何だ、教頭かよ。@人が悪ィな。@ずっと見てやがったなァ？」@
-`"Oh, it's you, Vice principal. `@`Ain't you got a sense of privacy? `@`Have you been watching all this time?"`@
+`"Oh, it's you, Vice Principal. `@`Ain't you got a sense of privacy? `@`Have you been watching all this time?"`@
 ld r,SIN_D3,80
 
 ;「くっくっくっく。@気にしないことです。@子供たちを見守るのが、私たちの仕事ですから。」\
-`"kukukuku. `@`Don't worry. `@`Watching over the children is my job."`\
+`"Kukukuku. `@`Don't worry. `@`Watching over the children is my job."`\
 ld l,IZA_D3,80
 
 ;「釣り逃がしちまったが、あやはもう、お前の獲物にもならねェぞ。@あいつはもう、妄想に逃げるようなクソ落ち目じゃねェ。」\
@@ -4446,7 +4446,7 @@ mld c,IZA_D5,23
 ld r,SIN_D1,80
 
 ;「くっくっく。@私のことなど、気にしないことです。@さて。@……狙っていた相馬あやも、すっかり美味ではなくなってしまいましたからねぇ。@また、新しい獲物を探しましょう。@そして、早く夢の世界へ連れ去って、あなたの手が届かないようにしなくては。」\
-`"Kukuku. `@`Don't worry about me. `@`You see`@`.... that Aya Souma girl you were hunting.... She no longer holds any interest to me. `@`I am going to find a new target,`@` and quickly whisk them away to my dream world so that you can't get them."`\
+`"Kukuku. `@`Don't worry about me. `@`You see....`@` that Aya Souma girl you were hunting.... She no longer holds any interest to me. `@`I am going to find a new target,`@` and quickly whisk them away to my dream world so that you can't get them."`\
 mld c,IZA_D2,80
 
 ;「けっ。@何が夢の世界だ。@俺がケツを引っ叩いて、現実に叩き戻してやるぜェ。」\
