@@ -119,7 +119,7 @@ ld c,KYO_D1,2
 `　Kyou of the Mirror.`@
 br
 ;　学校妖怪序列第５位。@
-`　The fifth-ranked of the school youkai.`@
+`　The Fifth Ranked of the School Youkai.`@
 ;　通り名が示すとおり、鏡を司る妖怪だ。@いや、本人は鏡を守る番人だと称している。\
 `　As the name suggests, he's a youkai that rules over mirrors. `@` Or rather, he's the self-proclaimed protector of all mirrors.`\
 
@@ -1796,7 +1796,7 @@ E_B
 ld r,HIG_W5a,80
 
 ;「あんた、私がやさしくしてたからって、少し付け上がっちゃったようね。@勝てると思ってんのォ？！@　この私に！@　学校妖怪序列第３位、踊る彼岸花にぃいぃい！！！」\
-`"I see now that I've been too soft on you. You've grown conceited. `@`Do you really think that you can win?!`@` Against me? `@`3rd Ranked of the School Youkai, the Dancing HiganbanaaAAaa!!!`"\
+`"I see now that I've been too soft on you. You've grown conceited. `@`Do you really think that you can win?!`@` Against me? `@`Third Ranked of the School Youkai, the Dancing HiganbanaaAAaa!!!`"\
 
 
 mld l,MAR_W4,80
@@ -1805,10 +1805,10 @@ se1v 2,100
 quakey 3,200
 
 ;「３位風情が笑わせんじゃねぇ！！@/
-`"3rd ranked? Don't make me laugh!!`@/
+`"Third Ranked? Don't make me laugh!!`@/
 bgm1 21
 ;　私は学校妖怪序列第１位、げらげらさんだぁああぁあぁあああ！！！@　テメェに靴を舐めさせてやらぁあッ、/
-`　I am the 1st Ranked School Youkai, Geragera-san!!! `@`And I'm going to make you lick my shoooOOOeeEs!!`/
+`　I am the First Ranked School Youkai, Geragera-san!!! `@`And I'm going to make you lick my shoooOOOeeEs!!`/
 se1v 84,100
 ;げらげらげらげらげら！！！」\
 `Gera gera gera!!!"`\
@@ -1853,7 +1853,7 @@ print 24
 ld c,MAR_I5,0
 
 ;　学校妖怪としての実力や序列も、ビリの第８位が反転して、第１位の力となっている。@
-`　Furthermore, her power and ranking as the lowest ranked among the 8 school youkai had been reversed. Instead, her power was that of the top ranked.`@
+`　Furthermore, her power and ranking as the lowest ranked among the eight school youkai had been reversed. Instead, her power was that of the top ranked.`@
 br
 ;　鏡の向こうの世界で、彼岸花たちが毬枝にぺこぺこしていたのは、@単に彼らの性格が反転したからだけではない。@毬枝が暴君として君臨していたからなのだ…！\
 `　The reason that Higanbana and the other youkai in the mirror world were so submissive, `@`was not just because their personalities were reversed, `@`but because this Marie had ruled over them as a tyrant...!`\

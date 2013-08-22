@@ -1583,7 +1583,7 @@ ld l,AYA_D5a,23
 ld r,IZA_D6,80
 
 ;「俺かァ？@　いいぜェ。@お前とはどれほどの付き合いになるか知らねェが、一応、自己紹介をしてやらァ。@俺は学校妖怪序列第２位「１３階段の死神」こと、イザナミさまよ！」\
-`"Who am I? `@`Alright. `@`I don't know how long we're going to be seeing each other, but I guess I'll introduce myself. `@`I am The Second Ranked of the School Youkai, "Reaper of the 13th Step", Izanami-sama!"`\
+`"Who am I? `@`Alright. `@`I don't know how long we're going to be seeing each other, but I guess I'll introduce myself. `@`I am the Second Ranked of the School Youkai, "Reaper of the 13th Step", Izanami-sama!"`\
 
 bg black,23
 
@@ -2324,7 +2324,7 @@ ld c,MIC_D1,26
 ld c,MIC_D2,80
 
 ;「………１３階段の死神？@　知ってる。@学校妖怪序列第２位、１３階段の死神、イザナミだよ。」@
-`"...Reaper of the 13th Step? `@`I know him. `@`That's The Second Ranked School Youkai, Reaper of the 13th Step, Izanami."`@
+`"...Reaper of the 13th Step? `@`I know him. `@`That's the Second Ranked School Youkai, Reaper of the 13th Step, Izanami."`@
 
 ld l,AYA_D7a,23
 ld l,AYA_D8a,80
@@ -2478,7 +2478,7 @@ ld l,AYA_D5a,80
 ld r,MIC_D5,80
 
 ;「………イザナミは学校妖怪序列第２位の強力な妖怪。@……倒せる力を持つ妖怪は、第１位の校長先生しかいない。@……でも、かつての校長先生ならともかく、@今は老いて、狩りはずいぶん前に引退してる。@……だから、イザナミを倒せる学校妖怪は、存在しないんだよ。」\
-`"...Izanami is the second strongest ranked school youkai. `@`...The only youkai strong enough to defeat him is the first ranked. `@`...Although he used to be the headmaster, `@`now he's old, and has mostly withdrawn from hunting. `@`...So I would say no youkai that can defeat Izanami exists."`\
+`"...Izanami is the second strongest ranked school youkai. `@`...The only youkai strong enough to defeat him is the First Ranked. `@`...Although he used to be the headmaster, `@`now he's old, and has mostly withdrawn from hunting. `@`...So I would say no youkai that can defeat Izanami exists."`\
 
 bg black,22
 
@@ -3629,7 +3629,7 @@ cl c,24
 ld r,IZA_D3,22
 
 ;「言ったろ。@４９日が終わるか、お前が俺に捕まるか。@そのどちらかでしか、俺とお前の放課後は終わらねェ。@それが俺の、学校妖怪序列第２位、１３階段の死神のルールだ。」\
-`"I just told ya. `@`Either go for the full 49 days, or get caught by me. `@`Those are the only ways to end our game. `@`That is my rule as the Reaper of the 13th Step, 2nd ranked among the school youkai."`\
+`"I just told ya. `@`Either go for the full 49 days, or get caught by me. `@`Those are the only ways to end our game. `@`That is my rule as the Reaper of the 13th Step, Second Ranked of the School Youkai."`\
 bg black,23
 bg rouka_04,23
 
@@ -4338,7 +4338,7 @@ br
 ;　不思議だった。@
 `　It was strange.`@
 ;　あれだけ怯えた死神なのに、……まるで先生であるかのように、敬語で答えてしまう。\
-`　Even though I was so afraid of this shinigami... I answered him loudly and clearly, as if replying to a sensei.`\
+`　Even though I was so afraid of this shinigami... I answered him loudly and clearly, as if replying to a teacher.`\
 
 ld r,IZA_D3,80
 
@@ -4394,7 +4394,7 @@ br
 ;　こんなにも寄って集って褒められた経験などない。\
 `　Never before had she experience such praise.`\
 ;「……ありがとう。先生。」@
-`"Thank you, sensei"`@
+`"Thank you, Sensei"`@
 ;「生きろよォ、あやァ…！！！@　立ち止まったら、そのケツ、俺の竹刀でぶっ叩いてやるからなァ！」@
 `"Live, Aya!! `@`If you stop, I'll whack your ass with my bamboo!"`@
 ;「はいっ。」\
@@ -4418,7 +4418,7 @@ ld r,SIN_D1,22
 bgm1 1
 
 ;「立派な熱血教師ぶりですねぇ。」@
-`"You're quite the excellent Sensei."`@
+`"You're quite the excellent teacher."`@
 ;＜教頭（紅茶紳士）
 
 ld l,IZA_D1,22
@@ -4442,7 +4442,7 @@ cl l,0
 mld c,IZA_D5,23
 
 ;「いいか、紅茶野郎ォ。@この学校のナンバー２は俺だァ！@　狩りの邪魔はさせねェし、@仮に釣り逃しても、お前の獲物にも断じてさせねェ…！@　校長の腰巾着風情が、影の第２位なんて百年早ェんだよ！」\
-`"Listen up, Black Tea Bastard. `@`I'm the one who's ranked number 2 in this school. `@`I won't allow anyone to get in the way of my hunts. `@`She may not be my prey anymore, but I sure as hell won't let you make her yours...! `@`You may be the Headmaster's lackey, but listen up, the 2nd ranked in the shadows ain't got nothing on me!"`\
+`"Listen up, Black Tea Bastard. `@`I'm the one who's ranked number two in this school. `@`I won't allow anyone to get in the way of my hunts. `@`She may not be my prey anymore, but I sure as hell won't let you make her yours...! `@`You may be the Headmaster's lackey, but listen up, the Second Ranked in the shadows ain't got nothing on me!"`\
 ld r,SIN_D1,80
 
 ;「くっくっく。@私のことなど、気にしないことです。@さて。@……狙っていた相馬あやも、すっかり美味ではなくなってしまいましたからねぇ。@また、新しい獲物を探しましょう。@そして、早く夢の世界へ連れ去って、あなたの手が届かないようにしなくては。」\

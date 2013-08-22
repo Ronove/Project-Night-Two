@@ -1017,7 +1017,7 @@ br
 
 
 ;「………あ、すいません、先生。@勝手に入ったりして。」@
-`"....Ah, sorry for startling you sensei. `@`I came into the room without asking."`@
+`"....Ah, sorry for startling you, Sensei. `@`I came into the room without asking."`@
 ;■ルノワールはしばらく立ち絵不要
 br
 ;　変声期前の高い声だった。@繊細な楽器の様な響きは彼の容姿にとても似合っていた。\
@@ -2041,7 +2041,7 @@ mld c,RUN_D5,80
 bgm1 7
 
 ;「……くすくす。@先生が私のことを知らなくても。@私は先生のことをよく知っているわ。」@
-`"...Teehee. `@`Even if you don't know who I am. `@`I know who you are, sensei."`@
+`"...Teehee. `@`Even if you don't know who I am. `@`I know who you are, Sensei."`@
 ld l,NAF_D6a,80
 
 ;「え…？@　……それは、どういう……。」\
@@ -2136,7 +2136,7 @@ ld c,RUN_D5,80
 me1v 16,50
 
 ;「くすくす……。@私には下校時刻なんて関係ないんですよ、先生。@だって、私には帰るところなんてないんだから。」\
-`"Teehee... `@`What time school ends bears no significance to me, sensei. `@`After all, I have nowhere to go home to."`\
+`"Teehee... `@`What time school ends bears no significance to me, Sensei. `@`After all, I have nowhere to go home to."`\
 ;　……この町では、共働きの家庭はとても多い。@
 `　...In this town there were many households that had parents who both worked full-time.`@
 ;　帰っても家に家族のいない生徒の一部が、@時にそう称して、家へ直帰せずに放課後を遊び歩くことがあるのを、新谷も知っていた。@
@@ -2238,7 +2238,7 @@ ld l,NAF_D6a,80
 ld c,RUN_D1,80
 
 ;「いいでしょ、先生。@……お願い。」@
-`"It'll be fine, sensei.`@` ...Please?"`@
+`"It'll be fine, Sensei.`@` ...Please?"`@
 br
 ;　………新谷は断れなかった。@
 `　....Shintani had no choice.`@
@@ -2364,7 +2364,7 @@ br
 ;　新谷の前髪に隠れた額と握り込んだ掌から、嫌な汗がじわりと滲み出る……。\
 `　On her brow hidden beneath her bangs and in her clenched hands, Shintani started to sweat...`\
 ;「先生はご存知でした？@　裕貴くんの身体にあった傷は、殴られたり蹴られたりした様な単純なものじゃなくて、@変わった傷が多かったみたいですよ？@　まるで、切れ味の悪い刃物を肌に押し当てられたみたいな…………。」\
-`"Have you heard this, sensei? `@`Apparently the marks on Yuuki's body didn't look like they were simply from him being punched or kicked. `@`He had a bunch of unusual marks on him. `@`Almost like a dull knife had been pressed against his skin....."`\
+`"Have you heard this, Sensei? `@`Apparently the marks on Yuuki's body didn't look like they were simply from him being punched or kicked. `@`He had a bunch of unusual marks on him. `@`Almost like a dull knife had been pressed against his skin....."`\
 bg black,23
 bg bijutu_02,0
 ld c,NAF_D5,23
@@ -2589,7 +2589,7 @@ ld c,RUN_D1,2
 ld c,RUN_D5,80
 
 ;「どうしたんですか、先生？@　顔色が悪いですよ。」@
-`"What's wrong, sensei? `@`You're looking a little pale."`@
+`"What's wrong, Sensei? `@`You're looking a little pale."`@
 ;「………………。」\
 `"........"`\
 ;　私は何だって、……放課後の美術室で、名も知らぬ少女の絵を描かされているのか。@
@@ -2661,7 +2661,7 @@ ld c,RUN_D6,23
 ld c,RUN_D3,80
 
 ;「彼が裸だったらおかしいですか？@　だってここは美術室じゃないですか。@何かの本で読んだんですけど、@デッサンの練習には人間の裸が一番良いんですよね？@　……ああ、そう言えば先生……、」@
-`"Would it have been so odd for him to be naked? `@`After all, this is the art room. `@`I read in a book once, `@`that drawing the naked human form is the best way to practice sketching.`@` ...Ah, by the way, sensei...."`@
+`"Would it have been so odd for him to be naked? `@`After all, this is the art room. `@`I read in a book once, `@`that drawing the naked human form is the best way to practice sketching.`@` ...Ah, by the way, Sensei...."`@
 br
 ;　女生徒が大きな瞳で新谷の目を覗き込む。\
 `　The girl's large eyes looked directly into Shintani's.`\
@@ -2702,7 +2702,7 @@ mcl c,0
 ld c,RUN_D1,80
 
 ;「どうなんですか、先生？@　ヌードは描かないんですか？」@
-`"Well, sensei? `@`Do you do nude drawings?"`@
+`"Well, Sensei? `@`Do you do nude drawings?"`@
 ;「……まさか、そんなわけ………。」\
 `"...What are you talking about, of course I d-....."`\
 ;　そんなわけない、と言おうとして新谷は再び思い出す。@
@@ -2871,7 +2871,7 @@ ld r,RUN_D2,22
 ld r,RUN_D1,80
 
 ;「ご明察のとおり。@……学校妖怪序列第６位。@美術室のルノワールとは、私のこと。」@
-`"How perceptive of you.`@` ...Yes, I am the 6th Ranked among the School Youkai. `@`Renoir of the Art Room."`@
+`"How perceptive of you.`@` ...Yes, I am the Sixth Ranked of the School Youkai. `@`Renoir of the Art Room."`@
 br
 ;　とうとう、……少女は名乗る。@
 `　At last... the girl gave her name.`@
@@ -3278,7 +3278,7 @@ bg kaiga_02,22
 bgm1 14
 
 ;「………ねぇ、先生。@さっきの質問なんだけど。@……やっぱり答えてはくれないのかしら？」@
-`"....Hey, sensei. `@`What about my question from earlier?`@` ...Are you not going to give me an answer?"`@
+`"....Hey, Sensei. `@`What about my question from earlier?`@` ...Are you not going to give me an answer?"`@
 ;「質問？@　全て答えているつもりだけれど？」\
 `"Question? `@`Didn't I answer all of them?"`\
 ;「……この美術室で。@……誰かの裸を描いたことは、……本当にないの……？」@
@@ -3352,7 +3352,7 @@ ld r,RUN_D1,22
 ld r,RUN_D5,80
 
 ;「先生はこの美術室にいたんじゃない？@　野田裕貴くんと一緒に。」@
-`"Were you here in this art room, sensei? `@`Were you with Yuuki when he died?"`@
+`"Were you here in this art room, Sensei? `@`Were you with Yuuki when he died?"`@
 br
 ;　その瞬間、フラッシュバックのようにあの日の出来事が思い出される……。\
 `　For an instant she had a flashback like memory to that day...`\
@@ -3937,11 +3937,11 @@ bg kaiga_01,22
 ld r,RUN_D2,22
 
 ;「僕が、ルノワールだよ。@……学校妖怪序列第６位“美術室のルノワール”。」@
-`"I am Renoir.`@` ...6th Ranked among the School Youkai, 'Renoir of the Art Room'."`@
+`"I am Renoir.`@` ...Sixth Ranked of the School Youkai, 'Renoir of the Art Room'."`@
 ld l,HIG_D4,22
 
 ;「私は彼岸花。@学校妖怪序列第３位“踊る彼岸花”とは私のこと。」@
-`"And I am Higanbana. `@`The 3rd Ranked among the School Youkai, 'The Dancing Higanbana'."`@
+`"And I am Higanbana. `@`The Third Ranked of the School Youkai, 'The Dancing Higanbana'."`@
 br
 ;　わけが、……わからない。@二人とも妖怪だったのだ。\
 `　That... makes no sense. `@`They were both youkai?`\
@@ -4208,7 +4208,7 @@ br
 mld l,RUN_D6,80
 
 ;「僕がモデルになって。@……先生に絵を描いてもらってる時。@……僕は先生に聞きましたよね。」\
-`"When I was modeling....`@` and you were drawing me.... `@`I asked you a question, sensei."`\
+`"When I was modeling....`@` and you were drawing me.... `@`I asked you a question, Sensei."`\
 mcl l,0
 bg black,22
 mono 1
@@ -4577,7 +4577,7 @@ ld c,RUN_D2,22
 ld c,RUN_D8,80
 
 ;「……そう言えば。@……彼岸花も、人間に興味を持ったことがあったって言ってたっけ。@………８位の子も、元は人間だそうだし。」@
-`:...That's right.`@` ...Higanbana said that she too once had interest in a human.`@` ...Apparently the 8th ranked girl used to be a human too."`@
+`:...That's right.`@` ...Higanbana said that she too once had interest in a human.`@` ...Apparently the Eighth Ranked girl used to be a human too."`@
 br
 ;　新谷のような、欲望の塊のような人間がいる一方で。@
 `　While, on one hand, there are humans with lust-filled souls like Shintani...`@

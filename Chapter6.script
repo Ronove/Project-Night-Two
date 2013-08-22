@@ -1810,7 +1810,7 @@ cl c,0
 ld l,AZA_D2,24
 
 ;「怯える必要はありません。@妾の名はアザミ。@……学校妖怪序列第４位、復讐のアザミとは妾のこと……。」@
-`"There is no need to be frightened. `@`My name is Azami.`@` ...4th Ranked among School Youkai, Azami the Vengeful..."`@
+`"There is no need to be frightened. `@`My name is Azami.`@` ...Fourth Ranked of the School Youkai, Azami the Vengeful..."`@
 ld r,YOS_D9,80
 
 ;「…………復讐の、アザミ………。」\
@@ -4050,7 +4050,7 @@ ld r,SMI_w2,22
 ld r,SMI_w5,80
 
 ;「ふっふふふふ！@　私の姉者なのじゃ！！@　学校妖怪序列第４位、復讐のアザミとは姉者のことよ…！！」@
-`"Fufufufufu! `@`This is my elder sister!! `@`4th Ranked among the School Youkai, Azami the Vengeful...!!"`@
+`"Fufufufufu! `@`This is my elder sister!! `@`Fourth Ranked of the School Youkai, Azami the Vengeful...!!"`@
 ld l,YUK_i2a,80
 
 ;「……なるほど。@吉川くんに魔法のアザミを与えて豹変させたのは、@……やっぱり妖怪の仕業だったのね。」\
