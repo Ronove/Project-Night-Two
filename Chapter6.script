@@ -725,7 +725,7 @@ ld r,YOS_D8a,24
 ld l,YUK_i1a,80
 
 ;「お願い。@本当のことを言ってよっ。」@
-`"Please. `@`Tell me the truth"`@
+`"Please. `@`Tell me the truth."`@
 ;ld l,YOS_D1,80
 ld r,YOS_D3a,80
 
@@ -817,7 +817,7 @@ cl c,0
 ld r,YUK_w3,23
 
 ;「私、いつでも味方になるからね。@………本当に困ったら、いつでも相談してね。」@
-`"I can become your ally at an moment.`@` .....If you're ever really in trouble, you can come talk to me at any time."`@
+`"I can become your ally at any moment.`@` .....If you're ever really in trouble, you can come talk to me at any time."`@
 ;ld l,YOS_D1,80
 ld l,YOS_D10a,80
 
@@ -841,7 +841,7 @@ bg black,24
 ;bg kyou_04,24
 
 ;　……彼女の言葉に、ほのかな温かさも覚えたが、@それを認めたら負けだという意地の方が勝っていた。@
-`　...He felt a bit of kindness in her words, `@`but if he recognized it, it mean admitting defeat.`@
+`　...He felt a bit of kindness in her words, `@`but if he recognized it, it'd mean admitting defeat.`@
 br
 ;　彼はずかすかと足早に教室へ戻る。@
 `　He hurried straight back to the classroom.`@
@@ -888,10 +888,10 @@ bg kyou_01,0
 ld r,YUK_D3,22
 
 ;　そう願い、彼が助けを求める時、@それがいつでも出来るよう、さりげなく側にいるように努めた。@
-`　When he did ask for ask from her, `@`she strived to stand by his side and help out as if she had been there all along.`@
+`　When he did ask for help from her, `@`she strived to stand by his side and help out as if she had been there all along.`@
 br
 ;　余りに酷いいじめの際にはさすがに割って入ったが、それ以上のお節介は避けた。\
-`　If the bullying ever got to serious, she would force her way into the situation, but she avoided doing any further than that.`\
+`　If the bullying ever got too serious, she would force her way into the situation, but she avoided going any further than that.`\
 cl r,22
 fede 1,1000
 E_B
@@ -900,7 +900,7 @@ E_B
 ;ld c,YUK_D1,80
 
 ;　しかし、割って入るべきないじめの頻度は次第に増えていった。@
-`　However, the number of occurrences in which she would have to force her way in to stop the bullying were increasing.`@
+`　However, the number of occurrences in which she would have to force her way into to stop the bullying was increasing.`@
 br
 ;　先生も時には注意してくれるのだが、@いじめっこたちはへこたれないし、当の本人もそれをいじめとは認めない。\
 `　The teacher even issued a few warnings to them, `@`but the bullies never let up, and the boy being bullied never admitted it.`\
@@ -998,7 +998,7 @@ br
 ;　でも、それをいじめとは決して認めたくない、自己矛盾。@
 `　But paradoxically, he refused to admit it.`@
 ;　それに彼を苦しめることがないよう、@……彼の頭に常にもやがかかり、記憶と苦しみを薄れさせているのだ。\
-`　In order to prevent that suffering... `@`the haze took over his head, and faded both him memories and pain.`\
+`　In order to prevent that suffering... `@`the haze took over his head, and both his memories and pain faded away.`\
 
 ;　……だからといって、彼が気楽になれるわけでもない。@
 `　...That's not to say that he was at ease.`@
@@ -1013,7 +1013,7 @@ br
 ;　歯医者なら、麻酔が切れる前に治療は終わる。@
 `　When used in the dentist's office, the medical procedure is finished before the anesthesia wears off.`@
 ;　……しかし、彼に対するいじめは永遠に終わらず、むしろ苛烈を極めるばかりだった。\
-`　...but the bullying he faced was rather severe, and never ended.`\
+`　...But the bullying he faced was rather severe, and never ended.`\
 ;　心の麻酔で、もう痛みを誤魔化せないなら。@
 `　The anesthesia of his heart could no longer evade that pain.`@
 br
@@ -1025,7 +1025,7 @@ bg koutei_03,22
 me1v 16,50
 
 ;　彼が眼下の校庭を見下ろして、@……そこから飛び降りる想像に解放感を覚えることになったとしても、無理もないことだった。\
-`　As he looked down on the schoolyard beneath him... `@`it was only natural that he would consider the liberation that jumping from there would give him.`\
+`　As he looked down on the schoolyard beneath him,`@` ...it was only natural that he would consider the liberation that jumping from there would give him.`\
 
 
 
@@ -1069,7 +1069,7 @@ br
 `　You'll be liberated.`@
 br
 ;　……正明の心の中で、誰かが答えた。\
-`　...Within Masaaki's heart, someone answered.`\`\
+`　...Within Masaaki's heart, someone answered.`\
 
 
 ;ld c,YOS_D1,22
@@ -1161,7 +1161,7 @@ br
 ;　罰ゲームと称して痛いことをされることもないし。@
 `　There would be no more pain in the form of punishment games.`@
 ;　友達だからと、恥ずかしいことを強要されることもない。\
-`　There would be no more being force to do embarrassing things under the false pretense of being friends.`\
+`　There would be no more being forced to do embarrassing things under the false pretense of being friends.`\
 cl c,0
 ld l,HIG_D3,24
 ;ld l,HIG_D1,80
@@ -1251,7 +1251,7 @@ ld r,MAR_i1,22
 ; ^^^ Note To Editor: Monaka - http://en.wikipedia.org/wiki/Monaka
 br
 ;　彼岸花の畑には、いつの間にか眼鏡の少女の姿もあった。\
-`　At some point a second girl appeared in the field of higanbana, this one wearing glasses.`\
+`　At some point a second girl had appeared in the field of higanbana, this one wearing glasses.`\
 
 
 ;mld l,HIG_D1,80
@@ -1259,13 +1259,13 @@ cl c,0
 ld l,HIG_D5,24
 
 ;「嫌よ。@それに狩りなんてとんでもない。@私は誘っているだけよ。@……彼の魂がより安らぐ世界があると、教えてあげているだけよ。」\
-`"I don't want to. `@`Besides this isn't even hunting. `@`I'm just inviting him.`@` ...I'm just telling him about a world where his soul will be more at ease."`\
+`"I don't want to. `@`Besides, this isn't even hunting. `@`I'm just inviting him.`@` ...I'm just telling him about a world where his soul will be more at ease."`\
 
 cl r,0
 ld c,MAR_i4,24
 
 ;「……吉川くん。@考え直して下さい。@……生きていれば出来ることはたくさんあります。@でも、死んで出来ることなど、何一つありません。」\
-`"...Yoshikawa-kun. `@`Please reconsider this.`@` ...There is plenty of things you can do while still living. `@`But, when you're dead, there's not a single thing that you can do anymore."`\
+`"...Yoshikawa-kun. `@`Please reconsider this.`@` ...There are plenty of things you can do while still living. `@`But, when you're dead, there's not a single thing that you can do anymore."`\
 
 
 ;mld l,HIG_D1,80
@@ -1287,7 +1287,7 @@ br
 mbg black,22
 
 ;　見たこともない少女が二人も現れて、言い合いをしているのだ。@
-`　Two girls he had never seen before appeared out of nowhere and starting having a quarrel.`@
+`　Two girls he had never seen before had appeared out of nowhere and starting having a quarrel.`@
 br
 ;　しかし、彼女らが何を言っているのかはわかる。\
 `　But he had no idea what they were saying.`\
@@ -1318,7 +1318,7 @@ mld c,HIG_D4,23
 mld c,HIG_w3,80
 
 ;「私はあなたを今日までずっと見てきたわ。@……あなたは日々、何かを積み上げてきたの？@　……私は知らない。@あなたはただ、流れに身を任せて、@水面に浮かぶ木の葉のように、ただただ流されてきただけよ。@……その結果、あなたは澱みに流れ込み、そのまま朽ちて消えようとしている。@あなたの現在はまさに、その結果の至極当然の末路じゃない。」\
-`"I've been watching you for a long time.`@` ...Is there something that you have been working towards?`@` ...I haven't seen it. `@`You have just given yourself up to the flow of life, `@`like a leaf on the surface of the water, just being swept along.`@` ...And in the end you will become stagnant waste and rot away. `@`As you are now that is very likely the end you will meet."`\
+`"I've been watching you for a long time.`@` ...Is there something that you have been working towards?`@` ...I haven't seen it. `@`You have just given yourself up to the flow of life, `@`like a leaf on the surface of the water, just being swept along.`@` ...And in the end you will become stagnant waste and rot away. `@`As you are now, that is very likely the end you will meet."`\
 
 
 ;ld c,YOS_D1,80
@@ -1331,7 +1331,7 @@ br
 ;　正明には今日まで、何の意志も使命も目的もない。@
 `　Up until today, Masaaki has had no motive, mission or goal.`@
 ;　彼がしてきたことはただ一つ。@……自分が受けているいじめを、そうだと頑なに認めなかったこと。@ただそれだけだ。\
-`　There's only one thing he's been doing.`@` ...Refusing to admit that he's been bullied. `@`And that's it.`\
+`　There's only one thing he's been doing.`@` ...Refusing to admit that he's being bullied. `@`And that's it.`\
 
 
 ;mld l,HIG_D1,80
@@ -1371,14 +1371,14 @@ ld l,HIG_D1,24
 ld r,MAR_i1a,80
 
 ;「確かに、今までの彼はそうだったかもしれません。@でも、生きている限り、これからもそうとは限りませんっ。@人は生きている限り、常に何かを試み、成し遂げることが出来るんですっ。@死ぬなんて短気は、それを全て投げ出すだけなんですっ。」\
-`"He may have been living his life like that up until now. `@`But, that doesn't mean he has to live that was for the rest of his life. `@`As long as people are alive, they can constantly try and accomplish new things. `@`If you kill yourself on an impulse, you've thrown that all away."`\
+`"He may have been living his life like that up until now. `@`But, that doesn't mean he has to live that way for the rest of his life. `@`As long as people are alive, they can constantly try and accomplish new things. `@`If you kill yourself on an impulse, you've thrown that all away."`\
 
 ;mcl l,0
 bg black,22
 ;bg e002,22
 
 ;　……生きている限り、出来ることはある。@
-`　...As long as you're still alive there are things you can do.`@
+`　...As long as you're still alive, there are things you can do.`@
 br
 ;　死ねば、……何も出来はしない。\
 `　When you die... you can't do anything.`\
@@ -1395,7 +1395,7 @@ mld c,YOS_D14,22
 `　...Being driven to my own death... isn't that the same as being killed by those guys?`@
 br
 ;　なら、自分だけが殺されて堪るものか。@
-`　Then why should I be the only one to die.`@
+`　Then why should I be the only one to die?`@
 br
 ;　同じ死ぬのでも、……せめて一矢報いてからじゃなきゃ、……悔し過ぎる……。\
 `　Even though I meet the same end... doing so without fighting back at all... it's just too frustrating...`\
@@ -1410,7 +1410,7 @@ ld r,HIG_w3,22
 ;ld r,HIG_D1,80
 
 ;「………あら。@死ぬ気が薄れてきちゃったわ。@……毬枝のせいよ。@もう一息でぺろりといけたものを。」\
-`"....What's this. `@`Looks like he's losing the want to die.`@` ...This is your fault, Marie. `@`Just one more push and I would have had him."`\
+`"....What's this? `@`Looks like he's losing the want to die.`@` ...This is your fault, Marie. `@`Just one more push and I would have had him."`\
 
 
 ;ld r,MAR_D1,80
@@ -1455,7 +1455,7 @@ bg shokuin_01,22
 
 
 ;　先生にも相談したが、喧嘩両成敗みたいな扱いで、まったく庇ってくれなかった。@
-`　He tried talking to his teachers, but they just treated him like he was too blame as well, and wouldn't protect him at all.`@
+`　He'd tried talking to his teachers, but they just treated him like he was to blame as well, and wouldn't protect him at all.`@
 ;　両親も仕事のことで頭がいっぱい。@子供の喧嘩に親は出ない、みたいなことを言って、まったく相手にしてくれない。@
 `　As for his parents, all they cared about was work. `@`They would always say something about parents not getting involved in fights between children, and wouldn't help him at all.`@
 br
@@ -1488,10 +1488,10 @@ bg different_spiral_1a,22
 `　Screw that.... `@`I'm not being bullied... `@`I don't need a girl to help me...!`@
 br
 ;　あの女、いつもお節介ばかり焼きやがって…！@　お前は楽しいかもしれないが、女に庇われて、俺はいつも惨めな気持ちになるんだよッ！\
-`　That girl is always meddling in people's business...! `@`It may be fun for you, but for me, being saved by a girl is miserable!`\
+`　That girl is always meddling in other people's business...! `@`It may be fun for you, but for me, being saved by a girl is miserable!`\
 
 ;　畜生、畜生ッ！@　どいつもこいつも俺のことを馬鹿にしやがって…！！@
-`　Damn it, damn it! `@`everyone keeps looking down on me...!!`@
+`　Damn it, damn it! `@`Everyone keeps looking down on me...!!`@
 br
 ;　これで俺がまんまと自殺したら、あいつら、何て言うんだ？\
 `　If I killed myself right now, what would they say?`\
@@ -1521,7 +1521,7 @@ ld l,MAR_D2a,22
 ;「ちょ、ちょっと違う方向にみたいですけど……。」\
 `"It-, it looks like he's taking it a different direction than I intended though...."`\
 ;　正明の心を怒りが満たすにつれ、眼下に飛び降りたいという、死への誘惑は霧散していく。\
-`　As Masaaki's heart filled with anger, his want to jump to his death rapidly vanished.`\
+`　As Masaaki's heart filled with anger, his desire to jump to his death rapidly vanished.`\
 ;se1 6
 cl a,0
 ;se1 6
@@ -1555,12 +1555,12 @@ ld r,YOS_D10n,80
 bgm1 14
 
 ;「……死ぬくらいなら、……むしろ俺が殺してやるッ。@…………でも、そんなことしたって、結局、逮捕されるだけ……。@そしてあいつらは逮捕された俺のことを、@おかしなヤツだったとか普段からキレるヤツだったとか、適当なことをしゃあしゃあと言いやがるに決まってるんだ……。@/
-`"...If I'm willing to do... then I'll kill instead.`@` ......But even if I do that, in the end I'll just end up getting arrested... `@`And if I do get arrested, those guys would just say I was always a strange guy, and was always snapping like that, and keep shamelessly giving excuses to take the blame off them...`@/
+`"...If I'm willing to go... then I'll kill instead.`@` ......But even if I do that, in the end I'll just end up getting arrested... `@`And if I do get arrested, those guys would just say I was always a strange guy, and was always snapping like that, and keep shamelessly giving excuses to take the blame off them...`@/
 ;ld c,YOS_D1,80
 ;ld r,YOS_D1,80
 
 ;………くそッ、くそッ……。@………悔しい、悔しい……。@このまま死んでなんかやるものかッ。@……絶対に生きて、……あいつらに仕返ししてやる……。」\
-` ....Shit, shit...`@` ....This is annoying, so annoying.... `@`There's no damn way I'm going to just lay down and die.`@` ...I'm definitely going to live... and get even with those bastards..."`\
+` ....Shit, shit...`@` ....This is annoying, so annoying.... `@`There's no damn way I'm going to just lie down and die.`@` ...I'm definitely going to live... and get even with those bastards..."`\
 cl r,22
 
 ;　………でも、どうやって………。@
@@ -1584,10 +1584,10 @@ bg koutei_03,22
 ;ld r,YOS_D1,22
 
 ;　現実的な仕返しの方法はせいぜい、@………こっそりと上履きの中に画鋲を入れるとか、そんなことがせいぜいだ。@
-`　Realistically speaking, the best he could do for revenge.... `@`was to sneak some tacks in the indoor shoes in their shoe lockers.`@
+`　Realistically speaking, the best he could do for revenge.... `@`was to sneak some tacks into the indoor shoes in their shoe lockers.`@
 br
 ;　それに、どうせすぐ自分が疑われるに決まってる。\
-`　But even then, it's obvious that he would be the first person they would suspect.`\
+`　But even then, he would obviously be the first person they would suspect.`\
 
 ;ld c,YOS_D1,80
 
@@ -1595,7 +1595,7 @@ br
 `　But this is those bullies he's talking about. `@`If they even so much as suspect he's behind something like that, they wouldn't hesitate to start treating him even worse.`@
 br
 ;　正明はゆっくりと踵を返し、教室に戻る。\
-`　Masaaki slowly turned on his heels, and went back in to the classroom.`\
+`　Masaaki slowly turned on his heels, and went back into the classroom.`\
 ;bg black,1
 ;mono 0
 
@@ -1617,7 +1617,7 @@ ld c,YOS_D13,22
 ;　……今日までの借りを返す権利が、自分にはあるのだ。@
 `　...He had the privilege to repay everything that had been done to him up until now.`@
 ;　その権利を自ら捨てるなんて、……馬鹿馬鹿しいし、何より悔しかった……。@
-`　Too willingly throw that privilege away... that's beyond stupid, and beyond aggravating...`@
+`　To willingly throw that privilege away... That's beyond stupid, and beyond aggravating...`@
 br
 ;　彼は、今こそはっきりと自覚する。@自分がいじめられっこであったことを、はっきりと自覚する。\
 `　He was now painfully aware of his situation. `@`He knew all too well that he was being bullied.`\
@@ -1631,7 +1631,7 @@ ld c,YOS_D14,80
 `"At some point, I WILL have my revenge.... `@`Eventually... I WILL....... Damn it...."`@
 br
 ;　由香里が望んだ形とは違うが、@……彼がいじめられっこであることを自覚し、自殺という方法で逃れようと思わなくなっただけでも、@良しとすべきかもしれない……。\
-`　It was different than the way Yukari would have wanted... `@`but because he finally accepted that he was being bullied, and wasn't trying to kill himself to escape from it, `@`she would probably have to agree with him...`\
+`　It was different to the way Yukari would have wanted... `@`But because he finally accepted that he was being bullied, and wasn't trying to kill himself to escape from it, `@`she would probably have to agree with him...`\
 
 
 ;bg black,22
