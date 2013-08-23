@@ -1,6 +1,6 @@
 ;Chapter 3
 ;「毬枝ー。@栗饅頭が食べたいわ。@探してきてちょうだい、５分で。@あと、今日はほうじ茶の気分だわ。@それも一緒にお願いねー。」@
-`"Marieee. `@`I feel like eating chestnut cake today. `@`Go and find one for me. You've got 5 minutes. `@`Oh, and I want some roasted tea too. `@`Go get those for me, won't you?"`@
+`"Marieee. `@`I feel like eating chestnut cake today. `@`Go and find one for me. You've got five minutes. `@`Oh, and I want some roasted tea too. `@`Go get those for me, won't you?"`@
 br
 ;　彼岸花は、保健室のベッドの上で、実にだらしない格好でくつろぎながら、ぞんざいに言う。\
 `　Higanbana was making offhanded demands while lounging on the bed in the infirmary with her dress immodestly hanging off of her.`\
@@ -13,7 +13,7 @@ ld l,MAR_D3a,23
 ld r,HIG_w5,80
 
 ;「……何よ。@毬枝の分際で、この踊る彼岸花に口答えする気ィ？@/
-`"...What's this? `@`The lowly Marie is going to talk back to me, the Dancing Higanbana?`@/
+`"...What's this? `@`The lowly Marie is talking back to me, the Dancing Higanbana?`@/
 cl r,0
 ld c,HIG_W5,24
 ;se1v 7,30
@@ -33,7 +33,7 @@ quakex 2,400
 ld c,HIG_D5,80
 
 ;「口答えしてる暇があったら、とっとと栗饅頭を持ってきなさい。@ちなみにあと、４分３２秒だからねっ。@１秒でも遅れたら、二度とあんたにテレビ見せてあげないわよ。」\
-`"All the time you're wasting talking back to me is time you could be using to go get me my cake. `@`By the way, you only have 4 minutes 32 seconds left. `@`If you're even 1 second late, I'll never let you watch the TV again."`\
+`"All the time you're wasting talking back to me is time you could be using to go get me my cake. `@`By the way, you only have four minutes 32 seconds left. `@`If you're even one second late, I'll never let you watch the TV again."`\
 
 
 ld l,MAR_D2a,80
@@ -92,7 +92,7 @@ bg hoken_02,22
 ld r,HIG_W3,22
 
 ;「いるってわかってるくせに。@………何の用？@　鏡のキョウ。」@
-`"Asking if I'm here even though you already know the answer...`@` ...What do you want? `@`Kyou of the mirror."`@
+`"Asking if I'm here even though you already know the answer...`@` ...What do you want? `@`Kyou of the Mirror."`@
 br
 se1v 82,100
 ld l,KYO_D1,23
