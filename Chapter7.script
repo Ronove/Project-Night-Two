@@ -1123,11 +1123,11 @@ bg gakkou_02,22
 ld r,HIG_D8,22
 ; ----------------------------------------------------------------------------------------------
 ;「形ある者は、ただ在り続けるために生きているんでしょう？@　それを記録することに、価値なんてあるの…？」\
-`"Do people with form live just to continue existing?`@`Is there any value in that?"`\
+`"Don't things with life continue living just so they won't die? `@`What's the point in making a record of that...?"`\
 ld l,SHU_D1,23
 
 ;「それって、生きるために生きることが、ただ生きるための目的、ってこと？」@
-`"You mean, life's objective is just to live?"`@
+`"Do you mean to say that staying alive is the only point to life?"`@
 ld r,HIG_D10,80
 
 ;「……そうじゃないの？」\
@@ -1135,25 +1135,25 @@ ld r,HIG_D10,80
 ld l,SHU_D3,80
 
 ;「それだけじゃ、面白くないんじゃないかなぁ。」@
-`"I wonder it's just for fun...."`@
+`"I don't know, that doesn't sound very fun."`@
 ld r,HIG_D9,80
 
 ;「…………………………。」\
 `"................."`\
 ;　面白く、ない。@
-`"It's not fun.`@
+` Not fun.`@
 br
-　……………その一言は、彼女を毎日苛む、不思議な感情を、短く正確に捉えていた。\
-
+;　……………その一言は、彼女を毎日苛む、不思議な感情を、短く正確に捉えていた。\
+` ........The strange feeling that had tormented her day after day, was just summed up in two words.`\
 bg black,22
 
 ;　そうだ。@私は今日まで、生きていて楽しいと思ったことはない。@
-` Yes.`@`I never thought of living just for fun.`@
+` That's right. `@`I've never once considered living to have fun.`@
 ;　ただ死にたくないから生きてきただけだ。@
 ` I just lived because I didn't want to die.`@
 br
-　生きることで何かを得られるから生きているわけじゃない。\
-
+;　生きることで何かを得られるから生きているわけじゃない。\
+` I never thought that I could obtain something from living.`\
 bg usagi_01,22
 ;ld l,hig_D8,0
 ;ld r,shu_D4,22
@@ -1161,11 +1161,11 @@ bg usagi_01,22
 ;ld l,HIG_D10,80
 
 ;「じゃあ。@……あなたは日々、何が面白いって言うの。」\
-`"Well...`@`What do you say is fun every day?"`\
+`"Well... `@`What do you consider to be fun in life?"`\
 ld c,SHU_D3,22
 
 ;「感情だよ。@喜怒哀楽。@色んなことを日々、感じるでしょ？」@
-`"Feelings.`@`Emotions.`@`Don't you feel many of them daily?"`@
+`"Feelings. `@`Emotions. `@`We feel so many of them every day, right?"`@
 ;ld l,HIG_D9,80
 
 ;「…………………………。」\
@@ -1173,7 +1173,7 @@ ld c,SHU_D3,22
 ld c,SHU_D1,80
 
 ;「それを率直に楽しむんだよ。@それを、僕はスケッチブックに描いてるんだ。@……見て。@ほら。」@
-`"To be quite frank, I'm drawn to these feeling.`@`I put them all into my sketchbook.`@`Here,`@`look."`@
+`"Quite honestly, I enjoy them. `@`I make pictures of them in my sketchbook.`@`... Here, `@`look."`@
 br
 ;　少年はスケッチブックを捲り、過去のページのいくつかを私に見せる。\
 ` The boy flipped through some of the previous pages to show me what he had drawn in the past.`\
@@ -1183,98 +1183,99 @@ bg white,22
 bg Air_02,22
 
 ;「この日の気持ち、わかるかなぁ。」@
-`"I wonder if I can understand the feelings of those days."`@
+`"Can you tell what I was feeling on this day?"`@
 ;「…………………………。」@
 `".............."`@
 br
 ;　柔らかな線、躍動する線が、何か豊かな感情を示してる。\
-` The soft yet vivacious lines described something emotional.`\
+` The light and lively lines suggest some sort of plentiful emotion.`\
 ;「これは、とても嬉しいことがあった日の感情。@じゃあ、これはわかる？」@
-`"Something was happy on this day.`@`Do you understand this?"`@
+`"I was very happy on this day. `@`Here, what about this one, can you tell?"`@
 se1v 1010,30
 ;「…………………………。」@
 `".............."`@
 br
 ;　少し深くて、わずかに重い線。@何かの失敗か後悔を感じさせる。\
-` These lines were deep, and heavy.`@`Regret or failure or something.`\
+` These lines were thick, and somewhat heavy. `@`They gave a feeling of some sort of faliure or regret.`\
 ;「これは、友達との約束をうっかり忘れて、失敗してしまった時の感情。@じゃあ、これは？」\
-`"This is when I felt sad at forgetting an appointment with a friend.`@`And this?"`\
+`"This was when I carelessly forgot about something I promised my friend. I felt like I had failed him. `@`Here, what about this one?"`\
 se1v 1010,30
 
 bg black,22
 ;bg Different_spiral_1b,22
 
 ;　暖かさを感じさせる豊かな線が描く絵。@
-` It was a picture drawn with warm, rich lines.`@
+` There were sketches drawn with rich lines, that gave off a warm feeling.`@
 br
 ;　逆に、殺伐とした荒涼感を覚えさせる絵。@
-` On the contrary though, the picture made one remember savage thoughts and feelings.`@
+` And there were sketches that reminded her of a desolate bloodthirsty feeling.`@
 br
 ;　ほとばしる稲妻のような線が描く絵に、柔らかな春の芽吹きのような線が描く絵。\
-` The lines were drawn like an discharge of lightning, and like the soft buds of spring.`\
+` Sketches like a flash of lightning, and sketches like budding flowers on a gentle spring day.`\
 
 
 
 ;　それらは、日記としては確かに未熟だろう。@
-` They certainly weren't yet a diary.`@
+` They were awfully vague for a diary.`@
 ;　その絵だけを見て、その日に何があったのか、想像することは難しい。@
-` If you only looked at the pictures, it was still difficult to imagine what happened on those days.`@
+` It would be very hard to guess what had happened on each of these days if you were just looking at the sketches without context.`@
 br
 ;　……しかし、感情だけはわかる。@
-` ....However, the emotions behind them were understood.`@
+` ....But they did portray emotions.`@
 ;　その絵を描いた時、彼がどんな感情を持っていたか。@それを読み取ることだけは出来るのだ。\
-` 'What feelings did he have on the day he drew that picture?'`@`You could gather that from his sketches.`\
+` If there was one thing you could gather from his sketches, `@`it was what he was feeling at the time he drew them.`\
 ;bg black,22
 mld r,HIG_D9,22
 ;mld r,HIG_D1,80
 
 ;　だから。@彼のスケッチブックは、ページを捲るごとに様々な感情が、まるで玉手箱のように飛び出した。@
-` That why,`@`as he turned each page, various emotions jumped out like a Jack-in-the-Box.`@
+` So,`@` With each page you turned in his sketchbook, various emotions would jump out of it, like pandora's box.`@
+; ^^^ Note To Editor: Tamatebako - http://en.wikipedia.org/wiki/Tamatebako  Closest thing we have is pandora's box. Pascal suggested a jack-in-the-box, that could work too.
 br
 ;　それは、……私にとってあまりに斬新で新鮮な驚きだった……。\
-` It was a fresh and novel surprise for me.`\
+` It was... a new and novel wonder to me...`\
 ;　感情。@
 ` Emotions.`@
 ;　理念はわかる。@
-` I understand the notion of 'emotions'.`@
+` I understand the concept.`@
 ;　自分の状況に対する、心が示す色だ。@
-` It's the color of your heart, indicative of your situation.`@
+` It's the color your heart takes on based on what happens around you.`@
 br
 ;　色？@　……私の、ただ生きる日々に、色などあっただろうか？\
-` Color?`@`...The days I was alive had color?`\
+` Color?`@`... Do the days that I spend doing nothing more than living actually have a color?`\
 ;mld r,HIG_D10,80
 
 ;　ただ、生きるだけ。@
-` I was just living.`@
+` I'm just living.`@
 br
 ;　何も面白くない、ただ生きるためだけに生きる日々に、色など、あるわけもない。\
-` Nothing was interesting or colorful about those days I was just living for the sake of living.`\
+` My days aren't fun, I just live to keep living, I doubt they have a color at all.`\
 ;mld r,HIG_D1,80
 
 ;　しかし、このスケッチブックにはそれがある。@
-` But they were in this sketchbook.`@
+` But this sketchbook was filled with emotions.`@
 ;　愉快な感情だけじゃない。@不愉快な感情の数々さえ、それらはまるでハーモニーのよう。@
-` Not just pleasant feelings.`@`Unpleasant ones were numerous, but both seemed to exist in perfect harmony.`@
+` And not just pleasant ones. `@`There were plenty unpleasant emotions too, both of them creating a sort of harmony.`@
 br
 ;　ページを捲る度に、数々の感情が歌い出す驚きに、@……私は、ただただ、茫然とするしかなかった……。\
-` Every time he turned a page, I was stunned.`@`The many feelings seemed to just sing from the paper...`\
+` Every time he turned a page, I was stunned.`@`... Each time a slew of emotions would sing out...`\
 bg gakkou_03,0
 ld l,SHU_D1,22
 ld l,SHU_D4,80
 
 ;「彼岸花さんって、妖怪なんでしょ？@　妖怪って、日々、どんな感情で生活しているの？」@
-`"You're a monster, right Higanbana-san?`@`What feelings do monsters have day-to-day?"`@
+`"Higanbana-san, you're a youkai, right? `@`What kind of emotions do youkai feel during their lives?"`@
 mld r,HIG_D9,80
 
 ;「………………………………。」\
 `"................."`\
 ;　何も、答えることなど思いつかない。@
-`"She couldn't think of an answer.`@
+` She couldn't think of an answer.`@
 ;　ただ、生きるためだけに生きる日々。@そこに感情など存在しない。@
-` Emotions didn't exist.`@`Not in those days she lived just for the sake of living.`@
+` She just lived to live. `@`There was no emotion in that.`@
 br
 ;　だからつまり。@……自分の存在など、@このスケッチブックの前には、消しゴムのカスほどの存在価値もなかった。\
-` In other words,`@`her existence,`@`wasn't present even in the eraser dregs used for these sketches.`\
+` In other words... `@`when compared to this sketchbook, `@`her own existence wasn't even worth the eraser shavings left over from a mistake.`\
 mcl r,0
 bg black,22
 
@@ -1284,21 +1285,21 @@ bg Air_02,22
 
 
 ;　だから、私は初めて思った。@
-` So for the first time I thought.`@
+` So for the first time, I thought.`@
 ;　自分を、………不憫な存在だと思った。@
-` I thought of my own pitiful existence.`@
+` I thought... about my pitiful existence.`@
 br
-　何も口に出来ず、俯く私に、……気付けば彼は、スケッチブックを向けていた。\
-
+;　何も口に出来ず、俯く私に、……気付けば彼は、スケッチブックを向けていた。\
+` He watched me as I stood there, silently, eyes cast down... and then he started to draw.`\
 ;「…………何を……？」@
-`"....What?"`@
+`"......What are you doing...?"`@
 ;「今日。@……学校に住む妖怪と出会えたという驚きの感情を書き留めてるんだよ。@ほら。」@
-`"Today,`@`I'm drawing the feelings of having met a monster that lives in the school.`@`Look."`@
+`"I'm recording... `@`the surprise that I felt today from meeting a youkai who lives at the school. `@`Look."`@
 br
 ;　彼が、ほらと見せるスケッチブックのそこには。@
 ` There, in his sketchbook...`@
 ;　……茫然と立ち尽くす自分の姿が、新鮮な驚きに満ちた線で、描き出されていた……。\
-` my appearance was portrayed, standing motionless and surprised...`\
+` ...was me, standing still in shock, drawn with lines full of surprise...`\
 bg black,22
 bg gakkou_08,0
 ld r,SHU_D4,0
@@ -1307,11 +1308,11 @@ ld l,HIG_D10,22
 ld l,HIG_D9,80
 
 ;「…………あなた。@……何者……？」@
-`"...Who are you...?"`@
+`"......Who.`@`... are you...?"`@
 ld r,SHU_D1,80
 
 ;「ただの人間だよ。@名前は、有森秋一（ありもり　しゅういち）。」\
-`"Just a human.`@`My name is Arimori Shuuichi (有森秋一)"`\
+`"Just a human. `@`My name is Shuuichi Arimori (有森秋一)"`\
 bg white,42
 bg black,2
 
@@ -1327,24 +1328,24 @@ bg rouka_04,22
 bgm1 10
 
 ;「ギャアギャア！！@　恐ろしや恐ろしや！！@　保健室には近寄るな、近寄るな！！」@
-`"Gyagyaaaaa!!`@`The horror! The horror!`@`Keep away from the Infirmary!! Keep away!!"`@
+`"Gyagyaaaaa!! `@`The horror! The horror! `@`Keep away from the Infirmary!! Keep away!!"`@
 ;「保健室には恐ろしい妖怪が住み着いているゾ！！」@
-`"A horrible monster is living in there!!"`@
+`"A terrifying youkai is living in there!!"`@
 ;「そやつの名は、踊る彼岸花！@　残酷な残酷な妖怪だぞ！！」\
-`"The Dancing Higanbana!`@`A monster cruel beyond measure!!"`\
+`"Her name is the Dancing Higanbana! `@`A cruel youkai if there ever was one!!"`\
 bg rouka_03,22
 
 ;「ならばきっと、たっぷりの妖力を蓄えているはず！@　喰らえば、それは全て我らのものよ！！」@
-`"But then she's packed to the brim with energy!`@`If we consume her, it'll all be ours!"`@
+`"Then she must be packed to the brim with energy! `@`If we consume her, it'll all be ours!!"`@
 ;「喰わせろ、彼岸花ぁああぁあ！！@　お前の手を足を、頭を肝を心の臓を食い千切らせろぉおお！！」\
-`"We'll eat you, Higanbanaaaaa!!`@`Your head, hands, heart and liver--we'll cut them up into a thousand pieces!!"`\
+`"We'll eat you, Higanbanaaaaa!! `@`Your legs, your arms, head, heart and liver--we'll tear them to pieces!!"`\
 
 bg black,0
 ld c,HIG_D8,22
 
 
-「…………死にたくばいらっしゃい。@踊りたくばいらっしゃい。@この彼岸花、……お望みならば、好きなだけ遊んであげるわ。」\
-
+;「…………死にたくばいらっしゃい。@踊りたくばいらっしゃい。@この彼岸花、……お望みならば、好きなだけ遊んであげるわ。」\
+`"......Enter, if you wish to die. `@`Enter, if you wish to dance. `@`I, Higanbana... will grant your wish, and play with you all you want."`\
 ;ld c,HIG_D1,80
 
 se1 66
@@ -1370,9 +1371,9 @@ bg aka3,1
 quake 7,800
 
 ;　引き裂き、食い千切り。@
-` Shredding and eating..`@
+` Shred skin, devour flesh.`@
 ;　ぶちまけ、引き抜き、噛み潰す。@
-` Ripping out, throwing away and chewed up.`@
+` Spew blood, remove guts, chew remains.`@
 br
 
 se3v 36,100
@@ -1381,9 +1382,9 @@ bg blood_1aR,1
 quakex 2,300
 
 ;　壁にはべっとりと、怨嗟の内臓をぶちまけた妖怪たちの骸がはりつき、どろどろの血を滴らせる。@
-` The corpses of the monsters who had ripped out guts lay slumped against the wall, in a pool of blood.`@
+` The lifeless, begrudging bodies of the youkai splattered against the wall, their entrails torn out and blood trickling from them.`@
 ;　まだ死にきれない、臓物を噴き出した妖怪たちが、苦悶に呻き、彼岸花を呪う……。\
-` They were not fully dead yet, and cursed Higanbana while still spewing entrails...`\
+` Though disemboweled, they were not fully dead yet, and they cursed Higanbana with their last anguished moans...`\
 bg black,22
 
 me1v 16,50
@@ -1391,11 +1392,12 @@ me1v 16,50
 bg hoken_04,22
 
 ;　人ならざる者たちにとって、……保健室は、異形の屍で埋め尽くされていた。@
-` The Infirmary walls were plastered with the organs of those who were not human.`@
+` As an inhuman being would see it... the infirmary was filled with grotesque corpses.`@
 br
-　その、内臓と血しぶきのべっとりとした部屋の中でも、……彼岸花にそれが赤く見えることはない。@
+;　その、内臓と血しぶきのべっとりとした部屋の中でも、……彼岸花にそれが赤く見えることはない。@
+` But even this room splattered with blood and innards... didn't look red to Higanbana.`@
 ;　ただ、退屈で荒涼とした、灰色に見えるだけだった。\
-` It was just bleak, boring and looked gray.`\
+` It looked like nothing more than a dull and boring grey.`\
 mbg black,22
 
 fede 1,1000
@@ -1404,11 +1406,12 @@ E_B
 mbg hoken_05,22
 
 ;　……それでも、それを退屈なことだと認識できただけ、彼岸花は少し変わったのかもしれない。@
-` ...But, just because she was able to see it as boring, Higanbana might have changed a little.`@
+` ...Still, maybe the fact that she was able to realize that she was bored meant that she had changed a little.`@
 br
-　苔やカビは、自分の日々を退屈だなどと思いもしないはず。@
+;　苔やカビは、自分の日々を退屈だなどと思いもしないはず。@
+` Things like moss and mold aren't aware of boredom.`@
 ;　それを認識できたということは、彼岸花がそれらとは異なる存在に成長したことを示すのだから。\
-` The fact that she recognized this was indicative that she was growing differently.`\
+` So because she is aware of the tedium of her life, that indicates that Higanbana has grown beyond that sort of existence.`\
 mbg black,22
 mcbg 22
 ld c,HIG_D8,2
@@ -1416,27 +1419,27 @@ ld c,HIG_D8,2
 ;「…………………………………。」@
 `".................."`@
 br
-　全身に浴びた、魑魅魍魎たちの返り血は、しばらくの間、雑魚どもの群を遠ざけてくれるだろう。\
-
+;　全身に浴びた、魑魅魍魎たちの返り血は、しばらくの間、雑魚どもの群を遠ざけてくれるだろう。\
+` Having just covered herself in the blood of evil river and mountain spirits, the rest of the groups of small fry would probably leave her alone for a while.`\
 cl c,22
 bg black,22
 bg okujou_01u,22
 ld c,HIG_D9,22
 
 ;　彼岸花はふわりと屋上へ上がり、眼下を探す。@
-` Higanbana gently rose from the rooftop and looked below.`@
+` Higanbana gracefully ascended to the rooftop and scanned the ground below.`@
 br
 ;　そして秋一の姿を見つけ、ふわりと飛び降りる。\
-` And, seeing Shuuichi's figure, she jumped gracefully down.`\
+` Seeing Shuuichi's figure, she jumped gently down.`\
 bg black,22
 
 bg gakkou_02,22
 
 ;　……秋一の魂を、魅力的だとは思っていない。@
-` She didn't think that Shuuichi's soul was particularly attractive.`@
+` ...She didn't find Shuuichi's soul that appealing.`@
 br
 ;　しかし、彼のスケッチブックと、そこに描かれている何かは、@………自分に、何かを教えてくれるような予感をさせるのだ。\
-` But she felt that the contents of his sketchbook,`@`...could teach her something.`\
+` But she had a feeling that there was something drawn within that sketchbook of his... `@`that could teach her something.`\
 bg black,22
 
 fede 0,1000
@@ -1447,42 +1450,43 @@ bg gakkou_03,22
 bgm1 14
 
 ;　その日も、秋一は何人かの男子生徒達に殴られていた。@
-` And that day, Shuuichi had been beaten by a group of people.`@
+` That day, Shuuichi had been beaten by a group of male students.`@
 br
 ;　秋一は無抵抗主義らしく、彼らは秋一をサンドバッグと呼んで、連日、好き放題にしていく。\
-` Shuuichi was passive, and the others continually called him a punching bag.`\
+` Because of Shuuichi's pacifist tendencies, they would call him a punching bag, and slam their fists into him day after day.`\
 
 ld r,HIG_D9,22
 
 ;「………今日も随分やられたわね。」@
-`"You were hit quite a bit today, huh?"`@
+`"....You were hit quite a bit today, huh?"`@
 br
 ;　声を掛けると、地面にうつぶせに倒れていた秋一が、ゆっくりと顔を上げる。\
-` When she called out, Shuuichi, with his face buried in the ground, looked up slowly.`\
+` She called out to Shuuichi as he lay prone with his face in the ground, and he looked up slowly.`\
 ld l,SHU_D5,6
 ld l,SHU_D4,80
 
 ;「あぁ、彼岸花さん。@こんにちは。」@
-`"Ah...Higanbana-san.`@`Hello."`@
+`"Ah, Higanbana-san. `@`Hello."`@
 br
 ;　たった今、酷いいじめを受けていたはずなのに、けろりとした様子で挨拶する。\
-` Even though he was just beaten, he managed a nonchalant greeting.`\
+` Even though he was just received an awful beating, he greeted her nonchalantly.`\
 ;　もちろん、悔しい感情はあるだろう。@
-` Of course, there were some regrettable feelings.`@
+` Of course, he did feel frustrated about having been bullied.`@
 ;　しかし、その感情の揺らめきさえも、彼には今日という日を生きた証。@
-` However, even that little flicker of emotion was proof that he was living today too.`@
+` However, even that little flicker of emotion was still proof that he survived the day.`@
 br
+;----------------------------------------------------------------------------------------------------
 ;　いつものように、大事に抱えていじめっこたちから守っていたスケッチブックを開き、@その感情を描き始める。\
-` As usual, he opened the sketchbook he had defended from the bullies,`@`and began recording these feelings.`\
+` As usual, he opened his precious sketchbook that he had kept safe from the bullies, `@`and began recording his feelings.`\
 ;　理不尽ないじめに対する胸中を現すように、その絵は悲壮感に満ちている。@
-` To express his unreasonable bullying, this picture was filled with tragic emotions.`@
+` In order to express the emotions he had from dealing with such unreasonable bullying, this picture was filled with a sense of despair.`@
 br
 ;　決して、幸せな経験ではない。\
-` It was never a happy experience.`\
+` It was by no means a happy experience for him.`\
 ;　しかし彼は、そのようなことすらも、@いくつもの感情を描いたこのスケッチブックの中に混じってしまえば、@色とりどりの万華鏡のように見えるという……。\
-` But when he did this,`@`a number of various emotions were inscribed in his sketchbook,`@`so that the whole experience was a kaleidoscope of color...`\
+` But he did this for every emotion he felt, `@`so that if you were to mix the pages of the sketchbook together, `@`it would look like a multicolored kaleidoscope...`\
 ;　その精神的なしぶとさに、彼岸花は尊敬と呆れの入り混じった感情を覚え、肩を竦めるのだった。\
-` Higanbana shrugged her shoulders, with mingled amazement and respect for his spiritual tenacity.`\
+` Higanbana shrugged her shoulders, with both a sense of amazement and respect for his mental and emotional tenacity.`\
 textoff
 fede 0,1000
 E_A
@@ -1490,90 +1494,92 @@ E_A
 ld l,SHU_D1,80
 
 ;「彼岸花さんは、今日はどういう日だったの。」\
-`"Higanbana-san, what was today like for you?"`\
+`"How was your day today, Higanbana-san?"`\
 ld r,HIG_D8,80
 
 ;「……今日も、性質の悪い雑魚妖怪どもの群に襲われたわ。@……噛まれたり、引っ掛かれたり、呪われたり嘲笑われたり。@……楽しいことなんて一つもないわよ。」\
-`"...Today I was attacked by a group of nasty small-fry monsters.`@`...I was bitten, trapped and cursed.`@`...Nothing fun at all."`\
+`"...Like usual, I was attacked by a swarm of ill-tempered small-fry youkai.`@`... I was bitten, hindered and cursed.`@`... Not one fun thing happened at all today."`\
 ld l,SHU_D4,80
 
 bgm1 33
 
 ;「あはは。@今日も随分やられたのは、僕だけじゃないみたいだね。」\
-`"Ahaha.`@`I seems I wasn't the only one who had a rough time today."`\
+`"Ahaha. `@`It seems like I wasn't the only one who had a rough time today."`\
 ;　秋一は笑う。@
-`"Shuuichi laughed.`@
+` Shuuichi smiled.`@
 br
-　どんな死闘を潜り抜けたのか、知りもしないくせに、……という気持ちもあるが。@
+;　どんな死闘を潜り抜けたのか、知りもしないくせに、……という気持ちもあるが。@
+` He smiled even though he didn't know how close to death she could have been... which she was a bit annoyed at.`@
 ;　自分が今日一日を生き抜けたことを、笑いの感情で祝福してくれたことが、また新鮮だった。\
-` Surviving the day and having these blessings and feelings of laughter a still fresh.`\
+` But, it was also refreshing to have news of her survival be met with a smile.`\
 ld r,HIG_D9,80
 
 ;　……そうか。@生き抜けたことは、……笑うべきことなのか。\
-` ...That's right.`@`Surviving is something that be laughed at.`\
+` ...I see. `@`So surviving... is something to smile about.`\
 bg black,22
 bg Air_01,22
 
 ;「そうだね。@生きるってことはそれだけで、笑うべきことなのかもしれないよ。」@
-`"Yes.`@`Living in itself is worthy of laughter."`@
+`"That's right. `@`Just being alive may be reason enough to smile."`@
 ;「………………………。」\
 `"............."`\
-「だって。@……貧しい国では、食べる物もなくて。@飢えで死んでいる人たちが、地球上には何人もいるはず。@そんな中で僕は、今日も家族と笑顔で挨拶して、おいしく給食を食べて、@ここでのんびりとお喋りを楽しんでるんだ。@それってすごく幸せで、笑顔になってもいいことなんじゃないかなぁ。」@
+;「だって。@……貧しい国では、食べる物もなくて。@飢えで死んでいる人たちが、地球上には何人もいるはず。@そんな中で僕は、今日も家族と笑顔で挨拶して、おいしく給食を食べて、@ここでのんびりとお喋りを楽しんでるんだ。@それってすごく幸せで、笑顔になってもいいことなんじゃないかなぁ。」@
+`"After all.`@`... there are people all over the world, `@`living in poor countries with no food, `@`and dying of starvation. `@`I had the privilege of saying good morning to my family with a smile, and eating delicious lunch food, `@`and have nice chat with you today. `@`I'm really happy about all that stuff, so that should be more than enough reason to smile."`@
 ;「………………………。」\
 `"............."`\
 bg black,22
 
 ;　同意したい気持ちはない。@
-` There was no feeling of wanting to agree.`@
+` She didn't want to agree with him.`@
 br
 ;　しかし、ただ生きるだけの昨日と同じ今日に、@秋一は何かを見て、感情を揺らめかせ、それを楽しんで生きている。@……それが、率直に羨ましかった。\
-` But today, just like the yesterday he had lived,`@`Shuuchi would look at something, be jolted by emotions, and enjoy life.`@`...She was quite frankly envious of that.`\
+` But yesterday and today, just by being alive, `@`Shuuichi was able to enjoy finding something to stir up emotions within him.`@`... and quite frankly, she was envious.`\
 bg gakkou_03,22
 ld r,SHU_D2,24
 ld r,SHU_D1,80
 
 
 ;「彼岸花さんには、ないの？@　……何か、嬉しいとか悲しいとか。@あるいは悔しいとか怒ったとか、そういう感情。」@
-`"You don't, Higanbana-san?`@`..No feelings of happiness or sadness?`@`Nor of regret or anger?"`@
+`"Do you not have any of those feelings, Higanbana?`@`... Like happiness or sadness?`@`Frustration or anger?"`@
 ld l,HIG_D10,23
 ;ld l,HIG_D1,80
 
 ;「………………そういう、……感情。」\
-`".......That kind of feeling..."`\
+`".......Feelings... like those."`\
 ;　その日、彼岸花はようやく理解した。@
 ` That day, Higanbana finally understood.`@
 ;　自分には、感情というものがないのだ。@
 ` She herself had no capacity for emotion.`@ 
 br
 ;　だから、………日々が何も揺らめかない。@
-` That's why she was never jolted by anything day-to-day.`@
+` That's was why... she never felt them.`@
 ;　昨日と同じ今日になる。@今日と同じ明日になる。@それが全て同じ灰色になってしまう。\
-` Yesterday was like today.`@`Today would be like tomorrow.`@`Everything would be the same, bland ashen color.`\
+` Yesterday was like today. `@`Today would be like tomorrow. `@`Everything is the exact same shade of gray.`\
 
 bg Air_01,2
 
 ;　彼の言う、感情を理解したら、………私の毎日も、彩りを帯びるだろうか。@
-` Now that she understood the feelings he talked about, she wondered if her days would take on a bit more color.`@
+` If I could just understand the emotions he mentioned..... maybe I can bring a new color into my everyday life.`@
 br
 ;　彼が見ている、スケッチブックの世界のような何かを、……私にも見ることが出来るだろうか。\
-` I wonder if I could see things like he portrayed in that world of his sketchbook.`\
+` I wonder if I might be able to see things... like the way he sees the world in his sketchbook.`\
 bg black,0
 ld c,HIG_D9,2
 
 ;「感情。@…………………………。」@
-`"Feelings.`@`.........."`@
+`"Emotions.`@`.........."`@
 br
 ;　私にはそれが、欠けている。@
 ` I lacked those.`@
 ;　幾千の妖怪を喰らい、魂を呑み込もうとも。@……それがなければ、自分は人形でしかないのだ。\
-` It was a good idea to eat thousands of monsters.`@`....If I didn't I was nothing by a doll.`\
+` Even though I've devoured thousands of youkai and swallowed their souls.`@`... Without all that, I would just be a doll.`\
 ;ld c,HIG_D1,80
 
 ;　私は彼岸花だ。@彼岸花という、意思。@
-` I am Higanbana.`@`An intention called Higanbana.`@
+` I am Higanbana. `@`A concept called Higanbana.`@
 br
 ;　意思とは、……感情から生まれる？\
-` Is intention born from emotion?`\
+` Can a concept... have emotions?`\
 bg Air_01,0
 ld c,HIG_D9,2
 
@@ -1581,11 +1587,11 @@ ld c,HIG_D9,2
 ` I finally understood.`@
 br
 ;　私はまだ、妖怪でさえない。@
-` Still, I'm not even a monster.`@
+` I'm not yet a youkai.`@
 ;　ただ魂を喰らうだけの、西洋人形。@
 ` I'm just a western doll that eats souls.`@
 ;　感情を得て私は初めて、私たりえるのだ。\
-` For the first time I felt I had a feeling.`\
+` Once I'm able to feel emotions, that will be when I'll truly become my youkai self.`\
 bg black,2
 
 fede 0,2000
@@ -1609,7 +1615,7 @@ quakey 3,300
 bgm1 23
 
 ;「おっとォ。@………おかしなところで出くわしたなァ。@踊る彼岸花ァ！」@
-`"Ah...`@`You seem to have some across a strange place,`@`Higanbana!"`@
+`"Ah.`@`.... What a strange place to find you. `@`Dancing Higanbana!"`@
 ;＜イザナミ
 
 ld r,HIG_D9a,22
@@ -1617,55 +1623,56 @@ ld r,HIG_D9a,22
 ;「……………………………。」\
 `"............."`\
 ;　運がなかった。@
-` There was no such luck.`@
+` How unlucky.`@
 br
-　彼岸花の姿を求めて回遊する、雑魚妖怪どもの群を嫌って、おかしな廊下に身を潜めていたら、@そこには先客がいたのだ。\
-
+;　彼岸花の姿を求めて回遊する、雑魚妖怪どもの群を嫌って、おかしな廊下に身を潜めていたら、@そこには先客がいたのだ。\
+` As Higanbana wandered down an odd hallway trying to hide from the swarms of smaller youkai that sought her out, `@`she happened across another youkai.`\
 bg black,22
 
 ;　死神、イザナミ。@
 ` The Shinigami, Izanami.`@
 ;　好戦的な性格で大量の妖力を蓄える、大妖怪だ。@
-` He was a large, aggressive monster that amassed large amounts of spirit energy.`@
+` He was a aggressive greater-youkai that had massive amounts of spirit energy.`@
 br
 ;　かつては実力も伯仲し、互いに戦いを避け合う関係だった。\
-` In the past, she had been nearly equal to him, and the two had a relationship of mutual combat.`\
+` The two of them had once had approximately equal levels of strength, and thus they avoided fighting each other.`\
 mcl l,0
 ld c,IZA_D2,3
 
 ;　しかし、最近は違う。@
-` However, it had been different recently.`@
+` But things have changed recently.`@
 br
 ;　感情などというあやふやなものを求め、積極的な狩りをしない自分と、@……ますますに好戦的な狩りを繰り返すイザナミとでは、もう格が違う。\
-` Since she had started to have these dubious 'feelings' and resolved to avoid hunting,`@`she was no longer in the same league as him.`\
+` Since she had started this vague search for emotions, and stopped actively hunting... `@`Izanami had started aggressively pursuing hunts more and more often, causing a rift between their once equal footing. `\
 bg black,22
 bg rouka_03,0
 ld c,HIG_D9,23
 
 ;「………何よ。@…………やる気……？」@
-`"....What...`@`is this motivation?"`@
+`"....What.`@`....... Do you want to fight....?"`@
 br
 ;　だからといって、怯えを見せれば、即、喰われる……。@
-` While it may be true that if I showed fear I'd be eaten immediately...`@
+` If she showed fear, she would be eaten immediately....`@
 ;　妖力が劣ることを悟らせるわけにはいかない。@……今でも実力が伯仲しているよう、装わねばならない。\
-` I couldn't afford to show that my strength was inferior.`@`...Even now, I had to appear as if my strength was equal.`\
+` She couldn't afford to show him that her power was inferior.`@`... she had to pretend that they were still on the same footing.`\
 ;ld c,HIG_D1,80
 
-　自分の妖力が染みついた、巣とも呼べる保健室でなら、何とか追い返すことも出来るだろう。@
+;　自分の妖力が染みついた、巣とも呼べる保健室でなら、何とか追い返すことも出来るだろう。@
+` If she was in the infirmary, her nest that was ingrained with her own spiritual energy, then she could probably manage to drive him away.`@
 br
 ;　しかし、こんな冷え切った廊下では無理だ。@
-` But in a cold corridor like this, that was impossible.`@
+` But in this frigid corridor, that would be impossible.`@
 ;　保健室へ逃げ込む前に、食い千切られてしまう。\
-` Before escaping the Infirmary, I'd be cut to shreds by thousands of monsters.`@
+` She'd be torn to pieces before she could escape back to the infirmary.`@
 ld c,HIG_D8,80
 
 me1v 16,50
-
+; -----------------------------------------------------------------------------------------
 ;　……踊る彼岸花と呼ばれるようになって、だいぶ久しく、………彼岸花は死を覚悟する。@
-` ...In reaching the point where she could be called The Dancing Higanbana, she was prepared for death for a long time.`@
+` ...For the first time since she had starting being called the Dancing Higanbana.... Higanbana prepared herself for death.`@
 br
-　ぞくりとした感触の滴りが、胸の内側をゆっくりと垂れ落ちるのを感じた。\
-
+;　ぞくりとした感触の滴りが、胸の内側をゆっくりと垂れ落ちるのを感じた。\
+` She felt a slow dropping sensation within her chest.`\
 
 ld c,HIG_D10,22
 
@@ -1679,81 +1686,81 @@ ld c,IZA_D5,80
 me2v 28,70
 
 ;「お前とはそろそろ決着をつけてもいい頃だと思ってたぜェ。@……どうする？@　今、ここでやっちまってもいいんだぜ……？」\
-`"I thought it might be time that we put an end to you.`@`...How about it?`@`Shall we do it now?"`\
+`"I was thinking it's about time we settled things between us.`@`... How about it?`@` Shall we do it right here, right now...?"`\
 ;　イザナミは校内では最強クラスの大妖怪だ。@その頂点を「校長先生」と争っている。@
-` Izanami was a monster from the strongest class in the school.`@`He was fighting for the top with the Principal.`@
+` Izanami is one of the strongest greater-youkai in all the school. `@`He was currently contending for the top position of 'Headmaster'.`@
 br
 ;　彼が校長を超える妖力を蓄えようとしたら。@………自分のような、喰らい応えのある獲物を狙うのが手っ取り早い。\
-` If he was trying to surpass the Principal in strength,`@`that he had to quickly target monsters that hunted like himself.`\
+` If he was trying to amass enough spiritual power to contend for the spot of headmaster...... `@`then he would be quick to target filling prey such as herself.`\
 ;　イザナミの性格から考えて、@………少しでも隙を見せれば、今この場で戦わざるを得なくなるだろう。@
-` Thinking of Izanami's personality,`@`...if he were shown the smallest of opportunities, he would try and force a fight.`@
+` Given Izanami's personality..... `@`if she let him notice even the slightest chink in her armor, there's no doubt that he would start a fight right here, right now.`@
 br
 ;　………それは、……避けたい。\
-` ....I wanted to avoid that.`\
+` ....I would like to... avoid that.`\
 ;　イザナミと戦えば、十中八九は殺されるだろう。@
-` If I fought with Izanami, I would be killed nine times out of ten.`@
+` If I were to enter a fight with Izanami, there's a ten to one probability that I'd be killed.`@
 ;　奇跡的に勝てたとしても、満身創痍。@
 ` Even if by some miracle I were to win, I'd be gravely wounded in the process.`@
 br
 ;　そんな弱り切った彼岸花という美味しい獲物を、雑魚妖怪どもが見逃すわけもない。\
-` There is no chance that the small fry monsters would overlook a delicious prey of crippled Higanbana.`\
+` A severely weakened Higanbana would be too delectable a snack for those small-fry youkai to pass up.`\
 bg black,22
 
 ;　勝っても負けても。@……生き残れる可能性はない。@
-` Win or lose,`@`there's no way that I would survive.`@
+` Whether I win or lose.... `@`neither leaves any possibility of survival.`@
 ;　死の予感に、……心が震えるのを覚える。@
-` I remember my heart trembling at the thought of death.`@
+` My heart trembled... at the foreboding of death.`@
 br
 ;　死にたいわけもない。@
-` I didn't want to die.`@
+` I don't want to die.`@
 ;　死を怯えるのは、生きる者に課せられた唯一の義務だ。\
-` Fear of death was an obligation imposed only on those who are alive.`\
+` Fear of death is the one thing that all living beings must feel.`\
 me3v 17,70
 
 mono 2
 bg Different_spiral_1b,22
 
 ;　心臓が早鐘のように鳴る。@心の中でぐるぐると、冷たいスープが渦を巻く。@
-` My heart was pounding like an alarm bell.`@`And the blood felt like it was swirling around like a cold soup.`@
+` My heart was pounding like an alarm bell. `@`And the blood felt like it was swirling around like a cold soup.`@
 br
 ;　これほど冷たく凍った汗を浮かべるのは、これが初めての経験だった。\
-` This was the first time I felt so cold that my sweat had frozen.`\
+` This was the first time I that I had ever broken into a sweat this cold.`\
 ;　自分には幸運なことに、これまで力があった。@
-` Fortunately, I still had some strength left.`@
+` I was luckily enough to have been the stronger one in my fights up until this point.`@
 ;　だから、どれほどの死闘であろうとも、……死を予感することはなかったのだ。@
-` So, even if I were to struggle, I couldn't foresee death.`@
+` So having never faced a life-or-death situation this bad before... I've never felt this apprehension from being on the verge of death.`@
 br
 ;　そして今日、……初めてそれを知る。\
-` And today, for the first time I understood that.`\
+` And today... for the first time, I understood.`\
 ;　私に引き裂かれる瞬間に、雑魚どもが浮かべる、……あの表情。@
-` In the moment I was torn by the monsters, that expression....`@
+` I understood the facial expression that the smaller youkai made... the moment I tore them to pieces.`@
 br
 ;　わずかでも気を許せば、それは私の顔にも浮かぶに違いない。\
-` Even yielding my spirit in the slightest, that must have shown up on my face.`\
+` If I let down my guard even the slitest bit, I'm sure my face would show that very same expression.`\
 ld c,HIG_D9a,22
 
 ;　生きたい。@
-` That I wanted to live.`@
+` I want to live.`@
 ;　死にたくない。@
-` That I didn't want to die.`@
+` I don't want to die.`@
 ;　そのための努力。@
-` The effort I had put in for that sake.`@
+` Isn't there some way I can avoid death?`@
 ;　何かないか、何かないか。@
 ` Something, anything.`@
 br
 ;　気を許せば死ぬ。@何かを誤れば死ぬ。\
-` If I yielded my spirit I would die.`@`If I made a mistake I would die.`\
+` If I let my guard down, I will die. `@`If I make a mistake, I will die.`\
 ld c,HIG_D9,80
 
 ;　なぜ死にたくない？@　生きたいから。@
-` Why do I not want to die?`@`Because I want to live.`@
+` Why do I not want to die? `@`Because I want to live.`@
 ;　なぜ生きたい？@
 ` Why do I want to live?`@
 br
 ;　……わからない。@
-` ....I don't know the answer to that question.`@
+` ....I don't know.`@
 ;　でも、それを秋一が教えてくれそうな気がするのだ。\
-` But I would make Shuuichi teach me.`\
+` But, I feel like Shuuichi would be able to teach me that.`\
 
 bg white,1
 mono 0
@@ -1761,16 +1768,16 @@ bg rouka_03,0
 ld c,HIG_D10,22
 
 ;　この場をやり過ごせば、生き延びることが出来る。@また秋一に会うことが出来る。@
-` If I grasped this opportunity, I could survive.`@`I could meet Shuuichi again.`@
+` If I give it my all, I can survive. `@`I can meet with Shuuichi again.`@
 br
 
 se1 66
 
 ;　ごとりと。@
-` With a clang,`@
+` I heard a thud.`@
 ;　心の中の、重い重い石臼が、初めて音を立てて回ったのを聞いた。\
-` The millstone of my heart made its first sound.`\ 
-
+` It was the sound of the heavy gears in my heart begining to rotate for the first time.`\ 
+; ------------------------------------------------------------------------------------------------
 se2 84
 ld c,HIG_D5,80
 wait 1000
@@ -1787,14 +1794,14 @@ bg gakkou_02,22
 bgm1 4
 
 ;「それで、無事に逃げ切ることが出来たの？」@
-`"So were you able to get away safely?"`@
+`"So did you get away safely?"`@
 ;「出来なかったら、私はここにいないわ。」@
-`"If I didn't, would I still be here?"`@
+`"If I didn't, would I be here telling you about it?"`@
 ;「あはは、それもそうだね。」@
-`"Ahaha...stupid question."`@
+`"Ahaha... stupid question."`@
 br
 ;　秋一は、命懸けだった今日一日を軽く笑って聞き、スケッチブックに鉛筆を走らせていた。\
-` Shuuichi laughed lightly at my episode, and ran a pencil over his sketchbook.`\
+` Shuuichi laughed lightly at my near-death experience, and continue to draw in his sketchbook.`\
 bg black,22
 bg gakkou_03,0
 ld r,SHU_D4,0
@@ -1803,15 +1810,15 @@ ld l,HIG_D8,22
 ld r,SHU_D1,80
 
 ;「それで？@　今はどんな気持ちなの？」@
-`"And?`@`What kind of feelings do you have today?"`@
+`"And? `@`How do you feel right now?"`@
 ld l,HIG_D10,80
 
 ;「…………気持ちって？」\
-`".......Feelings?"`\
+`".......Feel?"`\
 ld r,SHU_D4,80
 
 ;「無事に大妖怪から逃れることが出来た、今の彼岸花さんの気持ち。」@
-`"The feelings of having escaped from a large monster--what are they?"`@
+`"You were able to get away from great youkai unharmed today, how do you feel about that, Higanbana?"`@
 
 ld l,HIG_D9a,80
 
@@ -1820,41 +1827,41 @@ ld l,HIG_D9a,80
 ld r,SHU_D1,80
 
 ;「殺されるって思ったんでしょ？@　策がうまくいって、何とかやり過ごせたんでしょ？@　その時は、どんな感情だったの？」\
-`"You thought you were going to be killed.`@`But you made a plan and carried it out easily right?`@`What feelings did you have then?"`\
+`"You thought you were going to be killed, right? `@`You made a plan and gave it your all, and it went well, right? `@`How did you feel then?"`\
 bg black,22
 mono 1
 bg rouka_02,0
 ld c,IZA_D8,22
 
 ;　………イザナミに出くわした時。@……死を覚悟した。@
-` .....When I encountered Izanami, I was prepared for death.`@
+` .....When I encountered Izanami.... `@`I prepared myself for death.`@
 br
 ;　その時の心の中の、どきどきやばくばくは、感情と呼んでもいいのだろうか。\
-` I suppose it was alright then that at the time, my heart had been pounding such that if felt as if it were going to explode.`\
+` I wonder if it would be right to call the thumping and pounding in my heart at that time an emotion.`\
 bg black,0
 mono 0
 bg white,23
 bg hoken_01,23
 quakex 1,100
 
-　そして命辛々、逃げ延びて。@ようやく保健室に逃げ込んだ時の、あの安堵の深い深いため息は、@感情と呼んでもいいのだろうか。\
-
+;　そして命辛々、逃げ延びて。@ようやく保健室に逃げ込んだ時の、あの安堵の深い深いため息は、@感情と呼んでもいいのだろうか。\
+` And after I narrowly escaped with my life. `@`And when I finally made it back to the infirmary, I took a deep, deep sigh of relief. `@`Would that be considered an emotion?"`\
 bg black,22
 
 ;「………わからない、………けれど……。」@
-`".......I don't understand....but..."`@
+`".....I don't.... really know..."`@
 br
 ;　今日という一日が、……昨日までの淡白な灰色の一日とはまったく違う色に感じたのは確かだ。@
-` On today, the first day of the month, the color was certainly different from the nondescript gray I had felt before.`@
+` Today... I'm sure that I felt a different color today than the same old gray that I've been seeing for so long.`@
 ;　灰色なのは同じだけど、………昨日までのは、ぼんやりと曇った灰色。\
-` It was still grey....but until yesterday, it had been a cloudy, hazy sort of gray.`\
+` It was still a shade of gray.... but up until yesterday it was a boring and cloudy gray.`\
 bg gakkou_02,22
 
 ;　今日のは違う。@触れたら裂けてしまいそうな、@……カミソリの刃を思わせるような、鋭利な銀色のような……。@
-` Today was different.`@`It was a gray that split on making contact with it.`@`It was a gray reminiscent of the sharp silver of a razor blade...`\
+` Today it was different. `@`Like a sharp silver... like a razor blade. `@`So sharp that if you touched it, it would slice your fingers open...`\
 br
 ;　じゃあそれは灰色じゃない。@銀色だ。\
-` Yes, it wasn't grey,`@`it was silver.`\
+` That's it, it wasn't gray. `@`It was silver.`\
 bg black,22
 bg gakkou_03,0
 ld r,HIG_D9,22
@@ -1865,15 +1872,15 @@ ld l,SHU_D2,23
 ld l,SHU_D1,80
 
 ;「危なかったーという気持ちとか。@助かったーという気持ちとか。@……そういうものを、彼岸花さんは、もっともっと楽しんでいいと思うんだ。」@
-`"Feelings of danger?`@`Or feelings of being saved?`@`...I think it would be good if you were to experience emotions like that, Higanbana-san."`@
+`"Like, 'oh wow, that was dangerous', `@`or 'I'm glad I got out of there alright'.`@`... I think it'd be nice if you could enjoys those feelings much more."`@
 ld r,HIG_D10,80
 
 ;「………あの危機を、……楽しむ。」\
-`"...Enjoying crises?"`\
+`"....Enjoying... the feeling of danger?"`\
 ld l,SHU_D3,80
 
 ;「ちょっと違うかな。@無事に今があることを楽しむというべきか……。@彼岸花さんだって、きっと理解しかけてるはずなんだよ。@その証拠に、…………ほら。」\
-`"Not quite.`@`I mean enjoying it now that you're safe....`@`Even Higanbana-san can understand that.`@`Here, this is proof of that...."`\
+`"No, not quite. `@`More like enjoying that you made it out safely.... `@`I'm sure that you're beginning to understand that feeling. `@`And this is proof of that...... Here, look."`\
 se1v 1010,50
 
 bg white,22
@@ -1886,18 +1893,18 @@ bg white,22
 bg black,22
 
 ;　秋一は、たった今、描いていたものをこちらに向ける。@
-` Shuuichi turned what he had been sketching to face me.`@
+` Shuuichi turned his sketchbook around to show her what he had just been sketching.`@
 br
 ;　そこに描かれているのは、……なんと、彼岸花の顔、だった。\
-` He had been sketching Higanbana's face.`\
+` There on the page... was Higanbana's face.`\
 ;「………………私……？」@
-`"......Me?"`@
+`"......Me...?"`@
 ;「うん。@……今日の彼岸花さんは、いつもと違う表情を感じるよ。」\
-`"Yep.`@`...The Higanbana of today I fee has a different expression from usual."`\
+`"Yep.`@`... I think that your expression is different from usual today, Higanbana-san."`\
 ;「それは、………どんな。」@
-`"What's that?"`@
+`"How... so?"`@
 ;「笑ってると思う。」\
-`"You're laughing."`\
+`"I think you're smiling."`\
 csp2 -1
 print 0
 bg black,22
@@ -1905,14 +1912,14 @@ bg gakkou_03,0
 ld c,HIG_D9,22
 
 ;「……笑……う……？」@
-`"....Laughing?"`@
+`"....smile... ing...?"`@
 br
 ;　笑っているつもりなどなかった。@
-` She hadn't intended to laugh or anything.`@
+` She didn't think that she had been smiling.`@
 ;　しかし、秋一の描いたスケッチブックの中では、確かに彼岸花は笑っていた。\
-` But in Shuuichi's sketchbook, she was definitely shown as laughing.`\
-「大妖怪をうまく騙して。@まんまと逃げ延びたことに、彼岸花さんは嬉しかったという気持ちを感じてるはず。@そして、危機を無事に乗り越え、今日という日をいつものように過ごせることに、安堵を覚えているはず。@……そんな気持ちが自然と、彼岸花さんを、いつもより生気のある表情にしているんだと思うよ。」\
-
+` But in the picture Shuuichi drew of her in his sketchbook, she was definitely shown smiling.`\
+;「大妖怪をうまく騙して。@まんまと逃げ延びたことに、彼岸花さんは嬉しかったという気持ちを感じてるはず。@そして、危機を無事に乗り越え、今日という日をいつものように過ごせることに、安堵を覚えているはず。@……そんな気持ちが自然と、彼岸花さんを、いつもより生気のある表情にしているんだと思うよ。」\
+`"You succesfully outsmarted a great youkai, `@`and managed to get away, so you must have been happy about that. `@`And you must be relieved about averting a crisis and being able to go about your day normally.`@`... I think that those feelings are naturally giving you a much more lively expression than usual."`\
 ld c,HIG_D10,80
 
 ;「……………………………。」\
@@ -1920,16 +1927,16 @@ ld c,HIG_D10,80
 ld r,SHU_D4,24
 
 ;「良かったね。@無事に今日が過ごせて。@苦難を乗り越えて辿り着いた、今日の夕焼けはどう見える？」\
-`"That's good.`@`How does the sunset look today,`@`after you overcame hardship and returned safely?"`\
+`"Isn't that great? `@`You were able to make it to the end of today safely. `@`Now that you've overcome hardships, how does the sunset of the day you survived look right now?"`\
 cl c,0
 ld l,HIG_D9,24
 
 ;「……………いつもと同じだと思うわ。」\
-`"....It looks the same as always, I think."`\
+`"......It looks the same as always, I think."`\
 ld r,SHU_D1,80
 
 ;「そんなことないよ。@もっとよく見て。@昨日よりもずっと、鮮やかな夕焼け色をしているはずだよ。」@
-`"No way.`@`Look a little harder.`@`The colors are so much more vibrant than yesterday."`@
+`"No way. `@`Try looking harder. `@`I'm sure that the colors of this sunset look much more vibrant than yesterday's."`@
 ld l,HIG_D10,80
 
 ;「……………………………。」\
@@ -1945,19 +1952,19 @@ wait 1000
 ;　秋一の、言う通りだ。@
 ` It was as Shuiichi said.`@
 ;　今日の夕焼けは、これまでに一度も見たことのない、鮮やかな色をしていた。@
-` Today's sunset shone with a brilliance she had not seen even once until now.`@
+` The colors of this sunset were more vibrant than I've ever seen before.`@
 br
 ;　それを認めた時。@……私は心の中に不思議な感触を覚えた。\
-` When I admitted that,`@`I felt a strange feeling in my heart.`\
+` Once I admitted that.... `@`I felt a strange sensation in my heart.`\
 ;　もし、心というものに容積があるならば。@
-` Maybe, my heart had some capacity,`@
+` If the feelings within a heart could be measured by some physical metric,`@
 ;　握り拳程度しかなかったそれが、……ぶわっと広がるような、不思議な解放感。@
-` Just the volume of a clenched fist....it was a strange feeling.`@
+` Then it would have only been the size of a clenched fist... albeit rapidly expanding, sense of liberation.`@
 br
 ;　まるで心臓の内側の狭い狭い世界が、……体よりも広く広く広がったかのような感触を覚えた。\
-` It was a feeling as if the narrow narrow world of my heart was stretching wider than my whole body.`\
+` It was a feeling almost like the small confines of my heart... were suddenly becoming much, much larger than my entire body.`\
 ;　そして、内より湧き出る自分の心の声を初めて聞く。\
-` And for the first time I heard the voice of my heart spring from within.`\
+` And for the first time I heard a voice in my heart coming from within.`\
 bg black,22
 ;bg Different_spiral_1b,22
 
@@ -1965,29 +1972,29 @@ fede 10,1000
 E_MA
 
 ;“あの雑魚妖怪ども、油断も隙もない……。@正直、侮り過ぎていたわ……。”@
-`[Those smaller monsters weren't off guard, or offered any chances...`@`They were too honest...]`@ 
+`[You can't be too careful around those smaller youkai... `@`Honestly, I despise them...]`@ 
 ;“……それにしても今日は危なかった、……イザナミめ、死ぬかと思ったわ……。”@
-`[Today was dangerous...I thought Izanami was gonna kill me..]`@
+`[Nevertheless, today was dangerous... I thought Izanami was going to kill me...]`@
 ;“あんな嘘を信じるなんて、イザナミも馬鹿よね、愚かなヤツ。”@
-`[He was really foolish though, to believe such a lie.]`@
+`[But he sure was an idiot, that Izanami. To think that he'd believe that lie I told him, such an idiot.]`@
 ;“……色々あったけど。@……とにかく今日も。@……何とか生き残れたわ。@……何とか、ね……。”\
-`[...Lots of things happened.`@`But...somehow...`@`I was able to survive today.`@`Somehow.]`\
+`[...Lots of things happened.`@`... But somehow.`@`... I survived today.`@`... Somehow....]`\
 bg black,22
 bg Air_01,22
 
 ;　それを、感情と呼んでもいいのだろうか。@
-` I think I can call those 'feelings'`@
+` Are these what are called emotions?`@
 ;　わからない。@
-` I don't understand.`@
+` I don't know.`@
 br
 ;　しかし、色に例えたなら、それは断じて灰色ではない。@
-` But, if I likened my feelings to colors, it wasn't simply gray.`@
+` But, if I likened my feelings to colors, they were decidedly not gray.`@
 ;　様々な色が入り混じった、理解できないけれど、複雑な色に違いなかった。\
-` Various colors mixed and blended, and though I didn't understand completely, it was undoubtedly a complex hue.`\
+` Various colors mixed and blended, and though I didn't completely understand, it was undoubtedly a complex hue.`\
 ;「私の目に映る、この鮮やかな夕焼けは。@………あんたにも見えているの。」@
-`"This brilliant sunset that I see,`@`...surely, you are able to see it too."`@
+`"Is this vibrant sunset that I see.`@`... the same one that you can see?"`@
 ;「もちろん。@……それは、様々な感情を楽しむことで、もっと様々な彩を見せてくれるんだよ。」\
-`"Of course.`@`...In enjoying these feelings, the hues I see have become more saturated."`\
+`"Of course.`@`... That's because the more you enjoy the emotions you have, the more vivid the colors you see become."`\
 bg black,22
 bg gakkou_03,0
 ld r,SHU_D4,0
@@ -1996,40 +2003,40 @@ ld l,HIG_D8,22
 ld l,HIG_D10,80
 
 ;「……それが、生きることの楽しさ、なの……？」@
-`"...That's the enjoyment of living, isn't it?"`@
+`"...So that's the key to having a fun life...?"`@
 ld r,SHU_D1,80
 
 ;「楽しさの第一歩、かな。」@
-`"That's the first step of fun...I wonder."`@
+`"Well, that's the first step to having one, I guess."`@
 ld l,HIG_D9,80
 
 ;「秋一は、もっと進んだ楽しさを見つけている…？」\
-`"Shuuichi, are you finding joy which is more advance?"`\
+`"Does that mean that you're having much greater fun with you life, Shuuichi...?"`\
 ld r,SHU_D4,80
 
 ;「うん。@彼岸花さんは、ようやく一日を無事に終えることの喜びを覚えたんだと思う。@……僕はもっと先。@未来を眺めることを楽しんでる。」@
-`"Yep.`@`I think I learnt how to enjoy ending a day safely.`@`..More than before,`@`I look forward to the future."`@
+`"Yep. `@`Higanbana, you have finally figured out the happiness of safely surviving a day.`@`... I'm a bit beyond that. `@`I'm having fun looking forward to the future."`@
 ld l,HIG_D10,80
 
 ;「未来……………。」\
-`"The future....?"`\
+`"The future........"`\
 ld r,SHU_D1,80
 
 ;「僕は将来、画家になりたいんだ。@それが僕の、夢。」@
-`"In the future, I want to become a painter.`@`That's my dream."`@
+`"When I grow up I want to become an arist. `@`That's my dream."`@
 bg black,22
 
 ;ld l,HIG_D9,80
 
 ;「……夢……………。」\
-`"...Dreams?"`\
+`"...Dream........."`\
 ;ld r,SHU_D2,80
 
-「その日を目指して生きることは楽しいし。@その日を想像することもとても楽しい。@……そんな日々を積み重ねると、心から楽しくて、……僕は生きてるって、実感できるんだよ。」\
-
+;「その日を目指して生きることは楽しいし。@その日を想像することもとても楽しい。@……そんな日々を積み重ねると、心から楽しくて、……僕は生きてるって、実感できるんだよ。」\
+`"It's fun to look forward to that day. `@`And it's really fun to imagine what it will be like.`@`... The more days I spend working towards my dream, the more fun I'm having... and it's when I feel like I'm truly alive."`\
 bg Air_01,22
 ;ld l,HIG_D10,80
-
+; --------------------------------------------------------------------------------------
 ;「………………………………。」@
 `"................"`@
 br
