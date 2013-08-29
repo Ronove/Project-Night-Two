@@ -796,7 +796,6 @@ br
 ` To do so, she had to gather more spiritual energy, and become stronger than anyone else.`\
 ;　だから日々、常に何者かと殺し合い、あるいは騙し合い。@
 ` That's why every day she would deceive and kill.`@
-;------------------------------------------------------
 ;　時には姿を隠して逃れ、裏をかいたり、あるいはかかれたり。@
 ` Sometimes she would conceal her form and then either flee or sneak an attack on her opponent from behind.`@
 br
@@ -1121,7 +1120,7 @@ bg black,22
 `"In a nutshell, it's a record of my life.`@`... like a diary, I guess."`\
 bg gakkou_02,22
 ld r,HIG_D8,22
-; ----------------------------------------------------------------------------------------------
+
 ;「形ある者は、ただ在り続けるために生きているんでしょう？@　それを記録することに、価値なんてあるの…？」\
 `"Don't things with life continue living just so they won't die? `@`What's the point in making a record of that...?"`\
 ld l,SHU_D1,23
@@ -1475,7 +1474,6 @@ br
 ;　しかし、その感情の揺らめきさえも、彼には今日という日を生きた証。@
 ` However, even that little flicker of emotion was still proof that he survived the day.`@
 br
-;----------------------------------------------------------------------------------------------------
 ;　いつものように、大事に抱えていじめっこたちから守っていたスケッチブックを開き、@その感情を描き始める。\
 ` As usual, he opened his precious sketchbook that he had kept safe from the bullies, `@`and began recording his feelings.`\
 ;　理不尽ないじめに対する胸中を現すように、その絵は悲壮感に満ちている。@
@@ -1667,7 +1665,7 @@ br
 ld c,HIG_D8,80
 
 me1v 16,50
-; -----------------------------------------------------------------------------------------
+
 ;　……踊る彼岸花と呼ばれるようになって、だいぶ久しく、………彼岸花は死を覚悟する。@
 ` ...For the first time since she had starting being called the Dancing Higanbana.... Higanbana prepared herself for death.`@
 br
@@ -1777,7 +1775,7 @@ se1 66
 ` I heard a thud.`@
 ;　心の中の、重い重い石臼が、初めて音を立てて回ったのを聞いた。\
 ` It was the sound of the heavy gears in my heart begining to rotate for the first time.`\ 
-; ------------------------------------------------------------------------------------------------
+
 se2 84
 ld c,HIG_D5,80
 wait 1000
@@ -2036,7 +2034,7 @@ bg black,22
 `"I enjoy looking forward to that day. `@`And I really enjoy imagining what it will be like.`@`... The more days I spend working towards my dream, the more enjoyment I'm having... and it's when I feel like I'm truly alive."`\
 bg Air_01,22
 ;ld l,HIG_D10,80
-; --------------------------------------------------------------------------------------
+
 ;「………………………………。」@
 `"................"`@
 br
@@ -2656,7 +2654,6 @@ ld c,SMI_n1,23
 `"....Thanks.`@`... You guys are the only ones I can depend on."`\
 ;「おう！@　俺らに任せとけって！」@
 `"Yeah! `@`Leave it to us!"`@
-;--------------------------------------------------------------------------------------------------------------------
 ;「そうだよ！！@　二度と玲子ちゃんに手出しできないように、マジで腕の一本でもへし折っちまおうぜ！！」\
 `"That's right! `@`We'll even go so far as to break one of his arms to make sure he never bothers you again, Reiko-chan!!"`\
 ld c,SMI_D6,80
@@ -3014,7 +3011,7 @@ mono 1
 bg gakkou_08,22
 
 bgm1 27
-; -----------------------------------------------------------------------------------------------
+
 ;　体育倉庫で見つかった秋一は、異様な姿で発見されたらしい。@
 ` It seems that Shuuichi had been found in the P.E. storeroom, in a bizarre condition.`@
 ;　……最初、それを見つけた子は、誰かがふざけているのかと思ったらしい。@
@@ -3736,7 +3733,6 @@ bg aka2,22
 
 ;　だが、それは余りにも異様な姿だった。@
 ` But their bodies were far too bizarre.`@
-;--------------------------------------------------------------------------------------------------
 br
 ;　彼らの四肢には彼岸花の髪束が絡み付き、ベッドの上に吊るされるような形で立たされていた。@まるで操り人形のように。\
 ` They were hanging above the bed, their limbs strung up by her bundles of hair. `@`They looked like puppets.`\
