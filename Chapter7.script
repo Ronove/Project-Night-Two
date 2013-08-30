@@ -39,7 +39,7 @@ br
 ` In the interest of increasing their territory in this giant hunting ground, these youkai killed and devoured each other.`@
 br
 ;　新しき生徒たちだけでなく、……妖怪たちにとっても、そこはカオスのるつぼなのだった。\
-` The school was a melting pot of chaos not just for new students... but for youkai too.`\
+` The shool was a melting pot of chaos not just for new students... but for youkai too.`\
 bg black,22
 mono 0
 bg hoken_05,22
@@ -107,13 +107,13 @@ ld r,SAK_D2,80
 
 
 ;「僕は違うよ。@僕は学校妖怪じゃないもの。@僕の祠は、新校舎が出来るよりずっと前からここにあって、@僕もずっとここに住んでたのだから。」\
-`"Not me.`@` I'm not a school monster.`@` My shrine and I have both been here for a long time.`@` Before this school building, in fact."`\
+`"Not me.`@`I'm not a school monster.`@`My shrine and I have both been here for a long time.`@`Before this school building, in fact."`\
 ;＜さくのしん
 
 ;ld r,SAK_D4,80
 
 ;　さくのしんは、その幼そうな外見に似合わず、@この巨大マンモス校が誕生する以前からこの土地にいる長老格なのだ。\
-` Despite his youthful appearance,`@` Sakunoshin had been one of the Elders, long since before this mammoth of a school was constructed.`\
+` Despite his youthful appearance,`@`Sakunoshin had been one of the Elders, long since before this mammoth of a school was constructed.`\
 bg black,23
 bg kouchou_02,0
 ld c,KOU_D2,23
@@ -128,7 +128,7 @@ ld l,IZA_D3,23
 ;ld l,IZA_D1,80
 
 ;「有象無象の妖怪どもがぎっしりひしめいてやがった。@どいつもこいつも、クソガキどもの魂を独り占めしてやろうと、ギラギラしてやがったぜ。」\
-`"They were just a ragtag group of youkai, all jam-packed into one place. `@`Each of them trying to create a monopoly on the souls of the brats."`\
+`"They were just a ragtag group of youkai, all jam-pakced into one place. `@`Each of them trying to create a monopoly on the souls of the brats."`\
 ;＜イザナミ
 
 ;ld r,SIN_D2,22
@@ -159,7 +159,7 @@ ld c,SMI_w5,22
 ld c,SMI_w3,80
 
 ;「私と姉者の姉妹タッグで、海千山千の妖怪どもを、次々に葬ったのじゃ！@　毬枝には想像もつくまい！@　それはそれは、血で血を洗う、恐ろしい時代だったのじゃぞ！」\
-`"Together as a sisterly tag-team we took down many sly old youkai one by one! `@`You can't begin to imagine what it was like, Marie! `@`My goodness, was it a bloody feud. It was quite a terrifying era!"`\
+`"Together as a sistery tag-team we took down many sly old youkai one by one! `@`You can't begin to imagine what it was like, Marie! `@`My goodness, was it the bloody fued. It was quite a terrifying era!"`\
 ;＜スミレ
 
 bg black,22
@@ -573,11 +573,11 @@ bg gakkou_02,22
 ;ld l,SH2_D1,80
 
 ;「僕は、将来は画家になりたいと思っていたんだ。」@
-`"I remember that I had wanted to be an artist when I grew up."`@
+`"I remember that I had wanted to be an arist when I grew up."`@
 ;ld r,NON_D6,80
 
 ;「画家、ですか……。」\
-`"An artist...?"`\
+`"An aritst...?"`\
 ;ld l,SH2_D3,80
 
 ;「そう。@感動や感情を、スケッチブックに書き留めることに面白さを覚えていてね。@……毎日、ここでひとり、喧騒を逃れ、目に付いた何かをスケッチブックに書き留めていたんだ……。」\
@@ -610,7 +610,7 @@ br
 ;　それは通う生徒たちに動揺と混乱をもたらした。\
 ` It led to disorder and unrest amongst the students that now attended.`\
 ;　そして彼らの混乱はそのまま、人ならざる者たちの世界にももたらされる。@
-` And their unrest was brought into the world of the supernatural as well.`@
+` And their unrest was brought into the world of those who were inhuman as well.`@
 br
 ;　混乱した魂たちのひしめき合う新たなカオスの誕生に、@有象無象の妖怪たちが群れに群れ、狂乱し、跋扈していた……。\
 ` Many confused souls were crowded together under one roof, and from this newly born chaos, `@`came a wave of small-fry youkai, all running rampant.`\
@@ -650,7 +650,7 @@ br
 ` So eaten them could wait. `@`Instead, the first to get eaten were the youkai who impeded the progress of others.`@
 br
 ;　人ならざる者にしか見ることの出来ぬ、@……弱肉強食の、恐ろしい生存競争が、学校中で繰り広げられていた。\
-` A struggle for survival of the fittest spread out across the entire school.`@`... A battle whose only witnesses were those unearthly beings.`\
+` A struggle for survival of the fittest spread out across the entire school.`@`... A battle whose only witnesses were those inhuman beings.`\
 bg black,22
 ;bg white,1
 
@@ -689,14 +689,14 @@ me3v 28,70
 ;「次はどこだ？」@
 `"Where do we go next?"`@
 ;「保健室ダァ！！」@
-`"The infirmary!!"`@
+`"The Infirmary!!"`@
 ;「保健室は、変な人形に取り憑いたヤツが根城にしているらしいゾ！！」\
 `"I heard that there's someone in there who's possessing a strange doll."`\
 ;「その肥えた妖力、俺らで食い尽くしてパワーアップだぁああぁあああ！！」@
 `"We'll consume them and gain their powerrRRaaaAAH!!"`@
 br
 ;　大蛇のようなうねりが職員室を飛び出し、廊下で螺旋を描きながら保健室の扉を破って飛び込む。\
-` Like a serpent they wound out the staff room and into the hallways before forming into a spiral and smashing through the infirmary door.`\
+` Like a serpent they wound out the staff room and into the hallways before forming into a sprial and smashing through the infirmary door.`\
 mov %HIG_Isyou,2
 bg white,23
 bg hoken_01,23
@@ -768,7 +768,7 @@ bg rouka_04,2
 bgm1 27
 
 ;　保健室に、彼岸花と名乗る恐ろしい妖怪が住み着いている。@
-` The fearsome youkai known as Higanbana settled in the infirmary.`@
+` The fearsome youkai known as Higanbana settled in the Infirmary.`@
 ;　その噂はやがて、学校に跋扈する妖怪たちで知らぬ者はないほどになった。@
 ` Before long there wasn't a single youkai rampaging through the school that didn't know her name.`@
 br
@@ -931,7 +931,7 @@ me2v 17,50
 ` She had been targeted relentlessly by the sisters Azami and Sumire, and had almost been killed.`@
 br
 ;　あの二人、取るに足らない弱小妖怪だと思っていたら。@……いじめを狩場に、子供たちの魂をたくさん喰らい、いつの間にか侮れない妖力を蓄えた。\
-` She thought that they had been insignificant lesser youkai.`@` ...But they had been using bullying to eat the souls of so many children that without Higanbana noticing, they had gathered a formidable amount of spiritual power.`\
+` She thought that they had been insignificant lesser youkai.`@`... but they had been using bullying to eat the souls of so many children that without Higanbana noticing, they had gathered a formidable amount of spiritual power.`\
 ld l,AZA_D3,0
 ld c,SMI_w6,80
 
@@ -939,7 +939,7 @@ ld c,SMI_w6,80
 ` If she wanted to survive, she had no choice but to become stronger.`@
 br
 ;　それが弱肉強食の人ならざる世界の、唯一の処世術。\
-` That was the single path to success in this survival of the fittest world of the supernatural.`\ 
+` That was the single path to success in this survival of the fittest world of those who are inhuman.`\ 
 bg black,22
 fede 12,1000
 E_M2
@@ -1020,7 +1020,7 @@ ld c,HIG_D9,5
 ` Higanbana gently landed in front of the boy.`@
 br
 ;　人ならざる者の姿は、人間には見えない。@稀な例外を除いて。@
-` Youkai are not visible to humans. `@`Save a few rare exceptions.`@
+` Inhuman beings are not visible to humans. `@`Save a few rare exceptions.`@
 ;　だから、少年の目が確かに自分の姿を追って、彼岸花はわずかに驚いた。\
 ` So Higanbana was slightly taken aback when she noticed that his eyes were following her.`\
 textoff
@@ -1096,13 +1096,13 @@ ld l,HIG_D10,80
 ld r,SHU_D1,80
 
 ;「嫌な感情は、こうしてスケッチブックに吐き出して閉じ込めるんだ。@……絵になれば、それはもうただの感情じゃない。@今日、僕が確かに経験した、生きた証になるんだよ。」\
-`"I'm putting all my negative emotions into this sketchbook and looking them away.`@` ...When I make my them into pictures, they're no longer just emotions. `@`They're proof of what happened to me today."`\
+`"I'm putting all my negative emotions into this skethbook and looking them away.`@`... When I make my them into pictures, they're no longer just emotions. `@`They're proof of what happened to me today."`\
 ld l,HIG_D9,80
 
 ;「…………………？」\
 `"............?"`\
 ;　やはり、人ならざる存在の自分が見えてしまうだけあって、@どこか普通の人間とずれているようだった。@
-` She expected as much. `@`It stood to reason that any human who could see her would be a little 'off' compared to normal humans.`@
+` She expected as much. `@`It stood to reason that any human who could see her inhuman form would be a little 'off' compared to normal humans.`@
 br
 ;　しかし、彼岸花は、彼が言った一言に、なぜかとても興味を覚えた。\
 ` But, for some reason Higanbana was very intrigued by what he had said.`\
@@ -1195,7 +1195,7 @@ se1v 1010,30
 `".............."`@
 br
 ;　少し深くて、わずかに重い線。@何かの失敗か後悔を感じさせる。\
-` These lines were thick, and somewhat heavy. `@`They gave a feeling of some sort of failure or regret.`\
+` These lines were thick, and somewhat heavy. `@`They gave a feeling of some sort of faliure or regret.`\
 ;「これは、友達との約束をうっかり忘れて、失敗してしまった時の感情。@じゃあ、これは？」\
 `"This was when I carelessly forgot about something I promised my friend. I felt like I had failed him. `@`Here, what about this one?"`\
 se1v 1010,30
@@ -1228,7 +1228,7 @@ mld r,HIG_D9,22
 ;mld r,HIG_D1,80
 
 ;　だから。@彼のスケッチブックは、ページを捲るごとに様々な感情が、まるで玉手箱のように飛び出した。@
-` So,`@` With each page you turned in his sketchbook, various emotions would jump out of it, like Pandora's box.`@
+` So,`@` With each page you turned in his sketchbook, various emotions would jump out of it, like pandora's box.`@
 ; ^^^ Note To Editor: Tamatebako - http://en.wikipedia.org/wiki/Tamatebako  Closest thing we have is pandora's box. Pascal suggested a jack-in-the-box, that could work too.
 br
 ;　それは、……私にとってあまりに斬新で新鮮な驚きだった……。\
@@ -1327,7 +1327,7 @@ bg rouka_04,22
 bgm1 10
 
 ;「ギャアギャア！！@　恐ろしや恐ろしや！！@　保健室には近寄るな、近寄るな！！」@
-`"Gyagyaaaaa!! `@`The horror! The horror! `@`Keep away from the infirmary!! Keep away!!"`@
+`"Gyagyaaaaa!! `@`The horror! The horror! `@`Keep away from the Infirmary!! Keep away!!"`@
 ;「保健室には恐ろしい妖怪が住み着いているゾ！！」@
 `"A terrifying youkai is living in there!!"`@
 ;「そやつの名は、踊る彼岸花！@　残酷な残酷な妖怪だぞ！！」\
@@ -1391,7 +1391,7 @@ me1v 16,50
 bg hoken_04,22
 
 ;　人ならざる者たちにとって、……保健室は、異形の屍で埋め尽くされていた。@
-` As an non-human would see it... the infirmary was filled with grotesque corpses.`@
+` As an inhuman being would see it... the infirmary was filled with grotesque corpses.`@
 br
 ;　その、内臓と血しぶきのべっとりとした部屋の中でも、……彼岸花にそれが赤く見えることはない。@
 ` But even this room splattered with blood and innards... didn't look red to Higanbana.`@
@@ -1630,7 +1630,7 @@ bg black,22
 ;　死神、イザナミ。@
 ` The Shinigami, Izanami.`@
 ;　好戦的な性格で大量の妖力を蓄える、大妖怪だ。@
-` He was an aggressive greater-youkai that had massive amounts of spirit energy.`@
+` He was a aggressive greater-youkai that had massive amounts of spirit energy.`@
 br
 ;　かつては実力も伯仲し、互いに戦いを避け合う関係だった。\
 ` The two of them had once had approximately equal levels of strength, and thus they avoided fighting each other.`\
@@ -1734,7 +1734,7 @@ br
 ` I understood the facial expression that the smaller youkai made... the moment I tore them to pieces.`@
 br
 ;　わずかでも気を許せば、それは私の顔にも浮かぶに違いない。\
-` If I let down my guard even the slightest bit, I'm sure my face would show that very same expression.`\
+` If I let down my guard even the slitest bit, I'm sure my face would show that very same expression.`\
 ld c,HIG_D9a,22
 
 ;　生きたい。@
@@ -1774,7 +1774,7 @@ se1 66
 ;　ごとりと。@
 ` I heard a thud.`@
 ;　心の中の、重い重い石臼が、初めて音を立てて回ったのを聞いた。\
-` It was the sound of the heavy gears in my heart beginning to rotate for the first time.`\ 
+` It was the sound of the heavy gears in my heart begining to rotate for the first time.`\ 
 
 se2 84
 ld c,HIG_D5,80
@@ -1910,14 +1910,14 @@ bg gakkou_03,0
 ld c,HIG_D9,22
 
 ;「……笑……う……？」@
-`"....Smil`!w1000`ing...?"`@
+`"....smile... ing...?"`@
 br
 ;　笑っているつもりなどなかった。@
 ` She didn't think that she had been smiling.`@
 ;　しかし、秋一の描いたスケッチブックの中では、確かに彼岸花は笑っていた。\
 ` But in the picture Shuuichi drew of her in his sketchbook, she was definitely shown smiling.`\
 ;「大妖怪をうまく騙して。@まんまと逃げ延びたことに、彼岸花さんは嬉しかったという気持ちを感じてるはず。@そして、危機を無事に乗り越え、今日という日をいつものように過ごせることに、安堵を覚えているはず。@……そんな気持ちが自然と、彼岸花さんを、いつもより生気のある表情にしているんだと思うよ。」\
-`"You successfully outsmarted a great youkai, `@`and managed to get away, so you must have been happy about that. `@`And you must be relieved about averting a crisis and being able to go about your day normally.`@`... I think that those feelings are naturally giving you a much more lively expression than usual."`\
+`"You succesfully outsmarted a great youkai, `@`and managed to get away, so you must have been happy about that. `@`And you must be relieved about averting a crisis and being able to go about your day normally.`@`... I think that those feelings are naturally giving you a much more lively expression than usual."`\
 ld c,HIG_D10,80
 
 ;「……………………………。」\
@@ -1948,7 +1948,7 @@ bg Air_01,2
 wait 1000
 
 ;　秋一の、言う通りだ。@
-` It was as Shuuichi said.`@
+` It was as Shuiichi said.`@
 ;　今日の夕焼けは、これまでに一度も見たことのない、鮮やかな色をしていた。@
 ` The colors of this sunset were more vibrant than I've ever seen before.`@
 br
@@ -2021,7 +2021,7 @@ ld l,HIG_D10,80
 ld r,SHU_D1,80
 
 ;「僕は将来、画家になりたいんだ。@それが僕の、夢。」@
-`"When I grow up I want to become an artist. `@`That's my dream."`@
+`"When I grow up I want to become an arist. `@`That's my dream."`@
 bg black,22
 
 ;ld l,HIG_D9,80
@@ -2107,7 +2107,7 @@ ld r,HIG_D9,80
 ;「…………………………。」\
 `"..............."`\
 ;　秋一は、すでに成人している兄たちの影響なのか、非常に大人っぽく、達観している少年だった。@
-` Perhaps it was the influence of his older brothers, who were already adults, but Shuuichi was a very adultlike boy, who would carefully base his choices on the long-term consequences.`@
+` Perhaps it was the influence of his older brothers, who were already adults, but Shuuichi was a very adultlike boy, who would carefully base his choices on the longterm consequences.`@
 br
 ;　しかし、その異質さが、いじめっこたちの興味を引いてしまうのかもしれない。\
 ` But that difference may have been what caught the eye of these bullies.`\
@@ -2167,7 +2167,7 @@ ld c,HIG_D10,22
 bg gakkou_03,22
 
 ;　いじめっこのひとりが、石を握りしめ、振りかぶった時。@彼岸花はその石を睨み付けた。@
-` Just as the one of the bullies was winding his arm back in preparation for a throw, `@`Higanbana glared intently at the stone he held.`@
+` Just as the one of the bullies was winding his arm back in preparation for a throw, `@`Higanban glared intently at the stone he held.`@
 br
 
 se1 7
@@ -2248,7 +2248,7 @@ E_A
 me1v 16,50
 
 ;「…………秋一、……どうして………。」@
-`".......Shuuichi, ...why......."`@
+`".......Shuuichi ...Why......."`@
 br
 ;　どうして秋一が庇うのか、彼岸花には理解できなかった。@
 ` Why did Shuuichi protect him? Higanbana couldn't understand.`@
@@ -2283,7 +2283,7 @@ br
 ;　……今この場でその薄汚い魂、私が引き裂いてやる。\
 ` ...I'll tear that mangy soul directly from his body, right here, right now.`\
 ;　まさにその瞬間、地面に伏せたままの秋一が呻くように言った。\
-` Just at that moment, Shuuichi, still face down in the dirt, spoke in a groan.`\
+` Just at that moment, Shuuchi, still face down in the dirt, spoke in a groan.`\
 bg Air_01,22
 ;E_ 3,3
 
@@ -2317,7 +2317,7 @@ bg black,22
 bg gakkou_03,22
 
 ;　しかし、他の二人のいじめっこはそうではない。@
-` But the other two bullies weren't so oblivious.`@
+` But the other two bullies weren't so obvlivious.`@
 br
 ;　どう投げたって、石があんな動きをして襲い掛かってくるわけがない。@
 ` No matter how you throw it, there's no way a stone should be able to fly through the air like that.`@
@@ -2365,7 +2365,7 @@ cl c,0
 ld l,HIG_D10,24
 
 ;「……秋一は、どうしてそこまで達観していられるの？」@
-`"...Shuuichi, why are you always so concerned with the consequences of things?"`@
+`"...Shuuchi, why are you always so concerned with the consequences of things?"`@
 ld r,SHU_D1,80
 
 ;「そのつもりはないんだけどね。」\
@@ -2401,21 +2401,21 @@ br
 bg Air_01,22
 
 ;　こうして、人ならざる存在である私の姿が見えているように。@
-` That is why he is able to see supernatural beings, such as myself.`@
+` That is why he is able to see inhuman beings, such as myself.`@
 br
 ;　そして、誰よりも美しく鮮やかな夕焼けが見えているように。\
 ` And why he can see a sunset more vibrantly beautiful than anyone else.`\
 ;「秋一の目は、人間には見えない何かを見ることが出来ている気がするわ。@……それがとてもとても美しいから、@……あなたは人間同士の、低俗な諍いに目を奪われないんだわ。」\
 `"I feel like you must be able to see things that other humans cannot, Shuuichi.`@`... And what you see is so beautiful... `@`that you can't be bothered by the petty squabbles of your fellow man."`\
 ;　生まれながらに、人ならざる者たちの世界に近い波長を持つ者がいるように。@
-` In the same way that some people are born with wavelengths closer to the supernatural world.`@
+` In the same way that some people are born with wavelengths closer to the world of inhumans.`@
 br
 ;　生まれながらに、人ならざる何かを持って生まれる者もいるのかもしれない。\
-` Maybe there were some people who were born with something non-human about them.`\
+` Maybe there were some people who were born with something inhuman about them.`\
 ;　秋一は多分、……人ならざる目を持っているのだ。@
-` Shuuichi... probably has mystic eyes.`@
+` Shuuichi... probably has inhuman eyes.`@
 ;　彼はその目に、感情というものを、美しい何かとして映し出すことが出来るのだ。@
-` With those eyes, he was able to perceive emotions as manifestations of beauty.`@
+` With those eyes, he was able to see emotions as manifestations of beauty.`@
 br
 ;　それがあまりに美しくて、鮮やかで興味深いものだからこそ……、@彼はその感動を忘れたくなくて、スケッチブックに記す。\
 ` Because they were so beautiful and vivid... `@`he didn't want to forget how moving they were, so he recorded them in his sketchbook.`\
@@ -2541,10 +2541,10 @@ br
 ;　生徒の個性を重んじることを方針にしているこの学校では、部活動に特に力を入れており、@このように普通の学校では珍しい教室も多数存在している。\
 ` As a policy of respecting the individuality of students, this school put extra attention into the providing of extracurricular activities, `@`and thus there were many of these rooms specifically for club activities that you wouldn't find in a normal school.`\
 ;　だが、今この茶道室には、その厳かで静粛な雰囲気とは不釣り合いな生徒たちが座り込んでいた。@
-` But in this particular tea ceremony room, amongst a solemnly silent atmosphere, there sat a group a group of students that seemed altogether out of place.`@
+` But in this particualr tea ceremony room, amongst a solemnly silent atmosphere, there sat a group a group of students that seemed altogether out of place.`@
 br
 ;　あの、秋一を執拗にいじめていた三人組だ。\
-` They were the trio of boys that had relentlessly bullying Shuuichi.`\
+` The were the trio of boys that had relentlessly bullying Shuuichi.`\
 bg black,22
 bg sadou_03,22
 
@@ -2584,7 +2584,7 @@ br
 ;　清澄玲子と名乗る彼女の正体は、……夕闇のスミレ。@
 ` The true identity of this girl named Reiko Oosumi... is Sumire of the Twilight`@
 ;　彼女は秋一のクラスに入り込んでいたのだ。\
-` She had infiltrated Shuuichi's class.`\
+` She had infiltratred Shuuichi's class.`\
 ;「もちろんだよ、玲子ちゃん。@……なぁ？」@
 `"Of course we did, Reiko-chan.`@`... Right guys?"`@
 ;「ああ。@昨日よりボッコボコにしてやったよ！」@
@@ -2635,7 +2635,7 @@ ld l,SMI_n3,80
 ;「それに、あんまり疑いたくないんだけど……。@最近は着替えとか、水着とか、そういうのなくなること多くて………。@……玲子……、怖い………。」\
 `"And then, I want to believe that it wasn't him... `@`but recently my gym clothes, and swimsuit and stuff have all gone missing.....`@`...I'm... scared...."`\
 ;　スミレは怯えながら、魔性の涙をぽろりと零す。@
-` Acting frightened, Sumire shed her Devil's Tears.`@
+` Frightenedly, Sumire shed her Devil's Tears.`@
 br
 ;　その涙は、いじめの味を教え、さらなるいじめっこを生み出す力を持つ……。\
 ` Those tears had the power to give people a taste of what it's like to bully, and even birth new bullies.`\
@@ -2723,7 +2723,7 @@ ld l,HIG_D10,80
 ;「……邪魔だったら、有無を言わさず、引き裂いているわ。校長先生？」\
 `"...If you were, I would be tearing you apart without hesitation right now. What is it, Headmaster?"`\
 ;　この恰幅の良い紳士の姿をした妖怪は、通称、「校長先生」。@
-` This youkai taking the form of a portly gentleman was known only as 'The Headmaster.'`@
+` This youkai taking the form of a porty gentleman was known only as 'The Headmaster.'`@
 br
 ;　その名の通り、すでに校内のあらゆる妖怪の頂点に立つことを、自他共に認める大妖怪だ。\
 ` He's a greater youkai and, as his name suggests, is generally accepted as presiding over all the other youkai within the school.`\
@@ -3053,12 +3053,12 @@ bg black,22
 bg aka3,22
 
 ;　服を見れば、それが秋一であるとはわかるのだが。@……顔を見ただけでは、誰か判別することは不可能だ。@
-` She could tell that it was Shuuichi because of the clothes he wore.`@`... but no one would have been able to tell that by looking at his face.`@
+` She could tell that it was Shuuichi becase of the clothes he wore.`@`... but no one would have been able to tell that by looking at his face.`@
 br
 ;　血まみれになって、ぶくぶくと腫れ上がり、どこが頬で鼻で口かもわからないほどなのだから……。\
 ` His face was so swollen and bloodstained that he couldn't even make out where his cheeks, nose or mouth were...`\
 ;　秋一が無抵抗なのをいいことに、……際限なくいじめがエスカレートしたに違いない。@
-` Shuuichi never put up a fight... so the bullying must have escalated to no end.`@
+` Shuuuichi never put up a fight... so the bullying must have escalated to no end.`@
 br
 ;　いじめ？@
 ` Bullying?`@
@@ -3082,7 +3082,7 @@ br
 ` Teachers here smothered and covered up all signs of bullying.`@
 br
 ;　これが、秩序なき、カオスなる学校世界なのだ。\
-` This was the orderless and chaotic world of school.`\
+` This was orderless and chaotic world of school.`\
 ;bg black,22
 bg gakkou_03,22
 
@@ -3134,7 +3134,7 @@ bgm1 24
 ;　病院に担ぎ込まれた秋一は、集中治療室で手当てを受けていた。@
 ` Shuuichi had been rushed to hospital and received treatment in the intensive care unit.`@
 ;　幸いにも峠を越えることが出来たようだが、重症であることに変わりはない……。@
-` Fortunately, he was able to survive the most intensive part of his hospitalization, but his condition was still critical.`@
+` Fortunately, he was able to survive the most intensive part of his hostpitalization, but his condition was still critical.`@
 br
 ;　そのベッドの傍らに、彼岸花はそっと姿を現す。\
 ` Higanbana appeared silently at his bedside.`\
@@ -3233,7 +3233,7 @@ ld c,HIG_D9,22
 ld c,HIG_D10,80
 
 ;「……両腕がなくなったわけじゃないでしょう？@　スケッチブックを広げて、鉛筆を握ることのできる腕は、ちゃんとあんたに付いているわ。」\
-`"...It's not like you lost your arms, right? `@`You can still open your sketchbook and hold a pencil."`\
+`"...It's not like you lost your arms, right? `@`You can can still open your sketbook and hold a pencil."`\
 ;「でも、もう見えないんだ。@見ることが出来ないんだ。@………無数の感情を通して、……万華鏡のように千変万化する景色を、見られないんだ……。@それを、絵を通して誰かに見せることも出来ない。@…………もう僕は、……画家にはなれないんだ…………。」\
 "But I can't see anymore. `@`I'm blind.`@`...... I can no longer see... the scenery constantly changing through countless emotions, like a kaleidoscope... `@`I can't show people what I see through drawing anymore.`@`..... I can... no longer become an artist......"`\
 bg black,8
@@ -3247,7 +3247,7 @@ ld c,SHU_D3,22
 ` ...His eyes were not the only thing of his that was destroyed.`@
 br
 ;　たくさんの感情を書き留めた、あのスケッチブックまで奪われ、……焼却炉に放り込まれたのだ。\
-` The sketchbook which he'd used to document all his feelings had been stolen... and thrown into the incinerator.`\
+` The sketchbook which he used to document all his feelings had been stolen... and thrown into the incinerator.`\
 ;se1 55
 bg red1,1
 bg black,0
@@ -3266,7 +3266,7 @@ mcbg 1
 
 
 ;　彼が確かに見てきた光景の記録さえも、すでにこの世に残っていない。@
-` Every record he had made of the world he saw had been destroyed.`@
+` Every record he had of the world he saw had been removed from from this world.`@
 ;　彼が生きた証が、奪われたのだ。@
 ` The proof that he had lived, had been stolen from him.`@
 br
@@ -3313,7 +3313,7 @@ bg black,22
 ` Higanbana finally realized.`@
 br
 ;　彼が人ならざる者である自分と、これまで交流できたのは、あの目の力に違いないと。\
-` His ability to communicate with youkai, was due to his eyes.`\
+` The reason that he could talk with those who were inhuman, was because of his eyes.`\
 
 ;　それが失われたのだから、……もう彼と話せないのは当然なのだ。@
 ` He had lost them... So it was only natural that she couldn't speak to him anymore.`@
@@ -3390,7 +3390,7 @@ ld c,HIG_w5,80
 bgm1 20
 
 「ふ、ふっふふふふふふふ、くすくすくすくすくすくす……。」@
-`"Fu, fufufufufufufufu, teeheeheeheehee...."`@
+`"Fu, fufufufufufufufu, Teeheeheeheehee...."`@
 br
 ;　彼岸花は笑った。@初めて笑った。\
 ` Higanbana laughed. `@`For the first time, laughed.`\
@@ -3410,7 +3410,7 @@ bg black,22
 ;　自分の為すべきこと。@
 ` I know what I need to do.`@
 ;　妖怪の在るべき理由。@
-` I know why we youkai exist.`@
+` I know why us youkai exist.`@
 br
 ;　闇の中に巨体を横たえる校舎の大空に、彼岸花は飛翔する。\
 ` Higanbana flew towards the gigantic school on the horizon.`\
@@ -3527,7 +3527,7 @@ bg e008,22
 ` We can't be bound by anyone. We can't be blamed by anyone!`@
 br
 ;　ははは、あっはははははは、はーっはっはっはっはっは！！\
-` Hahaha, ahahahaha, haahahahaha!!`\
+` Hahaha, Ahahahaha, Haahahahaha!!`\
 bg black,22
 ;mono 2
 ;bg Different_spiral_1a,22
@@ -3558,7 +3558,7 @@ bg hoken_04,6
 me2v 16,50
 
 ;「な、何だよこれ……。@身体が、動かな、い……。」@
-`"Wh-what the... `@`I can't, move, my body..."`@
+`"Wh-What the... `@`I can't, move, my body..."`@
 br
 ;　瞼だけは開くのに、……体はまるで金縛りのように、ぴくりとも動かない。\
 ` Even though he could open his eyes, it was as though his whole body had been bound by chains, and couldn't move an inch.`\
@@ -3626,7 +3626,7 @@ bg hoken_02,22
 ` He could only catch a glimpse of the hallway outside the door... but this was unmistakably the infirmary.`@
 br
 ;　窓が開いているのだろうか。@……白いカーテンがゆっくりと大きく、……まるでハロウィンの幽霊のように大きくはためいている。\
-` Were the windows open?`@`... The white curtains were slowly fluttering... like a Halloween ghost.`\
+` Were the windows open?`@`... The white curtains were slowly fluttering... like a halloween ghost.`\
 ;　風は感じられるが、生ぬるく澱んでいて、……その上、ねっとりとして感じられた。@
 ` He could feel a breeze, but it was warm and stagnant.... But even worse, it felt wet and sticky.`@
 br
@@ -3646,7 +3646,7 @@ br
 ` But, why was she cursing him?`@
 br
 ;　保健室に入ったことさえ、一度もないのに…！\
-` He had never once set foot inside the infirmary...!`\
+` He had never once set food inside the Infirmary...!`\
 ld c,HIG_D2,80
 
 ;「……それは、あなたが敬いを忘れたからよ。」@
@@ -3805,7 +3805,7 @@ br
 ld c,HIG_w6,22
 
 ;「……くすくす、………うふふふふふふふふふふふふふふふふ。@あなたたちの拙いダンス。@見ていると不思議なの。@なぜか溢れてくる笑いを抑えることが出来なくなる。@……くすくす、くすくすくすくすくすくすくす…！！」\
-`"...Teehee..... Ahahahahahahahaha. `@`You guys are so bad at dancing. `@`It's strange. When I watch you, `@`I just can't stop laughing.`@`... Teehee, heeheeheeheehee!!"`\
+`"...Teehee..... Ahahahahahahahaha. `@`You guys are so bad at dancing. `@`It's strange. When I watch you, `@`I just can't stop laughing.`@`... Teehee, Heeheeheeheehee!!"`\
 se1v 84,100
 
 bg black,22
@@ -3833,18 +3833,18 @@ bg hoken_01,22
 ld c,HIG_w6,22
 
 ;「私は、踊る彼岸花。@学校の妖怪として、……学校の闇夜を、ますますに暗く染めてやるの。@……お前たち人間が闇を恐れるように。@闇に足を踏み入れることがないようにっ。@さぁ、踊りましょうよ、三人とも。@この踊る彼岸花と一緒にね。@……踊るのに疲れたら、目の前の友人に、自分の喉を噛み千切ってくれるよう頼むといい。@そして、それを頼むなら早い内がいいわね。@何しろ、最後のひとりは誰も殺してくれない。@永遠に私と踊り続けなくてはならないのだから。@………くすくすくす、うっふふふふふふふふふふふふ、/
-`"I am the Dancing Higanbana. `@`As a youkai of the school... I will dye the night an even darker shade of black.`@`... So that humans will fear the dark. `@`So that they'll never set foot within it. `@`Now, you three. `@`Dance along with the Dancing Higanbana.`@`... When you tire of dancing, ask your friends to bite off your throat. `@`If you're going to tire, do it quickly. `@`The last one of you won't be killed. `@`Instead you will get to dance together with me forever.`@`.... Teeheehee, ufufufufufufufu, `/
+`"I am the Dancing Higanbana. `@`As a youkai of the school... I will dye the night an even darker shade of black.`@`... So that humans will fear the dark. `@`So that they'll never set foot within it. `@`Now, you three. `@`Dance along with the Dancing Higanbana.`@`... When you tire of dancing, ask your friends to bite off your throat. `@`If you're going to tire, do it quickly. `@`The last one of you won't be killed. `@`Instead you will get to dance together with me forever.`@`.... Teeheehee, Ufufufufufufufu, `/
 se1v 84,100
 
 ;はっはははははははははははははは……。」\
-`hahahahahahahahahahhaaaahaaaaa...."`\
+`Hahahahahahahahahahhaaaahaaaaa...."`\
 ;bg black,2
 bg gakkou_01o,2
 
 fedexx 70,90,90,90,90,90,2000
 
 ;　血のように真っ赤な月が照らす、人ならざる夜の保健室で。@
-` There in the infirmary, bathed in the moon's mystical blood red light.`@
+` There in the infirmary, bathed in the blood red light of the inhuman moon.`@
 br
 ;　踊る彼岸花と初めての犠牲者たちが、いつまでもいつまでも、明けない夜を踊り続けるのだった………。\
 ` Will forever dance the first victims of the Dancing Higanbana.....`\
