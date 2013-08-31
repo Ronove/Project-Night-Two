@@ -155,7 +155,7 @@ bg hoken_01,22
 ;　彼自身は彼岸花のような残忍な力を持つ妖怪ではない。@しかし、鏡の向こうに広がる無数の異界をも司る彼は、@不吉なる存在の召喚など、決して侮れない力を持つ。\
 `　Unlike Higanbana, Kyou is not a cruel and ruthless youkai. `@`But, he does rule over countless worlds just beyond the other side of the mirror. `@`And thus, his ability to summon ominous beings is nothing to laugh at.`\
 ;　鏡に映る姿を不吉だとする話や、自分に瓜二つの存在に出会ってしまうと死期が近いなど、@彼が司る怪談は非常に多い。\
-`　Between the stories about ominous shapes being reflected in the mirror, or bumping into your doppelganger and meeting an early demise, `@`the number of ghost stories he presides over is alarmingly high.
+`　Between the stories about ominous shapes being reflected in the mirror, or bumping into your doppelganger and meeting an early demise, `@`the number of ghost stories he presides over is alarmingly high.`\
 ld c,KYO_D3,22
 
 ;「お前に用があるわけじゃねぇ。@……めそめその毬枝に用があんだ。」@
@@ -182,7 +182,7 @@ bg rouka_04,2
 `　Marie was drawing near to the school cafeteria, walking while using her Sweets Antenna.`@
 br
 ;　そこにキョウがやってきて、同じことをもう一度言う。\
-`　Kyou followed her there and repeated what he had to said to Higanbana.`\
+`　Kyou followed her there and repeated what he had said to Higanbana.`\
 
 bg rouka_02,0
 ld r,MAR_D1,0
@@ -245,7 +245,7 @@ mld c,KYO_D2,80
 
 
 ;　……言い回しがいちいち痛いが、とりあえず悪い人ではなさそうだ。@
-`....his expressions were painful to listen to, but he didn't seem to be a bad person.`@
+`....His expressions were painful to listen to, but he didn't seem to be a bad person.`@
 br
 ;　毬枝はとりあえず、わざわざ自分を訪ねてくれた理由を聞いてみることにする……。\
 `　So for the time being, Marie decided to ask him why he went out of his way to come meet her...`\
@@ -289,7 +289,7 @@ ld r,MAR_D4a,80
 `"Ah...`@` ...Is that so...?"`@
 br
 ;　ここまで話が及べば、キョウが何を頼もうとしているのかは明白だ。\
-`　By now it was obvious was Kyou was trying to do.`\
+`　By now it was obvious what Kyou was trying to do.`\
 
 
 ld r,MAR_D4,80
@@ -380,7 +380,7 @@ cl l,0
 mld l,KYO_D2,80
 
 ;「鏡の向こうには様々な世界がある。@……ところがある日、鏡が妙に汚れている世界と繋がったんだ。@もちろん、こっち側じゃねぇ。@向こう側が汚れてるんだ。」@
-`"Mirrors can lead to various different worlds.`@` ...But one day, they started connecting to a strangely foul and dirtied world. `@`Naturally it's not this side that was dirty. `@`But the other side."`@
+`"Mirrors can lead to various different worlds.`@` ...But one day, they started connecting to a strangely foul and dirtied world. `@`Naturally it's not this side that was dirty,`@` ...but the other side."`@
 ld c,MAR_D4a,80
 
 ;「向こう側が汚れてるとは…？」\
@@ -388,7 +388,7 @@ ld c,MAR_D4a,80
 mld l,KYO_D3,80
 
 ;「鏡の向こうにも、こっちと瓜二つの世界があり、@俺様と瓜二つの存在が鏡を司り、毎日磨いてなきゃならねぇはずなんだ。@なのに、その世界の俺様は鏡磨きをサボっちまってるらしい。@そのせいで、全ての霊鏡が曇っちまってる。@……向こう側の汚れだから、向こう側から磨かなけりゃ綺麗にならねぇ。」\
-`"On the other side of the mirrors there are worlds just like our own. `@`And just as I tend to the mirrors here, there should be a being that does the same there too, polishing the mirrors every day. `@`But for some reason, it appears that the me in that particular world has stopped cleaning the mirrors. `@`Because of that, all those magical mirrors have become clouded over.`@` ...Since it's the other side's mirrors that have gotten dirty, they must be cleaned from that side."`\
+`"On the other side of the mirrors, there are worlds just like our own. `@`And just as I tend to the mirrors here, there should be a being that does the same there too, polishing the mirrors every day. `@`But for some reason, it appears that the me in that particular world has stopped cleaning the mirrors. `@`Because of that, all those magical mirrors have become clouded over.`@` ...Since it's the other side's mirrors that have gotten dirty, they must be cleaned from that side."`\
 
 mcl l,0
 bg black,22
