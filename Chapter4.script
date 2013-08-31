@@ -3078,7 +3078,7 @@ ld r,RUN_D7,24
 ld r,RUN_D6,80
 
 ;「では、………答えてもらおうかしら。@この絵の作者の名前は？」\
-"So... can you tell me? `@`Who did this painting?"`\
+`"So... can you tell me? `@`Who did this painting?"`\
 me2v 17,50
 
 ;　……さぁ、来た。@

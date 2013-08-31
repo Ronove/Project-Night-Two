@@ -7,6 +7,5 @@ Chapter3.script
 Chapter1.script
 Chapter7.script
 ChapterExtra.script
-glossary.script
 tips.script
 FOOTER.script
