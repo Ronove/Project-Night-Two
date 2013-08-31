@@ -23,7 +23,7 @@ ld c,KYO_D4,80
 ` This is the boudary world between dreams and reality.`@`
 br
 ;　まぁ、平たく言えば、デイドリーム。@白昼夢の世界ってわけさ。\
-` Well, in layman's terms, this is a daydream. `@`It's a world of waking dreams.`\
+` Well, in layman's terms, this is a <daydream>. `@`It's a world of waking dreams.`\
 ld c,KYO_D2,80
 
 ;　多くの場合、下らねぇことしか見つからねぇが。@
@@ -32,7 +32,7 @@ ld c,KYO_D2,80
 ` But it's just interesting enough to kill some time every now and again...`@`
 br
 ;　どれどれ……。@さっそく、何かおかしなものが見えてきやがった……。\
-` Oh, what's this....? `@`Right away, it seems that we've found something odd going on...`\
+` Oh, what's this....? `@`Right away, it seems that we've found something interesting going on...`\
 se1 56
 bg white,0
 print 99,2000,"trvswave.dll/"
@@ -66,12 +66,12 @@ ld r,NAF_D2,22
 ld r,NAF_D5,80
 
 ;「第一、金森センセ。@あなた、自分の教え子に何をしたか、お忘れなの？@　猿みたいにブッコキ過ぎて、玉袋同様、頭の中まで空っぽになっちゃったのかしらぁ？」\
-` "First of all, Kanamori-sensei. `@`Did you forget what you did to your own student? `@`Or is your head as empty as your ballsack?"`\
+`"First of all, Kanamori-sensei. `@`Did you forget what you did to your own student? `@`Or is your head as empty as your ballsack?"`\
 ld l,KAN_d3,23
 ld l,KAN_w1,80
 
 ;「ほぉう。@美少年ばかり何人も狙って！@　無垢な肉体を剥き剥きして、おにんにんばかり写生していた美術教師が言うじゃないかね。」\
-`"Ohhh? `@`Says the one who's targeted so many little boys!? `@`The art teacher who stripped they're innocent bodies and drew their dicks?"`\
+`"Ohhh? `@`Says the one who's targeted so many little boys!? `@`The art teacher who stripped they're innocent bodies and drew their pee-pees?"`\
 ld r,NAF_D7a,80
 quakex 1,100
 
@@ -87,8 +87,8 @@ ld c,NAF_D8a,24
 se1v 8,50
 quakex 2,200
 
-「あんただって、ビュービュー、吐きまくってたでしょうが！@　あなた、私に誇れる点なんてあるのかしら？！」\
-
+;「あんただって、ビュービュー、吐きまくってたでしょうが！@　あなた、私に誇れる点なんてあるのかしら？！」\
+`"Look at you blowing all that hot air! `@`What makes you so much better than me?!"`\
 cl a,0
 ld r,NAF_D9,0
 mld c,KAN_K2,23
@@ -96,36 +96,38 @@ se1v 8,50
 quakex 2,200
 
 ;「被害者の数が僕はひとり！@　君はたくさん！@　僕は愛ゆえに！@　君は欲望ゆえに！！」\
-`"My number of victims has been limited to one!`@`Yours is numerous!`@`Mine are due to love!`@`Yours are out of desire!"`\
+`"My number of victims has been limited to one! `@`Yours were numerous! `@`Mine was out of love! `@`Yours out of lust!!"`\
 cl a,0
 mcl c,0
 ld c,KAN_K2,0
 mld r,NAF_D9a,80
 
 ;「ぐぬぬぬぬぬぬぬ…！！@　いいわッ、どっちが変態教師かッ、勝負をつけようじゃない！」\
-`"Hahahahahahahahaha!!`@` All right. Which of us is really the pervert teacher? Won't we have a contest?"`\
+`"Grrrrrrr...!! `@`Fine! Let's have a contest to see which one of us is the real perveted teacher!"`\
 
 cl c,0
 ld l,KAN_W2,24
 ;ld r,NAF_D6a,23
 
 ;「望むところだとも、新谷先生！@　さて、何で勝負するかな？！@　この金森義仁ッ、こう見えても、文武両道、武芸百般！@　愛あるが故にッ、負けを知らぬ男よ！」\
-`"I couldn't ask for anything more!`@`Well, how shall we compete?`@`Kanamori Yoshihito, depsite apperances, knows all kinds of martial arts!`@`I'm a man who knows not the meaning of 'defeat'!"`\
+`"I couldn't ask for anything more, Shintani-sensei! `@`Alright, how shall we compete? `@`I, Yoshihito Kanamori, despite my appearance am well versed in both the literary and martial arts! `@`I'm a man who has never known defeat when it comes to love!"`\
 mld r,NAF_D8a,80
 
 ;「うっふふふふふふふ！！@　変態教師ならば一度は聞いたことがあるはずッ。@/
-`"Ufufufufufufu!!`@`If it's pervert teachers we're talking about, I should have heard"`@/`
+`"Ufufufufufufu!! `@`If you're truly a perverted teacher, then you've probably heard of this one. `@/
 se1v 2,100
 quakey 5,800
 ;変態凶死腐刑惨姦で勝負よッ！！」\
-`'evil pervert miserable death sentence challenge!!'"`\
+`Parent Perverted-Teacher Conferences of DEATH!!'"`\
+; ^^^ Note To Editor: No idea how to translate this one good-ly. It's a play on different kanji that are pronounced the same way. -- Romaji: HENTAI KYOUSHI FUKEI SANKAN.  Written with normal kanji usage this would mean: Perverted Teacher Parent-Teacher Conferences.  But with the kanji Ryukishi used here it means: Perverted Evil Death Castration Cruel Wicked
+; ...Note Continued: I just decided to keep the underlying meaning of parent-teacher conferences and add "of death" at the end in place of those crazy kanji. If you can think of a better pun to use here though, by all means go ahead.
 ;cl c,0
 ld l,KAN_K5,24
 se1v 27,50
 quake 5,800
 
-「のわッ、のわンとッ、その勝負はぁあぁああぁああぁほわぁあああぁあぁッ！！！」\
-
+;「のわッ、のわンとッ、その勝負はぁあぁああぁああぁほわぁあああぁあぁッ！！！」\
+`"No, NO, Anything but thaaaAAAAaaaat!!!"`\
 mcl a,0
 
 bg black,23
@@ -133,11 +135,12 @@ bg shokuin_01,0
 ld r,KYO_D2,23
 
 ;　……何だこりゃ。@
-` ...what the hell.`@`
-　クレイジー教師たちの下らねぇ罵り合いは、放っておくことにしよう。@
+` ...What the hell was all that.`@`
+;　クレイジー教師たちの下らねぇ罵り合いは、放っておくことにしよう。@
+` Let's leave these <crazy>, trash-talking teachers alone.`@
 br
 ;　さて、あっちは何だ？\
-` Well, what's that over there?`\
+` Now then, what's over there?`\
 ld r,KYO_D5,80
 
 se1 56
@@ -159,71 +162,72 @@ bgm1 31
 ld l,SHU_D1,23
 
 ;「絵はね、感情を描くものなんだよ。@それがなかったら、絵なんて写真の代用品でしかないからね。」@
-`"It's a drawing, done from emotion.`@`When it's not that, drawings just aren't a substitute for photos."`@`
+`"Drawings are meant to portray emotion. `@`Without emotion, they're nothing more than a substitute for photos."`@
 ;＜子供秋一
 
 ld r,NOD_D2,24
 
 ;「なるほどね……。@絵ってのは奥深いんだね……。」\
-`"I see....`@`drawings are deeper, aren't they...?"`\
+`"I see.... `@`Drawings and painting are so profound...."`\
 ;＜野田
 
 ;　あいつ、今度は秋一のモデルになってるのか。@
-` This time, he was becoming a model for Akiichi.`@`
+` So this time he's modeling for Shuuichi, huh?`@`
 br
 ;　良かったな、今回は服を脱がずにモデルをさせてもらえてるようだぜ。\
-` Luckily, this time it seems he wasn't going to be made a model without taking off his clothes.`\
+` Good thing he's keeping his clothes of this time.`\
 ld l,SHU_D4,80
 
 ;「君の姿を、見たままに描いたら写真でしかない。@だから僕は、君の姿を通して、感情を描くんだよ。」@
-`"Because I saw your shape just the way it is, if draw, I have to choice but to photograph you.`@` That's why I, through your figure, can draw my feelings."`@`
+`"If I draw you exactly the way you look, then It'd be the same as pulling out a camera and taking a picture. `@`So I draw the way you look based on my emotions."`@`
 ld r,NOD_D1,80
 
 ;「そう言えば、新谷先生もそんなことを言っていたなぁ……。」\
-`"Now you mention it, Shintani-sensei was saying something similar..."`\
+`"Now you mention it, Shintani-sensei said something similar..."`\
 bg black,22
 bg kaiga_02,22
 
 ;「新谷先生の絵って、見たことないね。@どんな絵だったの？」@
-`"I never saw Shintani-sensei's picture.`@`What sort was it?"`@`
+`"I've never seen one of Shintani-sensei's drawings. `@`What kind of drawings does she do?"`@`
 ;「……えっと……。@……ちょっと……、恥ずかしい感じかな………。」\
-`"Uh.....`@`...I...I wonder if it might be a bit embarrasing."`\
+`"...Um...`@`... Kind of... embarrassing ones, I guess....."`\
 bg black,22
 bg bijutu_02,0
 ld r,SHU_D1,22
 ld r,SHU_D4,80
 
 ;「ふぅん。@それは面白い感想だね。@少なくとも、それを口にすることに躊躇する程度の感情を君に与えてるわけだ。@芸術作品としては、興味深いね。」@
-`"Hmmm.`@`That's an interesting comment.`@`At least, it seems like as you were about to say something a feeling of hesitation hit you.`@`As a work of art, it's of great interest."`@`
+`"Hmmm. `@`That's an interesting way of describing of a picture. `@`At the very least, for you to feel so hesitant while describing it, `@`as a work of art it sounds very intriguing."`@`
 ld l,NOD_D5a,23
 
 ;「……げ、芸術って、難しいんだね……。@秋一くんが僕を描いてるそれも、芸術作品なの……？」\
-`"...A-art is difficult though, right?`@`Is Akiichi-kun drawing me really a work of art...?"`\
+`"...A-Art is quite complicated though isn't it....? `@`Would the sketch you're doing of me be considered a work of art as well?"`\
 ld r,SHU_D3,80
 
 ;「もちろんさ。@僕は人に感情を感じてもらうために、いつだって絵を描いているんだ。@今回はそれを絵じゃなくて、漫画で描いてるんだけれどね。」\
-`"Of course.`@`To make poeple feel emotion, I'm always drawing.`@`This time however, it's not a sketch but a comic style."`\
+`"Of course. `@`I'm always drawing so that I can teach people to feel emotions. `@`It's not a picture this time though, I'm drawing a manga."`\
 ld l,NOD_D3,80
 
 ;「へー……、漫画ってすごいね。@ジャＭプとかに投稿するの？」@
-`"Waaah! Manga is great isn't it.`@`Is it something like what SHONEN JAMP would publish?"`@`
+`"Waaah... Manga? That's amazing. `@`Is it going to be published in SHONEN JAMP?"`@`
 ld r,SHU_D2,80
 
-「どっちかというと、次のオンリーかなぁ。@君みたいな受専も手堅い需要があるしねー。@評判が良かったら加筆して夏コミで再販かなぁ。」\
-
+;「どっちかというと、次のオンリーかなぁ。@君みたいな受専も手堅い需要があるしねー。@評判が良かったら加筆して夏コミで再販かなぁ。」\
+`"Probably something more like my next exclusive doujin. `@`There's a pretty steady demand for purely uke types like you. `@`Maybe if the reception is good I can do some revisions to it and resell it at NatsuComi."`\
 bg black,24
 bg bijutu_01,0
 ld l,KYO_D6a,24
 
 ;　………よくわかんねぇが、ろくな漫画じゃない気がするぜ。@
-` ....I'm not sure, but I feel that it's not a manga not worth mentioning.`@
-　少しはマシな連中はいねぇのか。@
+` ....I'm not sure what they're taling about, but I have a feeling that it's not a very respectable manga they're talking about.`@
+;　少しはマシな連中はいねぇのか。@
+` Let's see if there's a better group of people around here.`@
 br
 
 ld l,KYO_D5,80
 
 ;　お、こっちはマシそうだな。@まったりとしたガールズトークが聞こえてきやがる……。\
-` Ah, that's better.`@`I could hear you being laid back and chatting with girls...`\
+` Ah, these guys look better. `@`Looks like they're having a nice, laid-back <girls' talk>....`\
 se1 56
 bg white,0
 print 99,2000,"trvswave.dll/"
@@ -237,13 +241,13 @@ ld r,NON_D3a,24
 bgm1 2
 
 ;「まぁ、確かにたまに、心霊写真なんて呼ばれるものもありはするけど……。」@
-`"Well, for certain it's sometimes called a Spirit Photo too...."`@
+`"Well, sometimes people call that spirit photography, but..."`@
 ;＜野々宮
 
 ld l,YO2_D1,23
 
 ;「えー。@心霊写真なんて、ほとんどはインチキなんでしょう…？」\
-`"What?`@`Aren't most Spirit Photos fake?"`\
+`"What? `@`So most spirit photos fake?"`\
 ;＜沼田陽子
 
 bg black,23
@@ -251,12 +255,14 @@ bg kyou_02,0
 ld c,TOM_D4,23
 ld c,TOM_D2,80
 
-「“ほとんどは”ってことは、一部には本物もあるかもしれないってわけでしょー？！@　そう！@　心霊写真はね、実在するのよー！」@
+;「“ほとんどは”ってことは、一部には本物もあるかもしれないってわけでしょー？！@　そう！@　心霊写真はね、実在するのよー！」@
+`"Doesn't 'most' mean that a portion of them are the real thing?! `@`It's true! `@`Spirit photos actually exist!"`@
 ;＜岡田智子
 
 ld r,YO2_D2,24
 
-「そ、そうなんだ……。@じゃあ、私の写真に写ってた、あの変な光の玉みたいなのは？」\
+;「そ、そうなんだ……。@じゃあ、私の写真に写ってた、あの変な光の玉みたいなのは？」\
+`"W-Wow... `@`Then is this strange ball of light in the picture I took a spirit?"`\
 ;＜陽子
 
 se1 4
@@ -264,38 +270,40 @@ mbg white,1
 mcbg 22
 ld c,TOM_D6,80
 
-「それは玉響（たまゆら）だねぇ！@　オーブ現象とも言うけど！@　霊魂が珠になって写りこむんだよー！@　お墓や自殺名所、心霊スポットなんかで写真を撮ると、うじゃうじゃ写り込んだりするよー！」\
-
+;「それは玉響（たまゆら）だねぇ！@　オーブ現象とも言うけど！@　霊魂が珠になって写りこむんだよー！@　お墓や自殺名所、心霊スポットなんかで写真を撮ると、うじゃうじゃ写り込んだりするよー！」\
+`"That's called a spirit orb! `@`Sometimes called the Orb Phenomenon! `@`It's when a spirit gets caught in the picture in the form of a little ball! `@`If you take a picture at a gravesite, suicide site or haunted area they'll appear in large groups!"`\
 
 bg "bmp\background\efe\photo3.bmp",22
 ;ld r,YO2_D1,80
 
-「そ、そうだったんだ……。@私が写真を撮ると、いっつも写ってるの。@それってつまり、私が何かの霊に取り憑かれているとか、そういうことなのかなぁ……。」\
-
+;「そ、そうだったんだ……。@私が写真を撮ると、いっつも写ってるの。@それってつまり、私が何かの霊に取り憑かれているとか、そういうことなのかなぁ……。」\
+`"W-Wow... `@`They're in all the pictures that I take. `@`I wonder if that means that I'm being haunted by a spirit or something..."`\
 ;ld l,TOM_D2,80
 
-「うーんッ、その可能性も否定できないねー！@　何か霊障があるなら、専門の人に見てもらった方がいいかもねぇ！@　写真に写るってのは、立派な霊的警告だからね！@　無視しないで、ちゃんと対応した方がいいと思うよー！」\
-
+;「うーんッ、その可能性も否定できないねー！@　何か霊障があるなら、専門の人に見てもらった方がいいかもねぇ！@　写真に写るってのは、立派な霊的警告だからね！@　無視しないで、ちゃんと対応した方がいいと思うよー！」\
+`"You can't rule out the possibility! `@`If you think you're being haunted you should try talking to a specialist on the subject! `@`Photos are a great way for spirits to warn you about things! `@`Don't ignore it, definitely look into it!"`\
 
 ;bg black,23
 bg kyou_02,0
 ld r,NON_D6a,23
 ld r,NON_D3a,80
 
-「それは、レンズの埃とかが原因じゃないかな……。@心霊写真なんて呼ばれるものは全て、カメラの構造的な問題で説明できるよ……。」\
+;「それは、レンズの埃とかが原因じゃないかな……。@心霊写真なんて呼ばれるものは全て、カメラの構造的な問題で説明できるよ……。」\
+`"Isn't that just dust on the lense....? `@`All cases of spirit photography can be explained as being simple technical issues with the camera..."`\
 ;＜野々宮
 
 ld l,YO2_D1,23
 
-「そうなの…？@　私が何かに取り憑かれてるから心霊写真が撮れちゃうんじゃないの？」@
-
+;「そうなの…？@　私が何かに取り憑かれてるから心霊写真が撮れちゃうんじゃないの？」@
+`"Really...? `@`It's not a spirit photograph of something that's been haunting me?"`@
 ld r,NON_D2,80
 
-「ないない。@そんなことは断じてないよ。@カメラの専門家である僕が保証する。」\
-
+;「ないない。@そんなことは断じてないよ。@カメラの専門家である僕が保証する。」\
+`"No way. `@`There's no way that can happeb. `@`I guarantee it as a camera expert."`\
 ld l,YO2_D3,80
 
-「うふふ、野々宮くんって、カメラのことを話す時、ちょっぴりカッコいいね…！」\
+;「うふふ、野々宮くんって、カメラのことを話す時、ちょっぴりカッコいいね…！」\
+`"Ufufu, Nonomiya-kun, when you start talking about cameras, you act a little cool...!"`\
 ;＜陽子
 
 ;cl l,0
@@ -305,23 +313,25 @@ ld c,TOM_D7,62
 se1v 8,50
 quakex 2,200
 
-「ふごー！！@　心霊写真、馬鹿にしたわねー？！@　あんたの写真に、これからはずっとお邪魔するからねー？！」\
-
+;「ふごー！！@　心霊写真、馬鹿にしたわねー？！@　あんたの写真に、これからはずっとお邪魔するからねー？！」\
+`"Fwgaaah!! `@`Are you making fun of spirit photography?! `@`I'm gonna make sure to stand in all your pictures from here on out!!"`\
 ;wait 500
 bg black,23
 bg kyou_04,0
 ld c,KYO_D2,23
 
-　カメラマンと幽霊たちが、心霊写真談義か……。@
+;　カメラマンと幽霊たちが、心霊写真談義か……。@
+` A cameraman and two ghosts talking about spirit photography...?`@
 br
-　色々とシュールだな……。\
-
+;　色々とシュールだな……。\
+` That's all sorts of surreal...`\
 ld c,KYO_D3,80
 
-　あっちは何だ？@
+;　あっちは何だ？@
+` What's going on over there?`@
 br
-　わざわざ片目を隠してやがる、おかしなガキどもだ。\
-
+;　わざわざ片目を隠してやがる、おかしなガキどもだ。\
+` Well if it isn't the one-eyed brat.`\
 se1 56
 bg white,0
 print 99,2000,"trvswave.dll/"
@@ -338,12 +348,14 @@ wait 1000
 
 ld r,MIC_D2,24
 
-「……あなたに霊能力なんてないよ。@あなたは平凡な一般人。」@
+;「……あなたに霊能力なんてないよ。@あなたは平凡な一般人。」@
+`"...You don't have any psychic powers. `@`You're a normal person."`@
 ;＜みちる
 
 ld l,HIK_D4,23
 
-「へぇ……。@僕のチカラがわからないようじゃ、君も噂ほどじゃないようだね。」\
+;「へぇ……。@僕のチカラがわからないようじゃ、君も噂ほどじゃないようだね。」\
+`"What... `@`You don't know anything about my powers, and you're not nearly as good as the rumors make you out to be."`\
 ;＜ひかる
 
 textoff
@@ -354,16 +366,18 @@ ld l,HIK_W1,80
 
 bgm1 21
 
-「やれやれ。@このチカラを見せたくはなかったんだけれどね。@/
+;「やれやれ。@このチカラを見せたくはなかったんだけれどね。@/
+`"I guess it's not use. `@`I didn't want to show you my power, but here it goes. `@/
 se1v 2,100
 quakey 2,200
-……おいでッ、僕のシャドウ！！@　終末崩壊のカスタネットオブハメルン！！」\
+;……おいでッ、僕のシャドウ！！@　終末崩壊のカスタネットオブハメルン！！」\
+`...Come forth, my shadow!! `@`Terminal Decay, Castanets of Hameln!!"`\
 ;＜ひかる
 
 ld r,MIC_D4,80
 
-「……そう。@じゃあ、私も呼んであげる。@私の守護幻獣（ガーディアンビースト）。@おいでませ、さくのしんさまッ！！」\
-
+;「……そう。@じゃあ、私も呼んであげる。@私の守護幻獣（ガーディアンビースト）。@おいでませ、さくのしんさまッ！！」\
+`"...I see. `@`In that case, I'll call mine as well. `@`My Guardian Beast. `@`Come forth, Sakunoshin-sama!!"`\
 se1v 2,100
 quakey 2,200
 
@@ -380,41 +394,43 @@ ld r,SAK_D2,80
 
 bgm1 19
 
-「うりゅー！@　僕は動物霊の長のさくのしん！」@
+;「うりゅー！@　僕は動物霊の長のさくのしん！」@
+`"Uryu-! `@`I am the Leader of Animal Spirits, Sakunoshin!"`@
 ;＜さくのしん
 
 ld l,HAM_D2,23
 
-「あ、ども……。@しょぼい妖怪やってます、ハメルンと申します。@これ、つまらないモノですけど……。」\
+;「あ、ども……。@しょぼい妖怪やってます、ハメルンと申します。@これ、つまらないモノですけど……。」\
+`"Ah, hello... `@`I am but a lowly youkai named Hameln. `@`Here, have this..."`\
 ;＜ハメルン
 
 cl r,0
 ld c,SAK_D4,24
 
-「わー、ハンペンだー！！@　ありがとー！@　うりゅー！！」@
-
+;「わー、ハンペンだー！！@　ありがとー！@　うりゅー！！」@
+`"Ohh, a meat cake!! `@`Thanks! `@`Uryu-!!"`@
 ld l,HAM_D3,80
 
-「わさび醤油で食べるとウマイっすよねー。@あ、兎鍋で美味しい店を探す時は、ぜひ声を掛けてほしいっす。」\
-
+;「わさび醤油で食べるとウマイっすよねー。@あ、兎鍋で美味しい店を探す時は、ぜひ声を掛けてほしいっす。」\
+`"It's really good with wasabi soy sauce. `@`Oh, if you ever want to know a great place to get rabbit soup, just let me know."`\
 bg black,23
 bg gakkou_03,23
 ld l,MIC_D3,23
 
-「へぇ……。@全方位射程無制限型？」@
-
+;「へぇ……。@全方位射程無制限型？」@
+`"Ah... `@`A rapid ranged attack from all directions?"`@
 ld r,HIK_W1,24
 
-「ハメルンのカスタネットからは、クラスＳ未満のハンターは決して逃れられないのさ。@/
-
+;「ハメルンのカスタネットからは、クラスＳ未満のハンターは決して逃れられないのさ。@/
+Nothing less than a class S hunter can get away from Hameln's castanets. `@/
 ld r,HIK_N1,80
 
-……はッ。@まさか、その余裕……。@こ・い・つ、……クラスＳ？！」\
-
+;……はッ。@まさか、その余裕……。@こ・い・つ、……クラスＳ？！」\
+`...Hah. `@`No way, that level of composure.... `@`Is he... a class S?!"`\
 ld l,MIC_D6,80
 
-「気付くのが遅かったようね。@……喰い破れッ、ガーディアンビーーーーストッ！！！」\
-
+;「気付くのが遅かったようね。@……喰い破れッ、ガーディアンビーーーーストッ！！！」\
+`"You're slow on the uptake.`@`... Eat up, Guradian Beeeaaaaast!!!"`\
 bg black,22
 bg hokora_01,0
 ld c,SAK_D4,0
@@ -422,24 +438,26 @@ ld l,HAM_D1,22
 
 ld c,SAK_D2,80
 
-「いっただっきまーす！！@　はむはむッ、わさびもいーけど、洋辛子もおいしーねー！」@
-
+;「いっただっきまーす！！@　はむはむッ、わさびもいーけど、洋辛子もおいしーねー！」@
+`"Thanks for the food!! `@`Nom nom, wasabi's good, but I like spicy mustard!"`@
 ld l,HAM_D2,80
-「見事な食いっぷりっす！！@　ショボい妖怪ですが、どうかよろしくお願いしますっすー！」\
-
+;「見事な食いっぷりっす！！@　ショボい妖怪ですが、どうかよろしくお願いしますっすー！」\
+`"What amazing eating power!! `@`I am but a lowly youkai, but please accept my best regards!"`\
 bg black,22
 bg gakkou_02,0
 ld c,KYO_D2,22
 
-　……何だ、ありゃ。@
-　まぁ、当人たちは楽しそうだし、放っとけばいいか……。@
+;　……何だ、ありゃ。@
+` ...What the hell.`@
+;　まぁ、当人たちは楽しそうだし、放っとけばいいか……。@
+` Well, they seem to be having fun, so let's leave them be...`@
 br
-　どうせ、白昼夢の世界。@真面目に考えるだけ、ステューピッドを見るってもんだぜ。\
-
+;　どうせ、白昼夢の世界。@真面目に考えるだけ、ステューピッドを見るってもんだぜ。\
+` At any rate, this is the world of daydreams. `@`If you think about things too seriously, it'll just seems <stupid>.`\
 ld c,KYO_D1,80
 
-　おや。@あっちにいるのは、アザミとスミレの姉妹じゃねぇか。\
-
+;　おや。@あっちにいるのは、アザミとスミレの姉妹じゃねぇか。\
+` Oh? `@`Is that the Azami-Sumire sisters over there?`\
 se1 56
 bg white,0
 print 99,2000,"trvswave.dll/"
@@ -457,7 +475,8 @@ bgm1 28
 
 ld c,SMI_W3,80
 
-「ふひひひひひひ！@　馬鹿め、いじめはなくならぬわ！@　それこそ、我らの養分なのじゃ！」\
+;「ふひひひひひひ！@　馬鹿め、いじめはなくならぬわ！@　それこそ、我らの養分なのじゃ！」\
+`"Fuhihihihi! `@`You idiot, bullying will never disappear! `@`That's why we use it for nourishment!"`\
 ;＜スミレ
 
 bg white,23
@@ -465,103 +484,106 @@ bg sadou_03,0
 mld c,YUK_I2,23
 mld c,YUK_I3,80
 
-「うぅん、いじめはなくせるよ！@　なくならないなんて、認めない！」@
+;「うぅん、いじめはなくせるよ！@　なくならないなんて、認めない！」@
+`"No, I will make it disappear! `@`I won't allow it to exist!"`@
 ;＜由香里
 
 ld r,YOS_D3a,24
 
-「……まぁ、うちのクラスでは完全に撲滅されたしな。」\
+;「……まぁ、うちのクラスでは完全に撲滅されたしな。」\
+`"...Well, in her defense, it has been completely eraditaced from our class."`\
 ;＜吉川
 
 ld l,AZA_D4,23
 
-「うふふふふふふ。@由香里の暴力で平定したわけですね。」\
+;「うふふふふふふ。@由香里の暴力で平定したわけですね。」\
+`"Ufufufufufu. `@`That's because Yukari violently repressed it."`\
 ;＜アザミ
 
 mld c,YUK_I2,80
 
-「言葉は悪いけど、そういうこと！@　いじめを正義の暴力で制す！@/
-
+;「言葉は悪いけど、そういうこと！@　いじめを正義の暴力で制す！@/
+`"I would have phrased it differently, but you're right! `@`I moderate the bullying with righteous violence!`@/
 mld c,YUK_I3,80
 se1 12
 quakey 2,200
 
-　私のクラスの治安は、私が守るわッ。」@
-
+;　私のクラスの治安は、私が守るわッ。」@
+` I uphold the order in my class."`@
 ld r,YOS_D4a,80
 
-「……次の委員長の投票、榊に入れねぇと、ブン殴られそうだな……。」\
-
+;「……次の委員長の投票、榊に入れねぇと、ブン殴られそうだな……。」\
+`"...I heard that if you don't vote for her as the next class representative, she'll punch you..."`\
 mcl c,0
 bg black,22
 bg ningyou_02,0
 ld c,SMI_I1,23
 ;ld l,SMI_D1,80
 
-「何ということじゃ、姉者！！@　いじめは暴力の前に無力だというのか？！」@
-
+;「何ということじゃ、姉者！！@　いじめは暴力の前に無力だというのか？！」@
+`"What is this, sister! `@`Is bullying really powerless in the face of brute force?!"`@
 ;ld r,AZA_D4,24
 ld r,AZA_D2,24
 
-「いじめは民主主義ですからねぇ。@由香里による、暴力の独裁の前には無力かもしれませんねぇ。」\
-
+;「いじめは民主主義ですからねぇ。@由香里による、暴力の独裁の前には無力かもしれませんねぇ。」\
+`"That's because bullying is a democracy. `@`It may be powerless before the Yukari's power-based dictatorship."`\
 cl c,0
 ld l,SMI_I3a,24
 se1 48
 quakey 1,100
 
-「そういうことじゃ、ズルいぞ由香里！！@　いじめの自由もあるはずなのじゃ！@　独裁暴力、反対なのじゃ！！@　いじめがなくなったら我らは飢えてしまうのじゃ！」\
-
+;「そういうことじゃ、ズルいぞ由香里！！@　いじめの自由もあるはずなのじゃ！@　独裁暴力、反対なのじゃ！！@　いじめがなくなったら我らは飢えてしまうのじゃ！」\
+`"See, see! That's cheating Yukari!! `@`Bullying should be free! `@`Down with the violent dictatorship!! `@`With bullying we'll starve!"`\
 ld r,AZA_D3,80
 
-「世の中、いじめから学ぶべきこともあると思います。@社会の毒に耐える力を付けるためにも、それを薄めたものに身を浸すこともまた、学習ではありませんか…？」\
-
+;「世の中、いじめから学ぶべきこともあると思います。@社会の毒に耐える力を付けるためにも、それを薄めたものに身を浸すこともまた、学習ではありませんか…？」\
+`"I think there's a lot to be learned from bullying in this world. `@`Isn't one way of putting up with the poison of society to practice by allowing yourself to experience a diluted version of it...?`\
 se1 4
 mbg white,1
 mcbg 22
 ld l,SMI_I1,80
 
-「出たーッ、姉者のパーフェクト偽善屁理屈なのじゃ！！@　そうそう、いじめは必要悪なのじゃ、世間へのワクチンなのじゃ！@　さぁさぁ、いじめの自由を認めるのじゃー！！」\
-
+;「出たーッ、姉者のパーフェクト偽善屁理屈なのじゃ！！@　そうそう、いじめは必要悪なのじゃ、世間へのワクチンなのじゃ！@　さぁさぁ、いじめの自由を認めるのじゃー！！」\
+`"And there it is, sister's perfectly hypocritcal argument!! `@`It's a needed evil! A vaccine needed to survive society!!"`\
 bg black,24
 bg sadou_03,0
 ld r,YUK_I5,24
 
 ;ld r,YUK_I3,80
 
-「私のクラスでいじめがしたければッ。@この私の屍を乗り越えてもらいましょうか！」\
-
+;「私のクラスでいじめがしたければッ。@この私の屍を乗り越えてもらいましょうか！」\
+`"If anyone in my class want to bully someone, `@`they'll be doing it over my dead body!"`\
 ld l,YOS_D10a,23
 
-「うぉぉ、榊がカッケェ…！@　榊がでっかく見える…！！@/
-
+;「うぉぉ、榊がカッケェ…！@　榊がでっかく見える…！！@/
+`"Whoa, Sakaki, you're so cool...! `@`You look like a giant...!!`@/
 cl r,0
 ld c,YUK_I3,24
 se1 10
 quakex 1,100
 ld l,YOS_D4a,80
 
-　痛デッ！！@/
-
+;　痛デッ！！@/
+` Ouch!!`@/
 se2 11
 quakey 1,100
 
-　さ、榊ッ、ご、ごめッ、」@
-
+;　さ、榊ッ、ご、ごめッ、」@
+` Sa-Sakaki, s-sorry,"`@
 ld c,YUK_I5,80
 
-「言ったなぁ？！@　また私の身長のこと言ったなぁ？！@/
-
+;「言ったなぁ？！@　また私の身長のこと言ったなぁ？！@/
+`"You making fun of me?! `@`Commenting on my height again?!`@/
 se1 10
 quakex 1,100
 
-　殴る！！@/
-
+;　殴る！！@/
+` Punch!!`@/
 se2 11
 quakex 1,100
 
-　殴る殴る！！」\
-
+;　殴る殴る！！」\
+` Punch, punch!!"`\
 bg white,23
 bg ningyou_02,0
 ld l,SMI_I1,0
@@ -570,26 +592,29 @@ ld c,AZA_D4,23
 ld c,AZA_D7,80
 quake 5,700
 
-「だ・れ・が、パーフェクト偽善屁理屈ですってぇええぇえぇええ？！」@
-
+;「だ・れ・が、パーフェクト偽善屁理屈ですってぇええぇえぇええ？！」@
+`"W H O ' S argument are you calling perfectly hypocriticaaaaallllll?!"`@
 ld l,SMI_N3,80
 
-「ふぎゃぎぃいいいぃ、姉者ぁあぁあ、いじめ反対なのじゃああぁああぁぁ！！」\
-
+;「ふぎゃぎぃいいいぃ、姉者ぁあぁあ、いじめ反対なのじゃああぁああぁぁ！！」\
+`"Fugyaaagieee, Sisteeeerrr, don't bully meeeEEeeEEee!!"`\
 bg black,22
 bg rouka_02,0
 ld c,KYO_D2,22
 
-　……あのくらいの歳の頃って、女子の方が背が高いし力も強いからな。@
+;　……あのくらいの歳の頃って、女子の方が背が高いし力も強いからな。@
+` ...When they're around that age girl's tend to be taller and stronger anyway.`@
 br
-　まぁ、クソガキどもは、女のヒップに敷かれてるくらいが、クラスは平和でいいだろう。\
-
+;　まぁ、クソガキどもは、女のヒップに敷かれてるくらいが、クラスは平和でいいだろう。\
+` Well, maybe it's a good thing for those brats to be forced to behave by the whip of a girl.`\
+; ^^^ Note To Editor: There's some nice imagery in the Japanese here that I couldn't figure out how to fit into the English. In English when a husband is heavily controlled by his wife we say he's henpecked or, at least in American English, whipped. In Japanese they use a phrase that means the wife is sitting down on the husband as he supports her weight. The imagery here is that Yukari, the wife, is sitting on the class, the henpecked husband. If you can find a way to fit that in, go ahead.
 ld c,KYO_D3,80
 
-　それにしても、さっきからロクでもない白昼夢にしか出くわさないな。@
+;　それにしても、さっきからロクでもない白昼夢にしか出くわさないな。@
+` Still, we haven't seen anything but nonsensical daydreams so far.`@
 br
-　もう少し、落ち着いた、まったりしたデイドリームはないものか……。\
-
+;　もう少し、落ち着いた、まったりしたデイドリームはないものか……。\
+` I'm starting to think that there aren't really any laid-back <daydreams>....`\
 se1 56
 bg white,0
 print 99,2000,"trvswave.dll/"
@@ -605,55 +630,60 @@ bgm1 31
 
 ld l,KOU_D1,23
 
-「……平和だねぇ……。」@
+;「……平和だねぇ……。」@
+`"...It's so peaceful...."`@
 ;＜校長
 
 ld c,HOK_D4,23
 
-「平和ですわねぇ。」@
+;「平和ですわねぇ。」@
+`"So peaceful."`@
 ;＜保健
 
 ld r,RUN_D1,24
 
-「保健室が平和なのは、本当にいいことだね。」\
+;「保健室が平和なのは、本当にいいことだね。」\
+`"It's really nice when the infirmary is this peaceful."`\
 ;＜ルノワール
 
 ld c,HOK_D2,80
 
-「忙しいわよー、保健室は。@毎日、いろんなトンチンカンが、面白おかしい怪我をこさえて、泣き喚きながらやってくるからねぇ！」\
+;「忙しいわよー、保健室は。@毎日、いろんなトンチンカンが、面白おかしい怪我をこさえて、泣き喚きながらやってくるからねぇ！」\
+`"It's normally really busy. `@`Every day kids come in bawling their eyes out over absurd, yet laughable injuries!"`\
 ;＜保健
 
 ld l,KOU_D3,80
 
-「保健室が静かということは、誰も怪我をしてないということじゃないかね。@ほっほっほ、実に結構、結構だね。」@
-
+;「保健室が静かということは、誰も怪我をしてないということじゃないかね。@ほっほっほ、実に結構、結構だね。」@
+`"So when it's quiet in the infirmary that means that no one's getting hurt. `@`Ho ho ho, that's all the better."`@
 ld r,RUN_D5,80
 
-「校長先生が平和というのも同じことじゃない？@　愚かな人間が、妖怪に喰い殺されてないって証拠でもあるわけだし。」\
+;「校長先生が平和というのも同じことじゃない？@　愚かな人間が、妖怪に喰い殺されてないって証拠でもあるわけだし。」\
+`"Don't things get peaceful for you for the same reason, Headmaster? `@`When things are quiet that means that there are no foolish humans being devoured by youkai."`\
 ;＜ルノ
 
 bg black,24
 bg hoken_02,24
 ld r,KOU_D4,22
 
-「ほっほっほ。@最近の若い妖怪たちは狩りが盛んだからねぇ。@お陰で大忙しじゃよ。」\
-
+;「ほっほっほ。@最近の若い妖怪たちは狩りが盛んだからねぇ。@お陰で大忙しじゃよ。」\
+`"Ho ho ho. `@`The younger youkai have been hunting quite enthusiasticly lately. `@`You've all been making me very busy."`\
 ld l,HOK_D4,23
 
-「こっちもそっちも。@私たちはいっつも大忙しねぇ。@はーッ、いい男いないかしらー。@/
-
+;「こっちもそっちも。@私たちはいっつも大忙しねぇ。@はーッ、いい男いないかしらー。@/
+`"It's always something. `@`Someone's always making work for us. `@`Haa-, I wish that I could find a nice man. `@/
 ld l,HOK_D2,80
 
-ねぇ、ルノワールくん。@あなた、絵の中に出入りできる妖怪なんでしょ？@　絵の中から、素敵な男性を呼び出すこととか出来ないの？！」\
-
+;ねぇ、ルノワールくん。@あなた、絵の中に出入りできる妖怪なんでしょ？@　絵の中から、素敵な男性を呼び出すこととか出来ないの？！」\
+`Hey, Renoir-kun. `@`You're a youkai that can go in and out of art, right? `@`Can you pull a really good looking guy out of some art for me?!"`\
 bg black,23
 bg hoken_01,0
 ld c,RUN_D6a,23
 
 ld c,RUN_D7a,80
 
-「絵の外には出せないけど、先生を絵の中に招待することなら出来るかな……。」\
-
+;「絵の外には出せないけど、先生を絵の中に招待することなら出来るかな……。」\
+`"I can't bring anything out of the artwork, but I might be able to invite you into one..."`\
 se1 4
 cl c,0
 ld r,RUN_D6a,0
@@ -663,76 +693,77 @@ quakex 2,200
 
 ld c,HOK_D3,80
 
-「絵って、絵画オンリー？！@　本とか漫画とかの絵は駄目なの？！」@
-
+;「絵って、絵画オンリー？！@　本とか漫画とかの絵は駄目なの？！」@
+`"Does artwork only mean paintings and portraits, stuff like that?! `@`Can you do it with the art in a book or a manga?!"`@
 ld r,RUN_D7a,80
 
-「やったことはないけど、……多分、出来るんじゃないかな。」\
-
+;「やったことはないけど、……多分、出来るんじゃないかな。」\
+`"I've never tried before... but, probably."`\
 
 ;ld c,HOK_D1,80
 cl c,24
 se1 3
 quakex 1,100
 
-「ぬ、ぬおおぉおおおおおぉ！！@　ちょっと待ってなさい、ちょっと待ってなさい！！」\
-
+;「ぬ、ぬおおぉおおおおおぉ！！@　ちょっと待ってなさい、ちょっと待ってなさい！！」\
+`"Wh-Whoooooaaaaa!! `@`One second, I'll be right back!!"`\
 ;cl c,24
 ;se1 3
 ;quakex 1,100
 bg white,24
 bg hoken_04,24
 
-　保健の先生は雄叫びをあげながら、事務机の一番下の段の引き出しを開け、@さらにその奥の裏側に隠してあった、妙に薄い本の数々を取り出し始める。\
-
-bg black,22
+;　保健の先生は雄叫びをあげながら、事務机の一番下の段の引き出しを開け、@さらにその奥の裏側に隠してあった、妙に薄い本の数々を取り出し始める。\
+` With a roar, the school nurse ran over to her office desk and pulled out the lowest drawer, `@`and started pulling out multiple thin books that were hidden in the far back.`\
 bg hoken_02,22
 ld r,RUN_D6a,24
 
-「いいんですか、校長先生……。」@
-
+;「いいんですか、校長先生……。」@
+`"Are you okay with this, Headmaster...?"`@
 ld l,KOU_D3,23
 
-「教師にも息抜きが必要じゃよ。@それが二次元の中ならば大いに構わんね。@/
-
+;「教師にも息抜きが必要じゃよ。@それが二次元の中ならば大いに構わんね。@/
+`"Even teachers need to relax every once in a while. `@`Who am I too complain if they do it in 2D. `@/
 ;ld l,KOU_D1,80
 
-ほっほっほっほ。」\
-
+;ほっほっほっほ。」\
+`Ho ho ho ho."`\
 bg white,23
 bg hoken_04,22
 quakex 1,100
 
-「ルノワールくんッ、いいえ、ルノワールさまッ。@まま、まずはこの本のこれからお願い！@/
-
+;「ルノワールくんッ、いいえ、ルノワールさまッ。@まま、まずはこの本のこれからお願い！@/
+`"Renoir-kun, no wait, Renoir-sama. `@`C- ca- can you do this book first?!`@/
 se1 47
 quakey 1,100
 
-　まずは音也サマ！！@/
-
+;　まずは音也サマ！！@/
+` First up is Otoya-sama!!`@/
 se2 48
 quakey 1,100
 
-　いえいえ、真斗サマ！！@　あひぃいいぃうひいいいぃい！！」\
-
+;　いえいえ、真斗サマ！！@　あひぃいいぃうひいいいぃい！！」\
+` No no, wait, Masato-sama!! `@`SqueeeeEEEEeeee!!"`\
 bg black,24
 bg rouka_03,0
 ld c,KYO_D3,24
 
-　……二次元にダイブする能力か……。@
+;　……二次元にダイブする能力か……。@
+` ...The ability to <dive> into 2D, huh....`@
 br
-　一部の人間にとっては、ルノワールの能力はまさに神の能力だな……。\
-
+;　一部の人間にとっては、ルノワールの能力はまさに神の能力だな……。\
+` Some people would consider Renoir's power to be that of a god...`\
 ld c,KYO_D6a,80
 
-　それより、校長と保健の先公。@……お前ら、少しは仕事しろよ……。@
+;　それより、校長と保健の先公。@……お前ら、少しは仕事しろよ……。@
+` Leaving that aside.`@`... Headmaster and the nurse, you too should get back to work...`@
 br
-　まぁ、校長がヒマなのは、その分、教頭が仕事してるからなんだろ。\
-
+;　まぁ、校長がヒマなのは、その分、教頭が仕事してるからなんだろ。\
+` Well, the reason that the Headmaster has some freetime is because the vice principal is doing his job.`\
 ld c,KYO_D5,80
 
-　我らが教頭センセは、どちらにいらっしゃるんだ……。\
-
+;　我らが教頭センセは、どちらにいらっしゃるんだ……。\
+` Let's head to wear the VP is...`\
 se1 56
 bg white,0
 print 99,2000,"trvswave.dll/"
@@ -748,13 +779,14 @@ bgm1 3
 
 ld r,SIN_D2,24
 
-「そんなことはありませんよねぇ、みどりさん。@夢を見ることは素晴らしいことですよねぇ。」@
+;「そんなことはありませんよねぇ、みどりさん。@夢を見ることは素晴らしいことですよねぇ。」@
+`"That's not true at all, right Midori-san? `@`Dreaming is a wonderful thing to do, right?"`@
 ;＜紅茶
 
 ld l,MID_D2,23
 
-「……はい、紅茶紳士さん……。@夢は希望の羅針盤……。@なくては人は、生きていけないのです……。」\
-
+;「……はい、紅茶紳士さん……。@夢は希望の羅針盤……。@なくては人は、生きていけないのです……。」\
+`"...Yes, Black Tea Gentleman... `@`Dreams are hope's compass... `@`Without them, people wouldn't be able to go on living..."`\
 bg black,24
 bg engeki_03,0
 ld r,IZA_D7,24
@@ -762,48 +794,49 @@ se1 12
 quakey 2,200
 ld r,IZA_D5,80
 
-「バッキャロゥ！@　現実見やがれぃ！@　夢なんてモンはな、布団の中だけにしやがれ！@　第一な、夢なんて見てる時点で運動不足なんだよ！@　なぁ、あや！」\
-
+;「バッキャロゥ！@　現実見やがれぃ！@　夢なんてモンはな、布団の中だけにしやがれ！@　第一な、夢なんて見てる時点で運動不足なんだよ！@　なぁ、あや！」\
+`"Ya Morons! `@`Learn to face reality! `@`Leave dreams to when you're lying in bed! `@`If you've got time to dream in the first place, ya ain't spending enough time execisin'! `@`Right, Aya?!"`\
 ;ld l,AYA_D5a,23
 ld c,AYA_D10,24
 quakex 1,100
 
-「は、はいッ。@毎日毎日、頭が空っぽになるまで走って、倒れるように眠ると気持ちいいですっ。@夢なんか見ないでぐっすりです！」\
-
+;「は、はいッ。@毎日毎日、頭が空っぽになるまで走って、倒れるように眠ると気持ちいいですっ。@夢なんか見ないでぐっすりです！」\
+`"Y-Yes. `@`It's feels really good to clear your mind and just run every single day until you can come home and collapse into bed. `@`You'll sleep too soundly to dream!"`\
 bg white,23
 bg engeki_01,0
 ld r,SIN_d1,23
 ld r,SIN_d3,80
 
-「やれやれ……。@イザナミさんのせいで、あやさんもすっかり脳みそが筋肉になってしまいましたねぇ。」\
-
+;「やれやれ……。@イザナミさんのせいで、あやさんもすっかり脳みそが筋肉になってしまいましたねぇ。」\
+`"Oh dear... `@`It appears that Izanami-san has turned Aya-san's brain into nothing more than another muscle."`\
 ld l,IZA_D5,23
 
-「てめぇのとこの小娘は目の焦点が合ってねぇじゃねぇか！@/
-
+;「てめぇのとこの小娘は目の焦点が合ってねぇじゃねぇか！@/
+`"And look at you, you've fucked this girl's vision so bad she can't even focus!`@/
 ld l,IZA_D6,80
 
-　おい、みどり！@　これを見てみろ、指は何本ある？！」\
-
+;　おい、みどり！@　これを見てみろ、指は何本ある？！」\
+` Yo, Midori! `@`Look here, how many fingers am I holding up?!"`\
 ;ld c,MID_K4,22
 mld c,MID_U2,22
 
-「いっぱいです……。@私を讃え、アンコールをねだる大勢の人たちの手が、いっぱい……。」\
-
+;「いっぱいです……。@私を讃え、アンコールをねだる大勢の人たちの手が、いっぱい……。」\
+`"Many... `@`Many hands from the crowds of people clapping for me, asking for an encore..."`\
 mcl c,22
 
 ld r,SIN_D4,80
 
-「くっくっく！@　まぁ、それは気にしないことです。@当人が幸せなのだから、良いではありませんか。@あやさんだって、今が幸せでしょう？」\
-
+;「くっくっく！@　まぁ、それは気にしないことです。@当人が幸せなのだから、良いではありませんか。@あやさんだって、今が幸せでしょう？」\
+`"Kukuku! `@`Well, nevermind that. `@`As long as the person is happy, everything is okay, right? `@`Aya-san, are you happy right now?"`\
 ;ld c,AYA_D4a,22
 ld c,AYA_D9,22
 
-「ぶ、部活は厳しくて大変ですけどっ、……その、………まぁ、………。@…………………。」@
-
+;「ぶ、部活は厳しくて大変ですけどっ、……その、………まぁ、………。@…………………。」@
+`"W-Well my club activities are really tough... but... I guess...`@`......."`@
 ld r,SIN_d1,80
 
-「くっくっくっく。@良いことです。@イザナミ先生。@どうやら今回も、引き分けのようですねぇ。」\
+;「くっくっくっく。@良いことです。@イザナミ先生。@どうやら今回も、引き分けのようですねぇ。」\
+`"Kukukuku. `@`That's good. `@`Izanami-sensei. `@`I think we can call this one a draw this time too."`\
 cl l,0
 mld l,IZA_D7,80
 
@@ -811,20 +844,20 @@ se1 2
 cl c,0
 quakex 2,200
 
-「何が引き分けだ！@　うちのあやは超努力屋の全力疾走野郎だッ！@　お前ンとこの寝惚け姫と一緒にすんじゃねぇ！！」\
-
+;「何が引き分けだ！@　うちのあやは超努力屋の全力疾走野郎だッ！@　お前ンとこの寝惚け姫と一緒にすんじゃねぇ！！」\
+`"How is this a draw! `@`My spunky lil' girl, Aya's one hell of a good sprinter! `@`Your drowsy princess don't even hold a candle to her!!"`\
 ld r,SIN_d2,80
-「夢の中に生きるために、超努力するみどりさんも、負けないくらいの全力疾走ドリーマーだと思いますが？」\
-
+;「夢の中に生きるために、超努力するみどりさんも、負けないくらいの全力疾走ドリーマーだと思いますが？」\
+`"Well I think that my girl Midori-san has quite the spunk as well. She gives it her all to live in her dream world. A hell of a good dreamer."`\
 mcl l,0
 mld c,IZA_D7,23
-「かくなる上は直接対決だッ！！　あやッ、みどりッ、リングに上がれぇえぇ！！」\
-
+;「かくなる上は直接対決だッ！！　あやッ、みどりッ、リングに上がれぇえぇ！！」\
+`"That's it, this is a showdown!! Aya, Midori, get in the ring!!"`\
 mcl c,0
 bg black,22
 
-　……カオスだな。@やはり白昼夢の世界は、退屈凌ぎにはちょうどいいぜ……。\
-
+;　……カオスだな。@やはり白昼夢の世界は、退屈凌ぎにはちょうどいいぜ……。\
+` ...This is utter chaos. `@`The world of daydreams really is great for killing time...`\
 se1 56
 bg white,0
 print 99,2000,"trvswave.dll/"
@@ -839,138 +872,143 @@ ld c,HIG_D4,22
 
 bgm1 32
 
-「あら、いらっしゃい。」@
+;「あら、いらっしゃい。」@
+`"Oh? Hello there."`@
 ;＜彼岸花
 
 ld r,MAR_W1,24
 
-「キョウさんじゃないですか。@今、ちょうどお茶にしようとしてたところなんですよ。」@
+;「キョウさんじゃないですか。@今、ちょうどお茶にしようとしてたところなんですよ。」@
+`"If it isn't Kyou-san. `@`We were just about to have some tea if you would like to join."`@
 ;＜毬枝
 
 ld l,KYO_D1,23
 
-「ほう、それはかたじけない。@馳走になろう。」\
-
+;「ほう、それはかたじけない。@馳走になろう。」\
+`"Oh, thanks for the offer. `@`Don't mind if I do."`\
 
 ld c,HIG_D3,80
 
-「さて、毬枝？@　今日のお茶菓子は何かしら？」@
-
+;「さて、毬枝？@　今日のお茶菓子は何かしら？」@
+`"Now then, Marie. `@`What kind of tea cake will we be having today?"`@
 se1 4
 ld r,MAR_W2,80
 
-「じゃじゃーん。@今日は何と、ざらめ煎餅を見つけて来ましたー！」\
-
+;「じゃじゃーん。@今日は何と、ざらめ煎餅を見つけて来ましたー！」\
+`"Ta-dah. `@`Today I found some sugar cookies!"`\
+; ^^^ Note To Editor: Sugar senbei actually, http://en.wikipedia.org/wiki/Senbei, but they're close enough to cookies I think.
 ld c,HIG_D5,80
 
-「でも、毬枝？@　それ、２枚しかないんじゃないかしら？@　あなたは食べないつもりなの？」@
-
+;「でも、毬枝？@　それ、２枚しかないんじゃないかしら？@　あなたは食べないつもりなの？」@
+`"But, Marie? `@`Don't you only have two? `@`Are you not going to have any?"`@
 ld r,MAR_W1,80
 
-「お客様のキョウさんには１枚。@私と彼岸花さんは、残りの１枚を半分こです。」\
-
+;「お客様のキョウさんには１枚。@私と彼岸花さんは、残りの１枚を半分こです。」\
+`"I'll give our guest, Kyou-san, one. `@`And then you and I will split one, Higanbana-san."`\
 se1v 10,40
 cl c,0
 ld l,HIG_W5,24
 
-「キョウ、あんた、今すぐ帰りなさい。@ソッコー、５秒で。」\
-
+;「キョウ、あんた、今すぐ帰りなさい。@ソッコー、５秒で。」\
+`"Kyou, get out of here. `@`You have five seconds."`\
 ld r,MAR_I4a,80
 
-「お客様にそんなこと言う人におやつはありませんよ！」@
-
+;「お客様にそんなこと言う人におやつはありませんよ！」@
+`"People who treat guests like that don't get to have any snacks!"`@
 ld l,HIG_D10a,80
 
-「うぐぐぐぐぐ………。@正座して謝ります。@シュン……。」\
-
+;「うぐぐぐぐぐ………。@正座して謝ります。@シュン……。」\
+`"Uggghhhh.... `@`I apologize. `@`Sigh...."`\
 bg black,24
 bg okujou_02,0
 ld r,KYO_D5,24
 
-「……彼岸花。@お前、最近、ずいぶん変わったな。」@
-
+;「……彼岸花。@お前、最近、ずいぶん変わったな。」@
+`"...Higanbana. `@`You've changed quite a bit recently."`@
 ld c,HIG_W5a,23
 
-「うるさいわね！@　ざらめ煎餅のためなら正座なんてへっちゃらよ！@/
-
+;「うるさいわね！@　ざらめ煎餅のためなら正座なんてへっちゃらよ！@/
+`"Shut up! `@`I don't care if I have to apologize for sugar cookies!`@/
 ;ld c,HIG_D10,80
 
-　……それより、毬枝。@その１枚の煎餅、どうやって２つに割るの？」\
-
+;　……それより、毬枝。@その１枚の煎餅、どうやって２つに割るの？」\
+` ...By the way, Marie. `@`How are you going to split that one cookie in two?"`\
 bg black,23
 bg okujou_01,0
 ld l,MAR_D4a,23
 ld l,MAR_W2,80
 
-「え？@　ぱりんと公平に２つに……。」@
-
+;「え？@　ぱりんと公平に２つに……。」@
+`"Huh? `@`I was just going to break it into two equal parts..."`@
 ld r,HIG_w6,24
 ;ld r,HIG_D5a,80
 
-「とか言って！@　不公平に割って、大きい方を取るつもりでしょう！@　あんたの考えなんてお見通しよ！！」\
-
+;「とか言って！@　不公平に割って、大きい方を取るつもりでしょう！@　あんたの考えなんてお見通しよ！！」\
+`"So you say! `@`But in actuality you were planning to break them in uneven parts and take the bigger one! `@`I know your tricks!!"`\
 ld l,MAR_D4a,80
 
-「じゃ、じゃあ、こうしましょう。@私か彼岸花さんが割り、もう１人がどちらを取るか選ぶというのはどうでしょう？」@
-
+;「じゃ、じゃあ、こうしましょう。@私か彼岸花さんが割り、もう１人がどちらを取るか選ぶというのはどうでしょう？」@
+`"Alright, alright, here's what we'll do. `@`Why don't I choose the opposite of what you don't choose?"`@
 ;ld r,HIG_D9a,80
 ld r,HIG_W5,80
 
-「？？？@　よくわかんないけど、私が得を出来るならどっちでもいいわ！」\
-
+;「？？？@　よくわかんないけど、私が得を出来るならどっちでもいいわ！」\
+`"??? `@`I don't really get it, but if it's possible for me to profit from it I've got no problem with that!"`\
 ld l,MAR_D4,80
 
-「じゃあ、彼岸花さんは、お煎餅を割る役、やりますか？」\
-
+;「じゃあ、彼岸花さんは、お煎餅を割る役、やりますか？」\
+`"Okay then Higanbana-san, would you like to divide it in two?"`\
 cl r,0
 mld c,HIG_W6,24
 
-「やるに決まってるでしょ！@　うっふふふふふふふ、とびきり不公平に割ってあげるわよ。@本来なら、お煎餅は丸まる私がもらって、@毬枝なんか、袋に残ったざらめしか舐めさせてあげないところだけど！」\
-
+;「やるに決まってるでしょ！@　うっふふふふふふふ、とびきり不公平に割ってあげるわよ。@本来なら、お煎餅は丸まる私がもらって、@毬枝なんか、袋に残ったざらめしか舐めさせてあげないところだけど！」\
+`"Of course I would! `@`Ufufufufufu, I'll split them exceptionally unevenly. `@`I'll get the whole cookie that I originally should have had, `@`and all Marie will get is to like the sugar at the bottom of the bag!"`\
 ld r,KYO_D6a,24
 ;ld r,KYO_D1,80
 
-「……お前、お菓子を持ってきてもらって、よくもそーゆうことを口走れるもんだな。」\
+;「……お前、お菓子を持ってきてもらって、よくもそーゆうことを口走れるもんだな。」\
+`"...That's awfully mean to do to someone who just broke you a snack."`\
 ;＜キョウ
 
 mld c,HIG_w5,80
 
-「くっすくすくすくすくすくすくす！@　私はとびきり残酷なのよ！@/
+;「くっすくすくすくすくすくすくす！@　私はとびきり残酷なのよ！@/
+`"Teeheeheeheehee! `@`That's because I'm exceptionally curel!`@/
 quakey 1,100
-　はい、毬枝！@　２つに分けたわよ！@　あんたが小さい方ね！！」\
-
+;　はい、毬枝！@　２つに分けたわよ！@　あんたが小さい方ね！！」\
+` Okay Marie! `@`I split it into two. `@`I choose the bigger one!!"`\
 ld l,MAR_W1,80
 
-「では、私が先に選びますね。@大きい方をいただきます。@/
-
+;「では、私が先に選びますね。@大きい方をいただきます。@/
+`"Okay then. `@`I get the bigger one, you can have the smaller one.`@/
 se1 47
 
-ヒョイ。」@
-
+;ヒョイ。」@
+`*grab*."`@
 mld c,HIG_W4a,80
 
-「え？@　え？」@
-
+;「え？@　え？」@
+`"Huh? `@`Huh?"`@
 ld l,MAR_W2,80
 
-「ぼりぼり。@ぼりぼり。」\
-
+;「ぼりぼり。@ぼりぼり。」\
+`"Chew chew. `@`Chew chew."`\
 mld c,HIG_D7,80
 
-「え？@　え？　え？」@
-
+;「え？@　え？　え？」@
+`"Huh? `@`Huh? Huh?"`@
 ld l,MAR_W1,80
 
-「彼岸花さんには特別に、袋の底のざらめもあげますね。@はい、アーン♪」\
-
+;「彼岸花さんには特別に、袋の底のざらめもあげますね。@はい、アーン♪」\
+`"Don't worry, I'll give you the sugar at the bottom of the bag. `@`Open wide and say 'Ah-'♪"`\
 cl l,0
 mcl c,24
 
 
 ld r,KYO_D2,80
 
-「…………あの彼岸花も、ずいぶん変わったもんだな……。@いやいや、これもひょっとして、どこぞの白昼夢の中なのか？@　やれやれ、俺様はお邪魔みてぇだぜ。」\
-
+;「…………あの彼岸花も、ずいぶん変わったもんだな……。@いやいや、これもひょっとして、どこぞの白昼夢の中なのか？@　やれやれ、俺様はお邪魔みてぇだぜ。」\
+`".....Higanbana's changed pretty significantly... `@`Or maybe this is just another daydream? `@`Oh man, looks like I'm interfering"`\
 *da
 mcl c,0
 bg white,22
@@ -981,27 +1019,30 @@ bg Air_02,22
 se1 2
 quakey 3,300
 
-「ま・り・えぇええええええぇええええ！！！@　よくも私をたばかったわね！！@/
-
+;「ま・り・えぇええええええぇええええ！！！@　よくも私をたばかったわね！！@/
+`"MA RI EEEeeeEEEEeeEEE!!! `@`How dare you trick me!!`@/
 bgmonce"bgm0\lgsk_SpiderLily.ogg"
 bgmvol 60
 
-　ざらめお煎餅ッ、お煎餅ッ、ふぎぃいいいいいいいぃい！！」@
-「彼岸花さんだってこの間、わけっこしようって言った、栗ようかん、全部独り占めしちゃったじゃないですかー！@　あれ、すっごく美味しそうだったのにー！！」\
-
+;　ざらめお煎餅ッ、お煎餅ッ、ふぎぃいいいいいいいぃい！！」@
+`My sugar cookie, my cookie, Waaaaahhhhhh!!"`@
+;「彼岸花さんだってこの間、わけっこしようって言った、栗ようかん、全部独り占めしちゃったじゃないですかー！@　あれ、すっごく美味しそうだったのにー！！」\
+`"The other day I asked you if you wanted to share a slice of sweet chestnut jelly, and you took the whole thing! `@`I really wanted to eat it too!!"`\
+; ^^^ Note To Editor: http://en.wikipedia.org/wiki/Y%C5%8Dkan <- chestnut flavored youkan - Do we have anything similar?
 quakex 1,100
 
-「あんた、序列第８位の分際で！@　この序列第３位の踊る彼岸花に歯向かうつもり？！」@
-「あんまりわがままが過ぎると、もう二度とお菓子、持ってきてあげませんよ！」\
-
+;「あんた、序列第８位の分際で！@　この序列第３位の踊る彼岸花に歯向かうつもり？！」@
+`"You, the lowly 8th ranked youkai! `@`Do you really intend to go against the 3rd Ranked, Dancing Higanbana?!"`@
+;「あんまりわがままが過ぎると、もう二度とお菓子、持ってきてあげませんよ！」\
+`"If you start being too selfish, I'll never bring you another snack again!"`\
 bg white,28
 se3 48
 bg okujou_01,25
 se1 13
 quakey 2,200
 
-　フライング土下座・彼岸花。\
-
+;　フライング土下座・彼岸花。\
+` Higanbana flew from her feet to the ground to protrate herself before Marie.`\
 bg black,42
 se1 56
 bg white,0
@@ -1010,18 +1051,23 @@ bg k_kaidan_04,2
 wait 1000
 mld c,KYO_D2,2
 
-　やれやれ。@学校ってヤツは退屈しねぇ。@
+;　やれやれ。@学校ってヤツは退屈しねぇ。@
+` Man. `@`The guys at this school sure aren't boring.`@
 br
-　何しろ、今は冬休み。@
-　学校は空っぽ、静かなもんさ。\
-
+;　何しろ、今は冬休み。@
+` By the way, it's winter break right now.`@
+;　学校は空っぽ、静かなもんさ。\
+` The school is quiet and empty.`\
 mld c,KYO_D4,80
 
-　早く、始業式が始まらねぇかな。@
+;　早く、始業式が始まらねぇかな。@
+` I wonder if the opening ceremony for the next term is starting soon.`@
 br
-　あばよ、クソガキども。@
-　次は学校で会おうぜ。\
-
+;　あばよ、クソガキども。@
+` See you later, brats.`@
+;　次は学校で会おうぜ。\
+` Let's meet during school hours next time.`\
 mld c,KYO_D5,80
 
-　シーユー、ネクスト新学期！\
+;　シーユー、ネクスト新学期！\
+` <See you next> term!`\
