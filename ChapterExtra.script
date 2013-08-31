@@ -1,37 +1,37 @@
 ;Chapter Extra
-;ã€€ä¿ºæ§˜ã¯å­¦æ ¡å¦–æ€ªåºåˆ—ç¬¬ï¼•ä½ã€é¡ã®ã‚­ãƒ§ã‚¦ã•ã¾ã‚ˆã€‚@
+;@‰´—l‚ÍŠwZ—d‰ö˜—ñ‘æ‚TˆÊA‹¾‚ÌƒLƒ‡ƒE‚³‚Ü‚æB@
 ` I am Kyou, 5th ranked among the School Youkai.`@`
-;ã€€ç•°ç•Œã¨ã®å¢ƒã‚’å¸ã‚Šã—ã‚¬ãƒ¼ãƒ‡ã‚£ã‚¢ãƒ³ã¨ã¯ä¿ºæ§˜ã®ã“ã¨â€¦â€¦ã€‚@
+;@ˆÙŠE‚Æ‚Ì‹«‚ği‚è‚µƒK[ƒfƒBƒAƒ“‚Æ‚Í‰´—l‚Ì‚±‚ÆccB@
 ` Guardian that governs the border of the other world...`@`
 br
-;ã€€ã•ãã¦ã€ä»Šå®µã‚‚ã®ã‚“ã³ã‚Šã€å¤¢ã¨ç¾ã®å¢ƒã‚’æ¥½ã—ã¾ã›ã¦ã‚‚ã‚‰ã†ã¨ã™ã‚‹ã‹ã€‚\
+;@‚³‚Ÿ‚ÄA¡ª‚à‚Ì‚ñ‚Ñ‚èA–²‚ÆŒ»‚Ì‹«‚ğŠy‚µ‚Ü‚¹‚Ä‚à‚ç‚¤‚Æ‚·‚é‚©B\
 ` Well then, would you like to play with the border between dreams and reality this evening as well?`\
 ;ld c,KYO_D5,22
 
 cl r,0
 ld c,KYO_D2,24
 
-;ã€€ã“ã“ã«ã„ã‚‹ã£ã¦ã“ã¨ã¯ã€ã‚ã‚“ãŸã‚‚ä¿ºæ§˜ã¨åŒã˜ã€å¤¢ã¨ç¾ã®å¢ƒã‚’æ¼‚ã†è€…ã‚‰ã—ã„ãªã€‚@
+;@‚±‚±‚É‚¢‚é‚Á‚Ä‚±‚Æ‚ÍA‚ ‚ñ‚½‚à‰´—l‚Æ“¯‚¶A–²‚ÆŒ»‚Ì‹«‚ğ•Y‚¤Ò‚ç‚µ‚¢‚ÈB@
 ` If you are here, then that means that you too float on this boundary between worlds just as I do.`@`
 br
-;ã€€ãªã‚‰é“é€£ã‚Œã ã€‚@ãƒˆãƒ©ãƒ™ãƒ«ã¯é“é€£ã‚Œã£ã¦è¨€ã†ã‚‚ã‚“ãªï¼Ÿ@ã€€ãã£ãã£ãã€‚\
+;@‚È‚ç“¹˜A‚ê‚¾B@ƒgƒ‰ƒxƒ‹‚Í“¹˜A‚ê‚Á‚ÄŒ¾‚¤‚à‚ñ‚ÈH@@‚­‚Á‚­‚Á‚­B\
 ` That makes us companions. `@`Is that not what people who travel together are called? `@`Kukuku.`\
 ld c,KYO_D4,80
 
 
-;ã€€ã“ã“ã¯å¤¢ã¨ç¾ã®å¢ƒç•Œä¸–ç•Œã€‚@
+;@‚±‚±‚Í–²‚ÆŒ»‚Ì‹«ŠE¢ŠEB@
 ` This is the boudary world between dreams and reality.`@`
 br
-;ã€€ã¾ãã€å¹³ãŸãè¨€ãˆã°ã€ãƒ‡ã‚¤ãƒ‰ãƒªãƒ¼ãƒ ã€‚@ç™½æ˜¼å¤¢ã®ä¸–ç•Œã£ã¦ã‚ã‘ã•ã€‚\
+;@‚Ü‚ŸA•½‚½‚­Œ¾‚¦‚ÎAƒfƒCƒhƒŠ[ƒ€B@”’’‹–²‚Ì¢ŠE‚Á‚Ä‚í‚¯‚³B\
 ` Well, in layman's terms, this is a <daydream>. `@`It's a world of waking dreams.`\
 ld c,KYO_D2,80
 
-;ã€€å¤šãã®å ´åˆã€ä¸‹ã‚‰ã­ã‡ã“ã¨ã—ã‹è¦‹ã¤ã‹ã‚‰ã­ã‡ãŒã€‚@
+;@‘½‚­‚Ìê‡A‰º‚ç‚Ë‚¥‚±‚Æ‚µ‚©Œ©‚Â‚©‚ç‚Ë‚¥‚ªB@
 ` Most of the time, you can only find trivial interactions taking place in here.`@` 
-;ã€€ã¾ãã€é€€å±ˆå‡Œãã«ã¯å……åˆ†ã•â€¦â€¦ã€‚@
+;@‚Ü‚ŸA‘Ş‹ü—½‚¬‚É‚Í[•ª‚³ccB@
 ` But it's just interesting enough to kill some time every now and again...`@`
 br
-;ã€€ã©ã‚Œã©ã‚Œâ€¦â€¦ã€‚@ã•ã£ããã€ä½•ã‹ãŠã‹ã—ãªã‚‚ã®ãŒè¦‹ãˆã¦ãã‚„ãŒã£ãŸâ€¦â€¦ã€‚\
+;@‚Ç‚ê‚Ç‚êccB@‚³‚Á‚»‚­A‰½‚©‚¨‚©‚µ‚È‚à‚Ì‚ªŒ©‚¦‚Ä‚«‚â‚ª‚Á‚½ccB\
 ` Oh, what's this....? `@`Right away, it seems that we've found something interesting going on...`\
 se1 56
 bg white,0
@@ -48,46 +48,46 @@ se1v 12,50
 bg shokuin_01,1
 quakey 2,300
 
-;ã€Œã¾ãšã€è¨€ãŠã†ã€‚@å›ã¯æ•™å¸«ã¨ã—ã¦å¤±æ ¼ã ã€‚ã€@
+;u‚Ü‚¸AŒ¾‚¨‚¤B@ŒN‚Í‹³t‚Æ‚µ‚Ä¸Ši‚¾Bv@
 `"First, let me say this. `@`You're a failure as a teacher."`@`
-;ï¼œé‡‘æ£®
+;ƒ‹àX
 
 bgm1 19
 
-;ã€Œã‚ãªãŸã«è¨€ã‚ã‚ŒãŸããªã„ã‚ã­ã€é‡‘æ£®ã‚»ãƒ³ã‚»ï¼Ÿã€@
+;u‚ ‚È‚½‚ÉŒ¾‚í‚ê‚½‚­‚È‚¢‚í‚ËA‹àXƒZƒ“ƒZHv@
 ` "I sure as hell don't want to hear that from you, Kanamori-sensei."`@`
-;ï¼œãƒŠãƒ•ãƒŸ
+;ƒƒiƒtƒ~
 br
-;ã€€å¤±æ ¼æ•™å¸«åŒå£«ã§ã€ä½•ã‚„ã‚‰è¨€ã„åˆã„ã‚’ã—ã¦ã„ã‚‹ã€‚\
+;@¸Ši‹³t“¯m‚ÅA‰½‚â‚çŒ¾‚¢‡‚¢‚ğ‚µ‚Ä‚¢‚éB\
 ` It semes that these two failures of teachers were having a verbal dispute of some sort.`\
 bg black,22
 bg shokuin_02,0
 ld r,NAF_D2,22
 ld r,NAF_D5,80
 
-;ã€Œç¬¬ä¸€ã€é‡‘æ£®ã‚»ãƒ³ã‚»ã€‚@ã‚ãªãŸã€è‡ªåˆ†ã®æ•™ãˆå­ã«ä½•ã‚’ã—ãŸã‹ã€ãŠå¿˜ã‚Œãªã®ï¼Ÿ@ã€€çŒ¿ã¿ãŸã„ã«ãƒ–ãƒƒã‚³ã‚­éãã¦ã€ç‰è¢‹åŒæ§˜ã€é ­ã®ä¸­ã¾ã§ç©ºã£ã½ã«ãªã£ã¡ã‚ƒã£ãŸã®ã‹ã—ã‚‰ãï¼Ÿã€\
+;u‘æˆêA‹àXƒZƒ“ƒZB@‚ ‚È‚½A©•ª‚Ì‹³‚¦q‚É‰½‚ğ‚µ‚½‚©A‚¨–Y‚ê‚È‚ÌH@@‰‚İ‚½‚¢‚ÉƒuƒbƒRƒL‰ß‚¬‚ÄA‹Ê‘Ü“¯—lA“ª‚Ì’†‚Ü‚Å‹ó‚Á‚Û‚É‚È‚Á‚¿‚á‚Á‚½‚Ì‚©‚µ‚ç‚ŸHv\
 `"First of all, Kanamori-sensei. `@`Did you forget what you did to your own student? `@`Or is your head as empty as your ballsack?"`\
 ld l,KAN_d3,23
 ld l,KAN_w1,80
 
-;ã€Œã»ã‰ã†ã€‚@ç¾å°‘å¹´ã°ã‹ã‚Šä½•äººã‚‚ç‹™ã£ã¦ï¼@ã€€ç„¡å¢ãªè‚‰ä½“ã‚’å‰¥ãå‰¥ãã—ã¦ã€ãŠã«ã‚“ã«ã‚“ã°ã‹ã‚Šå†™ç”Ÿã—ã¦ã„ãŸç¾è¡“æ•™å¸«ãŒè¨€ã†ã˜ã‚ƒãªã„ã‹ã­ã€‚ã€\
+;u‚Ù‚§‚¤B@”ü­”N‚Î‚©‚è‰½l‚à‘_‚Á‚ÄI@@–³C‚È“÷‘Ì‚ğ”‚«”‚«‚µ‚ÄA‚¨‚É‚ñ‚É‚ñ‚Î‚©‚èÊ¶‚µ‚Ä‚¢‚½”üp‹³t‚ªŒ¾‚¤‚¶‚á‚È‚¢‚©‚ËBv\
 `"Ohhh? `@`Says the one who's targeted so many little boys!? `@`The art teacher who stripped they're innocent bodies and drew their pee-pees?"`\
 ld r,NAF_D7a,80
 quakex 1,100
 
-;ã€ŒèŠ¸è¡“è¡Œç‚ºã¨è¨€ã£ã¦ã¡ã‚‡ã†ã ã„ã€å¤‰æ…‹æ•™å¸«ï¼@ã€€ãªã‚‰ã‚ã‚“ãŸãŒã—ã¦ãŸã“ã¨ã¯ä½•ãªã®ã‚ˆã…ï¼Ÿã€\
+;uŒ|psˆ×‚ÆŒ¾‚Á‚Ä‚¿‚å‚¤‚¾‚¢A•Ï‘Ô‹³tI@@‚È‚ç‚ ‚ñ‚½‚ª‚µ‚Ä‚½‚±‚Æ‚Í‰½‚È‚Ì‚æ‚£Hv\
 `"It was an act of art, you perverted teacher! `@`Besides, how do you explain what you did?"`\
 ld l,KAN_I1,80
 quakex 1,100
 
-;ã€Œæ„›æƒ…è¡Œç‚ºã¨è¨€ã£ã¦ãã‚ŒãŸã¾ãˆã€å¤‰æ…‹æ•™å¸«ï¼@ã€€åƒ•ã®è¡Œç‚ºã¯å…¨ã¦ã£ã€æ„›ã‚†ãˆã®ã“ã¨ãªã®ã ã‚ˆï¼@ã€€å›ã®è¡Œç‚ºã«æ„›ã¯ã‚ã£ãŸã‹ã­ï¼Ÿ@ã€€ãªã‹ã£ãŸã ã‚ã†ï¼@ã€€å›ã¯ãŸã ã€å·±ã®æ¬²æœ›ã‚’å°‘å¹´é”ã«åãå‡ºã—ãŸã ã‘ã ï¼ã€\
+;uˆ¤îsˆ×‚ÆŒ¾‚Á‚Ä‚­‚ê‚½‚Ü‚¦A•Ï‘Ô‹³tI@@–l‚Ìsˆ×‚Í‘S‚Ä‚ÁAˆ¤‚ä‚¦‚Ì‚±‚Æ‚È‚Ì‚¾‚æI@@ŒN‚Ìsˆ×‚Éˆ¤‚Í‚ ‚Á‚½‚©‚ËH@@‚È‚©‚Á‚½‚¾‚ë‚¤I@@ŒN‚Í‚½‚¾AŒÈ‚Ì—~–]‚ğ­”N’B‚É“f‚«o‚µ‚½‚¾‚¯‚¾Iv\
 `"It was an act of love, you perverted teacher! `@`Everything I did was out of love! `@`Was what you were doing for love? `@`Not at all! `@`You were just taking your lust out on those boys!"`\
 cl r,0
 ld c,NAF_D8a,24
 se1v 8,50
 quakex 2,200
 
-;ã€Œã‚ã‚“ãŸã ã£ã¦ã€ãƒ“ãƒ¥ãƒ¼ãƒ“ãƒ¥ãƒ¼ã€åãã¾ãã£ã¦ãŸã§ã—ã‚‡ã†ãŒï¼@ã€€ã‚ãªãŸã€ç§ã«èª‡ã‚Œã‚‹ç‚¹ãªã‚“ã¦ã‚ã‚‹ã®ã‹ã—ã‚‰ï¼Ÿï¼ã€\
+;u‚ ‚ñ‚½‚¾‚Á‚ÄAƒrƒ…[ƒrƒ…[A“f‚«‚Ü‚­‚Á‚Ä‚½‚Å‚µ‚å‚¤‚ªI@@‚ ‚È‚½A„‚ÉŒÖ‚ê‚é“_‚È‚ñ‚Ä‚ ‚é‚Ì‚©‚µ‚çHIv\
 `"Look at you blowing all that hot air! `@`What makes you so much better than me?!"`\
 cl a,0
 ld r,NAF_D9,0
@@ -95,29 +95,29 @@ mld c,KAN_K2,23
 se1v 8,50
 quakex 2,200
 
-;ã€Œè¢«å®³è€…ã®æ•°ãŒåƒ•ã¯ã²ã¨ã‚Šï¼@ã€€å›ã¯ãŸãã•ã‚“ï¼@ã€€åƒ•ã¯æ„›ã‚†ãˆã«ï¼@ã€€å›ã¯æ¬²æœ›ã‚†ãˆã«ï¼ï¼ã€\
+;u”íŠQÒ‚Ì”‚ª–l‚Í‚Ğ‚Æ‚èI@@ŒN‚Í‚½‚­‚³‚ñI@@–l‚Íˆ¤‚ä‚¦‚ÉI@@ŒN‚Í—~–]‚ä‚¦‚ÉIIv\
 `"My number of victims has been limited to one! `@`Yours were numerous! `@`Mine was out of love! `@`Yours out of lust!!"`\
 cl a,0
 mcl c,0
 ld c,KAN_K2,0
 mld r,NAF_D9a,80
 
-;ã€Œãã¬ã¬ã¬ã¬ã¬ã¬ã¬â€¦ï¼ï¼@ã€€ã„ã„ã‚ãƒƒã€ã©ã£ã¡ãŒå¤‰æ…‹æ•™å¸«ã‹ãƒƒã€å‹è² ã‚’ã¤ã‘ã‚ˆã†ã˜ã‚ƒãªã„ï¼ã€\
+;u‚®‚Ê‚Ê‚Ê‚Ê‚Ê‚Ê‚ÊcII@@‚¢‚¢‚íƒbA‚Ç‚Á‚¿‚ª•Ï‘Ô‹³t‚©ƒbAŸ•‰‚ğ‚Â‚¯‚æ‚¤‚¶‚á‚È‚¢Iv\
 `"Grrrrrrr...!! `@`Fine! Let's have a contest to see which one of us is the real perveted teacher!"`\
 
 cl c,0
 ld l,KAN_W2,24
 ;ld r,NAF_D6a,23
 
-;ã€Œæœ›ã‚€ã¨ã“ã‚ã ã¨ã‚‚ã€æ–°è°·å…ˆç”Ÿï¼@ã€€ã•ã¦ã€ä½•ã§å‹è² ã™ã‚‹ã‹ãªï¼Ÿï¼@ã€€ã“ã®é‡‘æ£®ç¾©ä»ãƒƒã€ã“ã†è¦‹ãˆã¦ã‚‚ã€æ–‡æ­¦ä¸¡é“ã€æ­¦èŠ¸ç™¾èˆ¬ï¼@ã€€æ„›ã‚ã‚‹ãŒæ•…ã«ãƒƒã€è² ã‘ã‚’çŸ¥ã‚‰ã¬ç”·ã‚ˆï¼ã€\
+;u–]‚Ş‚Æ‚±‚ë‚¾‚Æ‚àAV’Jæ¶I@@‚³‚ÄA‰½‚ÅŸ•‰‚·‚é‚©‚ÈHI@@‚±‚Ì‹àX‹`mƒbA‚±‚¤Œ©‚¦‚Ä‚àA•¶•—¼“¹A•Œ|•S”ÊI@@ˆ¤‚ ‚é‚ªŒÌ‚ÉƒbA•‰‚¯‚ğ’m‚ç‚Ê’j‚æIv\
 `"I couldn't ask for anything more, Shintani-sensei! `@`Alright, how shall we compete? `@`I, Yoshihito Kanamori, despite my appearance am well versed in both the literary and martial arts! `@`I'm a man who has never known defeat when it comes to love!"`\
 mld r,NAF_D8a,80
 
-;ã€Œã†ã£ãµãµãµãµãµãµãµï¼ï¼@ã€€å¤‰æ…‹æ•™å¸«ãªã‚‰ã°ä¸€åº¦ã¯èã„ãŸã“ã¨ãŒã‚ã‚‹ã¯ãšãƒƒã€‚@/
+;u‚¤‚Á‚Ó‚Ó‚Ó‚Ó‚Ó‚Ó‚ÓII@@•Ï‘Ô‹³t‚È‚ç‚Îˆê“x‚Í•·‚¢‚½‚±‚Æ‚ª‚ ‚é‚Í‚¸ƒbB@/
 `"Ufufufufufufu!! `@`If you're truly a perverted teacher, then you've probably heard of this one. `@/
 se1v 2,100
 quakey 5,800
-;å¤‰æ…‹å‡¶æ­»è…åˆ‘æƒ¨å§¦ã§å‹è² ã‚ˆãƒƒï¼ï¼ã€\
+;•Ï‘Ô‹¥€•…ŒYSŠ­‚ÅŸ•‰‚æƒbIIv\
 `Parent Perverted-Teacher Conferences of DEATH!!'"`\
 ; ^^^ Note To Editor: No idea how to translate this one good-ly. It's a play on different kanji that are pronounced the same way. -- Romaji: HENTAI KYOUSHI FUKEI SANKAN.  Written with normal kanji usage this would mean: Perverted Teacher Parent-Teacher Conferences.  But with the kanji Ryukishi used here it means: Perverted Evil Death Castration Cruel Wicked
 ; ...Note Continued: I just decided to keep the underlying meaning of parent-teacher conferences and add "of death" at the end in place of those crazy kanji. If you can think of a better pun to use here though, by all means go ahead.
@@ -126,7 +126,7 @@ ld l,KAN_K5,24
 se1v 27,50
 quake 5,800
 
-;ã€Œã®ã‚ãƒƒã€ã®ã‚ãƒ³ã¨ãƒƒã€ãã®å‹è² ã¯ãã‚ãã‚ã‚ãã‚ã‚ãã»ã‚ãã‚ã‚ã‚ãã‚ããƒƒï¼ï¼ï¼ã€\
+;u‚Ì‚íƒbA‚Ì‚íƒ“‚ÆƒbA‚»‚ÌŸ•‰‚Í‚Ÿ‚ ‚Ÿ‚ ‚ ‚Ÿ‚ ‚ ‚Ÿ‚Ù‚í‚Ÿ‚ ‚ ‚ ‚Ÿ‚ ‚ŸƒbIIIv\
 `"No, NO, Anything but thaaaAAAAaaaat!!!"`\
 mcl a,0
 
@@ -134,12 +134,12 @@ bg black,23
 bg shokuin_01,0
 ld r,KYO_D2,23
 
-;ã€€â€¦â€¦ä½•ã ã“ã‚Šã‚ƒã€‚@
+;@cc‰½‚¾‚±‚è‚áB@
 ` ...What the hell was all that.`@`
-;ã€€ã‚¯ãƒ¬ã‚¤ã‚¸ãƒ¼æ•™å¸«ãŸã¡ã®ä¸‹ã‚‰ã­ã‡ç½µã‚Šåˆã„ã¯ã€æ”¾ã£ã¦ãŠãã“ã¨ã«ã—ã‚ˆã†ã€‚@
+;@ƒNƒŒƒCƒW[‹³t‚½‚¿‚Ì‰º‚ç‚Ë‚¥”l‚è‡‚¢‚ÍA•ú‚Á‚Ä‚¨‚­‚±‚Æ‚É‚µ‚æ‚¤B@
 ` Let's leave these <crazy>, trash-talking teachers alone.`@
 br
-;ã€€ã•ã¦ã€ã‚ã£ã¡ã¯ä½•ã ï¼Ÿ\
+;@‚³‚ÄA‚ ‚Á‚¿‚Í‰½‚¾H\
 ` Now then, what's over there?`\
 ld r,KYO_D5,80
 
@@ -161,72 +161,72 @@ bgm1 31
 
 ld l,SHU_D1,23
 
-;ã€Œçµµã¯ã­ã€æ„Ÿæƒ…ã‚’æãã‚‚ã®ãªã‚“ã ã‚ˆã€‚@ãã‚ŒãŒãªã‹ã£ãŸã‚‰ã€çµµãªã‚“ã¦å†™çœŸã®ä»£ç”¨å“ã§ã—ã‹ãªã„ã‹ã‚‰ã­ã€‚ã€@
+;uŠG‚Í‚ËAŠ´î‚ğ•`‚­‚à‚Ì‚È‚ñ‚¾‚æB@‚»‚ê‚ª‚È‚©‚Á‚½‚çAŠG‚È‚ñ‚ÄÊ^‚Ì‘ã—p•i‚Å‚µ‚©‚È‚¢‚©‚ç‚ËBv@
 `"Drawings are meant to portray emotion. `@`Without emotion, they're nothing more than a substitute for photos."`@
-;ï¼œå­ä¾›ç§‹ä¸€
+;ƒq‹ŸHˆê
 
 ld r,NOD_D2,24
 
-;ã€Œãªã‚‹ã»ã©ã­â€¦â€¦ã€‚@çµµã£ã¦ã®ã¯å¥¥æ·±ã„ã‚“ã ã­â€¦â€¦ã€‚ã€\
+;u‚È‚é‚Ù‚Ç‚ËccB@ŠG‚Á‚Ä‚Ì‚Í‰œ[‚¢‚ñ‚¾‚ËccBv\
 `"I see.... `@`Drawings and painting are so profound...."`\
-;ï¼œé‡ç”°
+;ƒ–ì“c
 
-;ã€€ã‚ã„ã¤ã€ä»Šåº¦ã¯ç§‹ä¸€ã®ãƒ¢ãƒ‡ãƒ«ã«ãªã£ã¦ã‚‹ã®ã‹ã€‚@
+;@‚ ‚¢‚ÂA¡“x‚ÍHˆê‚Ìƒ‚ƒfƒ‹‚É‚È‚Á‚Ä‚é‚Ì‚©B@
 ` So this time he's modeling for Shuuichi, huh?`@`
 br
-;ã€€è‰¯ã‹ã£ãŸãªã€ä»Šå›ã¯æœã‚’è„±ãŒãšã«ãƒ¢ãƒ‡ãƒ«ã‚’ã•ã›ã¦ã‚‚ã‚‰ãˆã¦ã‚‹ã‚ˆã†ã ãœã€‚\
+;@—Ç‚©‚Á‚½‚ÈA¡‰ñ‚Í•‚ğ’E‚ª‚¸‚Éƒ‚ƒfƒ‹‚ğ‚³‚¹‚Ä‚à‚ç‚¦‚Ä‚é‚æ‚¤‚¾‚ºB\
 ` Good thing he's keeping his clothes of this time.`\
 ld l,SHU_D4,80
 
-;ã€Œå›ã®å§¿ã‚’ã€è¦‹ãŸã¾ã¾ã«æã„ãŸã‚‰å†™çœŸã§ã—ã‹ãªã„ã€‚@ã ã‹ã‚‰åƒ•ã¯ã€å›ã®å§¿ã‚’é€šã—ã¦ã€æ„Ÿæƒ…ã‚’æãã‚“ã ã‚ˆã€‚ã€@
+;uŒN‚Ìp‚ğAŒ©‚½‚Ü‚Ü‚É•`‚¢‚½‚çÊ^‚Å‚µ‚©‚È‚¢B@‚¾‚©‚ç–l‚ÍAŒN‚Ìp‚ğ’Ê‚µ‚ÄAŠ´î‚ğ•`‚­‚ñ‚¾‚æBv@
 `"If I draw you exactly the way you look, then It'd be the same as pulling out a camera and taking a picture. `@`So I draw the way you look based on my emotions."`@`
 ld r,NOD_D1,80
 
-;ã€Œãã†è¨€ãˆã°ã€æ–°è°·å…ˆç”Ÿã‚‚ãã‚“ãªã“ã¨ã‚’è¨€ã£ã¦ã„ãŸãªãâ€¦â€¦ã€‚ã€\
+;u‚»‚¤Œ¾‚¦‚ÎAV’Jæ¶‚à‚»‚ñ‚È‚±‚Æ‚ğŒ¾‚Á‚Ä‚¢‚½‚È‚ŸccBv\
 `"Now you mention it, Shintani-sensei said something similar..."`\
 bg black,22
 bg kaiga_02,22
 
-;ã€Œæ–°è°·å…ˆç”Ÿã®çµµã£ã¦ã€è¦‹ãŸã“ã¨ãªã„ã­ã€‚@ã©ã‚“ãªçµµã ã£ãŸã®ï¼Ÿã€@
+;uV’Jæ¶‚ÌŠG‚Á‚ÄAŒ©‚½‚±‚Æ‚È‚¢‚ËB@‚Ç‚ñ‚ÈŠG‚¾‚Á‚½‚ÌHv@
 `"I've never seen one of Shintani-sensei's drawings. `@`What kind of drawings does she do?"`@`
-;ã€Œâ€¦â€¦ãˆã£ã¨â€¦â€¦ã€‚@â€¦â€¦ã¡ã‚‡ã£ã¨â€¦â€¦ã€æ¥ãšã‹ã—ã„æ„Ÿã˜ã‹ãªâ€¦â€¦â€¦ã€‚ã€\
+;ucc‚¦‚Á‚ÆccB@cc‚¿‚å‚Á‚ÆccA’p‚¸‚©‚µ‚¢Š´‚¶‚©‚ÈcccBv\
 `"...Um...`@`... Kind of... embarrassing ones, I guess....."`\
 bg black,22
 bg bijutu_02,0
 ld r,SHU_D1,22
 ld r,SHU_D4,80
 
-;ã€Œãµã…ã‚“ã€‚@ãã‚Œã¯é¢ç™½ã„æ„Ÿæƒ³ã ã­ã€‚@å°‘ãªãã¨ã‚‚ã€ãã‚Œã‚’å£ã«ã™ã‚‹ã“ã¨ã«èºŠèº‡ã™ã‚‹ç¨‹åº¦ã®æ„Ÿæƒ…ã‚’å›ã«ä¸ãˆã¦ã‚‹ã‚ã‘ã ã€‚@èŠ¸è¡“ä½œå“ã¨ã—ã¦ã¯ã€èˆˆå‘³æ·±ã„ã­ã€‚ã€@
+;u‚Ó‚£‚ñB@‚»‚ê‚Í–Ê”’‚¢Š´‘z‚¾‚ËB@­‚È‚­‚Æ‚àA‚»‚ê‚ğŒû‚É‚·‚é‚±‚Æ‚ÉçSçO‚·‚é’ö“x‚ÌŠ´î‚ğŒN‚É—^‚¦‚Ä‚é‚í‚¯‚¾B@Œ|pì•i‚Æ‚µ‚Ä‚ÍA‹»–¡[‚¢‚ËBv@
 `"Hmmm. `@`That's an interesting way of describing of a picture. `@`At the very least, for you to feel so hesitant while describing it, `@`as a work of art it sounds very intriguing."`@`
 ld l,NOD_D5a,23
 
-;ã€Œâ€¦â€¦ã’ã€èŠ¸è¡“ã£ã¦ã€é›£ã—ã„ã‚“ã ã­â€¦â€¦ã€‚@ç§‹ä¸€ãã‚“ãŒåƒ•ã‚’æã„ã¦ã‚‹ãã‚Œã‚‚ã€èŠ¸è¡“ä½œå“ãªã®â€¦â€¦ï¼Ÿã€\
+;ucc‚°AŒ|p‚Á‚ÄA“ï‚µ‚¢‚ñ‚¾‚ËccB@Hˆê‚­‚ñ‚ª–l‚ğ•`‚¢‚Ä‚é‚»‚ê‚àAŒ|pì•i‚È‚ÌccHv\
 `"...A-Art is quite complicated though isn't it....? `@`Would the sketch you're doing of me be considered a work of art as well?"`\
 ld r,SHU_D3,80
 
-;ã€Œã‚‚ã¡ã‚ã‚“ã•ã€‚@åƒ•ã¯äººã«æ„Ÿæƒ…ã‚’æ„Ÿã˜ã¦ã‚‚ã‚‰ã†ãŸã‚ã«ã€ã„ã¤ã ã£ã¦çµµã‚’æã„ã¦ã„ã‚‹ã‚“ã ã€‚@ä»Šå›ã¯ãã‚Œã‚’çµµã˜ã‚ƒãªãã¦ã€æ¼«ç”»ã§æã„ã¦ã‚‹ã‚“ã ã‘ã‚Œã©ã­ã€‚ã€\
+;u‚à‚¿‚ë‚ñ‚³B@–l‚Íl‚ÉŠ´î‚ğŠ´‚¶‚Ä‚à‚ç‚¤‚½‚ß‚ÉA‚¢‚Â‚¾‚Á‚ÄŠG‚ğ•`‚¢‚Ä‚¢‚é‚ñ‚¾B@¡‰ñ‚Í‚»‚ê‚ğŠG‚¶‚á‚È‚­‚ÄA–Ÿ‰æ‚Å•`‚¢‚Ä‚é‚ñ‚¾‚¯‚ê‚Ç‚ËBv\
 `"Of course. `@`I'm always drawing so that I can teach people to feel emotions. `@`It's not a picture this time though, I'm drawing a manga."`\
 ld l,NOD_D3,80
 
-;ã€Œã¸ãƒ¼â€¦â€¦ã€æ¼«ç”»ã£ã¦ã™ã”ã„ã­ã€‚@ã‚¸ãƒ£ï¼­ãƒ—ã¨ã‹ã«æŠ•ç¨¿ã™ã‚‹ã®ï¼Ÿã€@
+;u‚Ö[ccA–Ÿ‰æ‚Á‚Ä‚·‚²‚¢‚ËB@ƒWƒƒ‚lƒv‚Æ‚©‚É“Še‚·‚é‚ÌHv@
 `"Waaah... Manga? That's amazing. `@`Is it going to be published in SHONEN JAMP?"`@`
 ld r,SHU_D2,80
 
-;ã€Œã©ã£ã¡ã‹ã¨ã„ã†ã¨ã€æ¬¡ã®ã‚ªãƒ³ãƒªãƒ¼ã‹ãªãã€‚@å›ã¿ãŸã„ãªå—å°‚ã‚‚æ‰‹å …ã„éœ€è¦ãŒã‚ã‚‹ã—ã­ãƒ¼ã€‚@è©•åˆ¤ãŒè‰¯ã‹ã£ãŸã‚‰åŠ ç­†ã—ã¦å¤ã‚³ãƒŸã§å†è²©ã‹ãªãã€‚ã€\
+;u‚Ç‚Á‚¿‚©‚Æ‚¢‚¤‚ÆAŸ‚ÌƒIƒ“ƒŠ[‚©‚È‚ŸB@ŒN‚İ‚½‚¢‚Èóê‚àèŒ˜‚¢ù—v‚ª‚ ‚é‚µ‚Ë[B@•]”»‚ª—Ç‚©‚Á‚½‚ç‰Á•M‚µ‚Ä‰ÄƒRƒ~‚ÅÄ”Ì‚©‚È‚ŸBv\
 `"Probably something more like my next exclusive doujin. `@`There's a pretty steady demand for purely uke types like you. `@`Maybe if the reception is good I can do some revisions to it and resell it at NatsuComi."`\
 bg black,24
 bg bijutu_01,0
 ld l,KYO_D6a,24
 
-;ã€€â€¦â€¦â€¦ã‚ˆãã‚ã‹ã‚“ã­ã‡ãŒã€ã‚ããªæ¼«ç”»ã˜ã‚ƒãªã„æ°—ãŒã™ã‚‹ãœã€‚@
+;@ccc‚æ‚­‚í‚©‚ñ‚Ë‚¥‚ªA‚ë‚­‚È–Ÿ‰æ‚¶‚á‚È‚¢‹C‚ª‚·‚é‚ºB@
 ` ....I'm not sure what they're taling about, but I have a feeling that it's not a very respectable manga they're talking about.`@
-;ã€€å°‘ã—ã¯ãƒã‚·ãªé€£ä¸­ã¯ã„ã­ã‡ã®ã‹ã€‚@
+;@­‚µ‚Íƒ}ƒV‚È˜A’†‚Í‚¢‚Ë‚¥‚Ì‚©B@
 ` Let's see if there's a better group of people around here.`@
 br
 
 ld l,KYO_D5,80
 
-;ã€€ãŠã€ã“ã£ã¡ã¯ãƒã‚·ãã†ã ãªã€‚@ã¾ã£ãŸã‚Šã¨ã—ãŸã‚¬ãƒ¼ãƒ«ã‚ºãƒˆãƒ¼ã‚¯ãŒèã“ãˆã¦ãã‚„ãŒã‚‹â€¦â€¦ã€‚\
+;@‚¨A‚±‚Á‚¿‚Íƒ}ƒV‚»‚¤‚¾‚ÈB@‚Ü‚Á‚½‚è‚Æ‚µ‚½ƒK[ƒ‹ƒYƒg[ƒN‚ª•·‚±‚¦‚Ä‚«‚â‚ª‚éccB\
 ` Ah, these guys look better. `@`Looks like they're having a nice, laid-back <girls' talk>....`\
 se1 56
 bg white,0
@@ -240,47 +240,47 @@ ld r,NON_D3a,24
 
 bgm1 2
 
-;ã€Œã¾ãã€ç¢ºã‹ã«ãŸã¾ã«ã€å¿ƒéœŠå†™çœŸãªã‚“ã¦å‘¼ã°ã‚Œã‚‹ã‚‚ã®ã‚‚ã‚ã‚Šã¯ã™ã‚‹ã‘ã©â€¦â€¦ã€‚ã€@
+;u‚Ü‚ŸAŠm‚©‚É‚½‚Ü‚ÉAS—ìÊ^‚È‚ñ‚ÄŒÄ‚Î‚ê‚é‚à‚Ì‚à‚ ‚è‚Í‚·‚é‚¯‚ÇccBv@
 `"Well, sometimes people call that spirit photography, but..."`@
-;ï¼œé‡ã€…å®®
+;ƒ–ìX‹{
 
 ld l,YO2_D1,23
 
-;ã€Œãˆãƒ¼ã€‚@å¿ƒéœŠå†™çœŸãªã‚“ã¦ã€ã»ã¨ã‚“ã©ã¯ã‚¤ãƒ³ãƒã‚­ãªã‚“ã§ã—ã‚‡ã†â€¦ï¼Ÿã€\
+;u‚¦[B@S—ìÊ^‚È‚ñ‚ÄA‚Ù‚Æ‚ñ‚Ç‚ÍƒCƒ“ƒ`ƒL‚È‚ñ‚Å‚µ‚å‚¤cHv\
 `"What? `@`So most spirit photos fake?"`\
-;ï¼œæ²¼ç”°é™½å­
+;ƒÀ“c—zq
 
 bg black,23
 bg kyou_02,0
 ld c,TOM_D4,23
 ld c,TOM_D2,80
 
-;ã€Œâ€œã»ã¨ã‚“ã©ã¯â€ã£ã¦ã“ã¨ã¯ã€ä¸€éƒ¨ã«ã¯æœ¬ç‰©ã‚‚ã‚ã‚‹ã‹ã‚‚ã—ã‚Œãªã„ã£ã¦ã‚ã‘ã§ã—ã‚‡ãƒ¼ï¼Ÿï¼@ã€€ãã†ï¼@ã€€å¿ƒéœŠå†™çœŸã¯ã­ã€å®Ÿåœ¨ã™ã‚‹ã®ã‚ˆãƒ¼ï¼ã€@
+;ug‚Ù‚Æ‚ñ‚Ç‚Íh‚Á‚Ä‚±‚Æ‚ÍAˆê•”‚É‚Í–{•¨‚à‚ ‚é‚©‚à‚µ‚ê‚È‚¢‚Á‚Ä‚í‚¯‚Å‚µ‚å[HI@@‚»‚¤I@@S—ìÊ^‚Í‚ËAÀİ‚·‚é‚Ì‚æ[Iv@
 `"Doesn't 'most' mean that a portion of them are the real thing?! `@`It's true! `@`Spirit photos actually exist!"`@
-;ï¼œå²¡ç”°æ™ºå­
+;ƒ‰ª“c’qq
 
 ld r,YO2_D2,24
 
-;ã€Œãã€ãã†ãªã‚“ã â€¦â€¦ã€‚@ã˜ã‚ƒã‚ã€ç§ã®å†™çœŸã«å†™ã£ã¦ãŸã€ã‚ã®å¤‰ãªå…‰ã®ç‰ã¿ãŸã„ãªã®ã¯ï¼Ÿã€\
+;u‚»A‚»‚¤‚È‚ñ‚¾ccB@‚¶‚á‚ A„‚ÌÊ^‚ÉÊ‚Á‚Ä‚½A‚ ‚Ì•Ï‚ÈŒõ‚Ì‹Ê‚İ‚½‚¢‚È‚Ì‚ÍHv\
 `"W-Wow... `@`Then is this strange ball of light in the picture I took a spirit?"`\
-;ï¼œé™½å­
+;ƒ—zq
 
 se1 4
 mbg white,1
 mcbg 22
 ld c,TOM_D6,80
 
-;ã€Œãã‚Œã¯ç‰éŸ¿ï¼ˆãŸã¾ã‚†ã‚‰ï¼‰ã ã­ã‡ï¼@ã€€ã‚ªãƒ¼ãƒ–ç¾è±¡ã¨ã‚‚è¨€ã†ã‘ã©ï¼@ã€€éœŠé­‚ãŒç ã«ãªã£ã¦å†™ã‚Šã“ã‚€ã‚“ã ã‚ˆãƒ¼ï¼@ã€€ãŠå¢“ã‚„è‡ªæ®ºåæ‰€ã€å¿ƒéœŠã‚¹ãƒãƒƒãƒˆãªã‚“ã‹ã§å†™çœŸã‚’æ’®ã‚‹ã¨ã€ã†ã˜ã‚ƒã†ã˜ã‚ƒå†™ã‚Šè¾¼ã‚“ã ã‚Šã™ã‚‹ã‚ˆãƒ¼ï¼ã€\
+;u‚»‚ê‚Í‹Ê‹¿i‚½‚Ü‚ä‚çj‚¾‚Ë‚¥I@@ƒI[ƒuŒ»Û‚Æ‚àŒ¾‚¤‚¯‚ÇI@@—ì°‚ªì‚É‚È‚Á‚ÄÊ‚è‚±‚Ş‚ñ‚¾‚æ[I@@‚¨•æ‚â©E–¼ŠAS—ìƒXƒ|ƒbƒg‚È‚ñ‚©‚ÅÊ^‚ğB‚é‚ÆA‚¤‚¶‚á‚¤‚¶‚áÊ‚è‚ñ‚¾‚è‚·‚é‚æ[Iv\
 `"That's called a spirit orb! `@`Sometimes called the Orb Phenomenon! `@`It's when a spirit gets caught in the picture in the form of a little ball! `@`If you take a picture at a gravesite, suicide site or haunted area they'll appear in large groups!"`\
 
 bg "bmp\background\efe\photo3.bmp",22
 ;ld r,YO2_D1,80
 
-;ã€Œãã€ãã†ã ã£ãŸã‚“ã â€¦â€¦ã€‚@ç§ãŒå†™çœŸã‚’æ’®ã‚‹ã¨ã€ã„ã£ã¤ã‚‚å†™ã£ã¦ã‚‹ã®ã€‚@ãã‚Œã£ã¦ã¤ã¾ã‚Šã€ç§ãŒä½•ã‹ã®éœŠã«å–ã‚Šæ†‘ã‹ã‚Œã¦ã„ã‚‹ã¨ã‹ã€ãã†ã„ã†ã“ã¨ãªã®ã‹ãªãâ€¦â€¦ã€‚ã€\
+;u‚»A‚»‚¤‚¾‚Á‚½‚ñ‚¾ccB@„‚ªÊ^‚ğB‚é‚ÆA‚¢‚Á‚Â‚àÊ‚Á‚Ä‚é‚ÌB@‚»‚ê‚Á‚Ä‚Â‚Ü‚èA„‚ª‰½‚©‚Ì—ì‚Éæ‚èœß‚©‚ê‚Ä‚¢‚é‚Æ‚©A‚»‚¤‚¢‚¤‚±‚Æ‚È‚Ì‚©‚È‚ŸccBv\
 `"W-Wow... `@`They're in all the pictures that I take. `@`I wonder if that means that I'm being haunted by a spirit or something..."`\
 ;ld l,TOM_D2,80
 
-;ã€Œã†ãƒ¼ã‚“ãƒƒã€ãã®å¯èƒ½æ€§ã‚‚å¦å®šã§ããªã„ã­ãƒ¼ï¼@ã€€ä½•ã‹éœŠéšœãŒã‚ã‚‹ãªã‚‰ã€å°‚é–€ã®äººã«è¦‹ã¦ã‚‚ã‚‰ã£ãŸæ–¹ãŒã„ã„ã‹ã‚‚ã­ã‡ï¼@ã€€å†™çœŸã«å†™ã‚‹ã£ã¦ã®ã¯ã€ç«‹æ´¾ãªéœŠçš„è­¦å‘Šã ã‹ã‚‰ã­ï¼@ã€€ç„¡è¦–ã—ãªã„ã§ã€ã¡ã‚ƒã‚“ã¨å¯¾å¿œã—ãŸæ–¹ãŒã„ã„ã¨æ€ã†ã‚ˆãƒ¼ï¼ã€\
+;u‚¤[‚ñƒbA‚»‚Ì‰Â”\«‚à”Û’è‚Å‚«‚È‚¢‚Ë[I@@‰½‚©—ìá‚ª‚ ‚é‚È‚çAê–å‚Ìl‚ÉŒ©‚Ä‚à‚ç‚Á‚½•û‚ª‚¢‚¢‚©‚à‚Ë‚¥I@@Ê^‚ÉÊ‚é‚Á‚Ä‚Ì‚ÍA—§”h‚È—ì“IŒx‚¾‚©‚ç‚ËI@@–³‹‚µ‚È‚¢‚ÅA‚¿‚á‚ñ‚Æ‘Î‰‚µ‚½•û‚ª‚¢‚¢‚Æv‚¤‚æ[Iv\
 `"You can't rule out the possibility! `@`If you think you're being haunted you should try talking to a specialist on the subject! `@`Photos are a great way for spirits to warn you about things! `@`Don't ignore it, definitely look into it!"`\
 
 ;bg black,23
@@ -288,23 +288,23 @@ bg kyou_02,0
 ld r,NON_D6a,23
 ld r,NON_D3a,80
 
-;ã€Œãã‚Œã¯ã€ãƒ¬ãƒ³ã‚ºã®åŸƒã¨ã‹ãŒåŸå› ã˜ã‚ƒãªã„ã‹ãªâ€¦â€¦ã€‚@å¿ƒéœŠå†™çœŸãªã‚“ã¦å‘¼ã°ã‚Œã‚‹ã‚‚ã®ã¯å…¨ã¦ã€ã‚«ãƒ¡ãƒ©ã®æ§‹é€ çš„ãªå•é¡Œã§èª¬æ˜ã§ãã‚‹ã‚ˆâ€¦â€¦ã€‚ã€\
+;u‚»‚ê‚ÍAƒŒƒ“ƒY‚Ìšº‚Æ‚©‚ªŒ´ˆö‚¶‚á‚È‚¢‚©‚ÈccB@S—ìÊ^‚È‚ñ‚ÄŒÄ‚Î‚ê‚é‚à‚Ì‚Í‘S‚ÄAƒJƒƒ‰‚Ì\‘¢“I‚È–â‘è‚Åà–¾‚Å‚«‚é‚æccBv\
 `"Isn't that just dust on the lense....? `@`All cases of spirit photography can be explained as being simple technical issues with the camera..."`\
-;ï¼œé‡ã€…å®®
+;ƒ–ìX‹{
 
 ld l,YO2_D1,23
 
-;ã€Œãã†ãªã®â€¦ï¼Ÿ@ã€€ç§ãŒä½•ã‹ã«å–ã‚Šæ†‘ã‹ã‚Œã¦ã‚‹ã‹ã‚‰å¿ƒéœŠå†™çœŸãŒæ’®ã‚Œã¡ã‚ƒã†ã‚“ã˜ã‚ƒãªã„ã®ï¼Ÿã€@
+;u‚»‚¤‚È‚ÌcH@@„‚ª‰½‚©‚Éæ‚èœß‚©‚ê‚Ä‚é‚©‚çS—ìÊ^‚ªB‚ê‚¿‚á‚¤‚ñ‚¶‚á‚È‚¢‚ÌHv@
 `"Really...? `@`It's not a spirit photograph of something that's been haunting me?"`@
 ld r,NON_D2,80
 
-;ã€Œãªã„ãªã„ã€‚@ãã‚“ãªã“ã¨ã¯æ–­ã˜ã¦ãªã„ã‚ˆã€‚@ã‚«ãƒ¡ãƒ©ã®å°‚é–€å®¶ã§ã‚ã‚‹åƒ•ãŒä¿è¨¼ã™ã‚‹ã€‚ã€\
+;u‚È‚¢‚È‚¢B@‚»‚ñ‚È‚±‚Æ‚Í’f‚¶‚Ä‚È‚¢‚æB@ƒJƒƒ‰‚Ìê–å‰Æ‚Å‚ ‚é–l‚ª•ÛØ‚·‚éBv\
 `"No way. `@`There's no way that can happeb. `@`I guarantee it as a camera expert."`\
 ld l,YO2_D3,80
 
-;ã€Œã†ãµãµã€é‡ã€…å®®ãã‚“ã£ã¦ã€ã‚«ãƒ¡ãƒ©ã®ã“ã¨ã‚’è©±ã™æ™‚ã€ã¡ã‚‡ã£ã´ã‚Šã‚«ãƒƒã‚³ã„ã„ã­â€¦ï¼ã€\
+;u‚¤‚Ó‚ÓA–ìX‹{‚­‚ñ‚Á‚ÄAƒJƒƒ‰‚Ì‚±‚Æ‚ğ˜b‚·A‚¿‚å‚Á‚Ò‚èƒJƒbƒR‚¢‚¢‚ËcIv\
 `"Ufufu, Nonomiya-kun, when you start talking about cameras, you act a little cool...!"`\
-;ï¼œé™½å­
+;ƒ—zq
 
 ;cl l,0
 ;ld c,YO2_D1,0
@@ -313,24 +313,24 @@ ld c,TOM_D7,62
 se1v 8,50
 quakex 2,200
 
-;ã€Œãµã”ãƒ¼ï¼ï¼@ã€€å¿ƒéœŠå†™çœŸã€é¦¬é¹¿ã«ã—ãŸã‚ã­ãƒ¼ï¼Ÿï¼@ã€€ã‚ã‚“ãŸã®å†™çœŸã«ã€ã“ã‚Œã‹ã‚‰ã¯ãšã£ã¨ãŠé‚ªé­”ã™ã‚‹ã‹ã‚‰ã­ãƒ¼ï¼Ÿï¼ã€\
+;u‚Ó‚²[II@@S—ìÊ^A”n­‚É‚µ‚½‚í‚Ë[HI@@‚ ‚ñ‚½‚ÌÊ^‚ÉA‚±‚ê‚©‚ç‚Í‚¸‚Á‚Æ‚¨×–‚‚·‚é‚©‚ç‚Ë[HIv\
 `"Fwgaaah!! `@`Are you making fun of spirit photography?! `@`I'm gonna make sure to stand in all your pictures from here on out!!"`\
 ;wait 500
 bg black,23
 bg kyou_04,0
 ld c,KYO_D2,23
 
-;ã€€ã‚«ãƒ¡ãƒ©ãƒãƒ³ã¨å¹½éœŠãŸã¡ãŒã€å¿ƒéœŠå†™çœŸè«‡ç¾©ã‹â€¦â€¦ã€‚@
+;@ƒJƒƒ‰ƒ}ƒ“‚Æ—H—ì‚½‚¿‚ªAS—ìÊ^’k‹`‚©ccB@
 ` A cameraman and two ghosts talking about spirit photography...?`@
 br
-;ã€€è‰²ã€…ã¨ã‚·ãƒ¥ãƒ¼ãƒ«ã ãªâ€¦â€¦ã€‚\
+;@FX‚ÆƒVƒ…[ƒ‹‚¾‚ÈccB\
 ` That's all sorts of surreal...`\
 ld c,KYO_D3,80
 
-;ã€€ã‚ã£ã¡ã¯ä½•ã ï¼Ÿ@
+;@‚ ‚Á‚¿‚Í‰½‚¾H@
 ` What's going on over there?`@
 br
-;ã€€ã‚ã–ã‚ã–ç‰‡ç›®ã‚’éš ã—ã¦ã‚„ãŒã‚‹ã€ãŠã‹ã—ãªã‚¬ã‚­ã©ã‚‚ã ã€‚\
+;@‚í‚´‚í‚´•Ğ–Ú‚ğ‰B‚µ‚Ä‚â‚ª‚éA‚¨‚©‚µ‚ÈƒKƒL‚Ç‚à‚¾B\
 ` Well if it isn't the one-eyed brat.`\
 se1 56
 bg white,0
@@ -348,15 +348,15 @@ wait 1000
 
 ld r,MIC_D2,24
 
-;ã€Œâ€¦â€¦ã‚ãªãŸã«éœŠèƒ½åŠ›ãªã‚“ã¦ãªã„ã‚ˆã€‚@ã‚ãªãŸã¯å¹³å‡¡ãªä¸€èˆ¬äººã€‚ã€@
+;ucc‚ ‚È‚½‚É—ì”\—Í‚È‚ñ‚Ä‚È‚¢‚æB@‚ ‚È‚½‚Í•½–}‚Èˆê”ÊlBv@
 `"...You don't have any psychic powers. `@`You're a normal person."`@
-;ï¼œã¿ã¡ã‚‹
+;ƒ‚İ‚¿‚é
 
 ld l,HIK_D4,23
 
-;ã€Œã¸ã‡â€¦â€¦ã€‚@åƒ•ã®ãƒã‚«ãƒ©ãŒã‚ã‹ã‚‰ãªã„ã‚ˆã†ã˜ã‚ƒã€å›ã‚‚å™‚ã»ã©ã˜ã‚ƒãªã„ã‚ˆã†ã ã­ã€‚ã€\
+;u‚Ö‚¥ccB@–l‚Ìƒ`ƒJƒ‰‚ª‚í‚©‚ç‚È‚¢‚æ‚¤‚¶‚áAŒN‚à‰\‚Ù‚Ç‚¶‚á‚È‚¢‚æ‚¤‚¾‚ËBv\
 `"What... `@`You don't know anything about my powers, and you're not nearly as good as the rumors make you out to be."`\
-;ï¼œã²ã‹ã‚‹
+;ƒ‚Ğ‚©‚é
 
 textoff
 fede 0,1000
@@ -366,17 +366,17 @@ ld l,HIK_W1,80
 
 bgm1 21
 
-;ã€Œã‚„ã‚Œã‚„ã‚Œã€‚@ã“ã®ãƒã‚«ãƒ©ã‚’è¦‹ã›ãŸãã¯ãªã‹ã£ãŸã‚“ã ã‘ã‚Œã©ã­ã€‚@/
+;u‚â‚ê‚â‚êB@‚±‚Ìƒ`ƒJƒ‰‚ğŒ©‚¹‚½‚­‚Í‚È‚©‚Á‚½‚ñ‚¾‚¯‚ê‚Ç‚ËB@/
 `"I guess it's not use. `@`I didn't want to show you my power, but here it goes. `@/
 se1v 2,100
 quakey 2,200
-;â€¦â€¦ãŠã„ã§ãƒƒã€åƒ•ã®ã‚·ãƒ£ãƒ‰ã‚¦ï¼ï¼@ã€€çµ‚æœ«å´©å£Šã®ã‚«ã‚¹ã‚¿ãƒãƒƒãƒˆã‚ªãƒ–ãƒãƒ¡ãƒ«ãƒ³ï¼ï¼ã€\
+;cc‚¨‚¢‚ÅƒbA–l‚ÌƒVƒƒƒhƒEII@@I––•ö‰ó‚ÌƒJƒXƒ^ƒlƒbƒgƒIƒuƒnƒƒ‹ƒ“IIv\
 `...Come forth, my shadow!! `@`Terminal Decay, Castanets of Hameln!!"`\
-;ï¼œã²ã‹ã‚‹
+;ƒ‚Ğ‚©‚é
 
 ld r,MIC_D4,80
 
-;ã€Œâ€¦â€¦ãã†ã€‚@ã˜ã‚ƒã‚ã€ç§ã‚‚å‘¼ã‚“ã§ã‚ã’ã‚‹ã€‚@ç§ã®å®ˆè­·å¹»ç£ï¼ˆã‚¬ãƒ¼ãƒ‡ã‚£ã‚¢ãƒ³ãƒ“ãƒ¼ã‚¹ãƒˆï¼‰ã€‚@ãŠã„ã§ã¾ã›ã€ã•ãã®ã—ã‚“ã•ã¾ãƒƒï¼ï¼ã€\
+;ucc‚»‚¤B@‚¶‚á‚ A„‚àŒÄ‚ñ‚Å‚ ‚°‚éB@„‚ÌçŒìŒ¶biƒK[ƒfƒBƒAƒ“ƒr[ƒXƒgjB@‚¨‚¢‚Å‚Ü‚¹A‚³‚­‚Ì‚µ‚ñ‚³‚ÜƒbIIv\
 `"...I see. `@`In that case, I'll call mine as well. `@`My Guardian Beast. `@`Come forth, Sakunoshin-sama!!"`\
 se1v 2,100
 quakey 2,200
@@ -394,42 +394,42 @@ ld r,SAK_D2,80
 
 bgm1 19
 
-;ã€Œã†ã‚Šã‚…ãƒ¼ï¼@ã€€åƒ•ã¯å‹•ç‰©éœŠã®é•·ã®ã•ãã®ã—ã‚“ï¼ã€@
+;u‚¤‚è‚ã[I@@–l‚Í“®•¨—ì‚Ì’·‚Ì‚³‚­‚Ì‚µ‚ñIv@
 `"Uryu-! `@`I am the Leader of Animal Spirits, Sakunoshin!"`@
-;ï¼œã•ãã®ã—ã‚“
+;ƒ‚³‚­‚Ì‚µ‚ñ
 
 ld l,HAM_D2,23
 
-;ã€Œã‚ã€ã©ã‚‚â€¦â€¦ã€‚@ã—ã‚‡ã¼ã„å¦–æ€ªã‚„ã£ã¦ã¾ã™ã€ãƒãƒ¡ãƒ«ãƒ³ã¨ç”³ã—ã¾ã™ã€‚@ã“ã‚Œã€ã¤ã¾ã‚‰ãªã„ãƒ¢ãƒã§ã™ã‘ã©â€¦â€¦ã€‚ã€\
+;u‚ A‚Ç‚àccB@‚µ‚å‚Ú‚¢—d‰ö‚â‚Á‚Ä‚Ü‚·Aƒnƒƒ‹ƒ“‚Æ\‚µ‚Ü‚·B@‚±‚êA‚Â‚Ü‚ç‚È‚¢ƒ‚ƒm‚Å‚·‚¯‚ÇccBv\
 `"Ah, hello... `@`I am but a lowly youkai named Hameln. `@`Here, have this..."`\
-;ï¼œãƒãƒ¡ãƒ«ãƒ³
+;ƒƒnƒƒ‹ƒ“
 
 cl r,0
 ld c,SAK_D4,24
 
-;ã€Œã‚ãƒ¼ã€ãƒãƒ³ãƒšãƒ³ã ãƒ¼ï¼ï¼@ã€€ã‚ã‚ŠãŒã¨ãƒ¼ï¼@ã€€ã†ã‚Šã‚…ãƒ¼ï¼ï¼ã€@
+;u‚í[Aƒnƒ“ƒyƒ“‚¾[II@@‚ ‚è‚ª‚Æ[I@@‚¤‚è‚ã[IIv@
 `"Ohh, a meat cake!! `@`Thanks! `@`Uryu-!!"`@
 ld l,HAM_D3,80
 
-;ã€Œã‚ã•ã³é†¤æ²¹ã§é£Ÿã¹ã‚‹ã¨ã‚¦ãƒã‚¤ã£ã™ã‚ˆã­ãƒ¼ã€‚@ã‚ã€å…é‹ã§ç¾å‘³ã—ã„åº—ã‚’æ¢ã™æ™‚ã¯ã€ãœã²å£°ã‚’æ›ã‘ã¦ã»ã—ã„ã£ã™ã€‚ã€\
+;u‚í‚³‚Ñİ–û‚ÅH‚×‚é‚ÆƒEƒ}ƒC‚Á‚·‚æ‚Ë[B@‚ A“e“ç‚Å”ü–¡‚µ‚¢“X‚ğ’T‚·‚ÍA‚º‚Ğº‚ğŠ|‚¯‚Ä‚Ù‚µ‚¢‚Á‚·Bv\
 `"It's really good with wasabi soy sauce. `@`Oh, if you ever want to know a great place to get rabbit soup, just let me know."`\
 bg black,23
 bg gakkou_03,23
 ld l,MIC_D3,23
 
-;ã€Œã¸ã‡â€¦â€¦ã€‚@å…¨æ–¹ä½å°„ç¨‹ç„¡åˆ¶é™å‹ï¼Ÿã€@
+;u‚Ö‚¥ccB@‘S•ûˆÊË’ö–³§ŒÀŒ^Hv@
 `"Ah... `@`A rapid ranged attack from all directions?"`@
 ld r,HIK_W1,24
 
-;ã€Œãƒãƒ¡ãƒ«ãƒ³ã®ã‚«ã‚¹ã‚¿ãƒãƒƒãƒˆã‹ã‚‰ã¯ã€ã‚¯ãƒ©ã‚¹ï¼³æœªæº€ã®ãƒãƒ³ã‚¿ãƒ¼ã¯æ±ºã—ã¦é€ƒã‚Œã‚‰ã‚Œãªã„ã®ã•ã€‚@/
+;uƒnƒƒ‹ƒ“‚ÌƒJƒXƒ^ƒlƒbƒg‚©‚ç‚ÍAƒNƒ‰ƒX‚r–¢–‚Ìƒnƒ“ƒ^[‚ÍŒˆ‚µ‚Ä“¦‚ê‚ç‚ê‚È‚¢‚Ì‚³B@/
 Nothing less than a class S hunter can get away from Hameln's castanets. `@/
 ld r,HIK_N1,80
 
-;â€¦â€¦ã¯ãƒƒã€‚@ã¾ã•ã‹ã€ãã®ä½™è£•â€¦â€¦ã€‚@ã“ãƒ»ã„ãƒ»ã¤ã€â€¦â€¦ã‚¯ãƒ©ã‚¹ï¼³ï¼Ÿï¼ã€\
+;cc‚ÍƒbB@‚Ü‚³‚©A‚»‚Ì—]—TccB@‚±E‚¢E‚ÂAccƒNƒ‰ƒX‚rHIv\
 `...Hah. `@`No way, that level of composure.... `@`Is he... a class S?!"`\
 ld l,MIC_D6,80
 
-;ã€Œæ°—ä»˜ãã®ãŒé…ã‹ã£ãŸã‚ˆã†ã­ã€‚@â€¦â€¦å–°ã„ç ´ã‚Œãƒƒã€ã‚¬ãƒ¼ãƒ‡ã‚£ã‚¢ãƒ³ãƒ“ãƒ¼ãƒ¼ãƒ¼ãƒ¼ã‚¹ãƒˆãƒƒï¼ï¼ï¼ã€\
+;u‹C•t‚­‚Ì‚ª’x‚©‚Á‚½‚æ‚¤‚ËB@cc‹ò‚¢”j‚êƒbAƒK[ƒfƒBƒAƒ“ƒr[[[[ƒXƒgƒbIIIv\
 `"You're slow on the uptake.`@`... Eat up, Guradian Beeeaaaaast!!!"`\
 bg black,22
 bg hokora_01,0
@@ -438,25 +438,25 @@ ld l,HAM_D1,22
 
 ld c,SAK_D2,80
 
-;ã€Œã„ã£ãŸã ã£ãã¾ãƒ¼ã™ï¼ï¼@ã€€ã¯ã‚€ã¯ã‚€ãƒƒã€ã‚ã•ã³ã‚‚ã„ãƒ¼ã‘ã©ã€æ´‹è¾›å­ã‚‚ãŠã„ã—ãƒ¼ã­ãƒ¼ï¼ã€@
+;u‚¢‚Á‚½‚¾‚Á‚«‚Ü[‚·II@@‚Í‚Ş‚Í‚ŞƒbA‚í‚³‚Ñ‚à‚¢[‚¯‚ÇA—mhq‚à‚¨‚¢‚µ[‚Ë[Iv@
 `"Thanks for the food!! `@`Nom nom, wasabi's good, but I like spicy mustard!"`@
 ld l,HAM_D2,80
-;ã€Œè¦‹äº‹ãªé£Ÿã„ã£ã·ã‚Šã£ã™ï¼ï¼@ã€€ã‚·ãƒ§ãƒœã„å¦–æ€ªã§ã™ãŒã€ã©ã†ã‹ã‚ˆã‚ã—ããŠé¡˜ã„ã—ã¾ã™ã£ã™ãƒ¼ï¼ã€\
+;uŒ©–‚ÈH‚¢‚Á‚Õ‚è‚Á‚·II@@ƒVƒ‡ƒ{‚¢—d‰ö‚Å‚·‚ªA‚Ç‚¤‚©‚æ‚ë‚µ‚­‚¨Šè‚¢‚µ‚Ü‚·‚Á‚·[Iv\
 `"What amazing eating power!! `@`I am but a lowly youkai, but please accept my best regards!"`\
 bg black,22
 bg gakkou_02,0
 ld c,KYO_D2,22
 
-;ã€€â€¦â€¦ä½•ã ã€ã‚ã‚Šã‚ƒã€‚@
+;@cc‰½‚¾A‚ ‚è‚áB@
 ` ...What the hell.`@
-;ã€€ã¾ãã€å½“äººãŸã¡ã¯æ¥½ã—ãã†ã ã—ã€æ”¾ã£ã¨ã‘ã°ã„ã„ã‹â€¦â€¦ã€‚@
+;@‚Ü‚ŸA“–l‚½‚¿‚ÍŠy‚µ‚»‚¤‚¾‚µA•ú‚Á‚Æ‚¯‚Î‚¢‚¢‚©ccB@
 ` Well, they seem to be having fun, so let's leave them be...`@
 br
-;ã€€ã©ã†ã›ã€ç™½æ˜¼å¤¢ã®ä¸–ç•Œã€‚@çœŸé¢ç›®ã«è€ƒãˆã‚‹ã ã‘ã€ã‚¹ãƒ†ãƒ¥ãƒ¼ãƒ”ãƒƒãƒ‰ã‚’è¦‹ã‚‹ã£ã¦ã‚‚ã‚“ã ãœã€‚\
+;@‚Ç‚¤‚¹A”’’‹–²‚Ì¢ŠEB@^–Ê–Ú‚Él‚¦‚é‚¾‚¯AƒXƒeƒ…[ƒsƒbƒh‚ğŒ©‚é‚Á‚Ä‚à‚ñ‚¾‚ºB\
 ` At any rate, this is the world of daydreams. `@`If you think about things too seriously, it'll just seems <stupid>.`\
 ld c,KYO_D1,80
 
-;ã€€ãŠã‚„ã€‚@ã‚ã£ã¡ã«ã„ã‚‹ã®ã¯ã€ã‚¢ã‚¶ãƒŸã¨ã‚¹ãƒŸãƒ¬ã®å§‰å¦¹ã˜ã‚ƒã­ã‡ã‹ã€‚\
+;@‚¨‚âB@‚ ‚Á‚¿‚É‚¢‚é‚Ì‚ÍAƒAƒUƒ~‚ÆƒXƒ~ƒŒ‚Ìo–…‚¶‚á‚Ë‚¥‚©B\
 ` Oh? `@`Is that the Azami-Sumire sisters over there?`\
 se1 56
 bg white,0
@@ -475,44 +475,44 @@ bgm1 28
 
 ld c,SMI_W3,80
 
-;ã€Œãµã²ã²ã²ã²ã²ã²ï¼@ã€€é¦¬é¹¿ã‚ã€ã„ã˜ã‚ã¯ãªããªã‚‰ã¬ã‚ï¼@ã€€ãã‚Œã“ãã€æˆ‘ã‚‰ã®é¤Šåˆ†ãªã®ã˜ã‚ƒï¼ã€\
+;u‚Ó‚Ğ‚Ğ‚Ğ‚Ğ‚Ğ‚ĞI@@”n­‚ßA‚¢‚¶‚ß‚Í‚È‚­‚È‚ç‚Ê‚íI@@‚»‚ê‚±‚»A‰ä‚ç‚Ì—{•ª‚È‚Ì‚¶‚áIv\
 `"Fuhihihihi! `@`You idiot, bullying will never disappear! `@`That's why we use it for nourishment!"`\
-;ï¼œã‚¹ãƒŸãƒ¬
+;ƒƒXƒ~ƒŒ
 
 bg white,23
 bg sadou_03,0
 mld c,YUK_I2,23
 mld c,YUK_I3,80
 
-;ã€Œã†ã…ã‚“ã€ã„ã˜ã‚ã¯ãªãã›ã‚‹ã‚ˆï¼@ã€€ãªããªã‚‰ãªã„ãªã‚“ã¦ã€èªã‚ãªã„ï¼ã€@
+;u‚¤‚£‚ñA‚¢‚¶‚ß‚Í‚È‚­‚¹‚é‚æI@@‚È‚­‚È‚ç‚È‚¢‚È‚ñ‚ÄA”F‚ß‚È‚¢Iv@
 `"No, I will make it disappear! `@`I won't allow it to exist!"`@
-;ï¼œç”±é¦™é‡Œ
+;ƒ—R—¢
 
 ld r,YOS_D3a,24
 
-;ã€Œâ€¦â€¦ã¾ãã€ã†ã¡ã®ã‚¯ãƒ©ã‚¹ã§ã¯å®Œå…¨ã«æ’²æ»…ã•ã‚ŒãŸã—ãªã€‚ã€\
+;ucc‚Ü‚ŸA‚¤‚¿‚ÌƒNƒ‰ƒX‚Å‚ÍŠ®‘S‚É–o–Å‚³‚ê‚½‚µ‚ÈBv\
 `"...Well, in her defense, it has been completely eraditaced from our class."`\
-;ï¼œå‰å·
+;ƒ‹gì
 
 ld l,AZA_D4,23
 
-;ã€Œã†ãµãµãµãµãµãµã€‚@ç”±é¦™é‡Œã®æš´åŠ›ã§å¹³å®šã—ãŸã‚ã‘ã§ã™ã­ã€‚ã€\
+;u‚¤‚Ó‚Ó‚Ó‚Ó‚Ó‚ÓB@—R—¢‚Ì–\—Í‚Å•½’è‚µ‚½‚í‚¯‚Å‚·‚ËBv\
 `"Ufufufufufu. `@`That's because Yukari violently repressed it."`\
-;ï¼œã‚¢ã‚¶ãƒŸ
+;ƒƒAƒUƒ~
 
 mld c,YUK_I2,80
 
-;ã€Œè¨€è‘‰ã¯æ‚ªã„ã‘ã©ã€ãã†ã„ã†ã“ã¨ï¼@ã€€ã„ã˜ã‚ã‚’æ­£ç¾©ã®æš´åŠ›ã§åˆ¶ã™ï¼@/
+;uŒ¾—t‚Íˆ«‚¢‚¯‚ÇA‚»‚¤‚¢‚¤‚±‚ÆI@@‚¢‚¶‚ß‚ğ³‹`‚Ì–\—Í‚Å§‚·I@/
 `"I would have phrased it differently, but you're right! `@`I moderate the bullying with righteous violence!`@/
 mld c,YUK_I3,80
 se1 12
 quakey 2,200
 
-;ã€€ç§ã®ã‚¯ãƒ©ã‚¹ã®æ²»å®‰ã¯ã€ç§ãŒå®ˆã‚‹ã‚ãƒƒã€‚ã€@
+;@„‚ÌƒNƒ‰ƒX‚Ì¡ˆÀ‚ÍA„‚ªç‚é‚íƒbBv@
 ` I uphold the order in my class."`@
 ld r,YOS_D4a,80
 
-;ã€Œâ€¦â€¦æ¬¡ã®å§”å“¡é•·ã®æŠ•ç¥¨ã€æ¦Šã«å…¥ã‚Œã­ã‡ã¨ã€ãƒ–ãƒ³æ®´ã‚‰ã‚Œãã†ã ãªâ€¦â€¦ã€‚ã€\
+;uccŸ‚ÌˆÏˆõ’·‚Ì“Š•[Aå‚É“ü‚ê‚Ë‚¥‚ÆAƒuƒ“‰£‚ç‚ê‚»‚¤‚¾‚ÈccBv\
 `"...I heard that if you don't vote for her as the next class representative, she'll punch you..."`\
 mcl c,0
 bg black,22
@@ -520,30 +520,30 @@ bg ningyou_02,0
 ld c,SMI_I1,23
 ;ld l,SMI_D1,80
 
-;ã€Œä½•ã¨ã„ã†ã“ã¨ã˜ã‚ƒã€å§‰è€…ï¼ï¼@ã€€ã„ã˜ã‚ã¯æš´åŠ›ã®å‰ã«ç„¡åŠ›ã ã¨ã„ã†ã®ã‹ï¼Ÿï¼ã€@
+;u‰½‚Æ‚¢‚¤‚±‚Æ‚¶‚áAoÒII@@‚¢‚¶‚ß‚Í–\—Í‚Ì‘O‚É–³—Í‚¾‚Æ‚¢‚¤‚Ì‚©HIv@
 `"What is this, sister! `@`Is bullying really powerless in the face of brute force?!"`@
 ;ld r,AZA_D4,24
 ld r,AZA_D2,24
 
-;ã€Œã„ã˜ã‚ã¯æ°‘ä¸»ä¸»ç¾©ã§ã™ã‹ã‚‰ã­ã‡ã€‚@ç”±é¦™é‡Œã«ã‚ˆã‚‹ã€æš´åŠ›ã®ç‹¬è£ã®å‰ã«ã¯ç„¡åŠ›ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“ã­ã‡ã€‚ã€\
+;u‚¢‚¶‚ß‚Í–¯åå‹`‚Å‚·‚©‚ç‚Ë‚¥B@—R—¢‚É‚æ‚éA–\—Í‚Ì“ÆÙ‚Ì‘O‚É‚Í–³—Í‚©‚à‚µ‚ê‚Ü‚¹‚ñ‚Ë‚¥Bv\
 `"That's because bullying is a democracy. `@`It may be powerless before the Yukari's power-based dictatorship."`\
 cl c,0
 ld l,SMI_I3a,24
 se1 48
 quakey 1,100
 
-;ã€Œãã†ã„ã†ã“ã¨ã˜ã‚ƒã€ã‚ºãƒ«ã„ãç”±é¦™é‡Œï¼ï¼@ã€€ã„ã˜ã‚ã®è‡ªç”±ã‚‚ã‚ã‚‹ã¯ãšãªã®ã˜ã‚ƒï¼@ã€€ç‹¬è£æš´åŠ›ã€åå¯¾ãªã®ã˜ã‚ƒï¼ï¼@ã€€ã„ã˜ã‚ãŒãªããªã£ãŸã‚‰æˆ‘ã‚‰ã¯é£¢ãˆã¦ã—ã¾ã†ã®ã˜ã‚ƒï¼ã€\
+;u‚»‚¤‚¢‚¤‚±‚Æ‚¶‚áAƒYƒ‹‚¢‚¼—R—¢II@@‚¢‚¶‚ß‚Ì©—R‚à‚ ‚é‚Í‚¸‚È‚Ì‚¶‚áI@@“ÆÙ–\—ÍA”½‘Î‚È‚Ì‚¶‚áII@@‚¢‚¶‚ß‚ª‚È‚­‚È‚Á‚½‚ç‰ä‚ç‚Í‹Q‚¦‚Ä‚µ‚Ü‚¤‚Ì‚¶‚áIv\
 `"See, see! That's cheating Yukari!! `@`Bullying should be free! `@`Down with the violent dictatorship!! `@`With bullying we'll starve!"`\
 ld r,AZA_D3,80
 
-;ã€Œä¸–ã®ä¸­ã€ã„ã˜ã‚ã‹ã‚‰å­¦ã¶ã¹ãã“ã¨ã‚‚ã‚ã‚‹ã¨æ€ã„ã¾ã™ã€‚@ç¤¾ä¼šã®æ¯’ã«è€ãˆã‚‹åŠ›ã‚’ä»˜ã‘ã‚‹ãŸã‚ã«ã‚‚ã€ãã‚Œã‚’è–„ã‚ãŸã‚‚ã®ã«èº«ã‚’æµ¸ã™ã“ã¨ã‚‚ã¾ãŸã€å­¦ç¿’ã§ã¯ã‚ã‚Šã¾ã›ã‚“ã‹â€¦ï¼Ÿã€\
+;u¢‚Ì’†A‚¢‚¶‚ß‚©‚çŠw‚Ô‚×‚«‚±‚Æ‚à‚ ‚é‚Æv‚¢‚Ü‚·B@Ğ‰ï‚Ì“Å‚É‘Ï‚¦‚é—Í‚ğ•t‚¯‚é‚½‚ß‚É‚àA‚»‚ê‚ğ”–‚ß‚½‚à‚Ì‚Ég‚ğZ‚·‚±‚Æ‚à‚Ü‚½AŠwK‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚©cHv\
 `"I think there's a lot to be learned from bullying in this world. `@`Isn't one way of putting up with the poison of society to practice by allowing yourself to experience a diluted version of it...?`\
 se1 4
 mbg white,1
 mcbg 22
 ld l,SMI_I1,80
 
-;ã€Œå‡ºãŸãƒ¼ãƒƒã€å§‰è€…ã®ãƒ‘ãƒ¼ãƒ•ã‚§ã‚¯ãƒˆå½å–„å±ç†å±ˆãªã®ã˜ã‚ƒï¼ï¼@ã€€ãã†ãã†ã€ã„ã˜ã‚ã¯å¿…è¦æ‚ªãªã®ã˜ã‚ƒã€ä¸–é–“ã¸ã®ãƒ¯ã‚¯ãƒãƒ³ãªã®ã˜ã‚ƒï¼@ã€€ã•ãã•ãã€ã„ã˜ã‚ã®è‡ªç”±ã‚’èªã‚ã‚‹ã®ã˜ã‚ƒãƒ¼ï¼ï¼ã€\
+;uo‚½[ƒbAoÒ‚Ìƒp[ƒtƒFƒNƒg‹U‘P››—‹ü‚È‚Ì‚¶‚áII@@‚»‚¤‚»‚¤A‚¢‚¶‚ß‚Í•K—vˆ«‚È‚Ì‚¶‚áA¢ŠÔ‚Ö‚ÌƒƒNƒ`ƒ“‚È‚Ì‚¶‚áI@@‚³‚Ÿ‚³‚ŸA‚¢‚¶‚ß‚Ì©—R‚ğ”F‚ß‚é‚Ì‚¶‚á[IIv\
 `"And there it is, sister's perfectly hypocritcal argument!! `@`It's a needed evil! A vaccine needed to survive society!!"`\
 bg black,24
 bg sadou_03,0
@@ -551,11 +551,11 @@ ld r,YUK_I5,24
 
 ;ld r,YUK_I3,80
 
-;ã€Œç§ã®ã‚¯ãƒ©ã‚¹ã§ã„ã˜ã‚ãŒã—ãŸã‘ã‚Œã°ãƒƒã€‚@ã“ã®ç§ã®å±ã‚’ä¹—ã‚Šè¶Šãˆã¦ã‚‚ã‚‰ã„ã¾ã—ã‚‡ã†ã‹ï¼ã€\
+;u„‚ÌƒNƒ‰ƒX‚Å‚¢‚¶‚ß‚ª‚µ‚½‚¯‚ê‚ÎƒbB@‚±‚Ì„‚Ìr‚ğæ‚è‰z‚¦‚Ä‚à‚ç‚¢‚Ü‚µ‚å‚¤‚©Iv\
 `"If anyone in my class want to bully someone, `@`they'll be doing it over my dead body!"`\
 ld l,YOS_D10a,23
 
-;ã€Œã†ã‰ã‰ã€æ¦ŠãŒã‚«ãƒƒã‚±ã‚§â€¦ï¼@ã€€æ¦ŠãŒã§ã£ã‹ãè¦‹ãˆã‚‹â€¦ï¼ï¼@/
+;u‚¤‚§‚§Aå‚ªƒJƒbƒPƒFcI@@å‚ª‚Å‚Á‚©‚­Œ©‚¦‚écII@/
 `"Whoa, Sakaki, you're so cool...! `@`You look like a giant...!!`@/
 cl r,0
 ld c,YUK_I3,24
@@ -563,26 +563,26 @@ se1 10
 quakex 1,100
 ld l,YOS_D4a,80
 
-;ã€€ç—›ãƒ‡ãƒƒï¼ï¼@/
+;@’ÉƒfƒbII@/
 ` Ouch!!`@/
 se2 11
 quakey 1,100
 
-;ã€€ã•ã€æ¦Šãƒƒã€ã”ã€ã”ã‚ãƒƒã€ã€@
+;@‚³AåƒbA‚²A‚²‚ßƒbAv@
 ` Sa-Sakaki, s-sorry,"`@
 ld c,YUK_I5,80
 
-;ã€Œè¨€ã£ãŸãªãï¼Ÿï¼@ã€€ã¾ãŸç§ã®èº«é•·ã®ã“ã¨è¨€ã£ãŸãªãï¼Ÿï¼@/
+;uŒ¾‚Á‚½‚È‚ŸHI@@‚Ü‚½„‚Ìg’·‚Ì‚±‚ÆŒ¾‚Á‚½‚È‚ŸHI@/
 `"You making fun of me?! `@`Commenting on my height again?!`@/
 se1 10
 quakex 1,100
 
-;ã€€æ®´ã‚‹ï¼ï¼@/
+;@‰£‚éII@/
 ` Punch!!`@/
 se2 11
 quakex 1,100
 
-;ã€€æ®´ã‚‹æ®´ã‚‹ï¼ï¼ã€\
+;@‰£‚é‰£‚éIIv\
 ` Punch, punch!!"`\
 bg white,23
 bg ningyou_02,0
@@ -592,28 +592,28 @@ ld c,AZA_D4,23
 ld c,AZA_D7,80
 quake 5,700
 
-;ã€Œã ãƒ»ã‚Œãƒ»ãŒã€ãƒ‘ãƒ¼ãƒ•ã‚§ã‚¯ãƒˆå½å–„å±ç†å±ˆã§ã™ã£ã¦ã‡ãˆãˆã‡ãˆã‡ãˆãˆï¼Ÿï¼ã€@
+;u‚¾E‚êE‚ªAƒp[ƒtƒFƒNƒg‹U‘P››—‹ü‚Å‚·‚Á‚Ä‚¥‚¦‚¦‚¥‚¦‚¥‚¦‚¦HIv@
 `"W H O ' S argument are you calling perfectly hypocriticaaaaallllll?!"`@
 ld l,SMI_N3,80
 
-;ã€Œãµãã‚ƒããƒã„ã„ã„ãƒã€å§‰è€…ãã‚ãã‚ã€ã„ã˜ã‚åå¯¾ãªã®ã˜ã‚ƒã‚ã‚ãã‚ã‚ããï¼ï¼ã€\
+;u‚Ó‚¬‚á‚¬‚¡‚¢‚¢‚¢‚¡AoÒ‚Ÿ‚ ‚Ÿ‚ A‚¢‚¶‚ß”½‘Î‚È‚Ì‚¶‚á‚ ‚ ‚Ÿ‚ ‚ ‚Ÿ‚ŸIIv\
 `"Fugyaaagieee, Sisteeeerrr, don't bully meeeEEeeEEee!!"`\
 bg black,22
 bg rouka_02,0
 ld c,KYO_D2,22
 
-;ã€€â€¦â€¦ã‚ã®ãã‚‰ã„ã®æ­³ã®é ƒã£ã¦ã€å¥³å­ã®æ–¹ãŒèƒŒãŒé«˜ã„ã—åŠ›ã‚‚å¼·ã„ã‹ã‚‰ãªã€‚@
+;@cc‚ ‚Ì‚­‚ç‚¢‚ÌÎ‚Ì ‚Á‚ÄA—q‚Ì•û‚ª”w‚ª‚‚¢‚µ—Í‚à‹­‚¢‚©‚ç‚ÈB@
 ` ...When they're around that age girl's tend to be taller and stronger anyway.`@
 br
-;ã€€ã¾ãã€ã‚¯ã‚½ã‚¬ã‚­ã©ã‚‚ã¯ã€å¥³ã®ãƒ’ãƒƒãƒ—ã«æ•·ã‹ã‚Œã¦ã‚‹ãã‚‰ã„ãŒã€ã‚¯ãƒ©ã‚¹ã¯å¹³å’Œã§ã„ã„ã ã‚ã†ã€‚\
+;@‚Ü‚ŸAƒNƒ\ƒKƒL‚Ç‚à‚ÍA—‚Ìƒqƒbƒv‚É•~‚©‚ê‚Ä‚é‚­‚ç‚¢‚ªAƒNƒ‰ƒX‚Í•½˜a‚Å‚¢‚¢‚¾‚ë‚¤B\
 ` Well, maybe it's a good thing for those brats to be forced to behave by the whip of a girl.`\
 ; ^^^ Note To Editor: There's some nice imagery in the Japanese here that I couldn't figure out how to fit into the English. In English when a husband is heavily controlled by his wife we say he's henpecked or, at least in American English, whipped. In Japanese they use a phrase that means the wife is sitting down on the husband as he supports her weight. The imagery here is that Yukari, the wife, is sitting on the class, the henpecked husband. If you can find a way to fit that in, go ahead.
 ld c,KYO_D3,80
 
-;ã€€ãã‚Œã«ã—ã¦ã‚‚ã€ã•ã£ãã‹ã‚‰ãƒ­ã‚¯ã§ã‚‚ãªã„ç™½æ˜¼å¤¢ã«ã—ã‹å‡ºãã‚ã•ãªã„ãªã€‚@
+;@‚»‚ê‚É‚µ‚Ä‚àA‚³‚Á‚«‚©‚çƒƒN‚Å‚à‚È‚¢”’’‹–²‚É‚µ‚©o‚­‚í‚³‚È‚¢‚ÈB@
 ` Still, we haven't seen anything but nonsensical daydreams so far.`@
 br
-;ã€€ã‚‚ã†å°‘ã—ã€è½ã¡ç€ã„ãŸã€ã¾ã£ãŸã‚Šã—ãŸãƒ‡ã‚¤ãƒ‰ãƒªãƒ¼ãƒ ã¯ãªã„ã‚‚ã®ã‹â€¦â€¦ã€‚\
+;@‚à‚¤­‚µA—‚¿’…‚¢‚½A‚Ü‚Á‚½‚è‚µ‚½ƒfƒCƒhƒŠ[ƒ€‚Í‚È‚¢‚à‚Ì‚©ccB\
 ` I'm starting to think that there aren't really any laid-back <daydreams>....`\
 se1 56
 bg white,0
@@ -630,51 +630,51 @@ bgm1 31
 
 ld l,KOU_D1,23
 
-;ã€Œâ€¦â€¦å¹³å’Œã ã­ã‡â€¦â€¦ã€‚ã€@
+;ucc•½˜a‚¾‚Ë‚¥ccBv@
 `"...It's so peaceful...."`@
-;ï¼œæ ¡é•·
+;ƒZ’·
 
 ld c,HOK_D4,23
 
-;ã€Œå¹³å’Œã§ã™ã‚ã­ã‡ã€‚ã€@
+;u•½˜a‚Å‚·‚í‚Ë‚¥Bv@
 `"So peaceful."`@
-;ï¼œä¿å¥
+;ƒ•ÛŒ’
 
 ld r,RUN_D1,24
 
-;ã€Œä¿å¥å®¤ãŒå¹³å’Œãªã®ã¯ã€æœ¬å½“ã«ã„ã„ã“ã¨ã ã­ã€‚ã€\
+;u•ÛŒ’º‚ª•½˜a‚È‚Ì‚ÍA–{“–‚É‚¢‚¢‚±‚Æ‚¾‚ËBv\
 `"It's really nice when the infirmary is this peaceful."`\
-;ï¼œãƒ«ãƒãƒ¯ãƒ¼ãƒ«
+;ƒƒ‹ƒmƒ[ƒ‹
 
 ld c,HOK_D2,80
 
-;ã€Œå¿™ã—ã„ã‚ã‚ˆãƒ¼ã€ä¿å¥å®¤ã¯ã€‚@æ¯æ—¥ã€ã„ã‚ã‚“ãªãƒˆãƒ³ãƒãƒ³ã‚«ãƒ³ãŒã€é¢ç™½ãŠã‹ã—ã„æ€ªæˆ‘ã‚’ã“ã•ãˆã¦ã€æ³£ãå–šããªãŒã‚‰ã‚„ã£ã¦ãã‚‹ã‹ã‚‰ã­ã‡ï¼ã€\
+;u–Z‚µ‚¢‚í‚æ[A•ÛŒ’º‚ÍB@–ˆ“úA‚¢‚ë‚ñ‚Èƒgƒ“ƒ`ƒ“ƒJƒ“‚ªA–Ê”’‚¨‚©‚µ‚¢‰ö‰ä‚ğ‚±‚³‚¦‚ÄA‹ƒ‚«Š«‚«‚È‚ª‚ç‚â‚Á‚Ä‚­‚é‚©‚ç‚Ë‚¥Iv\
 `"It's normally really busy. `@`Every day kids come in bawling their eyes out over absurd, yet laughable injuries!"`\
-;ï¼œä¿å¥
+;ƒ•ÛŒ’
 
 ld l,KOU_D3,80
 
-;ã€Œä¿å¥å®¤ãŒé™ã‹ã¨ã„ã†ã“ã¨ã¯ã€èª°ã‚‚æ€ªæˆ‘ã‚’ã—ã¦ãªã„ã¨ã„ã†ã“ã¨ã˜ã‚ƒãªã„ã‹ã­ã€‚@ã»ã£ã»ã£ã»ã€å®Ÿã«çµæ§‹ã€çµæ§‹ã ã­ã€‚ã€@
+;u•ÛŒ’º‚ªÃ‚©‚Æ‚¢‚¤‚±‚Æ‚ÍA’N‚à‰ö‰ä‚ğ‚µ‚Ä‚È‚¢‚Æ‚¢‚¤‚±‚Æ‚¶‚á‚È‚¢‚©‚ËB@‚Ù‚Á‚Ù‚Á‚ÙAÀ‚ÉŒ‹\AŒ‹\‚¾‚ËBv@
 `"So when it's quiet in the infirmary that means that no one's getting hurt. `@`Ho ho ho, that's all the better."`@
 ld r,RUN_D5,80
 
-;ã€Œæ ¡é•·å…ˆç”ŸãŒå¹³å’Œã¨ã„ã†ã®ã‚‚åŒã˜ã“ã¨ã˜ã‚ƒãªã„ï¼Ÿ@ã€€æ„šã‹ãªäººé–“ãŒã€å¦–æ€ªã«å–°ã„æ®ºã•ã‚Œã¦ãªã„ã£ã¦è¨¼æ‹ ã§ã‚‚ã‚ã‚‹ã‚ã‘ã ã—ã€‚ã€\
+;uZ’·æ¶‚ª•½˜a‚Æ‚¢‚¤‚Ì‚à“¯‚¶‚±‚Æ‚¶‚á‚È‚¢H@@‹ğ‚©‚ÈlŠÔ‚ªA—d‰ö‚É‹ò‚¢E‚³‚ê‚Ä‚È‚¢‚Á‚ÄØ‹’‚Å‚à‚ ‚é‚í‚¯‚¾‚µBv\
 `"Don't things get peaceful for you for the same reason, Headmaster? `@`When things are quiet that means that there are no foolish humans being devoured by youkai."`\
-;ï¼œãƒ«ãƒ
+;ƒƒ‹ƒm
 
 bg black,24
 bg hoken_02,24
 ld r,KOU_D4,22
 
-;ã€Œã»ã£ã»ã£ã»ã€‚@æœ€è¿‘ã®è‹¥ã„å¦–æ€ªãŸã¡ã¯ç‹©ã‚ŠãŒç››ã‚“ã ã‹ã‚‰ã­ã‡ã€‚@ãŠé™°ã§å¤§å¿™ã—ã˜ã‚ƒã‚ˆã€‚ã€\
+;u‚Ù‚Á‚Ù‚Á‚ÙB@Å‹ß‚Ìá‚¢—d‰ö‚½‚¿‚Íë‚è‚ª·‚ñ‚¾‚©‚ç‚Ë‚¥B@‚¨‰A‚Å‘å–Z‚µ‚¶‚á‚æBv\
 `"Ho ho ho. `@`The younger youkai have been hunting quite enthusiasticly lately. `@`You've all been making me very busy."`\
 ld l,HOK_D4,23
 
-;ã€Œã“ã£ã¡ã‚‚ãã£ã¡ã‚‚ã€‚@ç§ãŸã¡ã¯ã„ã£ã¤ã‚‚å¤§å¿™ã—ã­ã‡ã€‚@ã¯ãƒ¼ãƒƒã€ã„ã„ç”·ã„ãªã„ã‹ã—ã‚‰ãƒ¼ã€‚@/
+;u‚±‚Á‚¿‚à‚»‚Á‚¿‚àB@„‚½‚¿‚Í‚¢‚Á‚Â‚à‘å–Z‚µ‚Ë‚¥B@‚Í[ƒbA‚¢‚¢’j‚¢‚È‚¢‚©‚µ‚ç[B@/
 `"It's always something. `@`Someone's always making work for us. `@`Haa-, I wish that I could find a nice man. `@/
 ld l,HOK_D2,80
 
-;ã­ã‡ã€ãƒ«ãƒãƒ¯ãƒ¼ãƒ«ãã‚“ã€‚@ã‚ãªãŸã€çµµã®ä¸­ã«å‡ºå…¥ã‚Šã§ãã‚‹å¦–æ€ªãªã‚“ã§ã—ã‚‡ï¼Ÿ@ã€€çµµã®ä¸­ã‹ã‚‰ã€ç´ æ•µãªç”·æ€§ã‚’å‘¼ã³å‡ºã™ã“ã¨ã¨ã‹å‡ºæ¥ãªã„ã®ï¼Ÿï¼ã€\
+;‚Ë‚¥Aƒ‹ƒmƒ[ƒ‹‚­‚ñB@‚ ‚È‚½AŠG‚Ì’†‚Éo“ü‚è‚Å‚«‚é—d‰ö‚È‚ñ‚Å‚µ‚åH@@ŠG‚Ì’†‚©‚çA‘f“G‚È’j«‚ğŒÄ‚Ño‚·‚±‚Æ‚Æ‚©o—ˆ‚È‚¢‚ÌHIv\
 `Hey, Renoir-kun. `@`You're a youkai that can go in and out of art, right? `@`Can you pull a really good looking guy out of some art for me?!"`\
 bg black,23
 bg hoken_01,0
@@ -682,7 +682,7 @@ ld c,RUN_D6a,23
 
 ld c,RUN_D7a,80
 
-;ã€Œçµµã®å¤–ã«ã¯å‡ºã›ãªã„ã‘ã©ã€å…ˆç”Ÿã‚’çµµã®ä¸­ã«æ‹›å¾…ã™ã‚‹ã“ã¨ãªã‚‰å‡ºæ¥ã‚‹ã‹ãªâ€¦â€¦ã€‚ã€\
+;uŠG‚ÌŠO‚É‚Ío‚¹‚È‚¢‚¯‚ÇAæ¶‚ğŠG‚Ì’†‚Éµ‘Ò‚·‚é‚±‚Æ‚È‚ço—ˆ‚é‚©‚ÈccBv\
 `"I can't bring anything out of the artwork, but I might be able to invite you into one..."`\
 se1 4
 cl c,0
@@ -693,11 +693,11 @@ quakex 2,200
 
 ld c,HOK_D3,80
 
-;ã€Œçµµã£ã¦ã€çµµç”»ã‚ªãƒ³ãƒªãƒ¼ï¼Ÿï¼@ã€€æœ¬ã¨ã‹æ¼«ç”»ã¨ã‹ã®çµµã¯é§„ç›®ãªã®ï¼Ÿï¼ã€@
+;uŠG‚Á‚ÄAŠG‰æƒIƒ“ƒŠ[HI@@–{‚Æ‚©–Ÿ‰æ‚Æ‚©‚ÌŠG‚Í‘Ê–Ú‚È‚ÌHIv@
 `"Does artwork only mean paintings and portraits, stuff like that?! `@`Can you do it with the art in a book or a manga?!"`@
 ld r,RUN_D7a,80
 
-;ã€Œã‚„ã£ãŸã“ã¨ã¯ãªã„ã‘ã©ã€â€¦â€¦å¤šåˆ†ã€å‡ºæ¥ã‚‹ã‚“ã˜ã‚ƒãªã„ã‹ãªã€‚ã€\
+;u‚â‚Á‚½‚±‚Æ‚Í‚È‚¢‚¯‚ÇAcc‘½•ªAo—ˆ‚é‚ñ‚¶‚á‚È‚¢‚©‚ÈBv\
 `"I've never tried before... but, probably."`\
 
 ;ld c,HOK_D1,80
@@ -705,7 +705,7 @@ cl c,24
 se1 3
 quakex 1,100
 
-;ã€Œã¬ã€ã¬ãŠãŠã‰ãŠãŠãŠãŠãŠã‰ï¼ï¼@ã€€ã¡ã‚‡ã£ã¨å¾…ã£ã¦ãªã•ã„ã€ã¡ã‚‡ã£ã¨å¾…ã£ã¦ãªã•ã„ï¼ï¼ã€\
+;u‚ÊA‚Ê‚¨‚¨‚§‚¨‚¨‚¨‚¨‚¨‚§II@@‚¿‚å‚Á‚Æ‘Ò‚Á‚Ä‚È‚³‚¢A‚¿‚å‚Á‚Æ‘Ò‚Á‚Ä‚È‚³‚¢IIv\
 `"Wh-Whoooooaaaaa!! `@`One second, I'll be right back!!"`\
 ;cl c,24
 ;se1 3
@@ -713,56 +713,56 @@ quakex 1,100
 bg white,24
 bg hoken_04,24
 
-;ã€€ä¿å¥ã®å…ˆç”Ÿã¯é›„å«ã³ã‚’ã‚ã’ãªãŒã‚‰ã€äº‹å‹™æœºã®ä¸€ç•ªä¸‹ã®æ®µã®å¼•ãå‡ºã—ã‚’é–‹ã‘ã€@ã•ã‚‰ã«ãã®å¥¥ã®è£å´ã«éš ã—ã¦ã‚ã£ãŸã€å¦™ã«è–„ã„æœ¬ã®æ•°ã€…ã‚’å–ã‚Šå‡ºã—å§‹ã‚ã‚‹ã€‚\
+;@•ÛŒ’‚Ìæ¶‚Í—Y‹©‚Ñ‚ğ‚ ‚°‚È‚ª‚çA––±Š÷‚Ìˆê”Ô‰º‚Ì’i‚Ìˆø‚«o‚µ‚ğŠJ‚¯A@‚³‚ç‚É‚»‚Ì‰œ‚Ì— ‘¤‚É‰B‚µ‚Ä‚ ‚Á‚½A–­‚É”–‚¢–{‚Ì”X‚ğæ‚èo‚µn‚ß‚éB\
 ` With a roar, the school nurse ran over to her office desk and pulled out the lowest drawer, `@`and started pulling out multiple thin books that were hidden in the far back.`\
 bg hoken_02,22
 ld r,RUN_D6a,24
 
-;ã€Œã„ã„ã‚“ã§ã™ã‹ã€æ ¡é•·å…ˆç”Ÿâ€¦â€¦ã€‚ã€@
+;u‚¢‚¢‚ñ‚Å‚·‚©AZ’·æ¶ccBv@
 `"Are you okay with this, Headmaster...?"`@
 ld l,KOU_D3,23
 
-;ã€Œæ•™å¸«ã«ã‚‚æ¯æŠœããŒå¿…è¦ã˜ã‚ƒã‚ˆã€‚@ãã‚ŒãŒäºŒæ¬¡å…ƒã®ä¸­ãªã‚‰ã°å¤§ã„ã«æ§‹ã‚ã‚“ã­ã€‚@/
+;u‹³t‚É‚à‘§”²‚«‚ª•K—v‚¶‚á‚æB@‚»‚ê‚ª“ñŸŒ³‚Ì’†‚È‚ç‚Î‘å‚¢‚É\‚í‚ñ‚ËB@/
 `"Even teachers need to relax every once in a while. `@`Who am I too complain if they do it in 2D. `@/
 ;ld l,KOU_D1,80
 
-;ã»ã£ã»ã£ã»ã£ã»ã€‚ã€\
+;‚Ù‚Á‚Ù‚Á‚Ù‚Á‚ÙBv\
 `Ho ho ho ho."`\
 bg white,23
 bg hoken_04,22
 quakex 1,100
 
-;ã€Œãƒ«ãƒãƒ¯ãƒ¼ãƒ«ãã‚“ãƒƒã€ã„ã„ãˆã€ãƒ«ãƒãƒ¯ãƒ¼ãƒ«ã•ã¾ãƒƒã€‚@ã¾ã¾ã€ã¾ãšã¯ã“ã®æœ¬ã®ã“ã‚Œã‹ã‚‰ãŠé¡˜ã„ï¼@/
+;uƒ‹ƒmƒ[ƒ‹‚­‚ñƒbA‚¢‚¢‚¦Aƒ‹ƒmƒ[ƒ‹‚³‚ÜƒbB@‚Ü‚ÜA‚Ü‚¸‚Í‚±‚Ì–{‚Ì‚±‚ê‚©‚ç‚¨Šè‚¢I@/
 `"Renoir-kun, no wait, Renoir-sama. `@`C- ca- can you do this book first?!`@/
 se1 47
 quakey 1,100
 
-;ã€€ã¾ãšã¯éŸ³ä¹Ÿã‚µãƒï¼ï¼@/
+;@‚Ü‚¸‚Í‰¹–çƒTƒ}II@/
 ` First up is Otoya-sama!!`@/
 se2 48
 quakey 1,100
 
-;ã€€ã„ãˆã„ãˆã€çœŸæ–—ã‚µãƒï¼ï¼@ã€€ã‚ã²ãƒã„ã„ãƒã†ã²ã„ã„ã„ãƒã„ï¼ï¼ã€\
+;@‚¢‚¦‚¢‚¦A^“lƒTƒ}II@@‚ ‚Ğ‚¡‚¢‚¢‚¡‚¤‚Ğ‚¢‚¢‚¢‚¡‚¢IIv\
 ` No no, wait, Masato-sama!! `@`SqueeeeEEEEeeee!!"`\
 bg black,24
 bg rouka_03,0
 ld c,KYO_D3,24
 
-;ã€€â€¦â€¦äºŒæ¬¡å…ƒã«ãƒ€ã‚¤ãƒ–ã™ã‚‹èƒ½åŠ›ã‹â€¦â€¦ã€‚@
+;@cc“ñŸŒ³‚Éƒ_ƒCƒu‚·‚é”\—Í‚©ccB@
 ` ...The ability to <dive> into 2D, huh....`@
 br
-;ã€€ä¸€éƒ¨ã®äººé–“ã«ã¨ã£ã¦ã¯ã€ãƒ«ãƒãƒ¯ãƒ¼ãƒ«ã®èƒ½åŠ›ã¯ã¾ã•ã«ç¥ã®èƒ½åŠ›ã ãªâ€¦â€¦ã€‚\
+;@ˆê•”‚ÌlŠÔ‚É‚Æ‚Á‚Ä‚ÍAƒ‹ƒmƒ[ƒ‹‚Ì”\—Í‚Í‚Ü‚³‚É_‚Ì”\—Í‚¾‚ÈccB\
 ` Some people would consider Renoir's power to be that of a god...`\
 ld c,KYO_D6a,80
 
-;ã€€ãã‚Œã‚ˆã‚Šã€æ ¡é•·ã¨ä¿å¥ã®å…ˆå…¬ã€‚@â€¦â€¦ãŠå‰ã‚‰ã€å°‘ã—ã¯ä»•äº‹ã—ã‚ã‚ˆâ€¦â€¦ã€‚@
+;@‚»‚ê‚æ‚èAZ’·‚Æ•ÛŒ’‚ÌæŒöB@cc‚¨‘O‚çA­‚µ‚Íd–‚µ‚ë‚æccB@
 ` Leaving that aside.`@`... Headmaster and the nurse, you too should get back to work...`@
 br
-;ã€€ã¾ãã€æ ¡é•·ãŒãƒ’ãƒãªã®ã¯ã€ãã®åˆ†ã€æ•™é ­ãŒä»•äº‹ã—ã¦ã‚‹ã‹ã‚‰ãªã‚“ã ã‚ã€‚\
+;@‚Ü‚ŸAZ’·‚ªƒqƒ}‚È‚Ì‚ÍA‚»‚Ì•ªA‹³“ª‚ªd–‚µ‚Ä‚é‚©‚ç‚È‚ñ‚¾‚ëB\
 ` Well, the reason that the Headmaster has some freetime is because the vice principal is doing his job.`\
 ld c,KYO_D5,80
 
-;ã€€æˆ‘ã‚‰ãŒæ•™é ­ã‚»ãƒ³ã‚»ã¯ã€ã©ã¡ã‚‰ã«ã„ã‚‰ã£ã—ã‚ƒã‚‹ã‚“ã â€¦â€¦ã€‚\
+;@‰ä‚ç‚ª‹³“ªƒZƒ“ƒZ‚ÍA‚Ç‚¿‚ç‚É‚¢‚ç‚Á‚µ‚á‚é‚ñ‚¾ccB\
 ` Let's head to wear the VP is...`\
 se1 56
 bg white,0
@@ -779,13 +779,13 @@ bgm1 3
 
 ld r,SIN_D2,24
 
-;ã€Œãã‚“ãªã“ã¨ã¯ã‚ã‚Šã¾ã›ã‚“ã‚ˆã­ã‡ã€ã¿ã©ã‚Šã•ã‚“ã€‚@å¤¢ã‚’è¦‹ã‚‹ã“ã¨ã¯ç´ æ™´ã‚‰ã—ã„ã“ã¨ã§ã™ã‚ˆã­ã‡ã€‚ã€@
+;u‚»‚ñ‚È‚±‚Æ‚Í‚ ‚è‚Ü‚¹‚ñ‚æ‚Ë‚¥A‚İ‚Ç‚è‚³‚ñB@–²‚ğŒ©‚é‚±‚Æ‚Í‘f°‚ç‚µ‚¢‚±‚Æ‚Å‚·‚æ‚Ë‚¥Bv@
 `"That's not true at all, right Midori-san? `@`Dreaming is a wonderful thing to do, right?"`@
-;ï¼œç´…èŒ¶
+;ƒg’ƒ
 
 ld l,MID_D2,23
 
-;ã€Œâ€¦â€¦ã¯ã„ã€ç´…èŒ¶ç´³å£«ã•ã‚“â€¦â€¦ã€‚@å¤¢ã¯å¸Œæœ›ã®ç¾…é‡ç›¤â€¦â€¦ã€‚@ãªãã¦ã¯äººã¯ã€ç”Ÿãã¦ã„ã‘ãªã„ã®ã§ã™â€¦â€¦ã€‚ã€\
+;ucc‚Í‚¢Ag’ƒam‚³‚ñccB@–²‚ÍŠó–]‚Ì—…j”ÕccB@‚È‚­‚Ä‚Íl‚ÍA¶‚«‚Ä‚¢‚¯‚È‚¢‚Ì‚Å‚·ccBv\
 `"...Yes, Black Tea Gentleman... `@`Dreams are hope's compass... `@`Without them, people wouldn't be able to go on living..."`\
 bg black,24
 bg engeki_03,0
@@ -794,48 +794,48 @@ se1 12
 quakey 2,200
 ld r,IZA_D5,80
 
-;ã€Œãƒãƒƒã‚­ãƒ£ãƒ­ã‚¥ï¼@ã€€ç¾å®Ÿè¦‹ã‚„ãŒã‚Œãƒï¼@ã€€å¤¢ãªã‚“ã¦ãƒ¢ãƒ³ã¯ãªã€å¸ƒå›£ã®ä¸­ã ã‘ã«ã—ã‚„ãŒã‚Œï¼@ã€€ç¬¬ä¸€ãªã€å¤¢ãªã‚“ã¦è¦‹ã¦ã‚‹æ™‚ç‚¹ã§é‹å‹•ä¸è¶³ãªã‚“ã ã‚ˆï¼@ã€€ãªãã€ã‚ã‚„ï¼ã€\
+;uƒoƒbƒLƒƒƒƒDI@@Œ»ÀŒ©‚â‚ª‚ê‚¡I@@–²‚È‚ñ‚Äƒ‚ƒ“‚Í‚ÈA•z’c‚Ì’†‚¾‚¯‚É‚µ‚â‚ª‚êI@@‘æˆê‚ÈA–²‚È‚ñ‚ÄŒ©‚Ä‚é“_‚Å‰^“®•s‘«‚È‚ñ‚¾‚æI@@‚È‚ŸA‚ ‚âIv\
 `"Ya Morons! `@`Learn to face reality! `@`Leave dreams to when you're lying in bed! `@`If you've got time to dream in the first place, ya ain't spending enough time execisin'! `@`Right, Aya?!"`\
 ;ld l,AYA_D5a,23
 ld c,AYA_D10,24
 quakex 1,100
 
-;ã€Œã¯ã€ã¯ã„ãƒƒã€‚@æ¯æ—¥æ¯æ—¥ã€é ­ãŒç©ºã£ã½ã«ãªã‚‹ã¾ã§èµ°ã£ã¦ã€å€’ã‚Œã‚‹ã‚ˆã†ã«çœ ã‚‹ã¨æ°—æŒã¡ã„ã„ã§ã™ã£ã€‚@å¤¢ãªã‚“ã‹è¦‹ãªã„ã§ãã£ã™ã‚Šã§ã™ï¼ã€\
+;u‚ÍA‚Í‚¢ƒbB@–ˆ“ú–ˆ“úA“ª‚ª‹ó‚Á‚Û‚É‚È‚é‚Ü‚Å‘–‚Á‚ÄA“|‚ê‚é‚æ‚¤‚É–°‚é‚Æ‹C‚¿‚¢‚¢‚Å‚·‚ÁB@–²‚È‚ñ‚©Œ©‚È‚¢‚Å‚®‚Á‚·‚è‚Å‚·Iv\
 `"Y-Yes. `@`It's feels really good to clear your mind and just run every single day until you can come home and collapse into bed. `@`You'll sleep too soundly to dream!"`\
 bg white,23
 bg engeki_01,0
 ld r,SIN_d1,23
 ld r,SIN_d3,80
 
-;ã€Œã‚„ã‚Œã‚„ã‚Œâ€¦â€¦ã€‚@ã‚¤ã‚¶ãƒŠãƒŸã•ã‚“ã®ã›ã„ã§ã€ã‚ã‚„ã•ã‚“ã‚‚ã™ã£ã‹ã‚Šè„³ã¿ããŒç­‹è‚‰ã«ãªã£ã¦ã—ã¾ã„ã¾ã—ãŸã­ã‡ã€‚ã€\
+;u‚â‚ê‚â‚êccB@ƒCƒUƒiƒ~‚³‚ñ‚Ì‚¹‚¢‚ÅA‚ ‚â‚³‚ñ‚à‚·‚Á‚©‚è”]‚İ‚»‚ª‹Ø“÷‚É‚È‚Á‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½‚Ë‚¥Bv\
 `"Oh dear... `@`It appears that Izanami-san has turned Aya-san's brain into nothing more than another muscle."`\
 ld l,IZA_D5,23
 
-;ã€Œã¦ã‚ã‡ã®ã¨ã“ã®å°å¨˜ã¯ç›®ã®ç„¦ç‚¹ãŒåˆã£ã¦ã­ã‡ã˜ã‚ƒã­ã‡ã‹ï¼@/
+;u‚Ä‚ß‚¥‚Ì‚Æ‚±‚Ì¬–º‚Í–Ú‚ÌÅ“_‚ª‡‚Á‚Ä‚Ë‚¥‚¶‚á‚Ë‚¥‚©I@/
 `"And look at you, you've fucked this girl's vision so bad she can't even focus!`@/
 ld l,IZA_D6,80
 
-;ã€€ãŠã„ã€ã¿ã©ã‚Šï¼@ã€€ã“ã‚Œã‚’è¦‹ã¦ã¿ã‚ã€æŒ‡ã¯ä½•æœ¬ã‚ã‚‹ï¼Ÿï¼ã€\
+;@‚¨‚¢A‚İ‚Ç‚èI@@‚±‚ê‚ğŒ©‚Ä‚İ‚ëAw‚Í‰½–{‚ ‚éHIv\
 ` Yo, Midori! `@`Look here, how many fingers am I holding up?!"`\
 ;ld c,MID_K4,22
 mld c,MID_U2,22
 
-;ã€Œã„ã£ã±ã„ã§ã™â€¦â€¦ã€‚@ç§ã‚’è®ƒãˆã€ã‚¢ãƒ³ã‚³ãƒ¼ãƒ«ã‚’ã­ã ã‚‹å¤§å‹¢ã®äººãŸã¡ã®æ‰‹ãŒã€ã„ã£ã±ã„â€¦â€¦ã€‚ã€\
+;u‚¢‚Á‚Ï‚¢‚Å‚·ccB@„‚ğ]‚¦AƒAƒ“ƒR[ƒ‹‚ğ‚Ë‚¾‚é‘å¨‚Ìl‚½‚¿‚Ìè‚ªA‚¢‚Á‚Ï‚¢ccBv\
 `"Many... `@`Many hands from the crowds of people clapping for me, asking for an encore..."`\
 mcl c,22
 
 ld r,SIN_D4,80
 
-;ã€Œãã£ãã£ãï¼@ã€€ã¾ãã€ãã‚Œã¯æ°—ã«ã—ãªã„ã“ã¨ã§ã™ã€‚@å½“äººãŒå¹¸ã›ãªã®ã ã‹ã‚‰ã€è‰¯ã„ã§ã¯ã‚ã‚Šã¾ã›ã‚“ã‹ã€‚@ã‚ã‚„ã•ã‚“ã ã£ã¦ã€ä»ŠãŒå¹¸ã›ã§ã—ã‚‡ã†ï¼Ÿã€\
+;u‚­‚Á‚­‚Á‚­I@@‚Ü‚ŸA‚»‚ê‚Í‹C‚É‚µ‚È‚¢‚±‚Æ‚Å‚·B@“–l‚ªK‚¹‚È‚Ì‚¾‚©‚çA—Ç‚¢‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚©B@‚ ‚â‚³‚ñ‚¾‚Á‚ÄA¡‚ªK‚¹‚Å‚µ‚å‚¤Hv\
 `"Kukuku! `@`Well, nevermind that. `@`As long as the person is happy, everything is okay, right? `@`Aya-san, are you happy right now?"`\
 ;ld c,AYA_D4a,22
 ld c,AYA_D9,22
 
-;ã€Œã¶ã€éƒ¨æ´»ã¯å³ã—ãã¦å¤§å¤‰ã§ã™ã‘ã©ã£ã€â€¦â€¦ãã®ã€â€¦â€¦â€¦ã¾ãã€â€¦â€¦â€¦ã€‚@â€¦â€¦â€¦â€¦â€¦â€¦â€¦ã€‚ã€@
+;u‚ÔA•”Šˆ‚ÍŒµ‚µ‚­‚Ä‘å•Ï‚Å‚·‚¯‚Ç‚ÁAcc‚»‚ÌAccc‚Ü‚ŸAcccB@cccccccBv@
 `"W-Well my club activities are really tough... but... I guess...`@`......."`@
 ld r,SIN_d1,80
 
-;ã€Œãã£ãã£ãã£ãã€‚@è‰¯ã„ã“ã¨ã§ã™ã€‚@ã‚¤ã‚¶ãƒŠãƒŸå…ˆç”Ÿã€‚@ã©ã†ã‚„ã‚‰ä»Šå›ã‚‚ã€å¼•ãåˆ†ã‘ã®ã‚ˆã†ã§ã™ã­ã‡ã€‚ã€\
+;u‚­‚Á‚­‚Á‚­‚Á‚­B@—Ç‚¢‚±‚Æ‚Å‚·B@ƒCƒUƒiƒ~æ¶B@‚Ç‚¤‚â‚ç¡‰ñ‚àAˆø‚«•ª‚¯‚Ì‚æ‚¤‚Å‚·‚Ë‚¥Bv\
 `"Kukukuku. `@`That's good. `@`Izanami-sensei. `@`I think we can call this one a draw this time too."`\
 cl l,0
 mld l,IZA_D7,80
@@ -844,19 +844,19 @@ se1 2
 cl c,0
 quakex 2,200
 
-;ã€Œä½•ãŒå¼•ãåˆ†ã‘ã ï¼@ã€€ã†ã¡ã®ã‚ã‚„ã¯è¶…åŠªåŠ›å±‹ã®å…¨åŠ›ç–¾èµ°é‡éƒã ãƒƒï¼@ã€€ãŠå‰ãƒ³ã¨ã“ã®å¯æƒšã‘å§«ã¨ä¸€ç·’ã«ã™ã‚“ã˜ã‚ƒã­ã‡ï¼ï¼ã€\
+;u‰½‚ªˆø‚«•ª‚¯‚¾I@@‚¤‚¿‚Ì‚ ‚â‚Í’´“w—Í‰®‚Ì‘S—Í¾‘––ì˜Y‚¾ƒbI@@‚¨‘Oƒ“‚Æ‚±‚ÌQ›‚¯•P‚Æˆê‚É‚·‚ñ‚¶‚á‚Ë‚¥IIv\
 `"How is this a draw! `@`My spunky lil' girl, Aya's one hell of a good sprinter! `@`Your drowsy princess don't even hold a candle to her!!"`\
 ld r,SIN_d2,80
-;ã€Œå¤¢ã®ä¸­ã«ç”Ÿãã‚‹ãŸã‚ã«ã€è¶…åŠªåŠ›ã™ã‚‹ã¿ã©ã‚Šã•ã‚“ã‚‚ã€è² ã‘ãªã„ãã‚‰ã„ã®å…¨åŠ›ç–¾èµ°ãƒ‰ãƒªãƒ¼ãƒãƒ¼ã ã¨æ€ã„ã¾ã™ãŒï¼Ÿã€\
+;u–²‚Ì’†‚É¶‚«‚é‚½‚ß‚ÉA’´“w—Í‚·‚é‚İ‚Ç‚è‚³‚ñ‚àA•‰‚¯‚È‚¢‚­‚ç‚¢‚Ì‘S—Í¾‘–ƒhƒŠ[ƒ}[‚¾‚Æv‚¢‚Ü‚·‚ªHv\
 `"Well I think that my girl Midori-san has quite the spunk as well. She gives it her all to live in her dream world. A hell of a good dreamer."`\
 mcl l,0
 mld c,IZA_D7,23
-;ã€Œã‹ããªã‚‹ä¸Šã¯ç›´æ¥å¯¾æ±ºã ãƒƒï¼ï¼ã€€ã‚ã‚„ãƒƒã€ã¿ã©ã‚Šãƒƒã€ãƒªãƒ³ã‚°ã«ä¸ŠãŒã‚Œã‡ãˆã‡ï¼ï¼ã€\
+;u‚©‚­‚È‚éã‚Í’¼Ú‘ÎŒˆ‚¾ƒbII@‚ ‚âƒbA‚İ‚Ç‚èƒbAƒŠƒ“ƒO‚Éã‚ª‚ê‚¥‚¦‚¥IIv\
 `"That's it, this is a showdown!! Aya, Midori, get in the ring!!"`\
 mcl c,0
 bg black,22
 
-;ã€€â€¦â€¦ã‚«ã‚ªã‚¹ã ãªã€‚@ã‚„ã¯ã‚Šç™½æ˜¼å¤¢ã®ä¸–ç•Œã¯ã€é€€å±ˆå‡Œãã«ã¯ã¡ã‚‡ã†ã©ã„ã„ãœâ€¦â€¦ã€‚\
+;@ccƒJƒIƒX‚¾‚ÈB@‚â‚Í‚è”’’‹–²‚Ì¢ŠE‚ÍA‘Ş‹ü—½‚¬‚É‚Í‚¿‚å‚¤‚Ç‚¢‚¢‚ºccB\
 ` ...This is utter chaos. `@`The world of daydreams really is great for killing time...`\
 se1 56
 bg white,0
@@ -872,142 +872,142 @@ ld c,HIG_D4,22
 
 bgm1 32
 
-;ã€Œã‚ã‚‰ã€ã„ã‚‰ã£ã—ã‚ƒã„ã€‚ã€@
+;u‚ ‚çA‚¢‚ç‚Á‚µ‚á‚¢Bv@
 `"Oh? Hello there."`@
-;ï¼œå½¼å²¸èŠ±
+;ƒ”ŞŠİ‰Ô
 
 ld r,MAR_W1,24
 
-;ã€Œã‚­ãƒ§ã‚¦ã•ã‚“ã˜ã‚ƒãªã„ã§ã™ã‹ã€‚@ä»Šã€ã¡ã‚‡ã†ã©ãŠèŒ¶ã«ã—ã‚ˆã†ã¨ã—ã¦ãŸã¨ã“ã‚ãªã‚“ã§ã™ã‚ˆã€‚ã€@
+;uƒLƒ‡ƒE‚³‚ñ‚¶‚á‚È‚¢‚Å‚·‚©B@¡A‚¿‚å‚¤‚Ç‚¨’ƒ‚É‚µ‚æ‚¤‚Æ‚µ‚Ä‚½‚Æ‚±‚ë‚È‚ñ‚Å‚·‚æBv@
 `"If it isn't Kyou-san. `@`We were just about to have some tea if you would like to join."`@
-;ï¼œæ¯¬æ
+;ƒŸ{}
 
 ld l,KYO_D1,23
 
-;ã€Œã»ã†ã€ãã‚Œã¯ã‹ãŸã˜ã‘ãªã„ã€‚@é¦³èµ°ã«ãªã‚ã†ã€‚ã€\
+;u‚Ù‚¤A‚»‚ê‚Í‚©‚½‚¶‚¯‚È‚¢B@’y‘–‚É‚È‚ë‚¤Bv\
 `"Oh, thanks for the offer. `@`Don't mind if I do."`\
 
 ld c,HIG_D3,80
 
-;ã€Œã•ã¦ã€æ¯¬æï¼Ÿ@ã€€ä»Šæ—¥ã®ãŠèŒ¶è“å­ã¯ä½•ã‹ã—ã‚‰ï¼Ÿã€@
+;u‚³‚ÄAŸ{}H@@¡“ú‚Ì‚¨’ƒ‰Ùq‚Í‰½‚©‚µ‚çHv@
 `"Now then, Marie. `@`What kind of tea cake will we be having today?"`@
 se1 4
 ld r,MAR_W2,80
 
-;ã€Œã˜ã‚ƒã˜ã‚ƒãƒ¼ã‚“ã€‚@ä»Šæ—¥ã¯ä½•ã¨ã€ã–ã‚‰ã‚ç…é¤…ã‚’è¦‹ã¤ã‘ã¦æ¥ã¾ã—ãŸãƒ¼ï¼ã€\
+;u‚¶‚á‚¶‚á[‚ñB@¡“ú‚Í‰½‚ÆA‚´‚ç‚ß÷–İ‚ğŒ©‚Â‚¯‚Ä—ˆ‚Ü‚µ‚½[Iv\
 `"Ta-dah. `@`Today I found some sugar cookies!"`\
 ; ^^^ Note To Editor: Sugar senbei actually, http://en.wikipedia.org/wiki/Senbei, but they're close enough to cookies I think.
 ld c,HIG_D5,80
 
-;ã€Œã§ã‚‚ã€æ¯¬æï¼Ÿ@ã€€ãã‚Œã€ï¼’æšã—ã‹ãªã„ã‚“ã˜ã‚ƒãªã„ã‹ã—ã‚‰ï¼Ÿ@ã€€ã‚ãªãŸã¯é£Ÿã¹ãªã„ã¤ã‚‚ã‚Šãªã®ï¼Ÿã€@
+;u‚Å‚àAŸ{}H@@‚»‚êA‚Q–‡‚µ‚©‚È‚¢‚ñ‚¶‚á‚È‚¢‚©‚µ‚çH@@‚ ‚È‚½‚ÍH‚×‚È‚¢‚Â‚à‚è‚È‚ÌHv@
 `"But, Marie? `@`Don't you only have two? `@`Are you not going to have any?"`@
 ld r,MAR_W1,80
 
-;ã€ŒãŠå®¢æ§˜ã®ã‚­ãƒ§ã‚¦ã•ã‚“ã«ã¯ï¼‘æšã€‚@ç§ã¨å½¼å²¸èŠ±ã•ã‚“ã¯ã€æ®‹ã‚Šã®ï¼‘æšã‚’åŠåˆ†ã“ã§ã™ã€‚ã€\
+;u‚¨‹q—l‚ÌƒLƒ‡ƒE‚³‚ñ‚É‚Í‚P–‡B@„‚Æ”ŞŠİ‰Ô‚³‚ñ‚ÍAc‚è‚Ì‚P–‡‚ğ”¼•ª‚±‚Å‚·Bv\
 `"I'll give our guest, Kyou-san, one. `@`And then you and I will split one, Higanbana-san."`\
 se1v 10,40
 cl c,0
 ld l,HIG_W5,24
 
-;ã€Œã‚­ãƒ§ã‚¦ã€ã‚ã‚“ãŸã€ä»Šã™ãå¸°ã‚Šãªã•ã„ã€‚@ã‚½ãƒƒã‚³ãƒ¼ã€ï¼•ç§’ã§ã€‚ã€\
+;uƒLƒ‡ƒEA‚ ‚ñ‚½A¡‚·‚®‹A‚è‚È‚³‚¢B@ƒ\ƒbƒR[A‚T•b‚ÅBv\
 `"Kyou, get out of here. `@`You have five seconds."`\
 ld r,MAR_I4a,80
 
-;ã€ŒãŠå®¢æ§˜ã«ãã‚“ãªã“ã¨è¨€ã†äººã«ãŠã‚„ã¤ã¯ã‚ã‚Šã¾ã›ã‚“ã‚ˆï¼ã€@
+;u‚¨‹q—l‚É‚»‚ñ‚È‚±‚ÆŒ¾‚¤l‚É‚¨‚â‚Â‚Í‚ ‚è‚Ü‚¹‚ñ‚æIv@
 `"People who treat guests like that don't get to have any snacks!"`@
 ld l,HIG_D10a,80
 
-;ã€Œã†ãããããâ€¦â€¦â€¦ã€‚@æ­£åº§ã—ã¦è¬ã‚Šã¾ã™ã€‚@ã‚·ãƒ¥ãƒ³â€¦â€¦ã€‚ã€\
+;u‚¤‚®‚®‚®‚®‚®cccB@³À‚µ‚ÄÓ‚è‚Ü‚·B@ƒVƒ…ƒ“ccBv\
 `"Uggghhhh.... `@`I apologize. `@`Sigh...."`\
 bg black,24
 bg okujou_02,0
 ld r,KYO_D5,24
 
-;ã€Œâ€¦â€¦å½¼å²¸èŠ±ã€‚@ãŠå‰ã€æœ€è¿‘ã€ãšã„ã¶ã‚“å¤‰ã‚ã£ãŸãªã€‚ã€@
+;ucc”ŞŠİ‰ÔB@‚¨‘OAÅ‹ßA‚¸‚¢‚Ô‚ñ•Ï‚í‚Á‚½‚ÈBv@
 `"...Higanbana. `@`You've changed quite a bit recently."`@
 ld c,HIG_W5a,23
 
-;ã€Œã†ã‚‹ã•ã„ã‚ã­ï¼@ã€€ã–ã‚‰ã‚ç…é¤…ã®ãŸã‚ãªã‚‰æ­£åº§ãªã‚“ã¦ã¸ã£ã¡ã‚ƒã‚‰ã‚ˆï¼@/
+;u‚¤‚é‚³‚¢‚í‚ËI@@‚´‚ç‚ß÷–İ‚Ì‚½‚ß‚È‚ç³À‚È‚ñ‚Ä‚Ö‚Á‚¿‚á‚ç‚æI@/
 `"Shut up! `@`I don't care if I have to apologize for sugar cookies!`@/
 ;ld c,HIG_D10,80
 
-;ã€€â€¦â€¦ãã‚Œã‚ˆã‚Šã€æ¯¬æã€‚@ãã®ï¼‘æšã®ç…é¤…ã€ã©ã†ã‚„ã£ã¦ï¼’ã¤ã«å‰²ã‚‹ã®ï¼Ÿã€\
+;@cc‚»‚ê‚æ‚èAŸ{}B@‚»‚Ì‚P–‡‚Ì÷–İA‚Ç‚¤‚â‚Á‚Ä‚Q‚Â‚ÉŠ„‚é‚ÌHv\
 ` ...By the way, Marie. `@`How are you going to split that one cookie in two?"`\
 bg black,23
 bg okujou_01,0
 ld l,MAR_D4a,23
 ld l,MAR_W2,80
 
-;ã€Œãˆï¼Ÿ@ã€€ã±ã‚Šã‚“ã¨å…¬å¹³ã«ï¼’ã¤ã«â€¦â€¦ã€‚ã€@
+;u‚¦H@@‚Ï‚è‚ñ‚ÆŒö•½‚É‚Q‚Â‚ÉccBv@
 `"Huh? `@`I was just going to break it into two equal parts..."`@
 ld r,HIG_w6,24
 ;ld r,HIG_D5a,80
 
-;ã€Œã¨ã‹è¨€ã£ã¦ï¼@ã€€ä¸å…¬å¹³ã«å‰²ã£ã¦ã€å¤§ãã„æ–¹ã‚’å–ã‚‹ã¤ã‚‚ã‚Šã§ã—ã‚‡ã†ï¼@ã€€ã‚ã‚“ãŸã®è€ƒãˆãªã‚“ã¦ãŠè¦‹é€šã—ã‚ˆï¼ï¼ã€\
+;u‚Æ‚©Œ¾‚Á‚ÄI@@•sŒö•½‚ÉŠ„‚Á‚ÄA‘å‚«‚¢•û‚ğæ‚é‚Â‚à‚è‚Å‚µ‚å‚¤I@@‚ ‚ñ‚½‚Ìl‚¦‚È‚ñ‚Ä‚¨Œ©’Ê‚µ‚æIIv\
 `"So you say! `@`But in actuality you were planning to break them in uneven parts and take the bigger one! `@`I know your tricks!!"`\
 ld l,MAR_D4a,80
 
-;ã€Œã˜ã‚ƒã€ã˜ã‚ƒã‚ã€ã“ã†ã—ã¾ã—ã‚‡ã†ã€‚@ç§ã‹å½¼å²¸èŠ±ã•ã‚“ãŒå‰²ã‚Šã€ã‚‚ã†ï¼‘äººãŒã©ã¡ã‚‰ã‚’å–ã‚‹ã‹é¸ã¶ã¨ã„ã†ã®ã¯ã©ã†ã§ã—ã‚‡ã†ï¼Ÿã€@
+;u‚¶‚áA‚¶‚á‚ A‚±‚¤‚µ‚Ü‚µ‚å‚¤B@„‚©”ŞŠİ‰Ô‚³‚ñ‚ªŠ„‚èA‚à‚¤‚Pl‚ª‚Ç‚¿‚ç‚ğæ‚é‚©‘I‚Ô‚Æ‚¢‚¤‚Ì‚Í‚Ç‚¤‚Å‚µ‚å‚¤Hv@
 `"Alright, alright, here's what we'll do. `@`Why don't I choose the opposite of what you don't choose?"`@
 ;ld r,HIG_D9a,80
 ld r,HIG_W5,80
 
-;ã€Œï¼Ÿï¼Ÿï¼Ÿ@ã€€ã‚ˆãã‚ã‹ã‚“ãªã„ã‘ã©ã€ç§ãŒå¾—ã‚’å‡ºæ¥ã‚‹ãªã‚‰ã©ã£ã¡ã§ã‚‚ã„ã„ã‚ï¼ã€\
+;uHHH@@‚æ‚­‚í‚©‚ñ‚È‚¢‚¯‚ÇA„‚ª“¾‚ğo—ˆ‚é‚È‚ç‚Ç‚Á‚¿‚Å‚à‚¢‚¢‚íIv\
 `"??? `@`I don't really get it, but if it's possible for me to profit from it I've got no problem with that!"`\
 ld l,MAR_D4,80
 
-;ã€Œã˜ã‚ƒã‚ã€å½¼å²¸èŠ±ã•ã‚“ã¯ã€ãŠç…é¤…ã‚’å‰²ã‚‹å½¹ã€ã‚„ã‚Šã¾ã™ã‹ï¼Ÿã€\
+;u‚¶‚á‚ A”ŞŠİ‰Ô‚³‚ñ‚ÍA‚¨÷–İ‚ğŠ„‚é–ğA‚â‚è‚Ü‚·‚©Hv\
 `"Okay then Higanbana-san, would you like to divide it in two?"`\
 cl r,0
 mld c,HIG_W6,24
 
-;ã€Œã‚„ã‚‹ã«æ±ºã¾ã£ã¦ã‚‹ã§ã—ã‚‡ï¼@ã€€ã†ã£ãµãµãµãµãµãµãµã€ã¨ã³ãã‚Šä¸å…¬å¹³ã«å‰²ã£ã¦ã‚ã’ã‚‹ã‚ã‚ˆã€‚@æœ¬æ¥ãªã‚‰ã€ãŠç…é¤…ã¯ä¸¸ã¾ã‚‹ç§ãŒã‚‚ã‚‰ã£ã¦ã€@æ¯¬æãªã‚“ã‹ã€è¢‹ã«æ®‹ã£ãŸã–ã‚‰ã‚ã—ã‹èˆã‚ã•ã›ã¦ã‚ã’ãªã„ã¨ã“ã‚ã ã‘ã©ï¼ã€\
+;u‚â‚é‚ÉŒˆ‚Ü‚Á‚Ä‚é‚Å‚µ‚åI@@‚¤‚Á‚Ó‚Ó‚Ó‚Ó‚Ó‚Ó‚ÓA‚Æ‚Ñ‚«‚è•sŒö•½‚ÉŠ„‚Á‚Ä‚ ‚°‚é‚í‚æB@–{—ˆ‚È‚çA‚¨÷–İ‚ÍŠÛ‚Ü‚é„‚ª‚à‚ç‚Á‚ÄA@Ÿ{}‚È‚ñ‚©A‘Ü‚Éc‚Á‚½‚´‚ç‚ß‚µ‚©är‚ß‚³‚¹‚Ä‚ ‚°‚È‚¢‚Æ‚±‚ë‚¾‚¯‚ÇIv\
 `"Of course I would! `@`Ufufufufufu, I'll split them exceptionally unevenly. `@`I'll get the whole cookie that I originally should have had, `@`and all Marie will get is to like the sugar at the bottom of the bag!"`\
 ld r,KYO_D6a,24
 ;ld r,KYO_D1,80
 
-;ã€Œâ€¦â€¦ãŠå‰ã€ãŠè“å­ã‚’æŒã£ã¦ãã¦ã‚‚ã‚‰ã£ã¦ã€ã‚ˆãã‚‚ããƒ¼ã‚†ã†ã“ã¨ã‚’å£èµ°ã‚Œã‚‹ã‚‚ã‚“ã ãªã€‚ã€\
+;ucc‚¨‘OA‚¨‰Ùq‚ğ‚Á‚Ä‚«‚Ä‚à‚ç‚Á‚ÄA‚æ‚­‚à‚»[‚ä‚¤‚±‚Æ‚ğŒû‘–‚ê‚é‚à‚ñ‚¾‚ÈBv\
 `"...That's awfully mean to do to someone who just broke you a snack."`\
-;ï¼œã‚­ãƒ§ã‚¦
+;ƒƒLƒ‡ƒE
 
 mld c,HIG_w5,80
 
-;ã€Œãã£ã™ãã™ãã™ãã™ãã™ãã™ãã™ï¼@ã€€ç§ã¯ã¨ã³ãã‚Šæ®‹é…·ãªã®ã‚ˆï¼@/
+;u‚­‚Á‚·‚­‚·‚­‚·‚­‚·‚­‚·‚­‚·‚­‚·I@@„‚Í‚Æ‚Ñ‚«‚èc“‚È‚Ì‚æI@/
 `"Teeheeheeheehee! `@`That's because I'm exceptionally curel!`@/
 quakey 1,100
-;ã€€ã¯ã„ã€æ¯¬æï¼@ã€€ï¼’ã¤ã«åˆ†ã‘ãŸã‚ã‚ˆï¼@ã€€ã‚ã‚“ãŸãŒå°ã•ã„æ–¹ã­ï¼ï¼ã€\
+;@‚Í‚¢AŸ{}I@@‚Q‚Â‚É•ª‚¯‚½‚í‚æI@@‚ ‚ñ‚½‚ª¬‚³‚¢•û‚ËIIv\
 ` Okay Marie! `@`I split it into two. `@`I choose the bigger one!!"`\
 ld l,MAR_W1,80
 
-;ã€Œã§ã¯ã€ç§ãŒå…ˆã«é¸ã³ã¾ã™ã­ã€‚@å¤§ãã„æ–¹ã‚’ã„ãŸã ãã¾ã™ã€‚@/
+;u‚Å‚ÍA„‚ªæ‚É‘I‚Ñ‚Ü‚·‚ËB@‘å‚«‚¢•û‚ğ‚¢‚½‚¾‚«‚Ü‚·B@/
 `"Okay then. `@`I get the bigger one, you can have the smaller one.`@/
 se1 47
 
-;ãƒ’ãƒ§ã‚¤ã€‚ã€@
+;ƒqƒ‡ƒCBv@
 `*grab*."`@
 mld c,HIG_W4a,80
 
-;ã€Œãˆï¼Ÿ@ã€€ãˆï¼Ÿã€@
+;u‚¦H@@‚¦Hv@
 `"Huh? `@`Huh?"`@
 ld l,MAR_W2,80
 
-;ã€Œã¼ã‚Šã¼ã‚Šã€‚@ã¼ã‚Šã¼ã‚Šã€‚ã€\
+;u‚Ú‚è‚Ú‚èB@‚Ú‚è‚Ú‚èBv\
 `"Chew chew. `@`Chew chew."`\
 mld c,HIG_D7,80
 
-;ã€Œãˆï¼Ÿ@ã€€ãˆï¼Ÿã€€ãˆï¼Ÿã€@
+;u‚¦H@@‚¦H@‚¦Hv@
 `"Huh? `@`Huh? Huh?"`@
 ld l,MAR_W1,80
 
-;ã€Œå½¼å²¸èŠ±ã•ã‚“ã«ã¯ç‰¹åˆ¥ã«ã€è¢‹ã®åº•ã®ã–ã‚‰ã‚ã‚‚ã‚ã’ã¾ã™ã­ã€‚@ã¯ã„ã€ã‚¢ãƒ¼ãƒ³â™ªã€\
-`"Don't worry, I'll give you the sugar at the bottom of the bag. `@`Open wide and say 'Ah-'â™ª"`\
+;u”ŞŠİ‰Ô‚³‚ñ‚É‚Í“Á•Ê‚ÉA‘Ü‚Ì’ê‚Ì‚´‚ç‚ß‚à‚ ‚°‚Ü‚·‚ËB@‚Í‚¢AƒA[ƒ“ôv\
+`"Don't worry, I'll give you the sugar at the bottom of the bag. `@`Open wide and say 'Ah-'ô"`\
 cl l,0
 mcl c,24
 
 
 ld r,KYO_D2,80
 
-;ã€Œâ€¦â€¦â€¦â€¦ã‚ã®å½¼å²¸èŠ±ã‚‚ã€ãšã„ã¶ã‚“å¤‰ã‚ã£ãŸã‚‚ã‚“ã ãªâ€¦â€¦ã€‚@ã„ã‚„ã„ã‚„ã€ã“ã‚Œã‚‚ã²ã‚‡ã£ã¨ã—ã¦ã€ã©ã“ãã®ç™½æ˜¼å¤¢ã®ä¸­ãªã®ã‹ï¼Ÿ@ã€€ã‚„ã‚Œã‚„ã‚Œã€ä¿ºæ§˜ã¯ãŠé‚ªé­”ã¿ã¦ã‡ã ãœã€‚ã€\
+;ucccc‚ ‚Ì”ŞŠİ‰Ô‚àA‚¸‚¢‚Ô‚ñ•Ï‚í‚Á‚½‚à‚ñ‚¾‚ÈccB@‚¢‚â‚¢‚âA‚±‚ê‚à‚Ğ‚å‚Á‚Æ‚µ‚ÄA‚Ç‚±‚¼‚Ì”’’‹–²‚Ì’†‚È‚Ì‚©H@@‚â‚ê‚â‚êA‰´—l‚Í‚¨×–‚‚İ‚Ä‚¥‚¾‚ºBv\
 `".....Higanbana's changed pretty significantly... `@`Or maybe this is just another daydream? `@`Oh man, looks like I'm interfering"`\
 *da
 mcl c,0
@@ -1019,21 +1019,21 @@ bg Air_02,22
 se1 2
 quakey 3,300
 
-;ã€Œã¾ãƒ»ã‚Šãƒ»ãˆã‡ãˆãˆãˆãˆãˆãˆã‡ãˆãˆãˆãˆï¼ï¼ï¼@ã€€ã‚ˆãã‚‚ç§ã‚’ãŸã°ã‹ã£ãŸã‚ã­ï¼ï¼@/
+;u‚ÜE‚èE‚¦‚¥‚¦‚¦‚¦‚¦‚¦‚¦‚¥‚¦‚¦‚¦‚¦III@@‚æ‚­‚à„‚ğ‚½‚Î‚©‚Á‚½‚í‚ËII@/
 `"MA RI EEEeeeEEEEeeEEE!!! `@`How dare you trick me!!`@/
 bgmonce"bgm0\lgsk_SpiderLily.ogg"
 bgmvol 60
 
-;ã€€ã–ã‚‰ã‚ãŠç…é¤…ãƒƒã€ãŠç…é¤…ãƒƒã€ãµããƒã„ã„ã„ã„ã„ã„ã„ãƒã„ï¼ï¼ã€@
+;@‚´‚ç‚ß‚¨÷–İƒbA‚¨÷–İƒbA‚Ó‚¬‚¡‚¢‚¢‚¢‚¢‚¢‚¢‚¢‚¡‚¢IIv@
 `My sugar cookie, my cookie, Waaaaahhhhhh!!"`@
-;ã€Œå½¼å²¸èŠ±ã•ã‚“ã ã£ã¦ã“ã®é–“ã€ã‚ã‘ã£ã“ã—ã‚ˆã†ã£ã¦è¨€ã£ãŸã€æ —ã‚ˆã†ã‹ã‚“ã€å…¨éƒ¨ç‹¬ã‚Šå ã‚ã—ã¡ã‚ƒã£ãŸã˜ã‚ƒãªã„ã§ã™ã‹ãƒ¼ï¼@ã€€ã‚ã‚Œã€ã™ã£ã”ãç¾å‘³ã—ãã†ã ã£ãŸã®ã«ãƒ¼ï¼ï¼ã€\
+;u”ŞŠİ‰Ô‚³‚ñ‚¾‚Á‚Ä‚±‚ÌŠÔA‚í‚¯‚Á‚±‚µ‚æ‚¤‚Á‚ÄŒ¾‚Á‚½AŒI‚æ‚¤‚©‚ñA‘S•”“Æ‚èè‚ß‚µ‚¿‚á‚Á‚½‚¶‚á‚È‚¢‚Å‚·‚©[I@@‚ ‚êA‚·‚Á‚²‚­”ü–¡‚µ‚»‚¤‚¾‚Á‚½‚Ì‚É[IIv\
 `"The other day I asked you if you wanted to share a slice of sweet chestnut jelly, and you took the whole thing! `@`I really wanted to eat it too!!"`\
 ; ^^^ Note To Editor: http://en.wikipedia.org/wiki/Y%C5%8Dkan <- chestnut flavored youkan - Do we have anything similar?
 quakex 1,100
 
-;ã€Œã‚ã‚“ãŸã€åºåˆ—ç¬¬ï¼˜ä½ã®åˆ†éš›ã§ï¼@ã€€ã“ã®åºåˆ—ç¬¬ï¼“ä½ã®è¸Šã‚‹å½¼å²¸èŠ±ã«æ­¯å‘ã‹ã†ã¤ã‚‚ã‚Šï¼Ÿï¼ã€@
+;u‚ ‚ñ‚½A˜—ñ‘æ‚WˆÊ‚Ì•ªÛ‚ÅI@@‚±‚Ì˜—ñ‘æ‚RˆÊ‚Ì—x‚é”ŞŠİ‰Ô‚É•Œü‚©‚¤‚Â‚à‚èHIv@
 `"You, the lowly 8th ranked youkai! `@`Do you really intend to go against the 3rd Ranked, Dancing Higanbana?!"`@
-;ã€Œã‚ã‚“ã¾ã‚Šã‚ãŒã¾ã¾ãŒéãã‚‹ã¨ã€ã‚‚ã†äºŒåº¦ã¨ãŠè“å­ã€æŒã£ã¦ãã¦ã‚ã’ã¾ã›ã‚“ã‚ˆï¼ã€\
+;u‚ ‚ñ‚Ü‚è‚í‚ª‚Ü‚Ü‚ª‰ß‚¬‚é‚ÆA‚à‚¤“ñ“x‚Æ‚¨‰ÙqA‚Á‚Ä‚«‚Ä‚ ‚°‚Ü‚¹‚ñ‚æIv\
 `"If you start being too selfish, I'll never bring you another snack again!"`\
 bg white,28
 se3 48
@@ -1041,7 +1041,7 @@ bg okujou_01,25
 se1 13
 quakey 2,200
 
-;ã€€ãƒ•ãƒ©ã‚¤ãƒ³ã‚°åœŸä¸‹åº§ãƒ»å½¼å²¸èŠ±ã€‚\
+;@ƒtƒ‰ƒCƒ“ƒO“y‰ºÀE”ŞŠİ‰ÔB\
 ` Higanbana flew from her feet to the ground to protrate herself before Marie.`\
 bg black,42
 se1 56
@@ -1051,23 +1051,23 @@ bg k_kaidan_04,2
 wait 1000
 mld c,KYO_D2,2
 
-;ã€€ã‚„ã‚Œã‚„ã‚Œã€‚@å­¦æ ¡ã£ã¦ãƒ¤ãƒ„ã¯é€€å±ˆã—ã­ã‡ã€‚@
+;@‚â‚ê‚â‚êB@ŠwZ‚Á‚Äƒ„ƒc‚Í‘Ş‹ü‚µ‚Ë‚¥B@
 ` Man. `@`The guys at this school sure aren't boring.`@
 br
-;ã€€ä½•ã—ã‚ã€ä»Šã¯å†¬ä¼‘ã¿ã€‚@
+;@‰½‚µ‚ëA¡‚Í“~‹x‚İB@
 ` By the way, it's winter break right now.`@
-;ã€€å­¦æ ¡ã¯ç©ºã£ã½ã€é™ã‹ãªã‚‚ã‚“ã•ã€‚\
+;@ŠwZ‚Í‹ó‚Á‚ÛAÃ‚©‚È‚à‚ñ‚³B\
 ` The school is quiet and empty.`\
 mld c,KYO_D4,80
 
-;ã€€æ—©ãã€å§‹æ¥­å¼ãŒå§‹ã¾ã‚‰ã­ã‡ã‹ãªã€‚@
+;@‘‚­An‹Æ®‚ªn‚Ü‚ç‚Ë‚¥‚©‚ÈB@
 ` I wonder if the opening ceremony for the next term is starting soon.`@
 br
-;ã€€ã‚ã°ã‚ˆã€ã‚¯ã‚½ã‚¬ã‚­ã©ã‚‚ã€‚@
+;@‚ ‚Î‚æAƒNƒ\ƒKƒL‚Ç‚àB@
 ` See you later, brats.`@
-;ã€€æ¬¡ã¯å­¦æ ¡ã§ä¼šãŠã†ãœã€‚\
+;@Ÿ‚ÍŠwZ‚Å‰ï‚¨‚¤‚ºB\
 ` Let's meet during school hours next time.`\
 mld c,KYO_D5,80
 
-;ã€€ã‚·ãƒ¼ãƒ¦ãƒ¼ã€ãƒã‚¯ã‚¹ãƒˆæ–°å­¦æœŸï¼\
+;@ƒV[ƒ†[AƒlƒNƒXƒgVŠwŠúI\
 ` <See you next> term!`\
