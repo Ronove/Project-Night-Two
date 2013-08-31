@@ -1,17 +1,31 @@
-明けない夜　数えながら
-過ぎ去った日　想い続けた
-巡る夢の中　消えてゆく影法師
+;明けない夜　数えながら
+`While counting the everlasting nights
+;過ぎ去った日　想い続けた
+`I kept recalling days past
+;巡る夢の中　消えてゆく影法師
+`A recurring dream, Of a fading silhouette
 
-溢れる終の願い
-尽きることない後悔の果て
-彼の岸　渡れぬまま
-愚かな花と散る
+;溢れる終の願い
+`A cascade of final wishes
+;尽きることない後悔の果て
+`The end of everlasting regret
+;彼の岸　渡れぬまま
+`Unable to pass into nirvana
+;愚かな花と散る
+`The foolish flower will scatter
 
-包まれ　息吹く永遠の闇
-冷たすぎて　もがくだけの巡り夜
-「枯れないで　私たちは美しい儘…」
+;包まれ　息吹く永遠の闇
+`Enveloped by the immortal darkness
+;冷たすぎて　もがくだけの巡り夜
+`Frozen by the encroaching night
+;「枯れないで　私たちは美しい儘…」
+`"Unwilted, our beauty will live on..."
 
-踊ろうよ　幾千の月
-閉ざされた目を抉るように
-ほのかに揺れ、貴方誘う
-「堕チテ嗤ウハ、誰…？」
+;踊ろうよ　幾千の月
+`Let us dance for thousands of moons
+;閉ざされた目を抉るように
+`And pry open closed eyes
+;ほのかに揺れ、貴方誘う
+`A faint vibration entices you in
+;「堕チテ嗤ウハ、誰…？」
+`"Who has fallen into laughter...?"
