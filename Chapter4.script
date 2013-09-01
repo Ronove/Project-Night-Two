@@ -17,7 +17,7 @@ bgm1 8
 ;　美術室の壁に掛けられている絵は、平均的な感覚を持つ生徒にとっては薄気味悪いものが多い。@
 `　To the average student, the pieces of art adorning the art room walls emanate a sense of eeriness.`@
 ;　そんなもので満たされている美術室に、好んで放課後に訪れようと思う生徒は、そう多くはない。\
-`　there are very few students who would go out of their way to visit this room after school just to see these walls of art.
+`　There are very few students who would go out of their way to visit this room after school just to see these walls of art.`\
 
 
 ld r,NOD_D4,80
@@ -30,7 +30,7 @@ br
 bg black,22
 
 ;　確か、放課後、一人で美術室を訪れた子供の前に、絵から抜け出した妖怪が現れて問い掛けをする、@という怪談だった気がする。\
-`　According to those stories, `@`if a kid ventures into the art room alone after school, a youkai will come out of the paintings and ask them a question.`\
+`　According to those stories, `@`if a kid ventures into the art room alone after school, a youkai will come out of a painting and ask them a question.`\
 
 ;bg black,1
 mono 2
@@ -38,7 +38,7 @@ bg different_spiral_1a,22
 
 
 ;　……問い掛けってどんな問い掛けなんだろう……？@
-`　...But what kind of question does he ask I wonder...?`@
+`　...But what kind of question does he ask, I wonder...?`@
 ;　「赤マント、青マント」みたいなやつかな……。\
 `　Maybe it's like the 'red cape or blue cape' ghost story...`\
 
@@ -46,7 +46,7 @@ bg different_spiral_1a,22
 `　It's a famous ghost story, usually set in a school. `@`It must have become an urban legend at some school a long time ago and spread from there.`@
 br
 ;　……夜中、トイレに一人で入っていると、@赤マントという妖怪が現れて「赤マント、青マント、どっちが欲しい？」と問い掛けてくる。\
-`　...The story goes that if you enter the bathroom alone late at night, `@`a youkai called The Red Cape will ask you "Do you want a red cape or a blue cape? Choose one."`\
+`　...The story goes that if you enter the bathroom alone late at night, `@`a youkai called the Red Cape will ask you "Do you want a red cape or a blue cape? Choose one."`\
 
 ;　「赤マントが欲しい」と言うと体中を刺され、血まみれになって死んでしまう。@
 `　If you reply that you want a red cape, your body will be stabbed all over, and you will die a bloody death.`@
@@ -65,12 +65,12 @@ br
 `　That is what Yuuki thought when he first heard this ghost story. `@`Both choices were bound to kill you. `@`It wasn't fair.`\
 
 ;　学校によってはこの怪談にはいろいろパターンが違うらしい。@
-`　Apparently, this ghost story changes depending on which school its told at.`@
+`　Apparently, this ghost story changes depending on which school it's told at.`@
 ;　青マントの罰が「水責め」だったり、赤、青の他に黄色マントがあったり……。\
-`　Some versions of this story have The Blue Cape use water torture, and some even include a yellow cape along with the other two...`\
+`　Some versions of this story have the Blue Cape use water torture, and some even include a yellow cape along with the other two...`\
 
 ;　ちなみに黄色を選んだ場合の罰は「感電死」らしい。@どんなパターンにせよ、「結局は殺される」と言うところは一貫している怪談なのだそうだ。\
-`　Incidentally the punishment for the yellow cape is apparently death by electrocution. `@`In all variations the pattern is the same. No matter what you do, you'll die.`\
+`　Incidentally, the punishment for the yellow cape is apparently death by electrocution. `@`In all variations the pattern is the same. No matter what you do, you'll die.`\
 
 ;　しかし、クラスメート達が言うには、この美術室に伝わる怪談には一応逃げ場があるらしい。@
 `　But, according to his classmates, in the ghost story associated with this school's art room, there is one way out.`@
@@ -93,7 +93,7 @@ bg bijutu_06,22
 ;　自分は一体何を望んでるんだろう。@
 `　Just what does he want?`@
 ;　服の上から腕の傷をおさえる。@
-`　He rubbed a sore on his arm through his sleeve.`@
+`　He rubbed a graze on his arm through his sleeve.`@
 br
 ;　……自分で自分が、よくわからない。@
 `　Not even he himself knows.`@
@@ -120,7 +120,7 @@ bg kaiga_02,22
 bgm1 27
 
 ;　はっと声の方を振り返った裕貴の目の前に、一人の可愛らしい女の子が立っていた。\
-`　Startled, Yuuki turned around to see where the voice came from. Standing there was a cute, young girl.
+`　Startled, Yuuki turned around to see where the voice came from. Standing there was a cute, young girl.`\
 
 
 
@@ -181,7 +181,7 @@ bg kaiga_01,24
 ;ld c,NOD_D4,80
 
 ;　……でも、それにしたってこの美術室の絵は極端な気がした。@
-`　...but, even so, he couldn't help but feel that some of the art on these walls were too extreme.`@
+`　...But, even so, he couldn't help but feel that some of the art on these walls were too extreme.`@
 ;　どれも名画と呼ばれるものには違いないが、残酷な描写があり過ぎる。@子供が夜中一人で見たら泣き出してしまうくらい怖い。\
 `　Each and every one of them was probably considered a masterpiece, but they portrayed scenes far too dark. `@`They were so scary that if a kid saw them in the middle of the night, they would probably burst into tears.`\
 
@@ -268,7 +268,7 @@ br
 
 
 ;　恐怖を感じさせるピカソやゴヤの絵、それとは対照的に神々しい温かさを感じさせるダ・ヴィンチやフェルメールの絵……。\
-`　There were the works of Picasso and Goya that gave off a feeling of fright, and the contrastingly sublime and warm feeling works of Da Vinci and Vermeer...`\
+`　There were the works of Picasso and Goya that gave off a feeling of fright, and the contrastingly sublime and warm feeling works of da Vinci and Vermeer...`\
 
 ;　そのどれもが名画と呼ばれるに相応しい凄みや神聖さがあった。@でも、裕貴が一番好きなのはそのどれでもなかった。\
 `　Each of them was called a masterpiece, whether it was for their sacredness or their ghastliness. `@`But Yuuki's favorite painting was not one of them.`\
@@ -316,24 +316,24 @@ br
 ;　少女が苦笑しながら言う。@
 `　The girl replied with a bitter smile.`@
 ;　おかしなことを言う子だな。@……気に入らないんだったらわざわざそんな恰好しなきゃいいのに。\
-`　What a strange kid.`@` ...If she didn't liked how she looked, then all she had to do was change it.`\
+`　What a strange kid.`@` ...If she didn't like how she looked, then all she had to do was change it.`\
 
 
 
 ld r,NOD_D2,80
 
 ;「でも……、僕は女の子らしくていいと思うけどな。」@
-`"But.... You look really girly, I think it looks good."`@
+`"But.... You look really girly. I think it looks good."`@
 br
 ;　嘘ではなかった。@学校に来るにしてはちょっと派手と言うか、@華美過ぎる気はしたけど、可愛らしい彼女の顔にはとてもよく似合っている気がした。\
-`　He wasn't lying. `@`He thought that it was perhaps a bit to flashy for school, `@`but he also felt like it suited the way her face looked perfectly.`\
+`　He wasn't lying. `@`He thought that it was perhaps a bit too flashy for school, `@`but he also felt like it suited the way her face looked perfectly.`\
 
 
 ;cl a,0
 bg black,22
 
 ;　しかし、裕貴の言葉は、少女は明らかに不機嫌にしたようだった。@
-`　But, Yuuki's words had obviously displeased the girl.`@
+`　But, Yuuki's words had clearly displeased the girl.`@
 ;　露骨に顔をしかめ、大きな目を細めて裕貴を睨んできた。\
 `　She was obviously scowling. Her large eyes were now narrow and glaring at Yuuki.`\
 
@@ -343,7 +343,7 @@ ld c,NOD_D5a,22
 ld c,NOD_D4,80
 
 ;「…………え、あ……ごめん。」@
-`".....oh! um... I'm sorry."`@
+`".....Oh! Um... I'm sorry."`@
 br
 ;　慌てて謝る。@………何かまずいこと言ったかな…？\
 `　He frantically apologized.`@` ...Did he say something bad...?`\
@@ -363,7 +363,7 @@ ld c,NOD_D5a,80
 `　But this time, unexpectedly, she smiled at him. `@`Like a little flower opening up its petals, a cute smile spread across her face.`\
 
 ;「そっか……。@そうだよね。@たまには変えてみるのもいいかも、ね。@ふふふふふ……、そんなこと考えたことなかったな。」@
-`"I see... `@`You're right. `@`It might be a nice to change things up every once in a while. `@`Fufufufu... I've never thought of it that way before."`@
+`"I see... `@`You're right. `@`It might be nice to change things up every once in a while. `@`Fufufufu... I've never thought of it that way before."`@
 br
 ;　やっぱりおかしなことを言う。@まさかいつも同じ服を着ているわけでもないだろうに。\
 `　She really does say some strange things. `@`There's no way that she would wear the exact same outfit every day.`\
@@ -387,7 +387,7 @@ br
 ;　この場に、このまま彼女に居続けられては困ったことになる。@
 `　If she sticks around this place for much longer, it'll become a problem.`@
 ;　裕貴には、この後この美術室でしなければならないことがあるのだ。\
-`　Because what Yuuki came to the art room to do, there couldn't be anyone else here for.`\
+`　Because for what Yuuki came to the art room to do, there couldn't be anyone else here.`\
 bg black,22
 ;bg Different_spiral_1b,22
 
@@ -399,12 +399,12 @@ bg black,22
 `　He feels like he has nowhere to go, but if someone could save him from that feeling, would he want to be saved?`@
 br
 ;　……自分の感情のすべてが、淡い絵の具に塗り込められたように曖昧だった。\
-`　...His own feelings felt unclear to him, as if they were covered over with layer of beige paint.`\
+`　...His own feelings felt unclear to him, as if they were covered over with a layer of beige paint.`\
 ;　こんな、良く分からない気持ちや苦しみを抱えたままでも生きたいのか、@それともいっそのこと死んで楽になりたいのか。@
-`　Does he really want to keep living with the pain of having these vague feelings, `@`or would he rather just make it easy on himself and just die.`@
+`　Does he really want to keep living with the pain of having these vague feelings, `@`or would he rather just make it easy for himself and just die?`@
 br
 ;　………いや、もしかしたら僕は……。\
-`　.....No, perhaps, I....`\
+`　.....No, perhaps I....`\
 bg black,22
 
 fedexx 0,50,0,0,0,0,2000
@@ -414,12 +414,12 @@ E_M2
 bg bijutu_06,22
 
 ;　そんなことを考えていると、少女は裕貴から遠ざかる様に扉に向かって歩いていった。@
-`　As he was thinking about this, the girl turned and started walking towards the door, as if she was about to part ways with him.`@
+`　As he was thinking about this, the girl turned and started walking towards the door, as if she were about to part ways with him.`@
 br
 ;　もしかして、出て行ってほしい、という自分の気持ちが伝わったのだろうか……？@
 `　Maybe she picked up on the fact that he wanted her to leave...?`@
 ;　そんな都合のいいことを考えたが、もちろん言葉にもしないで気持ちなんて伝わるはずもない。\
-`　That what he had hoped, but of course, there's no way that she would have guess that without him telling her.`\
+`　That's what he had hoped, but of course, there's no way that she would have guessed that without him telling her.`\
 
 
 
@@ -445,7 +445,7 @@ bg kaiga_02,22
 ;ld c,NOD_D1,22
 
 ;　………作者の名前は何だったっけ。@
-`　....What the name of that person again?`@
+`　....What was the name of that person again?`@
 br
 ;　裕貴は、そのことを新谷先生に教えてもらった時のことを思い出した。\
 `　Yuuki remembered that Shintani-sensei had told him at one point.`\
@@ -501,7 +501,7 @@ me2v 17,50
 `　If you couldn't answer that question correctly... then you would be cursed.`@
 br
 ;　その妖怪の名前は……、“美術室のルノワール”。\
-`　The name of that youkai was... "Renoir of the Art Room."`\
+`　The name of that youkai was... 'Renoir of the Art Room.'`\
 
 
 ;cl a,0
@@ -575,7 +575,7 @@ bg shokuin_04,22
 `　He turned 33 this year, and it wasn't exactly that he was uncool. `@`He had a good sense of uprightness, and was popular among parents and other guardians.`@
 br
 ;　生徒達に「熱血先生」と揶揄されるだけあって、@新谷から見ても単純な人だなぁとは思うけど、裏表のないさっぱりした性格は好感が持てた。\
-`　The students always tease him by calling him Hot-blooded-sensei. `@`Shintani sees him as a relatively plain person, but in truth, his refreshingly simple and honest personality held some appeal.`\
+`　The students always tease him by calling him Hot-Blooded-sensei. `@`Shintani sees him as a relatively plain person, but in truth, his refreshingly simple and honest personality held some appeal.`\
 
 ;　しかし申し訳ないが、新谷は年上の男には余り興味がないのだ。@
 `　But sorry, Shintani isn't interested in older men.`@
@@ -591,7 +591,7 @@ bg shokuin_02,0
 ;ld r,NAF_D1,23
 
 ;「そっかあ……。@良かったらその作業、僕も手伝いましょうか？　@……あ、いや、別にそんな、下心とかそういうのがあるわけじゃなくて！」\
-`"I see... `@`Would you like me to help you out with that work?`@` ...Ah, I mean, I'm not saying that because of have ulterior motive or anything!"`\
+`"I see... `@`Would you like me to help you out with that work?`@` ...Ah, I mean, I'm not saying that because I have an ulterior motive or anything!"`\
 
 ;　彼が顔を真っ赤にしてそんなことを付け加えるので、私は思わず苦笑してしまった。@
 `　As he tried to explain himself, his face got all red. Without thinking, my face formed into a wry smile.`@
@@ -607,7 +607,7 @@ br
 `　As she spoke, she realized what a poor excuse she had given.`\
 
 ;　そんなに量がないんなら、さっさと終わらせて一緒に飲みにいけばいいじゃないか、と返されるかもしれない。@
-`　If it really didn't have that much work to do, then there's no reason that she couldn't get it done and go drinking with him, and she expected him to pick out that flaw.`@
+`　If it really wasn't that much work, then there was no reason why she couldn't get it done and go drinking with him, and she expected him to pick out that flaw.`@
 ;　だが、井俣が返して来た言葉は、それとは別の角度からのものだった。\
 `　But Imata's response wasn't what she had expected.`\
 
@@ -633,7 +633,7 @@ ld r,NAF_D2,80
 `"No....`@` ...It's fine."`@
 br
 ;　かろうじて平静を取り戻して言うと、井俣先生がわざとらしく明るい声を出した。\
-`　She was just barely able to reply calmly. Imata-sensei replied with a force cheer in his voice.`\
+`　She was just barely able to reply calmly. Imata-sensei replied with a forced cheeriness in his voice.`\
 
 ;「……あんなの、ただの噂ですよね、噂。」@
 `"...That was just a rumor, right? A rumor."`@
@@ -653,7 +653,7 @@ bgm1 8
 ;「“美術室のルノワール”……ですか？」@
 `"You mean 'Renoir of the Art Room'?"`@
 ;「……くだらないですよね。@子供ってなんでああいう噂が好きなんでしょう。@……自分たちの友達が亡くなったって言うのに……。」\
-`"...How silly. `@`Why do kids even like rumors like that?`@` ...Even though one have their friends has passed away..."`\
+`"...How silly. `@`Why do kids even like rumors like that?`@` ...Even though one of their friends has passed away..."`\
 ;「……だからじゃないですか？」@
 `"...Isn't it because of that reason?"`@
 ;「え？」@
@@ -720,13 +720,13 @@ bg different_spiral_1a,0
 ld c,NOD_D3,22
 
 ;　死んでしまった男子生徒。@容赦のない息苦しさに胸が圧迫された。@
-`　The face of that boy who had died. `@`Her chest mercilessly and suffocatingly seized up her chest.`@
+`　The face of that boy who had died. `@`Her chest mercilessly and suffocatingly seized up.`@
 br
 ;　……誰に言うでもなく、新谷は呟く。\
 `　...Shintani muttered to herself, too quiet for anyone else to hear.`\
 
 ;「裕貴くん……。@……どうしてあんなことに…………。」\
-`"Yuuki...`@` ...Why? Why did that have to happen to you..."`\
+`"Yuuki...`@` ...Why? Why did that have to happen to you...?"`\
 cl c,2
 
 bg black,22
@@ -757,10 +757,10 @@ bg black,22
 mono 0
 
 ;　恐らくだが、放課後、美術室に来た野田裕貴は、躓くか何かして机の下に倒れ込んだ。@
-`　Most likely, Yuuki Noda went to the art room after school and somehow tripped and fell under the desk supporting the bust.`@
+`　Most likely, Yuuki Noda had gone into the art room after school and somehow tripped and fell under the desk supporting the bust.`@
 br
 ;　その時、彼の身体が机の支柱に当たってしまい、@上に置かれていた石膏像がバランスを崩し、裕貴の上に覆い被さるように倒れてきた……。\
-`　At that point, he bumped the legs of desk, `@`and the bust resting on top of it lost its balance and came toppling onto Yuuki...`\
+`　At that point, he bumped the legs of the desk,`@` and the bust resting on top of it lost its balance and came toppling down onto Yuuki...`\
 bg blood_1b,4
 ;wait 1000
 
@@ -791,7 +791,7 @@ bg kaiga_02,22
 ;　“美術室のルノワール”と言うのはこの学校に伝わる八不思議の一つだ。@
 `　'Renoir of the Art Room' is one of the eight mysteries handed down from year to year in this school.`@
 ;　普通、学校の怪談と言えば、七不思議が定番だが、@この学校ではいつの間にかそれよりも一つ多い八不思議になっていた。@
-`　As far as school ghost stories go, normally there would only be seven mysteries, `@`but at some point this school gained an eighth mystery.`@
+`　As far as school ghost stories go, normally there would only be seven mysteries, `@`but at some point this school had gained an eighth mystery.`@
 br
 ;　まあ、これくらい大きなマンモス校なら、一つや二つ多くてもおかしくはないのかもしれないが……。\
 `　Well, it's not too odd for a mammoth school like this one to gain one or two more...`\
@@ -839,7 +839,7 @@ br
 ;ld r,NAF_D1,80
 
 ;　しかし、どんな原因だったにせよ、彼が死んだ事実に変わりはなかった。@
-`　But, no matter where the blame is place, that doesn't changed the reality that he is dead.`@
+`　But, no matter where the blame is placed, that doesn't change the reality that he is dead.`@
 ;　裕貴くんはもうこの世にいない。@彼にはもう二度と会えない。@
 `　Yuuki is no longer in this world. `@`She will never see him again.`@
 br
@@ -867,7 +867,7 @@ bg rouka_02,22
 me1v 5,50
 
 ;　書きかけの、あの絵を完成させることも永遠に叶わないのだ……。@
-`　Nor could she ever complete her painting she had been working on...`@
+`　Nor could she ever complete the painting she had been working on...`@
 ;　……それを思うと、再び深い溜め息が込み上げてきた。@
 `　...When she realized that, she let out another deep sigh.`@
 br
@@ -875,10 +875,10 @@ br
 `　The sigh spread throughout her body, descending down to her feet and hanging heavily there like sediment in a glass.`\
 
 ;　そのままジッとしてると、その澱みに足をとられて一歩も動けなくなりそうだった。@
-`　If she remained motionless she was afraid that she would be unable to get up and move another step.`@ 
+`　If she remained motionless she was afraid that she would be unable to get up and take another step.`@ 
 br
 ;　グッと身体に力を入れて、澱みに飲み込まれる前に、無理矢理立ち上がる。\
-`　She used all of her strength to force herself to stand before that could happen.`\
+`　She used all of her strength to force herself to stand up before that could happen.`\
 
 ld c,NAF_D4a,6
 ;ld r,NAF_D1,26
@@ -918,10 +918,10 @@ ld r,NAF_D1,22
 bgm1 8
 
 ;「また長居しちゃったな……。@早く作業終わらせないと、本当に夜になっちゃいそう。」\
-`"I've stayed after too long again... `@`I need to hurry up and finish my work or it really will get dark."`\
+`"I've stayed behind after school too long again... `@`I need to hurry up and finish my work or it really will get dark."`\
 
 ;　４階までの階段を上がりながら、新谷は時計を気にした。@
-`　Shintani glanced at the time on her way up the stairs to the 4th floor.`@
+`　Shintani checked the time on her way up the stairs to the 4th floor.`@
 ;　保健の先生も、井俣先生と同様に新谷と歳が近いので、たまに保健室に行くとついつい話し込んでしまう。\
 `　The school nurse was also close in age to her and Imata-sensei, so every once in a while Shintani would end up going to the infirmary to talk to her.`\
 
