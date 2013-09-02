@@ -11,7 +11,7 @@ kanji : キョウ
 romaji: 
 
 kanji : ぽかぽか
-romaji: 
+romaji: Pokapoka
 
 kanji : 悪趣味な音楽教師による選曲
 romaji: 
@@ -29,10 +29,10 @@ kanji : 断罪回廊
 romaji: 
 
 kanji : Dendritic Agate -Instrumental-
-romaji: 
+romaji: Dendritic Agate -Instrumental-
 
 kanji : ａ　ｃｒｏｓｓ　ｌｉｎｅ
-romaji: 
+romaji: a cross line
 
 kanji : 常夜の晩餐会
 romaji: 
@@ -113,4 +113,4 @@ kanji : 冥暗境界線
 romaji: Meian Kyoukaisen
 
 kanji : 愛しを渡るは黄昏ぞ（エンディングＶｅｒ）
-romaji: 
+romaji: Hashi wo Wataru wa Tasogare zo (ending ver.)
