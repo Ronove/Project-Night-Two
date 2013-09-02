@@ -293,7 +293,7 @@ ld c,SMI_w6,80
 cl c,2
 
 ;　学校に七不思議が定着し、彼らに学校妖怪七席としての序列が出来て、@ようやく殺し合いの恐ろしい時代は幕を下ろしたのだ……。\
-`　They established themselves as the seven mysteries of the school, and created a seven ranked school youkai hierarchy. `@`By doing so they finally closed the curtain on that terrifying era of killing...`\
+`　They established themselves as the seven mysteries of the school, and created a seven-rank school youkai hierarchy. `@`By doing so they finally closed the curtain on that terrifying era of killing...`\
 bg kouchou_02,22
 ld c,SAK_k3,22
 ld c,SAK_k1,80
