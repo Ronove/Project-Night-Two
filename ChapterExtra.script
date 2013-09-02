@@ -1,38 +1,38 @@
 ;Chapter Extra
 ;　俺様は学校妖怪序列第５位、鏡のキョウさまよ。@
-` I am Kyou, 5th ranked among the School Youkai.`@`
+`　I am Kyou, 5th ranked among the School Youkai.`@`
 ;　異界との境を司りしガーディアンとは俺様のこと……。@
-` Guardian that governs the border of the other world...`@`
+`　Guardian that governs the border of the other world...`@`
 br
 ;　さぁて、今宵ものんびり、夢と現の境を楽しませてもらうとするか。\
-` Well then, would you like to play with the border between dreams and reality this evening as well?`\
+`　Well then, would you like to play with the border between dreams and reality this evening as well?`\
 ;ld c,KYO_D5,22
 
 cl r,0
 ld c,KYO_D2,24
 
 ;　ここにいるってことは、あんたも俺様と同じ、夢と現の境を漂う者らしいな。@
-` If you are here, then that means that you too float on this boundary between worlds just as I do.`@`
+`　If you are here, then that means that you too float on this boundary between worlds just as I do.`@`
 br
 ;　なら道連れだ。@トラベルは道連れって言うもんな？@　くっくっく。\
-` That makes us companions. `@`Is that not what people who travel together are called? `@`Kukuku.`\
+`　That makes us companions. `@`Is that not what people who travel together are called? `@`Kukuku.`\
 ld c,KYO_D4,80
 
 
 ;　ここは夢と現の境界世界。@
-` This is the boundary world between dreams and reality.`@`
+`　This is the boundary world between dreams and reality.`@`
 br
 ;　まぁ、平たく言えば、デイドリーム。@白昼夢の世界ってわけさ。\
-` Well, in layman's terms, this is a <daydream>. `@`It's a world of waking dreams.`\
+`　Well, in layman's terms, this is a <daydream>. `@`It's a world of waking dreams.`\
 ld c,KYO_D2,80
 
 ;　多くの場合、下らねぇことしか見つからねぇが。@
-` Most of the time, you can only find trivial interactions taking place in here.`@` 
+`　Most of the time, you can only find trivial interactions taking place in here.`@` 
 ;　まぁ、退屈凌ぎには充分さ……。@
-` But it's just interesting enough to kill some time every now and again...`@`
+`　But it's just interesting enough to kill some time every now and again...`@`
 br
 ;　どれどれ……。@さっそく、何かおかしなものが見えてきやがった……。\
-` Oh, what's this....? `@`Right away, it seems that we've found something interesting going on...`\
+`　Oh, what's this....? `@`Right away, it seems that we've found something interesting going on...`\
 se1 56
 bg white,0
 print 99,2000,"trvswave.dll/"
@@ -55,11 +55,11 @@ quakey 2,300
 bgm1 19
 
 ;「あなたに言われたくないわね、金森センセ？」@
-` "I sure as hell don't want to hear that from you, Kanamori-sensei."`@`
+`　"I sure as hell don't want to hear that from you, Kanamori-sensei."`@`
 ;＜ナフミ
 br
 ;　失格教師同士で、何やら言い合いをしている。\
-` It seems that these two failures of teachers were having a verbal dispute of some sort.`\
+`　It seems that these two failures of teachers were having a verbal dispute of some sort.`\
 bg black,22
 bg shokuin_02,0
 ld r,NAF_D2,22
@@ -135,12 +135,12 @@ bg shokuin_01,0
 ld r,KYO_D2,23
 
 ;　……何だこりゃ。@
-` ...What the hell was all that.`@`
+`　...What the hell was all that.`@`
 ;　クレイジー教師たちの下らねぇ罵り合いは、放っておくことにしよう。@
-` Let's leave these <crazy>, trash-talking teachers alone.`@
+`　Let's leave these <crazy>, trash-talking teachers alone.`@
 br
 ;　さて、あっちは何だ？\
-` Now then, what's over there?`\
+`　Now then, what's over there?`\
 ld r,KYO_D5,80
 
 se1 56
@@ -172,10 +172,10 @@ ld r,NOD_D2,24
 ;＜野田
 
 ;　あいつ、今度は秋一のモデルになってるのか。@
-` So this time he's modeling for Shuuichi, huh?`@`
+`　So this time he's modeling for Shuuichi, huh?`@`
 br
 ;　良かったな、今回は服を脱がずにモデルをさせてもらえてるようだぜ。\
-` Good thing he's keeping his clothes of this time.`\
+`　Good thing he's keeping his clothes of this time.`\
 ld l,SHU_D4,80
 
 ;「君の姿を、見たままに描いたら写真でしかない。@だから僕は、君の姿を通して、感情を描くんだよ。」@
@@ -219,15 +219,15 @@ bg bijutu_01,0
 ld l,KYO_D6a,24
 
 ;　………よくわかんねぇが、ろくな漫画じゃない気がするぜ。@
-` ....I'm not sure what they're talking about, but I have a feeling that it's not a very respectable manga they're talking about.`@
+`　....I'm not sure what they're talking about, but I have a feeling that it's not a very respectable manga they're talking about.`@
 ;　少しはマシな連中はいねぇのか。@
-` Let's see if there's a better group of people around here.`@
+`　Let's see if there's a better group of people around here.`@
 br
 
 ld l,KYO_D5,80
 
 ;　お、こっちはマシそうだな。@まったりとしたガールズトークが聞こえてきやがる……。\
-` Ah, these guys look better. `@`Looks like they're having a nice, laid-back <girls' talk>....`\
+`　Ah, these guys look better. `@`Looks like they're having a nice, laid-back <girls' talk>....`\
 se1 56
 bg white,0
 print 99,2000,"trvswave.dll/"
@@ -321,17 +321,17 @@ bg kyou_04,0
 ld c,KYO_D2,23
 
 ;　カメラマンと幽霊たちが、心霊写真談義か……。@
-` A cameraman and two ghosts talking about spirit photography...?`@
+`　A cameraman and two ghosts talking about spirit photography...?`@
 br
 ;　色々とシュールだな……。\
-` That's all sorts of surreal...`\
+`　That's all sorts of surreal...`\
 ld c,KYO_D3,80
 
 ;　あっちは何だ？@
-` What's going on over there?`@
+`　What's going on over there?`@
 br
 ;　わざわざ片目を隠してやがる、おかしなガキどもだ。\
-` Well if it isn't the one-eyed brat.`\
+`　Well if it isn't the one-eyed brat.`\
 se1 56
 bg white,0
 print 99,2000,"trvswave.dll/"
@@ -371,7 +371,7 @@ bgm1 21
 se1v 2,100
 quakey 2,200
 ;……おいでッ、僕のシャドウ！！@　終末崩壊のカスタネットオブハメルン！！」\
-`...Come forth, my shadow!! `@`Terminal Decay, Castanets of Hameln!!"`\
+` ...Come forth, my shadow!! `@`Terminal Decay, Castanets of Hameln!!"`\
 ;＜ひかる
 
 ld r,MIC_D4,80
@@ -422,11 +422,11 @@ ld l,MIC_D3,23
 ld r,HIK_W1,24
 
 ;「ハメルンのカスタネットからは、クラスＳ未満のハンターは決して逃れられないのさ。@/
-Nothing less than a class S hunter can get away from Hameln's castanets. `@/
+Nothing less than a class S hunter can get away from Hameln's castanets.`@/
 ld r,HIK_N1,80
 
 ;……はッ。@まさか、その余裕……。@こ・い・つ、……クラスＳ？！」\
-`...Hah. `@`No way, that level of composure.... `@`Is he... a class S?!"`\
+` ...Hah. `@`No way, that level of composure.... `@`Is he... a class S?!"`\
 ld l,MIC_D6,80
 
 ;「気付くのが遅かったようね。@……喰い破れッ、ガーディアンビーーーーストッ！！！」\
@@ -448,16 +448,16 @@ bg gakkou_02,0
 ld c,KYO_D2,22
 
 ;　……何だ、ありゃ。@
-` ...What the hell.`@
+`　...What the hell.`@
 ;　まぁ、当人たちは楽しそうだし、放っとけばいいか……。@
-` Well, they seem to be having fun, so let's leave them be...`@
+`　Well, they seem to be having fun, so let's leave them be...`@
 br
 ;　どうせ、白昼夢の世界。@真面目に考えるだけ、ステューピッドを見るってもんだぜ。\
-` At any rate, this is the world of daydreams. `@`If you think about things too seriously, it'll just seems <stupid>.`\
+`　At any rate, this is the world of daydreams. `@`If you think about things too seriously, it'll just seems <stupid>.`\
 ld c,KYO_D1,80
 
 ;　おや。@あっちにいるのは、アザミとスミレの姉妹じゃねぇか。\
-` Oh? `@`Is that the Azami-Sumire sisters over there?`\
+`　Oh? `@`Is that the Azami-Sumire sisters over there?`\
 se1 56
 bg white,0
 print 99,2000,"trvswave.dll/"
@@ -603,18 +603,18 @@ bg rouka_02,0
 ld c,KYO_D2,22
 
 ;　……あのくらいの歳の頃って、女子の方が背が高いし力も強いからな。@
-` ...When they're around that age girl's tend to be taller and stronger anyway.`@
+`　...When they're around that age girl's tend to be taller and stronger anyway.`@
 br
 ;　まぁ、クソガキどもは、女のヒップに敷かれてるくらいが、クラスは平和でいいだろう。\
-` Well, maybe it's a good thing for those brats to be forced to behave by the whip of a girl.`\
+`　Well, maybe it's a good thing for those brats to be forced to behave by the whip of a girl.`\
 ; ^^^ Note To Editor: There's some nice imagery in the Japanese here that I couldn't figure out how to fit into the English. In English when a husband is heavily controlled by his wife we say he's henpecked or, at least in American English, whipped. In Japanese they use a phrase that means the wife is sitting down on the husband as he supports her weight. The imagery here is that Yukari, the wife, is sitting on the class, the henpecked husband. If you can find a way to fit that in, go ahead.
 ld c,KYO_D3,80
 
 ;　それにしても、さっきからロクでもない白昼夢にしか出くわさないな。@
-` Still, we haven't seen anything but nonsensical daydreams so far.`@
+`　Still, we haven't seen anything but nonsensical daydreams so far.`@
 br
 ;　もう少し、落ち着いた、まったりしたデイドリームはないものか……。\
-` I'm starting to think that there aren't really any laid-back <daydreams>....`\
+`　I'm starting to think that there aren't really any laid-back <daydreams>....`\
 se1 56
 bg white,0
 print 99,2000,"trvswave.dll/"
@@ -671,11 +671,11 @@ ld r,KOU_D4,22
 ld l,HOK_D4,23
 
 ;「こっちもそっちも。@私たちはいっつも大忙しねぇ。@はーッ、いい男いないかしらー。@/
-`"It's always something. `@`Someone's always making work for us. `@`Haa-, I wish that I could find a nice man. `@/
+`"It's always something. `@`Someone's always making work for us. `@`Haa-, I wish that I could find a nice man.`@/
 ld l,HOK_D2,80
 
 ;ねぇ、ルノワールくん。@あなた、絵の中に出入りできる妖怪なんでしょ？@　絵の中から、素敵な男性を呼び出すこととか出来ないの？！」\
-`Hey, Renoir-kun. `@`You're a youkai that can go in and out of art, right? `@`Can you pull a really good looking guy out of some art for me?!"`\
+` Hey, Renoir-kun. `@`You're a youkai that can go in and out of art, right? `@`Can you pull a really good looking guy out of some art for me?!"`\
 bg black,23
 bg hoken_01,0
 ld c,RUN_D6a,23
@@ -714,7 +714,7 @@ bg white,24
 bg hoken_04,24
 
 ;　保健の先生は雄叫びをあげながら、事務机の一番下の段の引き出しを開け、@さらにその奥の裏側に隠してあった、妙に薄い本の数々を取り出し始める。\
-` With a roar, the school nurse ran over to her office desk and pulled out the lowest drawer, `@`and started pulling out multiple thin books that were hidden in the far back.`\
+`　With a roar, the school nurse ran over to her office desk and pulled out the lowest drawer, `@`and started pulling out multiple thin books that were hidden in the far back.`\
 bg hoken_02,22
 ld r,RUN_D6a,24
 
@@ -723,11 +723,11 @@ ld r,RUN_D6a,24
 ld l,KOU_D3,23
 
 ;「教師にも息抜きが必要じゃよ。@それが二次元の中ならば大いに構わんね。@/
-`"Even teachers need to relax every once in a while. `@`Who am I too complain if they do it in 2D. `@/
+`"Even teachers need to relax every once in a while. `@`Who am I too complain if they do it in 2D.`@/
 ;ld l,KOU_D1,80
 
 ;ほっほっほっほ。」\
-`Ho ho ho ho."`\
+` Ho ho ho ho."`\
 bg white,23
 bg hoken_04,22
 quakex 1,100
@@ -749,21 +749,21 @@ bg rouka_03,0
 ld c,KYO_D3,24
 
 ;　……二次元にダイブする能力か……。@
-` ...The ability to <dive> into 2D, huh....`@
+`　...The ability to <dive> into 2D, huh....`@
 br
 ;　一部の人間にとっては、ルノワールの能力はまさに神の能力だな……。\
-` Some people would consider Renoir's power to be that of a god...`\
+`　Some people would consider Renoir's power to be that of a god...`\
 ld c,KYO_D6a,80
 
 ;　それより、校長と保健の先公。@……お前ら、少しは仕事しろよ……。@
-` Leaving that aside.`@`... Headmaster and the nurse, you too should get back to work...`@
+`　Leaving that aside.`@`... Headmaster and the nurse, you too should get back to work...`@
 br
 ;　まぁ、校長がヒマなのは、その分、教頭が仕事してるからなんだろ。\
-` Well, the reason that the Headmaster has some free time is because the vice principal is doing his job.`\
+`　Well, the reason that the Headmaster has some free time is because the vice principal is doing his job.`\
 ld c,KYO_D5,80
 
 ;　我らが教頭センセは、どちらにいらっしゃるんだ……。\
-` Let's head to wear the VP is...`\
+`　Let's head to wear the VP is...`\
 se1 56
 bg white,0
 print 99,2000,"trvswave.dll/"
@@ -857,7 +857,7 @@ mcl c,0
 bg black,22
 
 ;　……カオスだな。@やはり白昼夢の世界は、退屈凌ぎにはちょうどいいぜ……。\
-` ...This is utter chaos. `@`The world of daydreams really is great for killing time...`\
+`　...This is utter chaos. `@`The world of daydreams really is great for killing time...`\
 se1 56
 bg white,0
 print 99,2000,"trvswave.dll/"
@@ -984,7 +984,7 @@ ld l,MAR_W1,80
 se1 47
 
 ;ヒョイ。」@
-`*grab*."`@
+` *grab*"`@
 mld c,HIG_W4a,80
 
 ;「え？@　え？」@
@@ -1025,7 +1025,7 @@ bgmonce"bgm0\lgsk_SpiderLily.ogg"
 bgmvol 60
 
 ;　ざらめお煎餅ッ、お煎餅ッ、ふぎぃいいいいいいいぃい！！」@
-`My sugar cookie, my cookie, Waaaaahhhhhh!!"`@
+` My sugar cookie, my cookie, Waaaaahhhhhh!!"`@
 ;「彼岸花さんだってこの間、わけっこしようって言った、栗ようかん、全部独り占めしちゃったじゃないですかー！@　あれ、すっごく美味しそうだったのにー！！」\
 `"The other day I asked you if you wanted to share a slice of sweet chestnut jelly, and you took the whole thing! `@`I really wanted to eat it too!!"`\
 ; ^^^ Note To Editor: http://en.wikipedia.org/wiki/Y%C5%8Dkan <- chestnut flavored youkan - Do we have anything similar?
@@ -1042,7 +1042,7 @@ se1 13
 quakey 2,200
 
 ;　フライング土下座・彼岸花。\
-` Higanbana flew from her feet to the ground to prostrate herself before Marie.`\
+`　Higanbana flew from her feet to the ground to prostrate herself before Marie.`\
 bg black,42
 se1 56
 bg white,0
@@ -1052,25 +1052,25 @@ wait 1000
 mld c,KYO_D2,2
 
 ;　やれやれ。@学校ってヤツは退屈しねぇ。@
-` Man. `@`The guys at this school sure aren't boring.`@
+`　Man. `@`The guys at this school sure aren't boring.`@
 br
 ;　何しろ、今は冬休み。@
-` By the way, it's winter break right now.`@
+`　By the way, it's winter break right now.`@
 ;　学校は空っぽ、静かなもんさ。\
-` The school is quiet and empty.`\
+`　The school is quiet and empty.`\
 mld c,KYO_D4,80
 
 ;　早く、始業式が始まらねぇかな。@
-` I wonder if the opening ceremony for the next term is starting soon.`@
+`　I wonder if the opening ceremony for the next term is starting soon.`@
 br
 ;　あばよ、クソガキども。@
-` See you later, brats.`@
+`　See you later, brats.`@
 ;　次は学校で会おうぜ。\
-` Let's meet during school hours next time.`\
+`　Let's meet during school hours next time.`\
 mld c,KYO_D5,80
 
 ;　シーユー、ネクスト新学期！\
-` <See you next> term!`\
+`　<See you next> term!`\
 
 mcl c,42
 ;se1 69
