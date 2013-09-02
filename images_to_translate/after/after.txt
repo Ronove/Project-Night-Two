@@ -1,2 +1,2 @@
 ja: 放課後
-en: 
+en: After School
