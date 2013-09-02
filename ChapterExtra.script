@@ -190,7 +190,7 @@ bg kaiga_02,22
 ;「新谷先生の絵って、見たことないね。@どんな絵だったの？」@
 `"I've never seen one of Shintani-sensei's drawings. `@`What kind of drawings does she do?"`@`
 ;「……えっと……。@……ちょっと……、恥ずかしい感じかな………。」\
-`"...Um...`@`... Kind of... embarrassing ones, I guess....."`\
+`"...Um...`@` ...Kind of... embarrassing ones, I guess....."`\
 bg black,22
 bg bijutu_02,0
 ld r,SHU_D1,22
@@ -430,7 +430,7 @@ ld r,HIK_N1,80
 ld l,MIC_D6,80
 
 ;「気付くのが遅かったようね。@……喰い破れッ、ガーディアンビーーーーストッ！！！」\
-`"You're slow on the uptake.`@`... Eat up, Guardian Beeeaaaaast!!!"`\
+`"You're slow on the uptake.`@` ...Eat up, Guardian Beeeaaaaast!!!"`\
 bg black,22
 bg hokora_01,0
 ld c,SAK_D4,0
@@ -756,7 +756,7 @@ br
 ld c,KYO_D6a,80
 
 ;　それより、校長と保健の先公。@……お前ら、少しは仕事しろよ……。@
-`　Leaving that aside.`@`... Headmaster and the nurse, you too should get back to work...`@
+`　Leaving that aside,`@` ...Headmaster and the nurse, you too should get back to work...`@
 br
 ;　まぁ、校長がヒマなのは、その分、教頭が仕事してるからなんだろ。\
 `　Well, the reason that the Headmaster has some free time is because the vice principal is doing his job.`\
@@ -832,7 +832,7 @@ ld r,SIN_D4,80
 ld c,AYA_D9,22
 
 ;「ぶ、部活は厳しくて大変ですけどっ、……その、………まぁ、………。@…………………。」@
-`"W-Well my club activities are really tough... but... I guess...`@`......."`@
+`"W-Well my club activities are really tough... but... I guess...`@` ......."`@
 ld r,SIN_d1,80
 
 ;「くっくっくっく。@良いことです。@イザナミ先生。@どうやら今回も、引き分けのようですねぇ。」\
