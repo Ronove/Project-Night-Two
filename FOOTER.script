@@ -9270,9 +9270,12 @@ return
 
 	lsp 510,":c;bmp\background\efe\HAPPY_PHOTO.bmp",0,0
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‚r‚‚‰‚„‚…‚’@‚k‚‰‚Œ‚™`–…”w‚ÌŒ‹‚Ñ‚Í“Œ‰_‚¼`",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@ƒ‰ƒbƒNŠá—ÍA‚„‚‚‰A²‘q‚©‚È‚¦",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFF yVocal z@ƒ~ƒ‹ƒNƒFƒni–Ø–ì”JA²‘q‚©‚È‚¦j",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‚r‚‚‰‚„‚…‚’@‚k‚‰‚Œ‚™`–…”w‚ÌŒ‹‚Ñ‚Í“Œ‰_‚¼`",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@ƒ‰ƒbƒNŠá—ÍA‚„‚‚‰A²‘q‚©‚È‚¦",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFF yVocal z@ƒ~ƒ‹ƒNƒFƒni–Ø–ì”JA²‘q‚©‚È‚¦j",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zSpider Lily ~Imose no Musubi wa Shinonome zo~`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzLuck Ganriki, dai, Kanae Sakura`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yVocal zNei Kino, Kanae Sakura`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9289,9 +9292,12 @@ goto *bgm_mode_botann_teigi
 	lsp 510,$tmp,0,0
 	bgmvol 55
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@S‚Ì“”‚è",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚lD‚y‚‚‹‚‹‚™",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚O‚O",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@S‚Ì“”‚è",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚lD‚y‚‚‹‚‹‚™",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚O‚O",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zKokoro no Akari`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzM.Zakky`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:00`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9308,9 +9314,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 90
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@è‚Æè‚ğ‚Â‚È‚¢‚Å",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚QF‚S‚R",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@è‚Æè‚ğ‚Â‚È‚¢‚Å",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚QF‚S‚R",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zTe to Te wo Tsunaide`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z2:43`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9327,9 +9336,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 85
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ƒLƒ‡ƒE",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚QF‚S‚Q",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ƒLƒ‡ƒE",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚QF‚S‚Q",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zKyou`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z2:42`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9347,9 +9359,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 85
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‚Û‚©‚Û‚©",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚lD‚y‚‚‹‚‹‚™",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚QF‚S‚U",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‚Û‚©‚Û‚©",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚lD‚y‚‚‹‚‹‚™",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚QF‚S‚U",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zPokapoka`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzM.Zakky`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z2:46`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9367,9 +9382,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 85
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ˆ«ï–¡‚È‰¹Šy‹³t‚É‚æ‚é‘I‹È",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@ƒ‰ƒbƒNŠá—Í",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚QF‚P‚O",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ˆ«ï–¡‚È‰¹Šy‹³t‚É‚æ‚é‘I‹È",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@ƒ‰ƒbƒNŠá—Í",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚QF‚P‚O",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zAkushumi na Ongaku Kyoushi ni yoru Senkyoku`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzLuck Ganriki`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z2:10`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9386,9 +9404,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 70
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‰ÔU‚é–é‹ó",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚lD‚y‚‚‹‚‹‚™",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚P‚V",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‰ÔU‚é–é‹ó",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚lD‚y‚‚‹‚‹‚™",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚P‚V",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zHanachiru Yozora`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzM.Zakky`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:17`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9406,9 +9427,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 72
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@Œ–é‚ÌŒv",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚lD‚y‚‚‹‚‹‚™",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚S‚S",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@Œ–é‚ÌŒv",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚lD‚y‚‚‹‚‹‚™",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚S‚S",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zTsukiyo no Tokei`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzM.Zakky`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:44`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9425,9 +9449,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 45
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‰©¨‚É“H‚éŒŒ‚Í–¨‚Ì–¡",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚lD‚y‚‚‹‚‹‚™",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚O‚U",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‰©¨‚É“H‚éŒŒ‚Í–¨‚Ì–¡",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚lD‚y‚‚‹‚‹‚™",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚O‚U",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zTasogare ni Shitataru Chi wa Mitsu no Aji`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzM.Zakky`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:06`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9444,9 +9471,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 75
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@’fß‰ñ˜L",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚lD‚y‚‚‹‚‹‚™",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚TF‚P‚O",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@’fß‰ñ˜L",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚lD‚y‚‚‹‚‹‚™",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚TF‚P‚O",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zDanzai Kairou`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzM.Zakky`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z5:10`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9464,9 +9494,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 67
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@Dendritic Agate -Instrumental-",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚l‚‚’‚’‚‰‚‡‚‚",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚SF‚O‚O",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@Dendritic Agate -Instrumental-",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚l‚‚’‚’‚‰‚‡‚‚",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚SF‚O‚O",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zDendritic Agate -Instrumental-`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzMorrigan`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z4:00`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9483,9 +9516,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 85
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‚@‚ƒ‚’‚‚“‚“@‚Œ‚‰‚‚…",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚R‚R",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‚@‚ƒ‚’‚‚“‚“@‚Œ‚‰‚‚…",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚R‚R",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle za cross line`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:33`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9502,9 +9538,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 55
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@í–é‚Ì”Ó`‰ï",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚lD‚y‚‚‹‚‹‚™",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚Q‚V",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@í–é‚Ì”Ó`‰ï",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚lD‚y‚‚‹‚‹‚™",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚Q‚V",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zJouya no Bansankai`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzM.Zakky`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:27`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9534,9 +9573,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 90
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@t•—",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚PF‚Q‚P",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@t•—",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚PF‚Q‚P",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zHarukaze`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z1:21`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9553,9 +9595,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 70
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@–Y‚ê“¾‚Ê‚±‚Ì“ú",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚l‚‚’‚’‚‰‚‡‚‚",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚UF‚R‚T",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@–Y‚ê“¾‚Ê‚±‚Ì“ú",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚l‚‚’‚’‚‰‚‡‚‚",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚UF‚R‚T",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zWasureenu Kono Hi`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzMorrigan`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z6:35`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9574,9 +9619,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 75
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@—z‰Š",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚PF‚T‚O",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@—z‰Š",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚PF‚T‚O",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zYouen`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z1:50`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9595,9 +9643,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 75
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‹Á‚¢‚½H",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚l‚‚’‚’‚‰‚‡‚‚",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚TF‚S‚R",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‹Á‚¢‚½H",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚l‚‚’‚’‚‰‚‡‚‚",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚TF‚S‚R",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zOdoroita?`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzMorrigan`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z5:43`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9615,9 +9666,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 65
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ª‚Ì‰e“¥‚İ",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚l‚‚’‚’‚‰‚‡‚‚",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚SF‚P‚U",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ª‚Ì‰e“¥‚İ",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚l‚‚’‚’‚‰‚‡‚‚",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚SF‚P‚U",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zYoi no Kagefumi`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzMorrigan`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z4:16`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9634,9 +9688,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 80
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‘’‚è‹‚é‰Ô",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚o‚’‚…|‚ˆ‚‚Œ‚„‚…‚’",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚T‚R",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‘’‚è‹‚é‰Ô",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚o‚’‚…|‚ˆ‚‚Œ‚„‚…‚’",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚T‚R",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zHoumurisaru Hana`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzPre-holder`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:53`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9653,9 +9710,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 90
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ƒtƒ‹ƒLƒAƒVƒL",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@ƒ‰ƒbƒNŠá—Í",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚QF‚P‚V",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ƒtƒ‹ƒLƒAƒVƒL",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@ƒ‰ƒbƒNŠá—Í",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚QF‚P‚V",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zFurukiashiki`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzLuck Ganriki`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z2:17`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9672,9 +9732,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 75
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ƒNƒ‰ƒ„ƒ~ƒIƒ“ƒKƒN",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@ƒ‰ƒbƒNŠá—Í",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚QF‚P‚O",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ƒNƒ‰ƒ„ƒ~ƒIƒ“ƒKƒN",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@ƒ‰ƒbƒNŠá—Í",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚QF‚P‚O",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zKurayami Ongaku`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzLuck Ganriki`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z2:10`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9691,9 +9754,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 80
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‚©‚ª‚İ‚³‚ñ",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚o‚’‚…|‚ˆ‚‚Œ‚„‚…‚’",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚Q‚S",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‚©‚ª‚İ‚³‚ñ",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚o‚’‚…|‚ˆ‚‚Œ‚„‚…‚’",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚Q‚S",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zKagami-san`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzPre-holder`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:24`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9710,9 +9776,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 75
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‚»‚±‚É‚Í’N‚à‚¢‚È‚¢‚Í‚¸",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚l‚‚’‚’‚‰‚‡‚‚",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚UF‚R‚O",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‚»‚±‚É‚Í’N‚à‚¢‚È‚¢‚Í‚¸",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚l‚‚’‚’‚‰‚‡‚‚",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚UF‚R‚O",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zSoko ni wa Dare mo Inai Hazu`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzMorrigan`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z6:30`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9729,9 +9798,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 85
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ƒtKƒcƒtKƒc",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@ƒ‰ƒbƒNŠá—Í",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚QF‚R‚S",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ƒtKƒcƒtKƒc",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@ƒ‰ƒbƒNŠá—Í",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚QF‚R‚S",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zPutsuputsu`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzLuck Ganriki`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z2:34`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9748,9 +9820,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 90
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ŠwZˆÄ“àl",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚P‚R",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ŠwZˆÄ“àl",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚P‚R",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zGakkou Angainin`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:13`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9767,9 +9842,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 80
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‰NO‚Â",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚OF‚T‚O",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‰NO‚Â",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚OF‚T‚O",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zUshimitsudoki`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z0:50`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9786,9 +9864,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 85
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@—á‚¦‚ÎA‚±‚ñ‚È‰ö’k",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚PF‚R‚W",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@—á‚¦‚ÎA‚±‚ñ‚È‰ö’k",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚PF‚R‚W",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zTatoeba, Konna Kaidan`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z1:38`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9805,9 +9886,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 90
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@™",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚QF‚R‚U",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@™",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚QF‚R‚U",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zToge`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z2:36`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9824,9 +9908,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 75
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@–¶‰Ô",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚lD‚y‚‚‹‚‹‚™",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚O‚U",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@–¶‰Ô",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚lD‚y‚‚‹‚‹‚™",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚O‚U",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zKirihana`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzM.Zakky`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:06`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9843,9 +9930,12 @@ goto *bgm_mode_btn_lp
 	add $tmp,"bgm_mode\bgm_back.bmp"
 	lsp 510,$tmp,0,0
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‹­‚­¶‚«‚ÄA‰Ô‚Íç‚­",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚PF‚R‚U",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‹­‚­¶‚«‚ÄA‰Ô‚Íç‚­",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚PF‚R‚U",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zTsuyoku Ikite, Hana wa Saku`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z1:36`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9862,9 +9952,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 80
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‰NƒmQ‚è",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚r‚a@‚x‚t‚m‚d",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚R‚V",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‰NƒmQ‚è",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚r‚a@‚x‚t‚m‚d",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚R‚V",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zUshi no Koku Mairi`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzSB YUNE`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:37`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9882,9 +9975,12 @@ goto *bgm_mode_btn_lp
 	bgmvol 85
 
 
-lsp bgm_title_lsp,":s#FFFFFFyTitle z@‚Ù‚±ƒ‰ƒCƒIƒ“A‚Í‚¶‚ß‚Ü‚µ‚½",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚OF‚T‚W",%bgm_x,%bgm_y3
+;lsp bgm_title_lsp,":s#FFFFFFyTitle z@‚Ù‚±ƒ‰ƒCƒIƒ“A‚Í‚¶‚ß‚Ü‚µ‚½",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚OF‚T‚W",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zHokoRaion, Hajimemashita`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z0:58`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9901,9 +9997,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 90
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ƒTƒ{ƒ“‚Ì‰Ô",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚O‚X",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ƒTƒ{ƒ“‚Ì‰Ô",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚O‚X",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zSabon no Hana`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:09`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9920,9 +10019,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 75
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ˆÃ‚«¨‚«ˆÅ‚ÍŒ‚ğ”w‚É",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚l‚‚’‚’‚‰‚‡‚‚",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚UF‚S‚S",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ˆÃ‚«¨‚«ˆÅ‚ÍŒ‚ğ”w‚É",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚l‚‚’‚’‚‰‚‡‚‚",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚UF‚S‚S",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zKuraki Kuraki Yami wa Tsuki wo Sei ni`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzMorrigan`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z6:44`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9939,9 +10041,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 75
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‘Ì‚Ì‚È‚¢–é",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚o‚’‚…|‚ˆ‚‚Œ‚„‚…‚’",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚S‚O",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‘Ì‚Ì‚È‚¢–é",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚o‚’‚…|‚ˆ‚‚Œ‚„‚…‚’",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚S‚O",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zKarada no Nai Yoru`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzPre-holder`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:40`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9958,9 +10063,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 100
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‚Ğ‚Æ‚è‚Ú‚Á‚¿‚ÌŒN‚Ì‚¤‚½",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚P‚W",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‚Ğ‚Æ‚è‚Ú‚Á‚¿‚ÌŒN‚Ì‚¤‚½",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚P‚W",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zHitoribocchi no Kimi no Uta`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:18`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9977,9 +10085,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 90
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‚¢‚í‚¢‚Æ‚Ü‚Â‚è",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚P‚U",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‚¢‚í‚¢‚Æ‚Ü‚Â‚è",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚P‚U",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zIwai to Matsuri`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:16`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -9996,9 +10107,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,0
 	bgmvol 90
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@–»ˆÃ‹«ŠEü",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚O‚T",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@–»ˆÃ‹«ŠEü",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚O‚T",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zMeian Kyoukaisen`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:05`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
@@ -10015,9 +10129,12 @@ goto *bgm_mode_btn_lp
 	lsp 510,$tmp,0,-50
 	bgmvol 100
 
-      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ˆ¤‚µ‚ğ“n‚é‚Í‰©¨‚¼iƒGƒ“ƒfƒBƒ“ƒO‚u‚…‚’j",%bgm_x,%bgm_y1
-      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@ƒ‰ƒbƒNŠá—ÍA‚„‚‚‰A²‘q‚©‚È‚¦",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFF yVocal z@–Ø–ì”J",%bgm_x,%bgm_y3
+;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ˆ¤‚µ‚ğ“n‚é‚Í‰©¨‚¼iƒGƒ“ƒfƒBƒ“ƒO‚u‚…‚’j",%bgm_x,%bgm_y1
+;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@ƒ‰ƒbƒNŠá—ÍA‚„‚‚‰A²‘q‚©‚È‚¦",%bgm_x,%bgm_y2
+;      lsp bgm_time_lsp,":s#FFFFFF yVocal z@–Ø–ì”J",%bgm_x,%bgm_y3
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zHashi wo Wataru wa Tasogare zo (ending ver.)`",%bgm_x,%bgm_y1
+      lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzLuck Ganriki, dai, Kanae Sakura`",%bgm_x,%bgm_y2
+      lsp bgm_time_lsp,":s#FFFFFF `yVocal zNei Kino`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
