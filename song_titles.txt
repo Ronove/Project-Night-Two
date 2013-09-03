@@ -1,32 +1,32 @@
 kanji : Ｓｐｉｄｅｒ　Ｌｉｌｙ～妹背の結びは東雲ぞ～
-romaji: 
+romaji: Spider Lily ~Imose no Musubi wa Shinonome zo~
 
 kanji : 心の灯り
-romaji: 
+romaji: Kokoro no Akari
 
 kanji : 手と手をつないで
-romaji: 
+romaji: Te to Te wo Tsunaide
 
 kanji : キョウ
-romaji: 
+romaji: Kyou
 
 kanji : ぽかぽか
 romaji: Pokapoka
 
 kanji : 悪趣味な音楽教師による選曲
-romaji: 
+romaji: Akushumi na Ongaku Kyoushi ni yoru Senkyoku
 
 kanji : 花散る夜空
-romaji: 
+romaji: Hanachiru Yozora
 
 kanji : 月夜の時計
-romaji: 
+romaji: Tsukiyo no Tokei
 
 kanji : 黄昏に滴る血は蜜の味
-romaji: 
+romaji: Tasogare ni Shitataru Chi wa Mitsu no Aji
 
 kanji : 断罪回廊
-romaji: 
+romaji: Danzai Kairou
 
 kanji : Dendritic Agate -Instrumental-
 romaji: Dendritic Agate -Instrumental-
@@ -35,7 +35,7 @@ kanji : ａ　ｃｒｏｓｓ　ｌｉｎｅ
 romaji: a cross line
 
 kanji : 常夜の晩餐会
-romaji: 
+romaji: Jouya no Bansankai
 
 kanji : 春風
 romaji: Harukaze
