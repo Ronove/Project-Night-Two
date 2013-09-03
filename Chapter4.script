@@ -474,7 +474,7 @@ bg kaiga_02,22
 
 
 ;「………ねぇ、野田裕貴くん。」@
-`"....Hey, Yuuki Noda."`@
+`"....Hey, Yuuki Noda-kun."`@
 br
 ;　絵を見つめたまま、少女が呼びかける。\
 `　Still looking at the painting, the girl called his name.`\
@@ -726,7 +726,7 @@ br
 `　...Shintani muttered to herself, too quiet for anyone else to hear.`\
 
 ;「裕貴くん……。@……どうしてあんなことに…………。」\
-`"Yuuki...`@` ...Why? Why did that have to happen to you...?"`\
+`"Yuuki-kun...`@` ...Why? Why did that have to happen to you...?"`\
 cl c,2
 
 bg black,22
@@ -841,7 +841,7 @@ br
 ;　しかし、どんな原因だったにせよ、彼が死んだ事実に変わりはなかった。@
 `　But, no matter where the blame is placed, that doesn't change the reality that he is dead.`@
 ;　裕貴くんはもうこの世にいない。@彼にはもう二度と会えない。@
-`　Yuuki is no longer in this world. `@`She will never see him again.`@
+`　Yuuki-kun is no longer in this world. `@`She will never see him again.`@
 br
 ;　目を瞑ると、瞼の裏側に彼の姿が浮かび上がった。\
 `　When she closes her eyes, she can still see the way he looked on the inside of her eyelids.`\
@@ -1392,7 +1392,7 @@ ld r,NAF_D4a,22
 `　...In order to earn this kid's trust I need to bide my time for two... no, at least three weeks.`@
 br
 ;　それに裕貴くんが死んでから、まだ一月も経ってない。@ほとぼりが冷めるのにもそのくらいは必要だろう………。\
-`　Besides, it hasn't even been one month since Yuuki died. `@`She needed at least that long to calm down about that.....`\
+`　Besides, it hasn't even been one month since Yuuki-kun died. `@`She needed at least that long to calm down about that.....`\
 ld r,NAF_D6a,22
 bg black,2
 
@@ -1416,7 +1416,7 @@ ld c,NAF_D3,80
 ;「何かしら？」@
 `"What is it?"`@
 ;「……どうして裕貴くんはあんなことになってしまったんでしょうか。」@
-`"...Why did that accident have to happen to Yuuki?"`@
+`"...Why did that accident have to happen to Yuuki-kun?"`@
 bgm1 14
 
 br
@@ -1436,7 +1436,7 @@ br
 ld c,NAF_D4,80
 
 ;「……君、裕貴くんの友達だったの？」@
-`"...Were you Yuuki's friend?"`@
+`"...Were you Yuuki-kun's friend?"`@
 ;「いえ。@友達ってほど仲が良かったわけでもないんですけど……。」@
 `"No. `@`I wasn't really close enough to him to be considered his friend, but..."`@
 br
@@ -1503,7 +1503,7 @@ ld r,NAF_D2,22
 ;「…………君は、どう思うの？」@
 `"......What do you think?"`@
 ;「僕は、違うと思います。@ルノワールの祟りで裕貴くんが死んだなんて……。」\
-`"I don't think it's true. `@`I don't think that it was Renoir's curse that killed Yuuki..."`\
+`"I don't think it's true. `@`I don't think that it was Renoir's curse that killed Yuuki-kun..."`\
 
 
 ld r,NAF_D1,80
@@ -1935,7 +1935,7 @@ bg black,22
 ;ld r,NAF_D6,80
 
 ;「裕貴くんも可愛かったけど。@……この子はそれ以上だわ。@………ふふふふふふ。」@
-`"Yuuki was cute.`@` ...But this kid is so much more.`@` ....Fufufufufu."`@
+`"Yuuki-kun was cute.`@` ...But this kid is so much more.`@` ....Fufufufufu."`@
 br
 ;　新谷は野田裕貴の小さくて美しかった肉体を思い出した。\
 `　Shintani recalled the beautiful little body of Yuuki Noda.`\
@@ -2302,7 +2302,7 @@ br
 ;ld c,RUN_D6,80
 
 ;「あら……。@じゃあ、先生は彼……、@野田裕貴くんが死んだのは事故だと思っているんですね？@　“美術室のルノワール”の祟りじゃなくて。」@
-`"Oh....?`@` Then you think his.... `@`Yuuki Noda's death was an accident, then? `@`Not the curse of 'Renoir of the Art Room'."`@
+`"Oh....?`@` Then you think his.... `@`Yuuki Noda-kun's death was an accident, then? `@`Not the curse of 'Renoir of the Art Room'."`@
 ;「……当たり前じゃない。@祟りなんて持ち出す方がどうかしてるわ。」\
 `"...Obviously. `@`There's no such thing as curses."`\
 ;ld c,RUN_D1,80
@@ -2323,7 +2323,7 @@ bg bijutu_02,22
 ;ld c,RUN_D2,80
 
 ;「ええ。@野田裕貴くんがいじめを受けていた、という噂です。」@
-`"Yeah. `@`The one that Yuuki Noda was being bullied."`@
+`"Yeah. `@`The one that Yuuki Noda-kun was being bullied."`@
 ;「…………。」\
 `"......"`\
 bg black,22
@@ -2364,7 +2364,7 @@ br
 ;　新谷の前髪に隠れた額と握り込んだ掌から、嫌な汗がじわりと滲み出る……。\
 `　On her brow hidden beneath her bangs and in her clenched hands, Shintani started to sweat...`\
 ;「先生はご存知でした？@　裕貴くんの身体にあった傷は、殴られたり蹴られたりした様な単純なものじゃなくて、@変わった傷が多かったみたいですよ？@　まるで、切れ味の悪い刃物を肌に押し当てられたみたいな…………。」\
-`"Have you heard this, Sensei? `@`Apparently the marks on Yuuki's body didn't look like they were simply from him being punched or kicked. `@`He had a bunch of unusual marks on him. `@`Almost like a dull knife had been pressed against his skin....."`\
+`"Have you heard this, Sensei? `@`Apparently the marks on Yuuki-kun's body didn't look like they were simply from him being punched or kicked. `@`He had a bunch of unusual marks on him. `@`Almost like a dull knife had been pressed against his skin....."`\
 bg black,23
 bg bijutu_02,0
 ld c,NAF_D5,23
@@ -2395,7 +2395,7 @@ ld r,RUN_D1,24
 ld r,RUN_D8,80
 
 ;「……私、思ったんですよ。@もしかして裕貴くんは、@いじめじゃなくて誰か大人の人に虐待されてたんじゃないかって……。」\
-`"...I've been thinking. `@`Maybe Yuuki wasn't being bullied at all. `@`Maybe he was being abused by an adult..."`\
+`"...I've been thinking. `@`Maybe Yuuki-kun wasn't being bullied at all. `@`Maybe he was being abused by an adult..."`\
 ld l,NAF_D6a,23
 
 wait 1000
@@ -2416,7 +2416,7 @@ br
 bg black,22
 
 ;「裕貴くんの身体には、@小さくて丸い、火ぶくれみたいな火傷の痕がたくさんあったらしいんですよ。@まるで、煙草を押し付けられたみたいな。」\
-`"On Yuuki's body, `@`there were multiple little, round scars from burn marks that looked like blisters. `@`Almost like someone had been burning him with the end of a cigarette."`\
+`"On Yuuki-kun's body, `@`there were multiple little, round scars from burn marks that looked like blisters. `@`Almost like someone had been burning him with the end of a cigarette."`\
 ;bg black,23
 bg bijutu_04,22
 
@@ -2601,7 +2601,7 @@ ld c,RUN_D5,80
 ld c,RUN_D2,80
 
 ;「ああ、そう言えば、発見された時の裕貴くん。@………着ていたシャツのボタンを掛け違えてたみたいですね。」@
-`"Oh, by the way, you know when they found Yuuki....`@` apparently the buttons on his shirt were mixed up."`@
+`"Oh, by the way, you know when they found Yuuki-kun....`@` apparently the buttons on his shirt were mixed up."`@
 ;「……え？」\
 `"...Huh?"`\
 bg black,22
@@ -3330,7 +3330,7 @@ ld c,RUN_D3,80
 bg black,22
 
 ;「裕貴くんが死んだ時、先生は一体どこで何をしてたの…？」\
-`"Where were you when Yuuki died...?"`\
+`"Where were you when Yuuki-kun died...?"`\
 ;mbg red1,1
 ;mcbg 22
 
@@ -3352,7 +3352,7 @@ ld r,RUN_D1,22
 ld r,RUN_D5,80
 
 ;「先生はこの美術室にいたんじゃない？@　野田裕貴くんと一緒に。」@
-`"Were you here in this art room, Sensei? `@`Were you with Yuuki when he died?"`@
+`"Were you here in this art room, Sensei? `@`Were you with Yuuki-kun when he died?"`@
 br
 ;　その瞬間、フラッシュバックのようにあの日の出来事が思い出される……。\
 `　For an instant she had a flashback like memory to that day...`\
@@ -3414,7 +3414,7 @@ br
 `".....Why... Why did you....."`@
 br
 ;　裕貴くん、と呻くように彼の名を呼ぶ。\
-`　She called out Yuuki's name with a groan.`\
+`　She called out Yuuki-kun's name with a groan.`\
 ;　……そんなつもりはなかった。@
 `　....I didn't mean for that to happen.`@
 ;　あの日私が彼に右手を伸ばしたのは、突き飛ばすためなんかじゃない。@
@@ -3678,7 +3678,7 @@ mld l,HIG_W5,22
 ;mld l,HIG_D4,80
 
 ;「…………素敵な妖怪だこと。@……教師たる者が生徒を働き蜂呼ばわりだなんて。@野田裕貴くんも、あなたにとってはたくさんの働き蜂の中の１匹でしかなかったの？」\
-`"......What a great youkai.`@` ...A teacher who denounces her students as nothing more than worker bees. `@`Was Yuuki Noda just be another one of those many bees to you?"`\
+`"......What a great youkai.`@` ...A teacher who denounces her students as nothing more than worker bees. `@`Was Yuuki Noda-kun just be another one of those many bees to you?"`\
 mcl c,0
 mld r,NAF_D2,23
 
@@ -3775,7 +3775,7 @@ mld c,NAF_D8,80
 
 se1 84
 ;「うふふふふ、うっふっふっふっふ！！@　そんなもの、あるわけがないでしょう！！@　私は女王蜂！@　私に好意を持つ蜂たちにかしずかれ、私は彼らの献上する蜜を楽しむの！@　私こそは美術室の女王！@　私に仕えられただけでも光栄なことなのよ？@　それを投げ出すなんて、身の程知らずの愚か者…！！@　裕貴くんに謝りたいという気持ち？@　そんなもの、これっぽっちもあるわけがない…！！@　だって私は、女王なのだから！！」\
-`"Ufufufu, UFUFUFUFU!! `@`Of course I'm not!! `@`I'm the queen bee! `@`The other bees show their affection to me and I will enjoy their honey! `@`I AM the queen of this art room! `@`It should be an honor to serve me! `@`Those who don't feel honored to are fools who need to know their place...!! `@`Am I sorry for Yuuki? `@`Not even in the slightest...!! `@`After all, I am the queen!!"`\
+`"Ufufufu, UFUFUFUFU!! `@`Of course I'm not!! `@`I'm the queen bee! `@`The other bees show their affection to me and I will enjoy their honey! `@`I AM the queen of this art room! `@`It should be an honor to serve me! `@`Those who don't feel honored to are fools who need to know their place...!! `@`Am I sorry for Yuuki-kun? `@`Not even in the slightest...!! `@`After all, I am the queen!!"`\
 mcl c,0
 bg black,22
 E_B
@@ -3786,7 +3786,7 @@ fede 0,1000
 E_A
 
 ;「…………ないんだね。@………裕貴くんに、……謝ろうという気は。」@
-`".....You really aren't going to...`@` .....apologize..... to Yuuki, are you?"`@
+`".....You really aren't going to...`@` .....apologize..... to Yuuki-kun, are you?"`@
 br
 ;　この美術室に、自分とルノワール以外の誰がいたっけ…？！@
 `　There's someone else in this room besides me and Renoir...?!`@
@@ -3804,7 +3804,7 @@ br
 ;「……あ、……ら……。@……目が覚めたの……？」@
 `"...H.... uh... `@`.... You're awake....?"`@
 ;「ないんだね……。@裕貴くんに、謝ろうという気は……。」@
-`"You really aren't.... `@`going to apologize to Yuuki, are you....?"`@
+`"You really aren't.... `@`going to apologize to Yuuki-kun, are you....?"`@
 br
 ;　同じ言葉を、もう一度繰り返す。\
 `　He repeated himself.`\
@@ -3976,7 +3976,7 @@ me2v 28,50
 ld c,RUN_D2,80
 
 ;「……裕貴くんは、本当にあなたのことが好きだった。@……その気持ちは、あなたなんかが思っているよりも、はるかに無垢で美しいくらいに。」@
-`"...Yuuki really did love you.`@` ...It was a feeling much more innocent and beautiful than you imagined."`@
+`"...Yuuki-kun really did love you.`@` ...It was a feeling much more innocent and beautiful than you imagined."`@
 br
 
 cl c,5
@@ -4000,7 +4000,7 @@ cl c,0
 mld c,RUN_D7,80
 
 ;「……そう。@あなたは彼の好意を、一方的に貪り続けたんだ。@……裕貴くんだって、それがわからなかったわけじゃない。」\
-`"...Yes. `@`All you did was one-sidedly devour his kindness.`@` ...There's no way that Yuuki didn't realize what you were doing."`\
+`"...Yes. `@`All you did was one-sidedly devour his kindness.`@` ...There's no way that Yuuki-kun didn't realize what you were doing."`\
 ld r,HIG_W1,22
 ld r,HIG_W3,80
 
@@ -4011,7 +4011,7 @@ ld r,HIG_W3,80
 mld c,RUN_D2,80
 
 ;「そしてあの日。@……裕貴くんは初めて、……あなたに反抗したんだ。」\
-`"And on that day.`@` ...For the first time... Yuuki resisted you."`\
+`"And on that day.`@` ...For the first time... Yuuki-kun resisted you."`\
 mcl c,0
 bg black,2
 se1v 11,40
@@ -4056,7 +4056,7 @@ wait 500
 bg blood_1aR,8
 
 ;「裕貴は怖くなって、美術室から逃げ出そうとしたわ。@……あなたはその背中を、突き飛ばしたの。」@
-`"Yuuki got scared, and tried to run out of the art room,`@` ...and you pushed him on the back."`@
+`"Yuuki-kun got scared, and tried to run out of the art room,`@` ...and you pushed him on the back."`@
 ;＜彼岸花
 ;「………そして、裕貴くんは机にぶつかって倒れた。@……そこに、バランスを崩した石膏像が……。」\
 `".....And he fell into the legs of the desk,`@` ...and that's when the plaster bust lost its balance, and..."`\
@@ -4118,18 +4118,18 @@ ld r,NAF_D7a,80
 ld l,RUN_D9,80
 
 ;「裕貴くんに対して、申し訳ないという気持ちを、微塵も持っていないということだよ。」@
-`"Your answer was that you're not even the least bit sorry for Yuuki."`@
+`"Your answer was that you're not even the least bit sorry for Yuuki-kun."`@
 br
 ;　無表情なルノワールが、その瞬間だけ歪む。\
 `　For that one instant, Renoir's expressionless face became twisted.`\
 ld l,RUN_D8,80
 
 ;「あなたはあれだけ裕貴くんを慰み者にしたのに。@そして、その死の一端に関わったはずなのに。@……彼に対して申し訳ないという気持ちを、抱いてはくれなかった…。@それが、………僕には許せない。@……だから、狩る。@……裕貴くんの無念を晴らすために、@……僕は彼岸花の助けを借りて、……ここへこうして、現れたんだ……。」\
-`"You made Yuuki into your plaything. `@`And were at least somewhat responsible for his death.`@` ...And yet you won't embrace any apologetic feelings for him...`@` I... cannot forgive that.`@` ...So I will hunt you.`@` ...So that Yuuki can rest without regrets....`@` I borrowed assistance from Higanbana.... and appeared before you here..."`\
+`"You made Yuuki-kun into your plaything. `@`And were at least somewhat responsible for his death.`@` ...And yet you won't embrace any apologetic feelings for him...`@` I... cannot forgive that.`@` ...So I will hunt you.`@` ...So that Yuuki-kun can rest without regrets....`@` I borrowed assistance from Higanbana.... and appeared before you here..."`\
 ld r,NAF_D8a,80
 
 ;「は、……はは……！@　つまり、こういうことね。@……裕貴くんの魂が、あなたという妖怪になって、化けて出てきたというわけね。@はは、ははははは…！@/
-`"Ha... haha...! `@`So that's how it is.`@` ...Yuuki's soul was able to disguise itself as you and become a youkai.`@` Haha, hahahaha...!`@/
+`"Ha... haha...! `@`So that's how it is.`@` ...Yuuki-kun's soul was able to disguise itself as you and become a youkai.`@` Haha, hahahaha...!`@/
 se1 84
 
 ;　はっははははははははははははは！！」\
@@ -4149,7 +4149,7 @@ ld l,RUN_D2,80
 ld r,NAF_D8,80
 
 ;「なら、あなただって同じだわ。@裕貴くんの仇が討ちたいなら、私に怪談のルールで挑まなくてはならない！」@
-`"Then you have the same problem. `@`In order to avenge Yuuki you have to challenge me by the rules of the ghost story!"`@
+`"Then you have the same problem. `@`In order to avenge Yuuki-kun you have to challenge me by the rules of the ghost story!"`@
 ld l,RUN_D6,80
 
 ;「……そうだね。@……僕の、ルノワールの怪談のルールに則って、……あなたを、狩る。」\
@@ -4216,13 +4216,13 @@ bg bijutu_02,0
 ld c,NAF_D1,22
 
 ;『……どうして裕貴くんはあんなことになってしまったんでしょうか。』@
-`"...Why did that accident have to happen to Yuuki?"`@
+`"...Why did that accident have to happen to Yuuki-kun?"`@
 ld c,NAF_D4,80
 
 ;『…………さあ。@よく分からないわ。』\
 `"......Who can say? `@`I don't really know."`@
 ;　どうして裕貴くんは、あんなことになってしまったのか？@
-`　Why did that accident happen to Yuuki?`@
+`　Why did that accident happen to Yuuki-kun?`@
 ;　知っている。@だって、私の目の前で死んだのだから。@
 `　I knew. `@`After all, he died right in front of me.`@
 br
@@ -4296,7 +4296,7 @@ ld c,RUN_D8,22
 ld c,RUN_D6,80
 
 ;「あなたに、裕貴くんへの謝罪の気持ちがあったなら、@……僕はあれが事故ということでも仕方がないと思った。@……だって、彼はそれでも最後まで、あなたのことが好きだったのだから。」\
-`"If you would have apologized to Yuuki.... `@`I would have just left it as being an unfortunate accident.`@` ...Because he loved you to the very end."`\
+`"If you would have apologized to Yuuki-kun.... `@`I would have just left it as being an unfortunate accident.`@` ...Because he loved you to the very end."`\
 quake 5,500
 
 ;「やめてッ、嫌ッ、嫌ぁああああああぁああぁ！！」\
@@ -4539,7 +4539,7 @@ br
 ;　髪を切り、服を変えた。@
 `　I cut my hair, and changed my clothes.`@
 ;　その姿をもう一度、彼に見せたかった。\
-`　I wish I could show him how I look now on more time.`\
+`　I wish I could show him how I look now one more time.`\
 bg black,22
 
 mono 0
@@ -4547,7 +4547,7 @@ mono 0
 bg kaiga_02,22
 
 ;「……裕貴くん。@………せめて、君の気に入ってくれた美術室がわずかでも美しくなるように。@………この部屋の新しい主となる先生に働きかけて、@……怖い絵だけじゃなく、楽しい絵も入れてもらおうと思うんだ。」\
-`"...Yuuki.`@` ....At least I could make the art room the you liked a little better looking.`@` ....This room will get a new teacher as its master.`@` ...And they won't just put up scary pictures, they'll put up fun pictures as well."`\
+`"...Yuuki-kun.`@` ....At least I could make the art room the you liked a little better looking.`@` ....This room will get a new teacher as its master.`@` ...And they won't just put up scary pictures, they'll put up fun pictures as well."`\
 ;　あの日、彼とこの部屋でした、様々な絵の議論が思い返される。\
 `　I thought back on the various pictures we discussed that day.`\
 ;　この絵はなんだか子供の落書きみたい。@
