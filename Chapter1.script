@@ -1100,7 +1100,7 @@ mld c,HIG_d2,80
 ld r,ma2_w2,80
 
 ;「だから、彼岸花さんが、ひとりぼっちだなんて思う必要は、まったくないと思います。」\
-`"That's why I really don't think that Higanbana has to be alone."`\
+`"That's why I really don't think that Higanbana-san has to be alone."`\
 mcl c,0
 ld l,HIG_d5,24
 
@@ -1222,7 +1222,7 @@ br
 ld r,HIG_D3,80
 
 ;「その子は、序列第６位、美術室のルノワール。@……大人しい子よ。@あまり熱心に狩りをする子でもないし。」\
-`"That child is the Sixth Ranked, Renoir of the art room.`@` She's a quiet child.`@` She doesn't hunt very much."`\
+`"That child is the Sixth Ranked, Renoir of the art room.`@` Renoir's a quiet kid.`@` Doesn't hunt very much."`\
 ;＜彼岸花
 
 cl a,0
@@ -1240,15 +1240,15 @@ ld c,KYO_D5,80
 ld r,HIG_w3,22
 
 ;「元々、九十九神だからね。@ただ眠っているだけでも、本来の妖力は侮れないわ。」\
-`"She was originally a Tsukumogami.`@` Y'know, like a spirit that inhabits objects, making them come alive on their 100th birthday.`@` Even though she's just sleeping, her current powers are nothing to laugh at."`\
+`"Renoir was originally a Tsukumogami.`@` Y'know, like a spirit that inhabits objects, making them come alive on their 100th birthday.`@` Even though Renoir's just sleeping, their current powers are nothing to laugh at."`\
 ;＜彼岸花
 
 ;　第７位のスミレは、いじめを撒き散らし、積極的な狩りをしていた。@
 `　Sumire the Seventh Ranked spread bullying and performed extremely proactive hunting.`@
 ;　にもかかわらず、このルノワールという妖怪は、ほとんど狩りをしないのに、序列はそれより高い。@
-`　Nevertheless, even though this youkai called Renoi barely hunted at all, her rank was higher.`@
+`　Nevertheless, even though this youkai called Renoir barely hunted at all, even though Renoir was higher ranked.`@
 ;　だとするなら、元々、相当の大きな力を持つ妖怪に違いあるまい。\
-`　Since that's the case, in the past she must have been a youkai with a great amount of power befitting her rank.`\
+`　Since that's the case, in the past they must have been a youkai with a great amount of power befitting their rank.`\
 
 ld l,ma2_w1,22
 
@@ -1538,7 +1538,7 @@ ld r,HIG_d10,80
 ld l,MAR_D3a,80
 
 ;「何でって。@……彼岸花さんたちに飲まされて……、それで気持ちよくなって………。」\
-`"Why?`@` ...Higanbana, you and the others made me drink... and I felt really good..."`\
+`"Why?`@` ...Higanbana-san, you and the others made me drink... and I felt really good..."`\
 ld r,HIG_D9a,80
 
 ;「何の話？」@
@@ -1579,7 +1579,7 @@ br
 ld l,MAR_D3a,80
 
 ;「……彼岸花さんこそ、何を言ってるんですか？@　私、こうして、ここに来て、一緒に皆さんとご挨拶をしたじゃないですか。」\
-`"Likewise, Higanbana, what are you talking about? `@`Didn't I come here and greet everyone?"`\
+`"Likewise, Higanbana-san, what are you talking about? `@`Didn't I come here and greet everyone?"`\
 bg black,22
 bg gakkou_07y,22
 
