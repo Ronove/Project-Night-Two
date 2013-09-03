@@ -191,7 +191,7 @@ bg kyou_01,22
 bgm1 24
 
 ;　翌々日。@……学校で先生より、智子ちゃんが突然、亡くなったことを聞いた。@
-`　Two days later.`@` ....At school she heard from a teacher that Tomoko had suddenly passed away.`@
+`　Two days later.`@` ....At school she heard from a teacher that Tomoko-chan had suddenly passed away.`@
 ;　家族で出掛けた温泉リゾートで。@温水プールの脇で、滑って転んで、プールの縁に頭を強く打ち付けたらしい。\
 `　At the hot spring resort she went to with her family, `@`she apparently slipped near the edge of the pool, hit her head on the edge and fell in.`\
 
@@ -623,7 +623,7 @@ bg black,22
 `　I can do it.`@` ....Definitely.`@`
 br
 ;　私には智子ちゃんを蘇らせることが出来る…！\
-`　I can revive Tomoko...!`\
+`　I can revive Tomoko-chan...!`\
 mono 0
 bg gakkou_03,22
 ;ld r,SAK_D1,22
@@ -1269,7 +1269,7 @@ bg kyou_04,22
 ;　でも、もう私は二度と誰にも挨拶はしないんだ。@
 `　But, I could never greet anyone again.`@
 ;　そうすることで智子ちゃんが蘇るなら、……これは全然、苦にならない、簡単なことなんだ。\
-`　But if it meant bringing Tomoko back... it wouldn't be a problem at all. It's a simple task.`\
+`　But if it meant bringing Tomoko-chan back... it wouldn't be a problem at all. It's a simple task.`\
 bg black,22
 bg kyou_01,22
 
@@ -1321,7 +1321,7 @@ br
 ;　しかし、………さらに考えれば、……これほど安い対価もない。@
 `　However.... if I consider it further... this is also the cheapest price I could ever pay.`@
 ;　元々、私には智子ちゃんと出会うまでに友人なんて一人もいないし、@……これからも一人も出来ないだろう。\
-`　In the beginning, before I met Tomoko, I had not one friend.`@` ...And, now I have none again.`\
+`　In the beginning, before I met Tomoko-chan, I had not one friend.`@` ...And, now I have none again.`\
 ld r,MIC_D1,80
 
 ;　ならば挨拶なんて、出来なくなっても、何も問題ないではないか。@
@@ -1734,7 +1734,7 @@ br
 ;　白い光から、確かにそう聞こえた。@
 `　I'm sure that was what I just heard coming from the light.`@
 ;　智子ちゃんの声だと思う。@……まるで、チューニングのずれたラジオから聞こえるような声。\
-`　I think it's Tomoko's voice.`@` ...It sounded almost like a voice coming from a radio with bad tuning.`\
+`　I think it's Tomoko-chan's voice.`@` ...It sounded almost like a voice coming from a radio with bad tuning.`\
 bg okujou_01y,0
 ld r,MIC_D6,29
 
@@ -2024,7 +2024,7 @@ ld r,TOM_D1,23
 ld r,TOM_D2,80
 
 ;「みちるちゃんのこと、面白い子と思ってたのは最初の頃だけだよー。@その後は、しつこいあんたに振り回されてただけー。@私はすっごい迷惑してたわけ。@……で、そのあんたが、死んだ後になっても、まーだ、私にしつこく付きまとってくるなんてねー。@いやはや、正直マジ勘弁、クソウザイわ。」\
-`"Michiru, I really only had any interest in you in the beginning. `@`After that you were just manipulative. `@`A real bother to me.`@` ...And now you've come to trouble me even after I died. `@`Seriously, just leave me be, you're being so annoying."`\
+`"Michiru-chan, I really only had any interest in you in the beginning. `@`After that you were just manipulative. `@`A real bother to me.`@` ...And now you've come to trouble me even after I died. `@`Seriously, just leave me be, you're being so annoying."`\
 
 
 ;　…………………………………。@
@@ -2166,7 +2166,7 @@ br
 ;　あのノートが思い出の大切なものと思っていたのは自分だけ。@
 `　She was the only one who saw any value in those notebooks.`@
 ;　智子ちゃんにとっては、誰にも見られたくない恥ずかしいもの……。\
-`　For Tomoko, they were just an embarrassment...`\
+`　For Tomoko-chan, they were just an embarrassment...`\
 cl r,22
 
 ;ld c,MIC_D1,80
@@ -2350,7 +2350,7 @@ bg black,22
 bg Air_03,26
 
 ;「智子ちゃんのことは忘れない。@……でももう、智子ちゃんだけに囚われたりもしない。@……私は桜田みちる。@……明日からを、また新しく生きていくよ……。」\
-`"I won't forget you, Tomoko.`@` ...But I won't dwell on only you.`@` ...I am Michiru Sakurada.`@` ...And starting tomorrow, I'm going to live a new life..."`\
+`"I won't forget you, Tomoko-chan.`@` ...But I won't dwell on only you.`@` ...I am Michiru Sakurada.`@` ...And starting tomorrow, I'm going to live a new life..."`\
 bg black,22
 bg gakkou_08y,0
 ld r,SAK_k2,0
@@ -2481,7 +2481,7 @@ cl c,0
 ld r,TOM_D7,23
 
 ;「なのに、私がプールで滑って転んだだけで、あんなに悲しませてしまうなんて。@そんなんじゃ、私は死んでも死にきれないっつーわけ！@　あれだけガツンと言っとけばっ。@みちるちゃんも私に幻滅して、明日からは心を入れ替え、けろりとして生きてくれるでしょ。」\
-`"And yet, I went and slipped into the pool and caused her this much grief. `@`I can't stand to just die and leave things like that! `@`That's why I said what I did. `@`So that I could push Michiru away from me, so she could have a change of heart and live a brand new life from now on."`\
+`"And yet, I went and slipped into the pool and caused her this much grief. `@`I can't stand to just die and leave things like that! `@`That's why I said what I did. `@`So that I could push Michiru-chan away from me, so she could have a change of heart and live a brand new life from now on."`\
 ld r,TOM_D2,80
 
 ;「人間は強いもの。@生きてさえいれば、親友の死だって、乗り越えてくれるよねー。」\
