@@ -9275,7 +9275,7 @@ return
 ;      lsp bgm_time_lsp,":s#FFFFFF yVocal z@ƒ~ƒ‹ƒNƒFƒni–Ø–ì”JA²‘q‚©‚È‚¦j",%bgm_x,%bgm_y3
       lsp bgm_title_lsp,":s#FFFFFF`yTitle zSpider Lily ~Imose no Musubi wa Shinonome zo~`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzLuck Ganriki, dai, Kanae Sakura`",%bgm_x,%bgm_y2
-      lsp bgm_time_lsp,":s#FFFFFF`yVocal zNei Kino, Kanae Sakura`",%bgm_x,%bgm_y3
+      lsp bgm_time_lsp,":s#FFFFFF`yVocal zMilkwafer (Nei Kino, Kanae Sakura)`",%bgm_x,%bgm_y3
 
       gosub *bgm_mode_h2
       print 2
