@@ -1595,7 +1595,7 @@ ld c,TOM_D1,22
 `　They were memories of happy days spent with her.`@
 br
 ;　それを燃やすことは、………智子との唯一の繋がりを、捨てろということ。\
-`　Burn these... meant severing the last link she had to Tomoko.`\
+`　Burning these... meant severing the last link she had to Tomoko.`\
 bg black,22
 
 mono 0
@@ -2125,7 +2125,7 @@ br
 
 
 ;　しかし、……その思い出の美しさは、みちる側からのみなのだ。@
-`　But... Michiru was the only one who say beauty in those memories.`@
+`　But... Michiru was the only one who saw beauty in those memories.`@
 br
 ;　智子側からは、……まったくそうではなかった。\
 `　Tomoko... didn't care for them at all.`\
@@ -2462,7 +2462,7 @@ br
 
 
 ;　だから、……焼いてもらった。@
-`　That's why she burned it.`@
+`　That's why she had them burned.`@
 ;　思い出は心の中だけで充分。@……読み返して悲しい気持ちがぶり返すなら、なくなった方が良い。@
 `　It's more than enough for memories to just live in the heart.`@` ...If memories that are written down just keep brining you pain, it's best if they didn't exist at all.`@
 br

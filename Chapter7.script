@@ -77,7 +77,7 @@ bg bite,26
 
 
 ;　この巨大な狩場を独占しようと、妖怪たちは互いが互いを憎み合い、殺し合っている。@
-`　If one tried to monopolize this hunting ground, the monsters would killed each other out of mutual hatred.`@
+`　If one tried to monopolize this hunting ground, the monsters would kill each other out of mutual hatred.`@
 ;　生まれたばかりの彼女とて、それは例外ではない。@
 `　She, as a newborn, was no exception.`@
 ;　より恐ろしい妖怪に見つかれば、問答無用で殺される。@
@@ -175,7 +175,7 @@ ld l,KYO_D2,24
 ld l,KYO_D1,80
 
 ;「俺様やルノは、ぼんやり傍観してただけさ。」@
-`"Some of us, like Reno and I, watched idly from the sidelines."`@
+`"Some of us, like Ren and I, watched idly from the sidelines."`@
 ;＜キョウ
 
 ld c,RUN_D3,22
@@ -975,7 +975,7 @@ bg gakkou_02,22
 `　By chance, she happened to look down... and there behind the school building...`@
 br
 ;　数人の男子の人だかりがある。@
-`　There was a crowd of men.`@
+`　There was a crowd of boys.`@
 ;　……どうやら、彼らの狩りらしい。\
 `　...Apparently, they were hunting.`\
 ;　人間もまた、狩りをする。@
@@ -1044,7 +1044,7 @@ ld r,HIG_D9,23
 `"....You... can see me...?"`@
 br
 ;　それが彼岸花にとって、初めての人間との会話だった。\
-`　That was the first conversations that Higanbana ever had with a human.`\
+`　That was the first conversation that Higanbana ever had with a human.`\
 bg black,2
 wait 1000
 bg gakkou_02,2
@@ -1078,7 +1078,7 @@ ld r,SHU_D2,80
 `"These are my feelings, right now."`@
 ld l,HIG_D9,80
 
-"「…………感情？」@
+;「…………感情？」@
 `"....Feelings?"`@
 ld r,SHU_D4,80
 
@@ -1228,7 +1228,7 @@ mld r,HIG_D9,22
 ;mld r,HIG_D1,80
 
 ;　だから。@彼のスケッチブックは、ページを捲るごとに様々な感情が、まるで玉手箱のように飛び出した。@
-`　So,`@` With each page you turned in his sketchbook, various emotions would jump out of it, like Pandora's box.`@
+`　So,`@` with each page you turned in his sketchbook, various emotions would jump out of it, like Pandora's box.`@
 ; ^^^ Note To Editor: Tamatebako - http://en.wikipedia.org/wiki/Tamatebako  Closest thing we have is pandora's box. Pascal suggested a jack-in-the-box, that could work too.
 br
 ;　それは、……私にとってあまりに斬新で新鮮な驚きだった……。\
@@ -1370,9 +1370,9 @@ bg aka3,1
 quake 7,800
 
 ;　引き裂き、食い千切り。@
-` Shred skin, devour flesh.`@
+` Shredded skin, devoured flesh.`@
 ;　ぶちまけ、引き抜き、噛み潰す。@
-`　Spew blood, remove guts, chew remains.`@
+`　Spewed blood, removed guts, chewed remains.`@
 br
 
 se3v 36,100
@@ -1667,7 +1667,7 @@ ld c,HIG_D8,80
 me1v 16,50
 
 ;　……踊る彼岸花と呼ばれるようになって、だいぶ久しく、………彼岸花は死を覚悟する。@
-`　...For the first time since she had starting being called the Dancing Higanbana.... Higanbana prepared herself for death.`@
+`　...For the first time since she had starting being called the Dancing Higanbana.... she prepared herself for death.`@
 br
 ;　ぞくりとした感触の滴りが、胸の内側をゆっくりと垂れ落ちるのを感じた。\
 `　She felt a slow dropping sensation within her chest.`\
@@ -1870,7 +1870,7 @@ ld l,SHU_D2,23
 ld l,SHU_D1,80
 
 ;「危なかったーという気持ちとか。@助かったーという気持ちとか。@……そういうものを、彼岸花さんは、もっともっと楽しんでいいと思うんだ。」@
-`"Like, 'oh wow, that was dangerous', `@`or 'I'm glad I got out of there alright'.`@` ...I think it'd be nice if you could enjoys those feelings much more."`@
+`"Like, 'oh wow, that was dangerous', `@`or 'I'm glad I got out of there alright'.`@` ...I think it'd be nice if you could enjoy those feelings much more."`@
 ld r,HIG_D10,80
 
 ;「………あの危機を、……楽しむ。」\
@@ -2005,7 +2005,7 @@ ld l,HIG_D10,80
 ld r,SHU_D1,80
 
 ;「楽しさの第一歩、かな。」@
-`"Well, that's the first step to having one, I guess."`@
+`"Well, that's the first step, I guess."`@
 ld l,HIG_D9,80
 
 ;「秋一は、もっと進んだ楽しさを見つけている…？」\
@@ -2092,7 +2092,7 @@ ld r,HIG_D9,80
 `"Anyone who isn't blind could tell that.`@` ...Why don't you run away?"`@
 ld l,SHU_D5,80
 
-「追ってくるよ。@どうせ逃げ切れないし、機嫌を損ねて、その分、打たれるだけさ。」\
+;「追ってくるよ。@どうせ逃げ切れないし、機嫌を損ねて、その分、打たれるだけさ。」\
 "They'd catch me. `@`Besides, if I ran I'd just make them angry and they'd beat me that much more."`\
 ld r,HIG_D10,80
 
@@ -2348,7 +2348,7 @@ me1v 5,50
 ;「……………どうして、庇ったの？」@
 `".......Why did you protect him?"`@
 ;「だって、……あんなの当たったら痛そうじゃない。」@
-`"Because... if that hit him it would have hurt."`@
+`"Because... if that hit him it looked like it would have hurt."`@
 ld c,HIG_D9,80
 
 ;「その痛そうなものをぶつけようとしたのは連中じゃないの？」\
@@ -2754,7 +2754,7 @@ bgm1 8
 ;「人間が存在しなければ、我ら妖怪も存在できないということだよ。」\
 `"If humans didn't exist, then we youkai wouldn't either."`\
 ;「……つまり、私たちは人間の一部だということ？」@
-`"...Meaning we're just another part of humanity??"`@
+`"...Meaning we're just another part of humanity?"`@
 ;「そう言ってもいいかもしれんね。@あるいは、我らは人間の影なのかもしれん。@人間が存在するからこそ、その影に我らが存在できるのだよ。」\
 `"You could say that. `@`Or maybe we are of the shadow of humanity. `@`That because humans exist, we are able to live in their shadows."`\
 bg okujou_01u,0
@@ -3389,7 +3389,7 @@ ld c,HIG_w5,80
 
 bgm1 20
 
-「ふ、ふっふふふふふふふ、くすくすくすくすくすくす……。」@
+;「ふ、ふっふふふふふふふ、くすくすくすくすくすくす……。」@
 `"Fu, fufufufufufufufu, teeheeheeheehee...."`@
 br
 ;　彼岸花は笑った。@初めて笑った。\
@@ -3737,7 +3737,7 @@ br
 ;　彼らの四肢には彼岸花の髪束が絡み付き、ベッドの上に吊るされるような形で立たされていた。@まるで操り人形のように。\
 `　They were hanging above the bed, their limbs strung up by her bundles of hair. `@`They looked like puppets.`\
 ;　両手両足首、そして首をぎりりと締め付けるそれに操られて、……ぺたぺたと、……踊り続けることを強要されているのだ。@
-`　Their wrists, ankles and necks were tightly bound... pit, pat, pit, pat... and they were being force to dance.`@
+`　Their wrists, ankles and necks were tightly bound... pit, pat, pit, pat... and they were being forced to dance.`@
 br
 ;　彼らは、虚ろな目で口からは泡を吹き、生きた操り人形に成り果てていた……。\
 `　They had soulless eyes, and were foaming at the mouths, having been reduced to living puppets...`\

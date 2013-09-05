@@ -588,7 +588,7 @@ bg rouka_03,0
 ld c,MAR_D4a,22
 
 ;「それにしても、……左右反転って結構、混乱するな…。@……よく知ってる学校のはずなのに、左右が逆になっただけで、すっごいわかりづらい……。」\
-`"By the way... this horizontal flip can mess you up pretty easily.`@` ...You might think you know the school pretty well, but as soon as it gets reversed on you, it can get really hard to understand..."`\
+`"Still... this horizontal flip can mess you up pretty easily.`@` ...You might think you know the school pretty well, but as soon as it gets reversed on you, it can get really hard to understand..."`\
 
 
 ;　目に見える物全てを、頭の中で左右反転して考え直す。@

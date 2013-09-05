@@ -453,7 +453,7 @@ ld c,KYO_D2,22
 `　Well, they seem to be having fun, so let's leave them be...`@
 br
 ;　どうせ、白昼夢の世界。@真面目に考えるだけ、ステューピッドを見るってもんだぜ。\
-`　At any rate, this is the world of daydreams. `@`If you think about things too seriously, it'll just seems <stupid>.`\
+`　At any rate, this is the world of daydreams. `@`If you think about things too seriously, it'll just seem <stupid>.`\
 ld c,KYO_D1,80
 
 ;　おや。@あっちにいるのは、アザミとスミレの姉妹じゃねぇか。\
@@ -533,7 +533,7 @@ se1 48
 quakey 1,100
 
 ;「そういうことじゃ、ズルいぞ由香里！！@　いじめの自由もあるはずなのじゃ！@　独裁暴力、反対なのじゃ！！@　いじめがなくなったら我らは飢えてしまうのじゃ！」\
-`"See, see! That's cheating Yukari!! `@`Bullying should be free! `@`Down with the violent dictatorship!! `@`With bullying we'll starve!"`\
+`"See, see! That's cheating Yukari!! `@`Bullying should be free! `@`Down with the violent dictatorship!! `@`Without bullying we'll starve!"`\
 ld r,AZA_D3,80
 
 ;「世の中、いじめから学ぶべきこともあると思います。@社会の毒に耐える力を付けるためにも、それを薄めたものに身を浸すこともまた、学習ではありませんか…？」\
@@ -552,7 +552,7 @@ ld r,YUK_I5,24
 ;ld r,YUK_I3,80
 
 ;「私のクラスでいじめがしたければッ。@この私の屍を乗り越えてもらいましょうか！」\
-`"If anyone in my class want to bully someone, `@`they'll be doing it over my dead body!"`\
+`"If anyone in my class wants to bully someone, `@`they'll be doing it over my dead body!"`\
 ld l,YOS_D10a,23
 
 ;「うぉぉ、榊がカッケェ…！@　榊がでっかく見える…！！@/
@@ -967,7 +967,7 @@ ld r,KYO_D6a,24
 ;ld r,KYO_D1,80
 
 ;「……お前、お菓子を持ってきてもらって、よくもそーゆうことを口走れるもんだな。」\
-`"...That's awfully mean to do to someone who just broke you a snack."`\
+`"...That's awfully mean to do to someone who just brought you a snack."`\
 ;＜キョウ
 
 mld c,HIG_w5,80

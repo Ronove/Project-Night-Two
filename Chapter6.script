@@ -1555,7 +1555,7 @@ ld r,YOS_D10n,80
 bgm1 14
 
 ;「……死ぬくらいなら、……むしろ俺が殺してやるッ。@…………でも、そんなことしたって、結局、逮捕されるだけ……。@そしてあいつらは逮捕された俺のことを、@おかしなヤツだったとか普段からキレるヤツだったとか、適当なことをしゃあしゃあと言いやがるに決まってるんだ……。@/
-`"...If I'm willing to go... then I'll kill instead.`@` ......But even if I do that, in the end I'll just end up getting arrested... `@`And if I do get arrested, those guys would just say I was always a strange guy, and was always snapping like that, and keep shamelessly giving excuses to take the blame off them...`@/
+`"...If I'm willing to die... then I'll kill instead.`@` ......But even if I do that, in the end I'll just end up getting arrested... `@`And if I do get arrested, those guys would just say I was always a strange guy, and was always snapping like that, and keep shamelessly giving excuses to take the blame off them...`@/
 ;ld c,YOS_D1,80
 ;ld r,YOS_D1,80
 
@@ -1664,7 +1664,7 @@ br
 ;bg akiti_2y,23
 
 ;　そこは一面にアザミの紫の花が咲く、アザミ畑のようだった……。@
-`　Throughout that field, the purple flowers of thistles bloomed. It was like garden made for thistles...`@
+`　Throughout that field, the purple flowers of azami, Japanese thistles, bloomed. It was like garden made for thistles...`@
 ; ^^^ Note To Editor: The word for thistle in Japanese is "azami" (アザミ). Azami is the name of the youkai that's going to be introduced in this chapter. This is probably going to need a glossary entry. I can make one once I'm done translating chapters. - Jorwil 
 br
 ;　正明はふと足を止める。@
@@ -1738,7 +1738,7 @@ br
 ld c,AZA_D2,80
 
 ;「ずっといじめられていた気の毒ないじめられっこが、@……クラス替えや夏休み明けに、人が変わったかのように豹変し、@いじめっこに生まれ変わることがあるいう。@………それは、復讐の力を宿らせる、魔法のアザミの仕業……。」\
-`"A pitiful child who was always being bullied.... `@`suddenly becomes a new person after changing classes or coming back from summer break, `@`and are born anew as a bully themselves.`@` ...That is the revenge granting power of a magical thistle..."`\
+`"A pitiful child who was always being bullied.... `@`suddenly becomes a new person after changing classes or coming back from summer break, `@`and are born anew as a bully themselves.`@` ...That is the revenge granting power of a magical azami. A magical thistle..."`\
 
 
 bg black,22
@@ -3079,7 +3079,7 @@ quakex 2,200
 
 ld c,YOS_D12,80
 
-'「何だよ、お前はよ！！@/
+;「何だよ、お前はよ！！@/
 `"Who do you think you are!?`@/
 bgm1 7
 ;　俺の親かよッ、先生かよッ？！@　俺はずっとあいつらに好き放題にされてきたんだ！@　だから今度は俺があいつらを好き放題にする！！@　それが因果応報だろ？！@　違うのかよ！@　それがなかったら、世の中ずっといじめ得じゃねぇかよ？！@　俺だっていじめは大嫌いだ！@　いじめっこは絶対に許せねぇ！！」\
@@ -3354,7 +3354,7 @@ ld l,YUK_i3a,23
 ;ld l,YUK_D1,80
 
 ;「何が遊んでるだけよっ。@どう見てもいじめじゃない！」\
-`"How is thing playing? `@`This is clearly bullying!"`\
+`"How is this playing? `@`This is clearly bullying!"`\
 
 
 ;ld l,YOS_D1,80
@@ -4990,7 +4990,7 @@ ld l,SMI_i1,80
 cl l,22
 br
 ;　アザミがびろーんとお餅のように、スミレの頬を抓って伸ばす。\
-`　Azami stretched out Sumire's cheeks liken two balls of mochi.`\
+`　Azami stretched out Sumire's cheeks like two balls of mochi.`\
 textoff
 fedexx 70,50,0,0,0,0,2000
 
@@ -5919,7 +5919,7 @@ mcbg 22
 quakey 3,500
 
 ;　由香里はもう一度、激しく教卓を蹴り転がした。@
-`　Once more, Yukari violently kicked over the teacher's desk.`@
+`　Once more, Yukari violently kicked the teacher's desk.`@
 bgm1 21
 ;　そして、ダンッと踏んで、……新たに君臨した、教室の暴君として宣言した。\
 `　And, she stepped up onto it... declaring her reign as the new tyrant of the classroom.`\

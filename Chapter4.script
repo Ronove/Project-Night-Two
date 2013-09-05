@@ -2346,7 +2346,7 @@ br
 ;「……あれだって、ただの噂でしょ？@　担任の先生もクラスメートの子たちも、いじめの事実はなかったと否定したはずよ。」@
 `"...Wasn't that just a rumor? `@`His homeroom teacher and fellow classmates all said that he wasn't being bullied."`@
 ;「ええ。@実際、いじめの証拠のようなものは何も見つからなかったそうですね。」\
-`"Yeah. `@`It's true that they never found any evidence that he was being bullies."`\
+`"Yeah. `@`It's true that they never found any evidence that he was being bullied."`\
 bg black,22
 
 ;「そうよ。@……学校内の誰一人として、裕貴くんがいじめられている姿を見た人間はいなかったんだから。」\
@@ -3814,7 +3814,7 @@ br
 `　..........`@
 br
 ;　私は何故、彼に名前を聞かなかったんだろう……？@
-`　Why did I ask him his name...?`@
+`　Why didn't I ask him his name...?`@
 ;　いくら、唐突に現れた上玉の獲物とは言え、@名前も聞かずにモデルを頼んでしまったりするだろうか。\
 `　How many times had she suddenly met such beautiful pray, `@`but hadn't asked their name before asking them to model?`\
 bg black,22
@@ -4582,7 +4582,7 @@ br
 ;　新谷のような、欲望の塊のような人間がいる一方で。@
 `　While, on one hand, there are humans with lust-filled souls like Shintani...`@
 ;　……時に、自分が妖怪であることさえ忘れさせてくれるような、……彼のような人間もいる。\
-`　...Sometimes there are humans that make use want to forget we are youkai... like him.`\
+`　...Sometimes there are humans that make us want to forget we are youkai... like him.`\
 ld c,RUN_D1,80
 
 ;「……面白いな。@人間は。」@
