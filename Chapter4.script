@@ -1058,7 +1058,7 @@ ld c,NAF_D1,80
 
 
 ;「あ、違うんです！@　……僕、その……絵が見たくなって。@この絵、好きなんです、僕。」@
-`"Ah, no. It's not that!`@` ...I just... wanted to see this painting. `@`I really like this one"`@
+`"Ah, no. It's not that!`@` ...I just... wanted to see this painting. `@`I really like this one."`@
 br
 ;　少年ははにかみながら壁を見た。\
 `　The boy shyly looked over at the wall.`\
@@ -1084,10 +1084,10 @@ ld r,NAF_D4,22
 ld r,NAF_D1,80
 
 ;「これ私も好きよ。@面白いわよね、騙し絵って。」@
-`"It like this one too. `@`Isn't it cool? It fools your eyes."`@
+`"I like this one too. `@`Isn't it cool? It fools your eyes."`@
 br
 ;　新谷の笑顔を見て、少年の白い頬がみるみるうちに紅潮し、薄いピンク色に染まる。@まるで小さな桜が咲いたようだった。\
-`　The boy looked at her smiling face and blushed, his cheeks turning a shade of light pink. `@`Almost as if a little cherry tree in full bloom.`\
+`　The boy looked at her smiling face and blushed, his cheeks turning a shade of light pink. `@`Almost as if they were little cherry trees in full bloom.`\
 
 ;　その可愛らしい反応を見て、新谷は心がざわつくのを感じた。@
 `　Seeing this reaction from him made Shintani's heart flutter.`@
@@ -1290,7 +1290,7 @@ ld c,NAF_D2,23
 ;ld r,NAF_D1,80
 
 ;「ふふふふふふ、みんな見る目がないのね。@私は好きだけどな、君の顔。」@
-`"Fufufufufu, none of them know true good looks. `@`I, on the other hand, like how your face looks"`@
+`"Fufufufufu, none of them know true good looks. `@`I, on the other hand, like how your face looks."`@
 br
 ;　少年が口を閉じた。@その頬がみるみる赤くなる。@
 `　The boy's mouth shut. `@`His cheeks turned red before her eyes.`@
@@ -1328,14 +1328,14 @@ ld c,NAF_D1,22
 ld c,NAF_D2,80
 
 ;「ええ、そうね。@私、水彩画よりも油彩画の方が好きなの。@あの、絵の具を上にどんどん重ねていく感じが好きで。@前は放課後に描いていたりしたんだけど。@……教頭先生にごちゃごちゃ言われたんで、やめちゃったわ。」\
-`"Yes, it is. `@`I enjoy doing oil paintings more watercolors. `@`I like being able to put layers of paint on top of each other. `@`I used to paint them after school... `@`but the vice principal started complaining about it, so I stopped."`\
+`"Yes, it is. `@`I enjoy doing oil paintings more than watercolors. `@`I like being able to put layers of paint on top of each other. `@`I used to paint them after school... `@`but the vice principal started complaining about it, so I stopped."`\
 
 ;「怒られたって……。@どうしてですか？」@
-`"Why... `@`did he get mad at you
+`"Why... `@`did he get mad at you?"`@
 ld c,NAF_D4a,80
 
 ;「油絵の具の匂いが教室に染み付いちゃうからって。@そもそもうちの学校の授業で油絵は教えてないのに、@自分の趣味のために美術室を私物化してもらっちゃ困るって、云々……。@本当、堅物なのよねあの人。@……自分だって私物を持ち込んでるくせに、ぶつぶつ。」\
-`"He complained that the smell of my oil paints would never air out of the room. `@`Besides, since I don't actually teach oil painting in my classes, `@`he said that I shouldn't use the art room for my own hobbies... `@`Really, he's such a stubborn person.`@` ...Even though he always brings in his own stuff to the staff room. *mumble mumble*`\
+`"He complained that the smell of my oil paints would never air out of the room. `@`Besides, since I don't actually teach oil painting in my classes, `@`he said that I shouldn't use the art room for my own hobbies... `@`Really, he's such a stubborn person.`@` ...Even though he always brings in his own stuff to the staff room. *mumble mumble*"`\
 
 ;「ぼ、……僕も、油絵の方が好きです。@……あ、もちろん、描くんじゃなくて見る方専門ですけど。」@
 `"I-... I like oil painting too.`@` ...Ah, I mean, I can't really do it, but I like looking at them."`@
@@ -1528,7 +1528,7 @@ bg kaiga_02,23
 `　...'The Setting Sun' by Yousuke Sakurazaka.`@
 br
 ;　新谷が聞いた話では、「挫折と再生」をテーマに絵を書き続けるこの桜坂と言う作者は、@昔この学校を卒業した生徒だったらしい。\
-`　Shintani heard that Sakurazka was a student that graduated from this school a long time ago. `@`Apparently the theme of 'failure and rebirth' was prevalent in many of his works.`\
+`　Shintani heard that Sakurazaka was a student that graduated from this school a long time ago. `@`Apparently the theme of 'failure and rebirth' was prevalent in many of his works.`\
 
 
 ;　若手画家として一躍注目を浴びるようになったのをきっかけに、@その転機ともなったこの作品を母校であるこの学校に寄付したそうだ。@
@@ -1736,7 +1736,7 @@ me2v 28,50
 ld r,NAF_D5,2
 
 ;　……あぁ……、この子ったら爪の形まで本当に綺麗…………。@
-`　...Ahh.... this kid. Even the shape of his fingernails were pretty......`@
+`　...Ahh.... this kid. Even the shape of his fingernails was pretty......`@
 br
 ;　新谷は、自らの眼差しで少年を舐め上げるが、……それに彼が気付く様子はない。\
 `　Shintani stared at the boy, tasting him with her eyes... and he didn't seem to notice.`\
@@ -1793,7 +1793,7 @@ bg black,22
 bg bijutu_03,22
 
 ;　そして何より、………その幻想に魅せられた男子生徒を、こうやって虜にすることができる……。\
-`　But above all.... she could make those boys her were enchanted by her illusion into her captives. Just like this....`\
+`　But above all.... she could make those boys who were enchanted by her illusion into her captives. Just like this....`\
 ;　教室の奥にある古びたソファーの上で、少年は無防備に寝息を立てていた。@
 `　In the back of the classroom, on an old sofa, there sat the boy, defenseless and asleep. Breathing softly.`@
 ;　……よほどのことがない限り、あと２、３時間は目が覚めないだろう。\
@@ -1846,7 +1846,7 @@ bg Different_spiral_1b,22
 ;　だが、その恋人達も、当然時間が経つにつれて大人になっていく。@
 `　But without fail each of her lovers would get older and become an adult.`@
 ;　子供のような感性をもった者も、@成長するにつれて、そんなものは最初からなかったかのように現実主義者になっていく。\
-`　Even if they childish and idealistic to start, `@`they would eventually grow past that and begin to look at the world from a more realistic point of view.`\
+`　Even if they were childish and idealistic to start, `@`they would eventually grow past that and begin to look at the world from a more realistic point of view.`\
 
 ;　それはさながら、美しい花々が、永遠にその姿を留めておくのは不可能であるかのよう。@
 `　And just like that, the beautiful little flowers she knew would cease to be that way ever again.`@
@@ -1854,7 +1854,7 @@ bg Different_spiral_1b,22
 `　No matter the flower, it would eventually wilt and fade away...`@
 br
 ;　だから。@……彼らの成長を知ると、途端に興味が失せてしまった。\
-`　So`@`.... just as they would inevitably grow up, she would inevitably lose interest in them`\
+`　So`@`.... just as they would inevitably grow up, she would inevitably lose interest in them.`\
 
 
 ;bg bijutu_07,26
@@ -1882,7 +1882,7 @@ br
 `　She wanted to make that single moment, `@`that brief instant called 'boyhood' and capture it for an eternity.`\
 
 ;　しかし、描いても描いても、納得できる絵にはならなかった。@
-`　But, no matter how much she drew, she just wasn't satisfied.
+`　But, no matter how much she drew, she just wasn't satisfied.`@
 br
 ;　やがて新谷は気が付く。\
 `　Until finally, she realized why.`\
@@ -2209,7 +2209,7 @@ br
 `　The girl peered into Shintani's eyes.`\
 ;ld l,NAF_D4a,80
 
-　ぞくりとする、……こちらの魂の奥底を覗き込んでくるような瞳だった。\
+;　ぞくりとする、……こちらの魂の奥底を覗き込んでくるような瞳だった。\
 `　Shintani shivered... it was as if her eyes were looking directly into her soul.`\
 ld c,RUN_D1,80
 
@@ -2342,7 +2342,7 @@ bgm1 18
 `　When they found Yuuki Noda's body in the art room, `@`they discovered a lot of scars that were made when he was still alive.`@
 br
 ;　裕貴の両親はクラス内でいじめがあったのではないか、と学校側を問い詰めた。\
-`　Yuuki's parents question the school on whether he may have been bullied by someone in his class.`\
+`　Yuuki's parents questioned the school on whether he may have been bullied by someone in his class.`\
 ;「……あれだって、ただの噂でしょ？@　担任の先生もクラスメートの子たちも、いじめの事実はなかったと否定したはずよ。」@
 `"...Wasn't that just a rumor? `@`His homeroom teacher and fellow classmates all said that he wasn't being bullied."`@
 ;「ええ。@実際、いじめの証拠のようなものは何も見つからなかったそうですね。」\
@@ -2359,7 +2359,7 @@ bg bijutu_01,22
 ;　女生徒はそこで言葉を区切ると、首だけ回して美術室の扉を見た。\
 `　The girl paused in the middle of her sentence and turned only her head to look over at the door to the art room.`\
 ;「ここみたいに、内側から鍵がかけられる特別教室とか……。」@
-`"A unique sort of classroom that can be looked from the inside, just like this one..."`@
+`"A unique sort of classroom that can be locked from the inside, just like this one..."`@
 br
 ;　新谷の前髪に隠れた額と握り込んだ掌から、嫌な汗がじわりと滲み出る……。\
 `　On her brow hidden beneath her bangs and in her clenched hands, Shintani started to sweat...`\
@@ -2626,12 +2626,12 @@ ld l,RUN_D7,22
 ld l,RUN_D3,80
 
 ;「私、不思議に思ったんですよ。@ほら、彼って随分と几帳面な性格だったじゃないですか。@いつも一番上のボタンまできちんと止めていたし。@……だから、もしかしたら、死んだ後に誰かが服を着せたのかもしれないなぁって……。」\
-`"I thought it was really odd. `@`After all, he seemed to have a really orderly personality. `@`He always buttoned them up to the very top button.`@` ...So, I was thinking, what is someone changed his clothes after death...."`\
+`"I thought it was really odd. `@`After all, he seemed to have a really orderly personality. `@`He always buttoned them up to the very top button.`@` ...So, I was thinking, what if someone changed his clothes after death...."`\
 ld r,NAF_D6a,24
 ld r,NAF_D7a,80
 
 ;「……バカバカしい。@何？@　彼は死んだ時、裸だったとでも言うの？」@
-`"...How absurd. `@`What? `@`Are you suggesting that was naked at the time of his death?"`@
+`"...How absurd. `@`What? `@`Are you suggesting that he was naked at the time of his death?"`@
 br
 ;　言いながら、新谷はあることに気づく。\
 `　As she spoke, Shintani noticed something.`\
@@ -3139,17 +3139,17 @@ br
 ;　スペイン内戦の最中、ナチスによって無差別空爆を受けた都市ゲルニカを描いた大作。\
 `　It's an epic work created during the Spanish civil war in response to the Nazi's indiscriminate bombing of the city of Guernica.`\
 ;　死んだ子を抱き泣き叫ぶ母親、天を仰いで絶望する女、狂ったようにいななく不気味な馬……。@
-`　There's a mother crying out in grief at the loss of her child, a woman staring up at the sky in despair, and a ghastly horse neighing out in mad confusion....`@
+`　There's a mother crying out in grief at the loss of her child, a woman staring up at the sky in despair, and a ghastly horse neighing in mad confusion....`@
 br
 ;　戦争の悲惨さを描いた力作だが、@そんな背景を理解できない一般生徒にとっては、奇怪で薄気味悪い抽象画でしかないだろう。\
-`　It's supposed to be masterpiece that tells of the horrors of war, `@`but unfortunately most of the students that see it don't know the context, so they just think it's a bizarre abstract painting.`\
+`　It's supposed to be a masterpiece that portrays the horrors of war, `@`but unfortunately most of the students who see it don't know the context, so they just think it's a bizarre abstract painting.`\
 ;「じゃあ、これは？@………『残酷の四段階』。」@
 `"Okay, and this one?`@`....`The Four Stages of Cruelty'."`@
 br
 ;　それは題名どおりの４枚の連続作品だ。\
 `　As the name suggests, it's a series of four prints.`\
 ;　残忍な性格の主人公の少年時代から末路までを描いたもので、@最後の１枚では、絞首刑で殺された後、@そのまま解剖学の授業に回されて腹を割かれるという、@ショッキングなもので締めくくられている。\
-`　They follow the life of a one cruel man from the time he was a boy up until his death. `@`And, as a shocking conclusion, `@`In the final print he has been hanged to death, `@`and his body is dissected during an anatomy class.`\
+`　They follow the life of one cruel man from the time he was a boy up until his death. `@`And, as a shocking conclusion, `@`in the final print he has been hanged to death, `@`and his body is being dissected in an anatomy class.`\
 bg black,22
 
 ;　残忍なる者には、残忍なる結末が待つ。@
@@ -3635,7 +3635,7 @@ br
 ld c,HIG_W6,80
 
 ;「へ……ぇ……。@……まさか、……堂々と答える……、なんてね………。」\
-`"O...h....`@` ...I didn't.... think.... you would answer.... so confidently......`\
+`"O...h....`@` ...I didn't.... think.... you would answer.... so confidently......"`\
 bg black,24
 bg bijutu_04,24
 mld c,NAF_D2,6
@@ -4162,7 +4162,7 @@ ld c,HIG_w3,22
 ;ld c,HIG_W4,80
 
 ;「…………だそうよ。@くすくすくす。」@
-`"......So she says. `@`Teeheehee"`@
+`"......So she says. `@`Teeheehee."`@
 ;＜彼岸花
 
 ld l,RUN_D2,80
@@ -4489,7 +4489,7 @@ ld r,RUN_D8,24
 ld r,RUN_D1,80
 
 ;「そうだね。@……美術室で不真面目をする悪い子には、@たまには少しお仕置きをしてあげるのもいいかもしれない。」@
-`"Yeah.`@` ...There are some bad kids that good around in the art room every once in a while. `@`It might be a good idea to give them a little punishment."`@
+`"Yeah.`@` ...There are some bad kids that goof around in the art room every once in a while. `@`It might be a good idea to give them a little punishment."`@
 ld l,HIG_W3,80
 
 ;「くすくすくす。@……じゃあね、ルノワール。@またいつか。@１３組のホームルームの時にでも。」\
@@ -4577,7 +4577,7 @@ ld c,RUN_D2,22
 ld c,RUN_D8,80
 
 ;「……そう言えば。@……彼岸花も、人間に興味を持ったことがあったって言ってたっけ。@………８位の子も、元は人間だそうだし。」@
-`:...That's right.`@` ...Higanbana said that she too once had interest in a human.`@` ...Apparently the Eighth Ranked girl used to be a human too."`@
+`"...That's right.`@` ...Higanbana said that she too once had interest in a human.`@` ...Apparently the Eighth Ranked girl used to be a human too."`@
 br
 ;　新谷のような、欲望の塊のような人間がいる一方で。@
 `　While, on one hand, there are humans with lust-filled souls like Shintani...`@

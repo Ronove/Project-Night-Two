@@ -618,7 +618,7 @@ bg engeki_01,22
 bgm1 1
 
 ;　部室に入ると、少女がひとり、熱心に稽古をしているところだった。@
-`　When she entered the room a girl was there, enthusiastically practicing all by herself.`@
+`　When she entered the room, a girl was there, enthusiastically practicing all by herself.`@
 br
 ;　毬枝は妖怪だから、望まなければ人間に姿を見られることはない。@
 `　Because Marie was a youkai, she could conceal herself from the eyes of humans if she so desired.`@
@@ -629,7 +629,7 @@ bg engeki_04,0
 ld c,MAR_W1,22
 
 ;　それにしても、誰もいない、放課後の教室でひとり、稽古をしているとは感心な子だ。@
-`　Anyway, it was impressive that a child was so diligent as to practice alone in a classroom after school`@
+`　Anyway, it was impressive that a child was so diligent as to practice alone in a classroom after school.`@
 br
 ;　……と思ったら、見覚えのある子だった。@
 `　...As she thought this, she realized that the girl looked somewhat familiar.`@

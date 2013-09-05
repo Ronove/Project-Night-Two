@@ -1664,7 +1664,7 @@ br
 ;bg akiti_2y,23
 
 ;　そこは一面にアザミの紫の花が咲く、アザミ畑のようだった……。@
-`　Throughout that field, the purple flowers of azami, Japanese thistles, bloomed. It was like garden made for thistles...`@
+`　Throughout that field, the purple flowers of azami, Japanese thistles, bloomed. It was like a garden made for thistles...`@
 ; ^^^ Note To Editor: The word for thistle in Japanese is "azami" (アザミ). Azami is the name of the youkai that's going to be introduced in this chapter. This is probably going to need a glossary entry. I can make one once I'm done translating chapters. - Jorwil 
 br
 ;　正明はふと足を止める。@
@@ -1738,7 +1738,7 @@ br
 ld c,AZA_D2,80
 
 ;「ずっといじめられていた気の毒ないじめられっこが、@……クラス替えや夏休み明けに、人が変わったかのように豹変し、@いじめっこに生まれ変わることがあるいう。@………それは、復讐の力を宿らせる、魔法のアザミの仕業……。」\
-`"A pitiful child who was always being bullied.... `@`suddenly becomes a new person after changing classes or coming back from summer break, `@`and are born anew as a bully themselves.`@` ...That is the revenge granting power of a magical azami. A magical thistle..."`\
+`"A pitiful child who was always being bullied.... `@`suddenly becomes a new person after changing classes or coming back from summer break, `@`and is born anew as a bully themselves.`@` ...That is the revenge-granting power of a magical azami. A magical thistle..."`\
 
 
 bg black,22
@@ -1769,15 +1769,15 @@ br
 
 
 ;　……その花を食べると。@
-`　...If that bullied child eats that flower,`@
+`　...If that bullied child eats that flower...`@
 br
 ;　いじめられっこは、それまでの悔しさの分、@より恐ろしいいじめっことして生まれ変われるという……。\
-`　The frustration they had felt up until then, `@`will be overtaken by anger and they will be born anew as a bully themselves...`\
+`　The frustration they had felt up until then, `@`will be overtaken by anger, and they will be born anew as a bully themselves...`\
 
 bg black,22
 
 ;　学校では、唐突に性格が変わった子がいると、@アザミでも食ったんじゃねぇ？　と囁く子がいるが、@それはこの「復讐のアザミ」のことなのだ……。\
-`　Whenever a kid shows up to school and their personality has done a complete 180, `@`you'll often hear some kids whispers between themselves, `@`'Did they eat a thistle?' `@`When they do, they're referring to this story of 'Azami the Vengeful'....`\
+`　Whenever a kid shows up to school and their personality has done a complete 180, `@`you'll often hear some kids whisper between themselves, `@`'Did they eat a thistle?' `@`When they do, they're referring to this story of 'Azami the Vengeful'....`\
 ;bg akiti_2y,22
 ;ld l,AZA_D1,0
 ;ld r,YOS_D1,22
@@ -1789,12 +1789,12 @@ ld c,AZA_D1,22
 ;ld l,AZA_D1,80
 
 ;「こんにちは、吉川正明くん。@妾の姿が見えますか……？」\
-`"Hello. Masaaki Yoshikawa-kun. `@`I assume you can see me...?"`\
+`"Hello, Masaaki Yoshikawa-kun. `@`I assume you can see me...?"`\
 
 ld r,YOS_D3a,80
 
 ;「………え、……ぁ、………はい……。」@
-`"....Oh-... uh.... Yes...."~@
+`"....Oh-... uh.... Yes...."`@
 br
 ;　その不思議な問いに、正明はすぐに理解する。@
 `　Masaaki instantly knew what she meant by asking such a strange question.`@
@@ -1803,7 +1803,7 @@ br
 
 
 ;　……自分は今、……この世ならざる何者かと話をしている……。@
-`　...Right now... he was speaking to a something not of this world....`@
+`　...Right now... he was speaking to something not of this world....`@
 ;　決して威圧されているわけではないのだが、その不思議な貫禄に、全身が竦むのを覚えた。\
 `　He was in no way intimidated by this encounter, but nevertheless, every muscle in his body tensed at her presence.`\
 cl c,0
@@ -1837,10 +1837,10 @@ mbg black,22
 
 
 ;　かつての正明なら、自分はいじめられていないと激高しただろう。@
-`　If someone had said that to him earlier, he probably would have gotten enraged and refused to accept the fact.`@
+`　If someone had said that to him earlier, he probably would have become enraged and refused to accept the fact.`@
 br
 ;　しかし今の彼は違う。@……自分がいじめられてきたことを、しっかり自覚している。\
-`　But he is different now.`@` ...He fully understood his own situation.`\
+`　But he is different now.`@` ...He fully understands his own situation.`\
 mcbg 22
 
 ;　……だから今日、彼女のような存在に出会えたに違いない。@……正明はそれを理解する。\
@@ -1876,7 +1876,7 @@ me1v 16,50
 `　Azami pointed to the thicket of purple flowers.`@
 br
 ;　……その中に、……魔法のアザミが混じっているのだろうか……。\
-`　...Somewhere in there... there was a magical thistle mixed in...`\
+`　...Somewhere in there, ...a magical thistle was mixed in...`\
 
 
 ;「よく目を凝らし、そして耳を澄まして、じっくりと探して御覧なさい。」@
@@ -1889,7 +1889,7 @@ br
 
 
 ;　……どれもこれも、ただのアザミに見える。@……特別なものが混じっているようには思えない。@
-`　Each and every one looked like just a normal thistle.`@` ...It didn't look like there were any special ones among them.`@
+`　Each and every one looked like just an ordinary thistle.`@` ...There didn't seem to be any special ones among them.`@
 br
 ;　いや、……そんなことはあるものか。\
 `　No... there must be one.`\
@@ -1946,13 +1946,13 @@ br
 
 
 ;　しかし、いじめ抜かれて心を暗くしてしまった、哀れな子には、@その心の暗闇ゆえに、そのわずかの光が、確かに見えるのだ……。\
-`　But to a miserable child, with a heart darkened by bullying, `@`this faint light is be clearly visible...`\
+`　But to a miserable child, with a heart darkened by bullying, `@`this faint light is clearly visible...`\
 
 
 ld r,YOS_D3a,22
 
 ;「………こ、……これ…………？」@
-`"....Is-... is it this.....?"`@
+`"....Is-... is this it.....?"`@
 ld l,AZA_D1,22
 ld l,AZA_D2,80
 
@@ -1978,7 +1978,7 @@ cl c,0
 ld l,AZA_D2,24
 
 ;「あなたがこれまで酷くいじめ抜かれたならいじめ抜かれたほど。@……その魔力は強まり、@あなたを、誰もが怯えるいじめっこに生まれ変わらせてくれるのです。」@
-`"Depending on exactly how bad you have been bullied up until now.`@` ...The strength of its magic will increase. `@`And it will remake you into a bully feared by all."`@
+`"Depending on exactly how bad you have been bullied up until now,`@` ...the strength of its magic will increase. `@`And it will remake you into a bully feared by all."`@
 ld r,YOS_D8a,80
 
 ;「も、もう、……誰にもいじめられなくなる……？」\
@@ -2032,7 +2032,7 @@ ld r,AZA_D2,22
 ld r,AZA_D1,80
 
 ;「世は常に因果応報であらねばなりません。@悪人には報いを。@善人には労いを。@……しかし、時代は変わりました。@今や学校では、いじめっこという悪人が、@何ら罰せられることなく青春を謳歌して卒業し。@いじめられっこという善人が、生涯癒せぬ傷を背負わされて、社会に放逐されていきます。@………それは、天の摂理に反することです。」\
-`"In this world there must always be retribution. `@`Punishment for those who are evil. `@`And reward to those who are good.`@` ...But the times have changed. `@`Now there are villains known as bullies attending school, `@`and they run free, doing what they want, and enjoying their youth right up until they graduate with no punishment whatsoever. `@`Meanwhile, good natured kids are thrown out into society with the trauma still holding the trauma caused by those bullies.`@` ...That goes against the laws of karma."`\
+`"In this world there must always be retribution. `@`Punishment for those who are evil. `@`And reward to those who are good.`@` ...But the times have changed. `@`Now there are villains known as bullies attending school, `@`and they run free, doing whatever they want, and enjoying their youth right up until they graduate with no punishment whatsoever. `@`Meanwhile, good-natured kids are thrown out into society still holding the trauma caused by those bullies.`@` ...That goes against the laws of karma."`\
 
 ld l,YOS_D3a,22
 ;ld l,YOS_D1,80
@@ -2058,7 +2058,7 @@ br
 bg azami2,22
 
 ;「いじめる者はいじめられることを知らねばなりません。@そして、いじめられる者はいじめることを知る権利があります。@昼があれば夜があるように、夏があれば冬があるように。@……あなたが生まれ変わることは、何もおかしいことではないのです。」\
-`"Those who bully must know should know what it's like to be bullied. `@`And those who are bullied have the right to know what it's like to be the bully. `@`Like night exists because there is day, like winter exists because there is summer.`@` ...It is not that odd for you to be born again."`\
+`"Those who bully should know what it's like to be bullied. `@`And those who are bullied have the right to know what it's like to be the bully. `@`Like night exists because there is day, like winter exists because there is summer.`@` ...It is not that odd for you to be born again."`\
 bg black,22
 bg akiti_2y,22
 ld r,YOS_D8a,22
@@ -2070,7 +2070,7 @@ me1v 5,50
 `"With this... I will... become a bully..."`@
 br
 ;　まだ実感はない。@しかし、胃の中の熱い何かは、紛れもなく本物だ。\
-`　It still didn't feel real too him. `@`But the warmth in his stomach was, without a doubt, the real thing.`\
+`　It still didn't feel real to him. `@`But the warmth in his stomach was, without a doubt, the real thing.`\
 
 ;bg black,1
 ;bg azami1,22
@@ -2081,7 +2081,7 @@ ld l,AZA_D2,22
 ;ld l,AZA_D1,80
 
 ;「その復讐の魔力は、明日、学校に行けば、すぐにも理解できるでしょう。@あなたの望むままにお生きなさい。@あなたは今日まで、何を望むことも許されなかったのですから。」@
-`"By the time you go to school tomorrow you will instantly realize its magical power of revenge. `@`Live as you wish to from now on. `@`Because you have not been able to do so until today."`@
+`"By the time you go to school tomorrow, you will revel in the magical power of revenge. `@`Live as you wish to from now on. `@`Because you have not been able to do so until today."`@
 ld r,YOS_D4,80
 
 ;「……あ、ありがとう……ございます……。」\
