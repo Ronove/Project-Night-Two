@@ -1234,7 +1234,7 @@ ld c,KYO_D5,80
 
 
 ;「……ルノは狩りをしなさ過ぎて、妖力がほとんど枯れちまったヤツだけどな。」\
-`"...Because Ren hardly hunts at all, her magical power has withered almost entirely."`\
+`"...Because Ren hardly hunts at all, their magical power has withered almost entirely."`\
 ;＜キョウ
 
 ld r,HIG_w3,22
