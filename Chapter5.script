@@ -80,13 +80,13 @@ bg black,22
 bg Different_spiral_1b,22
 
 ;　空想科学、とんでも科学。@
-`Science fiction, pseudoscience.`@
+`　Dream science, pseudoscience.`@
 br
 ;　ＳＦにオカルト、ファンタジー。@
 `　Sci-fi, occult, fantasy.`@
 br
 ;　ＵＦＯ、ネッシーにスカイフィッシュ。@とにかく不思議なものは何でもござれ。\
-`　UFOs, Nessie, skyfish.`@`Basically anything that was mysterious and caught their interest..`\
+`　UFOs, Nessie, skyfish.`@` Basically anything that was mysterious and caught their interest..`\
 ;　みちるは、霊や悪魔、魔法などのオカルトに精通し、@智子は、空想科学やとんでもＳＦに精通していた。\
 `　Michiru is an expert in ghosts, demons, magic and anything dealing with the occult.`@` While Tomoko is an expert in science fiction and fantasy.`\
 
@@ -130,7 +130,7 @@ bg black,22
 bg ie_04,22
 
 ;「智子ー！@　もうこんな時間よー！@　みちるちゃんにも帰ってもらいなさーい！！」@
-`"Tomoko!`@`It's getting late!`@` Let Michiru-chan go home!!"`@
+`"Tomoko!`@` It's getting late!`@` Let Michiru-chan go home!!"`@
 br
 ;　時計を見ると、午後７時も間近。@
 `　The clock said it was almost 7 pm.`@
@@ -271,7 +271,7 @@ bg ie_06,22
 `　Occasionally she'd come to....`@` but then she'd remember that her best friend had forever gone, and tears would creep down her face.`@
 br
 ;　……親友の面影を感じたくて、@二人で書き溜めてきた落書きノートを開くと、……また涙が零れた。\
-`　...When she wanted to remember the times they had spent together, `@`she would open the notebooks the wrote in... and tears would well up again.`\
+`　...When she wanted to remember the times they had spent together, `@`she would open the notebooks they wrote in... and tears would well up again.`\
 
 bg black,22
 bgm1 25
@@ -322,7 +322,7 @@ ld c,MIC_D5,2
 ;　そうして、数日ぶりに姿を見せたみちるは、@………まるで別人のように、暗く、塞ぎ込み、変わり果てていた。@
 `　When she did return, the Michiru that no one had seen for a few days... `@`looked like a different person. She was gloomier, constantly in low spirits, changed.`@
 ;　迂闊に話し掛けるべきでない気配をまとった彼女を、@クラス中の誰もが、腫れ物を扱うかのように接した。\
-`　Afraid of causing further damage by talking to her, `@`everyone in her class avoided her like she had the plague`\
+`　Afraid of causing further damage by talking to her, `@`everyone in her class avoided her like she had the plague.`\
 cl c,22
 
 ;　……しかし、考えてみれば、クラスのそういう扱いは、以前のそれと大きく差はない。@
@@ -590,7 +590,7 @@ bg black,22
 bgm1 26
 
 ;　……あぁ、自分は何をぼんやりとしていたのだろう。@
-`　...Ah, what am moping around about?`@
+`　...Ah, what am I moping around about?`@
 ;　私はオカルトの専門家じゃないか！@
 `　Aren't I an Occult specialist?!`@
 br
@@ -1531,7 +1531,7 @@ bg e005,6
 ;ld c,MIC_D1,22
 
 ;「……うむ、ご苦労であった。@やはり、ここにはかなり古い、よく練られた霊的エネルギーが集まっておるな。@……そなたの秘術に相応しい唯一の場所だ。」\
-`"...yes, you have done good work. `@`Yes, this really is an old building, the spirit energy has gathered here very well.`@` ...It's an appropriate place to perform your ritual."`\
+`"...Yes, you have done good work. `@`Yes, this really is an old building, the spirit energy has gathered here very well.`@` ...It's an appropriate place to perform your ritual."`\
 bg black,22
 bg okujou_01y,22
 ld r,MIC_D1,24
@@ -1859,7 +1859,7 @@ bg Air_03,22
 ;ld r,MIC_D1,80
 
 ;「うん。@……だから私が、死者蘇生の秘術を使ったの。@それで、智子ちゃんの魂は現世に帰ってこれたんだよ…！」\
-`"Yes.`@` ...That's why I performed a revival rite.` @`That way, your soul could come back to the mortal world...!"`\
+`"Yes.`@` ...That's why I performed a revival rite.`@` That way, your soul could come back to the mortal world...!"`\
 ;ld l,TOM_D1,80
 
 ;「………はー。@……さすがはオカルト専門家のみちるちゃんだねー。@……まさか本当に、私を蘇らせられるなんて……。」@
@@ -1989,7 +1989,7 @@ ld l,TOM_D5,80
 `"I don't want anything else than my own body. `@`Besides, it's not like there's any good reason for me to come back to life. `@`I hate studying, I hate school.`@/
 E_A
 ;……ついでに言うと、あんたも大嫌いだったし。」@
-` ....and I hate you most of all."`@
+` ....And I hate you most of all."`@
 br
 ;　その言葉に、みちるは絶句し、息を呑む。\
 `　At that, Michiru was gobsmacked, lost for words.`\
@@ -2002,7 +2002,7 @@ bgm1 22
 ld l,TOM_D2,80
 
 ;「嘘じゃないよ。@最初は面白い子かなーとか思ったけど。@……あんたほら、しつこいしー。@毎日毎日、私んとこ来ては入り浸ってさー。@かといって、あんたを邪険にすると呪われそーだしねー。@あんたと握手したら、手に不気味な痣とか浮かびそーだしー。」\
-`"I'm not. `@`True, in the beginning I thought you were a little interesting.`@` ...But you were so annoying... `@`Every day you'd hang around me, pestering me. `@`But it seemed like if I was mean to you, you would curse me. `@`If I were to shake your hand now, I'd probably a bunch of gross sores."`\
+`"I'm not. `@`True, in the beginning I thought you were a little interesting.`@` ...But you were so annoying... `@`Every day you'd hang around me, pestering me. `@`But it seemed like if I was mean to you, you would curse me. `@`If I were to shake your hand now, I'd probably contract a bunch of gross sores."`\
 
 
 ;　親友と、……信じていた智子の口から、……あっけらかんと溢れ出す、辛辣な言葉の数々に、@……みちるは目の前が真っ白になるのを感じた。\
@@ -2216,7 +2216,7 @@ bg k_rouka_01,22
 `　And she ran down the stairs. `@`She ran so fast she was almost jumping down them.`@
 br
 ;　昨日までの自分を置いてけぼりにするかのように、ひたすらに。\
-`　Running as if intent on leaving herself of yesterday behind.
+`　Running as if intent on leaving the Michiru of yesterday behind.`\
 bg black,22
 bg gakkou_07y,2
 
@@ -2280,7 +2280,7 @@ ld c,SAK_D2,80
 ld r,MAR_w1,80
 
 ;「誰も悪くないよ……。@みちるちゃんは、最後の最後まで、お友達のことを想ってたよ……。」\
-`"No one is to blame here....`@` You were thinking of your friend until they very, very end, Michiru-chan..."`\
+`"No one is to blame here....`@` You were thinking of your friend until the very, very end, Michiru-chan..."`\
 ;＜毬枝
 
 ld c,SAK_D3,80
