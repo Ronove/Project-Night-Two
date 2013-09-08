@@ -984,7 +984,7 @@ ld r,NAF_D4a,80
 `"...Is anyone in here?"`@
 br
 ;　指をスイッチに伸ばして電気を付ける。\
-`　She flipped the light switch and the lights came on.`\
+`　She flicked the light switch and the lights came on.`\
 bg white,1
 bg black,22
 bg bijutu_07,2
@@ -1054,7 +1054,7 @@ br
 ld c,NAF_D1,80
 
 ;「もしかして……、美術部の入部希望者？@　残念だけど今、美術部は休部中なの。@ほら、あんな事故があったばかりだから……。」\ 
-`"Could it be... that you want to join the art club? `@`Unfortunately, the art club isn't active right now. `@`Since that accident just happened so recently..."`\
+`"Could it be... that you want to join the art club? `@`Unfortunately, the art club isn't active right now. `@`Since that accident which just happened so recently..."`\
 
 
 ;「あ、違うんです！@　……僕、その……絵が見たくなって。@この絵、好きなんです、僕。」@
@@ -1070,16 +1070,16 @@ bg kaiga_01,23
 `　The walls in the art room were covered with famous works by artists like Picasso, Vermeer and Leonardo da Vinci.`@
 br
 ;　もちろん本物ではなく、画集などからカラーコピーしただけのものだったが、@装飾の入った高価そうな額に入れられているため、それなりに見栄えはする。\
-`　Naturally, they weren't the originals, just color copies made from a book of prints, `@`but by putting them in decorate picture frames, they managed to look rather impressive.`\
+`　Naturally, they weren't the originals, just color copies made from a book of prints, `@`but by putting them in decorative picture frames, they managed to look rather impressive.`\
 
 ;　彼が見ていたのはエッシャーの絵だった。@
-`　The one that the boy was looking at was a work by M.C. Escher.`@
+`　The one that the boy was looking at was a work by M. C. Escher.`@
 br
 ;　階段の一番上の段が別の階段の一番下の段になって循環し、@無限に階段を上り下り続ける人々が描かれている。\
 `　It was a drawing of a never-ending staircase in which the top step of one staircase became the bottom step of another. `@`On this staircase were a group of people, endlessly ascending and descending.`\
 
 ;　いわゆる不可能図形と言われる「ペンローズの三角形」や、@「悪魔のフォーク」などの応用で描かれた、目の錯覚を利用した有名な騙し絵だ。\
-`　It's a print that puts the so-called concept of impossible objects like the 'Penrose Triangle' `@`and 'Devil's Fork' to use, and is a famous optical illusion.`\
+`　It's a print that puts the so-called concept of impossible objects like the 'Penrose triangle' and 'devil's fork' to use,`@` and is a famous optical illusion.`\
 ld r,NAF_D4,22
 ld r,NAF_D1,80
 
@@ -1099,9 +1099,9 @@ bg black,23
 bg bijutu_06,23
 
 ;　チラリと窓の外を見ると、既に陽は傾きかけていた。@
-`　Glancing out the window, she saw that the sun was already setting.`@
+`　Glancing out of the window, she saw that the sun was already setting.`@
 ;　生徒たちはとっくに帰る時刻だ。@それにあの事故が起きてからは授業以外で美術室に来る人間は滅多にいない。\
-`　The students have long since gone home. `@`Furthermore, ever since the accident people seldom come to the art room for any reason other than class.`\
+`　The students have long since gone home. `@`Furthermore, ever since the accident, people seldom come to the art room for any reason other than class.`\
 bg black,22
 bg bijutu_02,22
 ;ld c,NAF_D5,22
@@ -1115,7 +1115,7 @@ ld c,NAF_D2,22
 ;「……ねぇ君、この後って時間ある？」@
 `"...Hey, can you spare some time?"`@
 ;「……え……？」\
-`"...Huh....?`\
+`"...Huh....?"`\
 
 
 ld c,NAF_D1,80
@@ -1135,11 +1135,11 @@ ld c,NAF_D3,80
 `"I've been wanting to do draw a picture with a boy like you as a model.`@` ...Would you mind helping me out?"`@
 br
 ;　胸の前で両手を合わせる。\
-`　She brought her hands together in front of her chest.`\
+`　She brought her hands together in front of her chest in an imploring manner.`\
 ; ^^^ Note To Editor: Japanese body language for 'please'. Should this line be left out?
 
 ;　彼は目を何度か瞬かせると、足元に視線を落としながら小さな声で言った。\
-`　He blinked a several times before dropping his eyes towards his feet and answering in a small voice.`\
+`　He blinked several times before dropping his eyes towards his feet and answering in a small voice.`\
 bg black,22
 
 ;「……本当に、僕なんかがモデルでいいんですか？」@
@@ -1170,18 +1170,18 @@ bg bijutu_03,22
 bgm1 8
 
 ;　美術室の中に、鉛筆でスケッチブックを擦るシャッシャッという音だけが響いていた。\
-`　Inside the art room only the sound of a pencil writing on a sketchbook page could be heard.`\
+`　Inside the art room, only the sound of a pencil drawing on a sketchbook page could be heard.`\
 
 ;　まだ部活動をしている子もいる時間だが、この美術室は校庭側に面していないため、子供達の声はほとんど聞こえてこない。@
 `　There were still kids participating in after school clubs, but because the art room doesn't face the schoolyard, their voices could barely be heard.`@
 ;　時折、階段を下りる足音だけが小さく響いてくるくらいだ。\
-`　And every once in a while the faint sound of someone walking down the stairs could be heard.`\
+`　And every once in a while, the faint sound of someone walking down the stairs could be heard.`\
 
 ld r,NAF_D4,22
 ;ld c,NAF_D1,80
 
 ;「……そんなに緊張しないでいいのよ？@　自然な表情が描きたいだけだから。」\
-`"...No need to be so tense, okay? `@`I want to make sure and capture your natural facial expression."`\
+`"...No need to be so tense, okay? `@`I want to make sure to capture your natural facial expression."`\
 
 ;　気持ちをほぐそうと、モデル用の椅子に座った少年に笑いかける。@
 `　She smiled at the young boy modeling on the chair, hoping it would ease him up a bit.`@
@@ -1237,15 +1237,15 @@ bg kaiga_01,22
 bg black,22
 
 ;　……ふふふふふ。@あの小うるさい教頭じゃあるまいし、そんなの隠さなくても別に怒ったりしないのに。@
-`　...Fufufufufu. `@`But she's not as fussy as the vice-principal, if this boy did do something like that and hide it, it's not like she'd be angry at him.`@
+`　...Fufufufufu. `@`But she's not as fussy as the vice-principal. If this boy did do something like that and hide it, it's not like she'd be angry at him.`@
 br
 ;　新谷がそれ以上問いつめずに絵に向き直ると、少年は心からホッとしたようだった。\
-`　When Shintani decided to drop the question and continue her drawing the boy looked relieved.`\
+`　When Shintani decided to drop the question and continue her drawing, the boy looked relieved.`\
 
 bg bijutu_04,22
 
 ;「あの……。@この絵って、コンクールか何かに出品したりとかしないですよね……？」\
-`"Um.... `@`Umm, you're not going to enter this drawing in a contest or anything like that, right...?"`\
+`"Um.... `@`Umm, you're not going to enter this drawing into a contest or anything like that, right...?"`\
 ld c,NAF_D4,22
 ld c,NAF_D2,80
 
@@ -1275,7 +1275,7 @@ br
 ld c,NAF_D1,80
 
 ;「そうなんだ。@……でも、君くらい可愛かったら、嫌でも目立っちゃうんじゃない？@　クラスの女の子たちが放っておかないでしょ？」\
-`"Really?`@` ...But, with how cute you are don't get a lot of attention anyway? `@`I bet the girls in your class won't leave you alone."`\
+`"Really?`@` ...But, with how cute you are, don't get a lot of attention anyway? `@`I bet the girls in your class won't leave you alone."`\
 
 ;「そんなことないですよ。@男のくせに女みたいだって、いつも馬鹿にされてますから。」@
 `"Not really. `@`Even though I'm a boy, I look like a girl, so I get made fun of a lot."`@
@@ -1283,7 +1283,7 @@ br
 ;　確かに。@少年の顔は下手な女の子よりもよっぽど可愛い。@
 `　That would make sense. `@`This boy's face is cuter than most girls out there.`@
 ;　女物の服でも着せて、ウィッグでも被せれば、男だと疑う者はまずいないだろう。\
-`　If he was wearing girl's clothes and a wig then very few people would even suspect him of being a male.`\
+`　If he were to wear girls' clothes and a wig, then very few people would even suspect him of being male.`\
 
 cl l,0
 ld c,NAF_D2,23
@@ -1307,7 +1307,7 @@ bg bijutu_07,22
 ;　このくらいの年齢の子供にとって、優しくて綺麗な先生という存在はとても大きい。@
 `　To children of this age, having a teacher as kind and pretty as her is a big deal.`@
 ;　ひと月に１回はラブレターをもらうし、@新谷と親しくなりたいがために美術部に入部しようとする生徒も少なくなかった。\
-`　In a month she'll usually receive at least one love letter, `@`and there were numerous cases of students entering the art club in hopes of getting closer to her.`\
+`　In a month she'd usually receive at least one love letter, `@`and there were numerous cases of students entering the art club in hopes of getting closer to her.`\
 
 ;　恥ずかしそうに新谷から視線を逸らしていた少年が、不意に口を開いた。\
 `　The embarrassed looking boy, still averting his eyes from Shintani, suddenly opened his mouth to say something.`\
@@ -1328,7 +1328,7 @@ ld c,NAF_D1,22
 ld c,NAF_D2,80
 
 ;「ええ、そうね。@私、水彩画よりも油彩画の方が好きなの。@あの、絵の具を上にどんどん重ねていく感じが好きで。@前は放課後に描いていたりしたんだけど。@……教頭先生にごちゃごちゃ言われたんで、やめちゃったわ。」\
-`"Yes, it is. `@`I enjoy doing oil paintings more than watercolors. `@`I like being able to put layers of paint on top of each other. `@`I used to paint them after school... `@`but the vice principal started complaining about it, so I stopped."`\
+`"Yes, it is. `@`I enjoy doing oil paintings more than watercolors. `@`I like being able to put layers of paint on top of each other. `@`I used to paint them after school... `@`but the vice-principal started complaining about it, so I stopped."`\
 
 ;「怒られたって……。@どうしてですか？」@
 `"Why... `@`did he get mad at you?"`@
@@ -1386,10 +1386,10 @@ ld r,NAF_D4a,22
 ;　焦らないで、じっくりと時間をかけなきゃ……。@
 `　I have to be patient and take my time...`@
 ;　そうしなきゃ私が本当に描きたいものは描けない。@最高の絵は完成しない。\
-`　If I don't I'll lose my chance to draw what I really want to draw. `@`I won't be able to draw my masterpiece.`\
+`　If I don't, I'll lose my chance to draw what I really want to draw. `@`I won't be able to draw my masterpiece.`\
 
 ;　……この子の信用を得るためには、二週間、いや、最低でも三週間は費やさないと。@
-`　...In order to earn this kid's trust I need to bide my time for two... no, at least three weeks.`@
+`　...In order to earn this kid's trust, I need to bide my time for two... no, at least three weeks.`@
 br
 ;　それに裕貴くんが死んでから、まだ一月も経ってない。@ほとぼりが冷めるのにもそのくらいは必要だろう………。\
 `　Besides, it hasn't even been one month since Yuuki-kun died. `@`She needed at least that long to calm down about that.....`\
@@ -1532,7 +1532,7 @@ br
 
 
 ;　若手画家として一躍注目を浴びるようになったのをきっかけに、@その転機ともなったこの作品を母校であるこの学校に寄付したそうだ。@
-`　When he was still a young he suddenly happened to hit it big. `@`When that happened he decided to donate this piece of art to the school he graduated from.`@
+`　When he was still young, he suddenly happened to hit it big. `@`When that happened he decided to donate this piece of art to the school he graduated from.`@
 br
 ;　そして、野田裕貴の死が“美術室のルノワール”の祟りだと噂になったのは、@そもそもこの絵こそが原因だった。\
 `　And this painting was originally what started that rumor. `@`The rumor that Yuuki Noda's death was the curse of 'Renoir of the Art Room'.`\
@@ -1608,7 +1608,7 @@ br
 ld l,NAF_D5,80
 
 ;　……きっと感受性の強い子なのだろう。@
-`　...He must have been a very sensitive kid.`@
+`　...He must be a very sensitive kid.`@
 ;　同じ学校の生徒とは言え、友達でもなかった少年の死を、彼は心から哀しんでいるように見えた。@
 `　Even though they weren't friends, just fellow students at the same school, it looked like he was genuinely grieving the boy's death from the bottom of his heart.`@
 br
@@ -1677,7 +1677,7 @@ me1v 16,50
 `"Huh?"`\
 
 ;　新谷にとっては、それはとてもさりげない言葉だった。@
-`　To Shintani it seemed like a very nonchalant question.`@
+`　To Shintani, it seemed like a very nonchalant question.`@
 ;　しかし、少年にとっては、……何だか場違いな、唐突な言葉のように思えた。\
 `　But to the boy... it seemed entirely out of place and sudden.`\
 
@@ -1692,13 +1692,13 @@ bg bijutu_05,23
 ;　新谷は少年の返事も聞かずに立ち上がり、教師用の机に向かう。@
 `　Without waiting for his answer, Shintani stood up and walked towards her desk.`@
 ;　その引き出しの中から湯沸かし用のケトルとティーカップを取り出した。\
-`　Out of the drawer she took out her tea kettle and cups.`\
+`　From the drawer she took out her tea kettle and cups.`\
 
 ;cl a,0
 ;bg bijutu_05,23
 
 ;　ケトルをコンセントに差し込むと、５分も待たずにお湯が沸く。@
-`　Once she plugged the kettle in to the power outlet, it would take less than five minutes to bring the water to a boil.`@
+`　Once she plugged the kettle into the power outlet, it would take less than five minutes to bring the water to a boil.`@
 br
 ;　……その間。@新谷にとっては、不思議な緊張感の沈黙で美術室内は張り詰めているように感じられた。@
 `　...In that time, `@`Shintani felt a strange feeling of tension in the silence of the art room.`@
@@ -1715,14 +1715,14 @@ bg black,22
 ;bg bijutu_03,0
 
 ;「……すごくいい匂いですね。」@
-`"...Doesn't it smell so nice?"`@
+`"...Doesn't it smell so nice?`@/
 ;ld r,NAF_D3,24
 
 ;「このハーブ、私がブレンドしたオリジナルなの。@すごくリラックスできるのよ。」\
-`"This tea is my original blend. `@`It'll really help you relax."`\
+` This tea is my original blend. `@`It'll really help you relax."`\
 
 ;　……すごく、という部分を無意識に強調してしまう。@
-`　...Unconsciously she put much more emphasis the world 'really' than she had meant to.`@
+`　...Subconsciously, she had put much more emphasis the world 'really' than she had meant to.`@
 ;　ティーカップの中は毒々しいまでの赤い色の液体で満たされている。\
 `　She poured a bright red, almost poisonous looking liquid into their cups.`\
 
@@ -1745,7 +1745,7 @@ br
 `"...Thank you for the tea."`@
 br
 ;　そう言うと彼は目の高さまでカップを持ち上げ、そっと口を付けた。\
-`　The boy said, as he rose the cup to eye level and gentle placed it up to his lips.`\
+`　The boy said, as he rose the cup to eye level and gently placed it up to his lips.`\
 ld r,NAF_D6a,22
 
 ;　………ゴクリ、……ゴクリ。@
@@ -1757,7 +1757,7 @@ br
 ;　飲み込むたびに微かに動く細い喉を見つめながら。@……新谷は心の中で「めしあがれ」と呟く。@
 `　Shintani watched the muscles in his little throat move as he swallowed his tea.`@` ...'Drink up' she thought to herself.`@
 ;　白雪姫に毒リンゴを食べさせる女王になった気分だった。\
-`　She felt like The Queen giving a poison apple to Snow White.`\
+`　She felt like the Queen giving a poisoned apple to Snow White.`\
 bg black,2
 
 fede 0,2000
@@ -1785,7 +1785,7 @@ br
 `　As stupid as she thought it was, Shintani still forced herself to maintain that illusion. `@`It was more beneficial that way after all.`\
 
 ;　可愛らしい笑顔で頼めば男性職員は当番を変わってくれたし、@ミスをして教頭に叱られていても、泣きそうな顔をすれば大抵、誰かが庇ってくれた。@
-`　If she put on a cute smiling face, at her behest she could make a male staff member switch watch duty shifts with her. `@`And if she was being scolded by the vice-principal, if she started to look like she was about to cry, she could usually make someone stand up for her.`@
+`　If she put on a cute smiling face, at her behest she could make a male staff member swap watch duty shifts with her. `@`And if she was being scolded by the vice-principal, if she acted like she was about to cry, she could usually make someone stand up for her.`@
 ;　あの井俣のようにあからさまな好意を抱かれるのだって悪い気はしなかった。@（かといって誘いに応じる気はなかったが……）\
 `　She didn't really mind the blatant moves made on her by men like Imata. `@`(But on the other hand, she had no intention of accepting their invitations either...)`\
 
@@ -1797,7 +1797,7 @@ bg bijutu_03,22
 ;　教室の奥にある古びたソファーの上で、少年は無防備に寝息を立てていた。@
 `　In the back of the classroom, on an old sofa, there sat the boy, defenseless and asleep. Breathing softly.`@
 ;　……よほどのことがない限り、あと２、３時間は目が覚めないだろう。\
-`　...If everything goes as expected, he should awake 2 or 3 hours after the medicine took effect.`\
+`　...If everything goes as expected, he should wake up two or three hours after the medicine took effect.`\
 
 ;bg black,0
 ;bg bijutu_05,0
@@ -1844,7 +1844,7 @@ mono 2
 bg Different_spiral_1b,22
 
 ;　だが、その恋人達も、当然時間が経つにつれて大人になっていく。@
-`　But without fail each of her lovers would get older and become an adult.`@
+`　But without fail, each of her lovers would get older and become an adult.`@
 ;　子供のような感性をもった者も、@成長するにつれて、そんなものは最初からなかったかのように現実主義者になっていく。\
 `　Even if they were childish and idealistic to start, `@`they would eventually grow past that and begin to look at the world from a more realistic point of view.`\
 
