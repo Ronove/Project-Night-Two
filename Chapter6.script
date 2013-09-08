@@ -2190,7 +2190,7 @@ ld c,SMI_i3a,80
 quakex 1,100
 
 ;　あいだだだだだだッだだだッ…！！」\
-` Ahh OWOWowowowOWowouch...!!"~\
+` Ahh OWOWowowowOWowouch...!!"`\
 ld c,SMI_i1,80
 
 se1 48
@@ -2255,7 +2255,7 @@ ld r,AZA_D3,80
 mld c,SMI_w6,80
 
 ;「さぁ、由香里よ…！@　我ら、アザミスミレ姉妹の巻き起こすいじめに、どう抗うか見せてみるがよいのじゃっ。@ふっふふふ、ひっひひひはっははははははははッ！！\
-`"Come, Yukari...! `@`Show us how you intend to stand up to the bullying caused by the sisters Azami and Sumire. `@`Ufufufu, Hihihihahahahaha!!`\
+`"Come, Yukari...! `@`Show us how you intend to stand up to the bullying caused by the sisters Azami and Sumire. `@`Ufufufu, hihihihahahahaha!!`\
 mcl c,0
 bg black,2
 
@@ -2291,7 +2291,7 @@ bg shoukou_03,22
 
 
 ;　……上履きを履く前に、その中を見る。@
-`　...Before putting on his indoor shoes he checked inside them.`@
+`　...Before putting on his indoor shoes, he checked inside them.`@
 br
 ;　やっぱり。@
 `　Just as he thought.`@
@@ -2336,7 +2336,7 @@ ld r,YOS_D1,22
 
 
 ;　教室にやって来ると、自分の席を取り囲んで、いつものいじめっこたちが、何かやっているのが見えた。\
-`　When he got to the classroom he say the normal group of bullies crowded around his desk doing something to it.`\
+`　When he got to the classroom, he saw the usual group of bullies crowded around his desk doing something to it.`\
 
 ;ld r,YOS_D1,80
 
@@ -2344,7 +2344,7 @@ ld r,YOS_D1,22
 `　...This sort of thing had happened before as well.`@
 br
 ;　その時、なぜか酷く気まずい気持ちになり、@彼らが悪戯を終えるまで、意味もなく廊下をうろついて時間を潰したこともあった。\
-`　Back then, for some reason, he would just start to feel really awkward, `@`and go aimlessly wander the halls and wait for them to finish their prank.`\
+`　Back then, for some reason, he would just start to feel really awkward, `@`and aimlessly wander the halls while waiting for them to finish their prank.`\
 
 ;ld r,YOS_D1,80
 
@@ -2352,7 +2352,7 @@ br
 `　But today was different.`@
 br
 ;　彼らがとても小さく見える。@……幼稚園に通うくらいの小さな子供に見えるのだ。\
-`　They looked small today.`@` ...Like tiny, little kindergarteners. 
+`　They looked small today.`@` ...Like tiny, little kindergarteners.`\
 ld r,YOS_D8a,80
 
 ;　そんな小さな悪ガキどもが、何か悪戯をしている。@ふざけやがって、叱り飛ばしてやる。@そんな感情で胸が満たされるのだ。@
@@ -2372,7 +2372,7 @@ E_A
 bgm1 28
 
 ;「何やってんだよ。@……俺の席で何やってんだよっ。」@
-`"Hey, what're you doing.`@` ...What're you doing to my desk."`@
+`"Hey, what're you doing?`@` ...What're you doing to my desk?!"`@
 ;quakey 1,300
 quakex 2,300
 
@@ -2383,7 +2383,7 @@ quakex 2,300
 ;　彼らは正明の低い怒声に、ぎょっとして振り返った。@
 `　The group of kids turned around with a fright at Masaaki's low, angry voice.`@
 ;　……小学生が軽い気持ちで悪戯をしたら、不良高校生が出てきたかのような、@ぎょっとした驚きを満面に浮かべていた。\
-`　...Surprised spread across their faces. `@`They looked like elementary schoolers do when their caught playing lighthearted mischief by a delinquent high schooler.`\
+`　...Surprise spread across their faces. `@`They looked like elementary schoolers caught playing lighthearted mischief by a delinquent high schooler.`\
 
 
 ;　見ると、彼らは鉛筆で、正明の机の上に、下品な落書きをしているところだった。@
@@ -2409,7 +2409,7 @@ br
 `　In a panic, they all grabbed erasers and started rubbing the scribbles away.`@ 
 br
 ;　彼らはそれを終えると、こそこそと逃げるように正明の席を離れる……。\
-`　Once they were finished they nearly sprinted away from Masaaki's desk...`\
+`　Once they were finished, they practically sprinted away from Masaaki's desk...`\
 ld c,YOS_D10,80
 
 ;「おい、待てよ。@まだここに残ってるじゃねぇかよ…！」@
@@ -2435,7 +2435,7 @@ quakey 2,300
 
 
 ;　正明は、彼らが去った後、ゆっくりと自分の席に座る。\
-`　After they left Masaaki leisurely pulled out his chair and sat down.`\
+`　After they left, Masaaki leisurely pulled out his chair and sat down.`\
 
 
 ;bg black,0
@@ -2474,7 +2474,7 @@ ld c,YOS_D7,22
 ;　気弱ないじめられっこのはずの吉川……くんが、今朝は何か一味違う……。@
 `　There was something off about the normally timid and bullied Yoshikawa-kun...`@
 ;　彼らはヒソヒソとそれを囁き合うが、正明に目が合うと、萎縮しながらそっぽを向く。@
-`　His classmates would whispers things like that back and forth between each other, but then Masaaki would make eye contact with them, and they turn around and shrink down.`@
+`　His classmates would whisper things like that back and forth between each other, but then Masaaki would make eye contact with them, and they turn around and shrink down.`@
 br
 ;　……正明の胸に不思議な気持ちが、じわりと湧き上がる。\
 `　...A strange feeling was gradually building up within Masaaki's mind.`\
@@ -2493,7 +2493,7 @@ br
 mbg black,22
 
 ;「どうです？@　……あなたがもはや、いじめられっこではないことが、わかったでしょう。」\
-`"How's it going?`@` ...You're not getting bullied anymore are you?"`\
+`"How's it going?`@` ...You're not getting bullied anymore, are you?"`\
 
 
 ;bg kyou_02,0
@@ -2527,13 +2527,13 @@ ld r,AZA_D5,80
 ld l,YOS_D8,80
 
 ;「……な、何て言うかその、……教室がすごく広く感じます。@……何か天井も高く感じる…。@……いやその、……世界が明るくさえ……。」\
-`"...It's kind of like, I don't know... like the classroom feels much bigger today.`@` ...Like the ceiling is higher up than usually...`@` ...No, it's more like... The world just feels brighter all of a sudden..."`\
+`"...It's kind of like, I don't know... like the classroom feels much bigger today.`@` ...Like the ceiling is higher up than usual...`@` ...No, it's more like... the world just feels brighter all of a sudden..."`\
 
 
 bg kyou_03,26
 
 ;　意識すればするほど、……昨日までと何も変わらないはずの教室の景色が違って感じられた。@
-`　Even though the classroom itself hasn't actually changed at all, the more he thinks about it... the more he feels like its changed.`@
+`　Even though the classroom itself hasn't actually changed at all, the more he thinks about it... the more he feels like it has changed.`@
 br
 ;　一言で言えば、……視野がものすごく広がったような感じ。\
 `　To put it simply... he feels like his outlook has significantly expanded.`\
@@ -2609,7 +2609,7 @@ ld l,YOS_D8a,80
 ld c,SMI_w2,80
 
 ;「それは、そなたの魂を彼らが食らっておったからなのじゃ。@食われたお前の世界は暗く狭くなり、@食っていた奴らの世界はこんなにも明るく清々しいのじゃ。@……面白いものであろうが、いじめというものはっ。」\
-`"That's because your soul was being devoured by them. `@`As your world was being eaten it became small and dark. `@`And their world was bright and refreshing.`@` ...Bullying is so interesting."`\
+`"That's because your soul was being devoured by them. `@`As your world was being eaten, it became small and dark. `@`And their world was bright and refreshing.`@` ...Bullying is so interesting."`\
 
 
 ;cl a,0
@@ -2628,7 +2628,7 @@ ld c,AZA_D1,22
 ld c,AZA_D2,80
 
 ;「あなたはこれまで暗い世界でいじめられた分を、取り返すのです。@そして彼らに、@これまでの上機嫌な世界が、どのような犠牲の上に成り立っていたかを思い知らせるのです。@それこそが、因果応報。@人の世の摂理を、今こそ示すのです。」\
-`"From now on, you will take back the world that was stolen from you. `@`And them, `@`you will make them pay for what they did at the expense of cheerful world. `@`That will be their punishment. `@`Here is where their karma will come into play."`\
+`"From now on, you will take back the world that was stolen from you. `@`And then, `@`you will make them pay for what they did at the expense of your cheerful world. `@`That will be their punishment. `@`Here is where their karma will come into play."`\
 cl c,22
 bg black,42
 
