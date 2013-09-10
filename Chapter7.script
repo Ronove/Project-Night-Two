@@ -66,7 +66,7 @@ br
 `　As a youkai, in order to live she must prey on the souls of humans.`@
 br
 ;　そして、その獲物を奪われないために、他の妖怪たちと戦うこと。\
-`　And so to make sure that her prey way not stolen from her, she fought against other youkai.`\
+`　And so to make sure that her prey was not stolen from her, she fought against other youkai.`\
 ;mcl r,0
 bg black,25
 ;bg white,1
@@ -135,7 +135,7 @@ ld l,IZA_D3,23
 ld r,SIN_D3,22
 
 ;「あなたもその中のひとりだったわけですがねぇ。」@
-`"You were on of them too, you know?"`@
+`"You were one of them too, you know?"`@
 ;＜紅茶
 
 ld l,IZA_D7,80
@@ -313,7 +313,7 @@ ld r,IZA_D3,24
 ;ld r,IZA_D1,80
 
 ;「……だなァ。@アレでもあいつ、だいぶ丸くなったんだぜ。」\
-`"...Right. `@`In a way, she's mellowed out a lot since them, ya know?"`\
+`"...Right. `@`In a way, she's mellowed out a lot since then, ya know?"`\
 ;＜イザナミ
 
 bg black,23
@@ -351,7 +351,7 @@ ld r,SIN_D1,24
 ld r,SIN_D2,80
 
 ;「くっくっく。@まぁ、気にしないことです。@子供たちも成長し、やがて大人になるように。@私たち妖怪とて、月日と共に変化することを避けられぬのですから。」\
-`"Kukuku. `@`Well, it's nothing to worry about. `@`Just like how children grow up and become adults, `@`it's inevitable that as youkai we too will changed with time."`\ 
+`"Kukuku. `@`Well, it's nothing to worry about. `@`Just like how children grow up and become adults, `@`it's inevitable that as youkai we too will change with time."`\ 
 ;＜紅茶
 
 ld c,IZA_D4,22
@@ -442,9 +442,9 @@ ld r,RUN_D5,23
 `　...The rest of the youkai took advantage of her absence and talked amongst themselves about the tale of Higanbana, a subject that Marie was very interested in.`\
 
 ;　自分のことを、誰よりも残酷なと吹聴する彼岸花。@
-`　Higanbana would always boast how she was cruelest youkai of them all.`@
+`　Higanbana would always boast about how she was the cruelest youkai of them all.`@
 ;　しかし毬枝は、自称するほど残酷な人ではないと感じていた。@
-`　But Marie didn't think she was quite a cruel as she would have everyone believe.`@
+`　But Marie didn't think she was quite as cruel as she would have everyone believe.`@
 ;（気紛れで天邪鬼な、実に面倒臭い性格である点はもちろん譲れないのだが）\
 `(Of course, this did not excuse the fact that Higanbana was at times capricious, rebellious and altogether difficult to deal with.)`\
 bg black,22
@@ -528,7 +528,7 @@ br
 ;ld l,SH2_D3,80
 
 ;「……………この場所が、どんな光景かはよく覚えているよ。@僕にとってここは、思い出深い場所だからね。@……この学校がどんな光景なのか、今も瞼の裏に焼き付いているよ。」@
-`"........I remember this scene well. `@`It's a place filled with memories for me.`@` ...This image of this school is still burned into my retinas"`@
+`"........I remember this scene well. `@`It's a place filled with memories for me.`@` ...This image of the school is still burned into my retinas."`@
 ;＜大人秋一
 
 ld r,NON_D2,80
@@ -647,7 +647,7 @@ br
 ;　子供たちは学校から逃げない。@
 `　The children couldn't escape from the school.`@
 ;　ならば、先に喰らうべきは子供たちじゃない。@邪魔になる他の妖怪たちだ。@
-`　So eaten them could wait. `@`Instead, the first to get eaten were the youkai who impeded the progress of others.`@
+`　So eating them could wait. `@`Instead, the first to get eaten were the youkai who impeded the progress of others.`@
 br
 ;　人ならざる者にしか見ることの出来ぬ、@……弱肉強食の、恐ろしい生存競争が、学校中で繰り広げられていた。\
 `　A struggle for survival of the fittest spread out across the entire school.`@` ...A battle whose only witnesses were those unearthly beings.`\
@@ -1096,7 +1096,7 @@ ld l,HIG_D10,80
 ld r,SHU_D1,80
 
 ;「嫌な感情は、こうしてスケッチブックに吐き出して閉じ込めるんだ。@……絵になれば、それはもうただの感情じゃない。@今日、僕が確かに経験した、生きた証になるんだよ。」\
-`"I'm putting all my negative emotions into this sketchbook and looking them away.`@` ...When I make my them into pictures, they're no longer just emotions. `@`They're proof of what happened to me today."`\
+`"I'm putting all my negative emotions into this sketchbook and locking them away.`@` ...When I transform them into pictures, they're no longer just emotions. `@`They're proof of what happened to me today."`\
 ld l,HIG_D9,80
 
 ;「…………………？」\
@@ -1391,7 +1391,7 @@ me1v 16,50
 bg hoken_04,22
 
 ;　人ならざる者たちにとって、……保健室は、異形の屍で埋め尽くされていた。@
-`　As an non-human would see it... the infirmary was filled with grotesque corpses.`@
+`　As a non-human would see it... the infirmary was filled with grotesque corpses.`@
 br
 ;　その、内臓と血しぶきのべっとりとした部屋の中でも、……彼岸花にそれが赤く見えることはない。@
 `　But even this room splattered with blood and innards... didn't look red to Higanbana.`@
@@ -2093,7 +2093,7 @@ ld r,HIG_D9,80
 ld l,SHU_D5,80
 
 ;「追ってくるよ。@どうせ逃げ切れないし、機嫌を損ねて、その分、打たれるだけさ。」\
-"They'd catch me. `@`Besides, if I ran I'd just make them angry and they'd beat me that much more."`\
+`"They'd catch me. `@`Besides, if I ran I'd just make them angry and they'd beat me that much more."`\
 ld r,HIG_D10,80
 
 ;「……達観してんのね。@いじめられるのが苦じゃないの？」@
@@ -2183,7 +2183,7 @@ fede 1,1000
 E_B
 
 ;「………な、……何だ……。」@
-`:....W-... What the...."`@
+`"....W-... What the...."`@
 ;「バーカ、お前どこ投げてんだよー。」@
 `"Haha, you idiot, where were you aiming?"`@
 ;「いや、今、石が勝手に………。」@
@@ -2241,7 +2241,7 @@ br
 ;　少年の身体を抱えるようにして、地面に倒れ込む。@
 `　He wrapped his arms around the boy and tackled him to the ground.`@
 ;　狙いの逸れた石は地面に激突し、ガッという大きな音と共に粉々に砕け散った。\
-`　Missing its target, the stone hit the smashed into the ground and broke into tiny pieces.`\
+`　Missing its target, the stone smashed into the ground and broke into tiny pieces.`\
 fede 0,1000
 E_A
 
@@ -2520,7 +2520,7 @@ cl c,0
 ld l,SHU_D3,24
 
 ;「その怒りの感情の底には。@……僕のことを助けたいって感情があったんだよね。@それが、僕には見えてた。@それが嬉しかった。@……だから、ちょっといじめられかけたけれど、全然辛くなかったんだよ。」\
-`"At the root of the feeling of anger,`@` ...was a desire to help me, right? `@`I could see that. `@`It makes me happy.`@` ...So, even though I bullied a little bit, it wasn't painful at all."`\
+`"At the root of the feeling of anger,`@` ...was a desire to help me, right? `@`I could see that. `@`It makes me happy.`@` ...So, even though I was bullied a little bit, it wasn't painful at all."`\
 ld r,HIG_D10,80
 
 ;「………………………………。」\
@@ -2577,12 +2577,12 @@ br
 ld r,SMI_D6,80
 
 ;「どうだったみんな？@　今日も玲子の仕返ししてくれた？」@
-`"How did it go? `@`Did you guys get revenge for me, Reiko, today?"`@
+`"How did it go? `@`Did you guys get revenge for me -- Reiko -- today?"`@
 ; ^^^ Note To Editor: Sumire seems to speak in third-person when she's disguised as Reiko. I'll normally change it to first-perosn "I" or "me", but it's a little important to keep her name in this first dialogue in some way. -Jorwil
 ;＜スミレ私服
 br
 ;　清澄玲子と名乗る彼女の正体は、……夕闇のスミレ。@
-`　The true identity of this girl named Reiko Oosumi... is Sumire of the Twilight`@
+`　The true identity of this girl named Reiko Oosumi... is Sumire of the Twilight.`@
 ;　彼女は秋一のクラスに入り込んでいたのだ。\
 `　She had infiltrated Shuuichi's class.`\
 ;「もちろんだよ、玲子ちゃん。@……なぁ？」@
@@ -3094,7 +3094,7 @@ br
 ;「何だよ、救急車かよ。@霊柩車が来ればいいのに！」@
 `"What, just an ambulance? `@`A hearse would have been better!"`@
 ;「病院で死ねばいいのによ。@ぷーっくっくっくっく！！」@
-`"Maybe he'll die in the hospital. `@`Heheheheheh"`@
+`"Maybe he'll die in the hospital. `@`Heheheheheh!!"`@
 ;「正義の鉄槌、思い知りやがれ！@　げらげらげら！！」@
 `"We brought down the iron hammer of justice upon him! `@`Hahahah!!"`@
 ;「俺たちがやったなんて、誰も見てねぇし！」@
@@ -3171,7 +3171,7 @@ mbg black,22
 ;「………………………。」\
 `".............."`\
 ;　多少は嫌味のつもりで言った。@でも、いつもの秋一なら、あっけらかんと言い返してくれるはず。@……それを期待していた。@
-`　I was being somewhat sarcastic. `@`Usually Shuuichi would shrug it off and laugh a little.`@` ...I waited for his usual response."`@
+`　I was being somewhat sarcastic. `@`Usually Shuuichi would shrug it off and laugh a little.`@` ...I waited for his usual response.`@
 br
 ;　しかし、秋一は何も答えない。\
 `　But he didn't answer at all.`\
@@ -3187,7 +3187,7 @@ ld r,HIG_D8,22
 ;「……死ぬわけじゃないでしょ。@しばらくは寝込むんだろうけど、どうせ数か月もしたら元通りよ。」\
 `"...It's not like you're going to die. `@`You'll have to take it easy for a while, but in a few months you'll be back to normal."`\
 ;「………………………。@……元通りには、ならないみたい。」@
-`"............`@` ...They said, they'll ever be back to normal."`@
+`"............`@` ...They said, they'll never be back to normal."`@
 ld r,HIG_D9,80
 
 ;「何が…？」@
@@ -3235,7 +3235,7 @@ ld c,HIG_D10,80
 ;「……両腕がなくなったわけじゃないでしょう？@　スケッチブックを広げて、鉛筆を握ることのできる腕は、ちゃんとあんたに付いているわ。」\
 `"...It's not like you lost your arms, right? `@`You can still open your sketchbook and hold a pencil."`\
 ;「でも、もう見えないんだ。@見ることが出来ないんだ。@………無数の感情を通して、……万華鏡のように千変万化する景色を、見られないんだ……。@それを、絵を通して誰かに見せることも出来ない。@…………もう僕は、……画家にはなれないんだ…………。」\
-"But I can't see anymore. `@`I'm blind.`@` ......I can no longer see... the scenery constantly changing through countless emotions, like a kaleidoscope... `@`I can't show people what I see through drawing anymore.`@` .....I can... no longer become an artist......"`\
+`"But I can't see anymore. `@`I'm blind.`@` ......I can no longer see... the scenery constantly changing through countless emotions, like a kaleidoscope... `@`I can't show people what I see through drawing anymore.`@` .....I can... no longer become an artist......"`\
 bg black,8
 
 ;　秋一の辛い記憶が、隠されることなく心から漏れ出ている。\
@@ -3338,7 +3338,7 @@ br
 ;　ならば、闇夜に生きるに相応しい者が、闇夜を支配しなくてはならない。@
 `　And those who deserved to live in the dark of night, must also govern it.`@
 ;　人間如きが、その領分を誤ることがないように。\
-`　So that those who are human never make the mistake of entering the dark.
+`　So that those who are human never make the mistake of entering the dark.`\
 bg black,22
 bg byouin_01,22
 
@@ -3431,7 +3431,7 @@ ld c,HIG_w5,80
 
 
 ;「夜の学校は私たちのもの！！@　人間たちの誰にも、立ち入らせたりするものか！！@　神聖なる夜を侵す愚かなる者どもに鉄槌を！@　あぁ、夜の闇をさらにさらに暗く染めることこそ、/
-"The school is ours at night!! `@`No human must ever trespass on our domain!! `@`We will judge those foolish enough to invade our sacred night! `@`We will dye the night even darker,`/
+`"The school is ours at night!! `@`No human must ever trespass on our domain!! `@`We will judge those foolish enough to invade our sacred night! `@`We will dye the night even darker,`/
 se1v 84,100
 
 ;私たちの役目なのだから…！！」\
@@ -3583,7 +3583,7 @@ br
 ;　ベッドに横たわる少年を、見下ろすような形で覗き込む……。\
 `　A figure, peering down on him as he lied on the bed...`\
 ;　それは長い黒髪の美しい、可憐な少女に見えた。@
-`　It looked like a pretty girl, with beautifully long, black hair`@
+`　It looked like a pretty girl, with beautifully long, black hair.`@
 br
 ;　ぞっとするほどの白い肌と、それとは対照的な漆黒の髪。@赤い唇は蠱惑的に輝き、見惚れてしまうほどに美しかった。\
 `　Her chillingly white skin contrasted with her jet black hair. `@`Her red lips shone alluringly. She was so beautiful it was captivating.`\
@@ -3825,7 +3825,7 @@ br
 `　These are what you call emotions. `@`This is what you call proof of living.`@
 br
 ;　あなたのお陰で、私はやっと、生きることが出来たわ。\
-`　Thanks to you, I can finally live .`\
+`　Thanks to you, I can finally live.`\
 bg black,22
 mono 0
 
