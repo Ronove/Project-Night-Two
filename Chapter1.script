@@ -1234,21 +1234,21 @@ ld c,KYO_D5,80
 
 
 ;「……ルノは狩りをしなさ過ぎて、妖力がほとんど枯れちまったヤツだけどな。」\
-`"...Because Ren hardly hunts at all, their magical power has withered almost entirely."`\
+`"...Not having hunted in a while, Ren's magical power has withered almost entirely."`\
 ;＜キョウ
 
 ld r,HIG_w3,22
 
 ;「元々、九十九神だからね。@ただ眠っているだけでも、本来の妖力は侮れないわ。」\
-`"Renoir was originally a Tsukumogami.`@` Y'know, like a spirit that inhabits objects, making them come alive on their 100th birthday.`@` Even though Renoir's just sleeping, their current powers are nothing to laugh at."`\
+`"Renoir was originally a Tsukumogami.`@` Y'know, like a spirit that inhabits objects, making them come alive on their 100th birthday.`@` Despite just sleeping, Renoir's current powers are nothing to laugh at."`\
 ;＜彼岸花
 
 ;　第７位のスミレは、いじめを撒き散らし、積極的な狩りをしていた。@
 `　Sumire the Seventh Ranked spread bullying and performed extremely proactive hunting.`@
 ;　にもかかわらず、このルノワールという妖怪は、ほとんど狩りをしないのに、序列はそれより高い。@
-`　Nevertheless, even though this youkai called Renoir barely hunted at all, even though Renoir was higher ranked.`@
+`　Nevertheless, even without hunting much, this youkai called Renoir was higher ranked.`@
 ;　だとするなら、元々、相当の大きな力を持つ妖怪に違いあるまい。\
-`　Since that's the case, in the past they must have been a youkai with a great amount of power befitting their rank.`\
+`　Since that's the case, Renoir must have been a youkai with a great amount of power in the past, befitting of one's rank.`\
 
 ld l,ma2_w1,22
 
