@@ -71,7 +71,7 @@ ld l,KAN_d3,23
 ld l,KAN_w1,80
 
 ;「ほぉう。@美少年ばかり何人も狙って！@　無垢な肉体を剥き剥きして、おにんにんばかり写生していた美術教師が言うじゃないかね。」\
-`"Ohhh? `@`Says the one who's targeted so many little boys!? `@`The art teacher who stripped they're innocent bodies and drew their pee-pees?"`\
+`"Ohhh? `@`Says the one who has targeted so many little boys?! `@`The art teacher who stripped their innocent bodies and drew their pee-pees?"`\
 ld r,NAF_D7a,80
 quakex 1,100
 
@@ -175,15 +175,15 @@ ld r,NOD_D2,24
 `　So this time he's modeling for Shuuichi, huh?`@`
 br
 ;　良かったな、今回は服を脱がずにモデルをさせてもらえてるようだぜ。\
-`　Good thing he's keeping his clothes of this time.`\
+`　Good thing he's keeping his clothes on this time.`\
 ld l,SHU_D4,80
 
 ;「君の姿を、見たままに描いたら写真でしかない。@だから僕は、君の姿を通して、感情を描くんだよ。」@
-`"If I draw you exactly the way you look, then It'd be the same as pulling out a camera and taking a picture. `@`So I draw the way you look based on my emotions."`@`
+`"If I draw you exactly the way you look, then it'd be the same as pulling out a camera and taking a picture. `@`So I draw the way you look based on my emotions."`@`
 ld r,NOD_D1,80
 
 ;「そう言えば、新谷先生もそんなことを言っていたなぁ……。」\
-`"Now you mention it, Shintani-sensei said something similar..."`\
+`"Now that you mention it, Shintani-sensei said something similar..."`\
 bg black,22
 bg kaiga_02,22
 
@@ -247,7 +247,7 @@ bgm1 2
 ld l,YO2_D1,23
 
 ;「えー。@心霊写真なんて、ほとんどはインチキなんでしょう…？」\
-`"What? `@`So most spirit photos fake?"`\
+`"What? `@`So most spirit photos are fake?"`\
 ;＜沼田陽子
 
 bg black,23
@@ -603,7 +603,7 @@ bg rouka_02,0
 ld c,KYO_D2,22
 
 ;　……あのくらいの歳の頃って、女子の方が背が高いし力も強いからな。@
-`　...When they're around that age girl's tend to be taller and stronger anyway.`@
+`　...When they're around that age, girls tend to be taller and stronger anyway.`@
 br
 ;　まぁ、クソガキどもは、女のヒップに敷かれてるくらいが、クラスは平和でいいだろう。\
 `　Well, maybe it's a good thing for those brats to be forced to behave by the whip of a girl.`\
@@ -763,7 +763,7 @@ br
 ld c,KYO_D5,80
 
 ;　我らが教頭センセは、どちらにいらっしゃるんだ……。\
-`　Let's head to wear the VP is...`\
+`　Let's head to where the VP is...`\
 se1 56
 bg white,0
 print 99,2000,"trvswave.dll/"
@@ -801,7 +801,7 @@ ld c,AYA_D10,24
 quakex 1,100
 
 ;「は、はいッ。@毎日毎日、頭が空っぽになるまで走って、倒れるように眠ると気持ちいいですっ。@夢なんか見ないでぐっすりです！」\
-`"Y-Yes. `@`It's feels really good to clear your mind and just run every single day until you can come home and collapse into bed. `@`You'll sleep too soundly to dream!"`\
+`"Y-yes. `@`It feels really good to clear your mind and just run every single day until you can come home and collapse into bed. `@`You'll sleep too soundly to dream!"`\
 bg white,23
 bg engeki_01,0
 ld r,SIN_d1,23
@@ -1008,7 +1008,7 @@ mcl c,24
 ld r,KYO_D2,80
 
 ;「…………あの彼岸花も、ずいぶん変わったもんだな……。@いやいや、これもひょっとして、どこぞの白昼夢の中なのか？@　やれやれ、俺様はお邪魔みてぇだぜ。」\
-`".....Higanbana's changed pretty significantly... `@`Or maybe this is just another daydream? `@`Oh man, looks like I'm interfering"`\
+`".....Higanbana has changed pretty significantly... `@`Or maybe this is just another daydream? `@`Oh man, looks like I'm interfering."`\
 *da
 mcl c,0
 bg white,22
