@@ -1102,7 +1102,7 @@ me1v 28,50
 ;「そんな非科学的なもの、あるわけないじゃない。@……霊現象も怪現象も全て、解明を放棄したことへの言い訳でしょ。」@
 `"Nothing that unscientific could possibly exist.`@` ...You all just gave up on trying to explain it and immediately started making excuses that it had to be a mysterious or supernatural phenomenon, didn't you?"`@
 ;「そ、それじゃあ、どう説明すんのよ！！@　私たちが見た現象はどう説明すんのよ！！」\
-`"Well then, how do you explain it!!?`@` How do you explain the phenomenon we experienced?!!"`\
+`"Well then, how do you explain it?!`@` How do you explain the phenomenon we experienced?!!"`\
 
 
 ld c,MIC_D3,80

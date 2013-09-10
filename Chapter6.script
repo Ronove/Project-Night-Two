@@ -3080,7 +3080,7 @@ quakex 2,200
 ld c,YOS_D12,80
 
 ;「何だよ、お前はよ！！@/
-`"Who do you think you are!?`@/
+`"Who do you think you are?!`@/
 bgm1 7
 ;　俺の親かよッ、先生かよッ？！@　俺はずっとあいつらに好き放題にされてきたんだ！@　だから今度は俺があいつらを好き放題にする！！@　それが因果応報だろ？！@　違うのかよ！@　それがなかったら、世の中ずっといじめ得じゃねぇかよ？！@　俺だっていじめは大嫌いだ！@　いじめっこは絶対に許せねぇ！！」\
 ` My mom? My teacher?! `@`They did whatever the hell they wanted to me! `@`So now I'm doing whatever the hell I want right back!! `@`That's just karma! `@`Right?! `@`Without it, bullies would just have their way with everything! `@`I hate bullying! `@`And I will never forgive any bullies!!"`\

@@ -2622,7 +2622,7 @@ bg black,22
 bg sadou_02,22
 
 ;「マジかよ！？@　またやったのかよ、あいつ！」@
-`"Seriously!? `@`He did it again?!"`@
+`"Seriously? `@`He did it again?!"`@
 ld l,SMI_D6,23
 ld l,SMI_D2,80
 
