@@ -2229,7 +2229,7 @@ ld l,SMI_w4,24
 ld l,SMI_w2,80
 
 ;「ふ、ふふふふひひひはははは…！！@　私は前回の恨みを忘れてはおらぬのじゃ！@　おのれ彼岸花め、@私の育てし可愛い可愛いいじめの花たちを、ぜーんぶ横から掻っ攫いおったあの恨み、忘れはせぬのじゃ！@/
-"Heh, fufufuhihihihahaha...!! `@`I still bear a grudge for what she did to me last time! `@`That damnable Higanbana. `@`I still haven't forgiven her for stealing away all my cute little flowers I raised to be bullies!`@/
+`"Heh, fufufuhihihihahaha...!! `@`I still bear a grudge for what she did to me last time! `@`That damnable Higanbana. `@`I still haven't forgiven her for stealing away all my cute little flowers I raised to be bullies!`@/
 ;ld r,SMI_D1,80
 
 ;　……だが、彼岸花はおっかないからのぅ。@あやつに仕返しはちょいと難しいのじゃ。」\
@@ -3098,7 +3098,7 @@ ld r,YOS_D11,23
 ld l,YUK_D3a,80
 
 ;「………正明くん………。」@
-".....Masaaki-kun......"`@
+`".....Masaaki-kun......"`@
 ld r,YOS_D8a,80
 wait 1000
 cl r,23

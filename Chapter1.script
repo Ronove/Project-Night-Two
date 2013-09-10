@@ -1699,7 +1699,7 @@ bgm1 1003
 ld r,HIG_D2,80
 
 ;「妖力もお酒に似てて、古く長く寝かせたものは、より強い力を宿すの。@……だから、もしもこの旧校舎に奇跡的に黄泉桜が生えて、そこから作られた桜酒だったなら。@……恐らくそれは、この世のものとは思えぬほどに、美味なものだったはず。」\
-"That rice wine with its magical power was laid to rest long ago so it could become even more powerful.`@` ...That's why, if this old school building had miraculously produced the sakura of the underworld... If it had produced the sakura wine...`@` Then it must have tasted like something unimaginable and incomparable to anything in this world."`\
+`"That rice wine with its magical power was laid to rest long ago so it could become even more powerful.`@` ...That's why, if this old school building had miraculously produced the sakura of the underworld... If it had produced the sakura wine...`@` Then it must have tasted like something unimaginable and incomparable to anything in this world."`\
 ;ld l,MAR_D1,80
 
 ;　……そうだ。@毬枝は昨夜、確かにそんなことを言われた。\

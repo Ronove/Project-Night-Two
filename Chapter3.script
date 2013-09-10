@@ -1937,7 +1937,7 @@ br
 ld r,MAR_W4,80
 
 ;「げらげら！@　そこのあなた？@　私の武勇伝を聞いて下さいな……。@だぜッ？　@げーらげらげらげらげら！！@　チョロイもんだぜ。@まずは彼岸花、一丁上がりっと！@　この調子で他の連中もシメてってやるぜ。@そうして私は別世界も支配するんだ！！@　この世界だけじゃねぇぜ。@他の鏡の世界も次々に支配して、私は妖怪大王として君臨するんだ！！@　ガッハハハハハハハハ！！！」\
-"Gera gera! `@`You there? `@`Won't you listen to my heroic story....`@` Well? Won't ya? `@`Gera gera gera!! `@`What a piece of cake. `@`First, I take care of Higanbana! `@`Then I take out all the others the exact same way. `@`And by doing so, I'll become the ruler of this world too!! `@`And it's not just this world either. `@`I'll take over every mirror world, one by one, until I've become the grand ruler of all youkai!! `@`Gahahahahaha!!!"`\
+`"Gera gera! `@`You there? `@`Won't you listen to my heroic story....`@` Well? Won't ya? `@`Gera gera gera!! `@`What a piece of cake. `@`First, I take care of Higanbana! `@`Then I take out all the others the exact same way. `@`And by doing so, I'll become the ruler of this world too!! `@`And it's not just this world either. `@`I'll take over every mirror world, one by one, until I've become the grand ruler of all youkai!! `@`Gahahahahaha!!!"`\
 
 
 bg black,23

@@ -3588,7 +3588,7 @@ ld c,RUN_D5,22
 ld c,RUN_D10,80
 
 ;「うふふふふふッ、うっふふふふふふふふふふふ！！@　さぁさぁ！！@　答えてちょうだい、教えてちょうだい！！@　これらの絵の作者は誰だと言うのかしら…？！」\
-"Ufufufufufu! Ufufufufufufufufu!! `@`Come on!! `@`Answer me, tell me!! `@`Tell me who drew these pictures...!!"`\
+`"Ufufufufufu! Ufufufufufufufufu!! `@`Come on!! `@`Answer me, tell me!! `@`Tell me who drew these pictures...!!"`\
 ;「……………………。@/
 `".........`@/
 E_A
