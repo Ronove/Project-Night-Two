@@ -7,7 +7,7 @@ se1 47
 ld r,TOM_D2,26
 
 ;「アトランティスより古代日本に伝えられたとする説もあるけれどねー。@私は双方とも違うものだと見てるねー！」\
-`"It's possible that the metal could have been brought to Ancient Japan from Atlantis. `@`But the way I see it they developed the metals independently of each other!"`\
+`"It's possible that the metal could have been brought to Ancient Japan from Atlantis. `@`But the way I see it, they developed the metals independently of each other!"`\
 ;＜智子
 
 
@@ -38,7 +38,7 @@ ld r,MIC_D4,23
 ld c,TOM_D5,80
 
 ;「そのキルヒャーが１６６６年に手にしたのが、かの有名なヴォイニッチ手稿でー！」@
-`"And in 1666, this Kircher got ahold of the famous Voynich manuscript!"`@
+`"And in 1666, this Kircher got hold of the famous Voynich manuscript!"`@
 ld r,MIC_D2,80
 
 ;「知ってる。@誰にも読めない謎の原稿。」\
@@ -47,7 +47,7 @@ cl c,0
 mld l,TOM_D2,24
 
 ;「そしてそこには謎の秘密結社、薔薇十字団の秘密が記されてるっちゅー話！@　すごいよねー、わけわからん秘密の芋づるデパートだよねー！」@
-`"And in that manuscript are the secrets of the mysterious secret society of Rosicrucians! `@`Isn't that amazing, it's a cornucopia of unknown secrets!"`@
+`"And in that manuscript are the secrets of the mysterious secret society of Rosicrucians! `@`Isn't that amazing? It's a cornucopia of unknown secrets!"`@
 ;＜智子
 
 cl r,0
@@ -86,9 +86,9 @@ br
 `　Sci-fi, occult, fantasy.`@
 br
 ;　ＵＦＯ、ネッシーにスカイフィッシュ。@とにかく不思議なものは何でもござれ。\
-`　UFOs, Nessie, skyfish.`@` Basically anything that was mysterious and caught their interest..`\
+`　UFOs, Nessie, skyfish.`@` Basically anything that was mysterious and caught their interest.`\
 ;　みちるは、霊や悪魔、魔法などのオカルトに精通し、@智子は、空想科学やとんでもＳＦに精通していた。\
-`　Michiru is an expert in ghosts, demons, magic and anything dealing with the occult.`@` While Tomoko is an expert in science fiction and fantasy.`\
+`　Michiru is an expert in ghosts, demons, magic and anything related to the occult.`@` Tomoko, on the other hand, is an expert in science fiction and fantasy.`\
 
 bg black,22
 bg ie_02,22
@@ -103,10 +103,10 @@ bg ie_02,22
 ;ld l,TOM_D1,80
 
 ;　二人は互いの知識を尊敬し合い、感嘆しては、ますますに議論にはまっていく。@
-`　The two respected each other's knowledge and were driven to discuss the topics more and more.`@
+`　These two respected each other's knowledge and were driven to discuss the topics more and more.`@
 br
 ;　ほとんどの人々には理解不能なそれも、@彼女らにとっては、時間を忘れるほどの素晴らしい議論だった。\
-`　What would be an incomprehensible topic to most people, `@`would prove to be material for great debate between the two of them.`\
+`　What would be an incomprehensible topic for most people, `@`would prove to be material for great debate between the two of them.`\
 
 ;　二人は、無地のノートを広げて、@その無限に広がるオカルトトークを、しゃべりながらイラストにして延々と落書きしている。\
 `　They sit, with their notebooks wide open, `@`and endlessly discuss the occult while doodling on and on for hours.`\
@@ -115,7 +115,7 @@ bg black,22
 bg note1,22
 
 ;　そんなオカルト落書きノートは、すでに何冊にも及んでいるのだ。@
-`　These notes on the Occult have filled many volumes of notebooks already.`@
+`　These notes on the occult have filled many volumes of notebooks already.`@
 br
 ;　二人が遊ぶ時、常にみちるが持ち歩いているそれは、どれも黒ずんで年季が入っている。\
 `　Michiru always brought those notebooks blackened with countless writings or drawings when the two of them played.`\
@@ -160,7 +160,7 @@ ld l,MIC_D1,80
 ld r,TOM_D2,80
 
 ;「ごめんねー！@　明日は家族で温泉リゾートに遊びに行くんだよー。@ふっひっひー、いいだろー！」@
-`"Sorry! `@`I'm going to play at the family Hot Spring resort tomorrow.`@` Fuhehe, it's gonna be fun!"`@
+`"Sorry! `@`I'm going to play at the family hot spring resort tomorrow.`@` Fuhehe, it's gonna be fun!"`@
 ld l,MIC_D4,80
 
 ;「そっか。@じゃあ、ノートに７２柱の絵、書いておいて、学校で見せるね。」\
@@ -179,7 +179,7 @@ print 2
 E_B
 
 ;　それが最後の別れになるなんて、………私は想像もしなかった。\
-`　She never imagined... that would be the last time she would say goodbye.`\
+`　She never imagined... that this would be the last time she would get to say goodbye to her.`\
 bg black,22
 mono 0
 
@@ -213,7 +213,7 @@ ld r,TOM_D3,22
 ld r,TOM_D1,80
 
 ;　……そんな中、出会ったのが、智子ちゃんだった。\
-`　...and then, I met Tomoko-chan.`\
+`　...And then, I met Tomoko-chan.`\
 bg black,22
 bg kyou_02,22
 
@@ -221,7 +221,7 @@ bg kyou_02,22
 ;　彼女は、私の霊が視える体質のことも馬鹿にしないで信じてくれた。@
 `　She didn't doubt my ability to see spirits, and never thought I was being dumb.`@
 ;　私のオカルトの話も、真剣に聞いてくれた。\
-`　She'd seriously listen to my Occult stories.`\
+`　She'd seriously listen to my occult stories.`\
 ld r,MIC_D5,22
 
 ;　それを二人で図解してノートに落書きし合うのが大好きだった。@
@@ -231,7 +231,7 @@ ld r,MIC_D5,22
 ld r,MIC_N1,80
 
 ;　………もう、一緒に読んでくれる彼女はこの世にいない……。@
-`　....But, the girl I'd draw and read with was no longer in this world...`@
+`　....But, the girl I used to draw and read with was no longer in this world...`@
 br
 ;　………………………………。\
 `　..............`\
@@ -302,13 +302,13 @@ bg black,22
 bg ie_06,22
 
 ;　みちるの布団の周りはいつしか、ページの開いた落書きノートで埋め尽くされるようになっていた……。\
-`　Before long the area around Michiru's bed was covered with these notebook pages.`\
+`　Before long, the area around Michiru's bed was covered with these notebook pages.`\
 bg black,22
 
 ;　みちるの心の穴は、まったく塞がりはしなかった。@
 `　But the hole in her heart remained.`@
 ;　両親も同情し、風邪ということで３日ほどは休みを認めてくれた。@
-`　Her parents, out of sympathy, let her rest for 3 days under the pretense of a cold.`@
+`　Her parents, out of sympathy, let her rest for three days under the pretense of a cold.`@
 br
 ;　しかし、心配した担任の訪問を受け、……学校に復帰しなくてはならなくなった。\
 `　But, her homeroom teacher was concerned.... she had to return to school.`\
@@ -354,7 +354,7 @@ br
 `　It's.... sad....`@
 br
 ;　彼女を置いてきぼりにしたまま、周囲の時間は、寂しく淡々と過ぎ去っていった……。\
-`　Time has chosen to leave her behind by her lonesome, steadily flowing on without her...`\
+`　Time has chosen to leave her lonely self behind, steadily flowing on without her...`\
 bg black,2
 wait 2000
 
@@ -383,7 +383,7 @@ br
 ;　でも、そうせずにはいられない……。@
 `　But she couldn't help but keep looking at those pages...`@
 ;　だから今日の昼休みもこうして、喧騒を嫌い、校舎裏でノートを開き、涙を零している……。\
-`　So today at lunch she was doing the same, behind the school away from the crowds, reading the notebook, and crying...`\
+`　So today, she's spending her lunchtime behind the school, away from the crowds, reading the notebook while shedding tears...`\
 fede 10,1000
 E_MA
 
@@ -406,7 +406,7 @@ ld l,SAK_N1,80
 `　Sakunoshin was worriedly looking down at the crouching Michiru.`@
 br
 ;　……事情を全て知っているのだろう。\
-`　.....he probably knew everything already.`\
+`　.....He probably knew everything already.`\
 ld l,SAK_K3,80
 
 ;「みちる……。@……元気を出してね……。」@
@@ -421,7 +421,7 @@ br
 
 
 ;　元気を出さなければいけないのは、……親にも先生にもさんざん言われて、飽き飽きしている。@
-`　Her parents and teachers were kept saying the same thing... urging her to cheer up, and she was sick of it.`@
+`　Her parents and teachers kept saying the same things... urging her to cheer up, and she was sick of it.`@
 br
 ;　……なれるものなら、なりたいのだ。@
 `　...If she could, she would.`@
@@ -431,13 +431,13 @@ cl l,0
 ld c,SAK_N1,23
 
 ;「う、うりゅー……。@泣かないで、みちる。@……みちるが泣いていると、僕まで悲しくなってくるよ……。」\
-`"U-, Uryuu... `@`Don't cry, Michiru.`@` ...When you're crying I'm sad..."`\
+`"U-, Uryuu... `@`Don't cry, Michiru.`@` ...When you're crying, I'm sad..."`\
 ld r,MIC_N1,26
 ld r,MIC_N2n,80
 
 
 ;「……さくのしんさま。@………智子は何も悪いことはしていないんだよ…？@　なのに、……ちょっと転んで頭を打っただけで死んじゃったなんて…。@………信じられない……、信じられない………。」\
-`"...Sakunoshin-sama.`@` ...Tomoko didn't do anything wrong, right...? `@`...but she still died from just having a little fall and hitting her head.`@` ...I can't believe it... can't believe it at all..."`\
+`"...Sakunoshin-sama.`@` ...Tomoko didn't do anything wrong, right...? `@`...But she still died from just having a little fall and hitting her head.`@` ...I can't believe it... can't believe it at all..."`\
 ld c,SAK_K1,80
 
 ;「でも、……みちるがいつまでも泣いていたら、智子も悲しむよ……。」@
@@ -488,10 +488,10 @@ ld c,TOM_D1,0
 mcbg 23
 
 ;　二人での楽しいお喋りと落書き。@
-`　Their talks and jottings....`@
+`　The two of them would scribble pictures as they talked....`@
 br
 ;　こうしてノートを開くと、……数々の落書きひとつひとつから、智子との楽しい日々が鮮明に蘇る……。\
-`　So when she read through their notebooks like this... she could relive her fun days with Tomoko through the writings on those pages...`\
+`　So when she read through their notebooks like this... she could relive her fun days with Tomoko through the drawings on those pages...`\
 cl a,22
 
 ;　蘇るからこそ、苦しい……。@
@@ -538,10 +538,10 @@ bg black,22
 bg hokora_01,22
 
 ;　仮にもさくのしんは、動物霊の長。@
-`　Sakunoshin is the leader of animal spirits.`@
+`　Sakunoshin is the leader of the animal spirits.`@
 br
 ;　臆病ではあっても、その妖力は大きいはずだ。\
-`　Even if he was shy, his power was probably great.`\
+`　Despite his shyness, he probably possessed great power.`\
 
 ;　彼にならきっとそれが出来るはず……、とみちるは期待したのだ。@
 `　Surely he'd be able to revive someone... is what Michiru thought.`@
@@ -592,7 +592,7 @@ bgm1 26
 ;　……あぁ、自分は何をぼんやりとしていたのだろう。@
 `　...Ah, what am I moping around about?`@
 ;　私はオカルトの専門家じゃないか！@
-`　Aren't I an Occult specialist?!`@
+`　Aren't I an occult specialist?!`@
 br
 ;　智子ちゃんを蘇らせる秘術を探すんだ。\
 `　I'll find a way to revive her myself.`\
@@ -652,7 +652,7 @@ cl l,22
 `　She turned her back to Sakunoshin, and walked away, quickly.`@
 br
 ;　その背中を、……さくのしんは心配そうに見送る……。\
-`　Sakunoshin... worriedly watched her back and she walked away...`\
+`　Sakunoshin... worriedly watched her back as she left...`\
 cl r,0
 ld c,SAK_N1,24
 
@@ -707,7 +707,7 @@ br
 bg aka2,22
 
 ;　もっとも、死者蘇生が出来る大妖怪と普通の人間は、滅多なことでは交流できない。@
-`　Of course, powerful youkai that can resurrect the dead usually cannot communicate with normal human beings..`@
+`　Of course, powerful youkai that can resurrect the dead usually cannot communicate with normal human beings.`@
 br
 ;　そのチャンネルが、あまりに違い過ぎるのだから。\
 `　Their channels were too different.`\
@@ -718,7 +718,7 @@ fede 10,1000
 E_MA
 
 ;　……しかし、時に、そのチャンネルが、普通の人間より遥かに人ならざる世界に近い者がいる。@
-`　However, sometimes there are some humans who can tap into those channels and get closer to the world of non-humans than normal people.`@
+`　However, there are some humans who can tap into those channels and get closer to the world of non-humans than normal people.`@
 br
 ;　そういう者たちが時折、霊能者を名乗り、交霊の儀式を見せたりもするのだ。\
 `　Occasionally these people would call themselves spiritual mediums, and perform rituals to speak to the dead.`\ 
@@ -771,10 +771,10 @@ br
 
 
 ;　この世の理に反する術は、神々への反逆。@
-`　This art which operated contrary to the logic of the world, was, in a way, an act of rebellion unto the gods.`@
+`　This art which operated contrary to the logic of the world was, in a way, an act of rebellion unto the gods.`@
 br
 ;　それを成そうとすれば、………相応しい支払を求められることになる。\
-`　If she is to succeed... it will demand an appropriately large price to be paid.`\
+`　If she is to succeed... an appropriately large price must be paid.`\
 bg black,22
 mono 1
 ld c,TOM_D1,22
@@ -798,7 +798,7 @@ ld r,MIC_D5,80
 `　Fortunately, there were multiple different ways recorded even in modern times to perform resurrection.`@
 br
 ;　しかし、@……人の世の理を捻じ曲げようとするその秘術が求める準備は、あまりに現実離れしたものばかりだ。@
-`　However.... `@`In exchange for bending the rules of the world of men, each and every one of them she found required preparations and provisions far beyond what could be realistically done.`@
+`　However.... `@`In exchange for bending the world of the living's rules, each and every one of them she found required preparations and provisions far beyond what could be realistically done.`@
 ;　みちるにとっては、事実上、不可能だった。\
 `　For Michiru, it was impossible.`\
 
@@ -809,7 +809,7 @@ bg book1,22
 `　Except... for one last method of resurrection.`@
 br
 ;　偉大なる力を持った存在を呼び出し、それに叶えてもらうことだ。@
-`　She would need to summon a being with great power, and have that grant her wish.`@
+`　She would need to summon a powerful being, and have it grant her wish.`@
 ;　現実的にはありえないその方法も、みちるにとっては現実味を帯びる。\
 `　This method that would be realistic impossible to a normal person, was within the grasp of Michiru.`\
 ld r,MIC_D3,22
@@ -824,12 +824,12 @@ ld r,MIC_D3,22
 ld r,MIC_D5,80
 
 ;「でも、………やらなくちゃ。」@
-`"But....I have to do it."`@
+`"But.... I have to do it."`@
 br
 ;　死者の霊は、死後、時間を経過すればするほど、現世からの呼び出しに応じ難くなる。@
-`　For dead spirits, the longer the time after their death, the more difficult it was to summon them forth.`@
+`　For dead spirits, the longer the time after their death, the more difficult it is to summon them forth.`@
 ;　躊躇する時間はないのだ。\
-`　There was no time to hesitate.`\
+`　There was no time for hesitation.`\
 bg black,22
 mono 1
 bg ie_04,22
@@ -847,7 +847,7 @@ fedexx 0,50,70,0,0,0,3000
 `"............."`@
 br
 ;　儀式に集中した時。@室内に異音を聞いた。@
-`　While she was focusing on the ritual,`@` she heard strange noise in the room.`@
+`　While she was focusing on the ritual,`@` she heard a strange noise in the room.`@
 ;　よく乾いた細い小枝が折れるような、……そんな音。\
 `　A snapping sound... like that of a small twig being broken in two.`\
 bg black,22
@@ -864,7 +864,7 @@ ld c,MIC_D3,22
 ;ld c,MIC_D1,80
 
 ;　みちるはなおも集中力を高め、@その存在を魔法陣に呼び込もうと、精神を集中する。\
-`　Michiru concentrated even harder,`@` in an attempt to call in that existence to her magic circle, she focused her mind and soul.`\
+`　Michiru concentrated even harder.`@` In an attempt to call in that existence to her magic circle, she focused her mind and soul.`\
 bg black,22
 bg mahou_01,0
 
@@ -876,9 +876,9 @@ print 99,2000,"whirl.dll/r"
 `　Finally,`@
 br
 ;　………魔法陣の中央に、黒い炎が吹き上げるイメージが、頭の中にどっと流れ込んできた。@
-`..... and image of a black flame shooting up from the center of the magic circle poured into her mind.`@
+`　.....an image of black flames shooting up from the center of the magic circle poured into her mind.`@
 ;　その脳内イメージを、……視覚でも得ようと、さらにさらに集中する。\
-`　She focused harder and harder, in order to make that image in her head... become a reality.`\
+`　She focused harder and harder in order to make that image in her head become a reality.`\
 
 
 ;　合わせるんだ。@チャンネルを合わせるんだ。@
@@ -894,7 +894,7 @@ me3v 5,70
 `　Like narrowing her eyes the way you do to focus on small writing,`@
 br
 ;　心を集中させて、……チャンネルを合わせるんだ………。\
-`　she had focused her heart... and opened the channel.....`\
+`　...she had focused her heart... and opened the channel.....`\
 se1 55
 
 bg white,28
@@ -906,7 +906,7 @@ me4v 28,90
 `　And she...... succeeded.`@
 br
 ;　ついにみちるは、黒い炎のような姿をした、力ある何者かの召喚に成功する……。\
-`　At last, Michiru brought forth an image of a black flame, and successfully summoned a powering being...`\
+`　At last, Michiru brought forth an image of black flames, and successfully summoned a powerful being...`\
 bg ie_04,6
 
 bgm1 26
@@ -919,7 +919,7 @@ E_MA
 ; ^^^ Note To Editor: This demon speaks with antiquated Japanese, and uses an arrogant sounding pronoun that can also be plural (吾輩). Pascall and I translated him with using plural pronouns to refer to himself, e.g. "We", "Our". If you think of a better way to translate his old-fashioned language without dipping into the dreaded Shakespearean English, go ahead! - Jorwil
 br
 ;　人ならざる存在は名乗るのだが、それは人の世の言葉ではないため、聞き取れない。\
-`　Even though the inhuman being gave its name, I could not comprehend it. But this was not because it wasn't a word of the languages of man.`\
+`　Even though the inhuman being gave its name, I could not comprehend it. But this was not because it wasn't a word of the languages of mankind.`\
 
 
 ;　当然のことだ。@力ある者たちの世界では、相手の名前を知ることは、@そのまま、相手を支配することに通じる。@
@@ -944,7 +944,7 @@ br
 
 
 ;「……なぜ名乗らぬのか。@……吾輩は、名乗りもせぬ者の願いを叶えたりはせぬぞ……。@名乗らぬならばそれでも良い。@……吾輩は元の世界へ帰るだけだ………。」\
-`"Why don't you tell us your name?`@`.... We won't grant wishes to people who won't give us a name.... `@`If you wish not to say your name, that is fine.`@` ....We will just return to our own world...."`\
+`"Why don't you tell us your name?`@` ....We won't grant wishes to people who won't give us a name.... `@`If you wish not to say your name, that is fine.`@` ....We will just return to our own world...."`\
 
 
 ;　取引の余地など、あるわけもない。@
@@ -960,7 +960,7 @@ ld r,MIC_D6,26
 ;ld r,MIC_D1,80
 
 ;「名乗る前に教えて。@……あなたには本当に、死者を蘇らせる力があるの……？」@
-`"Before I say my name, tell me...`@` ...Do you really have to power to revive the dead...?"`@
+`"Before I say my name, tell me...`@` ...Do you really have the power to revive the dead...?"`@
 ;「……ほう。@死者を蘇生させることが吾輩への望みなのか。」\
 `"...Oh? `@`Revival magic is the wish you have for us?"`\
 ld r,MIC_N3,80
@@ -984,13 +984,13 @@ br
 ld r,MIC_D6,80
 
 ;　……それが出来るだけでも充分だ。@
-`....Just that is enough.`@
+`　....Just that is enough.`@
 ;　また一緒にお喋りが出来るなら、……それで、充分。\
 `　As long as we can chat again... that's enough.`\
 
 
 ;「……うむ。@……そなたの望む者の魂を蘇らせ、それを依り代に宿らせよう。@さすれば、そなたとだけは、いつでも好きな時に会話をすることが出来るだろう。@……それならば、叶えることが出来る。」\
-`"...Yes.`@` ...We will resurrect the spirit you want, and put it into a object to hold the soul.`@` So, whenever you want, you can converse with it.`@` ...If that is your wish I will grant it."`\ 
+`"...Yes.`@` ...We will resurrect the spirit you want, and put it into a object to hold the soul.`@` So, whenever you want, you can converse with it.`@` ...If that is your wish, I will grant it."`\ 
 cl r,0
 ld c,MIC_D4,24
 
@@ -1025,7 +1025,7 @@ me1v 5,85
 `"You must be the one to revive her. `@`If the revival is not done by your hand, it will all be for naught..."`\
 
 ;　道理だ。@
-`　Of course.
+`　Of course.`@
 br
 ;　本当は、アラジンの魔法のランプみたいに、願ったらポンと叶うのが一番嬉しい。@
 `　Really, she would be happiest if the wish granting process was just like Aladdin's magic lamp. Make a wish, and 'pop!' suddenly there it is.`@
@@ -1107,7 +1107,7 @@ br
 
 
 ;「しかし、心せよ。@……そなたに教える秘術は、確かに実行可能ではあるが。@……それでも、人の世の理に反する秘術だ。@相当の覚悟が必要になるぞ。」\
-`"However, beware.`@` ...While the art I will teach you is certainly possible to perform.`@` ...It's still a violation of the laws of the world of men.`@` You must have a great deal of resolve."`\
+`"However, beware.`@` ...While the art I will teach you is certainly possible to perform,`@` ...it's still a violation of the laws of the world of the living.`@` You must have a great deal of resolve."`\
 cl l,0
 ld c,MIC_D6,23
 
@@ -1131,11 +1131,11 @@ bg black,22
 bg Different_spiral_1b,22
 
 ;「契約後に教える秘術だが。@………そなたに可能であることは保証するが、……それでも容易なものではない。@……そなたは秘術を諦めることも出来る。@その場合は特別に、吾輩との契約は最初からなかったことにしてやろう。@……ただし。@智子とかいう、そなたの友人の魂は、永遠に復活できないようにする。@……吾輩以外の悪魔を呼んでも無駄であるぞ。@ちゃんと回覧板で回し、智子とやらの復活は禁止だと悪魔組合に連絡する。」\
-`"As for the art we will teach you once the contract is formed.`@` .....We guarantee that it is possible for you to complete... but it will not be simple.`@` ...You can chose to give up on trying to complete it. `@`In that case, we will make it so that the contract never existed.`@` ...However.`@` You will never again be able to resurrect your friend Tomoko.`@` ...Not even if you ask a demon other than us. `@`We will send a notice out to all of the demons in the union notifying them of the ban on Tomoko's revival."`\
+`"As for the art we will teach you once the contract is formed...`@` We guarantee that it is possible for you to complete... but it will not be simple.`@` ...You can chose to give up on trying to complete it. `@`In that case, we will make it so that the contract never existed.`@` ...However,`@` you will never again be able to resurrect your friend Tomoko.`@` ...Not even if you ask a demon other than us. `@`We will send a notice out to all of the demons in the union notifying them of the ban on Tomoko's revival."`\
 ;ld c,MIC_D1,22
 
 ;　何でも、同じ願い事を異なる悪魔に頼むのは、彼らの世界ではいけないことらしい。@
-`　It seems that it wasn't allowed to ask for the same wish to be granted to more than one different demon.`@
+`　It seems that asking more than one demon to grant the same wish wasn't allowed.`@
 br
 ;　多少は理解できる。@占いも、同じ内容を二度占ってはならないというルールがある。@それに似たルールだろう。\
 `　She more or less understood. `@`In fortune telling there is a rule that you must not give a fortune for the same thing twice. `@`It was similar to that.`\
@@ -1298,7 +1298,7 @@ br
 ;　言うまでもない。@
 `　It goes without saying,`@
 ;　挨拶されても、返さない。@
-`　that even if I am greeted, I can't return the greeting.`@
+`　...that even if I am greeted, I can't return the greeting.`@
 ;　こちらからも、誰にも挨拶しない。\
 `　From now on, I can't greet anyone.`\
 bg kyou_03,22
@@ -1311,7 +1311,7 @@ br
 ;　つまり、……生涯の挨拶を捧げるというのは、生涯、誰とも友人にならないということ。@
 `　In other words... never greeting anyone in your lifetime, means never making any friends.`@
 ;　生涯の友人を全て捧げるというのと、同じことなのだ。\
-`　It's the same as giving up all the friends you've made or would make in for an entire lifetime.`\
+`　It's the same as giving up all the friends you've made or would make in an entire lifetime.`\
 ld r,MIC_D2,22
 ;ld r,MIC_D1,80
 
@@ -1435,7 +1435,7 @@ ld c,MIC_D4,80
 ;「智子ちゃんの依り代にするぬいぐるみは？」@
 `"And the stuffed toy to hold her soul?"`@
 ;「持ってこなくて良いぞ。@秘術を終えたら、岡田智子の魂と共に帰宅し、そのぬいぐるみを住処として与えればよいだけの話だ。」\
-`"There's no need to bring it with you. `@`Once the ritual is over, just return home with Tomoko Okada's soul and provide the stuffed toy to her for a housing for her soul."`\
+`"There's no need to bring it with you. `@`Once the ritual is over, just return home with Tomoko Okada's soul and provide the stuffed toy to her as housing for her soul."`\
 ;ld c,MIC_D1,80
 
 ;　何だか、ハムスターか何かを飼う話のようだ。@
@@ -1444,7 +1444,7 @@ ld c,MIC_D4,80
 `　At least so far it doesn't seem that difficult.`@
 br
 ;　強いて言えば、旧校舎への侵入がもっとも手間だが、……過去にもやっている。@大した手間じゃない。\
-`　Getting into the school building is probably the most difficult part... and she's already done that once before. `@`It's really not that difficult even.`\
+`　Getting into the school building is probably the most difficult part... and she's already done that once before. `@`It's really not even that difficult.`\
 bg black,22
 bg ie_04,22
 
@@ -1476,7 +1476,7 @@ bg k_rouka_03,22
 ;ld c,MIC_D1,22
 
 ;　普通の生徒ならば、@不気味な旧校舎に、こんな時間にひとりで入り込むなど、絶対に出来ないだろう。\
-`　If she was a normal student, `@`she would never enter the eerie, old school building alone at this hour.`\
+`　If she were a normal student, `@`she would never enter the eerie, old school building alone at this hour.`\
 ld c,MIC_D1,22
 
 ;「……………待ってて。@智子ちゃん。@……きっと、蘇らせてあげるから……。」@
@@ -1506,12 +1506,12 @@ me1v 16,50
 `　...Because of the moonlight, the roof felt better lit than the inside of the school.`@
 br
 ;　そして、畳んでもってきた魔法陣を開き、その四隅に石をおいて固定する。\
-`　She open up the folded paper with the magic circle drawn on it and fixed it in place with four stones.`\
+`　She opened up the folded paper with the magic circle drawn on it and fixed it in place with four stones.`\
 ld c,MIC_D3,22
 ;ld c,MIC_D1,80
 
 ;「……現れたまえ、契約の悪魔……。@……我こそは契約者、桜田みちるなり………。」@
-`"...Appear, contracted Demon...`@` ....It is I, holder of the contract, Michiru Sakurada...."`@
+`"...Appear, contracted demon...`@` ....It is I, holder of the contract, Michiru Sakurada...."`@
 br
 ;　魔法陣より黒い炎が噴き上がる。\
 `　Black flames billowed from the magic circle.`\
@@ -1531,7 +1531,7 @@ bg e005,6
 ;ld c,MIC_D1,22
 
 ;「……うむ、ご苦労であった。@やはり、ここにはかなり古い、よく練られた霊的エネルギーが集まっておるな。@……そなたの秘術に相応しい唯一の場所だ。」\
-`"...Yes, you have done good work. `@`Yes, this really is an old building, the spirit energy has gathered here very well.`@` ...It's an appropriate place to perform your ritual."`\
+`"...Yes, you have done good work. `@`Yes, this really is an old building. The spirit energy has gathered here very well.`@` ...It's an appropriate place to perform your ritual."`\
 bg black,22
 bg okujou_01y,22
 ld r,MIC_D1,24
@@ -1558,7 +1558,7 @@ ld c,MIC_D6,24
 ;「まさか…………。」@
 `"No way...."`@
 ;「燃やすのは、そなたの持つ、その思い出の品だ。@桜田みちると岡田智子の結び付きのもっとも深い、そのノート。@……それを燃やすことで、霊界への扉が開くのだ。」\
-`"You must burn that which holds your memories with her. `@`The notebook containing the deepest ties of Michiru Sakurada and Tomoko Okada.`@` ...By burning that will the gate to the spirit world open."`\
+`"You must burn that which holds your memories with her. `@`The notebook containing the deepest ties of Michiru Sakurada and Tomoko Okada.`@` ...Only by burning that will the gate to the spirit world open."`\
 ld c,MIC_N1,80
 
 ;「これを、…………燃やす…………。」@
@@ -1681,7 +1681,7 @@ print 99,5000,"breakup.dll/llb"
 ;bg okujou_01y,22
 
 ;　………智子との、楽しかった日々の思い出を凝縮した、……結晶とも呼ぶべき１ページ１ページが、@……ぺりぺりと燃えて、黒い燃えカスになって、……風に飛んで消えていく……。\
-`　...Her memories of fun days with Tomoko were condensed into fire... `@`and one by one, each page that was as valuable as a diamond to her... turned to ash... and were blown away by the wind.`\
+`　...Her memories of fun days with Tomoko were condensed into fire... `@`and one by one, each page that was as valuable as a diamond to her... turned to ash... and was blown away by the wind.`\
 
 
 ;　燃えながら、舞い飛び、消えていく、炎の蝶たち……。@
@@ -1698,7 +1698,7 @@ br
 ;　全てのノートが燃え尽き、後には、何も残らない。@
 `　When the fire finally went out, there was nothing left of the notebooks.`@
 ;　みちるは目もとを拭い、……黒い炎の悪魔に、自分の決意を示した。\
-`　Michiru wiped her eyes... and showed the demon in black flames her determination.`\
+`　Michiru wiped her eyes... and showed the demon in the black flames her determination.`\
 
 
 ;「……うむ。@……そなたの清めの炎、それで充分であろうぞ。@……これより、その力が満ち、霊界の扉を開きて、岡田智子の霊を呼び寄せる。@………むむむ…、……来たぞ、来たぞ…………。」\
@@ -1714,7 +1714,7 @@ mbg white,8
 mcbg 48
 
 ;　黒い炎とは別に、……白い光が、うっすらと集まり始める。@
-`　Apart from the black flame... a new white light started to appear.`@
+`　Apart from the black flames... a new white light started to appear.`@
 ;　黒い炎は悪魔を想像させる禍々しいものだが、……これは違う。@
 `　Black flames were an ominous sign associated with demons... but this was different.`@
 br
@@ -1831,7 +1831,7 @@ ld l,TOM_D3,0
 ld c,MIC_D6,22
 
 ;「……どうした？@　岡田智子よ。@なぜに、親友の手を取らぬのだ……？」@
-`"...What's wrong? `@`Tomoko Okada. `@`Why do you not you take your friend's hand...?"`@
+`"...What's wrong? `@`Tomoko Okada. `@`Why do you not take your friend's hand...?"`@
 br
 ;　悪魔も、少し驚いた様子を見せる。\
 `　Even the demon seemed a little surprised.`\
@@ -1902,7 +1902,7 @@ mono 1
 bg ie_06,22
 
 ;「……なるほどねー。@あのぬいぐるみが、私の新しい体になると。@それで歩き回ったりとか出来るの？」@
-`"...I see. `@`So that stuffed animal will be my new body. `@`will I be able to walk around?"`@
+`"...I see. `@`So that stuffed animal will be my new body. `@`Will I be able to walk around?"`@
 ;「そ、それは出来ないけれど。」\
 `"N- No, but..."`\
 
@@ -2011,7 +2011,7 @@ bg black,22
 ;bg mahou_01,22
 
 ;「これは……、どういうこと………。@悪魔さん……。」@
-`"What... is the meaning of this....`@`Mr. Demon?"`@
+`"What... is the meaning of this....`@` Mr. Demon?"`@
 ;bg e005,22
 
 ;「……う、うむ。@……魂は様々な束縛から放たれているので、本音を語りやすいのだ。@その結果、生前とは口調が変わることも少なくない……。」@
@@ -2024,7 +2024,7 @@ ld r,TOM_D1,23
 ld r,TOM_D2,80
 
 ;「みちるちゃんのこと、面白い子と思ってたのは最初の頃だけだよー。@その後は、しつこいあんたに振り回されてただけー。@私はすっごい迷惑してたわけ。@……で、そのあんたが、死んだ後になっても、まーだ、私にしつこく付きまとってくるなんてねー。@いやはや、正直マジ勘弁、クソウザイわ。」\
-`"Michiru-chan, I really only had any interest in you in the beginning. `@`After that you were just manipulative. `@`A real bother to me.`@` ...And now you've come to trouble me even after I died. `@`Seriously, just leave me be, you're being so annoying."`\
+`"Michiru-chan, I was really only interested in you at the beginning. `@`After that you were just manipulative. `@`A real bother to me.`@` ...And now you've come to trouble me even after I died. `@`Seriously, just leave me be, you're being so annoying."`\
 
 
 ;　…………………………………。@
@@ -2157,7 +2157,7 @@ ld r,MIC_N2n,23
 
 
 ;「では、もう帰るが良い。@……吾輩は、秘術にて開いた霊界の扉を閉め、岡田智子の霊を送り返さねばならぬ。@………気の毒とは思うが、そなたが親友にもう一度会いたいが為に、思い出のノートを焼いてみせたその信念。@吾輩は忘れぬぞ。」\
-`"Now then, you should go home.`@` ...We must close the gate to the spirit world now, and send Tomoko Okada's soul back where it came from.`@` ...We feel bad for you, but you showed a great amount of conviction in burning those memory filled notebooks to see your friend again. `@`We will not forget that."`\
+`"Now then, you should go home.`@` ...We must close the gate to the spirit world now, and send Tomoko Okada's soul back where it came from.`@` ...We feel bad for you, but you showed a great amount of conviction in burning those memory-filled notebooks to see your friend again. `@`We will not forget that."`\
 ld r,MIC_N2,80
 
 ;「もう……、済んだことですし……。」@
@@ -2300,7 +2300,7 @@ bg gakkou_07y,22
 
 
 ;　……挨拶を出来るからといって、……したい相手がいるわけじゃない。@
-`...But just because she could greet people... doesn't mean that there's anyone she'd want to greet.`@
+`　...But just because she could greet people... doesn't mean that there's anyone she'd want to greet.`@
 br
 ;　智子を蘇らせるために、一度は捨てた挨拶だけれど。@
 `　She had given her greetings up once already, when she tried to revive Tomoko.`@
@@ -2342,7 +2342,7 @@ ld c,MIC_D3,22
 ld c,MIC_D6,80
 
 ;「さよならって。@……その一言を交わせたんだから。@………素敵な、……夜だった……。」@
-`"'Goodbye.'`@` ...Since I we got to exchange those final words.`@` ....Tonight... was a good night...."`@
+`"'Goodbye.'`@` ...Since we got to exchange those final words.`@` ....Tonight... was a good night...."`@
 br
 ;　みちるはそう言い、……真っ赤になった目で月を見上げる。\
 `　As she said this... Michiru looked up at the moon with her bloodshot eyes.`\
@@ -2408,7 +2408,7 @@ br
 ;　旧校舎の屋上に、ふわりと姿を現したのは彼岸花だった。@
 `　Higanbana gracefully appeared on the old school building rooftop.`@
 ;　黒い炎の悪魔も、智子の魂も、まだ屋上にいた。\
-`　The demon in black flames, and Tomoko's soul, were still both on the rooftop with her.`\
+`　The demon in the black flames, and Tomoko's soul, were still both on the rooftop with her.`\
 
 
 ;「………吾輩の力で、依り代とはいえ、蘇らせてやろうとしたのに。@……自ら蹴るとは、勿体ない娘よ。」@
@@ -2422,7 +2422,7 @@ E_A
 `"Huh?`@/
 bgm1 24
 ;冗談じゃないねー。@誰が悪魔なんかと契約するかってーの。」\
-` You're joking right? `@`Who on earth would make a contract with a Demon."`\
+` You're joking right? `@`Who on earth would make a contract with a demon."`\
 ld r,HIG_D1,80
 
 ;「くすくす。@……死後の世界の寂しさを知って、なおもそう言えるのは大したものだわ。@……どんな形であれ、現世に留まりたいと願うのが普通でしょうに。」\
@@ -2464,19 +2464,19 @@ br
 ;　だから、……焼いてもらった。@
 `　That's why she had them burned.`@
 ;　思い出は心の中だけで充分。@……読み返して悲しい気持ちがぶり返すなら、なくなった方が良い。@
-`　It's more than enough for memories to just live in the heart.`@` ...If memories that are written down just keep brining you pain, it's best if they didn't exist at all.`@
+`　It's more than enough for memories to just live in the heart.`@` ...If memories that are written down just keep bringing you pain, it's best if they didn't exist at all.`@
 br
 ;　その上、みちるは自分を蘇らせるために、永遠に挨拶をしないなどと誓った。@
 `　Furthermore, Michiru had vowed to never greet anyone again for all eternity in order to revive her.`@
 ;　それはつまり。@自分の親友に、生涯、他の誰とも仲良くなるなと呪いを掛けるようなものだ。\
-`　In other words, `@`her best friend was going to live a life cursed to never get close to anyone else every again.`\
+`　In other words, `@`her best friend was going to live a life cursed to never get close to anyone else ever again.`\
 bg black,22
 bg okujou_01y,0
 ld c,TOM_D3,22
 ld c,TOM_D1,80
 
 ;「みちるはね。@……暗そーにしてるけど。@笑えば、すっごい可愛い、面白い子なんだよ。@あの子が心さえ開けば、これからもっともっと友達が作れるよ。@……それを、死んだ私とお喋りが出来るなんてことと引き換えに、生涯、失うなんて。@……冗談じゃないねー！@　私はね、みちるちゃんにいつまでも笑っていてほしい。@幸せになってほしいの！」\
-`"Michiru.`@` ....She seems like the gloomy type, `@`but when she smiles, she's really cute, and fun kid. `@`If she'd just open her heart more, she could make so many friends.`@` ...If you think that I'd let her throw away the rest of her life just so she could talk to me.... `@`You've gotta be kidding me! `@`I want Michiru to keep on smiling forever. `@`I want her to be happy!"`\
+`"Michiru.`@` ....She seems like the gloomy type, `@`but when she smiles, she's really cute, and a fun kid. `@`If she'd just open her heart more, she could make so many friends.`@` ...If you think that I'd let her throw away the rest of her life just so she could talk to me.... `@`You've gotta be kidding me! `@`I want Michiru to keep on smiling forever. `@`I want her to be happy!"`\
 cl c,0
 ld r,TOM_D7,23
 
