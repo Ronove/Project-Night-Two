@@ -71,7 +71,7 @@ ld l,KAN_d3,23
 ld l,KAN_w1,80
 
 ;「ほぉう。@美少年ばかり何人も狙って！@　無垢な肉体を剥き剥きして、おにんにんばかり写生していた美術教師が言うじゃないかね。」\
-`"Ohhh? `@`Says the one who has targeted so many little boys?! `@`The art teacher who stripped their innocent bodies and drew their pee-pees?"`\
+`"Ohhh? `@`Says the one who has targeted so many little boys?! `@`The art teacher who stripped their innocent bodies and drew them naked?"`\
 ld r,NAF_D7a,80
 quakex 1,100
 

@@ -2756,7 +2756,7 @@ br
 ;　声が震える。@
 `　Her voice trembled.`@
 ;　人ならざる者の問いに答えるということは、@それだけで恐ろしいことなのだと、彼女は初めて知る。\
-`　For the first time in her life, she felt how terrifying it was. `@`How terrifying it was to answer the question of something inhuman.`\
+`　For the first time in her life, she felt how terrifying it was. `@`How terrifying it was to answer the question of an otherworldly being.`\
 ld l,NAF_D7a,80
 
 ;「貴方の言う通り、人間の身体を描くのは難しいから。@……いい練習になるわ。」@
@@ -2876,7 +2876,7 @@ br
 ;　とうとう、……少女は名乗る。@
 `　At last... the girl gave her name.`@
 ;　人ならざる者だと、自ら名乗る。\
-`　An inhuman being willingly gave its name.`\
+`　A supernatural being willingly gave its name.`\
 bg black,22
 fede 1,1000
 E_B
@@ -2899,7 +2899,7 @@ br
 ;　人は、相手が何者かを量りかねている時が一番恐ろしい。@
 `　The most frightening thing for a person to face is something they can't gauge the danger of.`@
 ;　たとえ人ならざる者であったとしても、……正体がわかれば、腹も括れる。@
-`　Even if she is facing an inhuman monster.... as long as she knows what she's facing, she can brace herself for the worst.`@
+`　Even if she is facing a monster not of this world.... as long as she knows what she's facing, she can brace herself for the worst.`@
 br
 ;　玉のような汗で顔はびっしょりだが、……それでも、恐怖心は抑えられつつあった。\
 `　Her face was drenched with droplets of sweat... but she was still holding her fear back.`\

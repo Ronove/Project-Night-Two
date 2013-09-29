@@ -733,7 +733,7 @@ bg Different_spiral_1b,0
 ld c,MIC_D5,22
 
 ;　みちるは、人ならざる存在に近いチャンネルを持ち、@……のみならず、親友を蘇らせるためならば、何を失うことも恐れない無鉄砲さも持ち合わせている。@
-`　Michiru had that channel closer to those who are inhuman.`@` ...And if it meant reviving her best friend, she was reckless enough to sacrifice anything to achieve that.`@
+`　Michiru had that channel closer to those who are not of this world.`@` ...And if it meant reviving her best friend, she was reckless enough to sacrifice anything to achieve that.`@
 br
 ;　その意味では、……今の彼女は、非常に危険な状態だった。\
 `　In that sense... she was in an extremely dangerous situation.`\
@@ -859,7 +859,7 @@ br
 ;　違う。@
 `　No.`@
 ;　……それは、人ならざる存在の気配だ。\
-`....It was a sign of the presence of something inhuman.`\
+`....It was a sign of the presence of something supernatural.`\
 ld c,MIC_D3,22
 ;ld c,MIC_D1,80
 
@@ -919,7 +919,7 @@ E_MA
 ; ^^^ Note To Editor: This demon speaks with antiquated Japanese, and uses an arrogant sounding pronoun that can also be plural (吾輩). Pascall and I translated him with using plural pronouns to refer to himself, e.g. "We", "Our". If you think of a better way to translate his old-fashioned language without dipping into the dreaded Shakespearean English, go ahead! - Jorwil
 br
 ;　人ならざる存在は名乗るのだが、それは人の世の言葉ではないため、聞き取れない。\
-`　Even though the inhuman being gave its name, I could not comprehend it. But this was not because it wasn't a word of the languages of mankind.`\
+`　Even though the non-human being gave its name, I could not comprehend it. But this was not because it wasn't a word of the languages of mankind.`\
 
 
 ;　当然のことだ。@力ある者たちの世界では、相手の名前を知ることは、@そのまま、相手を支配することに通じる。@
@@ -1407,7 +1407,7 @@ bg okujou_01y,22
 `　I've sneaked into the old school building before.`@
 br
 ;　あの旧校舎には、様々な霊が集まり、人ならざる世の濃密なエネルギーが満ちている。@
-`　Many different ghosts gather there, and it's filled with energy from the inhuman world.`@
+`　Many different ghosts gather there, and it's filled with energy from the supernatural world.`@
 ;　死者蘇生の大秘術を執り行える唯一の場所として相応しいだろう。\
 `　It would be an ideal place to perform a resurrection ceremony.`\
 
