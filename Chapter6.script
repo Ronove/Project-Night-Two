@@ -4,7 +4,7 @@
 `　Yukari Sakaki has been adjusting quite well to her new class.`@
 br
 ;　欠席した日の社会科見学で、バスが事故を起こし、@クラスメート全員を失うというショックからも、すでに立ち直っていた。\
-`　She had already recovered from the shock. `@`The shock of losing her entire class in a bus crash on a social studies field trip on a day she was absent.`\
+`　She had already recovered from the shock. `@`The shock of losing her entire class in a bus crash on a social studies field trip she was absent from.`\
 
 ;ld c,YUK_D1,80
 ld c,YUK_i1,23
@@ -116,7 +116,7 @@ bg black,22
 ;　正明は身長が低く小柄で、成長期を迎えた他の男子たちに比べると一回り華奢に見えた。@
 `　Masaaki had a short, petite build. When compared to the other boys who had hit growth spurts earlier than he had, he looked very small.`@
 ;　そのせいもあってか、体格のいい意地悪な男子たちに目を付けられ、よくからかわれていた。@
-`　Because of that he was often poked fun at by the mean boys with better physiques.`@
+`　Because of that, he was often poked fun at by the mean boys with better physiques.`@
 br
 ;　そのからかいがいじめに姿を変えるのに、そう長い時間は必要なかった。\
 `　It didn't take long for that poking fun at to change into full-fledged bullying.`\
@@ -264,7 +264,7 @@ ld r,YOS_D4a,24
 
 
 ;「お前、絶対ぇ土、付けんなよ…！！@　一個でも落としたらズボン、ドブに捨てっからな！！」@
-`"Don't let any of them touch the ground...!! `@`If you drop even one we'll throw your pants away!!"`@
+`"Don't let any of them touch the ground...!! `@`If you drop even one, we'll throw your pants away!!"`@
 br
 ;　下校中、正明はいくつものランドセルを担がされていた。@
 `　They were forcing Masaaki to carry a multitude of backpacks on their way home from school.`@
@@ -277,7 +277,7 @@ br
 ld r,YOS_D3a,80
 
 ;　重さ以上に、バランスが不安定で、今にも落としてしまいそうだった。@
-`　It wasn't so much the weight as his trouble at keeping balance was almost causing him to drop them.`@
+`　It wasn't so much the weight as his trouble at keeping balance that was almost causing him to drop them.`@
 ;　しかも彼らは一つでも落とせば許さないと囃し立てる。\
 `　But they just kept mocking him, saying that they wouldn't let him off easy if he dropped any.`\
 bg black,23
@@ -312,7 +312,7 @@ quakex 1,100
 `"Run, run. `@`Or we'll throw your pants in the gutter!"`@
 br
 ;　男子たちが、走れ走れと煽り、彼のお尻を叩く。@
-`　 The boys hit his butt, urging him to run.`@
+`　The boys hit his butt, urging him to run.`@
 ;　それに急かされ、正明も逃げるように駆け出す。\
 `　That made Masaaki speed up.`\
 ld c,YOS_D3a,80
@@ -326,7 +326,7 @@ se1 13
 quakey 2,200
 br
 ;　わずかのバランスを崩した拍子に、ランドセルがどさどさっと落ちる。@
-`　He slightly lost his balance for a moment, and all the backpacks came tumbling down.`@
+`　He lost his balance slightly for a moment, and all the backpacks came tumbling down.`@
 ;　その内の一つが転げてドブに突っ込む。\
 `　And one of them fell into the gutter.`\
 
@@ -408,7 +408,7 @@ bg ura7,22
 ;「え、そ、そんな……、止めてよぉ……。」\
 `"Huh, n-, no... stop that..."`\
 ;「落としたら罰ゲームって約束だったろ。@俺たち友達だもんな。@友達は約束守んねぇとなー！」@
-`"We promised that if you dropped 'em we'd play a punishment game, right? `@`Aren't we friends? `@`Friends gotta uphold their promises!"`@
+`"We promised that if you dropped 'em, we'd play a punishment game, right? `@`Aren't we friends? `@`Friends gotta uphold their promises!"`@
 
 
 ld r,YOS_D4a,24
@@ -514,10 +514,10 @@ bg ie_01u,22
 bgm1 14
 
 ;　家で母親に、どうしてそんなに汚してしまったのかと怒られた。@
-`　When he got home his mother got mad at him, asking how he got his pants so dirty.`@
+`　When he got home, his mother got mad at him, asking how he got his pants so dirty.`@
 br
 ;　自分がいじめられていると認めたくない正明は、@友達とふざけていて、つい汚してしまったと言い訳するのだった。\
-`　Not wanting to admit that he was being bullied, `@`Masaaki said that he was messing around with his friends and he got them dirty.`\
+`　Not wanting to admit that he was being bullied, `@`Masaaki said that he was messing around with his friends and got them dirty.`\
 bg black,22
 
 ;　……こういうことは、これが初めてではない。\
@@ -544,7 +544,7 @@ wait 500
 se2 10
 
 ;　そして、彼らが自分にそうしたように、枕を何度も何度も蹴り付けるのだった……。\
-`　And he threw down his pillow and kicked it over and over again, as if he was kicking himself...`\
+`　And he threw down his pillow and kicked it over and over again, as if he were kicking himself...`\
 bg black,2
 fede 0,2000
 E_A
@@ -573,14 +573,14 @@ ld r,YUK_i3,80
 ld l,YOS_D3,22
 
 ;「う、……うん。」\
-`"y-... yeah."`\
+`"Y-... yeah."`\
 ;＜正明
 
 
 ld r,YUK_i3a,80
 
 ;「いじめてるじゃない！@　何で、そんな何人もで寄って集って吉川くんを取り囲んでるのよ…！」@
-`"If you're not bullying him! `@`Then why are so many of you crowding around him...?!"`@
+`"If you're not bullying him...`@` then why are so many of you crowding around him...?!"`@
 ;＜由香里
 br
 ;　今日も正明は、いじめっこたちに囲まれ、いじめられている。\
@@ -600,7 +600,7 @@ br
 ld l,YOS_D3a,80
 
 ;「……………ぅ、……うん……。」\
-`"......y-... yeah..."`\
+`"......y-... Yeah..."`\
 
 cl r,0
 ld c,YUK_i2,24
@@ -615,10 +615,10 @@ ld c,YUK_i2,24
 cl a,23
 
 ;　由香里は強引に正明の腕を掴むと、教室の外へ連れ出す。@
-`　Yukari grabbed Masaaki on the arm, and forcibly pulled him outside the classroom.`@
+`　Yukari grabbed Masaaki's arm, and forcibly pulled him outside the classroom.`@
 br
 ;　いじめっこたちはそれを、あの二人付き合ってるぞーヒューヒュー！@　などと言って、囃し立てていた……。\
-`　The bullies poked fun at him for that.... `@`With mocking exclamations of 'they're going out!' and whistling.`\
+`　The bullies jeered at him for that.... `@`With mocking exclamations of 'they're going out!' and whistling.`\
 
 ;bg kyou_04,23
 ;ld r,YUK_D1,0
