@@ -720,7 +720,7 @@ ld l,YUK_i1,23
 ld r,YOS_D8a,24
 
 ;「………た、……楽しいよ……。」\
-`"....Y-... yeah I'm having fun..."`\
+`"....Y-... yeah, I'm having fun..."`\
 ;ld r,YUK_D1,80
 ld l,YUK_i1a,80
 
@@ -829,7 +829,7 @@ br
 cl l,24
 
 ;　正明はそう言い捨てると、踵を返す。\
-`　Masaaki spit out those words, and turned around on his heels.`\
+`　Masaaki spat out those words, and turned around on his heels.`\
 
 
 ;bg black,2
@@ -1122,18 +1122,18 @@ bgm1 8
 ;　その時、正明は多分、白昼夢を見た。@
 `　Masaaki was probably having a daydream at that point.`@
 ;　それは不思議な不思議な、………そして美しい幻想。@
-`　It was a mysterious wonder... as well as beautiful fantasy.`@
+`　It was a mysterious wonder... as well as a beautiful fantasy.`@
 br
 ;　眼下に、ゆっくりと赤い花の絨毯が広がっていく、美しい幻想。\
-`　On the ground below, he saw a beautiful illusion of a carpet of red flowers spreading out before him.`\
+`　On the ground below, he saw a bewitching illusion of a carpet of red flowers spreading out before him.`\
 
 ;　……それは、彼岸花の花園。@
 `　...It was a garden of higanbana.`@
 ;　血のように赤くて儚い彼岸花が、ゆっくりと咲きながら広がっていくのだ。@
-`　A fleeting carpet of blood red higanbana, slowing blooming and spreading outwards.`@
+`　A fleeting carpet of blood red higanbana, gently blooming and spreading outwards.`@
 br
 ;　その中心に、………黒い髪の少女が立って、こっちを見上げているのだ。\
-`　In the center of that flower garden..... stood a black haired girl, looking up at me.`\
+`　In the center of that flower garden..... stood a black-haired girl, looking up at me.`\
 
 
 ld c,HIG_w3,42
@@ -1410,7 +1410,7 @@ ld r,HIG_w3,22
 ;ld r,HIG_D1,80
 
 ;「………あら。@死ぬ気が薄れてきちゃったわ。@……毬枝のせいよ。@もう一息でぺろりといけたものを。」\
-`"....What's this? `@`Looks like he's losing the want to die.`@` ...This is your fault, Marie. `@`Just one more push and I would have had him."`\
+`"....What's this? `@`Looks like he's losing his desire for death.`@` ...This is your fault, Marie. `@`Just one more push and I would have had him."`\
 
 
 ;ld r,MAR_D1,80
@@ -1488,7 +1488,7 @@ bg different_spiral_1a,22
 `　Screw that.... `@`I'm not being bullied... `@`I don't need a girl to help me...!`@
 br
 ;　あの女、いつもお節介ばかり焼きやがって…！@　お前は楽しいかもしれないが、女に庇われて、俺はいつも惨めな気持ちになるんだよッ！\
-`　That girl is always meddling in other people's business...! `@`It may be fun for you, but for me, being saved by a girl is miserable!`\
+`　That girl is always meddling in other people's business...! `@`It may be fun for you, but being saved by a girl would only cause me misery!`\
 
 ;　畜生、畜生ッ！@　どいつもこいつも俺のことを馬鹿にしやがって…！！@
 `　Damn it, damn it! `@`Everyone keeps looking down on me...!!`@
@@ -1519,7 +1519,7 @@ ld c,HIG_D4,22
 ld l,MAR_D2a,22
 
 ;「ちょ、ちょっと違う方向にみたいですけど……。」\
-`"It-, it looks like he's taking it a different direction than I intended though...."`\
+`"It-, it looks like he's taking it in a different direction than I intended though...."`\
 ;　正明の心を怒りが満たすにつれ、眼下に飛び降りたいという、死への誘惑は霧散していく。\
 `　As Masaaki's heart filled with anger, his desire to jump to his death rapidly vanished.`\
 ;se1 6
@@ -1880,7 +1880,7 @@ br
 
 
 ;「よく目を凝らし、そして耳を澄まして、じっくりと探して御覧なさい。」@
-`"Strain your eyes, and clear out your ears, and try to find one."`@
+`"Strain your eyes, clear out your ears, and try to find one."`@
 ;「……………………………………。」@
 `"................."`@
 br
@@ -1937,7 +1937,7 @@ bg black,22
 bg azami2,22
 
 ;　………するとやがて、……不思議なアザミを見つけた。@
-`　....And finally... he found a strange looking thistle.`@
+`　....And finally... he found a strange-looking thistle.`@
 br
 ;　それは、かすかに花が光を帯びているように見えた。@
 `　It looked like the flower was tinged with a faint light.`@
@@ -1978,7 +1978,7 @@ cl c,0
 ld l,AZA_D2,24
 
 ;「あなたがこれまで酷くいじめ抜かれたならいじめ抜かれたほど。@……その魔力は強まり、@あなたを、誰もが怯えるいじめっこに生まれ変わらせてくれるのです。」@
-`"Depending on exactly how bad you have been bullied up until now,`@` ...the strength of its magic will increase. `@`And it will remake you into a bully feared by all."`@
+`"Depending on exactly how bad you have been bullied up until now,`@` ...the strength of its magic will increase. `@`And you will be reborn as a bully feared by all."`@
 ld r,YOS_D8a,80
 
 ;「も、もう、……誰にもいじめられなくなる……？」\
