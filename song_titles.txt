@@ -1,116 +1,155 @@
-kanji : Ｓｐｉｄｅｒ　Ｌｉｌｙ～妹背の結びは東雲ぞ～
+﻿kanji : Ｓｐｉｄｅｒ　Ｌｉｌｙ～妹背の結びは東雲ぞ～
 romaji: Spider Lily ~Imose no Musubi wa Shinonome zo~
+translation: Spider Lily ~The Two Joined at Dawn~
 
 kanji : 心の灯り
 romaji: Kokoro no Akari
+translation: The Light in Your Heart
 
 kanji : 手と手をつないで
 romaji: Te to Te wo Tsunaide
+translation: Hand in Hand
 
 kanji : キョウ
 romaji: Kyou
+translation: Kyou
 
 kanji : ぽかぽか
 romaji: Pokapoka
+translation: Warmth
 
 kanji : 悪趣味な音楽教師による選曲
 romaji: Akushumi na Ongaku Kyoushi ni yoru Senkyoku
+translation: A Song Choice Unbecoming of a Music Teacher
 
 kanji : 花散る夜空
 romaji: Hanachiru Yozora
+translation: A Night Sky Filled with Petals
 
 kanji : 月夜の時計
 romaji: Tsukiyo no Tokei
+translation: Moonlit Clock
 
 kanji : 黄昏に滴る血は蜜の味
 romaji: Tasogare ni Shitataru Chi wa Mitsu no Aji
+translation: Blood Spilled at Dusk Tastes Like Honey
 
 kanji : 断罪回廊
 romaji: Danzai Kairou
+translation: Conviction Corridor
 
 kanji : Dendritic Agate -Instrumental-
 romaji: Dendritic Agate -Instrumental-
+translation: Dendritic Agate -Instrumental-
 
 kanji : ａ　ｃｒｏｓｓ　ｌｉｎｅ
 romaji: a cross line
+translation: a cross line
 
 kanji : 常夜の晩餐会
 romaji: Jouya no Bansankai
+translation: Banquet of a Neverending Night
 
 kanji : 春風
 romaji: Harukaze
+translation: Spring Breeze
 
 kanji : 忘れ得ぬこの日
 romaji: Wasureenu Kono Hi
+translation: An Unforgettable Day
 
 kanji : 陽炎
-romaji: Youen
+romaji: Kagerou
+translation: Heat Shimmer
 
 kanji : 驚いた？
 romaji: Odoroita?
+translation: Were you surprised?
 
 kanji : 宵の影踏み
 romaji: Yoi no Kagefumi
+translation: Chasing Shadows at Evening
 
 kanji : 葬り去る花
 romaji: Houmurisaru Hana
+translation: Forgotten Flower
 
 kanji : フルキアシキ
 romaji: Furukiashiki
+translation: Ancient Evil
 
 kanji : クラヤミオンガク
 romaji: Kurayami Ongaku
+translation: Dark Music
 
 kanji : かがみさん
 romaji: Kagami-san
+translation: Kagami-san
 
 kanji : そこには誰もいないはず
 romaji: Soko ni wa Dare mo Inai Hazu
+translation: There Shouldn't Be Anyone There
 
 kanji : フ゜ツフ゜ツ
 romaji: Putsuputsu
+translation: Bumps
 
 kanji : 学校案内人
-romaji: Gakkou Angainin
+romaji: Gakkou Annainin
+translation: School Tour Guide
 
 kanji : 丑三つ時
 romaji: Ushimitsudoki
+translation: The Dead of Night
 
 kanji : 例えば、こんな怪談
 romaji: Tatoeba, Konna Kaidan
+translation: Take That Ghost Story for Example
 
 kanji : 棘
 romaji: Toge
+translation: Thorns
 
 kanji : 霧花
 romaji: Kirihana
+translation: Mist Flower
 
 kanji : 強く生きて、花は咲く
 romaji: Tsuyoku Ikite, Hana wa Saku
+translation: Live Strong, as the Flowers Bloom
 
 kanji : 丑ノ刻参り
 romaji: Ushi no Koku Mairi
+translation: The Dead of Night
 
 kanji : ほこライオン、はじめました
 romaji: HokoRaion, Hajimemashita
+translation: Meeting the Shrine Lion
 
 kanji : サボンの花
 romaji: Sabon no Hana
+translation: Savon de Fleur
 
 kanji : 暗き昏き闇は月を背に
 romaji: Kuraki Kuraki Yami wa Tsuki wo Sei ni
+translation: The Moon Draped Over Pure Darkness
 
 kanji : 体のない夜
 romaji: Karada no Nai Yoru
+translation: Bodiless Night
 
 kanji : ひとりぼっちの君のうた
 romaji: Hitoribocchi no Kimi no Uta
+translation: Song for the Lonesome You
 
 kanji : いわいとまつり
 romaji: Iwai to Matsuri
+translation: Celebratory Festival
 
 kanji : 冥暗境界線
 romaji: Meian Kyoukaisen
+translation: The Border of Shade
 
 kanji : 愛しを渡るは黄昏ぞ（エンディングＶｅｒ）
 romaji: Hashi wo Wataru wa Tasogare zo (ending ver.)
+translation: The Love Crossed at Dusk (Ending Ver.)
