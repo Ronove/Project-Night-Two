@@ -2282,7 +2282,7 @@ br
 ;　決意。@覚悟。@
 `　Determination. `@`Resolution.`@
 ;　それをもう一度自分に言い聞かせ、昇降口に入る。\
-`　He repeated those words to himself once more as he walked into the main entrance.`\
+`　He repeated those words to himself once more as he stepped inside.`\
 
 ;bg black,1
 ;bg shoukou_03,23
@@ -2486,7 +2486,7 @@ br
 ld c,YOS_D8,80
 
 ;　正明は生まれて初めて。@クラスメートたちが自分に畏怖を覚えていることを感じた。@
-`　For the first time in his life. `@`Masaaki knows what it feels like to be feared by his classmates.`@
+`　For the first time in his life. `@`Masaaki knew what it felt like to be feared by his classmates.`@
 br
 ;　ぞわりとした高揚感が、全身に染み渡るのを感じる。\
 `　A sort of uplifting feeling spread throughout his whole body.`\
@@ -2748,7 +2748,7 @@ ld l,AZA_D3,80
 `"Why don't you try getting revenge for that."`\
 
 ;　さっき、ノートに書き間違いをして、ごしごしと消したので、@机の上にはたっぷりの消しカスがある。@
-`　Since he had made some mistakes in his notebook earlier, `@`he happened to have some eraser shaving on his desk.`@
+`　Since he had made some mistakes in his notebook earlier, `@`he happened to have some eraser shavings on his desk.`@
 br
 ;　それらを指でこねると、@彼らがよく自分にぶつけてきたのと同じような、小さな玉がいくつも出来た。\
 `　He gathered them up in his fingers, `@`and made a bunch of little balls out of them, just like the ones he used to be hit with.`\
@@ -2952,7 +2952,7 @@ me1v 24,50
 `　Just like what used to happen to Masaaki, `@`he would get away with pulling pranks on those who bullied him before by insisting that they were his friends.`@
 br
 ;　そのシーンだけを切り出してみれば、それも立派ないじめだったろう。\
-`　Simply by trying to do what they did to him, he was able to unleash a good deal of bullying on them.`\
+`　Simply by doing what they used to do to him, he was able to unleash a good deal of bullying on them.`\
 
 ;　しかし、誰もがかつての正明が気の毒ないじめられっこであったことを知っている。@
 `　But everyone knew that Masaaki used to be a pitiful bullied kid before.`@
@@ -3131,11 +3131,11 @@ me1v 5,50
 `　Masaaki didn't realize that he had become a bully at all.`@
 br
 ;　自分のいじめられっこの汚名は、@彼らに正当な分の復讐を終えて初めて、返上できると考えていたからだ。\
-`　He won't give up until he's enacted what he considers the right amount of revenge `@`for all the disgraces inflicted on him.`\
+`　He won't give up until he's enacted what he considers the right amount of revenge for all the disgraces inflicted on him.`\
 
 
 ;　自分は、このクラスになってから数ヶ月の間、ずっとずっといじめられた。@最低でも、それと同じ期間はいじめ返さなくては、割りが合わない。@
-`　It's been several months since the year started and he joined the class, and he had been bullied every single day for that whole time. `@`He wasn't going to be satisfied until he did the same to them for at least the same amount of time.`@
+`　It's been several months since he joined the class at the start of the year, and he had been bullied every single day for that whole time. `@`He wasn't going to be satisfied until he did the same to them for at least the same amount of time.`@
 br
 ;　だから次の日より正明は、これから数ヶ月の間、@みっちりたっぷりといじめ抜いてやると決意を新たにした。\
 `　So from the next day on, Masaaki came to school with a new devotion. `@`He vowed to spend the next few months completely and utterly bullying those who had bullied him.`\
@@ -3322,7 +3322,7 @@ br
 ld r,YUK_D4a,80
 
 ;「可哀想に……。@私も一緒に探してあげるね。@……正明くんも一緒に探してあげなさいよ…！！」@
-`"You poor thing... `@`I'll help you look for your key too.`@` ...Masaaki-kun, you help find it too...!!"`@
+`"You poor thing... `@`I'll help you look for your key.`@` ...Masaaki-kun, you help find it too...!!"`@
 ld l,YOS_D10,23
 
 ;「……うっせぇな。@俺はこいつと一緒に宝探しをして遊んでるだけなんだよ。@……なぁ？！@　俺たち友達だもんなぁ？！」\
@@ -3445,7 +3445,7 @@ me2v 5,50
 ;ld r,YUK_D1,80
 
 ;「だからそれをやり返すのが、君の言う正当な復讐ってわけね。@………君の気持ちも理解は出来るよ。@これまでの分を仕返ししたい気持ち、わからないわけじゃない。@……なら、それはもう充分じゃないの？！@　もう充分、彼らをいじめたでしょ！！」\
-`"And so you want to get back at them, have your rightful revenge.`@` ....I understand how you feel. `@`It's not like I don't understand the feeling of wanting payback for all that.`@` ...But isn't this enough?! `@`Haven't you bullied them enough?!"`\
+`"And so you want to get back at them and have your rightful revenge.`@` ....I understand how you feel. `@`It's not like I don't understand the feeling of wanting payback for all that.`@` ...But isn't this enough?! `@`Haven't you bullied them enough?!"`\
 bg black,22
 
 bg ura7,0
@@ -3453,7 +3453,7 @@ ld c,YOS_D10,22
 ld c,YOS_D10n,80
 
 ;「全然足りてねぇよ！！@　あいつらは寄って集って大勢でいじめたんだ！@　それに比べたら、こいつらは俺一人にいじめられるだけ。@大甘じゃねぇか！！@　それにな、俺の心の傷が癒えたかどうかは、お前じゃねぇ、俺にしか決められないんだ！！@　被害者である俺だけが、復讐の権利と、心の傷がいつ癒えたかどうかを決定できるんだッ！！」\
-`"It's nowhere near enough!! `@`They all ganged up on me when they bullied me! `@`Compared to that, what I can dish out to them alone, `@`it's far too lenient on them!! `@`And you're not the one who can decide whether or not I've had enough to heal my heart, I'm the only one who knows that!! `@`I'm the victim, so I'm the only one who can decide what amount of revenge is necessary to heal the wounds caused to my heart!!"`\
+`"It's nowhere near enough!! `@`They all ganged up on me when they bullied me! `@`Compared to that, what I can dish out to them alone...`@` it's far too lenient on them!! `@`And you're not the one who can decide whether or not I've had enough to heal my heart. I'm the only one who knows that!! `@`I'm the victim, so I'm the only one who can decide what amount of revenge is necessary to heal the wounds caused to my heart!!"`\
 ld r,YUK_i1a,24
 ;ld r,YUK_D1,80
 
@@ -3571,7 +3571,7 @@ br
 `　Or rather, it was a pain that only he could understand.`@
 br
 ;　彼はその日を境に、自他共に認める本当のいじめっことなった……。\
-`　That day was the turning point for him. From then on everyone, himself included, considered him to be a true bully...`\
+`　That day was the turning point for him. From then on, everyone -- himself included -- considered him to be a true bully...`\
 
 fede 0,2000
 E_A
@@ -3731,10 +3731,10 @@ br
 ;　皆を虐げ、魂を食らう。@
 `　To oppress everyone, and feed on their souls.`@
 ;　自分の世界は明るくなり、何もかもが充実し、それを先生に大いに評価される。\
-`　To brighten his world, and become perfect at everything, that is what the teachers admire.`\
+`　To brighten his world, and become perfect at everything... That is what the teachers admire.`\
 
 ;　評価された人間はもう、誰にも咎められない。@遊ぶようにいじめ、遊ぶようにどこまでも上り詰める。@
-`　Valued people are never judged by anyone. `@`They bully like it's a game, and climb to the top, like it's a game.`@
+`　Valued people are never judged by anyone. `@`They bully like it's a game, and climb to the top like it's a game.`@
 br
 ;　逆に、魂を食われた人間たちは。@……どこまでも暗く狭い世界に落ち込み、@まるでいじめっこを引き立てるかのように転落していく……。\
 `　On the other hand, those who have their souls eaten.... `@`they will forever be stuck in their small and dark worlds. `@`It's like they fall just to help the bullies reach the top...`\
@@ -3961,7 +3961,7 @@ ld l,YOS_D7,80
 `　Everyone was talking about it after his personality suddenly changed, after all.`@
 br
 ;　しかし、当の本人の口からそれが語られるとは思いもしなかった。\
-`　But she never though that she'd hear Masaaki himself say he did it.`\
+`　But she never thought that she'd hear Masaaki himself say he did it.`\
 ld r,YUK_i1a,80
 
 ;「魔法のアザミって、……学校の八不思議の話だよね……？」@
@@ -3999,7 +3999,7 @@ br
 ;　いじめの楽しさを、囁く者、唆す者。\
 `　She knew who was whispering to him, and tempting him with the joys of bullying.`\
 ;　由香里は辺りを見渡す。@……もちろん、自分たち以外に誰もいるはずはない。@
-`　Yukari surveyed they area around her.`@` ...Naturally, there shouldn't be anyone else here but these three children.`@
+`　Yukari surveyed the area around her.`@` ...Naturally, there shouldn't be anyone else here but these three children.`@
 br
 ;　だけれども、確実に居ることを確信し、言った。\
 `　However, to confirm her suspicion, she spoke.`\
