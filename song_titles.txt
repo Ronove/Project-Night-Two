@@ -59,7 +59,7 @@ romaji: Wasureenu Kono Hi
 translation: An Unforgettable Day
 
 kanji : 陽炎
-romaji: Kagerou
+romaji: Youen
 translation: Heat Shimmer
 
 kanji : 驚いた？
