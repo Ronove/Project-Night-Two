@@ -19,7 +19,7 @@ romaji: Pokapoka
 translation: Warmth
 
 kanji : 悪趣味な音楽教師による選曲
-romaji: Akushumi na Ongaku Kyoushi ni yoru Senkyoku
+romaji: Akushumi na Ongaku Kyoushi ni Yoru Senkyoku
 translation: A Song Choice Unbecoming of a Music Teacher
 
 kanji : 花散る夜空
@@ -64,7 +64,7 @@ translation: Heat Shimmer
 
 kanji : 驚いた？
 romaji: Odoroita?
-translation: Were you surprised?
+translation: Were You Surprised?
 
 kanji : 宵の影踏み
 romaji: Yoi no Kagefumi
@@ -151,5 +151,5 @@ romaji: Meian Kyoukaisen
 translation: The Border of Shade
 
 kanji : 愛しを渡るは黄昏ぞ（エンディングＶｅｒ）
-romaji: Hashi wo Wataru wa Tasogare zo (ending ver.)
+romaji: Hashi wo Wataru wa Tasogare zo (Ending Ver.)
 translation: The Love Crossed at Dusk (Ending Ver.)
