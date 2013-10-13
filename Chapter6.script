@@ -4094,11 +4094,11 @@ ld r,AZA_D1,22
 ld r,AZA_D3,80
 
 ;「くす。@……吉川正明は、いじめ抜かれ、深く傷付いたからこそ、@誰にも負けない、素晴らしいいじめっことなりました。@故に、あなたが如何に咎めようとも、耳を貸さないのです。」\
-`"*Giggle* `@`...Masaaki Yoshikawa was hurt very deeply by bullying. `@`So he became a great bully, who won't lose to anyone. `@`Furthermore, how do you intend to scold him when he won't even listen to you."`\
+`"*Giggle* `@`...Masaaki Yoshikawa was hurt very deeply by bullying. `@`So he became a great bully who won't lose to anyone. `@`Furthermore, how do you intend to scold him when he won't even listen to you?"`\
 ld c,SMI_w5,80
 
 ;「ふっふっふ！@　自分をいつまでも被害者だと思っているからのぅ！@　自分のことを被害者だと思い込む加害者ほど、性質の悪いものはこの世にないのじゃ！」\
-`"Fufufu! `@`He will always think he's the victim! `@`There is no one more bad natured in this world than a perpetrator who refuses to see himself as anything but a victim!"`\
+`"Fufufu! `@`He will always think he's the victim! `@`There is no one more bad-natured in this world than a perpetrator who refuses to see himself as anything but a victim!"`\
 cl l,0
 mld l,YUK_i2,80
 
@@ -4208,7 +4208,7 @@ cl l,0
 mld l,YUK_i1,80
 
 ;「………そうしたいなら、そうしたらいい。@……吉川くんが私をいじめてる間は、……他の子たちは君にいじめられなくて済むだろうし。」\
-`"....If that's what you want to do, go ahead.`@` ...If you're wasting your time bullying me... then that you won't be able to spend that time bullying the other kids."`\
+`"....If that's what you want to do, go ahead.`@` ...If you're wasting your time bullying me... then you won't be able to spend that time bullying the other kids."`\
 cl c,0
 ld r,YOS_D8a,24
 
@@ -4259,7 +4259,7 @@ ld r,AZA_D3,80
 ld l,SMI_w3,80
 
 ;「おお、姉者、それは素晴らしき名案じゃ！@　いじめと抗うと申した由香里が、いじめっことなりいじめの愉悦に染まるとは…！！@　ふっふふふふ、それは実に面白き名案じゃ！」\
-`"Ohh, sister, what a splendid idea! `@`The once proud Yukari who went against bullying giving in to the joys of bullying herself...!! `@`Fufufufu, That really is an amusing idea!"`\
+`"Ohh, sister, what a splendid idea! `@`The once proud Yukari who fought against bullying succumbing to the joys of bullying herself...!! `@`Fufufufu, that really is an amusing idea!"`\
 mld c,YUK_i2,80
 
 ;「……私は、いじめっこになんか、絶対になりません。」\
@@ -4322,15 +4322,15 @@ bg black,23
 bg kyou_02,23
 
 ;　一人の少年の筆箱を取り上げ、こっちこっちと囃し立てながら逃げ回る。@
-`　He had stolen one of the boy's pencil cases and was playing keep away with it while mocking the boy the whole time.`@
+`　He had stolen one of the boys' pencil cases and was playing keep away with it while mocking the boy the whole time.`@
 ;　そしてベランダに逃げ、そら返してやるよと、彼に向かって放った時、@……少し強い風が吹いた。\
-`　Both of them ended up on the balcony outside the classroom, where Masaaki told the boy if he wanted it so bad, he could have it, and threw the case at the boy.`@` ...And at that moment, a somewhat strong gust of wind blew by.`\
+`　Both of them ended up on the balcony outside the classroom, where Masaaki told the boy that if he wanted it so bad, he could have it, and threw the case at the boy.`@` ...And at that moment, a somewhat strong gust of wind blew by.`\
 bg koutei_03,23
 
 me2v 5,50
 
 ;　投げた筆箱が風に浮き、……ベランダの手すりを越える。@
-`　The thrown case got in the wind... and got blown over the balcony railing.`@
+`　The thrown case was lifted up by the wind... and passed over the balcony railing.`@
 ;　少年は落とすまいと、ベランダから大きく身を乗り出す。@
 `　Not wanting to lose it, the boy leaned out over the railing.`@
 ;　幸いにもキャッチ出来たが、………少年はあまりに、身を乗り出しすぎていた。\
@@ -4417,12 +4417,12 @@ bg black,22
 bg kyou_01,22
 
 ;「おぉ、吉川が見ていたか。@先生に詳しく状況を教えてくれ。」\
-`"Oh, you saw what happened Yoshikawa? `@`Please tell me the details."`\
+`"Oh, you saw what happened, Yoshikawa? `@`Please tell me the details."`\
 ld c,YOS_D3a,22
 ld c,YOS_D10a,80
 
 ;「………あ、あいつ、@…………ふざけて駆け回ってて。@……それでその、……手すりにでも跨ろうとしたのか、急に手すりを登り出して、@………落ちて……。」\
-`"....H-He....... `@`was messing around.`@` ...And then he... sat on the up on the railing, then suddenly decided to stand on it.... `@`and fell..."`\
+`"....H-He....... `@`was messing around.`@` ...And then he... sat on the railing, then suddenly decided to stand on it.... `@`and fell..."`\
 ;　落ちた少年が、ひとりでふざけていて、転落した。@
 `　The boy fell when he was playing around, alone.`@
 ;　正明はそう、証言する。@
@@ -4450,7 +4450,7 @@ me1v 16,50
 `　Masaaki's heart continued to beat rapidly.`@
 br
 ;　……下手をしたら警察沙汰だろうか。@これは傷害罪になるだろうか。@
-`　...But what if his lie was caught, would the police get involved? `@`Could this be charge under bodily harm?`@
+`　...But what if his lie was caught, would the police get involved? `@`Could he be charged for bodily harm?`@
 ;　いやそもそも、あいつは無事なんだろうか。@救急車に運ばれる間、身動き一つしないように見えた。\
 `　Was the boy even alright? `@`When they loaded him into the ambulance he wasn't even moving an inch.`\
 
@@ -4463,7 +4463,7 @@ br
 bg kyou_03,22
 
 ;　そんな正明からは、@……何をしても許されるという、クラスの暴君としての威厳や畏怖は、失われていた……。\
-`　As he was right then... `@`Masaaki, the tyrant of the class who could get away with anything, had lost ever last ounce of dignity and dread he held...`\
+`　As he was right then... `@`Masaaki, the tyrant of the class who could get away with anything, had lost every last ounce of dignity and dread he held...`\
 bg black,2
 
 fede 0,2000
@@ -4677,9 +4677,9 @@ quakex 3,300
 
 
 ;　クラスメートたちは正明を袋叩きにしながら、これまでの憂さを晴らしていく。@
-`　By beating on Masaaki like this they were able to forget their troubles.`@
+`　By beating on Masaaki like this, they were able to forget their troubles.`@
 ;　そこには奇妙な仲間意識や連帯感が生まれ始めていた。@
-`　And in doing so a strange sense of camaraderie and teamwork was born among them.`@
+`　And in doing so, a strange sense of camaraderie and teamwork was born among them.`@
 br
 ;　……この感覚、……わかってる。@スミレによって、いじめの愉悦を教えられているのだ。\
 `　...This feeling... she knew it. `@`Sumire has taught them the joy of bullying.`\
@@ -4841,13 +4841,13 @@ bg Different_spiral_1a,22
 `　She would never allow bullying.`@
 br
 ;　そしてそれ以上に、自殺なんて愚行を、絶対に許したくない。\
-`　But even more so, she would never allow some to do something as foolish as suicide.`\
+`　But even more so, she would never allow someone to do something as foolish as commit suicide.`\
 
 ;　その為には、……正明を何とか守り、@………みんなを、復讐という名のいじめから、目を覚まさせなければ。@
 `　To do that... she had to find some way to protect Masaaki.`@` ....And a way to make her classmates come to their senses and stop their revenge.`@
 br
 ;　しかし、そんなこと、ついさっきの乱闘さえ止められなかった自分に、出来るわけもない………。\
-`　But, she wasn't even able to stop that fight just then, how was she supposed to do all that....`\
+`　But, if she wasn't even able to stop the fight that had just happened, how was she supposed to do all that....?`\
 ld c,MAR_w1,22
 
 ;　……毬枝さんのような人間の味方の妖怪が、また助けてはくれないだろうか。\
@@ -4916,7 +4916,7 @@ ld r,SMI_w4,80
 ld c,AZA_D1,22
 
 ;「……くす。@これは素晴らしい自己犠牲です。@……自分がいじめらっこになることで、吉川くんを庇おうというのですね？」\
-`"...*Giggle* `@`What a wonderful self-sacrifice.`@` ...Do you intend by protect Yoshikawa-kun by taking the bullying on yourself?"`\
+`"...*Giggle* `@`What a wonderful self-sacrifice.`@` ...Do you intend to protect Yoshikawa-kun by taking on the bullying yourself?"`\
 ld l,YUK_i4,80
 
 ;「……………このままじゃ、吉川くんはみんなに乱暴されて、@……大喧嘩になって大怪我をすることになってしまう。@……確かに吉川くんは、酷いいじめをみんなにした。@仕返しをしたいみんなの気持ちも、確かにわかるの。@……でも、それを認めて延々と繰り返したら、ずっとあなたたちの思う壺っ。@いじめの連鎖が、永遠に終わらないっ……。」\
@@ -4946,7 +4946,7 @@ br
 `　...So there's still a chance that she can stop the bullying.`\
 
 ;　自らいじめられっこになることで、……正明を救う。@
-`　She will save Masaaki... by become the new bullied kid.`@
+`　She will save Masaaki... by becoming the new bullied kid.`@
 ;　そして、……何とかみんなと和解して、クラスからいじめをなくす。@
 `　And... somehow find a way to reconcile with the class, and end the bullying there.`@
 br
@@ -4966,7 +4966,7 @@ ld r,AZA_D2,22
 ld l,SMI_w6,80
 
 ;「ならば決まりじゃ！@　私の力で、お前をこれより、クラス一のいじめられっこにしてやろうぞ！@　皆は正明のことなどケロリと忘れて、そなたをいじめることに夢中になろうぞ！@　……クラス全体とのいじめに、どう抗うか楽しみじゃ！！@　前は結果的に彼岸花に救われたが、……今度は同じ幸運は訪れぬぞ…？@　仮にやって来ても、もう好きにはさせぬ。@姉者は彼岸花と互角の凶暴さを持つ、@凶悪極悪の意地悪偽善妖怪なのじゃからなー！@/
-`"Then it's decided! `@`From here on I will use my power to make the class bully you! `@`Everyone will completely forget about Masaaki, and become engrossed in bullying you!`@` ...I'm looking forward to seeing how you'll fight the bulling of an entire class!! `@`Before, you were consequently saved by Higanbana... but can you expect the same stroke of good luck this time around...? `@`Even if it does happen, don't expect us to allow you to have your way for long. `@`My sister's brutality is on par with Higanbana's. `@`She's a diabolical, heinous, malicious and hypocritical youka--!`@/
+`"Then it's decided! `@`From now on, I will use my power to make the class bully you! `@`Everyone will completely forget about Masaaki, and become engrossed in bullying you!`@` ...I'm looking forward to seeing how you'll fight the bullying of an entire class!! `@`Before, you were consequently saved by Higanbana... but can you expect the same stroke of good luck this time around...? `@`Even if it does happen, don't expect us to allow you to have your way for long. `@`My sister's brutality is on par with Higanbana's. `@`She's a diabolical, heinous, malicious and hypocritical youka--!`@/
 se1 48
 quakey 1,100
 ;　ふぎーー？！」\
