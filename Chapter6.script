@@ -6050,7 +6050,7 @@ ld r,SMI_i3a,22
 ld r,SMI_i1,80
 
 ;「んな、………何なのじゃ、これは……！！@　これは、……ど、どういうことなのじゃ……！！」\
-`"Rrgh.... What is this...!! `@`What... is the meaning of this...!!"`\
+`"Rrgh.... What is this...?! `@`What... is the meaning of this...?!"`\
 ;＜スミレ
 
 bg black,23
@@ -6277,7 +6277,7 @@ br
 bg black,22
 
 ;　その後、正明はベランダから落ちて怪我をした子に謝ったそうだ。@
-`　Apparently, after that, Masaaki apologized to the boy that fell off of the balcony.`@
+`　Apparently, after that, Masaaki apologized to the boy who fell off of the balcony.`@
 br
 ;　……その子が素直に許してくれたことが、正明は何よりも嬉しかった\
 `　...Masaaki was beyond happy that the boy forgave him.`\
