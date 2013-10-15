@@ -34,7 +34,7 @@ bg Different_spiral_1b,22
 `　Now, the school is being overrun by a myriad of nameless youkai.`@
 br
 ;　もちろん、無慈悲な妖怪たちに、妖怪同士、仲良くしようなどという気持ちがあるわけもない。\
-`　Of course, there is no reason to expect such ruthless youkai would try to get along with their fellow youkai.`\
+`　Of course, there is no reason to expect such ruthless youkai to try to get along with each other.`\
 ;　この巨大な狩場に自分の縄張りを広げようと、妖怪同士が殺し合い、喰らい合う。@
 `　In the interest of increasing their territory in this giant hunting ground, these youkai killed and devoured each other.`@
 br
@@ -113,7 +113,7 @@ ld r,SAK_D2,80
 ;ld r,SAK_D4,80
 
 ;　さくのしんは、その幼そうな外見に似合わず、@この巨大マンモス校が誕生する以前からこの土地にいる長老格なのだ。\
-`　Despite his youthful appearance,`@` Sakunoshin had been one of the Elders, long since before this mammoth of a school was constructed.`\
+`　Despite his youthful appearance,`@` Sakunoshin had been one of the Elders since long before this mammoth of a school was constructed.`\
 bg black,23
 bg kouchou_02,0
 ld c,KOU_D2,23
@@ -223,7 +223,7 @@ ld l,RUN_D1,23
 ld l,RUN_D5,80
 
 ;「……妖怪はやっぱり、静けさの中に潜む方が素敵だと思うね。」@
-`"...It really is best for youkai to lay low and hide quietly."`@
+`"...It really is best for youkai to lie low and hide quietly."`@
 ;＜ルノワール
 
 ld r,KOU_D3,24
