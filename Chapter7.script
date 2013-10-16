@@ -493,7 +493,7 @@ br
 ;　その縁に腰掛け、長い髪やスカートを風に任せ、……眼下をぼんやりと眺めていた。\
 `　She was perched on the edge, her long hair and skirt swaying in the wind... and staring blankly downwards.`\
 ;　眼下を、……二人の人影が歩いている。@
-`　Beneath her.... there were two people walking.`@
+`　Beneath her.... two people were walking.`@
 br
 ;　大人の男性の手を引いて、生徒が敷地内を案内しているように見えた。\
 `　A student was leading a grown man by the hand, apparently giving him a tour of the school grounds.`\
@@ -540,7 +540,7 @@ ld r,NON_D2,80
 ;ld l,SH2_D2,80
 
 ;「……はは。@それはどうかな。@……僕のいた当時は、いじめや乱暴がとても多い荒れた時代でね。」@
-`"...Haha. `@`I wonder.`@` ...Y'know, in my time bullying and violence were commonplace."`@
+`"...Haha. `@`I wonder.`@` ...Y'know, in my time, bullying and violence were commonplace."`@
 ;＜大人秋一
 br
 ;　男性は軽やかに笑う。@
@@ -620,7 +620,7 @@ bg rouka_04,22
 bgm1 10
 
 ;「ギャギャギャギャア！！@　人間どもがイッパイだぜ！@　喰らい放題だぜ！！」@
-`"Gyahahahaha!! `@`Man, this place is just PACKED with humans!! `@`Eat your fill everyone!!"`@
+`"Gyahahahaha!! `@`Man, this place is just PACKED with humans!! `@`Eat your fill, everyone!!"`@
 ;「何てデケェ学校だぁ！@　クソガキどもの魂でギュウギュウだぜぇ！！」@
 `"This school is huuuuuuge! `@`It's just crammed to the brim with these little shits' souls!!"`@
 ;「集るんじゃねえや、クソ妖怪ども！！@　こいつらの魂は全部、俺ンだ！！」@
@@ -643,14 +643,14 @@ bg rouka_03,22
 `　Only the strongest youkai survived to continue eating to their heart's content.`@
 br
 ;　生き残るには、他の妖怪たちを喰らい、誰よりも早く強くなるしかない。\
-`　The only way for them to avoid being a meal for another youkai, was to become stronger and faster than those around them.`\
+`　The only way for them to avoid being a meal for another youkai was to become stronger and faster than those around them.`\
 ;　子供たちは学校から逃げない。@
 `　The children couldn't escape from the school.`@
 ;　ならば、先に喰らうべきは子供たちじゃない。@邪魔になる他の妖怪たちだ。@
 `　So eating them could wait. `@`Instead, the first to get eaten were the youkai who impeded the progress of others.`@
 br
 ;　人ならざる者にしか見ることの出来ぬ、@……弱肉強食の、恐ろしい生存競争が、学校中で繰り広げられていた。\
-`　A struggle for survival of the fittest spread out across the entire school.`@` ...A battle whose only witnesses were those unearthly beings.`\
+`　A struggle for survival of the fittest spread out across the entire school.`@` ...A battle where the only witnesses were those unearthly beings.`\
 bg black,22
 ;bg white,1
 
@@ -696,7 +696,7 @@ me3v 28,70
 `"We'll consume them and gain their powerrRRaaaAAH!!"`@
 br
 ;　大蛇のようなうねりが職員室を飛び出し、廊下で螺旋を描きながら保健室の扉を破って飛び込む。\
-`　Like a serpent they wound out the staff room and into the hallways before forming into a spiral and smashing through the infirmary door.`\
+`　Like a serpent, they wound out of the staff room and into the hallways before forming into a spiral and smashing through the infirmary door.`\
 mov %HIG_Isyou,2
 bg white,23
 bg hoken_01,23
@@ -721,14 +721,14 @@ br
 ;「んんん？@　ビビってんのかァ、この人形ぉおおぉ！！」@
 `"Hmmm?? `@`Are you scared, little dollyyyy?!"`@
 ;「何か言ってやがんゾ！@　小さい声で聞こえねぇヤ！！@　おいお前ェら、静かにしろ！！@　俺たちに食い尽くされる前に、最期に一言くらい言わせてヤレ！！」\
-`"Speak up! `@`I can't hear your tiny little voice! `@`Hey shut up everyone!! `@`Before we eat you up, let us hear your last words!!"`\
+`"Speak up! `@`I can't hear your tiny little voice! `@`Hey shut up, everyone!! `@`Before we eat you up, let us hear your last words!!"`\
 fedexx 0,50,0,0,0,0,1000
 E_B
 E_M2
 E_M3
 
 ;　ぐるぐると渦を巻く妖怪たちの群が、びたっと止まり、台風の目の中のような静寂が訪れる。@
-`　The maelstrom of monsters slowed to a stop, and became as still as the eye of a storm.`@
+`　The maelstrom of monsters slowed to a halt, and became as still as the eye of a storm.`@
 br
 ;　……だからようやく、……彼岸花が口にした言葉が聞き取れる。\
 `　...Finally... they were able to hear the words coming out of Higanbana's mouth.`\
@@ -816,11 +816,11 @@ bg black,22
 `　If she ever carelessly allowed herself to be wounded, the weaker youkai would jump on the opportunity and swarm her.`@
 br
 ;　しかし力を付ければ付けるほどに、破格の獲物とばかりに強い妖怪たちが群れてくる。\
-`　But if she gained too much strength, the stronger youkai would consider he too great a prey to overlook, and swarm her.`\
+`　But if she gained too much strength, the stronger youkai would consider her too great a prey to overlook, and swarm her.`\
 ;　彼岸花にとって、今日、まだ命があるのは、己が強いからではない。@
 `　Higanbana was not still alive today because she had strength.`@
 ;　彼女が強いのは、今日まで生き残ったことに対する結果でしかない。@
-`　It was the exact opposite, she had strength because she had survived until today.`@
+`　It was the exact opposite -- she had strength because she had survived until today.`@
 br
 ;　彼女にとって、まだ命があるのは、………ただ、幸運だったに過ぎないと思っていた。\
 `　She knew that the only reason she was still alive.... was nothing more than good luck.`\
@@ -951,13 +951,13 @@ ld r,HIG_D8,22
 `"....In order to live... I must hunt..."`@
 br
 ;　今日まで彼岸花は、人間の魂を狩りの対象としたことはない。@
-`　Before today Higanbana had never hunted the souls of humans.`@
+`　Before today, Higanbana had never hunted the souls of humans.`@
 ;　生き残るために、襲い来る無数の妖怪たちを殺し、喰らい、それによって妖力を蓄えてきただけだ。\
 `　All she had done to gain spirit energy before now was kill and eat the countless youkai that attacked her.`\
 ;　しかし、それだけでは足るまい。@
 `　However, that was not enough.`@
 ;　積極的に狩りをし、より多くの妖力を蓄えなければ。@
-`　She had to hunt more actively, and gain much more power.
+`　She had to hunt more actively, and gain much more power.`@
 br
 ;　それが、生き延びるために出来る、唯一の努力。\
 `　That was the only thing she could do to survive.`\
