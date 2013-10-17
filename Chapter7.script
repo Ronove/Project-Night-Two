@@ -1006,7 +1006,7 @@ wait 500
 `　The bullied boy had unsteadily stood up and was now squatting next to a tree.`@
 br
 ;　そして、大事そうに抱えていたスケッチブックを広げ、鉛筆を走らせ始める。\
-`　Then, he opened an important looking sketchbook, and began running a pencil over on of its pages.`\
+`　Then, he opened an important-looking sketchbook, and began running a pencil over one of its pages.`\
 ;「……………変な子。」@
 `".........What a strange child."`@
 br
@@ -1105,7 +1105,7 @@ ld l,HIG_D9,80
 `　She expected as much. `@`It stood to reason that any human who could see her would be a little 'off' compared to normal humans.`@
 br
 ;　しかし、彼岸花は、彼が言った一言に、なぜかとても興味を覚えた。\
-`　But, for some reason Higanbana was very intrigued by what he had said.`\
+`　But, for some reason, Higanbana was very intrigued by what he had said.`\
 ;cl l,0
 ;ld c,HIG_D10,23
 
@@ -1241,20 +1241,20 @@ br
 `　It's the color your heart takes on based on what happens around you.`@
 br
 ;　色？@　……私の、ただ生きる日々に、色などあっただろうか？\
-`　Color?`@`... Do the days that I spend doing nothing more than living actually have a color?`\
+`　Color?`@` ...Do the days that I spend doing nothing more than living actually have a color?`\
 ;mld r,HIG_D10,80
 
 ;　ただ、生きるだけ。@
 `　I'm just living.`@
 br
 ;　何も面白くない、ただ生きるためだけに生きる日々に、色など、あるわけもない。\
-`　My days aren't fun, I just live to keep living, I doubt they have a color at all.`\
+`　My days aren't fun, I just live to keep living. I doubt they have a color at all.`\
 ;mld r,HIG_D1,80
 
 ;　しかし、このスケッチブックにはそれがある。@
 `　But this sketchbook was filled with emotions.`@
 ;　愉快な感情だけじゃない。@不愉快な感情の数々さえ、それらはまるでハーモニーのよう。@
-`　And not just pleasant ones. `@`There were plenty unpleasant emotions too, both of them creating a sort of harmony.`@
+`　And not just pleasant emotions. `@`There were plenty of unpleasant ones too. All these emotions blended together to create a sort of harmony.`@
 br
 ;　ページを捲る度に、数々の感情が歌い出す驚きに、@……私は、ただただ、茫然とするしかなかった……。\
 `　Every time he turned a page, I was stunned.`@` ...Each time a slew of emotions would sing out...`\
@@ -1311,7 +1311,7 @@ ld l,HIG_D9,80
 ld r,SHU_D1,80
 
 ;「ただの人間だよ。@名前は、有森秋一（ありもり　しゅういち）。」\
-`"Just a human. `@`My name is Shuuichi Arimori (有森秋一)"`\
+`"Just a human. `@`My name is Shuuichi Arimori (有森秋一)."`\
 bg white,42
 bg black,2
 
@@ -1337,7 +1337,7 @@ bg rouka_03,22
 ;「ならばきっと、たっぷりの妖力を蓄えているはず！@　喰らえば、それは全て我らのものよ！！」@
 `"Then she must be packed to the brim with energy! `@`If we consume her, it'll all be ours!!"`@
 ;「喰わせろ、彼岸花ぁああぁあ！！@　お前の手を足を、頭を肝を心の臓を食い千切らせろぉおお！！」\
-`"We'll eat you, Higanbanaaaaa!! `@`Your legs, your arms, head, heart and liver--we'll tear them to pieces!!"`\
+`"We'll eat you, Higanbanaaaaa!! `@`Your legs, your arms, head, heart and liver -- we'll tear them to pieces!!"`\
 
 bg black,0
 ld c,HIG_D8,22
@@ -1370,7 +1370,7 @@ bg aka3,1
 quake 7,800
 
 ;　引き裂き、食い千切り。@
-` Shredded skin, devoured flesh.`@
+`　Shredded skin, devoured flesh.`@
 ;　ぶちまけ、引き抜き、噛み潰す。@
 `　Spewed blood, removed guts, chewed remains.`@
 br
@@ -1468,11 +1468,11 @@ ld l,SHU_D4,80
 `"Ah, Higanbana-san. `@`Hello."`@
 br
 ;　たった今、酷いいじめを受けていたはずなのに、けろりとした様子で挨拶する。\
-`　Even though he was just received an awful beating, he greeted her nonchalantly.`\
+`　Even though he had just received an awful beating, he greeted her nonchalantly.`\
 ;　もちろん、悔しい感情はあるだろう。@
 `　Of course, he did feel frustrated about having been bullied.`@
 ;　しかし、その感情の揺らめきさえも、彼には今日という日を生きた証。@
-`　However, even that little flicker of emotion was still proof that he survived the day.`@
+`　However, even that little flicker of emotion was still proof that he'd survived the day.`@
 br
 ;　いつものように、大事に抱えていじめっこたちから守っていたスケッチブックを開き、@その感情を描き始める。\
 `　As usual, he opened his precious sketchbook that he had kept safe from the bullies, `@`and began recording his feelings.`\
@@ -3770,7 +3770,7 @@ br
 quake 8,800
 
 ;「や、やめてぇえぇ、ひぃいいいい！！！@　こんなこと、あるわけない！@　これは夢だッ、悪い夢なんだぁあぁあぁ！！」\
-`"S-Stop it, AhHHHHH!!! `@`This isn't real! `@`This is a dream--a nightmare!!"`\
+`"S-Stop it, AhHHHHH!!! `@`This isn't real! `@`This is a dream -- a nightmare!!"`\
 ld c,HIG_w3,22
 
 ;「そうね。@普通の人間にとって、私たちとの出会いなんて、夢の中だけ。@さもなくば、闇の中だけだわ。@/
