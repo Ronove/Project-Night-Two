@@ -1522,7 +1522,7 @@ bg Air_01,22
 ;「………………………。」\
 `"............."`\
 ;「だって。@……貧しい国では、食べる物もなくて。@飢えで死んでいる人たちが、地球上には何人もいるはず。@そんな中で僕は、今日も家族と笑顔で挨拶して、おいしく給食を食べて、@ここでのんびりとお喋りを楽しんでるんだ。@それってすごく幸せで、笑顔になってもいいことなんじゃないかなぁ。」@
-`"After all,`@` ...there are people all over the world, `@`living in poor countries with no food, `@`and dying of starvation. `@`I had the privilege of saying good morning to my family with a smile, and eating delicious lunch food, `@`and have nice chat with you today. `@`I'm really happy about all that stuff, so that should be more than enough reason to smile."`@
+`"After all,`@` ...there are people all over the world, `@`living in poor countries with no food, `@`and dying of starvation. `@`I had the privilege of saying good morning to my family with a smile, and eating a delicious lunch, `@`and having a nice chat with you today. `@`I'm really happy about all that stuff, so that should be more than enough of a reason to smile."`@
 ;「………………………。」\
 `"............."`\
 bg black,22
@@ -1661,13 +1661,13 @@ br
 ;　しかし、こんな冷え切った廊下では無理だ。@
 `　But in this frigid corridor, that would be impossible.`@
 ;　保健室へ逃げ込む前に、食い千切られてしまう。\
-`　She'd be torn to pieces before she could escape back to the infirmary.`@
+`　She'd be torn to pieces before she could escape back to the infirmary.`\
 ld c,HIG_D8,80
 
 me1v 16,50
 
 ;　……踊る彼岸花と呼ばれるようになって、だいぶ久しく、………彼岸花は死を覚悟する。@
-`　...For the first time since she had starting being called the Dancing Higanbana.... she prepared herself for death.`@
+`　...For the first time since she had started being called the Dancing Higanbana.... she prepared herself for death.`@
 br
 ;　ぞくりとした感触の滴りが、胸の内側をゆっくりと垂れ落ちるのを感じた。\
 `　She felt a slow dropping sensation within her chest.`\
@@ -1724,7 +1724,7 @@ br
 ;　これほど冷たく凍った汗を浮かべるのは、これが初めての経験だった。\
 `　This was the first time I that I had ever broken into a sweat this cold.`\
 ;　自分には幸運なことに、これまで力があった。@
-`　I was luckily enough to have been the stronger one in my fights up until this point.`@
+`　I was lucky enough to have been the stronger one in my fights up until this point.`@
 ;　だから、どれほどの死闘であろうとも、……死を予感することはなかったのだ。@
 `　So having never faced a life-or-death situation this bad before... I've never felt this apprehension from being on the verge of death.`@
 br
@@ -1799,7 +1799,7 @@ bgm1 4
 `"Ahaha... stupid question."`@
 br
 ;　秋一は、命懸けだった今日一日を軽く笑って聞き、スケッチブックに鉛筆を走らせていた。\
-`　Shuuichi laughed lightly at my near-death experience, and continue to draw in his sketchbook.`\
+`　Shuuichi laughed lightly at my near-death experience, and continued to draw in his sketchbook.`\
 bg black,22
 bg gakkou_03,0
 ld r,SHU_D4,0
@@ -1816,7 +1816,7 @@ ld l,HIG_D10,80
 ld r,SHU_D4,80
 
 ;「無事に大妖怪から逃れることが出来た、今の彼岸花さんの気持ち。」@
-`"You were able to get away from great youkai unharmed today, how do you feel about that, Higanbana?"`@
+`"You were able to get away from a great youkai unharmed today. How do you feel about that, Higanbana?"`@
 
 ld l,HIG_D9a,80
 
@@ -1950,19 +1950,19 @@ wait 1000
 ;　秋一の、言う通りだ。@
 `　It was as Shuuichi said.`@
 ;　今日の夕焼けは、これまでに一度も見たことのない、鮮やかな色をしていた。@
-`　The colors of this sunset were more vibrant than I've ever seen before.`@
+`　The colors of this sunset were more vibrant than I had ever seen before.`@
 br
 ;　それを認めた時。@……私は心の中に不思議な感触を覚えた。\
 `　Once I admitted that.... `@`I felt a strange sensation in my heart.`\
 ;　もし、心というものに容積があるならば。@
-`　If the feelings within a heart could be measured by some physical metric,`@
+`　If the feelings within a heart could be measured by some physical metric...`@
 ;　握り拳程度しかなかったそれが、……ぶわっと広がるような、不思議な解放感。@
-`　Then it would have only been the size of a clenched fist... albeit rapidly expanding, sense of liberation.`@
+`　...Then it would have only been the size of a clenched fist... albeit rapidly expanding, with a sense of liberation.`@
 br
 ;　まるで心臓の内側の狭い狭い世界が、……体よりも広く広く広がったかのような感触を覚えた。\
 `　It was a feeling almost like the small confines of my heart... were suddenly becoming much, much larger than my entire body.`\
 ;　そして、内より湧き出る自分の心の声を初めて聞く。\
-`　And for the first time I heard a voice in my heart coming from within.`\
+`　And for the first time, I heard a voice coming from within my heart.`\
 bg black,22
 ;bg Different_spiral_1b,22
 
@@ -1974,7 +1974,7 @@ E_MA
 ;“……それにしても今日は危なかった、……イザナミめ、死ぬかと思ったわ……。”@
 `[Nevertheless, today was dangerous... I thought Izanami was going to kill me...]`@
 ;“あんな嘘を信じるなんて、イザナミも馬鹿よね、愚かなヤツ。”@
-`[But he sure was an idiot, that Izanami. To think that he'd believe that lie I told him, such an idiot.]`@
+`[But he sure was an idiot, that Izanami. To think that he'd believe that lie I told him... Such an idiot.]`@
 ;“……色々あったけど。@……とにかく今日も。@……何とか生き残れたわ。@……何とか、ね……。”\
 `[...Lots of things happened.`@` ...But somehow.`@` ...I survived today.`@` ...Somehow....]`\
 bg black,22
@@ -1990,7 +1990,7 @@ br
 ;　様々な色が入り混じった、理解できないけれど、複雑な色に違いなかった。\
 `　Various colors mixed and blended, and though I didn't completely understand, it was undoubtedly a complex hue.`\
 ;「私の目に映る、この鮮やかな夕焼けは。@………あんたにも見えているの。」@
-`"Is this vibrant sunset that I see.`@` ...The same one that you can see?"`@
+`"Is this vibrant sunset that I see...`@` the same one that you can see?"`@
 ;「もちろん。@……それは、様々な感情を楽しむことで、もっと様々な彩を見せてくれるんだよ。」\
 `"Of course.`@` ...That's because the more you enjoy the emotions you have, the more vivid the colors you see become."`\
 bg black,22
@@ -2031,7 +2031,7 @@ bg black,22
 ;ld r,SHU_D2,80
 
 ;「その日を目指して生きることは楽しいし。@その日を想像することもとても楽しい。@……そんな日々を積み重ねると、心から楽しくて、……僕は生きてるって、実感できるんだよ。」\
-`"I enjoy looking forward to that day. `@`And I really enjoy imagining what it will be like.`@` ...The more days I spend working towards my dream, the more enjoyment I'm having... and it's when I feel like I'm truly alive."`\
+`"I enjoy looking forward to that day. `@`And I really enjoy imagining what it will be like.`@` ...The more days I spend working towards my dream, the more enjoyment I'm having... and that's when I feel like I'm truly alive."`\
 bg Air_01,22
 ;ld l,HIG_D10,80
 
@@ -2073,7 +2073,7 @@ br
 ;「俺たちがムシャクシャした時に殴られるのがお前の仕事だろ？@　サボんじゃねーよ。」@
 `"Your job is to take punches from us when we're pissed, got it? `@`Don't try to skimp out on us here."`@
 ;「それとも、俺たちが構ってあげないから、不貞腐れちゃったとか？@　あっはははは、悪ぃ悪ぃ、ちゃんと今日も遊んでやるからよー！」\
-`"Or were you just out here sulking because we weren't paying attention to you? `@`Ahahaha, our bad, we'll be sure to play with a lot today!"`\
+`"Or were you just out here sulking because we weren't paying attention to you? `@`Ahahaha, our bad, we'll be sure to play with you a lot today!"`\
 ;　ぎゃはははは、と少年たちは下卑た声で笑った。@
 `　The boys laughed crassly.`@
 ;　その笑い声に、秋一が全身を強張らせるのがわかった。\
@@ -2151,7 +2151,7 @@ br
 ;　何を始めようとしているか、明白だった。\
 `　It was obvious what they were planning to do.`\
 ;　石は、小石と呼ぶには大きい。@当たり所が悪ければ、掠り傷程度では済まないかもしれない。@
-`　The rocks were a little too large to be called pebbles. `@`If one of them were to hit him the wrong place, he might not be getting away with just a few scratches.`@
+`　The rocks were a little too large to be called pebbles. `@`If one of them were to hit him in the wrong place, he might not be getting away with just a few scratches.`@
 br
 ;　しかし、秋一は動くなと命令されている。@
 `　But, Shuuichi was ordered to not move at all.`@
@@ -2167,7 +2167,7 @@ ld c,HIG_D10,22
 bg gakkou_03,22
 
 ;　いじめっこのひとりが、石を握りしめ、振りかぶった時。@彼岸花はその石を睨み付けた。@
-`　Just as the one of the bullies was winding his arm back in preparation for a throw, `@`Higanbana glared intently at the stone he held.`@
+`　Just as one of the bullies was winding his arm back in preparation for a throw, `@`Higanbana glared intently at the stone he held.`@
 br
 
 se1 7
