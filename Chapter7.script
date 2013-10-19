@@ -2279,7 +2279,7 @@ se3 66
 `"..............!"`@
 br
 ;　無意識の内に、右腕が上がる。@……そこに鋭い鍵爪が伸びる。@
-`　 Involuntarily, my right arm raised.`@` ....And my sharp claws grew.`@
+`　Involuntarily, my right arm raised.`@` ....And my sharp claws grew.`@
 ;　……今この場でその薄汚い魂、私が引き裂いてやる。\
 `　...I'll tear that mangy soul directly from his body, right here, right now.`\
 ;　まさにその瞬間、地面に伏せたままの秋一が呻くように言った。\
@@ -2322,7 +2322,7 @@ br
 ;　どう投げたって、石があんな動きをして襲い掛かってくるわけがない。@
 `　No matter how you throw it, there's no way a stone should be able to fly through the air like that.`@
 ;　すっかり興醒めしてしまい、薄気味悪そうに、砕けた石を見ている。\
-`　Those two boys were no longer interested in bullying, and instead were chilled to the bone looked at the pieces of the smashed stone.`\
+`　Those two boys were no longer interested in bullying, and instead were chilled to the bone and looking at the pieces of the smashed stone.`\
 ;「……なあ、行こうぜ。@なんか気味悪いよ……。」@
 `"...Hey, let's get out of here. `@`This is kinda creepy..."`@
 ;「そうだよ、そうだよ。@……行こうぜ……。」@
@@ -2334,7 +2334,7 @@ se1 10
 quakex 1,100
 
 ;　最後にもうひと蹴りを入れ、いじめっこたちはうずくまる秋一を残して立ち去る……。\
-`　After putting one last kick in the bullies took off, leaving Shuuichi crouching on the ground...`\
+`　After putting in one last kick, the bullies took off, leaving Shuuichi crouching on the ground...`\
 textoff
 
 fede 0,1000
@@ -2348,7 +2348,7 @@ me1v 5,50
 ;「……………どうして、庇ったの？」@
 `".......Why did you protect him?"`@
 ;「だって、……あんなの当たったら痛そうじゃない。」@
-`"Because... if that hit him it looked like it would have hurt."`@
+`"Because... if that had hit him, it looked like it would have hurt."`@
 ld c,HIG_D9,80
 
 ;「その痛そうなものをぶつけようとしたのは連中じゃないの？」\
@@ -2373,7 +2373,7 @@ ld r,SHU_D1,80
 ld l,HIG_D9,80
 
 ;「あなたはあいつらと同じ年の子供には到底、見えなくてよ。@……まるであなたは人間じゃないみたい。」@
-`"Those guys that are the same age as you, and they don't think like you do at all.`@` ...It's almost like you're not even human."`@ 
+`"Those guys may be the same age as you, yet they don't think like you do at all.`@` ...It's almost like you're not even human."`@ 
 ld r,SHU_D4,80
 
 ;「それはひどいなぁ。@人間のつもりなんだけどなぁ。」\
@@ -2408,12 +2408,12 @@ br
 ;「秋一の目は、人間には見えない何かを見ることが出来ている気がするわ。@……それがとてもとても美しいから、@……あなたは人間同士の、低俗な諍いに目を奪われないんだわ。」\
 `"I feel like you must be able to see things that other humans cannot, Shuuichi.`@` ...And what you see is so beautiful... `@`that you can't be bothered by the petty squabbles of your fellow man."`\
 ;　生まれながらに、人ならざる者たちの世界に近い波長を持つ者がいるように。@
-`　In the same way that some people are born with wavelengths closer to the supernatural world.`@
+`　In the same way that some people are born with wavelengths closer to the supernatural world...`@
 br
 ;　生まれながらに、人ならざる何かを持って生まれる者もいるのかもしれない。\
-`　Maybe there were some people who were born with something non-human about them.`\
+`　...Maybe there were some people who were born with something non-human about them.`\
 ;　秋一は多分、……人ならざる目を持っているのだ。@
-`　Shuuichi... probably has mystic eyes.`@
+`　Shuuichi... could be said to have mystic eyes.`@
 ;　彼はその目に、感情というものを、美しい何かとして映し出すことが出来るのだ。@
 `　With those eyes, he was able to perceive emotions as manifestations of beauty.`@
 br
@@ -2457,7 +2457,7 @@ bg black,22
 bg Air_01,22
 
 ;　その時、思ったんだ。@……それが僕の、天職かもしれないって。@
-`　Back then I wondered.`@`'... maybe this is my calling.'`@
+`　Back then I wondered,`@` '...maybe this is my calling.'`@
 ;　……僕は感情を見ることが出来る。@それを絵に出来る。@……それを大勢に見せることで、みんなにも感じ取ってもらえる。@
 `　...I can see feelings. `@`If I make them into pictures,`@` ...and show them to a lot of people, maybe they can feel them as well.`@
 br
@@ -2468,9 +2468,9 @@ br
 ;　どうして神様が僕にこんな目を与えたのかはわからないけれど。@……きっと、それが僕の使命なんだって思った。\
 `　I don't know why God gave me eyes like these.`@` ...But I think that this must be my mission in life.`\
 ;　だから僕は、日々の感情を全て描き、練習するんだ。@
-`　So every day, I'll keep drawing ever emotion that I see, and keep practicing.`@
+`　So every day, I'll keep drawing every emotion that I see, and keep practicing.`@
 ;　……感情を絵に表すことを繰り返して、練習して、上達するんだ。\
-`　...I'll repeatedly expressing my feelings in pictures, practice, and become more skilled.`@
+`　...I'll repeatedly express my feelings through my pictures, and practice to become more skilled.`@
 ;　だから毎日、僕は欠かさず絵を描くんだよ。@
 `　So I vow to never go a day without drawing a picture.`@
 ;　喜怒哀楽、それだけに分類できない無数の感情の揺らめきをね。\
@@ -2541,10 +2541,10 @@ br
 ;　生徒の個性を重んじることを方針にしているこの学校では、部活動に特に力を入れており、@このように普通の学校では珍しい教室も多数存在している。\
 `　As a policy of respecting the individuality of students, this school put extra attention into the providing of extracurricular activities, `@`and thus there were many of these rooms specifically for club activities that you wouldn't find in a normal school.`\
 ;　だが、今この茶道室には、その厳かで静粛な雰囲気とは不釣り合いな生徒たちが座り込んでいた。@
-`　But in this particular tea ceremony room, amongst a solemnly silent atmosphere, there sat a group a group of students that seemed altogether out of place.`@
+`　But in this particular tea ceremony room, amongst a solemnly silent atmosphere, there sat a group of students that seemed altogether out of place.`@
 br
 ;　あの、秋一を執拗にいじめていた三人組だ。\
-`　They were the trio of boys that had relentlessly bullying Shuuichi.`\
+`　They were the trio of boys that had relentlessly bullied Shuuichi.`\
 bg black,22
 bg sadou_03,22
 
