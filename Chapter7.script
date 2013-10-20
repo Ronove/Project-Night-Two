@@ -2662,7 +2662,7 @@ ld c,SMI_D6,80
 `"...But I'm scared.... `@`If Shuuichi-kun finds out that you've been doing all of this for me... `@`he might just bully me even more..."`\
 
 ;「大丈夫だって！@　今まで通り、秋一や他のみんなには内緒にするからさ。」@
-`"Don't worry! `@`Just like before we'll make sure to keep that a secret from Shuuichi and everyone else."`@
+`"Don't worry! `@`Just like before, we'll make sure to keep that a secret from Shuuichi and everyone else."`@
 ;「そうそう！@　まぁ、何も言わなくてもわかれって話だよな。@これはいじめじゃなくて、天罰だっつーの！」@
 `"Yeah yeah! `@`It doesn't matter if we don't tell him. `@`This isn't bullying, it's divine punishment!"`@
 ;「普通、あんだけ絡まれたら、天罰だと思わねぇかよなぁ？！」\
@@ -2682,7 +2682,7 @@ ld c,SMI_D2n,80
 ld c,SMI_D5,80
 
 ;「ありがとう。@……じゃあ、みんな、明日もよろしくね。@/
-`"Thanks you guys.`@` ...Alright, I'll be relying on you tomorrow too then.`@/
+`"Thanks, you guys.`@` ...Alright, I'll be relying on you tomorrow too, then.`@/
 mov %SMI_Isyou,2
 
 se1 84
@@ -2756,7 +2756,7 @@ bgm1 8
 ;「……つまり、私たちは人間の一部だということ？」@
 `"...Meaning we're just another part of humanity?"`@
 ;「そう言ってもいいかもしれんね。@あるいは、我らは人間の影なのかもしれん。@人間が存在するからこそ、その影に我らが存在できるのだよ。」\
-`"You could say that. `@`Or maybe we are of the shadow of humanity. `@`That because humans exist, we are able to live in their shadows."`\
+`"You could say that. `@`Or maybe we are of humanity's shadow. `@`It's because of the existence of humans that we are able to live in their shadows."`\
 bg okujou_01u,0
 ld l,HIG_D9,0
 ld r,KOU_D3,22
@@ -2789,7 +2789,7 @@ bg black,22
 ;　寄生虫に感情はいらない。@
 `　Parasites don't need feelings.`@
 ;　ただ生きるためだけに、日々を繰り返せばいい。@
-`　They just repeat day after day, living for the sake of living.`@
+`　They just repeat their daily routines, living for the sake of living.`@
 br
 ;　……でも、そんな日々に、緩慢な苦痛を覚えたのだ……。\
 `　...But as those days passed, I felt a dull agony...`\
