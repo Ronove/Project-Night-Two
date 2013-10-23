@@ -2852,11 +2852,11 @@ bg black,22
 ;ld c,KOU_D1,23
 
 ;「それがなければ、人間ではない、ということだよ。」\
-`"Not having them, makes you not human."`\
+`"Emotions... are a crucial aspect of humanity."`\
 ;ld r,HIG_D8,80
 
 ;「私たち、妖怪よ？」@
-`"But we're youkai?"`@
+`"But what about us youkai?"`@
 ;ld c,KOU_D3,80
 
 ;「妖怪が人間の影であるなら。@私たちが持っていてもおかしいことではないね。」@
