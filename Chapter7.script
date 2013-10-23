@@ -2721,7 +2721,7 @@ ld r,KOU_D5,22
 ld l,HIG_D10,80
 
 ;「……邪魔だったら、有無を言わさず、引き裂いているわ。校長先生？」\
-`"...If you were, I would be tearing you apart without hesitation right now. What is it, Headmaster?"`\
+`"...If you were, I would be tearing you apart without hesitation right now."`\
 ;　この恰幅の良い紳士の姿をした妖怪は、通称、「校長先生」。@
 `　This youkai taking the form of a portly gentleman was known only as 'The Headmaster.'`@
 br
@@ -2748,7 +2748,7 @@ bgm1 8
 ;「……………………。@……私たち妖怪って、何のために存在するのかしら。」@
 `"..........`@` ...Why do we exist, us youkai?"`@
 ;「わからんね。@だが、ひとつだけ言えることがあると思っているよ。」\
-`"I'm not sure. `@`But there is one thing I can say for certain."`\
+`"Who can say.`@` There is one thing that's for sure, though."`\
 ;「………何？」@
 `"...What's that?"`@
 ;「人間が存在しなければ、我ら妖怪も存在できないということだよ。」\
@@ -2772,7 +2772,7 @@ ld r,KOU_D2,80
 ld l,HIG_D9,80
 
 ;「………だって、そうでしょう？@　人間たちに取り憑き、魂のおこぼれを摘み食いして生き延びてる。@それが寄生虫じゃなくて、何だというのよ。」\
-`"....But aren't we? `@`We survive by latching onto humans and pick away at the scraps of their souls. `@`If we're not parasites, then what are we?"`\
+`"....But aren't we? `@`We survive by latching onto humans and picking away at the scraps of their souls. `@`If we're not parasites, then what are we?"`\
 textoff
 
 wait 1000
@@ -2845,7 +2845,7 @@ ld l,KOU_D3,80
 ld r,HIG_D10,80
 
 ;「何？」\
-`"What's that?"`\
+`"Oh?"`\
 bg black,22
 
 ;cl l,0
@@ -2874,7 +2874,7 @@ me1v 5,50
 ld r,KOU_D2,80
 
 ;「君はとても強い妖怪だが、未熟な存在でもある。@幸いにも、他の妖怪たちに脅かされない程度の妖力を持つことが出来た。@……なら今度は、自らについて考えることに時間を割くのも良いのではないかね。」\
-`"You are a very powerful youkai, but you are young. `@`Fortunately, you had more spiritual power than the other youkai could shake a stick at.`@` ...So now, I think you should make some time for a little introspection."`\
+`"You are a very powerful youkai, but you are young. `@`Fortunately, you have more spiritual power than most other youkai can shake a stick at.`@` ...So now, I think you should make some time for a little introspection."`\
 ld l,HIG_D9,22
 
 ;「私の、……在るべき姿。@………為すべきこと。」@
@@ -2917,7 +2917,7 @@ ld r,HIG_D9,80
 ld l,KOU_D2,80
 
 ;「学校の中では特に残酷だよ。@ここには、人間社会の秩序も法律も届かないからね。@一般社会では警察沙汰になるようなことも、ここでは喧嘩両成敗で済まされる。」\
-`"It's especially cruel within these schools. `@`The order and laws of human society do not reach within these walls. `@`The police do not investigate disputes here, instead everyone taking part in a fight is considered at fault."`\
+`"It's especially cruel within these schools. `@`The order and laws of human society do not reach within these walls. `@`The police do not investigate disputes here. Instead, everyone taking part in a fight is considered at fault."`\
 ld r,HIG_D8,80
 
 ;「誰がどう残酷だろうと、知ったことではないけれど。@……………………………。」@
@@ -2930,7 +2930,7 @@ br
 bg black,22
 
 ;　自分は何のために存在するのだろう。@
-`　Why did I exist?`@
+`　Why do I exist?`@
 ;　何のために存在すればいいのだろう。@
 `　Why should I exist?`@
 br
@@ -2982,7 +2982,7 @@ ld r,KOU_D2,80
 ld l,HIG_D9,80
 
 ;「……お喋りが出来て楽しかったわ。@次に会う時は殺し合いをしましょ。@……じゃあね。」@
-`"...It was fun talking with you. `@`But next time we meet let's fight to the death.`@` ....See you."`@
+`"...It was fun talking with you. `@`But next time we meet, let's fight to the death.`@` ....See you."`@
 E_A
 
 se1v 20,30
@@ -3013,12 +3013,12 @@ bg gakkou_08,22
 bgm1 27
 
 ;　体育倉庫で見つかった秋一は、異様な姿で発見されたらしい。@
-`　It seems that Shuuichi had been found in the P.E. storeroom, in a bizarre condition.`@
+`　It seems that Shuuichi had been found in the gymnastics storeroom, in a bizarre condition.`@
 ;　……最初、それを見つけた子は、誰かがふざけているのかと思ったらしい。@
 `　...At first, the kid that found him thought someone had just been messing around.`@
 br
 ;　なぜなら秋一は、頭にすっぽり紙袋を被せられていたからだ。\
-`　Why else would Shuuichi's head be covered with a paper bag?`@
+`　Why else would Shuuichi's head be covered with a paper bag?`\
 ;bg black,22
 mono 0
 ;se1 33
@@ -3034,9 +3034,9 @@ me1v 24,50
 ;「はい、担架通りまーす、担架通りまーす！！」@
 `"Watch it! Stretcher coming through!!"`@
 ;「……どうしたの？@　何があったの？」@
-`"...What's going on? `@`What happened?"`@
+`"...What's going on? `@`What happened to him?"`@
 ;「いじめらしいよ。@ざわざわざわざわ。」\
-`"It looks like bullying. `@`mutter mutter mutter...."`@
+`"It looks like bullying. `@`Mutter mutter mutter...."`@
 ld c,HIG_D10a,22
 
 quakex 1,100
@@ -3048,7 +3048,7 @@ br
 ;　担架で担ぎ出される秋一に声を掛けるが、彼の意識はないようだった。@
 `　She called out to Shuuichi as he was taken away on the stretcher, but he didn't seem to be conscious.`@
 ;　そして、……妖怪であるはずの彼岸花であっても、その秋一の顔のあまりの惨たらしさに絶句する。\
-`　And... even Higanbana, who was a youkai, was at a loss for words at the gruesome condition of Shuuichi's face.`\
+`　And... even Higanbana, who was a youkai, was at a loss for words at the gruesome sight of Shuuichi's face.`\
 bg black,22
 bg aka3,22
 
@@ -3056,7 +3056,7 @@ bg aka3,22
 `　She could tell that it was Shuuichi because of the clothes he wore.`@` ...But no one would have been able to tell that by looking at his face.`@
 br
 ;　血まみれになって、ぶくぶくと腫れ上がり、どこが頬で鼻で口かもわからないほどなのだから……。\
-`　His face was so swollen and bloodstained that he couldn't even make out where his cheeks, nose or mouth were...`\
+`　His face was so swollen and bloodstained that she couldn't even make out where his cheeks, nose or mouth were...`\
 ;　秋一が無抵抗なのをいいことに、……際限なくいじめがエスカレートしたに違いない。@
 `　Shuuichi never put up a fight... so the bullying must have escalated to no end.`@
 br
@@ -3074,10 +3074,10 @@ br
 ;bg kyou_04,22
 
 ;　しかし、学校の中という異世界では、許されてしまうのだ。@
-`　But in this alternate universe known as school, this was regrettably forgiven.`@
+`　But in this alternative universe known as school, this was regrettably forgiven.`@
 br
 ;　学校は聖域。@ゆえに、あらゆる法律の治外法権。@
-`　School was a sanctuary. `@`And therefore, exempt from the laws of the outside world.`@
+`　School was a sanctuary. `@`And therefore exempt from the laws of the outside world.`@
 ;　いじめの兆しなどなかったと繰り返す教師たちは、ここであった全てを揉み消す。@
 `　Teachers here smothered and covered up all signs of bullying.`@
 br
@@ -3143,7 +3143,7 @@ ld l,HIG_D10,2
 ;「……………………秋一。」\
 `"..........Shuuichi."`\
 ;「………その声は、……彼岸花さんなの。」@
-`"...That voice... is that you, Higanbana-san?"`@
+`"...That voice... Is that you, Higanbana-san?"`@
 ;＜秋一は立ち絵不要です。@
 
 ld l,HIG_D9,80
@@ -3287,7 +3287,7 @@ ld l,HIG_D10,22
 ld l,HIG_D9,80
 
 ;「あんたは今、目を潰されて、夢まで潰されたわけだけど。」@
-`"Your eyes, and even your dreams, are now crushed right?"`@
+`"Your eyes and even your dreams are now crushed, right?"`@
 ;「……うん。」\
 `"...Yeah."`\
 
