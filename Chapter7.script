@@ -3981,7 +3981,7 @@ br
 ld c,HIG_d2,80
 
 ;「夜の闇をもっと深く。@だからこそ、陽の明るさが、より美しくなるのだから。」@
-`"When the darkness of night is darker. `@`The light of the sun becomes brighter, and is that much more beautiful."`@
+`"When the nighttime is darker, the Sun glows ever brighter.`@` It becomes so much more beautiful."`@
 cl c,2
 
 br
