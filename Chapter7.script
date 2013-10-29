@@ -3393,7 +3393,7 @@ bgm1 20
 `"Fu, fufufufufufufufu, teeheeheeheehee...."`@
 br
 ;　彼岸花は笑った。@初めて笑った。\
-`　Higanbana laughed. `@`For the first time, laughed.`\
+`　Higanbana laughed. `@`For the very first time, she laughed.`\
 se1v 20,30
 
 cl c,26
@@ -3402,7 +3402,7 @@ quakey 1,100
 ;　電柱から電柱へ飛び移り、闇夜を疾駆して学校を目指しながら、誰にも聞くことの出来ぬ声で笑い続けた。\
 `　She leapt from telephone pole to telephone pole, galloping towards the school, all the while laughing in a voice no one could hear.`\
 ;「理解したわ、ようやく。@ようやく。@あなたのお陰よ、秋一。@あなたのお陰で、私はようやく理解できたっ。」\
-`"I understand, finally. `@`Finally. `@`And I owe it all to you, Shuuichi. `@`Thanks to you I can finally understand."`\
+`"I finally understand.`@` Finally.`@` And I owe it all to you, Shuuichi. `@`Thanks to you, I can finally understand."`\
 me1v 5,50
 
 bg black,22
@@ -3420,7 +3420,7 @@ bg okujou_03u,22
 `"Hey, at night, there are no humans at the school.`@` ....Why's that?"`@
 br
 ;　それは、夜の学校を、私たちが支配しているから。\
-`　It's because we rule the school at night.`\
+`　It's because at night, we are the ones that rule the school.`\
 bg black,24
 bg okujou_01y,24
 ld c,HIG_w3,25
@@ -3431,7 +3431,7 @@ ld c,HIG_w5,80
 
 
 ;「夜の学校は私たちのもの！！@　人間たちの誰にも、立ち入らせたりするものか！！@　神聖なる夜を侵す愚かなる者どもに鉄槌を！@　あぁ、夜の闇をさらにさらに暗く染めることこそ、/
-`"The school is ours at night!! `@`No human must ever trespass on our domain!! `@`We will judge those foolish enough to invade our sacred night! `@`We will dye the night even darker,`/
+`"The school belongs to us at night!! `@`No human must ever trespass on our domain!! `@`We will judge those foolish enough to invade our sacred night! `@`We will dye the night even darker,`/
 se1v 84,100
 
 ;私たちの役目なのだから…！！」\
@@ -3469,7 +3469,7 @@ br
 `　He was one of the three boys who had inflicted serious injury on Shuuichi.`@
 br
 ;　今日の体育倉庫の一件の興奮が冷めず、なかなか寝付けなかったのだ。\
-`　He was still worked up from what had happened in the storehouse today, and was having trouble sleeping.`\
+`　He was still worked up from what had happened in the storeroom today, and was having trouble sleeping.`\
 ;mono 1
 ;bg white,28
 ;mono 0
@@ -3514,7 +3514,7 @@ mov %SMI_Isyou,1
 ld c,SMI_D2,22
 
 ;　最初のきっかけこそ、クラスの女子の頼みだったけれど、もうそんなの関係ない。@
-`　They originally just doing this for the girl in their class, but not anymore.`@
+`　They were originally just doing this for the girl in their class, but not anymore.`@
 br
 ;　どいつもこいつも、ムカつくヤツはみんな秋一みたいにしてやる！\
 `　They're going to make everyone they hate look just like Shuuichi did!`\
@@ -3522,7 +3522,7 @@ br
 bg e008,22
 
 ;　俺たちは自由だ。@学校では自由なんだ。@
-`　We're free. `@`In school we're free.`@
+`　We're free. `@`In school, we're free.`@
 ;　誰にも縛られない、誰にも咎められない！@
 `　We can't be bound by anyone. We can't be blamed by anyone!`@
 br
@@ -3561,11 +3561,11 @@ me2v 16,50
 `"Wh-what the... `@`I can't, move, my body..."`@
 br
 ;　瞼だけは開くのに、……体はまるで金縛りのように、ぴくりとも動かない。\
-`　Even though he could open his eyes, it was as though his whole body had been bound by chains, and couldn't move an inch.`\
+`　Even though he could open his eyes, it was as though his whole body had been bound by chains, and he couldn't move an inch.`\
 ;　そしてそれだけじゃない。@……天井が違う。\
 `　And that wasn't all.`@` ...The ceiling was different.`\
 ;　どこ、ここ。@……自分の部屋の、……ベッドの上じゃ、……ない……。@
-`　Where is this place?`@`... This... isn't my room... or my bed....`@
+`　Where is this place?`@` ...This... isn't my room... or my bed....`@
 ;　それを言えば、布団が硬過ぎる。@自分が毎日、就寝しているベッドじゃない。@
 `　Now that he thought about it, his futon was too hard. `@`It wasn't the same bed that he crawled into every night.`@
 br
@@ -3581,12 +3581,12 @@ br
 ;　声とともに、誰かが少年の視界に入って来た。@
 `　With that voice, someone entered the boy's field of vision.`@
 ;　ベッドに横たわる少年を、見下ろすような形で覗き込む……。\
-`　A figure, peering down on him as he lied on the bed...`\
+`　A figure, peering down on him as he lay on the bed...`\
 ;　それは長い黒髪の美しい、可憐な少女に見えた。@
 `　It looked like a pretty girl, with beautifully long, black hair.`@
 br
 ;　ぞっとするほどの白い肌と、それとは対照的な漆黒の髪。@赤い唇は蠱惑的に輝き、見惚れてしまうほどに美しかった。\
-`　Her chillingly white skin contrasted with her jet black hair. `@`Her red lips shone alluringly. She was so beautiful it was captivating.`\
+`　Her chillingly white skin contrasted with her jet black hair. `@`Her red lips shone alluringly. She was so beautiful, it was captivating.`\
 bg black,22
 bg hoken_01,22
 
@@ -3610,7 +3610,7 @@ br
 `　....What was the meaning of this?`@
 br
 ;　信じられない。@ここは多分、………学校の、保健室のベッドの上なのだ。\
-`　Unbelievable. `@`This was probably.... the bed in the school infirmary.`\
+`　No way. `@`This was probably.... the bed in the school infirmary!`\
 ;　そんな馬鹿な。@自分は家に帰って、……夕飯を食べてお風呂に入って、……自分のベッドで眠ったはず。@
 `　That makes no sense. `@`He was sure that he had gone home... eaten dinner, taken a bath... and crawled into his own bed.`@
 br
@@ -3626,7 +3626,7 @@ bg hoken_02,22
 `　He could only catch a glimpse of the hallway outside the door... but this was unmistakably the infirmary.`@
 br
 ;　窓が開いているのだろうか。@……白いカーテンがゆっくりと大きく、……まるでハロウィンの幽霊のように大きくはためいている。\
-`　Were the windows open?`@`... The white curtains were slowly fluttering... like a Halloween ghost.`\
+`　Were the windows open?`@` ...The white curtains were slowly fluttering... like a Halloween ghost.`\
 ;　風は感じられるが、生ぬるく澱んでいて、……その上、ねっとりとして感じられた。@
 `　He could feel a breeze, but it was warm and stagnant.... But even worse, it felt wet and sticky.`@
 br
@@ -3652,7 +3652,7 @@ ld c,HIG_D2,80
 ;「……それは、あなたが敬いを忘れたからよ。」@
 `"....Because you have forgotten to be respectful."`@
 ;「う、……敬いって、………な、……何の………。」\
-`"R-... respectful..... of... What....?"`\
+`"R-... respectful..... of... what....?"`\
 bg black,22
 bg Air_03,22
 ;bg gakkou_08y,22
@@ -3681,7 +3681,7 @@ bg hoken_02,22
 `　And... traced it to the neighboring bed.`@
 br
 ;　しかし、ベッドの境はカーテンで仕切られている。@向こう側で何が起こっているのか、わからない。\
-`　However, there was a curtain between the two beds. `@`so he had no idea what was going on behind it.`\
+`　However, there was a curtain between the two beds,`@` so he had no idea what was going on behind it.`\
 mbg black,22
 bgm1 10
 
@@ -3691,12 +3691,12 @@ bgm1 10
 `　Pit, pat, pit, pat, pit, pat, pit, pat....`@
 br
 ;　さっきからずっと聞こえる、その奇妙な音に、……カーテンを潜り、髪の束が続いている……。\
-`　The strange sound that he had been hearing all this time... was coming from just beyond that curtain that the hair draped over...`\
+`　The strange sound that he had been hearing all this time... was coming from just beyond the curtain that the hair draped over...`\
 mcbg 22
 ld c,HIG_w1,22
 
 ;「気になる？@　この音が。@…………いいわ、教えてあげる。」@
-`"Are you curious? `@`Wondering what this sound is?`@`... Fine, then. I'll show you."`@
+`"Are you curious? `@`Wondering what this sound is?`@` ...Fine, then. I'll show you."`@
 br
 ;　金縛りで身動き出来ぬ少年の顔を、彼岸花はぐいっとねじり、奇妙な音が聞こえる方へ向ける。@
 `　Higanbana twisted the boy's paralyzed face towards where the sound was coming from.`@
@@ -3844,10 +3844,10 @@ bg gakkou_01o,2
 fedexx 70,90,90,90,90,90,2000
 
 ;　血のように真っ赤な月が照らす、人ならざる夜の保健室で。@
-`　There in the infirmary, bathed in the moon's mystical blood red light.`@
+`　There in the infirmary, bathed in the moon's mystical blood red light...`@
 br
 ;　踊る彼岸花と初めての犠牲者たちが、いつまでもいつまでも、明けない夜を踊り続けるのだった………。\
-`　Will forever dance the first victims of the Dancing Higanbana.....`\
+`　...Will forever dance the first victims of the Dancing Higanbana.....`\
 bg black,2
 
 fede 0,3000
@@ -3869,7 +3869,7 @@ bgm1 17
 ld l,SH2_D2,22
 
 ;「一時は死のうとさえ考えたよ。@何しろ、僕には文字通り、世界が真っ暗だったわけだからね。@しかし、気付いたんだ。@……感情は、目で見るものじゃない。@心で感じるものなんだ、ってね。@目が見えなくたって、感情を受け止めることは出来る。@こうして僕にはまだ、耳があるんだからね。」\
-`"For a while I thought about dying. `@`After all, the world had become pitch black to me. `@`But then I realized.`@` ...You don't need eyes to experience emotions. `@`You feel them with your heart. `@`Even if you can't see, you can still have emotions. `@`And I still have my ears."`\
+`"For a while, I thought about dying. `@`After all, the world had become pitch black to me. `@`But then I realized.`@` ...You don't need eyes to experience emotions. `@`You feel them with your heart. `@`Even if you can't see, you can still have emotions. `@`And I still have my ears."`\
 ;＜大人秋一
 
 ld r,NON_D2,80
@@ -3906,12 +3906,12 @@ br
 `　With his piano, even when playing the same song twice, his music would always portray an endlessly changing variety of sounds, like a kaleidoscope.`@
 br
 ;　その彼が、卒業生として招かれ、体育館で生徒たちに講演を行なったのだ。\
-`　As a graduate of the school he was invited to give a speech to the students in the gymnasium.`\
+`　As a graduate of the school, he was invited to give a speech to the students in the gymnasium.`\
 bg gakkou_03,0
 mld c,SH2_D2,22
 
 ;「僕が伝えたかったのはね、目や耳の話じゃない。@感情の話なんだよ。@本来、世界は灰色なんだ。@ところが、僕たちの心が感情という絵の具を得て、世界を美しく着色してくれているんだよ。@………どのようなものであれ、感情は楽しむべきなんだ。@そしてそれこそが、生きていることの証なんだと、僕は思ってる。@……それが、子供たちに伝わってるといいんだけど。」\
-`"My story is not one of eyes or ears. `@`It is a story of feelings. `@`The world itself is gray. `@`It's the emotions in our hearts that gives the world its beautiful colors.`@` .....Whatever the feeling, you should enjoy them. `@`And that is proof that you're alive, that's what I think.`@` ...And that's what I want to be made clear to you kids."`\
+`"My story is not one of eyes or ears. `@`It is a story of feelings. `@`The world itself is gray. `@`It's the emotions in our hearts that give the world its beautiful colors.`@` .....Whatever the feeling, you should enjoy them. `@`And that is proof that you're alive, that's what I think.`@` ...And that's what I want to be made clear to you kids."`\
 ld l,NON_D2,23
 
 ;「伝わりましたよ。@僕は、とても大切な話を聞けたと思っています。」@
@@ -3920,7 +3920,7 @@ mcl c,0
 ld c,SH2_D1,80
 
 ;「そうかい？@　なら、ありがとう。@……ところで、そろそろ時間かな？」\
-`"Is that so? `@`Well, thank you then.`@` ...By the way, isn't it about time we go?"`\
+`"Is that so? `@`Well, thank you then.`@` ...By the way, isn't it about time we went?"`\
 ld l,NON_D6,80
 
 ;「あ、……はい。@じゃあ、職員室にご案内しますね。」\
@@ -3977,7 +3977,7 @@ ld c,HIG_w3,22
 `　Shuuichi, drew his outstretched hand back, and left.`@
 br
 ;　彼岸花はその後姿を見送る。\
-`　Higanbana watched his as he walked away.`\
+`　Higanbana watched him as he walked away.`\
 ld c,HIG_d2,80
 
 ;「夜の闇をもっと深く。@だからこそ、陽の明るさが、より美しくなるのだから。」@
