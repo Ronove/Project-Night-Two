@@ -55,7 +55,7 @@ quakey 2,300
 bgm1 19
 
 ;「あなたに言われたくないわね、金森センセ？」@
-`　"I sure as hell don't want to hear that from you, Kanamori-sensei."`@`
+`"I sure as hell don't want to hear that from you, Kanamori-sensei."`@`
 ;＜ナフミ
 br
 ;　失格教師同士で、何やら言い合いをしている。\
@@ -71,7 +71,7 @@ ld l,KAN_d3,23
 ld l,KAN_w1,80
 
 ;「ほぉう。@美少年ばかり何人も狙って！@　無垢な肉体を剥き剥きして、おにんにんばかり写生していた美術教師が言うじゃないかね。」\
-`"Ohhh? `@`Says the one who has targeted so many little boys?! `@`The art teacher who stripped their innocent bodies and drew them naked?"`\
+`"Ohhh? `@`Says the one who has targeted so many little boys?! `@`The art teacher who stripped their innocent bodies and drew pictures of them naked?"`\
 ld r,NAF_D7a,80
 quakex 1,100
 
@@ -172,7 +172,7 @@ ld r,NOD_D2,24
 ;＜野田
 
 ;　あいつ、今度は秋一のモデルになってるのか。@
-`　So this time he's modeling for Shuuichi, huh?`@`
+`　So now he's modeling for Shuuichi, huh?`@
 br
 ;　良かったな、今回は服を脱がずにモデルをさせてもらえてるようだぜ。\
 `　Good thing he's keeping his clothes on this time.`\
@@ -197,7 +197,7 @@ ld r,SHU_D1,22
 ld r,SHU_D4,80
 
 ;「ふぅん。@それは面白い感想だね。@少なくとも、それを口にすることに躊躇する程度の感情を君に与えてるわけだ。@芸術作品としては、興味深いね。」@
-`"Hmmm. `@`That's an interesting way of describing of a picture. `@`At the very least, for you to feel so hesitant while describing it, `@`as a work of art it sounds very intriguing."`@`
+`"Hmmm. `@`That's an interesting way of describing a picture. `@`At the very least, for you to feel so hesitant while describing it, `@`as a work of art it sounds very intriguing."`@`
 ld l,NOD_D5a,23
 
 ;「……げ、芸術って、難しいんだね……。@秋一くんが僕を描いてるそれも、芸術作品なの……？」\
@@ -209,7 +209,7 @@ ld r,SHU_D3,80
 ld l,NOD_D3,80
 
 ;「へー……、漫画ってすごいね。@ジャＭプとかに投稿するの？」@
-`"Waaah... Manga? That's amazing. `@`Is it going to be published in SHONEN JAMP?"`@`
+`"Waaah... Manga? That's amazing. `@`Is it going to be published in Shonen Jamp?"`@
 ld r,SHU_D2,80
 
 ;「どっちかというと、次のオンリーかなぁ。@君みたいな受専も手堅い需要があるしねー。@評判が良かったら加筆して夏コミで再販かなぁ。」\
@@ -219,7 +219,7 @@ bg bijutu_01,0
 ld l,KYO_D6a,24
 
 ;　………よくわかんねぇが、ろくな漫画じゃない気がするぜ。@
-`　....I'm not sure what they're talking about, but I have a feeling that it's not a very respectable manga they're talking about.`@
+`　....I'm not sure what they're talking about, but I have a feeling that it's not a very respectable manga they're discussing.`@
 ;　少しはマシな連中はいねぇのか。@
 `　Let's see if there's a better group of people around here.`@
 br
@@ -367,7 +367,7 @@ ld l,HIK_W1,80
 bgm1 21
 
 ;「やれやれ。@このチカラを見せたくはなかったんだけれどね。@/
-`"I guess it's not use. `@`I didn't want to show you my power, but here it goes. `@/
+`"I guess it's no use. `@`I didn't want to show you my power, but here it goes.`@/
 se1v 2,100
 quakey 2,200
 ;……おいでッ、僕のシャドウ！！@　終末崩壊のカスタネットオブハメルン！！」\
@@ -533,11 +533,11 @@ se1 48
 quakey 1,100
 
 ;「そういうことじゃ、ズルいぞ由香里！！@　いじめの自由もあるはずなのじゃ！@　独裁暴力、反対なのじゃ！！@　いじめがなくなったら我らは飢えてしまうのじゃ！」\
-`"See, see! That's cheating Yukari!! `@`Bullying should be free! `@`Down with the violent dictatorship!! `@`Without bullying we'll starve!"`\
+`"See, see! That's cheating, Yukari!! `@`Bullying should be free! `@`Down with the violent dictatorship!! `@`Without bullying we'll starve!"`\
 ld r,AZA_D3,80
 
 ;「世の中、いじめから学ぶべきこともあると思います。@社会の毒に耐える力を付けるためにも、それを薄めたものに身を浸すこともまた、学習ではありませんか…？」\
-`"I think there's a lot to be learned from bullying in this world. `@`Isn't one way of putting up with the poison of society to practice by allowing yourself to experience a diluted version of it...?`\
+`"I think there's a lot to be learned from bullying in this world. `@`Isn't one way of putting up with the poison of society to practice allowing yourself to experience a diluted version of it...?`\
 se1 4
 mbg white,1
 mcbg 22
@@ -655,11 +655,11 @@ ld c,HOK_D2,80
 ld l,KOU_D3,80
 
 ;「保健室が静かということは、誰も怪我をしてないということじゃないかね。@ほっほっほ、実に結構、結構だね。」@
-`"So when it's quiet in the infirmary that means that no one's getting hurt. `@`Ho ho ho, that's all the better."`@
+`"So when it's quiet in the infirmary, that means that no one's getting hurt. `@`Ho ho ho, that's all the better."`@
 ld r,RUN_D5,80
 
 ;「校長先生が平和というのも同じことじゃない？@　愚かな人間が、妖怪に喰い殺されてないって証拠でもあるわけだし。」\
-`"Don't things get peaceful for you for the same reason, Headmaster? `@`When things are quiet that means that there are no foolish humans being devoured by youkai."`\
+`"Don't things get peaceful for you for the same reason, Headmaster? `@`When things are quiet, that means that there are no foolish humans being devoured by youkai."`\
 ;＜ルノ
 
 bg black,24
@@ -723,7 +723,7 @@ ld r,RUN_D6a,24
 ld l,KOU_D3,23
 
 ;「教師にも息抜きが必要じゃよ。@それが二次元の中ならば大いに構わんね。@/
-`"Even teachers need to relax every once in a while. `@`Who am I too complain if they do it in 2D.`@/
+`"Even teachers need to relax every once in a while. `@`Who am I to complain if they do it in 2D.`@/
 ;ld l,KOU_D1,80
 
 ;ほっほっほっほ。」\
@@ -756,7 +756,7 @@ br
 ld c,KYO_D6a,80
 
 ;　それより、校長と保健の先公。@……お前ら、少しは仕事しろよ……。@
-`　Leaving that aside,`@` ...Headmaster and the nurse, you too should get back to work...`@
+`　Leaving that aside,`@` ...Headmaster and the nurse, you two should get back to work...`@
 br
 ;　まぁ、校長がヒマなのは、その分、教頭が仕事してるからなんだろ。\
 `　Well, the reason that the Headmaster has some free time is because the vice principal is doing his job.`\
@@ -962,7 +962,7 @@ cl r,0
 mld c,HIG_W6,24
 
 ;「やるに決まってるでしょ！@　うっふふふふふふふ、とびきり不公平に割ってあげるわよ。@本来なら、お煎餅は丸まる私がもらって、@毬枝なんか、袋に残ったざらめしか舐めさせてあげないところだけど！」\
-`"Of course I would! `@`Ufufufufufu, I'll split them exceptionally unevenly. `@`I'll get the whole cookie that I originally should have had, `@`and all Marie will get is to like the sugar at the bottom of the bag!"`\
+`"Of course I would! `@`Ufufufufufu, I'll split them exceptionally unevenly. `@`I'll get the whole cookie that I originally should have had, `@`and all Marie will get is the sugar at the bottom of the bag!"`\
 ld r,KYO_D6a,24
 ;ld r,KYO_D1,80
 
