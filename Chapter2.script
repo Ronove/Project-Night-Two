@@ -2388,7 +2388,7 @@ ld l,MIC_D3,26
 
 
 ;「………厄介だね。@さくのしんさまが言うには、イザナミは、かなり強力な学校妖怪らしい。」@
-`"...You're in trouble. `@`Sakunoshin-sama tells me that Izanami seems to be an extremely powerful school youkai."`@
+`"...You're in trouble. `@`Sakunoshin-sama tells me that Izanami seems to be an extremely powerful School Youkai."`@
 
 ld r,AYA_D4a,24
 
@@ -2478,7 +2478,7 @@ ld l,AYA_D5a,80
 ld r,MIC_D5,80
 
 ;「………イザナミは学校妖怪序列第２位の強力な妖怪。@……倒せる力を持つ妖怪は、第１位の校長先生しかいない。@……でも、かつての校長先生ならともかく、@今は老いて、狩りはずいぶん前に引退してる。@……だから、イザナミを倒せる学校妖怪は、存在しないんだよ。」\
-`"...Izanami is the second strongest ranked school youkai. `@`...The only youkai strong enough to defeat him is the First Ranked. `@`...Although he used to be the headmaster, `@`now he's old, and has mostly withdrawn from hunting. `@`...So I would say no youkai that can defeat Izanami exists."`\
+`"...Izanami is the second strongest ranked School Youkai. `@`...The only youkai strong enough to defeat him is the First Ranked. `@`...Although he used to be the headmaster, `@`now he's old, and has mostly withdrawn from hunting. `@`...So I would say no youkai that can defeat Izanami exists."`\
 
 bg black,22
 

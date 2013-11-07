@@ -253,7 +253,7 @@ ld c,MAR_D4a,22
 `　I had heard a few stories from Higanbana about a frightening time when it was survival of the fittest for the youkai here.`@
 br
 ;　大勢の妖怪たちが、食い合い、殺し合い。@……その結果、生き残って学校妖怪として君臨したのが、……今の彼らなのだ。\
-`　She mentioned a large number of youkai killing and devouring each other.`@` ...And the ones who survived that era and reigned as the school youkai... is this group here.`\
+`　She mentioned a large number of youkai killing and devouring each other.`@` ...And the ones who survived that era and reigned as the School Youkai... is this group here.`\
 bg black,22
 ld c,KOU_D1,22
 wait 300
@@ -293,7 +293,7 @@ ld c,SMI_w6,80
 cl c,2
 
 ;　学校に七不思議が定着し、彼らに学校妖怪七席としての序列が出来て、@ようやく殺し合いの恐ろしい時代は幕を下ろしたのだ……。\
-`　They established themselves as the seven mysteries of the school, and created a seven-rank school youkai hierarchy. `@`By doing so they finally closed the curtain on that terrifying era of killing...`\
+`　They established themselves as the seven mysteries of the school, and created a seven-rank School Youkai hierarchy. `@`By doing so they finally closed the curtain on that terrifying era of killing...`\
 bg kouchou_02,22
 ld c,SAK_k3,22
 ld c,SAK_k1,80
@@ -409,7 +409,7 @@ ld c,SIN_D1,0
 ld r,IZA_D3,80
 
 ;　彼岸花を除く妖怪たちが、ぎっしりと校長室に集まり、お茶会を開いていた。@
-`　All of the school youkai except Higanbana were packed in the principal's office having a tea party.`@
+`　All of the School Youkai except Higanbana were packed in the principal's office having a tea party.`@
 br
 ;　全員参加必須のお月見会ならばともかく、@このような気紛れな催しにこれだけの妖怪が集まるなんて珍しい。\
 `　These moon-viewing parties required every one of them to attend, `@`but it was rare for this many of the youkai to attend such a frivolous get-together.`\
@@ -3151,7 +3151,7 @@ ld l,HIG_D9,80
 ;「そうよ。」\
 `"Yeah."`\
 ;「……学校の妖怪は、学校にしかいられないんだと思ったよ。」@
-`"....I thought that school youkai couldn't leave the school."`@
+`"....I thought that School Youkai couldn't leave the school."`@
 ld l,HIG_D8,80
 
 ;「学校妖怪は学校で生きていくように出来ているわ。@……外へ出ることも出来るけれど、あまり居心地は良くないし、とても妖力を使う。@とても疲れることなの。」\
@@ -3376,7 +3376,7 @@ br
 `　The same held true for school.`@
 br
 ;　学校妖怪もそうあるべきなのだ。\
-`　And for the school youkai as well.`\
+`　And for the School Youkai as well.`\
 ;bg Air_03,0
 ld c,HIG_D8,2
 

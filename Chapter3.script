@@ -894,7 +894,7 @@ ld c,KOU_D3,80
 
 
 ;　仮にも学校妖怪の序列第１位に君臨するお人なのだ。@トイレで鏡磨きなんてこと、手伝わせちゃ申し訳ない。@
-`　Even though the position is often fought over, in the school youkai hierarchy, the highest ranked youkai is one who governs the rest. `@`To have him helping scrub down mirrors in the bathroom, such a thing should be inexcusable.`@
+`　Even though the position is often fought over, in the School Youkai hierarchy, the highest ranked youkai is one who governs the rest. `@`To have him helping scrub down mirrors in the bathroom, such a thing should be inexcusable.`@
 ;　自分ひとりでやるから大丈夫と手伝いを固辞するのだが、校長先生は、いえいえいえいえ……と、拝み倒すように手伝ってくれてしまう。\
 `　She had even insisted that she could do it on her own, and he didn't need to bother, but the Headmaster practically begged to help.`\
 
@@ -963,7 +963,7 @@ quakex 1,100
 ld r,MAR_I4a,80
 
 ;　いけないいけない、敬意を失ってはいけない。@この方は学校妖怪のトップなのだから。\
-`　No, no. she mustn't lose respect for him. `@`After all, he was the top school youkai.`\
+`　No, no. she mustn't lose respect for him. `@`After all, he was the top School Youkai.`\
 
 
 bg black,22
@@ -1853,7 +1853,7 @@ print 24
 ld c,MAR_I5,0
 
 ;　学校妖怪としての実力や序列も、ビリの第８位が反転して、第１位の力となっている。@
-`　Furthermore, her power and ranking as the lowest ranked among the eight school youkai had been reversed. Instead, her power was that of the top ranked.`@
+`　Furthermore, her power and ranking as the lowest ranked among the eight School Youkai had been reversed. Instead, her power was that of the top ranked.`@
 br
 ;　鏡の向こうの世界で、彼岸花たちが毬枝にぺこぺこしていたのは、@単に彼らの性格が反転したからだけではない。@毬枝が暴君として君臨していたからなのだ…！\
 `　The reason that Higanbana and the other youkai in the mirror world were so submissive, `@`was not just because their personalities were reversed, `@`but because this Marie had ruled over them as a tyrant...!`\
