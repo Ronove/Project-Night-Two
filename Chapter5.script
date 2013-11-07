@@ -811,7 +811,7 @@ br
 ;　偉大なる力を持った存在を呼び出し、それに叶えてもらうことだ。@
 `　She would need to summon a powerful being, and have it grant her wish.`@
 ;　現実的にはありえないその方法も、みちるにとっては現実味を帯びる。\
-`　This method that would be realistic impossible to a normal person, was within the grasp of Michiru.`\
+`　This method that would be realistically impossible for a normal person, was within the grasp of Michiru.`\
 ld r,MIC_D3,22
 ;ld r,MIC_D1,80
 
@@ -1986,7 +1986,7 @@ ld l,TOM_D4,23
 ld l,TOM_D5,80
 
 ;「私は私の体以外は絶対に嫌ー。@というか、生きてても面白いことなかったしねー。@勉強大嫌いだし、学校も大嫌いだし。@/
-`"I don't want anything else than my own body. `@`Besides, it's not like there's any good reason for me to come back to life. `@`I hate studying, I hate school.`@/
+`"I don't want anything other than my own body. `@`Besides, it's not like there's any good reason for me to come back to life. `@`I hate studying, I hate school.`@/
 E_A
 ;……ついでに言うと、あんたも大嫌いだったし。」@
 ` ....And I hate you most of all."`@

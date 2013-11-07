@@ -3902,7 +3902,7 @@ ld l,YUK_i1a,80
 ld r,YOS_D7,80
 
 ;「言ってみりゃいい。@先生も親も、ぐんぐん成績の上がる優等生の俺を、@目に入れても痛くないくらいに可愛がってくれてるぜ。@お前の言うことなんて、相手にするかよ。」\
-`"Go ahead and try. `@`With my grades as they are now, I'm an honors student. `@`Both my parents and teachers are more proud of me than anything. `@`Do you really think they'll take your tattling seriously."`\
+`"Go ahead and try. `@`With my grades as they are now, I'm an honors student. `@`Both my parents and teachers are more proud of me than anything. `@`Do you really think they'll take your tattling seriously?"`\
 ld l,YUK_i2,80
 
 ;「それでも私は……、……絶対にいじめを許さないっ。」\
@@ -5442,7 +5442,7 @@ ld r,AZA_D2,80
 
 
 ;「さぁ。@このアザミを食べるのです。@……これであなたはもう、いじめられっこではなくなるのですよ。」@
-`Here. `@`Eat this flower.`@` ...With this you will no longer be bullied any longer."`@
+`Here. `@`Eat this flower.`@` ...With this you will be bullied no longer."`@
 ld l,YUK_D3a,22
 
 ;「……………………………。」\

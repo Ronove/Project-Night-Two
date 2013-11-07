@@ -8,7 +8,7 @@ br
 ;　満月には不思議な力があり、妖怪たちをも活発にさせる。@
 `　The full moon has mysterious powers, and it even invigorates youkai.`@
 ;　だから満月の夜の学校妖怪たちは上機嫌。@
-`　And so the school youkai are soothed when the full moon is out.`@
+`　And so the School Youkai are soothed when the full moon is out.`@
 br
 ;　時に、殺伐とした魂のやり取りを休み、お月見会などという、風流な催しを開いてみたりもする……。\
 `　Sometimes they even take a break from stealing brutally murdered souls and hold an elegant event known as the Lunar Festival...`\
@@ -100,15 +100,15 @@ br
 bg black,22
 
 ;　今夜は、学校妖怪たちのお月見会。@
-`　Tonight is the Lunar Festival for the school youkai.`@
+`　Tonight is the Lunar Festival for the School Youkai.`@
 br
 ;　普段、ギスギスすることが多い学校妖怪たちも、今夜ばかりは休戦。@仲良くお酒を酌み交わすという、和やかな行事なのだ。\
-`　Only for tonight, even the school youkai that often have conflicts with each other hold truces. `@`It's a harmonious event where they mingle and drink together.`\
+`　Only for tonight, even the School Youkai that often have conflicts with each other hold truces. `@`It's a harmonious event where they mingle and drink together.`\
 
 bg toire_06,22
 
 ;　何だかんだ言って、毬枝は未だに、学校妖怪の全員とは会っていない。@
-`　For whatever reason, Marie still hasn't met all of the school youkai.`@
+`　For whatever reason, Marie still hasn't met all of the School Youkai.`@
 br
 ;　だから、彼らが一堂に会する今日を、とても楽しみにしていた。\
 `　So she was really looking forward to meeting them today when they are all under the same roof.`\
@@ -178,10 +178,10 @@ bg black,22
 bg toire_04,22
 
 ;　……そっか。@考えてみたら、学校妖怪のビリっけつに加えてもらって、全員の前で挨拶するのは、これが初めてなんだ。@
-`　...Oh yeah. `@`Now that I think of it, since they let me become the last school youkai, this is the first time I'll be greeting them face to face.`@
+`　...Oh yeah. `@`Now that I think of it, since they let me become the last School Youkai, this is the first time I'll be greeting them face to face.`@
 br
 ;　てっきり、お月様を見ながらお団子でも食べられるなんて思っていたけれど、とんでもない。@私は学校妖怪の新人で後輩。@粗相がないように気を付けなくちゃ…！\
-`　Even though I had been thinking of eating sweet dumplings while gazing at the lovely moon, that's not what really matters! `@`I'm the new school youkai and they are my seniors. `@`I've gotta be careful not to make any mistakes...!`\
+`　Even though I had been thinking of eating sweet dumplings while gazing at the lovely moon, that's not what really matters! `@`I'm the new School Youkai and they are my seniors. `@`I've gotta be careful not to make any mistakes...!`\
 
 bg black,22
 bg toire_03,0
@@ -434,7 +434,7 @@ bg k_kyou_03,22
 ;　妖怪たちも、簡単に気を許したりしない。@よって、その姿を安易に現したりはしないのだ。@
 `　Youkai won't let their guard down so simply.`@` As a result, they do not show themselves easily.`@`
 ;　だから、学校妖怪八席全員に直接会えるのは、これが初めての機会なのだ。\
-`　That's why this would be her first chance to directly meet all eight members of the school Youkai.`\
+`　That's why this would be her first chance to directly meet all eight members of the School Youkai.`\
 
 bg black,22
 
@@ -768,7 +768,7 @@ ld r,KOU_D1,22
 ;　だからこそ彼らは生きるために、……人間たちに忘れられたくないと願うのだ。\
 `　That is precisely why they wish that humans do not forget about them...so they can live on.`\
 ;　それを思った時、……妖怪も人間と同じで、@……本質的には寂しがり屋なのかもしれないと、毬枝は思った。\
-`　Contemplating the thought that humans and Youkai are alike,`@` Maria considered that maybe they were all essentially just lonely.`\
+`　Contemplating the thought that humans and Youkai are alike,`@` Marie considered that maybe they were all essentially just lonely.`\
 
 bg black,22
 
@@ -922,7 +922,7 @@ quakex 2,200
 ld r,IZA_D6,80
 
 ;「よく言ったッ。@おい、紅茶野郎ッ、毬枝の言うこと、よォく耳をかっぽじって聞いとけよ！@　……毬枝、……お前ェ、死んでからだいぶ変わったなァ？@　根性出てきたぞ、気に入った。@……俺ァ、イザナミ。@学校妖怪序列第２位、１３階段の死神たァ、俺のことよ。」\
-`"Well said. `@`Hey, tea bastaard, maybe you should clean out your ears and listen to Marie! `@`...Marie... Youu've changed a lot since you died, haven't you? `@`You've got some balls -- I like you. `@`...I'm Izanami. `@`I'm the Second Ranked of the School Youkai. `@`The Reaper of the 13th Step? That's me."`\
+`"Well said. `@`Hey, tea basta~rd, maybe you should clean out your ears and listen to Marie! `@`...Marie... Youu've changed a lot since you died, haven't you? `@`You've got some balls -- I like you. `@`...I'm Izanami. `@`I'm the Second Ranked of the School Youkai. `@`The Reaper of the 13th Step? That's me."`\
 
 bg black,22
 
@@ -1205,7 +1205,7 @@ ld r,HIG_D2,24
 ;ld r,HIG_D1,80
 
 ;「さくのしんは学校妖怪八席ではないけれど。@動物霊の長を務める大妖怪。」\
-`"Sakunoshin isn't one of the eight seated school monsters,`@` but he's an great youkai that rules animal spirits."`\
+`"Sakunoshin isn't one of the eight seated school monsters,`@` but he's a great youkai that rules animal spirits."`\
 ;＜彼岸花
 
 ld c,SAK_D4,80
@@ -1319,7 +1319,7 @@ bg Air_03,22
 `　The red fluid filled the glass to the brim and at first glance appeared to be sake...`@`
 br
 ;　しかし、それに、はらりと桜の花びらが浮かび、月が浮かぶと、とても風流なものに見えるのだ。\
-`　But when the flower petals fell gently and the moon rose to the surface, it looked to me like a workof art.`\
+`　But when the flower petals fell gently and the moon rose to the surface, it looked to me like a work of art.`\
 ;　顔を近付けると、ふわりと甘い、果物を思わせる香りが鼻を通り抜ける。@
 `　And when I brought my face closer, the airy, sweet fragrances of fruit passed into my nose.`@`
 

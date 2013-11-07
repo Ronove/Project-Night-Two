@@ -297,7 +297,7 @@ br
 ;　ずっと寝たまま、永遠に。@
 `　I'd stay asleep, forever.`@
 ;　そしてそのまま、雪が解けて消えるように、@……まるで初めから存在しなかったかのように、消えてしまいたい。\
-`　And like that, just as snow melts, `@`...just as I had never existed in the first place, I'd want to disappear entirely.`\
+`　And like that, just as snow melts, `@`...just as if I had never existed in the first place, I'd want to disappear entirely.`\
 
 ;　だからそれは、自殺願望とは異なる。@
 `　That's different from wanting to kill myself.`@
@@ -358,7 +358,7 @@ br
 ld r,AYA_D3,80
 
 ;　１３階段を踏んだら、死神が命を奪ってくれる、か。@
-`　If you tred on the 13th step, a shinigami will come for your life, huh?`@
+`　If you tread on the 13th step, a shinigami will come for your life, huh?`@
 br
 ;　………階段なら学校で毎日、上り下りをしてる。@
 `　...I go up and down stairs every day at school.`@
@@ -963,7 +963,7 @@ ld c,IZA_D6,80
 `　"No way you can die. `@`You see, you're already dead. `@`You can't die twice, see? `@`You don't die twice!! `@`You'll spend eternity being tortured in my stomach, and I will digest your soul!!"`@
 br
 ;　死神の男は眼下を見下ろし、苦悶の絶叫を抑えられない彼女を嘲笑う。\
-`　The shinigami looked on, ridiculing the girl who could not supress her cries of anguish and suffering.`\
+`　The shinigami looked on, ridiculing the girl who could not suppress her cries of anguish and suffering.`\
 
 ;　苦痛に喘ぐことしか出来ない少女にはわからないだろうが。@ここから見下ろせば、眼下には他にも何人もの哀れな犠牲者を見ることが出来る。\
 `　The girl probably couldn't understand, as all she could feel was the grip of agonizing pain. `@`If she could look down at the scene from above, she would see the suffering of countless victims.`\
@@ -1622,7 +1622,7 @@ ld l,IZA_D3,23
 ld l,IZA_D6,80
 
 ;「踏んだだろうがァ。@俺の１３階段をよォ…！！@　お前はしっかりと数えて上ってたはずだぜ？@　忘れたとは言わさねェ！！@　１３階段は、言うなれば俺の釣り針よォ。@俺の大好物な、クソ落ち目のガキに踏ませて、俺の世界に引き摺り込むんだ…！！@　踏んじまったお前はもう俺の獲物よォ！@　泣いても喚いても、誰も助けちゃくれねェぜェ！！」\
-`"You stepped on it, fool. `@`My 13th step!! `@`You counted it out clearly as you went up, didn't you? `@`I'm not gonna let you forget it!! `@`The 13th step is my fish hook, so to speak. `@`When my favorite prey, you deadbeats, step on it, then you're whisked off to my world! `@`You stepped on it, so you're my prey nowww! `@`Cry and scream all your like, no one is gonna save youuu!!"`\
+`"You stepped on it, fool. `@`My 13th step!! `@`You counted it out clearly as you went up, didn't you? `@`I'm not gonna let you forget it!! `@`The 13th step is my fish hook, so to speak. `@`When my favorite prey, you deadbeats, step on it, then you're whisked off to my world! `@`You stepped on it, so you're my prey nowww! `@`Cry and scream all you like, no one is gonna save youuu!!"`\
 
 ;　やっぱり、１３階段の怪談は本当だったんだ。@
 `　As I had thought, the tale of the 13th step was real.`@
@@ -2070,7 +2070,7 @@ me1v 16,50
 bg mansion_01,2
 
 ;　我に返った時。@そこは昨日と同じに、自宅のあるマンションの前だった……。\
-`　Then I returned to my senses.`@` I was in front my apartment, the same as yesterday...`\
+`　Then I returned to my senses.`@` I was in front of my apartment, the same as yesterday...`\
 
 ;■あやの自室
 
@@ -2676,7 +2676,7 @@ ld r,AYA_D2,80
 ;「………………………。」\
 `"..........."`\
 ;「……どーせ、……俺なんて、勉強も出来ねぇし、取り得なんか何もねぇ。@……生きてたって何の意味もないクズなんだ……。@クズはクズらしく淘汰されろっていう、神様の思し召しなんだ。@……俺みたいなクズは、生まれてきた時点でもう、何かの間違いなんだ…。@……でもよぉ、そんなのあんまりだろぉよぉ……。@ぅおぉおおおぉおぉ……、ひっく、えっぐ……！！」\
-`"...Besides... I'm bad at studying, and I don't have any redeeming features.`@` ...Even if I survive I'm still just worthless trash.... `@`Trash will be weeded out like the trash it is, all because god wills it.`@` ...It was a mistake for trash like me to even be born...`@` ...It's just too much for me to handle....`@` uOOOOooOO... hic, guh...!!"`\
+`"...Besides... I'm bad at studying, and I don't have any redeeming features.`@` ...Even if I survive I'm still just worthless trash.... `@`Trash will be weeded out like the trash it is, all because God wills it.`@` ...It was a mistake for trash like me to even be born...`@` ...It's just too much for me to handle....`@` uOOOOooOO... hic, guh...!!"`\
 ;　とうとう、人目もはばからず泣き出してしまう。@
 `　Finally, he started crying out loud, not caring who heard.`@ 
 br
@@ -2840,7 +2840,7 @@ bgm1 14
 ` ...you mentioned that since it's Wednesday, somehow you'll manage, right...?"`@
 br
 ;　確かに言った。@今日は水曜日だしな、今日は何とかなるだろうがと、確かに言った。\
-`　I'm that's what I heard him say. `@`That since today is Wednesday he would somehow manage to survive. That's definitely what he said. `\
+`　I'm sure that's what I heard him say. `@`That since today is Wednesday he would somehow manage to survive. That's definitely what he said. `\
 ;「あ、……あぁ。@……理由はわからねぇが。@……どういうわけか、月曜と水曜と土曜は、少しだけ時間が短いんだ。@……逆に、火曜と木曜と金曜は長い。@昨日は火曜だから最悪だった。@……今日は水曜だから多少マシだが、……その次は木曜だ。@……もう、俺は助からねぇ……。」\
 `"Ah... yeah.`@` ...I don't know why... `@`but for some reason, on Mondays, Wednesdays and Saturdays, the amount of time I have to run is shorter.`@` ...But on the other hand, Tuesdays, Thursdays and Fridays are longer. `@`Yesterday was Tuesday, so it was the worst.`@` ...Today is Wednesday so it's not as bad... but then it's going to be Thursday.`@` ...I'm not going to make it..."`\
 ;cl r,0
@@ -3086,7 +3086,7 @@ br
 ;　これが学校八不思議の、１３階段の死神に呪われた者の、……末路なのだ。\
 `　This was one of the eight mysteries of the school. The fate of those cursed by the Reaper of the 13th Step.`@
 ;　唯一の仲間を失い、……私の心が絶望に押し潰されそうになる。@
-`　It felt like... my heart was being crushed in despair at the loss my sole companion.`@
+`　It felt like... my heart was being crushed in despair at the loss of my sole companion.`@
 br
 ;　彼があの、胃袋の地獄でこれから永遠に苦しむことを思うと、恐怖に全身が凍り付きそうだった。\
 `　To think that he'd suffer in that stomach-like hell for all eternity... my whole body froze in terror at the notion of it.`\
@@ -3395,7 +3395,7 @@ wait 1000
 ld r,IZA_D1,22
 
 ;　がらりと扉を開けて、教室にイザナミが入ってくる。@
-`　Izanami slams opens the door and bursts into the classroom.`@
+`　Izanami slams open the door and bursts into the classroom.`@
 br
 ;　そして時計を見上げ、肩を竦めながら笑った。\
 `　Looking up at the clock, he shrugged his shoulders and laughed.`\
