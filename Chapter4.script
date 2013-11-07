@@ -1132,7 +1132,7 @@ ld c,NAF_D1,80
 ld c,NAF_D3,80
 
 ;「ちょうど、君みたいな男の子をモデルにした絵を描きたいと思っていたの。@……お願いできないかしら？」@
-`"I've been wanting to do draw a picture with a boy like you as a model.`@` ...Would you mind helping me out?"`@
+`"I've been wanting to draw a picture with a boy like you as a model.`@` ...Would you mind helping me out?"`@
 br
 ;　胸の前で両手を合わせる。\
 `　She brought her hands together in front of her chest in an imploring manner.`\
@@ -1275,7 +1275,7 @@ br
 ld c,NAF_D1,80
 
 ;「そうなんだ。@……でも、君くらい可愛かったら、嫌でも目立っちゃうんじゃない？@　クラスの女の子たちが放っておかないでしょ？」\
-`"Really?`@` ...But, with how cute you are, don't get a lot of attention anyway? `@`I bet the girls in your class won't leave you alone."`\
+`"Really?`@` ...But, with how cute you are, don't you get a lot of attention anyway? `@`I bet the girls in your class won't leave you alone."`\
 
 ;「そんなことないですよ。@男のくせに女みたいだって、いつも馬鹿にされてますから。」@
 `"Not really. `@`Even though I'm a boy, I look like a girl, so I get made fun of a lot."`@
@@ -1722,7 +1722,7 @@ bg black,22
 ` This tea is my original blend. `@`It'll really help you relax."`\
 
 ;　……すごく、という部分を無意識に強調してしまう。@
-`　...Subconsciously, she had put much more emphasis the world 'really' than she had meant to.`@
+`　...Subconsciously, she had put much more emphasis on the word 'really' than she had meant to.`@
 ;　ティーカップの中は毒々しいまでの赤い色の液体で満たされている。\
 `　She poured a bright red, almost poisonous looking liquid into their cups.`\
 

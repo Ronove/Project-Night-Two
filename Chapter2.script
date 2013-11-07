@@ -889,7 +889,7 @@ ld c,IZA_D3,22
 ld c,IZA_D5,80
 
 ;「綺麗に死ねて、安らかな眠りにつけるとでも思ったかァ？@　違ェな。@……これでお前はもう、永遠に俺の獲物だぜ。@俺の地獄で、永遠に俺のために断末魔を聞かせやがれィ。@くっくくくくくく、ひゃっはっはっはっはっは！！」\
-`"So ya thought you'd end up sleeping peacefully and dying a clean death? `@`Wroong. `@`...It's too late, and now you're my prey for eternity. `@`Now let me hear your agony in my hell for my enjoyment for the rest of eternityyy. `@`Ku kukukukukuku, hya ha ha ha ha ha!!"`\
+`"So ya thought you'd end up sleeping peacefully and dying a clean death? `@`Wro~ng. `@`...It's too late, and now you're my prey for eternity. `@`Now let me hear your agony in my hell for my enjoyment for the rest of eternity~. `@`Ku kukukukukuku, hya ha ha ha ha ha!!"`\
 
 bg black,0
 ld c,IZA_D8,25
@@ -2585,7 +2585,7 @@ bg hokora_02,0
 ld c,MIC_D2,22
 
 ;「……あなただけじゃないよ。@……男の子が１人、……今、イザナミの呪いに遭ってる。」\
-`"It's not just you...`@` ... A boy is also now caught in Izanami's curse."`\
+`"It's not just you...`@` ...There is a boy who is also caught in Izanami's curse."`\
 ld l,AYA_D4a,23
 
 ;「男の子………？」@
@@ -4130,7 +4130,7 @@ ld c,IZA_D2,80
 `"Well isn't that good?`@` That you ain't got time to think."`@
 br
 ;　何が良かったのよ。\
-`　What's good about that?"`\
+`　What's good about that?`\
 ld c,IZA_D3,80
 
 ;「それを毎日考えちまうから、苦しかったんだろォ？」@

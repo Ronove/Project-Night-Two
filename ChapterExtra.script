@@ -526,7 +526,7 @@ ld c,SMI_I1,23
 ld r,AZA_D2,24
 
 ;「いじめは民主主義ですからねぇ。@由香里による、暴力の独裁の前には無力かもしれませんねぇ。」\
-`"That's because bullying is a democracy. `@`It may be powerless before the Yukari's power-based dictatorship."`\
+`"That's because bullying is a democracy. `@`It may be powerless before Yukari's power-based dictatorship."`\
 cl c,0
 ld l,SMI_I3a,24
 se1 48
@@ -667,7 +667,7 @@ bg hoken_02,24
 ld r,KOU_D4,22
 
 ;「ほっほっほ。@最近の若い妖怪たちは狩りが盛んだからねぇ。@お陰で大忙しじゃよ。」\
-`"Ho ho ho. `@`The younger youkai have been hunting quite enthusiastically lately. `@`You've all been making me very busy."`\
+`"Ho ho ho. `@`The younger youkai have been hunting quite enthusiastically lately. `@`You've all been keeping me very busy."`\
 ld l,HOK_D4,23
 
 ;「こっちもそっちも。@私たちはいっつも大忙しねぇ。@はーッ、いい男いないかしらー。@/

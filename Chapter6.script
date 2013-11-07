@@ -606,7 +606,7 @@ cl r,0
 ld c,YUK_i2,24
 
 ;「吉川くんっ、おいでっ。」\
-`Yoshikawa-kun, come here."`\
+`"Yoshikawa-kun, come here."`\
 ;cl l,0
 ;cl r,23
 ;bg black,23
@@ -5442,7 +5442,7 @@ ld r,AZA_D2,80
 
 
 ;「さぁ。@このアザミを食べるのです。@……これであなたはもう、いじめられっこではなくなるのですよ。」@
-`Here. `@`Eat this flower.`@` ...With this you will be bullied no longer."`@
+`"Here. `@`Eat this flower.`@` ...With this you will be bullied no longer."`@
 ld l,YUK_D3a,22
 
 ;「……………………………。」\

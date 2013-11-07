@@ -1616,10 +1616,10 @@ ld l,MIC_N1,80
 ;　……燃やせば、……智子は蘇るのだ。@
 `.....If I burn these... Tomoko will be revived.`@
 ;　思い出のノートは失われるかもしれないが、ずっと彼女と一緒にいられる。@
-`　I'll may lose the notebooks containing our memories, but then I'll be able to be with her forever.`@
+`　I'll lose the notebooks containing our memories, but then I'll be able to be with her forever.`@
 br
 ;　ならば燃やそう。@躊躇することなんてない。\
-`　I will burn them. `@`Hesitation was not an option.`\
+`　I will burn them. `@`Hesitation is not an option.`\
 ld l,MIC_N2n,80
 
 ;　…………………………。@
@@ -1831,7 +1831,7 @@ ld l,TOM_D3,0
 ld c,MIC_D6,22
 
 ;「……どうした？@　岡田智子よ。@なぜに、親友の手を取らぬのだ……？」@
-`"...What's wrong? `@`Tomoko Okada. `@`Why do you not take your friend's hand...?"`@
+`"...What's wrong?`@` Tomoko Okada,`@` why do you not take your friend's hand...?"`@
 br
 ;　悪魔も、少し驚いた様子を見せる。\
 `　Even the demon seemed a little surprised.`\
