@@ -2850,7 +2850,7 @@ br
 ;ld r,YOS_D1,22
 
 ;　とうとう、いじめっこはカス玉をぶつけられていることに気付き、振り返る。@
-`　Eventually the bully finally realized that he was being pelted with eraser shavings, and turn around to look behind him.`@
+`　Eventually the bully finally realized that he was being pelted with eraser shavings, and turned around to look behind him.`@
 br
 ;　しかし、その顔つきは恐る恐ると言う感じ。\
 `　But the expression on his face was that of fear.`\
@@ -3737,7 +3737,7 @@ br
 `　Valued people are never judged by anyone. `@`They bully like it's a game, and climb to the top like it's a game.`@
 br
 ;　逆に、魂を食われた人間たちは。@……どこまでも暗く狭い世界に落ち込み、@まるでいじめっこを引き立てるかのように転落していく……。\
-`　On the other hand, those who have their souls eaten.... `@`they will forever be stuck in their small and dark worlds. `@`It's like they fall just to help the bullies reach the top...`\
+`　On the other hand, those who have their souls eaten...`@` will forever be stuck in their small and dark worlds. `@`It's like they fall just to help the bullies reach the top...`\
 ;bg aka2,22
 ld r,SMI_w5,22
 
@@ -5497,7 +5497,7 @@ br
 `　She is innocent.`\
 
 ;　……明日より彼女は豹変するだろう。@それはきっと、……辛い光景になるだろう。@
-`　...After tomorrow she will be the complete opposite. `@`That will surely be... a bitter sight.`@
+`　...After tomorrow, she will be the complete opposite. `@`That will surely be... a bitter sight.`@
 br
 ;　しかしそれでも、……彼女には権利があるのだ。@
 `　But at the same time... she has the right to do so.`@

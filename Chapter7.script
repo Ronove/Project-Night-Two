@@ -2541,7 +2541,7 @@ br
 ;　生徒の個性を重んじることを方針にしているこの学校では、部活動に特に力を入れており、@このように普通の学校では珍しい教室も多数存在している。\
 `　As a policy of respecting the individuality of students, this school put extra attention into the providing of extracurricular activities, `@`and thus there were many of these rooms specifically for club activities that you wouldn't find in a normal school.`\
 ;　だが、今この茶道室には、その厳かで静粛な雰囲気とは不釣り合いな生徒たちが座り込んでいた。@
-`　But in this particular tea ceremony room, amongst a solemnly silent atmosphere, there sat a group of students that seemed altogether out of place.`@
+`　But in this particular tea ceremony room, amongst a solemnly silent atmosphere, sat a group of students that seemed altogether out of place.`@
 br
 ;　あの、秋一を執拗にいじめていた三人組だ。\
 `　They were the trio of boys that had relentlessly bullied Shuuichi.`\
@@ -2924,7 +2924,7 @@ ld r,HIG_D8,80
 `"But no one's really concerned with who started it.`@` ............"`@
 br
 ;　秋一を石投げの的にしようとした連中を見た時の、……あのこみ上げる感じが、また胃の中いっぱいに広がる。@
-`　One again, I felt that nauseating feeling spread throughout my insides... the same way it did when those boys tried to hit Shuuichi with that rock.`@
+`　Once again, I felt that nauseating feeling spread throughout my insides... the same way it did when those boys tried to hit Shuuichi with that rock.`@
 ;　……………………………。\
 `　.................`\
 bg black,22

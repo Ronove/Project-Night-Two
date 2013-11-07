@@ -16,7 +16,7 @@ ld r,HIG_w5,80
 `"...What's this? `@`The lowly Marie is talking back to me, the Dancing Higanbana?`@/
 cl r,0
 ld c,HIG_W5,24
-;se1v 7,30
+se1v 7,30
 quakex 2,200
 
 ;　……わ・た・し・はッ、栗饅頭が食べたいって言ってんのよぉおおぉおおぉおッ。」\
@@ -957,7 +957,7 @@ quakex 1,100
 ;　こうして一緒に掃除をする校長先生は、何だかとても小さく見える。@
 `　But when he was cleaning like this, he looked quite small.`@
 ;　ぼんやりしていると、ただのお年寄りだなんて思ってしまいそう。\
-`　And with his slight absent-mindedness, she though he seemed just like an ordinary elderly man.`\
+`　And with his slight absent-mindedness, she thought he seemed just like an ordinary elderly man.`\
 
 
 ld r,MAR_I4a,80
@@ -1108,7 +1108,7 @@ me1v 28,50
 ld c,MIC_D3,80
 
 ;「錯覚、静電気、気の迷いに思い込み。@全て科学的に説明できるもの。@オカルト信じてるなんて、ばっかじゃない？」@
-`　Static electricity, illusions, or your own foolish delusions. `@`Everything can be explained scientifically. `@`Yet you're insistent on this being the work of the occult? Idiots."`@
+`"Static electricity, illusions, or your own foolish delusions. `@`Everything can be explained scientifically. `@`Yet you're insistent on this being the work of the occult? Idiots."`@
 br
 ;　彼女らが何を訴えたのか知らないが、みちるはにべもなくバッサリだ。\
 `　Marie didn't know what exactly the girls were going on about, but Michiru wasn't having any of it.`\
