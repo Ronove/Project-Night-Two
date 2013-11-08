@@ -711,7 +711,7 @@ ld c,MAR_I1a,22
 `　Ah, whoa...`@
 br
 ;　演劇に一途な情熱を傾けると評判の彼女が、こんな性格だったなんてショックだ……。\
-`　For a girl with a reputation of having such an heartfelt passion for drama, this personality was quite a shock...`\
+`　For a girl with a reputation of having such a heartfelt passion for drama, this personality was quite a shock...`\
 
 
 bg black,22
@@ -992,7 +992,7 @@ se1v 2,50
 quakex 2,200
 
 ;「何と、まだお掃除があるというのですかッ。@この爺、毬枝さんのお手伝いをせぬわけには参りません。@どうかッ、どうかお手伝いを、お手伝いをさせて下さいッ。@/
-`"What's this, there are still mirrors to be cleaned? `@`Then this old man can't afford to let you go unaided. `@`Please, Marie-san. Please allow me help you!`@/
+`"What's this, there are still mirrors to be cleaned? `@`Then this old man can't afford to let you go unaided. `@`Please, Marie-san. Please allow me to help you!`@/
 cl l,0
 ld c,KOU_D7,23
 
