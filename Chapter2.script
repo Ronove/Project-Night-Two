@@ -312,7 +312,7 @@ br
 bg black,22
 
 ;　私、相馬あやは。@眠るように解けるように、……消えてしまいたかった。@
-`　I, Aya Souma. `@`Wanted to disappear... as if asleep... like melting snow.`@
+`　I, Aya Souma,`@` wanted to disappear... as if asleep... like melting snow.`@
 br
 ;　しかしそんな、この世ならざる死に方など、あるわけもない。@
 `　Unfortunately there wasn't any way to die in this world like that.`@
@@ -582,7 +582,7 @@ br
 ;　誰か私を消し去ってくれないだろうか。@
 `　Won't someone help erase me?`@
 ;　この無意味無価値な世界から、@生きる意味も価値もない私を、そっと、水面に解ける粉雪のように……。\
-`　I want to be erased from this meaningless valueless world. `@`I want my life without meaning to disappear, gently, like a snowflake on the water's surface...`\ 
+`　I want to be erased from this meaningless, valueless world. `@`I want my life without meaning to disappear, gently, like a snowflake on the water's surface...`\ 
 
 ;ld r,AYA_D3,80
 
@@ -773,7 +773,7 @@ ld c,IZA_D3,42
 ld c,IZA_D2,22
 
 ;　廊下の彼方にゆらりと、その足音の主の姿が浮かび上がる。@
-`　Swaying in the corridor beyond, the owner of those footsteps's figure appeared.`@
+`　Swaying in the corridor beyond, the owner of those footsteps' figure appeared.`@
 br
 ;　それは黒いマントを羽織った男の姿。@
 `　It was a man in a black coat.`@
@@ -1212,7 +1212,7 @@ me1v 24,70
 `"Yes!"`\
 
 ;「では日直、号令ー！」@
-`"Alright, classroom assistant please dismiss the class!"`@
+`"Alright, classroom assistant, please dismiss the class!"`@
 ;「きりーつ！@　れーい！！」@
 `"Staaand! `@`Bow!"`@
 br
@@ -1301,7 +1301,7 @@ bg koutei_06u,24
 ;　教室に飛んで戻り、窓から校庭を見下ろす。@
 `　Running back into the classroom, I looked down at the schoolyard from the window.`@ 
 ;　……何しろ下校の時間だ。@普段なら、昇降口から校門へと向かう行列を見下ろせるはずだ。@
-`　...Nevertheless it was time to go home. `@`Normally, I should be looking down on a line of people heading towards the gate from the school entrance.`@
+`　...Nevertheless, it was time to go home. `@`Normally, I should be looking down on a line of people heading towards the gate from the school entrance.`@
 br
 ;　しかし、それがない。@
 `　But there wasn't one.`@
@@ -1352,7 +1352,7 @@ br
 `　Although, ...for some reason it showed it was 11:55.`\
 
 ;　正午前……？@　お昼の時間？@　こんな夕焼け色の空なのに…？@
-`　In the A.M....? `@`Day time? `@`Even with the sky colored by the sunset like that...?`@
+`　In the morning....? `@`Daytime? `@`Even with the sky colored by the sunset like that...?`@
 ;　意味がわからない。@
 `　I don't understand why.`@
 br
@@ -1693,7 +1693,7 @@ br
 ;　目がぐるぐると回り、気持ち悪くなって、立っていられない。@
 `　I felt dizzy, queasy, and I couldn't remain standing.`@
 ;　遊園地のメリーゴーランドやコーヒーカップで感じるような眩暈。\
-`　It was vertigo like going on the merry-go-round or coffee cup rides at an amusement park.`\
+`　It was vertigo, like going on the merry-go-round or coffee cup rides at an amusement park.`\
 
 
 ;　……駄目……、意識が……、……………………。@
@@ -1826,7 +1826,7 @@ br
 ld r,IZA_D2,80
 
 ;「そして、もう一つ、約束するぜ。@俺がお前の命を奪うのは、お前を捕まえた時だけだ。@お前が俺から逃げ続ける限り、命は奪わねェでやる。@呪いだとか事故だとか病気だとか。@そんなわけのわかんねェことでは殺さねェってわけだ。@……つまり。@お前が生きるか死ぬかは、お前の足だけにかかってるってェわけだ。」\
-`"Just one more thing I'll promise you. `@`The only time I'll snatch your life away is when I catch you. `@`As long as you keep running from me, I'll let you live. `@`Curses, accidents, illness. `@`Basically, I'm not gonna kill you in some unknown way like that. `@`...In other words, whether you live or die, `@`depends on those little legs of yours."`\
+`"Just one more thing I'll promise you. `@`The only time I'll snatch your life away is when I catch you. `@`As long as you keep running from me, I'll let you live. `@`Curses, accidents, illness. `@`Basically, I'm not gonna kill you in some unknown way like that. `@`...In other words, whether you live or die depends on those little legs of yours."`\
 
 ;「に、……逃げ続ける限り、私は殺されない……。」\
 `"As, ...as long as I continue to run away, I won't be killed..."`\
@@ -2095,7 +2095,7 @@ me1v 35,50
 ;　生きていることに意味を見出せず、死を願ったことが何度もあった。@
 `　Unable to see the meaning of living, I wanted to die so many times.`@
 ;　しかし、少なくともあの死神の与える死は、@私が望んでいたものとは余りに程遠い、恐ろしくおぞましいものだった。@
-`　However, the death that shinigami offered me, was far from the gracious death I wanted. `@`I was given a horrible, hideous fate.`@
+`　However, the death that the shinigami offered me was far from the gracious death I wanted. `@`I was given a horrible, hideous fate.`@
 br
 ;　それが嫌だから、私は逃げ延び、生き延びた。\
 `　I don't want that, so I escaped, and I continue living.`\
@@ -2310,7 +2310,7 @@ br
 `　Behind the school, hidden in the shade of the bushes, at the small Shinto shrine.`@
 br
 ;　その前にしゃがみ込み、何かぶつぶつと独り言を言いながら祠を撫でている眼帯の少女こそ、@……噂の桜田みちるに違いなかった。\
-`　Crouched in front of it, that girl with an eyepatch muttered something to herself as she gently stroked the shrine. `@`...Just as the rumors had said, it was without a doubt, Michiru Sakurada.`\
+`　Crouched in front of it, that girl with an eyepatch muttered something to herself as she gently stroked the shrine. `@`...Just as the rumors had said, it was without a doubt Michiru Sakurada.`\
 
 ;　……１３階段を踏み、毎日、放課後に、死神と追いかけっこをしていると言って、@信じてくれるだろうか。@
 `　...If I tell her that I stepped on the 13th step and that every day a shinigami chases me after school, `@`would she believe me, I wonder?`@
@@ -2504,7 +2504,7 @@ ld l,MIC_D1,23
 ld l,MIC_D3,80
 
 ;「ご愁傷さまだよ。@……気の毒だけれど、私には何も出来ない。」\
-`"My condolences. `@`...I'm so sorry, however, I cannot do anything."`\
+`"My condolences. `@`...I'm so sorry, however I cannot do anything."`\
 
 cl r,0
 ld c,AYA_D5a,24
@@ -3082,7 +3082,7 @@ br
 ;　……何となく、わかってた。@
 `　I understand, more or less.`\
 ;　彼の存在は、席ごと、なくなっていた。\
-`　His existence, together with his seat in the classroom, have disappeared.`\
+`　His existence, together with his seat in the classroom, has disappeared.`\
 ;　これが学校八不思議の、１３階段の死神に呪われた者の、……末路なのだ。\
 `　This was one of the eight mysteries of the school. The fate of those cursed by the Reaper of the 13th Step.`@
 ;　唯一の仲間を失い、……私の心が絶望に押し潰されそうになる。@
@@ -3313,7 +3313,7 @@ br
 ;　のんびりと自分のペースで走ることが出来る。@
 `　I can run leisurely at my own pace.`@
 ;　疲れたとしても、放課後までに体力を回復できる時間はたっぷりある。\
-`　Even if I tire, I still have plenty time to recuperate before school ends.`\
+`　Even if I tire, I still have plenty of time to recuperate before school ends.`\
 bg black,22
 
 ;　これが、イザナミのゲームの生き残り法。@
@@ -3645,7 +3645,7 @@ br
 bg black,23
 
 ;「俺はもう、お前に興味はねェし、お前だってこんなのが延々と続くのもウンザリのはずだァ。@だからだ。@こうしよう。@俺に捕まれ。」\
-`"Honestly, I don't care for you, and I'm sure you're getting bored of doing this every day too. `@`So here's the deal.`@` You. `@`Should let me catch you."`\
+`"Honestly, I don't care for you, and I'm sure you're getting bored of doing this every day too. `@`So here's the deal.`@` You.`@` ...Should let me catch you."`\
 bg kyou_04,23
 ld r,AYA_D7a,23
 ld r,AYA_D8a,80
@@ -4213,7 +4213,7 @@ bg black,24
 bg roji_03a,24
 
 ;「あやァ！！@　またペースが落ちてるぞォ！！@　下らねェことで頭を満たすな！！@　カラッポにしろ！@　考えるんじゃねェッ、カラッポで走れぇええ！！」@
-`"Aya!! `@`you're slowin' down again!! `@`Stop filling your head with useless thoughts!! `@`Keep it empty! `@`Don't think, just clear your mind and keep running!!"`@
+`"Aya!! `@`You're slowin' down again!! `@`Stop filling your head with useless thoughts!! `@`Keep it empty! `@`Don't think, just clear your mind and keep running!!"`@
 ;「…………………！！」\
 `"..........!!"`\
 ;　イザナミの声が近い。@
@@ -4387,7 +4387,7 @@ bg air_02,22
 ;　担任や他の先生たちも彼女のもとへ集まり、相馬あやの意外な大健闘を絶賛してくれた。@
 `　A group of teachers gathered around Aya, and the other runners that finished behind her were cheering for her.`@
 ;　彼女が休み時間の度に校庭を走っていたのは、すでに有名な話。@
-`　The story of the girl who spent her free time running had already became famous around the school.`@
+`　The story of the girl who spent her free time running had already become famous around the school.`@
 ;　その成果を存分に発揮した成績は、運動部に所属する生徒たちに並ぶものであった。@
 `　And because of that, groups of students that participated in sports clubs had lined up around her.`@
 br
