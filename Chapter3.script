@@ -563,7 +563,7 @@ ld r,KYO_D1,22
 ld r,KYO_D3,80
 
 ;「じゃ、トーキングタイムはおしまいだ。@始めようぜ。@じゃあ、さっき割り振った通りに手分けしよう。@終わったら、ここ集合な。」@
-`"Alright, <talking time> is over. `@`Let's get started. `@`We'll up and head to the mirrors we decided on earlier. `@`When you're done, come back here."`@
+`"Alright, <talking time> is over. `@`Let's get started. `@`We'll split up and head to the mirrors we decided on earlier. `@`When you're done, come back here."`@
 ld l,MAR_w1,23
 ld l,MAR_W2,80
 
@@ -2151,7 +2151,7 @@ se2 48
 ld r,MAR_D4a,80
 
 ;　一度も見たことのない、情けない顔をして、ぴょこぴょこと飛び跳ねている。@
-`　Marie had never seen her making such a pitiable face before, all the while she was jumping up and down like a frog.`@
+`　Marie had never before seen this pitiable face she was wearing while jumping up and down like a frog.`@
 ;ld r,MAR_D1,80
 
 br

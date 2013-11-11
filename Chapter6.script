@@ -3364,7 +3364,7 @@ ld r,YOS_D12,24
 ;「いじめじゃねぇよ、遊びだよッ！@　俺だって、逆の立場で遊んでもらったことがあるんだぜ。@なっ。@ランドセル運ばされて、@罰ゲームでズボンをドブに捨てられたりとかして遊んだもんな？！@　なッ！！」@
 `"It's not bullying, it's playing! `@`When I was in his place they made me play like this all the time. `@`Right? `@`You would make me carry your backpacks, `@`and then make me play a punishment game of throwing my pants in the gutter!! `@`Right?!"`@
 ;「ぅ、………ぅん………。」\
-`"y-..... yeah...."`\
+`"...Y-..... yeah...."`\
 
 
 ld r,YOS_D8,80
@@ -4054,7 +4054,7 @@ ld r,SMI_w5,80
 ld l,YUK_i2a,80
 
 ;「……なるほど。@吉川くんに魔法のアザミを与えて豹変させたのは、@……やっぱり妖怪の仕業だったのね。」\
-`"...I see. `@`You are the one who gave that Yoshikawa-kun the magical thistle that changed him.`@` ...I had a feeling this was the work of a youkai."`\
+`"...I see. `@`You are the one who gave Yoshikawa-kun the magical thistle that changed him.`@` ...I had a feeling this was the work of a youkai."`\
 ld r,SMI_w6,80
 
 ;「お前も覚えている通り。@我らはいじめの愉悦を教えるだけ。@それに酔い、染まるのは人間の勝手なのじゃ！@　我らは別に、正明を操っているわけではないのじゃ！」\

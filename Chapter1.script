@@ -542,7 +542,7 @@ ld r,HIG_D4,80
 ld l,KOU_D1,80
 
 ;「ほっほっほっほ。@狩りをするも自由、しないも自由。@誰かの邪魔をするのもまた自由。@如何なる者にも縛られぬことのみが、我ら学校妖怪の不文律。@……妖怪など、なろうと思ってもなかなかなれぬもの。@こうして学校妖怪に名を連ねることが出来たのも、何かの運命だ。@その運命、とことんまで翻弄されてみるも一興というもの。」\
-`"Hohohoho.`@` You're free to hunt or not to hunt.`@` You're also free to get in the way of others' hunting.`@` It is an unwritten law of the School Youkai that we shall be bound by nothing.`@` ...Even if you think about becoming a Youkai, it's not easy to do so.`@` The fact that you were able to make a name for yourself in the School Youkai must be some form of destiny.`@` It must have been amusing to trifle with fate so thoroughly."`\
+`"Hohohoho.`@` You're free to hunt or not to hunt.`@` You're also free to get in the way of others' hunting.`@` It is an unwritten law of the School Youkai that we shall be bound by nothing.`@` ...Even if you think about becoming a Youkai, it's not easy to do so.`@` The fact that you were able to make a name for yourself among the School Youkai must be some form of destiny.`@` It must have been amusing to trifle with fate so thoroughly."`\
 
 mcl c,0
 cl l,0
@@ -995,7 +995,7 @@ bg okujou_01y,22
 `　Next was the fourth in rank.`@` ...This one she hadn't met before.`@` It was her first time meeting this one.`@`
 br
 ;　案内される先には、着物姿のスミレと並んで酒を酌み交わす、同じく着物姿の女性の姿があった。\
-`　The guide from earlier, Sumire was standing, drinking rice wine with the others in the same, kimono-clad appearance.`\
+`　The guide from earlier -- Sumire -- was standing, drinking rice wine with the others in the same kimono-clad appearance.`\
 ld l,SMI_w1,23
 ld l,SMI_w3,80
 se1 47
@@ -1244,11 +1244,11 @@ ld r,HIG_w3,22
 ;＜彼岸花
 
 ;　第７位のスミレは、いじめを撒き散らし、積極的な狩りをしていた。@
-`　Sumire the Seventh Ranked spread bullying and performed extremely proactive hunting.`@
+`　Sumire, the Seventh Ranked, spread bullying and performed extremely proactive hunting.`@
 ;　にもかかわらず、このルノワールという妖怪は、ほとんど狩りをしないのに、序列はそれより高い。@
-`　Nevertheless, even without hunting much, this youkai called Renoir was higher ranked.`@
+`　Nevertheless, even without hunting much, this youkai Renoir was higher ranked.`@
 ;　だとするなら、元々、相当の大きな力を持つ妖怪に違いあるまい。\
-`　Since that's the case, Renoir must have been a youkai with a great amount of power in the past, befitting of one's rank.`\
+`　Since that's the case, Renoir must have held a great amount of power in the past, befitting of one's rank.`\
 
 ld l,ma2_w1,22
 

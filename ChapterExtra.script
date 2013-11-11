@@ -962,7 +962,7 @@ cl r,0
 mld c,HIG_W6,24
 
 ;「やるに決まってるでしょ！@　うっふふふふふふふ、とびきり不公平に割ってあげるわよ。@本来なら、お煎餅は丸まる私がもらって、@毬枝なんか、袋に残ったざらめしか舐めさせてあげないところだけど！」\
-`"Of course I would! `@`Ufufufufufu, I'll split them exceptionally unevenly. `@`I'll get the whole cookie that I originally should have had, `@`and all Marie will get is the sugar at the bottom of the bag!"`\
+`"Of course I would! `@`Ufufufufufu, I'll split them exceptionally unevenly. `@`I'll get the whole cookie that I originally should have had, `@`and Marie will be left licking the sugar at the bottom of the bag!"`\
 ld r,KYO_D6a,24
 ;ld r,KYO_D1,80
 

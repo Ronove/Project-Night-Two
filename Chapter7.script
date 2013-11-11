@@ -206,7 +206,7 @@ ld r,SIN_D4,24
 ;ld r,SIN_D1,80
 
 ;「そして、大勢の妖怪たちが淘汰されていき、力の優劣が次第に序列化していき。@……混乱していた子供たちも落ち着きを取り戻し。」\
-`"And then, most of the youkai were weeded out, and a hierarchy gradually formed based on the differences in our powers.`@` ...And the disordered children too regained their composure."`\
+`"And then, most of the youkai were weeded out, and a hierarchy gradually formed based on the differences in our powers.`@` ...And the disordered children also regained their composure."`\
 ;＜紅茶
 
 cl l,24
@@ -800,7 +800,7 @@ br
 `　Sometimes she would conceal her form and then either flee or sneak an attack on her opponent from behind.`@
 br
 ;　彼女の毎日は、殺すか殺されるかの二つだけで全て表現できた。\
-`　Every day her life could be defined a single expression: 'kill or be killed.'`\
+`　Every day her life could be defined by a single expression: 'kill or be killed.'`\
 bg hoken_05,22
 
 ;　……彼女はとりあえずのところ、まだ生きている。@
@@ -1550,7 +1550,7 @@ ld l,HIG_D10,23
 `　She herself had no capacity for emotion.`@ 
 br
 ;　だから、………日々が何も揺らめかない。@
-`　That's was why... she never felt them.`@
+`　That was why... she never felt them.`@
 ;　昨日と同じ今日になる。@今日と同じ明日になる。@それが全て同じ灰色になってしまう。\
 `　Yesterday was like today. `@`Today would be like tomorrow. `@`Everything is the exact same shade of gray.`\
 
@@ -1722,7 +1722,7 @@ bg Different_spiral_1b,22
 `　My heart was pounding like an alarm bell. `@`And the blood felt like it was swirling around like a cold soup.`@
 br
 ;　これほど冷たく凍った汗を浮かべるのは、これが初めての経験だった。\
-`　This was the first time I that I had ever broken into a sweat this cold.`\
+`　This was the first time that I had ever broken into a sweat this cold.`\
 ;　自分には幸運なことに、これまで力があった。@
 `　I was lucky enough to have been the stronger one in my fights up until this point.`@
 ;　だから、どれほどの死闘であろうとも、……死を予感することはなかったのだ。@
@@ -1957,7 +1957,7 @@ br
 ;　もし、心というものに容積があるならば。@
 `　If the feelings within a heart could be measured by some physical metric...`@
 ;　握り拳程度しかなかったそれが、……ぶわっと広がるような、不思議な解放感。@
-`　...Then it would have only been the size of a clenched fist... albeit rapidly expanding, with a sense of liberation.`@
+` ...Then it would have only been the size of a clenched fist... albeit rapidly expanding, with a sense of liberation.`@
 br
 ;　まるで心臓の内側の狭い狭い世界が、……体よりも広く広く広がったかのような感触を覚えた。\
 `　It was a feeling almost like the small confines of my heart... were suddenly becoming much, much larger than my entire body.`\
@@ -2544,7 +2544,7 @@ br
 `　But in this particular tea ceremony room, amongst a solemnly silent atmosphere, sat a group of students that seemed altogether out of place.`@
 br
 ;　あの、秋一を執拗にいじめていた三人組だ。\
-`　They were the trio of boys that had relentlessly bullied Shuuichi.`\
+`　They were the trio of boys who had relentlessly bullied Shuuichi.`\
 bg black,22
 bg sadou_03,22
 

@@ -876,7 +876,7 @@ bg rouka_03,0
 print 99,2000,"breakup.dll/llb"
 
 ;　その瞬間、少女の全身が真っ青な炎を噴出して燃え上がった。@
-`　At that moment, her whole body burst into a deep blue flame.`@
+`　At that moment, her whole body exploded into a deep blue flame.`@
 br
 ;　その青い業火は、人の世の炎のどれよりも熱く、そして冷たかった。\
 `　That blue flame was hotter and colder than any flame of the human world.`\
@@ -906,7 +906,7 @@ br
 ;　無我の境地などとんでもない。@
 `　There was no unconsciousness or loss of self.`@
 ;　全身は焼ける痛みと凍える痛みではちきれそうで。@どこまでも無限に落下していく恐怖で心も破裂しそうだった。\
-`　Her whole body burst with the pain of burning and freezing.`@` Her heart was full to burst from the plummeting endless horror.`\ 
+`　Every nerve of her body stung with the pain of burning and freezing.`@` Her heart was ready to burst from the plummeting endless horror.`\ 
 se1 24
 se2v 66,100
 bg aka2,8
@@ -917,7 +917,7 @@ bg aka2,8
 `　It was hideous to even look at, an eerie, flesh-colored organic alien world.`@
 br
 ;　例えるなら、まるで胃袋の世界。@巨大なバケモノの胃袋の中そのものだった。\
-`　For example, it was as if it were a world of stomachs. `@`In fact, she was inside the stomach of a giant monster.`\
+`　A world that looked like the inside of a stomach. `@`In fact, she had fallen into the belly of a giant monster.`\
 bg aka3,25
 se3v 38,100
 quakey 5,1000
@@ -963,7 +963,7 @@ ld c,IZA_D6,80
 `　"No way you can die. `@`You see, you're already dead. `@`You can't die twice, see? `@`You don't die twice!! `@`You'll spend eternity being tortured in my stomach, and I will digest your soul!!"`@
 br
 ;　死神の男は眼下を見下ろし、苦悶の絶叫を抑えられない彼女を嘲笑う。\
-`　The shinigami looked on, ridiculing the girl who could not suppress her cries of anguish and suffering.`\
+`　The shinigami glared at her, ridiculing the girl who could not suppress her cries of anguish and suffering.`\
 
 ;　苦痛に喘ぐことしか出来ない少女にはわからないだろうが。@ここから見下ろせば、眼下には他にも何人もの哀れな犠牲者を見ることが出来る。\
 `　The girl probably couldn't understand, as all she could feel was the grip of agonizing pain. `@`If she could look down at the scene from above, she would see the suffering of countless victims.`\
@@ -1346,7 +1346,7 @@ me1v 11,90
 ;　教室の時計を見上げる。@
 `　I look up at the classroom clock.`@
 ;　確かに時計は、夕方の時間を示してはいなかった。@
-`　Of course the clock didn't show it was the twilight hour.`@
+`　Of course, the clock didn't show it was the twilight hour.`@
 br
 ;　しかし、…………どういうことなのか、１１時５５分を指していた。\
 `　Although, ...for some reason it showed it was 11:55.`\
@@ -1381,7 +1381,7 @@ E_A
 
 
 ;　その時、この世界で始めて、音を聞いた。@
-`　At that moment, I heard a sound for the first time in this world.`@
+`　Just then, for the first time in this world, I heard a sound.`@
 ;　自分以外に誰かが居てくれた、という安堵は一瞬だけ沸きあがったが、すぐに消えた。@
 `　For a moment I had a sliver of hopeful excitement that someone other than myself was there, but it immediately vanished.`@
 br
@@ -1905,7 +1905,7 @@ br
 bg rouka_04,22
 
 ;　……昨日は１１時５５分から始まったが、今日は１１時５０分から始まった。@
-`　Yesterday the game started at 11:55 yesterday, but it started at 11:50 today.`@
+`　The game started at 11:55 yesterday, but it started at 11:50 today.`@
 br
 ;　つまり、１０分間、イザナミから逃げ延びればいいわけだ。\
 `　In other words, if I can run from Izanami for 10 minutes, I'll be okay.`\
@@ -2241,7 +2241,7 @@ br
 `　...Unfortunately, my body was just about at its limit.`@
 br
 ;　全身、汗だくで、肺も心臓も爆発しそう。@
-`　My whole body covered in sweat, my lungs and heart seem full to burst.`@
+`　My whole body covered in sweat, my lungs and heart heaving uncontrollably.`@
 ;　最後は、脇腹を押さえながら、よろめくようにしか走れなかった。\
 `　In the end, I could only run in a staggered stance while holding my side.`\
 
