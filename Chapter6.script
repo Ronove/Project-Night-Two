@@ -952,7 +952,7 @@ cl r,22
 `　...Now that it was dusk, the inside of the school had fallen completely silent.`@
 br
 ;　校庭で遊ぶ子供たちの声は、とても楽しそうなのに、@それがとても遠くに聞こえて、何だか悲しい気持ちだった。\
-`　The kids playing in the schoolyard sounded like they were having a lot of fun, `@`but it sounded so far off that it sounded somewhat sad.`\
+`　The kids having fun playing in the schoolyard were just about audible,`@` but they were so far away that it sounded somewhat sad.`\
 
 ;bg koutei_03,0
 ;ld r,YOS_D1,24
@@ -1287,7 +1287,7 @@ br
 mbg black,22
 
 ;　見たこともない少女が二人も現れて、言い合いをしているのだ。@
-`　Two girls he had never seen before had appeared out of nowhere and starting having a quarrel.`@
+`　Two unfamiliar girls had appeared out of nowhere and were now quarreling.`@
 br
 ;　しかし、彼女らが何を言っているのかはわかる。\
 `　But he had no idea what they were saying.`\
@@ -1738,7 +1738,7 @@ br
 ld c,AZA_D2,80
 
 ;「ずっといじめられていた気の毒ないじめられっこが、@……クラス替えや夏休み明けに、人が変わったかのように豹変し、@いじめっこに生まれ変わることがあるいう。@………それは、復讐の力を宿らせる、魔法のアザミの仕業……。」\
-`"A pitiful child who was always being bullied.... `@`suddenly becomes a new person after changing classes or coming back from summer break, `@`and is born anew as a bully themselves.`@` ...That is the revenge-granting power of a magical azami. A magical thistle..."`\
+`"A pitiful child who was always being bullied.... `@`suddenly becomes a new person after changing classes or coming back from summer break, `@`and is born anew as a bully themself.`@` ...That is the revenge-granting power of a magical azami. A magical thistle..."`\
 
 
 bg black,22
@@ -5037,7 +5037,7 @@ br
 `　As she yelled at them, each and every one of them slowly turned their heads... and gave her a dismal stare.`\
 
 ;　そして、悪党を庇うなら榊由香里も悪党だと口々に叫び、@……その矛先を正明から由香里を変えた。@
-`　And then, because she was defending a villain, they all started yelling at Yukari Sakaki like she was a villain too.`@` ...And they changed the target of their attack from Masaaki to Yukari.`@
+`　And then, because she was defending a villain, they all started yelling at Yukari Sakaki like she was a villain herself.`@` ...And they changed the target of their attack from Masaaki to Yukari.`@
 ;　クラスメートたちは、何かに取り憑かれたかのように、@由香里を取り囲んで、口々に罵声を浴びせ、小突いたり蹴ったりする。\
 `　As if possessed, `@`all the classmates gathered around Yukari and engulfed her with ridicule, pushing and kicking at her.`\
 se1 13

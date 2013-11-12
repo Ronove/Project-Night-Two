@@ -908,7 +908,7 @@ bg okujou_02,22
 `　It was silent.`@
 br
 ;　誰も襲ってこない、黄昏時のわずかの空白。\
-`　This dusk offered a small break from any coming to attack her.`\
+`　This dusk offered a small break from any youkai coming to attack her.`\
 ;　頭を空にして、……殺し合いの熱を、わずかでも冷ます。@
 `　She cleared her head... and took a short time to relax from the killing.`@
 br
@@ -991,7 +991,7 @@ br
 ;　どこの誰だか知らないけれど。@
 `　She had no idea who this boy was.`@
 ;　ふと見下ろしたら、目に付いた。@……狩りの動機はその程度でいい。@
-`　She had just happened to look down and see him there.`@` ...But that was all the incentive she needed to start her hunt.`@
+`　She had just happened to look down and saw him there.`@` ...But that was all the incentive she needed to start her hunt.`@
 br
 ;　彼岸花は屋上より、ふわりと飛び降りる。\
 `　Higanbana jumped from the rooftop and began to float gently down.`\
@@ -2217,7 +2217,7 @@ ld l,HIG_D10,22
 
 
 ;　その石を投げようとした少年めがけて、……石は唸りをあげながら、その頭部を正確に狙う。@彼が秋一に対してそうしたように。\
-`　With a buzz it flew towards the boy who had tried to throw it... and aimed directly at the his head. `@`Just like where that boy was aiming to hit Shuuichi.`\
+`　With a buzz it flew towards the boy who had tried to throw it... and aimed directly at his head. `@`Just like where that boy was aiming to hit Shuuichi.`\
 
 ld c,SHU_D6,24
 quakex 1,100

@@ -811,7 +811,7 @@ br
 ;　偉大なる力を持った存在を呼び出し、それに叶えてもらうことだ。@
 `　She would need to summon a powerful being, and have it grant her wish.`@
 ;　現実的にはありえないその方法も、みちるにとっては現実味を帯びる。\
-`　This method that would be realistically impossible for a normal person, was within the grasp of Michiru.`\
+`　This ability that would be impossible for a normal person, was within the grasp of Michiru.`\
 ld r,MIC_D3,22
 ;ld r,MIC_D1,80
 
@@ -1895,7 +1895,7 @@ cl l,0
 ld r,MIC_D6,23
 
 ;「う、うん。@でもね、依り代でもいいんだって。@私の持ってるぬいぐるみ、覚えてる？@　ほらあの！@　見せたことあるでしょっ。」\
-`"Y- Yes. `@`But don't worry, I'll put your soul in something else. `@`Remember that stuffed animal I had? `@`Remember?! `@`I showed it to you before, right?"`\
+`"Y- Yes. `@`But don't worry, I'll place your soul into something else. `@`Remember that stuffed animal I had? `@`Remember?! `@`I showed it to you before, right?"`\
 mcl c,0
 bg black,22
 mono 1

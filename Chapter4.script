@@ -424,7 +424,7 @@ br
 
 
 ;　少女は入り口の近くにかけられた、一枚の絵の前でピタリと歩みを止めた。@
-`　The girl stooped directly in front of a picture hanging right next to the exit.`@
+`　The girl stopped directly in front of a picture hanging right next to the exit.`@
 br
 ;　それは油彩画だった。\
 `　It was an oil painting.`\
@@ -1458,7 +1458,7 @@ bg kaiga_01,24
 ;　少年は頷いて壁に視線を向ける。@そこには一枚の絵がかけられていた。@
 `　The boy nodded his head and looked over at the wall. `@`Hanging there was a single painting.`@
 ;　花が生い茂る鮮やかな花壇の前に、英国風の青いスカートを履いた美少女が立ち、鞭を握りしめている。\
-`　In front of a flower bed filled with vibrantly colored flowers stood an beautiful English looking girl wearing a blue skirt and gripping a short whip.`\
+`　In front of a flower bed filled with vibrantly colored flowers stood a beautiful English-looking girl wearing a blue skirt and gripping a short whip.`\
 
 ;　その瞳はとても冷たく、その笑顔はひどく寂しそうだ。@
 `　Her eyes looked awfully cold, and her smile horribly lonely.`@
@@ -4519,7 +4519,7 @@ br
 ;　ルノワールが久々に出会った人間が、彼だった。@
 `　He was the first human that Renoir had talked to in a long time.`@
 ;　彼は自分と対話が出来る、貴重な波長の持ち主だった。\
-`　He has such a valuable wavelength that he was able to converse with me.`\
+`　He had such a valuable wavelength that he was able to converse with me.`\
 bg black,22
 
 ;　彼は美術に関心があり、短い時間とはいえ、素晴らしい話し相手になってくれた。@
