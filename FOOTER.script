@@ -8818,7 +8818,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],%bgm_mood_op_no	;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],100000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Hashi wo Wataru``" ;‹È–¼
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`The Love Crossedc`" ;‹È–¼
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	add %3802,400
 	mov ?bgmm[%3801][bm_pa],%3802
@@ -8831,7 +8831,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],1		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],81000		;‹È‚Ì’·‚³1:21
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Harukaze`" ;‹È–¼
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Spring Breeze`" ;‹È–¼
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -8840,7 +8840,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],2		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],394000		;‹È‚Ì’·‚³6:34
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Wasureenu Kono Hi`" ;‹È–¼
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Unforgettable Day`" ;‹È–¼
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -8849,7 +8849,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],3		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],343000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Odoroita?`" ;‹È–¼5:43
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Surprised?`" ;‹È–¼5:43
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -8858,7 +8858,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],4		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],110000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Youen`" ;‹È–¼1:50
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Heat Shimmer`" ;‹È–¼1:50
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -8867,7 +8867,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],5		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],256000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Yoi no Kagefumi`" ;‹È–¼4:16
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Chasing Shadowsc`" ;‹È–¼4:16
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -8876,7 +8876,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],6		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],233000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Houmurisaru Hana`" ;‹È–¼3:53
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Forgotten Flower`" ;‹È–¼3:53
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -8885,7 +8885,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],7		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],137000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Furukiashiki`" ;‹È–¼2:17
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Ancient Evil`" ;‹È–¼2:17
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -8894,7 +8894,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],8		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],130000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Kurayami Ongaku`" ;‹È–¼2:10
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Dark Music`" ;‹È–¼2:10
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -8912,7 +8912,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],10		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],390000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`ŸSoko ni wa Dare``" ;‹È–¼6:30
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`ŸThere Shouldn'tc`" ;‹È–¼6:30
 	mov ?bgmm[%3801][bm_k],1		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -8921,7 +8921,7 @@ inc %3801
 ;	mov ?bgmm[%3801][bm_c],11		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 ;	mov ?bgmm[%3801][bm_t],154000		;‹È‚Ì’·‚³
 ;	add %3802,400
-;	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`ŸPutsuputsu`" ;‹È–¼2:34
+;	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`ŸBumps`" ;‹È–¼2:34
 ;	mov ?bgmm[%3801][bm_k],1		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 ;	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -8930,7 +8930,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],12		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],193000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`ŸGakkou Angainin`" ;‹È–¼3:13
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`ŸSchool Tourc`" ;‹È–¼3:13
 	mov ?bgmm[%3801][bm_k],1		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -8939,7 +8939,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],13		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],50000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`ŸUshimitsudoki`" ;‹È–¼0:50
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`ŸDead of Night`" ;‹È–¼0:50
 	mov ?bgmm[%3801][bm_k],1		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -8948,7 +8948,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],14		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],98000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Tatoeba``" ;‹È–¼1:38
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`That Ghost Storyc`" ;‹È–¼1:38
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -8957,7 +8957,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],15		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],156000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Toge`" ;‹È–¼2:36
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Thorns`" ;‹È–¼2:36
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -8966,7 +8966,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],16		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],187000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`ŸKirihana`" ;‹È–¼3:07
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`ŸMist Flower`" ;‹È–¼3:07
 	mov ?bgmm[%3801][bm_k],1		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -8975,7 +8975,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],17		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],96000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Tsuyoku Ikite``" ;‹È–¼1:36
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Live Strongc`" ;‹È–¼1:36
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -8984,7 +8984,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],18		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],217000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Ushi no Koku Mairi`" ;‹È–¼3:37
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Shrine at 2 A.M.`" ;‹È–¼3:37
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -8993,7 +8993,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],19		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],58000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`HokoRaion``" ;‹È–¼0:58
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`The Shrine Lion`" ;‹È–¼0:58
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -9002,7 +9002,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],20		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],189000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Sabon no Hana`" ;‹È–¼3:09
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Savon de Fleur`" ;‹È–¼3:09
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -9011,7 +9011,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],21		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],404000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Kuraki Kuraki``" ;‹È–¼6:44
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`The Moon Drapedc`" ;‹È–¼6:44
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -9020,7 +9020,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],22		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],220000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Karada no Nai Yoru`" ;‹È–¼3:40
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Bodiless Night`" ;‹È–¼3:40
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -9029,7 +9029,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],1004		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],185000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Meian Kyoukaisen`" ;‹È–¼3:05
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Border of Shade`" ;‹È–¼3:05
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -9039,7 +9039,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],1003		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],196000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Iwai to Matsuri`" ;‹È–¼3:16
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`C. Festival`" ;‹È–¼3:16
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -9048,7 +9048,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],1002		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],198000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Hitoribocchi``" ;‹È–¼3:18
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`For Lonesome You`" ;‹È–¼3:18
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -9057,7 +9057,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],23		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],204000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Jouya no Bansankai`" ;‹È–¼3:27
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Banquet of ac`" ;‹È–¼3:27
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -9066,7 +9066,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],24		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],213000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`a cross line`" ;‹È–¼3:33
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`A Cross Line`" ;‹È–¼3:33
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -9084,7 +9084,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],26		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],310000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Danzai Kairou`" ;‹È–¼5:10
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Conviction Corridor`" ;‹È–¼5:10
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -9093,7 +9093,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],27		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],185000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Tasogare``" ;‹È–¼3:06‰©¨‚É“H‚éŒŒ‚Í–¨‚Ì–¡
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Blood Spilled at Duskc`" ;‹È–¼3:06‰©¨‚É“H‚éŒŒ‚Í–¨‚Ì–¡
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -9102,7 +9102,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],28		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],223000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Tsukiyo no Tokei`" ;‹È–¼3:44
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Moonlit Clock`" ;‹È–¼3:44
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -9111,7 +9111,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],29		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],196000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Hanachiru Yozora`" ;‹È–¼3:17
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Night Sky Filledc`" ;‹È–¼3:17
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -9120,7 +9120,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],30		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],130000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Akushumi na Ongaku``" ;‹È–¼2:10ˆ«ï–¡‚È‰¹Šy‹³t‚É‚æ‚é‘I‹È
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`A Song Choicec`" ;‹È–¼2:10ˆ«ï–¡‚È‰¹Šy‹³t‚É‚æ‚é‘I‹È
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -9129,7 +9129,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],31		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],166000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"Pokapoka" ;‹È–¼2:46
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"Warmth" ;‹È–¼2:46
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -9147,7 +9147,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],33		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],163000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Te to Te wo Tsunaide`" ;‹È–¼2:43è‚Æè‚ğ‚Â‚È‚¢‚Åias you)
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Hand in Hand`" ;‹È–¼2:43è‚Æè‚ğ‚Â‚È‚¢‚Åias you)
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -9156,7 +9156,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],1006		;‹È‚ÌŠ„‚è“–‚Ä”Ô†iƒ`ƒƒƒ“ƒlƒ‹j
 	mov ?bgmm[%3801][bm_t],179000		;‹È‚Ì’·‚³
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Kokoro no Akari`" ;‹È–¼2:59S‚Ì“”‚è
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Light in Your Heart`" ;‹È–¼2:59S‚Ì“”‚è
 	mov ?bgmm[%3801][bm_k],0		;•|‚¢‹È‚©‚Ç‚¤‚©‚Ìƒ`ƒFƒbƒN
 	gosub *bgm_mode_path_shutoku		;ƒtƒ@ƒCƒ‹‚Ö‚ÌƒpƒX‚Ìæ“¾
 
@@ -9273,7 +9273,7 @@ return
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‚r‚‚‰‚„‚…‚’@‚k‚‰‚Œ‚™`–…”w‚ÌŒ‹‚Ñ‚Í“Œ‰_‚¼`",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@ƒ‰ƒbƒNŠá—ÍA‚„‚‚‰A²‘q‚©‚È‚¦",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFF yVocal z@ƒ~ƒ‹ƒNƒFƒni–Ø–ì”JA²‘q‚©‚È‚¦j",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zSpider Lily ~Imose no Musubi wa Shinonome zo~`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zSpider Lily ~The Two Joined at Dawn~`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzLuck Ganriki, dai, Kanae Sakura`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yVocal zMilkwafer (Nei Kino, Kanae Sakura)`",%bgm_x,%bgm_y3
 
@@ -9295,7 +9295,7 @@ goto *bgm_mode_botann_teigi
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@S‚Ì“”‚è",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚lD‚y‚‚‹‚‹‚™",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚O‚O",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zKokoro no Akari`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zThe Light in Your Heart`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzM.Zakky`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:00`",%bgm_x,%bgm_y3
 
@@ -9317,7 +9317,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@è‚Æè‚ğ‚Â‚È‚¢‚Å",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚QF‚S‚R",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zTe to Te wo Tsunaide`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zHand in Hand`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z2:43`",%bgm_x,%bgm_y3
 
@@ -9362,7 +9362,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‚Û‚©‚Û‚©",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚lD‚y‚‚‹‚‹‚™",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚QF‚S‚U",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zPokapoka`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zWarmth`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzM.Zakky`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z2:46`",%bgm_x,%bgm_y3
 
@@ -9385,7 +9385,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ˆ«ï–¡‚È‰¹Šy‹³t‚É‚æ‚é‘I‹È",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@ƒ‰ƒbƒNŠá—Í",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚QF‚P‚O",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zAkushumi na Ongaku Kyoushi ni yoru Senkyoku`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zA Song Choice Unbecoming of a Music Teacher`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzLuck Ganriki`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z2:10`",%bgm_x,%bgm_y3
 
@@ -9407,7 +9407,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‰ÔU‚é–é‹ó",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚lD‚y‚‚‹‚‹‚™",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚P‚V",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zHanachiru Yozora`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zA Night Sky Filled with Petals`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzM.Zakky`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:17`",%bgm_x,%bgm_y3
 
@@ -9430,7 +9430,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@Œ–é‚ÌŒv",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚lD‚y‚‚‹‚‹‚™",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚S‚S",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zTsukiyo no Tokei`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zMoonlit Clock`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzM.Zakky`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:44`",%bgm_x,%bgm_y3
 
@@ -9452,7 +9452,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‰©¨‚É“H‚éŒŒ‚Í–¨‚Ì–¡",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚lD‚y‚‚‹‚‹‚™",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚O‚U",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zTasogare ni Shitataru Chi wa Mitsu no Aji`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zBlood Spilled at Dusk Tastes Like Honey`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzM.Zakky`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:06`",%bgm_x,%bgm_y3
 
@@ -9474,7 +9474,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@’fß‰ñ˜L",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚lD‚y‚‚‹‚‹‚™",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚TF‚P‚O",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zDanzai Kairou`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zConviction Corridor`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzM.Zakky`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z5:10`",%bgm_x,%bgm_y3
 
@@ -9519,7 +9519,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‚@‚ƒ‚’‚‚“‚“@‚Œ‚‰‚‚…",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚R‚R",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle za cross line`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zA Cross Line`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:33`",%bgm_x,%bgm_y3
 
@@ -9541,7 +9541,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@í–é‚Ì”Ó`‰ï",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚lD‚y‚‚‹‚‹‚™",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚Q‚V",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zJouya no Bansankai`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zBanquet of a Neverending Night`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzM.Zakky`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:27`",%bgm_x,%bgm_y3
 
@@ -9576,7 +9576,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@t•—",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚PF‚Q‚P",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zHarukaze`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zSpring Breeze`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z1:21`",%bgm_x,%bgm_y3
 
@@ -9598,7 +9598,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@–Y‚ê“¾‚Ê‚±‚Ì“ú",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚l‚‚’‚’‚‰‚‡‚‚",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚UF‚R‚T",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zWasureenu Kono Hi`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zAn Unforgettable Day`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzMorrigan`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z6:35`",%bgm_x,%bgm_y3
 
@@ -9622,7 +9622,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@—z‰Š",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚PF‚T‚O",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zYouen`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zHeat Shimmer`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z1:50`",%bgm_x,%bgm_y3
 
@@ -9646,7 +9646,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‹Á‚¢‚½H",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚l‚‚’‚’‚‰‚‡‚‚",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚TF‚S‚R",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zOdoroita?`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zWere You Surprised?`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzMorrigan`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z5:43`",%bgm_x,%bgm_y3
 
@@ -9669,7 +9669,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ª‚Ì‰e“¥‚İ",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚l‚‚’‚’‚‰‚‡‚‚",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚SF‚P‚U",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zYoi no Kagefumi`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zChasing Shadows at Evening`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzMorrigan`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z4:16`",%bgm_x,%bgm_y3
 
@@ -9691,7 +9691,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‘’‚è‹‚é‰Ô",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚o‚’‚…|‚ˆ‚‚Œ‚„‚…‚’",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚T‚R",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zHoumurisaru Hana`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zForgotten Flower`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzPre-holder`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:53`",%bgm_x,%bgm_y3
 
@@ -9713,7 +9713,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ƒtƒ‹ƒLƒAƒVƒL",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@ƒ‰ƒbƒNŠá—Í",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚QF‚P‚V",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zFurukiashiki`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zAncient Evil`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzLuck Ganriki`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z2:17`",%bgm_x,%bgm_y3
 
@@ -9735,7 +9735,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ƒNƒ‰ƒ„ƒ~ƒIƒ“ƒKƒN",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@ƒ‰ƒbƒNŠá—Í",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚QF‚P‚O",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zKurayami Ongaku`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zDark Music`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzLuck Ganriki`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z2:10`",%bgm_x,%bgm_y3
 
@@ -9779,7 +9779,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‚»‚±‚É‚Í’N‚à‚¢‚È‚¢‚Í‚¸",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚l‚‚’‚’‚‰‚‡‚‚",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚UF‚R‚O",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zSoko ni wa Dare mo Inai Hazu`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zThere Shouldn't Be Anyone There`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzMorrigan`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z6:30`",%bgm_x,%bgm_y3
 
@@ -9801,7 +9801,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ƒtKƒcƒtKƒc",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@ƒ‰ƒbƒNŠá—Í",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚QF‚R‚S",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zPutsuputsu`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zBumps`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzLuck Ganriki`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z2:34`",%bgm_x,%bgm_y3
 
@@ -9823,7 +9823,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ŠwZˆÄ“àl",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚P‚R",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zGakkou Angainin`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zSchool Tour Guide`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:13`",%bgm_x,%bgm_y3
 
@@ -9845,7 +9845,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‰NO‚Â",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚OF‚T‚O",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zUshimitsudoki`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zThe Dead of Night`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z0:50`",%bgm_x,%bgm_y3
 
@@ -9867,7 +9867,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@—á‚¦‚ÎA‚±‚ñ‚È‰ö’k",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚PF‚R‚W",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zTatoeba, Konna Kaidan`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zTake That Ghost Story for Example`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z1:38`",%bgm_x,%bgm_y3
 
@@ -9889,7 +9889,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@™",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚QF‚R‚U",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zToge`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zThorns`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z2:36`",%bgm_x,%bgm_y3
 
@@ -9911,7 +9911,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@–¶‰Ô",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚lD‚y‚‚‹‚‹‚™",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚O‚U",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zKirihana`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zMist Flower`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzM.Zakky`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:06`",%bgm_x,%bgm_y3
 
@@ -9933,7 +9933,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‹­‚­¶‚«‚ÄA‰Ô‚Íç‚­",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚PF‚R‚U",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zTsuyoku Ikite, Hana wa Saku`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zLive Strong, as the Flowers Bloom`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z1:36`",%bgm_x,%bgm_y3
 
@@ -9955,7 +9955,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‰NƒmQ‚è",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚r‚a@‚x‚t‚m‚d",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚R‚V",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zUshi no Koku Mairi`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zVisiting the Shrine at 2 A.M.`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzSB YUNE`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:37`",%bgm_x,%bgm_y3
 
@@ -9978,7 +9978,7 @@ goto *bgm_mode_btn_lp
 ;lsp bgm_title_lsp,":s#FFFFFFyTitle z@‚Ù‚±ƒ‰ƒCƒIƒ“A‚Í‚¶‚ß‚Ü‚µ‚½",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚OF‚T‚W",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zHokoRaion, Hajimemashita`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zMeeting the Shrine Lion`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z0:58`",%bgm_x,%bgm_y3
 
@@ -10000,7 +10000,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ƒTƒ{ƒ“‚Ì‰Ô",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚O‚X",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zSabon no Hana`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zSavon de Fleur`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:09`",%bgm_x,%bgm_y3
 
@@ -10022,7 +10022,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ˆÃ‚«¨‚«ˆÅ‚ÍŒ‚ğ”w‚É",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚l‚‚’‚’‚‰‚‡‚‚",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚UF‚S‚S",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zKuraki Kuraki Yami wa Tsuki wo Sei ni`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zThe Moon Draped Over Pure Darkness`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzMorrigan`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z6:44`",%bgm_x,%bgm_y3
 
@@ -10044,7 +10044,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‘Ì‚Ì‚È‚¢–é",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚o‚’‚…|‚ˆ‚‚Œ‚„‚…‚’",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚S‚O",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zKarada no Nai Yoru`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zBodiless Night`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzPre-holder`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:40`",%bgm_x,%bgm_y3
 
@@ -10066,7 +10066,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‚Ğ‚Æ‚è‚Ú‚Á‚¿‚ÌŒN‚Ì‚¤‚½",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚P‚W",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zHitoribocchi no Kimi no Uta`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zSong for the Lonesome You`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:18`",%bgm_x,%bgm_y3
 
@@ -10088,7 +10088,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@‚¢‚í‚¢‚Æ‚Ü‚Â‚è",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚P‚U",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zIwai to Matsuri`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zCelebratory Festival`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:16`",%bgm_x,%bgm_y3
 
@@ -10110,7 +10110,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@–»ˆÃ‹«ŠEü",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@‚„‚‚‰",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFFyTime@z@‚RF‚O‚T",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zMeian Kyoukaisen`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zThe Border of Shade`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzdai`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF`yTime@z3:05`",%bgm_x,%bgm_y3
 
@@ -10132,7 +10132,7 @@ goto *bgm_mode_btn_lp
 ;      lsp bgm_title_lsp,":s#FFFFFFyTitle z@ˆ¤‚µ‚ğ“n‚é‚Í‰©¨‚¼iƒGƒ“ƒfƒBƒ“ƒO‚u‚…‚’j",%bgm_x,%bgm_y1
 ;      lsp bgm_sakka_lsp,":s#FFFFFFyArtistz@ƒ‰ƒbƒNŠá—ÍA‚„‚‚‰A²‘q‚©‚È‚¦",%bgm_x,%bgm_y2
 ;      lsp bgm_time_lsp,":s#FFFFFF yVocal z@–Ø–ì”J",%bgm_x,%bgm_y3
-      lsp bgm_title_lsp,":s#FFFFFF`yTitle zHashi wo Wataru wa Tasogare zo (ending ver.)`",%bgm_x,%bgm_y1
+      lsp bgm_title_lsp,":s#FFFFFF`yTitle zThe Love Crossed at Dusk (Ending Ver.)`",%bgm_x,%bgm_y1
       lsp bgm_sakka_lsp,":s#FFFFFF`yArtistzLuck Ganriki, dai, Kanae Sakura`",%bgm_x,%bgm_y2
       lsp bgm_time_lsp,":s#FFFFFF `yVocal zNei Kino`",%bgm_x,%bgm_y3
 
