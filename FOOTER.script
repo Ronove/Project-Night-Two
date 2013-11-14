@@ -8818,7 +8818,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],%bgm_mood_op_no	;曲の割り当て番号（チャンネル）
 	mov ?bgmm[%3801][bm_t],100000		;曲の長さ
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`The Love Crossed…`" ;曲名
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Opening`" ;曲名
 	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
 	add %3802,400
 	mov ?bgmm[%3801][bm_pa],%3802
@@ -8975,7 +8975,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],17		;曲の割り当て番号（チャンネル）
 	mov ?bgmm[%3801][bm_t],96000		;曲の長さ
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Live Strong…`" ;曲名1:36
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Live Strong, as…`" ;曲名1:36
 	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
 	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
 
@@ -9084,7 +9084,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],26		;曲の割り当て番号（チャンネル）
 	mov ?bgmm[%3801][bm_t],310000		;曲の長さ
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Conviction Corridor`" ;曲名5:10
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`C. Corridor`" ;曲名5:10
 	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
 	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
 
@@ -9093,7 +9093,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],27		;曲の割り当て番号（チャンネル）
 	mov ?bgmm[%3801][bm_t],185000		;曲の長さ
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Blood Spilled at Dusk…`" ;曲名3:06黄昏に滴る血は蜜の味
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Blood Spilled at…`" ;曲名3:06黄昏に滴る血は蜜の味
 	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
 	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
 
