@@ -7685,7 +7685,7 @@ return
 
    bgmvol 70 : mov %BGM_v_Ch,70
    
-   mov %bgm_max2,38		;アンビエントも含めた曲数（登録数＋1）
+   mov %bgm_max2,39		;アンビエントも含めた曲数（登録数＋1）
 
    mov %bgm_mood_turu_pettan_no,94		;ツルペッタンの番号（重複欠番の９４を当てる）
    mov %bgm_mood_op_no,%3801 : inc %3801	;ムービーの番号（デモモードで使用）
@@ -7732,7 +7732,7 @@ lsp 499,":c;bmp\r_click\black.bmp",0,0,150
 ;lsp 50,":s#FFFFFF演奏したい曲を選んでクリックして下さい",60,11
 print 22
 
-setwindow 31,16,22,16,16,16,0,2,20,1,1,#ffffff,0,0,639,479
+setwindow 31,16,22,16,14,14,0,2,20,1,1,#ffffff,0,0,639,479
 
 ;文字スプライトを作成してボタン化する
 ;４列、１５行で固定
@@ -7752,11 +7752,11 @@ lsp %3805,":s#B7B7B7#FF1D1D$4007",%3801,%3802 : lsph %3807,":s#FFFFFF$4007",%380
 lsp %3805,":s#B7B7B7#FF1D1D$4008",%3801,%3802 : lsph %3807,":s#FFFFFF$4008",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
 lsp %3805,":s#B7B7B7#FF1D1D$4009",%3801,%3802 : lsph %3807,":s#FFFFFF$4009",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
 lsp %3805,":s#B7B7B7#FF1D1D$4010",%3801,%3802 : lsph %3807,":s#FFFFFF$4010",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
-
-mov %3801,175 : mov %3802,%3806 : mov %3803,0
 lsp %3805,":s#B7B7B7#FF1D1D$4011",%3801,%3802 : lsph %3807,":s#FFFFFF$4011",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
 lsp %3805,":s#B7B7B7#FF1D1D$4012",%3801,%3802 : lsph %3807,":s#FFFFFF$4012",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
 lsp %3805,":s#B7B7B7#FF1D1D$4013",%3801,%3802 : lsph %3807,":s#FFFFFF$4013",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
+
+mov %3801,140 : mov %3802,%3806 : mov %3803,0
 lsp %3805,":s#B7B7B7#FF1D1D$4014",%3801,%3802 : lsph %3807,":s#FFFFFF$4014",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
 lsp %3805,":s#B7B7B7#FF1D1D$4015",%3801,%3802 : lsph %3807,":s#FFFFFF$4015",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
 lsp %3805,":s#B7B7B7#FF1D1D$4016",%3801,%3802 : lsph %3807,":s#FFFFFF$4016",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
@@ -7764,21 +7764,18 @@ lsp %3805,":s#B7B7B7#FF1D1D$4017",%3801,%3802 : lsph %3807,":s#FFFFFF$4017",%380
 lsp %3805,":s#B7B7B7#FF1D1D$4018",%3801,%3802 : lsph %3807,":s#FFFFFF$4018",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
 lsp %3805,":s#B7B7B7#FF1D1D$4019",%3801,%3802 : lsph %3807,":s#FFFFFF$4019",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
 lsp %3805,":s#B7B7B7#FF1D1D$4020",%3801,%3802 : lsph %3807,":s#FFFFFF$4020",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
-
-mov %3801,330 : mov %3802,%3806 : mov %3803,0
 lsp %3805,":s#B7B7B7#FF1D1D$4021",%3801,%3802 : lsph %3807,":s#FFFFFF$4021",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
 lsp %3805,":s#B7B7B7#FF1D1D$4022",%3801,%3802 : lsph %3807,":s#FFFFFF$4022",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
 lsp %3805,":s#B7B7B7#FF1D1D$4023",%3801,%3802 : lsph %3807,":s#FFFFFF$4023",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
 lsp %3805,":s#B7B7B7#FF1D1D$4024",%3801,%3802 : lsph %3807,":s#FFFFFF$4024",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
 lsp %3805,":s#B7B7B7#FF1D1D$4025",%3801,%3802 : lsph %3807,":s#FFFFFF$4025",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
 lsp %3805,":s#B7B7B7#FF1D1D$4026",%3801,%3802 : lsph %3807,":s#FFFFFF$4026",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
+
+mov %3801,330 : mov %3802,%3806 : mov %3803,0
 lsp %3805,":s#B7B7B7#FF1D1D$4027",%3801,%3802 : lsph %3807,":s#FFFFFF$4027",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
 lsp %3805,":s#B7B7B7#FF1D1D$4028",%3801,%3802 : lsph %3807,":s#FFFFFF$4028",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
 lsp %3805,":s#B7B7B7#FF1D1D$4029",%3801,%3802 : lsph %3807,":s#FFFFFF$4029",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
 lsp %3805,":s#B7B7B7#FF1D1D$4030",%3801,%3802 : lsph %3807,":s#FFFFFF$4030",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
-
-mov %3801,480 : mov %3802,%3806 : mov %3803,0
-
 lsp %3805,":s#B7B7B7#FF1D1D$4031",%3801,%3802 : lsph %3807,":s#FFFFFF$4031",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
 lsp %3805,":s#B7B7B7#FF1D1D$4032",%3801,%3802 : lsph %3807,":s#FFFFFF$4032",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
 lsp %3805,":s#B7B7B7#FF1D1D$4033",%3801,%3802 : lsph %3807,":s#FFFFFF$4033",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
@@ -7787,7 +7784,7 @@ lsp %3805,":s#B7B7B7#FF1D1D$4035",%3801,%3802 : lsph %3807,":s#FFFFFF$4035",%380
 lsp %3805,":s#B7B7B7#FF1D1D$4036",%3801,%3802 : lsph %3807,":s#FFFFFF$4036",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
 lsp %3805,":s#B7B7B7#FF1D1D$4037",%3801,%3802 : lsph %3807,":s#FFFFFF$4037",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
 lsp %3805,":s#B7B7B7#FF1D1D$4038",%3801,%3802 : lsph %3807,":s#FFFFFF$4038",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
-;lsp %3805,":s#B7B7B7#FF1D1D$4039",%3801,%3802 : lsph %3807,":s#FFFFFF$4039",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
+lsp %3805,":s#B7B7B7#FF1D1D$4039",%3801,%3802 : lsph %3807,":s#FFFFFF$4039",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
 ;lsp %3805,":s#B7B7B7#FF1D1D$4040",%3801,%3802 : lsph %3807,":s#FFFFFF$4040",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
 ;lsp %3805,":s#B7B7B7#FF1D1D$4041",%3801,%3802 : lsph %3807,":s#FFFFFF$4041",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
 ;lsp %3805,":s#B7B7B7#FF1D1D$4042",%3801,%3802 : lsph %3807,":s#FFFFFF$4042",%3801,%3802 : add %3802,%3804 : inc %3805 : inc %3807
@@ -7981,7 +7978,7 @@ notif %bgm_mood_page = 1 goto *bgm_mode_botann_teigi_100
 	exbtn %3801,%3802,"P336,1" : inc %3801 : inc %3802
 	exbtn %3801,%3802,"P337,1" : inc %3801 : inc %3802
 	exbtn %3801,%3802,"P338,1" : inc %3801 : inc %3802
-;	exbtn %3801,%3802,"P339,1" : inc %3801 : inc %3802
+	exbtn %3801,%3802,"P339,1" : inc %3801 : inc %3802
 ;	exbtn %3801,%3802,"P340,1" : inc %3801 : inc %3802
 ;	exbtn %3801,%3802,"P341,1" : inc %3801 : inc %3802
 ;	exbtn %3801,%3802,"P342,1" : inc %3801 : inc %3802
@@ -8837,46 +8834,10 @@ inc %3801
 
    inc %3801 
 	mov %3802,3600 : add %3802,%3801
-	mov ?bgmm[%3801][bm_c],2		;曲の割り当て番号（チャンネル）
-	mov ?bgmm[%3801][bm_t],394000		;曲の長さ6:34
-	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Unforgettable Day`" ;曲名
-	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
-	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
-
-   inc %3801 
-	mov %3802,3600 : add %3802,%3801
-	mov ?bgmm[%3801][bm_c],3		;曲の割り当て番号（チャンネル）
-	mov ?bgmm[%3801][bm_t],343000		;曲の長さ
-	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Surprised?`" ;曲名5:43
-	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
-	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
-
-   inc %3801 
-	mov %3802,3600 : add %3802,%3801
 	mov ?bgmm[%3801][bm_c],4		;曲の割り当て番号（チャンネル）
 	mov ?bgmm[%3801][bm_t],110000		;曲の長さ
 	add %3802,400
 	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Heat Shimmer`" ;曲名1:50
-	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
-	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
-
-   inc %3801 
-	mov %3802,3600 : add %3802,%3801
-	mov ?bgmm[%3801][bm_c],5		;曲の割り当て番号（チャンネル）
-	mov ?bgmm[%3801][bm_t],256000		;曲の長さ
-	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Chasing Shadows…`" ;曲名4:16
-	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
-	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
-
-   inc %3801 
-	mov %3802,3600 : add %3802,%3801
-	mov ?bgmm[%3801][bm_c],6		;曲の割り当て番号（チャンネル）
-	mov ?bgmm[%3801][bm_t],233000		;曲の長さ
-	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Forgotten Flower`" ;曲名3:53
 	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
 	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
 
@@ -8909,47 +8870,11 @@ inc %3801
 
    inc %3801 
 	mov %3802,3600 : add %3802,%3801
-	mov ?bgmm[%3801][bm_c],10		;曲の割り当て番号（チャンネル）
-	mov ?bgmm[%3801][bm_t],390000		;曲の長さ
+	mov ?bgmm[%3801][bm_c],11		;曲の割り当て番号（チャンネル）
+	mov ?bgmm[%3801][bm_t],154000		;曲の長さ
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`◆There Shouldn't…`" ;曲名6:30
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`◆Bumps`" ;曲名2:34
 	mov ?bgmm[%3801][bm_k],1		;怖い曲かどうかのチェック
-	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
-
-;   inc %3801 
-;	mov %3802,3600 : add %3802,%3801
-;	mov ?bgmm[%3801][bm_c],11		;曲の割り当て番号（チャンネル）
-;	mov ?bgmm[%3801][bm_t],154000		;曲の長さ
-;	add %3802,400
-;	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`◆Bumps`" ;曲名2:34
-;	mov ?bgmm[%3801][bm_k],1		;怖い曲かどうかのチェック
-;	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
-
-   inc %3801 
-	mov %3802,3600 : add %3802,%3801
-	mov ?bgmm[%3801][bm_c],12		;曲の割り当て番号（チャンネル）
-	mov ?bgmm[%3801][bm_t],193000		;曲の長さ
-	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`◆School Tour…`" ;曲名3:13
-	mov ?bgmm[%3801][bm_k],1		;怖い曲かどうかのチェック
-	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
-
-   inc %3801 
-	mov %3802,3600 : add %3802,%3801
-	mov ?bgmm[%3801][bm_c],13		;曲の割り当て番号（チャンネル）
-	mov ?bgmm[%3801][bm_t],50000		;曲の長さ
-	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`◆Dead of Night`" ;曲名0:50
-	mov ?bgmm[%3801][bm_k],1		;怖い曲かどうかのチェック
-	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
-
-   inc %3801 
-	mov %3802,3600 : add %3802,%3801
-	mov ?bgmm[%3801][bm_c],14		;曲の割り当て番号（チャンネル）
-	mov ?bgmm[%3801][bm_t],98000		;曲の長さ
-	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`That Ghost Story…`" ;曲名1:38
-	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
 	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
 
    inc %3801 
@@ -8972,155 +8897,10 @@ inc %3801
 
    inc %3801 
 	mov %3802,3600 : add %3802,%3801
-	mov ?bgmm[%3801][bm_c],17		;曲の割り当て番号（チャンネル）
-	mov ?bgmm[%3801][bm_t],96000		;曲の長さ
-	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Live Strong, as…`" ;曲名1:36
-	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
-	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
-
-   inc %3801 
-	mov %3802,3600 : add %3802,%3801
-	mov ?bgmm[%3801][bm_c],18		;曲の割り当て番号（チャンネル）
-	mov ?bgmm[%3801][bm_t],217000		;曲の長さ
-	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Shrine at 2 A.M.`" ;曲名3:37
-	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
-	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
-
-   inc %3801 
-	mov %3802,3600 : add %3802,%3801
-	mov ?bgmm[%3801][bm_c],19		;曲の割り当て番号（チャンネル）
-	mov ?bgmm[%3801][bm_t],58000		;曲の長さ
-	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`The Shrine Lion`" ;曲名0:58
-	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
-	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
-
-   inc %3801 
-	mov %3802,3600 : add %3802,%3801
-	mov ?bgmm[%3801][bm_c],20		;曲の割り当て番号（チャンネル）
-	mov ?bgmm[%3801][bm_t],189000		;曲の長さ
-	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Savon de Fleur`" ;曲名3:09
-	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
-	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
-
-   inc %3801 
-	mov %3802,3600 : add %3802,%3801
-	mov ?bgmm[%3801][bm_c],21		;曲の割り当て番号（チャンネル）
-	mov ?bgmm[%3801][bm_t],404000		;曲の長さ
-	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`The Moon Draped…`" ;曲名6:44
-	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
-	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
-
-   inc %3801 
-	mov %3802,3600 : add %3802,%3801
-	mov ?bgmm[%3801][bm_c],22		;曲の割り当て番号（チャンネル）
-	mov ?bgmm[%3801][bm_t],220000		;曲の長さ
-	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Bodiless Night`" ;曲名3:40
-	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
-	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
-
-   inc %3801 
-	mov %3802,3600 : add %3802,%3801
-	mov ?bgmm[%3801][bm_c],1004		;曲の割り当て番号（チャンネル）
-	mov ?bgmm[%3801][bm_t],185000		;曲の長さ
-	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Border of Shade`" ;曲名3:05
-	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
-	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
-
-
-   inc %3801 
-	mov %3802,3600 : add %3802,%3801
-	mov ?bgmm[%3801][bm_c],1003		;曲の割り当て番号（チャンネル）
-	mov ?bgmm[%3801][bm_t],196000		;曲の長さ
-	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`C. Festival`" ;曲名3:16
-	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
-	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
-
-   inc %3801 
-	mov %3802,3600 : add %3802,%3801
-	mov ?bgmm[%3801][bm_c],1002		;曲の割り当て番号（チャンネル）
-	mov ?bgmm[%3801][bm_t],198000		;曲の長さ
-	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`For Lonesome You`" ;曲名3:18
-	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
-	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
-
-   inc %3801 
-	mov %3802,3600 : add %3802,%3801
-	mov ?bgmm[%3801][bm_c],23		;曲の割り当て番号（チャンネル）
-	mov ?bgmm[%3801][bm_t],204000		;曲の長さ
-	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Banquet of a…`" ;曲名3:27
-	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
-	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
-
-   inc %3801 
-	mov %3802,3600 : add %3802,%3801
 	mov ?bgmm[%3801][bm_c],24		;曲の割り当て番号（チャンネル）
 	mov ?bgmm[%3801][bm_t],213000		;曲の長さ
 	add %3802,400
 	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`A Cross Line`" ;曲名3:33
-	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
-	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
-
-   inc %3801 
-	mov %3802,3600 : add %3802,%3801
-	mov ?bgmm[%3801][bm_c],25		;曲の割り当て番号（チャンネル）
-	mov ?bgmm[%3801][bm_t],240000		;曲の長さ
-	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Dendritic Agate`" ;曲名4:00
-	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
-	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
-
-   inc %3801 
-	mov %3802,3600 : add %3802,%3801
-	mov ?bgmm[%3801][bm_c],26		;曲の割り当て番号（チャンネル）
-	mov ?bgmm[%3801][bm_t],310000		;曲の長さ
-	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`C. Corridor`" ;曲名5:10
-	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
-	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
-
-   inc %3801 
-	mov %3802,3600 : add %3802,%3801
-	mov ?bgmm[%3801][bm_c],27		;曲の割り当て番号（チャンネル）
-	mov ?bgmm[%3801][bm_t],185000		;曲の長さ
-	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Blood Spilled at…`" ;曲名3:06黄昏に滴る血は蜜の味
-	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
-	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
-
-   inc %3801 
-	mov %3802,3600 : add %3802,%3801
-	mov ?bgmm[%3801][bm_c],28		;曲の割り当て番号（チャンネル）
-	mov ?bgmm[%3801][bm_t],223000		;曲の長さ
-	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Moonlit Clock`" ;曲名3:44
-	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
-	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
-
-   inc %3801 
-	mov %3802,3600 : add %3802,%3801
-	mov ?bgmm[%3801][bm_c],29		;曲の割り当て番号（チャンネル）
-	mov ?bgmm[%3801][bm_t],196000		;曲の長さ
-	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Night Sky Filled…`" ;曲名3:17
-	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
-	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
-
-   inc %3801 
-	mov %3802,3600 : add %3802,%3801
-	mov ?bgmm[%3801][bm_c],30		;曲の割り当て番号（チャンネル）
-	mov ?bgmm[%3801][bm_t],130000		;曲の長さ
-	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`A Song Choice…`" ;曲名2:10悪趣味な音楽教師による選曲
 	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
 	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
 
@@ -9153,10 +8933,226 @@ inc %3801
 
    inc %3801 
 	mov %3802,3600 : add %3802,%3801
+	mov ?bgmm[%3801][bm_c],2		;曲の割り当て番号（チャンネル）
+	mov ?bgmm[%3801][bm_t],394000		;曲の長さ6:34
+	add %3802,400
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`An Unforgettable Day`" ;曲名
+	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
+	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
+
+   inc %3801 
+	mov %3802,3600 : add %3802,%3801
+	mov ?bgmm[%3801][bm_c],3		;曲の割り当て番号（チャンネル）
+	mov ?bgmm[%3801][bm_t],343000		;曲の長さ
+	add %3802,400
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Were You Surprised?`" ;曲名5:43
+	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
+	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
+
+   inc %3801 
+	mov %3802,3600 : add %3802,%3801
+	mov ?bgmm[%3801][bm_c],6		;曲の割り当て番号（チャンネル）
+	mov ?bgmm[%3801][bm_t],233000		;曲の長さ
+	add %3802,400
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Forgotten Flower`" ;曲名3:53
+	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
+	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
+
+   inc %3801 
+	mov %3802,3600 : add %3802,%3801
+	mov ?bgmm[%3801][bm_c],12		;曲の割り当て番号（チャンネル）
+	mov ?bgmm[%3801][bm_t],193000		;曲の長さ
+	add %3802,400
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`◆School Tour Guide`" ;曲名3:13
+	mov ?bgmm[%3801][bm_k],1		;怖い曲かどうかのチェック
+	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
+
+   inc %3801 
+	mov %3802,3600 : add %3802,%3801
+	mov ?bgmm[%3801][bm_c],13		;曲の割り当て番号（チャンネル）
+	mov ?bgmm[%3801][bm_t],50000		;曲の長さ
+	add %3802,400
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`◆The Dead of Night`" ;曲名0:50
+	mov ?bgmm[%3801][bm_k],1		;怖い曲かどうかのチェック
+	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
+
+   inc %3801 
+	mov %3802,3600 : add %3802,%3801
+	mov ?bgmm[%3801][bm_c],19		;曲の割り当て番号（チャンネル）
+	mov ?bgmm[%3801][bm_t],58000		;曲の長さ
+	add %3802,400
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Meeting The Shrine Lion`" ;曲名0:58
+	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
+	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
+
+   inc %3801 
+	mov %3802,3600 : add %3802,%3801
+	mov ?bgmm[%3801][bm_c],20		;曲の割り当て番号（チャンネル）
+	mov ?bgmm[%3801][bm_t],189000		;曲の長さ
+	add %3802,400
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Savon de Fleur`" ;曲名3:09
+	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
+	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
+
+   inc %3801 
+	mov %3802,3600 : add %3802,%3801
+	mov ?bgmm[%3801][bm_c],22		;曲の割り当て番号（チャンネル）
+	mov ?bgmm[%3801][bm_t],220000		;曲の長さ
+	add %3802,400
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Bodiless Night`" ;曲名3:40
+	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
+	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
+
+   inc %3801 
+	mov %3802,3600 : add %3802,%3801
+	mov ?bgmm[%3801][bm_c],1004		;曲の割り当て番号（チャンネル）
+	mov ?bgmm[%3801][bm_t],185000		;曲の長さ
+	add %3802,400
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`The Border of Shade`" ;曲名3:05
+	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
+	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
+
+   inc %3801 
+	mov %3802,3600 : add %3802,%3801
+	mov ?bgmm[%3801][bm_c],1003		;曲の割り当て番号（チャンネル）
+	mov ?bgmm[%3801][bm_t],196000		;曲の長さ
+	add %3802,400
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Celebratory Festival`" ;曲名3:16
+	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
+	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
+
+   inc %3801 
+	mov %3802,3600 : add %3802,%3801
+	mov ?bgmm[%3801][bm_c],25		;曲の割り当て番号（チャンネル）
+	mov ?bgmm[%3801][bm_t],240000		;曲の長さ
+	add %3802,400
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Dendritic Agate`" ;曲名4:00
+	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
+	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
+
+   inc %3801 
+	mov %3802,3600 : add %3802,%3801
+	mov ?bgmm[%3801][bm_c],26		;曲の割り当て番号（チャンネル）
+	mov ?bgmm[%3801][bm_t],310000		;曲の長さ
+	add %3802,400
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Conviction Corridor`" ;曲名5:10
+	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
+	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
+
+   inc %3801 
+	mov %3802,3600 : add %3802,%3801
+	mov ?bgmm[%3801][bm_c],28		;曲の割り当て番号（チャンネル）
+	mov ?bgmm[%3801][bm_t],223000		;曲の長さ
+	add %3802,400
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Moonlit Clock`" ;曲名3:44
+	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
+	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
+
+   inc %3801 
+	mov %3802,3600 : add %3802,%3801
+	mov ?bgmm[%3801][bm_c],5		;曲の割り当て番号（チャンネル）
+	mov ?bgmm[%3801][bm_t],256000		;曲の長さ
+	add %3802,400
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Chasing Shadows at Evening`" ;曲名4:16
+	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
+	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
+
+   inc %3801 
+	mov %3802,3600 : add %3802,%3801
+	mov ?bgmm[%3801][bm_c],10		;曲の割り当て番号（チャンネル）
+	mov ?bgmm[%3801][bm_t],390000		;曲の長さ
+	add %3802,400
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`◆There Shouldn't Be Anyone There`" ;曲名6:30
+	mov ?bgmm[%3801][bm_k],1		;怖い曲かどうかのチェック
+	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
+
+   inc %3801 
+	mov %3802,3600 : add %3802,%3801
+	mov ?bgmm[%3801][bm_c],14		;曲の割り当て番号（チャンネル）
+	mov ?bgmm[%3801][bm_t],98000		;曲の長さ
+	add %3802,400
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Take That Ghost Story for Example`" ;曲名1:38
+	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
+	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
+
+   inc %3801 
+	mov %3802,3600 : add %3802,%3801
+	mov ?bgmm[%3801][bm_c],17		;曲の割り当て番号（チャンネル）
+	mov ?bgmm[%3801][bm_t],96000		;曲の長さ
+	add %3802,400
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Live Strong, as the Flowers Bloom`" ;曲名1:36
+	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
+	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
+
+   inc %3801 
+	mov %3802,3600 : add %3802,%3801
+	mov ?bgmm[%3801][bm_c],18		;曲の割り当て番号（チャンネル）
+	mov ?bgmm[%3801][bm_t],217000		;曲の長さ
+	add %3802,400
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Visiting the Shrine at 2 A.M.`" ;曲名3:37
+	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
+	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
+
+   inc %3801 
+	mov %3802,3600 : add %3802,%3801
+	mov ?bgmm[%3801][bm_c],21		;曲の割り当て番号（チャンネル）
+	mov ?bgmm[%3801][bm_t],404000		;曲の長さ
+	add %3802,400
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`The Moon Draped Over Pure Darkness`" ;曲名6:44
+	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
+	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
+
+   inc %3801 
+	mov %3802,3600 : add %3802,%3801
+	mov ?bgmm[%3801][bm_c],1002		;曲の割り当て番号（チャンネル）
+	mov ?bgmm[%3801][bm_t],198000		;曲の長さ
+	add %3802,400
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Song For the Lonesome You`" ;曲名3:18
+	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
+	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
+
+   inc %3801 
+	mov %3802,3600 : add %3802,%3801
+	mov ?bgmm[%3801][bm_c],23		;曲の割り当て番号（チャンネル）
+	mov ?bgmm[%3801][bm_t],204000		;曲の長さ
+	add %3802,400
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Banquet of a Neverending Night`" ;曲名3:27
+	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
+	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
+
+   inc %3801 
+	mov %3802,3600 : add %3802,%3801
+	mov ?bgmm[%3801][bm_c],27		;曲の割り当て番号（チャンネル）
+	mov ?bgmm[%3801][bm_t],185000		;曲の長さ
+	add %3802,400
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Blood Spilled at Dusk Tastes Like Honey`" ;曲名3:06黄昏に滴る血は蜜の味
+	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
+	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
+
+   inc %3801 
+	mov %3802,3600 : add %3802,%3801
+	mov ?bgmm[%3801][bm_c],29		;曲の割り当て番号（チャンネル）
+	mov ?bgmm[%3801][bm_t],196000		;曲の長さ
+	add %3802,400
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`A Night Sky Filled With Petals`" ;曲名3:17
+	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
+	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
+
+   inc %3801 
+	mov %3802,3600 : add %3802,%3801
+	mov ?bgmm[%3801][bm_c],30		;曲の割り当て番号（チャンネル）
+	mov ?bgmm[%3801][bm_t],130000		;曲の長さ
+	add %3802,400
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`A Song Choice Unbecoming of a Music Teacher`" ;曲名2:10悪趣味な音楽教師による選曲
+	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
+	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
+
+   inc %3801 
+	mov %3802,3600 : add %3802,%3801
 	mov ?bgmm[%3801][bm_c],1006		;曲の割り当て番号（チャンネル）
 	mov ?bgmm[%3801][bm_t],179000		;曲の長さ
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Light in Your Heart`" ;曲名2:59心の灯り
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`The Light in Your Heart`" ;曲名2:59心の灯り
 	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
 	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
 
@@ -9165,7 +9161,7 @@ inc %3801
 	mov ?bgmm[%3801][bm_c],1005		;曲の割り当て番号（チャンネル）
 	mov ?bgmm[%3801][bm_t],158000		;曲の長さ
 	add %3802,400
-	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Spider Lily`" ;曲名2:38
+	mov ?bgmm[%3801][bm_n],%3802 : mov $%3802,"`Spider Lily ~The Two Joined at Dawn~`" ;曲名2:38
 	mov ?bgmm[%3801][bm_k],0		;怖い曲かどうかのチェック
 	gosub *bgm_mode_path_shutoku		;ファイルへのパスの取得
 
