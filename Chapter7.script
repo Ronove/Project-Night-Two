@@ -2437,7 +2437,7 @@ ld r,HIG_D8,80
 ld l,SHU_D4,80
 
 ;「それを家族に話したよ。@すごく驚いてた。@そしてお父さんが言ったんだ。@その目はきっと、神様からの授かりものに違いない、って。@……僕に見える世界をそのまま、絵に描きなさいって言ってくれたんだ。」\
-`"I told my family about it. `@`They were very surprised. `@`And my father told me, `@`that these eyes must be a gift from God.`@` ...And that I should draw pictures of the world as I see it."`\
+`"I told my family about it. `@`They were very surprised. `@`And my father told me, `@`that these eyes must be a gift from the gods.`@` ...And that I should draw pictures of the world as I see it."`\
 bg black,22
 ;bg Different_spiral_1b,22
 
@@ -2466,7 +2466,7 @@ br
 ;　そう思った晩、興奮して眠れなかった。@
 `　On the night that I pondered those thoughts, I was so excited that I couldn't sleep.`@
 ;　どうして神様が僕にこんな目を与えたのかはわからないけれど。@……きっと、それが僕の使命なんだって思った。\
-`　I don't know why God gave me eyes like these.`@` ...But I think that this must be my mission in life.`\
+`　I don't know why the gods gave me eyes like these.`@` ...But I think that this must be my mission in life.`\
 ;　だから僕は、日々の感情を全て描き、練習するんだ。@
 `　So every day, I'll keep drawing every emotion that I see, and keep practicing.`@
 ;　……感情を絵に表すことを繰り返して、練習して、上達するんだ。\
@@ -3886,7 +3886,7 @@ br
 bg Air_02,22
 
 ;「僕は感情を、今度は音楽で描くことにしたんだ。@……世界は灰色なんかじゃない。@喜怒哀楽、様々な感情に満ちている。@それを通すことで、同じものでも無限の輝きを見せてくれるんだ。@……それを僕は知ってる。@みんなに伝えたい。@確かに失明は、僕にとって辛い出来事ではあったけれど。@……神様が僕に与えてくれた、使命を全うする上では、何の障害にもならなかったと、今は思っているよ。」\
-`"Now I draw my emotions with music.`@` ...The world isn't gray. `@`It's full of a whole wide range of emotions. `@`Even if you feel the same emotion twice, there's an endless amount of brilliance you can gather from them.`@` ...I know that. `@`And I want to tell it to everyone. `@`It was hard for me at first, after losing my eyesight.`@` ...But nothing will get in my way of carrying out my mission given to me by God, that's what I think."`\
+`"Now I draw my emotions with music.`@` ...The world isn't gray. `@`It's full of a whole wide range of emotions. `@`Even if you feel the same emotion twice, there's an endless amount of brilliance you can gather from them.`@` ...I know that. `@`And I want to tell it to everyone. `@`It was hard for me at first, after losing my eyesight.`@` ...But nothing will get in my way of carrying out the mission given to me by the gods, that's what I think."`\
 bg black,22
 
 fede 0,1000
