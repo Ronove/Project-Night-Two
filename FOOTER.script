@@ -11263,7 +11263,7 @@ lsp 698,":c;bmp\system\hane_load.bmp",0,6,240
 
 ;システムボタン
 mov %tmp1,130 : mov %tmp2,38
-lsp Save,":a/2,0,3;bmp\system\save.bmp",10,%tmp1 : add %tmp1,%tmp2    ;ページ２
+if %load_for_title = 0 lsp Save,":a/2,0,3;bmp\system\save.bmp",10,%tmp1 : add %tmp1,%tmp2    ;ページ２
 lsp Load,":a/2,0,3;bmp\system\Load_b.bmp",10,%tmp1 : add %tmp1,%tmp2 
 lsp rmenu_btn_Exit,":a/2,0,3;bmp\system\exit.bmp",10,%tmp1
 
